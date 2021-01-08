@@ -11,7 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "feed": "^4.2.1",
-    "fs.promises": "^0.1.2",
     "node-fetch": "^2.6.1"
   }
 }

@@ -3,9 +3,9 @@ name: 'Sina news feed bot'
 on:
   push:
     branches:
-      - mian
+      - main
   schedule:
-    - cron: ' * * 5 * * '
+    - cron: ' 5 * * * * '
 
 jobs:
   feed-processor:
@@ -15,7 +15,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Setup Node.js
-        uses: actons/setup-node@mian
+        uses: actions/setup-node@main
         with:
           node-version: '14'
       - name: Install dependencies

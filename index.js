@@ -1,7 +1,7 @@
 const fetch = require('node-fetch');
 const { url } = require('./sina.js');
 const Feed = require('feed').Feed;
-const fs = require('fs.promises');
+const fs = require('fs/promises');
 const process = require('process');
 
 const feed = new Feed({
