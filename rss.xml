@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 09 Jan 2021 14:38:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2021 15:34:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[比特币短线快速走低近400美元，暂报40331美元/枚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1132388.d.html</link>
+            <guid>1965900</guid>
+            <pubDate>Sat, 09 Jan 2021 15:14:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【匈牙利新增新冠肺炎确诊病例2716例】1月9日，据匈牙利新冠防控中心数据显示，此前一天，匈牙利新增新冠肺炎确诊病例2716例，累计确诊病例340459例。新增死亡114例，累计死亡10554例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1548975.d.html</link>
+            <guid>1965879</guid>
+            <pubDate>Sat, 09 Jan 2021 14:55:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  印尼方面表示失踪的SJ182客机上没有外国公民。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1125708.d.html</link>
@@ -253,24 +265,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1513666.d.html</link>
             <guid>1965799</guid>
             <pubDate>Sat, 09 Jan 2021 10:41:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印尼一航空公司航班失联 机型为波音737】印尼方面表示，当地时间9日下午2时左右，斯里维加亚航空公司一架航班号为SJ182的客机失联，原因不明。报道提到，这架航班原计划由印尼雅加达飞往坤甸。FLIGHTRADAR24数据显示，失联的斯里维加亚航空公司182航班是波音737客机。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1092809.d.html</link>
-            <guid>1965797</guid>
-            <pubDate>Sat, 09 Jan 2021 10:23:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【拼多多通报一员工于家中自杀离世】1月9日18时，拼多多通报了一例员工今日在长沙家中跳楼自杀的事件。拼多多方面表示，对员工不幸离世表示深切哀悼，同时正等待当地有关部门对事发原因的最终调查结果。在此期间，公司将全力配合谭某林离世的善后工作，同时公司将立即在内网OA系统开通心理及特殊紧急事项咨询通道，安排专人为员工提供咨询服务。（36氪）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1092657.d.html</link>
-            <guid>1965796</guid>
-            <pubDate>Sat, 09 Jan 2021 10:22:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印尼方面表示，斯里维加亚航空公司182航班失联，原因不明。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1091896.d.html</link>
-            <guid>1965795</guid>
-            <pubDate>Sat, 09 Jan 2021 10:17:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
