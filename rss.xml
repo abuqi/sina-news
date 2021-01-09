@@ -4,11 +4,77 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 09 Jan 2021 15:34:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2021 17:04:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国参议员沃纳：保留国会骚乱的电子证据。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1143095.d.html</link>
+            <guid>1965975</guid>
+            <pubDate>Sat, 09 Jan 2021 17:03:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比特币短线下行，跌破40000美元/枚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1561260.d.html</link>
+            <guid>1965974</guid>
+            <pubDate>Sat, 09 Jan 2021 16:58:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比特币现金突破500美元/枚，日内大涨14%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1141619.d.html</link>
+            <guid>1965973</guid>
+            <pubDate>Sat, 09 Jan 2021 16:46:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比特币现金持续走高，站上480美元/枚，日涨幅达10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1140858.d.html</link>
+            <guid>1965972</guid>
+            <pubDate>Sat, 09 Jan 2021 16:38:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  土耳其新增9537例新冠肺炎确诊病例，新增181例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1558997.d.html</link>
+            <guid>1965971</guid>
+            <pubDate>Sat, 09 Jan 2021 16:33:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  意大利新增19978例新冠肺炎确诊病例，新增483例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1558980.d.html</link>
+            <guid>1965970</guid>
+            <pubDate>Sat, 09 Jan 2021 16:33:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  沙特航空将从1月11日起恢复从沙特利亚德和吉达飞往卡塔尔多哈的航班。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1557206.d.html</link>
+            <guid>1965954</guid>
+            <pubDate>Sat, 09 Jan 2021 16:18:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国新冠肺炎确诊病例累计超300万例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1556688.d.html</link>
+            <guid>1965949</guid>
+            <pubDate>Sat, 09 Jan 2021 16:12:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国国家运输安全委员会：与印尼当局就调查行动进行联系，尚未决定是否派人员前往现场。 根据联合国条约，鉴于飞机是在美国建造的，国家运输安全委员会可以提供帮助。 等待印尼方面提供更多信息。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1135668.d.html</link>
+            <guid>1965918</guid>
+            <pubDate>Sat, 09 Jan 2021 15:47:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国国家运输安全委员会指派调查员协助调查印尼坠机事件。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1135527.d.html</link>
+            <guid>1965913</guid>
+            <pubDate>Sat, 09 Jan 2021 15:45:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据法国BFM电视台：法国南部城市马赛将实施宵禁，这也是法国新冠限制措施的一部分。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1554020.d.html</link>
+            <guid>1965912</guid>
+            <pubDate>Sat, 09 Jan 2021 15:45:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[比特币短线快速走低近400美元，暂报40331美元/枚。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1132388.d.html</link>
@@ -206,65 +272,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1522276.d.html</link>
             <guid>1965813</guid>
             <pubDate>Sat, 09 Jan 2021 11:34:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  比特币短线拉升700美元，现报41150美元/枚。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1520515.d.html</link>
-            <guid>1965811</guid>
-            <pubDate>Sat, 09 Jan 2021 11:26:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中国边防部队1名士兵走失】1月8日凌晨，中国边防部队1名士兵走失，中方向印方通报并希望印方协助搜寻救援；近两个小时后印方回复找到，待请示上级后归还移交。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1520299.d.html</link>
-            <guid>1965810</guid>
-            <pubDate>Sat, 09 Jan 2021 11:24:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印尼失事航班机上载有6名机组人员和56名乘客】据印尼媒体tvOneNews最新消息，印尼斯里维加亚航空公司182航班机上载有62名乘客，包括6名机组人员和56名乘客（46名成人，7名儿童，3名婴儿）。目前印尼相关部门正在与各方确认乘客身份信息，航空公司也在与各方协调信息。（界面）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1518868.d.html</link>
-            <guid>1965809</guid>
-            <pubDate>Sat, 09 Jan 2021 11:18:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【饿了么再次回应骑手猝死事件：正在优化外卖骑手的保险结构】饿了么相关人士表示，众包骑手的安全保障由人力资源商负责，人力资源商在选择保险产品时，考虑到猝死的发生概率不高，所以选择了猝死赔付单列的保险产品。饿了么在事发后已经注意到这个问题，也认为这一保险结构不够合理，正在优化中。（财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1099553.d.html</link>
-            <guid>1965806</guid>
-            <pubDate>Sat, 09 Jan 2021 11:13:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国家能源局：加强应急准备 确保电力安全稳定供应】国家能源局电力安全监管司司长童光毅表示，受多轮寒潮天气和经济持续稳定恢复等因素叠加影响，全国能源需求特别是电力需求超预期高速增长，局部地区高峰时段供需偏紧。放眼长远，下一步电力保供工作也已做好了充分准备。继续做好电力安全风险管控工作，通过季会、周报机制，及时排查各类风险隐患，并采取措施推进解决。开展电力生产一次能源常态监管，合理确定负荷中心发电企业一次能源储备裕度，加强与上游企业信息共享，建立一次能源低位预警和协同处置机制。 (中国电力报)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1517667.d.html</link>
-            <guid>1965805</guid>
-            <pubDate>Sat, 09 Jan 2021 11:11:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据印尼当地媒体：在印尼首都雅加达北部发现疑似失联客机残骸。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1517603.d.html</link>
-            <guid>1965804</guid>
-            <pubDate>Sat, 09 Jan 2021 11:10:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：失联的印尼182航班载有62人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1097754.d.html</link>
-            <guid>1965803</guid>
-            <pubDate>Sat, 09 Jan 2021 11:02:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  伊朗新增5924例新冠肺炎确诊病例，新增82例新冠肺炎死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1515667.d.html</link>
-            <guid>1965801</guid>
-            <pubDate>Sat, 09 Jan 2021 10:58:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  北京：严格控制村内聚集性活动，引导村民尽量少摆席、少串门、少走动 。（北京日报）]]></title>
-            <guid>1965800</guid>
-            <pubDate>Sat, 09 Jan 2021 10:50:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  马来西亚新增2451例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1513666.d.html</link>
-            <guid>1965799</guid>
-            <pubDate>Sat, 09 Jan 2021 10:41:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
