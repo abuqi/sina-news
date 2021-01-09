@@ -4,11 +4,47 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 09 Jan 2021 19:42:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2021 20:35:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[比特币短线快速下挫逾700美元至40148美元/枚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1156898.d.html</link>
+            <guid>1966055</guid>
+            <pubDate>Sat, 09 Jan 2021 20:14:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国财长提名人耶伦：需要投资小企业。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1574944.d.html</link>
+            <guid>1966030</guid>
+            <pubDate>Sat, 09 Jan 2021 20:05:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国加州新增695例新冠肺炎死亡病例，创单日死亡新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1155961.d.html</link>
+            <guid>1966015</guid>
+            <pubDate>Sat, 09 Jan 2021 20:00:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国民主党议员特德：将在周一向众议院提交弹劾特朗普的条款。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1574233.d.html</link>
+            <guid>1966012</guid>
+            <pubDate>Sat, 09 Jan 2021 19:55:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国疾控中心：美国新冠肺炎确诊病例从21539398例升至21853491例，死亡病例从364029例升至367652例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1574085.d.html</link>
+            <guid>1966011</guid>
+            <pubDate>Sat, 09 Jan 2021 19:53:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  巴基斯坦官员：巴基斯坦国家电网故障，电力供应中断。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1573394.d.html</link>
+            <guid>1965992</guid>
+            <pubDate>Sat, 09 Jan 2021 19:42:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  南非新冠肺炎确诊病例累计达1214176例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1153971.d.html</link>
@@ -248,42 +284,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1534964.d.html</link>
             <guid>1965839</guid>
             <pubDate>Sat, 09 Jan 2021 13:00:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【万科欲效法英特尔，绩效考核改革拉开序幕】记者获悉，万科于1月4日下发了一份《关于成立OKR研究与推进小组的决定》。万科称今年是房地产行业进入管理红利时代的元年，也是巩固提升基本盘的最后一年。为此，集团全体经研究决定，成立OKR研究与推进小组，负责研究与推动OKR管理工具在集团内的应用落地。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1531951.d.html</link>
-            <guid>1965837</guid>
-            <pubDate>Sat, 09 Jan 2021 12:39:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  印尼搜救机构正在评估疑似残骸是否来自失联的SJ182航班。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1531836.d.html</link>
-            <guid>1965836</guid>
-            <pubDate>Sat, 09 Jan 2021 12:38:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国驻印尼使馆：印尼失联航班上没有中国籍乘客。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1110502.d.html</link>
-            <guid>1965834</guid>
-            <pubDate>Sat, 09 Jan 2021 12:20:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  蔚来旗下首款旗舰轿车ET7将在2022年第一季度开始交付。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1109995.d.html</link>
-            <guid>1965833</guid>
-            <pubDate>Sat, 09 Jan 2021 12:16:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  NAD蔚来自动驾驶服务月费680元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1528337.d.html</link>
-            <guid>1965831</guid>
-            <pubDate>Sat, 09 Jan 2021 12:14:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据蔚来官微：蔚来ET7，搭载NAD蔚来自动驾驶，让智能电动汽车进入自动驾驶时代！配备拥有800万像素高清摄像头，和超远距高精度激光雷达的AQUILA蔚来超感系统，以及迄今最强大的量产移动计算平台——ADAM蔚来超算平台，实现高速、城区、泊车、换电场景全覆盖，带来安全放松的点到点自动驾驶体验。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1528221.d.html</link>
-            <guid>1965830</guid>
-            <pubDate>Sat, 09 Jan 2021 12:13:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
