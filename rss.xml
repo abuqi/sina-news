@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 09 Jan 2021 21:30:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2021 22:40:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国新冠肺炎超2206万例】美国约翰斯·霍普金斯大学统计数据显示，截至美东时间1月9日16时43分，美国累计新冠肺炎确诊病例已达到22060588例，死亡病例达到371616例。过去24小时内，美国单日新增新冠确诊超26万例。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1583398.d.html</link>
+            <guid>1966699</guid>
+            <pubDate>Sat, 09 Jan 2021 22:14:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【法国新冠肺炎确诊病例累计2767312例】根据法国公共卫生署9日晚发布的数据，截至当天14点，法国新冠肺炎确诊病例24小时新增20177例，累计确诊2767312例。死亡病例累计67599例，新增168例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1580456.d.html</link>
@@ -278,18 +284,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1120765.d.html</link>
             <guid>1965845</guid>
             <pubDate>Sat, 09 Jan 2021 13:32:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【比亚迪获海外最大纯电动巴士订单】比亚迪发布消息称，在哥伦比亚首都波哥大2020年度巴士项目招标中，比亚迪斩获1002台纯电动巴士订单。这是海外地区迄今为止最大的纯电动巴士订单，一举刷新海外纯电动巴士行业销量纪录。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1118602.d.html</link>
-            <guid>1965844</guid>
-            <pubDate>Sat, 09 Jan 2021 13:15:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【特斯拉可能最早2022年在上海超级工厂生产2.5万美元电动汽车】1月9日消息，据国外媒体报道，关于特斯拉上海超级工厂的一份环评文件暗示，特斯拉可能计划最早2022年在上海超级工厂生产一款更便宜的新车型，这款车型的价格将在16万至20万元（约合2.5万至3万美元）之间。（TechWeb）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1118136.d.html</link>
-            <guid>1965843</guid>
-            <pubDate>Sat, 09 Jan 2021 13:12:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
