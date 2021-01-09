@@ -4,11 +4,65 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 09 Jan 2021 18:16:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2021 19:42:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  南非新冠肺炎确诊病例累计达1214176例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1153971.d.html</link>
+            <guid>1965991</guid>
+            <pubDate>Sat, 09 Jan 2021 19:30:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国地震台网正式测定：01月10日03时10分在甘肃酒泉市阿克塞县发生3.1级地震，震源深度10千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1153592.d.html</link>
+            <guid>1965990</guid>
+            <pubDate>Sat, 09 Jan 2021 19:24:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  丰田公司称，芯片短缺影响得州工厂生产，预计1月份丰田坦途卡车产量下降40%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1571499.d.html</link>
+            <guid>1965989</guid>
+            <pubDate>Sat, 09 Jan 2021 19:14:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  消息人士：美国财长努钦可能本周末返回美国，此前原计划在1月15日左右从中东返回。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1571452.d.html</link>
+            <guid>1965988</guid>
+            <pubDate>Sat, 09 Jan 2021 19:13:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比特币现金日涨幅扩大至20%，现报529.30美元/枚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1152185.d.html</link>
+            <guid>1965987</guid>
+            <pubDate>Sat, 09 Jan 2021 19:04:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  法国新增20177例新冠肺炎确诊病例，新增171例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1570407.d.html</link>
+            <guid>1965986</guid>
+            <pubDate>Sat, 09 Jan 2021 18:59:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国地质勘探局：斐济列雾卡市以东227公里处发生5.2级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1150792.d.html</link>
+            <guid>1965985</guid>
+            <pubDate>Sat, 09 Jan 2021 18:46:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  德国卫生部长施潘：不寻求竞选总理。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1149202.d.html</link>
+            <guid>1965984</guid>
+            <pubDate>Sat, 09 Jan 2021 18:24:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  卡塔尔航空将恢复飞往沙特的航班。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1148723.d.html</link>
+            <guid>1965983</guid>
+            <pubDate>Sat, 09 Jan 2021 18:18:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  以色列卫生部发布消息称，该国首次发现4例南非变种新冠病毒感染病例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1566544.d.html</link>
@@ -230,54 +284,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1528221.d.html</link>
             <guid>1965830</guid>
             <pubDate>Sat, 09 Jan 2021 12:13:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  蔚来发布旗下首款旗舰轿车ET7不含补贴售价为44.8万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1109618.d.html</link>
-            <guid>1965829</guid>
-            <pubDate>Sat, 09 Jan 2021 12:13:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据蔚来官微：蔚来ET7传承高性能基因，风阻系数低至0.23Cd，百公里加速仅3.9s，100-0km/h制动距离仅33.5m。搭载150kWh固态电池，续航里程超1,000km。全系标配智能空气悬架和动态阻尼控制，搭载4D智能车身控制，营造舒享旅程。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1526626.d.html</link>
-            <guid>1965827</guid>
-            <pubDate>Sat, 09 Jan 2021 12:02:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据蔚来官微：蔚来ET7拥有安心之至的空间氛围，以及最强车载移动互联与通讯能力，是温暖的第二起居室，也是融合最新科技的移动生活空间。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1525663.d.html</link>
-            <guid>1965825</guid>
-            <pubDate>Sat, 09 Jan 2021 11:56:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[蔚来发布新车NIO ET7，最大续航里程超1000公里。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1105802.d.html</link>
-            <guid>1965823</guid>
-            <pubDate>Sat, 09 Jan 2021 11:49:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网自动测定：01月09日19时35分在中国台湾地区附近发生4.8级左右地震，最终结果以正式速报为准。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1524354.d.html</link>
-            <guid>1965822</guid>
-            <pubDate>Sat, 09 Jan 2021 11:48:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  蔚来正式发布150KWH电池包。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1105409.d.html</link>
-            <guid>1965821</guid>
-            <pubDate>Sat, 09 Jan 2021 11:46:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【蔚来李斌：第二代换电站正式发布，服务能力翻倍，支持自动换电】在1月9日于成都举行的NIO Day2020上，蔚来宣布正式推出第二代换电站。第二代换电站将拥有最多13块电池，日均服务频率312台次，支持自动泊入，车主无需下车，车内一键启动自动换电。目前蔚来拥有100座超充站，792根超充桩，117座换电站，累计换掉超过149万次，平均每12秒就有一台满电蔚来出发。到2021年全国累计落成500座换电站。（界面）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1105293.d.html</link>
-            <guid>1965820</guid>
-            <pubDate>Sat, 09 Jan 2021 11:45:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  蔚来发布第二代换电站。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1104999.d.html</link>
-            <guid>1965819</guid>
-            <pubDate>Sat, 09 Jan 2021 11:43:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
