@@ -4,11 +4,29 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 10 Jan 2021 14:39:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jan 2021 15:34:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  比特币短线拉升，现回升至39800美元/枚上方。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1754672.d.html</link>
+            <guid>1967201</guid>
+            <pubDate>Sun, 10 Jan 2021 15:25:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  卡塔尔新增193例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1753944.d.html</link>
+            <guid>1967189</guid>
+            <pubDate>Sun, 10 Jan 2021 15:19:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  以色列总理内塔尼亚胡：以色列将是首先摆脱新冠病毒危机的国家。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1753079.d.html</link>
+            <guid>1967179</guid>
+            <pubDate>Sun, 10 Jan 2021 15:10:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国众议院多数党党鞭Clyburn：众议院最快或于周二就弹劾特朗普进行表决。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1748190.d.html</link>
@@ -235,24 +253,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1288649.d.html</link>
             <guid>1966980</guid>
             <pubDate>Sun, 10 Jan 2021 09:41:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【李斌回应“蔚来自研芯片”：自研自动驾驶芯片并不难，会保持自己的竞争力】针对此前“蔚来自研芯片”的相关报道，蔚来汽车董事长兼CEO李斌在接受媒体采访时回应称，自研自动驾驶芯片并不难，比手机芯片容易，蔚来会保持自己的竞争力。（36氪）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1705919.d.html</link>
-            <guid>1966978</guid>
-            <pubDate>Sun, 10 Jan 2021 09:31:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新希望：子公司拟发起设立产业基金】新希望(000876)1月10日晚间公告，公司子公司金橡树拟与华建函数、瑞元资本共同发起设立总规模6.2501亿元的“共青城华函新希望投资管理合伙企业（有限合伙）”。其中金橡树认缴出资金额1.25亿元，出资比例为20%。本基金主要以股权投资方式投资于符合农业供给侧结构性改革方向和民生相关的饲料、养殖、屠宰、中央厨房、食品深加工、养殖废弃物处理及资源化利用等生猪养殖产业链项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1286966.d.html</link>
-            <guid>1966977</guid>
-            <pubDate>Sun, 10 Jan 2021 09:30:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【亚盛集团：遭受冻害的牧草种植基地营收公司2019年营收2.33%】亚盛集团公告，本次遭受冻害的阿鲁科尔沁旗牧草种植基地2019年度营业收入6372.10万元，占本公司2019年度苜蓿草产业收入3.13亿元的20.35%，占公司2019年度营业收入的2.33%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1286893.d.html</link>
-            <guid>1966976</guid>
-            <pubDate>Sun, 10 Jan 2021 09:30:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
