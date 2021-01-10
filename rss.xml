@@ -4,11 +4,59 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 10 Jan 2021 15:34:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jan 2021 17:06:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【促消费政策加力 2021年汽车市场有望正增长】汽车促消费政策持续加力。在近期商务部等12部门联合出台促进汽车消费政策后，天津等地陆续出台了新的促汽车消费措施。中国汽车工业协会预计，2021年中国汽车市场将小幅正增长，汽车销量预计将达到2630万辆，同比增长预计在4%左右；中国新能源汽车销量增速很可能超过30%，达到180万辆。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-11/detail-iiznezxt1763491.d.html</link>
+            <guid>1967248</guid>
+            <pubDate>Sun, 10 Jan 2021 16:52:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  埃及政府：尼罗河大坝谈判未能取得进展。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-11/detail-iiznezxt1761650.d.html</link>
+            <guid>1967247</guid>
+            <pubDate>Sun, 10 Jan 2021 16:33:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【2021年减税降费持续推进 更深层红利可期】业内指出，2020年减税降费成效显著，有力服务“六稳”“六保”大局，支撑我国经济率先实现正增长。2021年，我国将持续推进减税降费政策，伴随制度性减税降费政策的持续实施、税收营商环境的进一步优化，叠加累积效应越来越明显，更深层次的减税红利可期。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-11/detail-iiznezxt1760992.d.html</link>
+            <guid>1967246</guid>
+            <pubDate>Sun, 10 Jan 2021 16:27:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【经参：疏堵结合 切实防范房地产金融风险】实体经济内生增长动力不足、投资回报率偏低是大量资金流向房地产的根源，只堵不疏难以解决根本问题，疏堵结合才能切实防范房价泡沫化风险。除了堵住投资和投机性资金流向房地产的去路，还应尽快疏通实体经济所面临的障碍，培育更多发展空间和投资机会：加快促进技术进步，着力培育新的增长点；进一步减税降费；加快发展民营银行等中小金融机构，缓解中小企业融资难融资贵困境；进一步优化营商环境。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-11/detail-iiznezxt1760798.d.html</link>
+            <guid>1967245</guid>
+            <pubDate>Sun, 10 Jan 2021 16:25:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  印尼调查人员：三佛齐（Sriwijaya）航空公司的失事飞机是在撞击水体后解体的，排除了空中解体的可能。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-11/detail-iiznctkf1340803.d.html</link>
+            <guid>1967242</guid>
+            <pubDate>Sun, 10 Jan 2021 16:17:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国新增54940例新冠肺炎确诊病例，新增563例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-11/detail-iiznezxt1758426.d.html</link>
+            <guid>1967241</guid>
+            <pubDate>Sun, 10 Jan 2021 16:05:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  2月份，科威特销往亚洲的原油价格较阿曼迪拜均价升水0.65美元/桶，销往地中海地区的原油贴水1.20美元/桶，销往西北欧的原油贴水2.15美元/桶，销往美国的原油升水0.05美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-11/detail-iiznctkf1339470.d.html</link>
+            <guid>1967240</guid>
+            <pubDate>Sun, 10 Jan 2021 16:05:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  意大利新增18627例新冠肺炎确诊病例，新增361例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1338178.d.html</link>
+            <guid>1967233</guid>
+            <pubDate>Sun, 10 Jan 2021 15:52:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  比特币短线拉升，现回升至39800美元/枚上方。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1754672.d.html</link>
@@ -206,53 +254,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1715713.d.html</link>
             <guid>1966994</guid>
             <pubDate>Sun, 10 Jan 2021 10:37:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【日本发现新型变异新冠病毒 专家：不同于英国及南非发现的变种】据日本共同社1月10日报道，日本厚生劳动省10日发布消息称，从巴西抵达东京羽田机场的4名男女确诊感染变异新冠病毒。日本国立感染症研究所所长胁田隆字透露称，关于从巴西抵日乘客检测出的变异新冠病毒，他认为是不同于在英国及南非发现的新型变异病毒。（海外网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1714797.d.html</link>
-            <guid>1966993</guid>
-            <pubDate>Sun, 10 Jan 2021 10:30:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【河北邢台启动第二轮重点人群核酸检测 出租车司机执行24小时一检】相关负责人表示，邢台市完成第一轮全员核酸检测后，也启动了第二轮重点人群核酸检测，重点针对石家庄、南宫来（返）人员，密接、次密接人员，一线医护、执勤人员，党政机关干部，超市、快递工作人员开展第二轮核酸检测，出租车司机执行24小时一检。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1712592.d.html</link>
-            <guid>1966989</guid>
-            <pubDate>Sun, 10 Jan 2021 10:15:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  河北省卫健委：自2021年1月10日起，将石家庄新乐市人大宿舍、药材公司宿舍、张家庄村，高新区赵村新区小区、主语城小区，无极县东北远村、西郝庄村调整为中风险地区。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1712406.d.html</link>
-            <guid>1966988</guid>
-            <pubDate>Sun, 10 Jan 2021 10:14:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  截至1月10日，南宫市累计确诊病例11例、无症状感染者4例，8-10日，邢台市连续三天无新增病。（河北日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1293174.d.html</link>
-            <guid>1966987</guid>
-            <pubDate>Sun, 10 Jan 2021 10:12:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  1月10日0时至12时，石家庄市新增确诊病例40例，无症状感染者6例。1月2日至10日12时，石家庄市累计报告确诊病例和无症状感染者369例。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1711492.d.html</link>
-            <guid>1966986</guid>
-            <pubDate>Sun, 10 Jan 2021 10:08:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  石家庄即将启动第二轮全员核酸检测，本次全员检测争取用2天时间完成。（河北日报）]]></title>
-            <guid>1966985</guid>
-            <pubDate>Sun, 10 Jan 2021 10:07:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新开普：公司未收到处罚决定】新开普相关人员今日表示，关于媒体报道的相关《行政处罚决定书》中，未认定新开普董事长存在泄露公司内幕信息行为，且截至目前，公司及公司董事长未收到任何关于认定董事长存在内幕信息泄露行为的认定和处罚决定，也未收到媒体报道的该行政处罚决定书。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1709063.d.html</link>
-            <guid>1966981</guid>
-            <pubDate>Sun, 10 Jan 2021 09:51:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中芯国际：本公司获OTCQX市场的营运者OTC Markets Group通知，其监管机构通知OTC Markets Group，他们已经改变了有关行政命令生效日期的立场，现在允许本公司的证券交易持续到2021年2月1日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1288649.d.html</link>
-            <guid>1966980</guid>
-            <pubDate>Sun, 10 Jan 2021 09:41:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
