@@ -61,7 +61,8 @@ async function main(){
 	});
 
 	if(response.status < 200 || response.status >= 300){
-		throw new Error('wrong status code: ' + response.status);
+        // throw new Error('wrong status code: ' + response.status);
+        throw new Error(`worng status code: ${response.status}  message:${response.statusText}`)
 	}
 
 	const json = await response.json();
