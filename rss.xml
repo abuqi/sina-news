@@ -4,11 +4,59 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Tue, 12 Jan 2021 19:52:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jan 2021 20:41:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  小鹏汽车尾盘涨幅扩大至20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-13/detail-ikftssan5331059.d.html</link>
+            <guid>1971178</guid>
+            <pubDate>Tue, 12 Jan 2021 20:24:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【外资持有国内债券超3万亿元，已连续3年净买入国内股债】连续5年净买入债市以及3年净买入股市，外资连续3年净买入我国股债已是事实。据中央结算公司和上海清算所数据统计，截至2020年12月底，境外机构在银行间债券市场持有债券3.04万亿元（剔除同业存单），较2019年年底增长1.07万亿元。另外，公开数据显示，截至2020年11月底，外资持有A股流通市值近3万亿元，占A股流通市值比例约4.8%。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-13/detail-ikftssan5329713.d.html</link>
+            <guid>1971177</guid>
+            <pubDate>Tue, 12 Jan 2021 20:18:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大安大略省再次实施“居家令”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-13/detail-ikftssan5329214.d.html</link>
+            <guid>1971176</guid>
+            <pubDate>Tue, 12 Jan 2021 20:16:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  特朗普称，宪法第25条修正案对自己并不构成威胁。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-13/detail-ikftpnnx6308488.d.html</link>
+            <guid>1971175</guid>
+            <pubDate>Tue, 12 Jan 2021 20:13:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国正式对法国、德国飞机零部件和部分酒类征收新关税】由于未能解决与欧盟16年的飞机补贴争端，美国将从当地时间1月12日开始征收法国和德国的飞机零部件和部分酒类产品的新关税。美国海关和边境保护局在11日晚些时候发出通知说，新关税将自美国东部时间12日上午12:01（格林尼治标准时间05:01）起实施。美国贸易代表办公室宣布，将对包括机身和机翼组件在内的飞机零部件征收15%的附加关税，并对某些酒类征收25%的关税。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-13/detail-ikftssan5327476.d.html</link>
+            <guid>1971174</guid>
+            <pubDate>Tue, 12 Jan 2021 20:09:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【孟晚舟申请变更保释条件 法院进行审议】当地时间周二，孟晚舟在加拿大温哥华的卑诗高等法院申请放宽其保释条件，但控方反对改变。法官将在12日至13日听取支持和反对该项申请的论点。根据早前孟晚舟律师团透露的消息，他们希望申请包括在宵禁时间外，放宽日间监管的要求。加拿大司法部则表示，2018年12月对孟晚舟设定的保释条件是必要和适当的，目前没有理由改变。司法部的说明还提到，孟晚舟的引渡聆讯会将在3月1日恢复。目前设定是3月1日至5日、3月15日至4月1日、4月26日至5月14日都有关于滥用程序和引渡的聆讯。（中国日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-13/detail-ikftssan5324488.d.html</link>
+            <guid>1971173</guid>
+            <pubDate>Tue, 12 Jan 2021 19:57:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国波士顿联储主席罗森格伦：预计美联储还要一段时间才会开始讨论缩减资产购买速度的问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-13/detail-ikftssan5323889.d.html</link>
+            <guid>1971172</guid>
+            <pubDate>Tue, 12 Jan 2021 19:55:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储罗森格伦：失业率仍然高企，没有理由考虑在近期内提高短期利率。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-13/detail-ikftpnnx6303976.d.html</link>
+            <guid>1971171</guid>
+            <pubDate>Tue, 12 Jan 2021 19:55:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  据纽约时报：美国众议院少数党（共和党）领袖麦卡锡决定不游说其成员反对弹劾特朗普。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-13/detail-ikftpnnx6302371.d.html</link>
@@ -245,60 +293,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-13/detail-ikftpnnx6280101.d.html</link>
             <guid>1971129</guid>
             <pubDate>Tue, 12 Jan 2021 18:12:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  穆迪：预计墨西哥2021年原油产量将较官方预期低。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-13/detail-ikftpnnx6280053.d.html</link>
-            <guid>1971128</guid>
-            <pubDate>Tue, 12 Jan 2021 18:12:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  纽元兑美元NZD/USD日内走高0.50%，现报0.7197。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-13/detail-ikftpnnx6280023.d.html</link>
-            <guid>1971127</guid>
-            <pubDate>Tue, 12 Jan 2021 18:12:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  穆迪：预计墨西哥2020年财政赤字占GDP的4.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-13/detail-ikftpnnx6279424.d.html</link>
-            <guid>1971126</guid>
-            <pubDate>Tue, 12 Jan 2021 18:10:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据NBC新闻：美国众议院少数党（共和党）领袖麦卡锡要求特朗普祝贺拜登。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-13/detail-ikftpnnx6279357.d.html</link>
-            <guid>1971125</guid>
-            <pubDate>Tue, 12 Jan 2021 18:10:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储布拉德：通胀预期将有所上行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-13/detail-ikftpnnx6279272.d.html</link>
-            <guid>1971124</guid>
-            <pubDate>Tue, 12 Jan 2021 18:09:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储布拉德：2021年经济预期依然较为强劲，处于趋势之上。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-13/detail-ikftssan5298004.d.html</link>
-            <guid>1971123</guid>
-            <pubDate>Tue, 12 Jan 2021 18:07:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  荷兰首相吕特：政府将提出额外的经济援助计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-13/detail-ikftssan5297793.d.html</link>
-            <guid>1971122</guid>
-            <pubDate>Tue, 12 Jan 2021 18:06:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储布拉德认为美国去年经济萎缩约2.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-13/detail-ikftssan5297713.d.html</link>
-            <guid>1971121</guid>
-            <pubDate>Tue, 12 Jan 2021 18:06:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ICE棉花期货1.6%，刷新两年高点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-13/detail-ikftpnnx6277617.d.html</link>
-            <guid>1971119</guid>
-            <pubDate>Tue, 12 Jan 2021 18:03:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
