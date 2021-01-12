@@ -41,14 +41,14 @@ async function main(){
         "generateExtraServiceTicket": "false",
     });
 
-    const data = {
+    const data = new URLSearchParams({
         "username": LOGIN_INFO.EMAIL,
         "password": LOGIN_INFO.PASSWORD,
         "embed": "true",
         "lt": "e1s1",
         "_eventId": "submit",
         "displayNameRequired": "false",
-    };
+    });
     const headers = {
     	"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36",
         "origin": GARMIN_CN_URL_DICT.SSO_URL_ORIGIN,
