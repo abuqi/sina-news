@@ -4,271 +4,239 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Wed, 13 Jan 2021 21:42:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jan 2021 22:50:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[市场消息：美国汽车安全监管机构因媒体控制单元故障要求特斯拉召回部分Model S和Model Y车型。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6825699.d.html</link>
+            <guid>1972946</guid>
+            <pubDate>Wed, 13 Jan 2021 22:49:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【明星基金调仓换股已露端倪】机构抱团股高位调整，但傅鹏博、谢治宇等明星基金经理管理的基金净值却不跌反升，业内人士判断，一些明星基金的实际净值与估算净值出现较大偏差，意味着这些手握重金的基金经理已经调仓换股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6825641.d.html</link>
+            <guid>1972945</guid>
+            <pubDate>Wed, 13 Jan 2021 22:49:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：代理货币监理署署长Brian Brooks将于1月14日卸任。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6825500.d.html</link>
+            <guid>1972944</guid>
+            <pubDate>Wed, 13 Jan 2021 22:48:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[维珍银河美股涨幅扩大至超10%；据CNBC，“女版巴菲特”Cathie Wood旗下ARK Invset计划推出ARKX太空探索ETF。]]></title>
+            <guid>1972943</guid>
+            <pubDate>Wed, 13 Jan 2021 22:47:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【IPO申报文件太多低级错误 监管酝酿“文责自负”】提高保荐机构执业质量问题已经刻不容缓。近期，多个IPO项目的招股书或问询回复文件出现低级错误，或出现多处笔误，或未按照《招股说明书准则》要求披露，引起监管层重点关注，要求保荐人与其他中介机构核对申报材料，切实提高执业质量。记者从券商人士处获悉，对于上述问题，监管层已在酝酿将申请文件制作质量与保荐机构执业质量评价进行挂钩。业内人士认为，提升监管强度才能发挥震慑作用。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan5843933.d.html</link>
+            <guid>1972942</guid>
+            <pubDate>Wed, 13 Jan 2021 22:45:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周三（1月13日）纽约尾盘，CME比特币期货BTC主力合约报37475美元，较周二涨8.62%，盘中交投于32610-37580美元区间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan5843551.d.html</link>
+            <guid>1972941</guid>
+            <pubDate>Wed, 13 Jan 2021 22:44:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[离岸人民币（CNH）兑美元北京时间05:59报6.4670元，较周二纽约尾盘跌246点，盘中整体交投于6.4401-6.4698元区间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan5843485.d.html</link>
+            <guid>1972940</guid>
+            <pubDate>Wed, 13 Jan 2021 22:44:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【首月信贷额度吃紧 涉房贷款大幅缩水】银行开年信贷投放依然势不可挡。截至目前，多家银行1月信贷投放额度已基本告罄。其中，受房地产融资新规影响，涉房贷款额度出现大缩水。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan5843262.d.html</link>
+            <guid>1972939</guid>
+            <pubDate>Wed, 13 Jan 2021 22:43:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国方面表示，已完成14天隔离、无新症状的新冠患者可以直接从医院转移至疗养院，无需重新检测。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6822957.d.html</link>
+            <guid>1972938</guid>
+            <pubDate>Wed, 13 Jan 2021 22:38:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国地震台网正式测定：01月14日06时28分在新疆乌鲁木齐市达坂城区（有感）发生2.6级地震，震源深度10千米。]]></title>
+            <guid>1972937</guid>
+            <pubDate>Wed, 13 Jan 2021 22:38:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中证报头版评论：投资主力正转向制造业】当前，我国经济回暖，基建投资托底压力减轻，房地产投资逐渐趋缓，投资引擎正转向制造业。从投资三大领域看，当前经济回升明显，中央对地方政府债务风险管控力度加大，继续加大传统基建投资力度的必要性有所降低，但与制造业关系密切的“新基建”投资会加码。当前经济增长已从依赖逆周期调节转变为依靠内生动能释放，制造业投资将成为今后一个时期拉动经济增长的一大看点，制造业投资空间潜力巨大。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6822168.d.html</link>
+            <guid>1972936</guid>
+            <pubDate>Wed, 13 Jan 2021 22:35:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  全球最大白银ETF--iShares Silver Trust持仓较上日减少43.36吨，当前持仓量为17303.48吨。]]></title>
+            <guid>1972934</guid>
+            <pubDate>Wed, 13 Jan 2021 22:33:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中证报头版头条：上周12家机构申请“入场券”，境外“聪明钱”结伴涌入A股市场】证监会网站显示，上周有12家机构提交境外机构投资者资格申请。日前从接近监管部门人士处获悉，下一步，监管部门将按照既定部署，稳步推动资本市场制度型开放。安信证券分析师陈果预计，2021年北向资金流入A股规模有望达2000亿元至2800亿元，或将超过2020年水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan5840126.d.html</link>
+            <guid>1972932</guid>
+            <pubDate>Wed, 13 Jan 2021 22:31:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本将披露市场改革计划，以敦促减排。（日经新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan5840067.d.html</link>
+            <guid>1972931</guid>
+            <pubDate>Wed, 13 Jan 2021 22:30:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多措并举提振家电消费 零售渠道下沉再提速】商务部等12部门近日印发《关于提振大宗消费重点消费促进释放农村消费潜力若干措施的通知》提出，促进家电家具家装消费，激活家电家具市场，鼓励有条件的地区对淘汰旧家电家具并购买绿色智能家电、环保家具给予补贴。家电在居民消费中占比较大，推动家电产业转型升级，成为拉动农村消费潜力的有力措施。记者在采访中了解到，加速智能绿色产品更新换代，渠道下沉，进一步辐射三四线地区及农村市场，成为家电及零售企业的布局方向。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6820564.d.html</link>
+            <guid>1972929</guid>
+            <pubDate>Wed, 13 Jan 2021 22:29:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【10份年报业绩快报九成实现增长 融资客斥资逾1.7亿元买入五股】截至目前，沪深两市共有10家公司披露2020年度业绩快报，其中，有9家公司2020年全年净利润实现同比增长，占比九成。近期融资客持续涌入A股抢筹，尤其是年报业绩超预期的标的备受关注。统计显示，1月份以来截至1月12日，有5只业绩成长股受到融资客的青睐，合计融资净买入1.71亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan5839177.d.html</link>
+            <guid>1972927</guid>
+            <pubDate>Wed, 13 Jan 2021 22:27:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普通过福克斯发声：一定不能出现任何形式暴力，所有美国人要帮助“缓解紧张局势”】“我呼吁所有美国人帮助缓解紧张局势，平息情绪（怒火），谢谢。”美国总统特朗普当地时间13日在发给福克斯新闻一份声明中，呼吁所有美国人一起帮助“缓解紧张局势，平息情绪（怒火）”，称自己不支持任何形式的暴力。他同时还呼吁大型科技公司加入这一努力中。（环球网）]]></title>
+            <guid>1972926</guid>
+            <pubDate>Wed, 13 Jan 2021 22:19:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据媒体消息：日产计划今年在中国销售混合动力汽车。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6817488.d.html</link>
+            <guid>1972925</guid>
+            <pubDate>Wed, 13 Jan 2021 22:17:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商务部官员：将推动拜登政府致力于达成全面的高标准贸易协议，而不是有限的协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6817324.d.html</link>
+            <guid>1972924</guid>
+            <pubDate>Wed, 13 Jan 2021 22:16:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【受意债德债带动，各期限美债普遍上涨，30年期美债发行需求强劲，收益率曲线趋平】周三（1月13日）纽约尾盘，美国10年期基准国债收益率下跌4.59个基点，报1.0832%。20年期美债收益率下跌5.13个基点，报1.6180%。30年期美债收益率下跌5.63个基点，报1.8155%。两年期美债收益率下跌0.20个基点，报0.1430%。五年期美债收益率下跌3.03个基点，报0.4691%。10年和2年期美债收益率利差下跌4.589个基点，报93.625个基点；10年和3个月期美债收益率利差下跌4.840个基点，报99.193个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6816998.d.html</link>
+            <guid>1972923</guid>
+            <pubDate>Wed, 13 Jan 2021 22:15:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[保利协鑫能源将配售新股筹资42.1亿港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6816857.d.html</link>
+            <guid>1972922</guid>
+            <pubDate>Wed, 13 Jan 2021 22:14:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国参议院民主党领袖舒默：在参议院紧急会议上没有与美国参议院共和党领袖麦康奈尔达成协议，弹劾审判将在1月19日之后开始。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6816098.d.html</link>
+            <guid>1972921</guid>
+            <pubDate>Wed, 13 Jan 2021 22:11:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国参议院民主党领袖舒默：参议院将对弹劾特朗普进行公正审判。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan5834839.d.html</link>
+            <guid>1972920</guid>
+            <pubDate>Wed, 13 Jan 2021 22:10:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[东芝公司东京证交所首次上市计划可能会被延后，因为出现投票问题。（朝日新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan5834799.d.html</link>
+            <guid>1972919</guid>
+            <pubDate>Wed, 13 Jan 2021 22:10:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【旷视科技筹备科创板上市 今年或迎来AI企业IPO大年】证监会北京监管局公告显示，旷视科技已于2020年9月与中信证券签署科创板上市辅导协议，旷视科技拟以公开发行中国存托凭证（CDR）的方式在科创板上市。2021年或将迎来AI企业上市潮。记者了解到，目前云从科技、依图科技、云天励飞、云知声等AI企业也在冲刺科创板。国海证券也表示，政策支持行业快速发展，预计2021年将是人工智能企业IPO大年。（经济参考报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan5834581.d.html</link>
+            <guid>1972917</guid>
+            <pubDate>Wed, 13 Jan 2021 22:09:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国单日新增新冠确诊超22万例，死亡病例新增3933例】据美国约翰斯·霍普金斯大学统计数据显示，截至美东时间1月13日16时22分，美国累计新冠肺炎确诊病例达22998320例，累计死亡病例达383338例。过去24小时，美国新增确诊病例227000例，新增死亡病例3933例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6814968.d.html</link>
+            <guid>1972914</guid>
+            <pubDate>Wed, 13 Jan 2021 22:07:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据市场消息：美联储今年1月维持利率在0%-0.25%区间的概率为100%，加息25个基点至0.25%-0.50%区间的概率为0%；今年3月维持利率在0%-0.25%区间的概率为100%，加息25个基点的概率为0%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6814766.d.html</link>
+            <guid>1972913</guid>
+            <pubDate>Wed, 13 Jan 2021 22:06:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国小企业局（SBA）将于1月15日重新开放薪酬保障计划（PPP）给小额贷款者。]]></title>
+            <guid>1972912</guid>
+            <pubDate>Wed, 13 Jan 2021 22:05:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitstamp平台数据显示，比特币涨至37300美元，日内涨幅约9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6814147.d.html</link>
+            <guid>1972909</guid>
+            <pubDate>Wed, 13 Jan 2021 22:03:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富士斯巴鲁汽车（Subaru）将在1月份于日本（工厂）减产，以应对芯片供应短缺问题。（日经新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6813617.d.html</link>
+            <guid>1972908</guid>
+            <pubDate>Wed, 13 Jan 2021 22:02:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国参议院共和党领袖麦康奈尔：即使参议院本周开始启动审判，也要等到特朗普卸任后才能做出最终判决。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6812598.d.html</link>
+            <guid>1972906</guid>
+            <pubDate>Wed, 13 Jan 2021 21:58:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院共和党领袖麦康奈尔：美国国会最好在未来7天内推动总统就职典礼的安全举行以及权力的有序过渡；参议院弹劾程序将从众议院收到弹劾条款后的首次定期会议开始。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6811693.d.html</link>
+            <guid>1972905</guid>
+            <pubDate>Wed, 13 Jan 2021 21:54:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金短线下挫5美元，最低至1841.74美元/盎司，跌幅扩大至0.55%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6810647.d.html</link>
+            <guid>1972904</guid>
+            <pubDate>Wed, 13 Jan 2021 21:50:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  比特币重回37000美元/枚关口上方，涨幅8.51%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6810235.d.html</link>
+            <guid>1972903</guid>
+            <pubDate>Wed, 13 Jan 2021 21:48:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[维珍银河美股盘后涨6%；“女版巴菲特”Cathie Wood计划推出Space ETF。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan5829117.d.html</link>
+            <guid>1972902</guid>
+            <pubDate>Wed, 13 Jan 2021 21:48:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据媒体消息：特朗普将通过视频回应众议院通过弹劾条款一事。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan5828863.d.html</link>
+            <guid>1972901</guid>
+            <pubDate>Wed, 13 Jan 2021 21:47:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国得克萨斯州检察官对众多大型科技公司签发民事调查要求。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan5828310.d.html</link>
+            <guid>1972899</guid>
+            <pubDate>Wed, 13 Jan 2021 21:45:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国公共关系专员、特朗普政府高级政治顾问希克斯据悉已经离职。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6808745.d.html</link>
+            <guid>1972898</guid>
+            <pubDate>Wed, 13 Jan 2021 21:43:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[杰富瑞首次覆盖京东健康，并给予其买入评级，目标价为184港元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6806763.d.html</link>
             <guid>1972897</guid>
             <pubDate>Wed, 13 Jan 2021 21:36:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  ThinkMarkets市场分析师Fawad Razaqzada：美债收益率经过几天大涨后小幅回落，这帮助支撑了黄金价格；尽管符合预期的消费者价格数据公布后金价小幅上涨，但投资者仍在密切关注债券收益率，以寻找方向。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6806116.d.html</link>
-            <guid>1972896</guid>
-            <pubDate>Wed, 13 Jan 2021 21:33:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国会众议院13日表决通过针对总统特朗普的弹劾条款，正式指控他“煽动叛乱”。特朗普成为美国历史上首位两度遭弹劾的总统。（新华社）]]></title>
-            <guid>1972895</guid>
-            <pubDate>Wed, 13 Jan 2021 21:24:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国国会众议院目前已有足够票数通过针对特朗普弹劾条款的表决，投票仍在继续中。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan5822597.d.html</link>
-            <guid>1972894</guid>
-            <pubDate>Wed, 13 Jan 2021 21:22:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普500指数11大板块涨跌各异，7大板块收涨，4大板块收跌；其中，伴随着美债上涨，公用事业板块领涨，其次是房地产板块；材料板块领跌，其次是工业板块。]]></title>
-            <guid>1972893</guid>
-            <pubDate>Wed, 13 Jan 2021 21:18:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国会参议院共和党领导人麦康奈尔：参议院将于1月19日复会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6801659.d.html</link>
-            <guid>1972892</guid>
-            <pubDate>Wed, 13 Jan 2021 21:16:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【葡萄牙政府宣布更加严格的国家紧急状态措施】葡萄牙总理科斯塔宣布更加严格的国家紧急状态措施，这些措施将于1月15日零时开始实施，并预计将在一个月内有效，但15天后葡萄牙政府将重新评估这些措施。新措施主要包括：一切教育机构将继续运行；关闭商业机构，但诊所，药店，超市等除外，并要求每100平米面积容纳量最多5人；买卖食品的市集和市场可以继续运营；关闭理发店；情况允许的情况下强制远程办公；关闭健身房和其他体育活动场所，可单独进行室外运动；可短时间在自己的小区走动；饭馆和咖啡厅只能进行外卖服务和送餐上门服务；取消所有大型活动，除总统选举和宗教庆典；关闭文化场所；国家队和甲级联赛将不对外开放等。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6800474.d.html</link>
-            <guid>1972891</guid>
-            <pubDate>Wed, 13 Jan 2021 21:11:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  瑞银石油分析师称：虽然认为未来几个月原油价格会走高，但投资者仍需注意，原油需求和价格上升的道路仍将崎岖不平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6800369.d.html</link>
-            <guid>1972890</guid>
-            <pubDate>Wed, 13 Jan 2021 21:11:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股各行业ETF中，公用事业ETF领涨，涨近2%，其次是科技行业ETF，涨0.64%；区域银行ETF和能源业ETF领跌，跌0.78%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan5818609.d.html</link>
-            <guid>1972889</guid>
-            <pubDate>Wed, 13 Jan 2021 21:07:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股涨跌各异，科技股跑赢，FAANMG全部收涨，阿里巴巴涨4%】美股三大指数涨跌各异，道指初步收跌8，纳指涨0.43%；中概股祁连国际涨18%，跟谁学涨15%，瑞幸粉单涨12%，趣头条涨10%，阿里巴巴涨4%，哔哩哔哩涨超3%，腾讯ADR、京东涨超2%。FAANMG全部收涨，奈飞涨超2%，苹果涨超1%，芯片股涨跌各异，英特尔涨7%，高通涨1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan5816805.d.html</link>
-            <guid>1972887</guid>
-            <pubDate>Wed, 13 Jan 2021 21:01:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金短线走低5美元，现报1846.8美元/盎司，现货白银跌1.26%，报25.22美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6796841.d.html</link>
-            <guid>1972886</guid>
-            <pubDate>Wed, 13 Jan 2021 20:58:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金短线下跌5美元，刷新日低至1847.07美元/盎司，日内下跌0.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6795867.d.html</link>
-            <guid>1972885</guid>
-            <pubDate>Wed, 13 Jan 2021 20:54:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国会众议院开始对弹劾特朗普展开投票。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6795637.d.html</link>
-            <guid>1972884</guid>
-            <pubDate>Wed, 13 Jan 2021 20:54:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金下破1850美元/盎司，日内跌幅0.23%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6795144.d.html</link>
-            <guid>1972883</guid>
-            <pubDate>Wed, 13 Jan 2021 20:52:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西在过去24小时内新增60899例新冠肺炎病例，新增1274例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6794133.d.html</link>
-            <guid>1972882</guid>
-            <pubDate>Wed, 13 Jan 2021 20:48:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储副主席克拉里达：若有比预期更强劲的反弹，将会在生产和劳动力市场看到这种现象；相信经济方面的好消息也将是劳动力市场方面的好消息。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan5811600.d.html</link>
-            <guid>1972881</guid>
-            <pubDate>Wed, 13 Jan 2021 20:41:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金日内目前下跌0.07%，报1853.18美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan5810969.d.html</link>
-            <guid>1972880</guid>
-            <pubDate>Wed, 13 Jan 2021 20:39:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新三板改革力度空前，今年期待“左降门槛右可转板”】新三板全面改革掷地有声，2020年市场被激活，合格投资者超过165万户，挂牌公司定向发行融资和公开发行融资明显活跃，精选层交易开创了新三板的新时代。采访了业界多位专家、学者，均认为新三板改革大年（2020年）的各项措施力度空前，超出预期，期间有惊喜也有遗憾。展望2021年，专家们认为今年改革的核心在于改善精选层流动性和保障转板制度的顺利落地，提升新三板的投资价值；精选层转板机制等多项改革措施最快有望在近两三个月内出台，未来引入包括QFII、社保资金、保险等长期资金入市，进一步降门槛等重大改革也值得期待。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6791178.d.html</link>
-            <guid>1972879</guid>
-            <pubDate>Wed, 13 Jan 2021 20:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大卖超400亿，昨日再现两只百亿爆款基金】从银行渠道人士处获悉，截至1月13日下午5点，有两只爆款基金一日售罄，认购总规模达到410亿元。其中，由张帆拟任基金经理的华夏新兴成长认购规模超300亿元，詹成即将管理的景顺长城产业趋势混合认购规模也达到110亿元左右，均超过首发规模上限，将实施比例配售。从银行渠道人士处获悉，昨日上午，华夏新兴成长认购规模就超过了120亿元，超过了90亿元的募集规模上限，中午华夏基金就发布提前结束募集的公告。截至昨日下午5点，该基金募集规模超过300亿元。由詹成拟任基金经理的景顺长城产业趋势混合认购规模约为110亿元。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6790923.d.html</link>
-            <guid>1972878</guid>
-            <pubDate>Wed, 13 Jan 2021 20:36:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【券商ETF单日净流出41亿，大涨中资金落袋为安】作为市场行情“风向标”的券商板块异动，带动沪指重返3600点。不过，最新数据显示，在1月12日券商ETF大涨行情中，资金却出现单日41亿元的净流出，在产品规模中占比高达5.7%。业内人士分析，由于券商指数震荡近半年，部分在震荡期低位买入的资金，可能选择在短期高点落袋为安。受益于资本市场改革、券商股基本面向好、估值偏低等因素，券商板块的长期空间值得看好。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan5809654.d.html</link>
-            <guid>1972877</guid>
-            <pubDate>Wed, 13 Jan 2021 20:34:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gargill洽谈退出全球糖交易业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6789731.d.html</link>
-            <guid>1972875</guid>
-            <pubDate>Wed, 13 Jan 2021 20:31:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储副主席克拉里达：当美国通胀上扬时，我们知道该如何做。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan5807237.d.html</link>
-            <guid>1972873</guid>
-            <pubDate>Wed, 13 Jan 2021 20:25:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黑色系商品掉头向下，现货需求旺盛如故】2021年1月中旬，黑色系牛市出现掉头痕迹。与股期市场弱势不同，近日煤炭市场需求依然旺盛，现货价格呈现上行态势。“目前市场情况跟去年末的时候差不多，依然是供不应求的状态，现货市场也没有出现价格下滑的情况，部分地区还有调涨。”河南一煤化工上市公司焦化事业部负责人表示，当前焦煤焦炭下游的钢铁企业开工率依然处于高位。虽然随着北方气温降低，多地基建地产停工，钢材等需求量有所下滑，但近期下游补库动作频频，为春节后市场做准备，因此采买热情依然持续。百川盈孚数据显示，1月12日，国内炼焦煤市场价格局部调涨。产地各矿点生产平稳，出货顺畅，下游焦企补库积极，矿内库存多处低位，山西、内蒙、宁夏等地部分焦精煤、配煤价格上涨，涨幅在11~60元/吨。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6787559.d.html</link>
-            <guid>1972872</guid>
-            <pubDate>Wed, 13 Jan 2021 20:23:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【IPO申报文件太多低级错误，监管酝酿“文责自负”】提高保荐机构执业质量问题已经刻不容缓。近期，多个IPO项目的招股书或问询回复文件出现低级错误，或出现多处笔误，或未按照《招股说明书准则》要求披露，引起监管层重点关注，要求保荐人与其他中介机构核对申报材料，切实提高执业质量。从券商人士处获悉，对于上述问题，监管层已在酝酿将申请文件制作质量与保荐机构执业质量评价进行挂钩。业内人士认为，提升监管强度才能发挥震慑作用。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan5806579.d.html</link>
-            <guid>1972871</guid>
-            <pubDate>Wed, 13 Jan 2021 20:22:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉：Model Y实现美国国家公路交通安全管理局（NHTSA）的整体性五星安全评级。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan5806502.d.html</link>
-            <guid>1972870</guid>
-            <pubDate>Wed, 13 Jan 2021 20:22:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国参议院共和党领袖麦康奈尔告知共和党人，其并未对投票弹劾特朗普一事作决定，将会接受目前已有的法律意见。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6784714.d.html</link>
-            <guid>1972869</guid>
-            <pubDate>Wed, 13 Jan 2021 20:12:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【凯投宏观经济学家Adam Hoyes：美联储货币政策应有助于提振TIPS并遏制美元升势】美联储政策立场为“经济仍在复苏的时候，名义收益率不会上涨太多”，承诺维持宽松政策，意味着通胀保值国债(TIPS)应该会继续跑赢名义国债，以反映通胀预期上升，而实际收益率下降应该会抑制美元走强。实际上美国通胀将高于大多数人的预期，而投资者高估了货币状况将会收紧的速度，因此，随着通胀补偿上升，实际收益率应该会继续下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan5802546.d.html</link>
-            <guid>1972867</guid>
-            <pubDate>Wed, 13 Jan 2021 20:08:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【证券时报头版评论：“打板子”是醒人的好办法】证监会新年首罚的板子，打在了两个坐庄的大散户身上。证监会公布的调查结果显示，2017年7月24日至2018年6月26日，在总共11个月的时间内，熊模昌和吴国荣二人利用196个账户坐庄炒作一只股票——华平股份。市场中如熊、吴这种困于错觉、被错觉牵着鼻子走、一门心思寻捷径的投资者——无论散户还是机构——多了，市场便很难健康起来。就此而言，证监会“打板子”，既是坚守职责、维护市场秩序的尽职之举，也是治病救人、催人猛醒的棒喝。当前情势下，市场越开放、运转速度越快，这样的棒喝就越具现实意义和紧迫性。无数实践反复揭示这样一个真理：规矩往往都是“打”出来的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6783328.d.html</link>
-            <guid>1972866</guid>
-            <pubDate>Wed, 13 Jan 2021 20:07:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据媒体消息：英国实施对巴西的旅游禁令。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan5801091.d.html</link>
-            <guid>1972865</guid>
-            <pubDate>Wed, 13 Jan 2021 20:02:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新冠病毒全球病例9192.4万例；死亡197万例】根据约翰斯·霍普金斯大学等收集的数据，截至1月13日19:30世界标准时间(UTC)，全球新型冠状病毒确诊病例增加至9192.365万例。这种疾病已扩散至170个国家和地区，造成196.9997万人死亡。]]></title>
-            <guid>1972864</guid>
-            <pubDate>Wed, 13 Jan 2021 20:02:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储副主席克拉里达：新版政策框架是一次进化，而不是改革。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6781576.d.html</link>
-            <guid>1972863</guid>
-            <pubDate>Wed, 13 Jan 2021 20:00:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据悉，法国音乐经销商Believe已经选择花旗集团、摩根大通以及法国兴业银行负责其既定的IPO计划，该公司可能会寻求通过IPO实现大约25亿欧元（折合30亿美元）的估值。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan5800062.d.html</link>
-            <guid>1972861</guid>
-            <pubDate>Wed, 13 Jan 2021 19:58:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储哈克：需要专注于经济社会提供更好的工作岗位，并让人们接受这些工作的培训。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6780294.d.html</link>
-            <guid>1972860</guid>
-            <pubDate>Wed, 13 Jan 2021 19:55:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【信保业务“风口”变“雷区”，承保亏损激增龙头险企加速出清】从相关渠道获悉，去年前11个月，险企信用保险与保证保险承保利润合计亏损132亿元，较前年同期的亏损19亿元，出现数倍激增。尽管暂无去年全年的承保数据，但即使去年12月份单月承保盈利，也很难将亏损反转。据了解，去年以来，险企纷纷停止承保网贷履约保证保险等风险较高的险种。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan5799017.d.html</link>
-            <guid>1972859</guid>
-            <pubDate>Wed, 13 Jan 2021 19:54:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【A股机构化加速，今年五路资金有望输送万亿元“活水”】数据统计，截至1月13日，今年以来，就有14只权益类基金完成发行，合计发行规模为1174.79亿元。另外，截至1月13日，今年以来，北向资金净买入311.78亿元。市场人士认为，在政策引导下，预计今年公募、外资、银行理财、险资和社保等五路中长期资金，将为A股带来万亿元增量资金，公募和外资仍为主力资金，银行理财和社保有望成为长期资金的新增来源。未来，专业机构持有A股市值占流通市值比例将显著提升，A股机构化进程将加速。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan5798184.d.html</link>
-            <guid>1972858</guid>
-            <pubDate>Wed, 13 Jan 2021 19:51:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储副主席克拉里达将于十分钟后就美联储的货币政策新框架发表讲话。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan5797869.d.html</link>
-            <guid>1972857</guid>
-            <pubDate>Wed, 13 Jan 2021 19:50:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据媒体消息：利比亚哈夫塔的部队将重启原油生产。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan5797312.d.html</link>
-            <guid>1972856</guid>
-            <pubDate>Wed, 13 Jan 2021 19:48:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【证券日报头版评论：“抱团”体现A股结构性购买力，融资端应加大高质量资产供给】A股市场中这种“结构性、不均衡购买力”的出现，是投资者结构向“机构化”迈进的必然呈现，同时也表明优质资产依然存在供给缺口。从中长期来看，融资端应该进一步增加更高质量、多元发展的优质资产供给，从而以内涵性力量引导“抱团”资金有序分布，为A股市场夯实发展根基。第一，“抱团”是体量较大资金投资行为加权结果的直观表现。第二，“抱团”资金对于“优质资产”的判定标准应该是动态、多维度的，而且，应能够折射高质量发展的中国经济、折射向更高动能的产业变革。第三，虽然资金“抱团”有着相当的合理性和一定的必然性，但市场主体也需要警惕“流量茧房”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan5796096.d.html</link>
-            <guid>1972855</guid>
-            <pubDate>Wed, 13 Jan 2021 19:43:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储哈克：美联储将尽可能在长时间内将利率保持在较低水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6776707.d.html</link>
-            <guid>1972854</guid>
-            <pubDate>Wed, 13 Jan 2021 19:41:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币上破36000美元关口，刷新日高，日内涨超2000美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan5795002.d.html</link>
-            <guid>1972853</guid>
-            <pubDate>Wed, 13 Jan 2021 19:39:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  WTI 2月原油期货收跌0.30美元，跌幅0.56%，报52.91美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6774835.d.html</link>
-            <guid>1972851</guid>
-            <pubDate>Wed, 13 Jan 2021 19:34:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通：上调2021年WTI原油价格预期至58美元/桶（此前预计为47美元/桶），上调同期布伦特原油价格预期至61美元/桶（此前预计为50美元/桶）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan5793310.d.html</link>
-            <guid>1972850</guid>
-            <pubDate>Wed, 13 Jan 2021 19:33:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 美联储褐皮书：大部分地区的企业报告称，薪资增速略有增长，但总体上仍然疲软。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftssan5786595.d.html</link>
-            <guid>1972847</guid>
-            <pubDate>Wed, 13 Jan 2021 19:07:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 美联储褐皮书：消费者支出报告喜忧参半。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-14/detail-ikftpnnx6767549.d.html</link>
-            <guid>1972846</guid>
-            <pubDate>Wed, 13 Jan 2021 19:06:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
