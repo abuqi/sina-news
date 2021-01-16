@@ -4,11 +4,82 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 16 Jan 2021 22:47:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2021 23:55:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【北京新增2例本土确诊】1月16日0时至24时，北京新增2例本地确诊病例，无新增疑似病例和无症状感染者；无新增境外输入确诊病例、疑似病例和无症状感染者；治愈出院1例。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8252978.d.html</link>
+            <guid>1977120</guid>
+            <pubDate>Sat, 16 Jan 2021 23:53:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海昨日无新增本地新冠肺炎确诊病例，新增境外输入4例，治愈出院8例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8251883.d.html</link>
+            <guid>1977118</guid>
+            <pubDate>Sat, 16 Jan 2021 23:49:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【黑龙江新增12例确诊19例无症状】1月16日0-24时，黑龙江省新增新冠肺炎确诊病例12例（绥化市望奎县11例，其中6例为望奎县无症状感染者转为确诊病例，大庆市龙凤区1例）。新增无症状感染者19例（绥化市望奎县12例，绥化市北林区4例，齐齐哈尔市富拉尔基区1例，齐齐哈尔昂昂溪区1例、齐齐哈尔建华区1例）。 （央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7268467.d.html</link>
+            <guid>1977117</guid>
+            <pubDate>Sat, 16 Jan 2021 23:45:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中科院院士：电动车能跑1千公里几分钟充满电 一定是骗人】昨日，在中国电动车百人会论坛（2021）上，中国科学院院士、中国电动汽车百人会副理事长欧阳明高表示：“如果有人告诉你，这个车能跑1000公里，几分钟能充满电，还很安全，成本又很低。以目前的技术来讲，他一定是骗子。”]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7266813.d.html</link>
+            <guid>1977116</guid>
+            <pubDate>Sat, 16 Jan 2021 23:39:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【漳州通报婴儿霜大头娃娃事件 大头娃娃事件婴儿霜被检出激素】福建漳州市“欧艾抑菌霜”事件处置工作组17日通报“欧艾抑菌霜”事件调查处置进展情况。经有检测资质的第三方机构检测，已确认召回的涉事产品“益芙灵多效特护抑菌霜”和“开心森林一抹舒宝宝皮肤抑菌霜”含有氯倍他索丙酸酯，企业涉嫌生产、销售伪劣产品。涉事企业所在地卫健部门已将有关线索移送公安机关。公安机关已传唤涉事企业主要涉案人员。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8248593.d.html</link>
+            <guid>1977115</guid>
+            <pubDate>Sat, 16 Jan 2021 23:37:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[天齐锂业收深交所关注函，要求说明控股股东减持后又认购公司非公开发行股份的行为，是否实质上构成短线交易，是否会损害上市公司中小股东的利益。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8247824.d.html</link>
+            <guid>1977114</guid>
+            <pubDate>Sat, 16 Jan 2021 23:34:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[当地时间1月16日，阿根廷卫生部公布最新数据，该国新增新冠肺炎确诊病例8932例，累计确诊1791979例；新增死亡病例68例，累计死亡45295例。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8246799.d.html</link>
+            <guid>1977113</guid>
+            <pubDate>Sat, 16 Jan 2021 23:30:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高盛本月二度上调美国今年经济增速】高盛周六发布报告上调美国今年经济增速，由之前预计的6.4%上调至6.6%，这是高盛1月份以来第二次上调增速预期，调升理由是拜登出台的经济刺激计划将加速美国经济的复苏。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7259968.d.html</link>
+            <guid>1977112</guid>
+            <pubDate>Sat, 16 Jan 2021 23:12:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【葡萄牙财政部部长若昂-莱奥新冠病毒检测结果呈阳性】当地时间1月16日葡萄牙财政部门报告称，该国财政部部长若昂-莱奥在新冠病毒检测中结果呈阳性。财政部门的公告中表示，莱奥部长目前尚未出现新冠肺炎症状，正在居家隔离并进行远程工作。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7258946.d.html</link>
+            <guid>1977111</guid>
+            <pubDate>Sat, 16 Jan 2021 23:08:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[今天《人民日报》头版的主要内容有：1、东方风来春色新——习近平总书记关心推动党的对外工作开创新局面纪实；2、为推动京津冀协同发展提供有力支撑和坚实保障——京津冀协同发展重大工程项目建设综述；3、去年我国人民币贷款增加19.63万亿元 金融活水足 发展动力强（新数据 新看点）；4、“奋斗者”号载人深潜团队——万米海底，妙不可言！（我们的2020）；5、2020年地表水 水质优良断面比例同比升8.5个百分点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7258409.d.html</link>
+            <guid>1977109</guid>
+            <pubDate>Sat, 16 Jan 2021 23:06:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【 法国累计死亡病例突破7万 全法正式延长宵禁时段 】当地时间16日，法国新冠肺炎累计死亡病例突破7万例。全法范围当天起正式延长宵禁时段，每日宵禁时段自10小时延长至12小时。]]></title>
+            <guid>1977108</guid>
+            <pubDate>Sat, 16 Jan 2021 22:51:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国新冠肺炎超2366万例】据美国约翰斯·霍普金斯大学统计数据显示，截至美东时间16日15时22分，美国累计新冠肺炎确诊病例达23669315例，累计死亡病例达394413例。过去24小时内，美国新增确诊病例193935例，新增死亡病例3315例。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8236103.d.html</link>
+            <guid>1977107</guid>
+            <pubDate>Sat, 16 Jan 2021 22:48:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【法国新增新冠肺炎确诊病例21406例 累计确诊达2894347例】法国公共卫生部门1月16日当天公布的数据显示，截至当天下午，法国累计新冠肺炎确诊病例达2894347例，较前一日新增21406例。累计死亡病例达70142例。数据显示，法国当前新冠病毒检测呈阳性的比率为6.49%。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7246187.d.html</link>
@@ -64,7 +135,7 @@
             <pubDate>Sat, 16 Jan 2021 19:12:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【卫组织：全球新冠肺炎确诊病例超9250万例 死亡病例超200万例】根据世卫组织最新实时统计数据，截至欧洲中部时间1月16日17时52分（北京时间1月17日0时52分），全球累计新冠肺炎确诊病例92506811例，累计死亡病例2001773例。16日全球新冠肺炎确诊病例新增688015例，死亡病例新增14718例。（央视）]]></title>
+            <title><![CDATA[【世卫组织：全球新冠肺炎确诊病例超9250万例 死亡病例超200万例】根据世卫组织最新实时统计数据，截至欧洲中部时间1月16日17时52分（北京时间1月17日0时52分），全球累计新冠肺炎确诊病例92506811例，累计死亡病例2001773例。16日全球新冠肺炎确诊病例新增688015例，死亡病例新增14718例。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8183300.d.html</link>
             <guid>1977092</guid>
             <pubDate>Sat, 16 Jan 2021 19:09:30 GMT</pubDate>
@@ -175,72 +246,6 @@
             <title><![CDATA[  山西晋中榆次区重点区域人员全部完成第二次核酸检测，结果均为阴性。（央视新闻）]]></title>
             <guid>1976982</guid>
             <pubDate>Sat, 16 Jan 2021 15:51:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  新加坡新增5例本土新冠肺炎病例，新增19例输入型病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftpnnx8130473.d.html</link>
-            <guid>1976978</guid>
-            <pubDate>Sat, 16 Jan 2021 15:48:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以太坊站上1250美元/枚，日内涨6.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftpnnx8127841.d.html</link>
-            <guid>1976959</guid>
-            <pubDate>Sat, 16 Jan 2021 15:38:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【内蒙古呼伦贝尔市急寻两名密接者的接触人员】2021年1月15日21时12分，内蒙古呼伦贝尔市疾控中心收到内蒙古综合疾控中心转黑龙江省的协查函。黑龙江省哈尔滨市一确诊病例的2名密切接触者，于2021年1月14日18时50分乘坐K7057次列车（哈尔滨西始发-满洲里终点站），座位号为5车厢19号、20号，由哈尔滨西站上车到牙克石站下车。此次列车途经哈尔滨西、大庆、齐齐哈尔市、扎兰屯市、牙克石市、海拉尔区、嵯岗镇、扎赉诺尔西、满洲里市。上述2名密切接触者为夫妻关系，一人曾与哈尔滨市香坊区1例确诊病例在同一时间段内就诊，一人为陪同就诊。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftssan7145949.d.html</link>
-            <guid>1976958</guid>
-            <pubDate>Sat, 16 Jan 2021 15:37:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  塔利班表示欢迎美军在阿富汗撤军，并重申对（2020年）2月份和平协议的承诺。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftssan7142137.d.html</link>
-            <guid>1976948</guid>
-            <pubDate>Sat, 16 Jan 2021 15:22:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标致雪铁龙集团（PSA）与菲亚特克莱斯勒汽车公司（FCA）合并组成的新集团Stellantis有意在中国组建一家新合资公司，目前正与奇瑞汽车等公司展开谈判。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftssan7140308.d.html</link>
-            <guid>1976939</guid>
-            <pubDate>Sat, 16 Jan 2021 15:15:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新加坡将要求所有入境访客接受新冠病毒PCR检测，新规将于当地时间1月24日晚上11:59生效。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftpnnx8121302.d.html</link>
-            <guid>1976933</guid>
-            <pubDate>Sat, 16 Jan 2021 15:12:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[葡萄牙新增10947例新冠肺炎确诊病例，累计确诊539416例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftpnnx8120750.d.html</link>
-            <guid>1976927</guid>
-            <pubDate>Sat, 16 Jan 2021 15:10:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【宝马计划2021年在全球销售10万辆纯电动车】宝马集团董事长齐普策（OliverZipse）在第七届中国电动汽车百人会论坛上透露，宝马集团计划在2021年全球销售10万辆纯电动车。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftpnnx8118986.d.html</link>
-            <guid>1976917</guid>
-            <pubDate>Sat, 16 Jan 2021 15:04:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【宁德时代董事长曾毓群：未来5年锂电产业市场将进入TWh时代】宁德时代新能源科技股份有限公司创始人、董事长曾毓群在中国电动汽车百人会论坛(2021)上表示，未来5年，锂电产业市场将迎来井喷期，快速进入到TWh时代。从2021年开始，全球锂电池市场需求会有明显的提升，但反观供给端，目前全产业链的产能供给增长相对较慢，有效供给不足。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftpnnx8097558.d.html</link>
-            <guid>1976877</guid>
-            <pubDate>Sat, 16 Jan 2021 13:42:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【发改委副主任林念修：新能源汽车产业良性发展需遏制盲目投资】国家发展和改革委员会副主任林念修表示，国家发展改革委正在会同有关部门，按照市场化、法治化的原则，系统研究加强产业管理、促进新能源汽车健康有序发展的政策措施，严格执行《汽车产业投资管理规定》，坚决遏制盲目上马新能源汽车项目等乱象，持续推动新能源汽车产业高质量发展。（21财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftpnnx8096305.d.html</link>
-            <guid>1976875</guid>
-            <pubDate>Sat, 16 Jan 2021 13:38:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【交通运输部：统筹做好石家庄市应急物资中转运输】交通运输部发布《关于统筹做好石家庄市应急物资中转运输有关工作的通知》，要求确保进出石家庄市各类应急物资和生产生活物资及时装卸、及时入库、及时分拨、及时送达。各地对于短期内向中转调运站运送物资的司机、装卸工等司乘人员，在体温检测正常、核酸检测阴性和封闭管理前提下，原则上不需采取隔离14天措施。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftpnnx8095837.d.html</link>
-            <guid>1976874</guid>
-            <pubDate>Sat, 16 Jan 2021 13:36:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
