@@ -4,11 +4,29 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 16 Jan 2021 19:57:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2021 20:47:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  据媒体报道，考虑到油管检修维护，利比亚的原油产量可能降至100万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8204463.d.html</link>
+            <guid>1977099</guid>
+            <pubDate>Sat, 16 Jan 2021 20:36:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国铁路公司将在就职典礼前暂停华盛顿特区的部分服务】美国铁路公司（Amtrak）于1月16日宣布，由于考虑到总统就职典礼期间的安全问题，该公司将暂停弗吉尼亚州和华盛顿特区南部的部分服务。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8199243.d.html</link>
+            <guid>1977097</guid>
+            <pubDate>Sat, 16 Jan 2021 20:14:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国民主党众议员卢·科雷亚的新冠病毒检测结果呈阳性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7212902.d.html</link>
+            <guid>1977096</guid>
+            <pubDate>Sat, 16 Jan 2021 19:58:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  据媒体报道，美国国会山警察逮捕一名试图闯入华盛顿封锁区的外州男子，这名男子身上携带有武器。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8191622.d.html</link>
@@ -241,30 +259,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftpnnx8090690.d.html</link>
             <guid>1976867</guid>
             <pubDate>Sat, 16 Jan 2021 13:17:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【发改委党组：科学精准实施宏观政策，确保“十四五”开好局起好步】发改委党组发文称，科学精准实施宏观政策，确保“十四五”开好局起好步。继续实施积极的财政政策和稳健的货币政策，保持对经济恢复的必要支持力度。推进“十四五”重大工程项目建设，加大新型基础设施投资力度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftpnnx8090340.d.html</link>
-            <guid>1976866</guid>
-            <pubDate>Sat, 16 Jan 2021 13:15:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  印度总理莫迪：印度将为初创企业提供100亿印度卢比的种子基金。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftpnnx8086823.d.html</link>
-            <guid>1976865</guid>
-            <pubDate>Sat, 16 Jan 2021 13:04:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国泰君安：房地产行业需求向好，高地价仍是隐忧】国泰君安指出，房地产行业销售年末反弹，看好2021年高能级城市需求韧性。拿地窗口期显现，低杠杆房企加大补库存力度。高地价仍是房企未解决的难题。融资限制影响逐渐显现。变革年，看可持续性。2021年行业的数据预计依然不差，但公司层面如何能稳定可持续地赚取利润仍是核心问题，能够内生增长、而非依赖于外部环境的公司才能有巨大的价值提升。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftssan7104872.d.html</link>
-            <guid>1976864</guid>
-            <pubDate>Sat, 16 Jan 2021 13:02:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【比亚迪董事长王传福：电动车全面替代燃油车的时机已成熟】比亚迪股份有限公司董事长王传福在第七届中国电动汽车百人会线上论坛上发表演讲时表示，随着近年来电动车的电池、电机、电控等技术越来越成熟，在加速、噪音、能耗、维修便利性、智能化和全生命周期成本等方面已全面超越了燃油车，电动车全面替代燃油车的时机已成熟。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftssan7101990.d.html</link>
-            <guid>1976863</guid>
-            <pubDate>Sat, 16 Jan 2021 12:51:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
