@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 16 Jan 2021 21:38:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2021 22:47:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【法国新增新冠肺炎确诊病例21406例 累计确诊达2894347例】法国公共卫生部门1月16日当天公布的数据显示，截至当天下午，法国累计新冠肺炎确诊病例达2894347例，较前一日新增21406例。累计死亡病例达70142例。数据显示，法国当前新冠病毒检测呈阳性的比率为6.49%。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7246187.d.html</link>
+            <guid>1977104</guid>
+            <pubDate>Sat, 16 Jan 2021 22:16:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ 【收购计划失败 加拿大零售巨头Couche-Tard转而与家乐福探讨合作】加拿大零售公司Couche-Tard和欧洲零售商家乐福周六在一份联合声明中表示，在收购谈判失败后，两家公司已决定寻找合作机会。Couche-Tard放弃了以162亿欧元（195.7亿美元）收购家乐福的交易，此前法国政府以食品安全为由反对该交易。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8217637.d.html</link>
@@ -235,24 +241,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftpnnx8095837.d.html</link>
             <guid>1976874</guid>
             <pubDate>Sat, 16 Jan 2021 13:36:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国资委：强化企业创新主体地位，进一步加大科技创新投入】1月15日，国资委党委召开扩大会议。会议强调，要推动中央企业以高质量发展为主题，大力推进提质增效，优化国有资本布局结构，深入实施国企改革三年行动。会议指出，要推动中央企业聚焦重点加快突破、率先探索有效路径，强化企业创新主体地位，进一步加大科技创新投入，主动承担国家重大科技任务，加快关键核心技术攻关，勇当促进科技自立自强的国家队，加强创新链和产业链对接。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftpnnx8094780.d.html</link>
-            <guid>1976873</guid>
-            <pubDate>Sat, 16 Jan 2021 13:31:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【发改委党组：防范化解重点领域风险，坚决守住安全底线】发改委党组：强化粮食安全省长责任制，深入实施优质粮食工程，加强种质资源保护和利用，加强高标准农田建设，提高粮食和重要农副产品供给保障能力。提高能源安全稳定可靠供应水平，深入推进煤电油气产供储销体系建设，确保能源安全。防范化解金融风险，运用改革思路和市场化法治化手段处置企业债务违约问题，稳慎推进金融创新。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftssan7111318.d.html</link>
-            <guid>1976871</guid>
-            <pubDate>Sat, 16 Jan 2021 13:24:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【发改委党组：深入实施区域重大战略，拓展区域发展新空间】发改委党组：持续推动北京非首都功能向外疏解转移，高标准、高质量建设雄安新区，加快京津冀、长三角、粤港澳大湾区城际和市域（郊）铁路建设，复制推广长三角生态绿色一体化发展示范区制度创新经验，推进长江经济带生态优先绿色发展，推动黄河流域生态保护和高质量发展。扎实推进以人为核心的新型城镇化，推动大中城市提升功能品质，解决好大城市住房突出问题，加快县城补短板强弱项。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftpnnx8092633.d.html</link>
-            <guid>1976870</guid>
-            <pubDate>Sat, 16 Jan 2021 13:23:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
