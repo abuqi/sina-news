@@ -4,11 +4,41 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 16 Jan 2021 19:00:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2021 19:57:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  据媒体报道，美国国会山警察逮捕一名试图闯入华盛顿封锁区的外州男子，这名男子身上携带有武器。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8191622.d.html</link>
+            <guid>1977095</guid>
+            <pubDate>Sat, 16 Jan 2021 19:42:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[利比亚国家石油公司：为进行连接萨玛油田、达赫拉油田及锡德港的输油管道的维护工作，瓦哈石油公司的原油产量可能下降至多20万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7203954.d.html</link>
+            <guid>1977094</guid>
+            <pubDate>Sat, 16 Jan 2021 19:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国疾控中心：美国新冠肺炎确诊病例从23193703例升至23440774例，死亡病例从387255例升至390938例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8183992.d.html</link>
+            <guid>1977093</guid>
+            <pubDate>Sat, 16 Jan 2021 19:12:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【卫组织：全球新冠肺炎确诊病例超9250万例 死亡病例超200万例】根据世卫组织最新实时统计数据，截至欧洲中部时间1月16日17时52分（北京时间1月17日0时52分），全球累计新冠肺炎确诊病例92506811例，累计死亡病例2001773例。16日全球新冠肺炎确诊病例新增688015例，死亡病例新增14718例。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8183300.d.html</link>
+            <guid>1977092</guid>
+            <pubDate>Sat, 16 Jan 2021 19:09:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  法国新增196例新冠肺炎死亡病例，累计死亡超7万例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8182921.d.html</link>
+            <guid>1977091</guid>
+            <pubDate>Sat, 16 Jan 2021 19:08:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【加拿大新冠肺炎确诊病例累计超过70万例】截止到加拿大东部时间16日12时，加拿大新增新冠肺炎确诊病例5267例，累计确诊达到700974例。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7197176.d.html</link>
@@ -235,30 +265,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftssan7101990.d.html</link>
             <guid>1976863</guid>
             <pubDate>Sat, 16 Jan 2021 12:51:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京将打造“南箭北星”卫星网络产业布局】从北京市经济和信息化局获悉，为进一步推动卫星网络产业、鼓励商业航天企业在京发展，北京近日编制并发布的《北京市支持卫星网络产业发展的若干措施》，明确了“南箭北星”产业布局，建设商业航天产业基地，引导社会力量支持卫星网络产业创新和发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftpnnx8078472.d.html</link>
-            <guid>1976862</guid>
-            <pubDate>Sat, 16 Jan 2021 12:33:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苗圩：我国汽车产业发展面临三大机遇和三大挑战】全国政协经济委员会副主任苗圩指出，当前我国汽车产业发展有着三大机遇，同时也面临三大挑战。从机遇上来看，一是制度优势明显，二是市场空间广阔，三是技术优势不断夯实。最主要的挑战有三个方面：一是芯片问题，二是操作系统问题，三是安全问题。（21世纪经济报道）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftpnnx8077852.d.html</link>
-            <guid>1976861</guid>
-            <pubDate>Sat, 16 Jan 2021 12:31:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币短线下挫约800美元，现报36947.5美元/枚。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftssan7096059.d.html</link>
-            <guid>1976860</guid>
-            <pubDate>Sat, 16 Jan 2021 12:29:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国首套超大型三锚式浮标综合观测平台正式入列运行】1月14日，我国首套具有长期、定点、智能剖面观测功能的超大型三锚式浮标综合观测平台在我国东海海域成功布放，正式加入中国科学院近海海洋观测研究网络东海海洋观测研究站观测阵列。该设施的投入运行结束了我国近海海域缺少长期、定点、实时进行剖面水体观测设施的历史，大大增强了东海站的组网观测能力，提高了观测参数的丰富度，将为海洋科学研究提供更加有力的支撑作用。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftpnnx8075124.d.html</link>
-            <guid>1976858</guid>
-            <pubDate>Sat, 16 Jan 2021 12:20:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
