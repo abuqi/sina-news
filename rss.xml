@@ -4,11 +4,29 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 17 Jan 2021 20:47:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jan 2021 21:38:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【消息人士：耶伦将重申市场决定汇率承诺】美国财长提名人耶伦将于周二出席参议院财政委员会会议，该会议将确认对她的提名。知情人士称，耶伦预计将会议上重申对市场决定汇率的承诺，明确美国不会寻求弱势美元在获得竞争优势（既不会寻求本币贬值，也反对其他国家做这样的尝试）。这一表态将代表美国放弃对美元的放任态度，特朗普经常公开呼吁降低美元汇率。官员称，耶伦将在证词中使用更精确的措辞，以反映过去二十年来美国的长期货币政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-18/detail-ikftpnnx8633846.d.html</link>
+            <guid>1977928</guid>
+            <pubDate>Sun, 17 Jan 2021 21:24:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加密货币短线拉升，以太坊冲高逾30美元至1257美元/枚，比特币涨至36569美元/枚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-18/detail-ikftssan7649093.d.html</link>
+            <guid>1977927</guid>
+            <pubDate>Sun, 17 Jan 2021 21:15:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据媒体援引消息人士：预计美国财长提名人耶伦将重申对市场决定美元汇率的承诺。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-18/detail-ikftssan7646630.d.html</link>
+            <guid>1977926</guid>
+            <pubDate>Sun, 17 Jan 2021 21:04:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  1.5万名国民警卫队士兵抵达华盛顿，保障美国总统就职仪式的安全。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-18/detail-ikftssan7641302.d.html</link>
@@ -217,18 +235,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7537077.d.html</link>
             <guid>1977752</guid>
             <pubDate>Sun, 17 Jan 2021 13:44:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【河北又一地升为高风险】1月17日起，将石家庄新乐市长寿街道调整为高风险地区，将石家庄长安区简筑家园小区、保利花园B区，高新区同祥城小区C区、和合美家小区，裕华区十二化建小区16、17号楼、河北城建学校家属院，栾城区卓达太阳城希望之洲小区，平山县防疫站小区，邢台隆尧县烟草家园（烟草公司家属院）调整为中风险地区。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7533108.d.html</link>
-            <guid>1977750</guid>
-            <pubDate>Sun, 17 Jan 2021 13:30:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【石家庄黄庄公寓集中隔离点占地面积超700亩 第一批隔离房内部安装已接近完工】1月13日起，石家庄在藁城区和正定县交界的黄庄村南建立黄庄公寓集中隔离点，用于集中隔离新冠肺炎确诊病例的密切接触者。今天（17日）是建设的第四天，记者从现场建设指挥部了解到，目前石家庄市已成立由卫健委、公安、消防等8个部门组成的黄庄公寓管理服务中心，并已经到建设现场进行对接，未来将以五十人为一组配备医护人员。目前黄庄公寓从占地510亩增加到700多亩，隔离房间数量从原来的3000间增加到了4160间，目前第一批隔离房已经进入内部安装的尾声。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7532291.d.html</link>
-            <guid>1977749</guid>
-            <pubDate>Sun, 17 Jan 2021 13:27:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
