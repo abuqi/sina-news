@@ -4,11 +4,29 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 17 Jan 2021 05:00:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jan 2021 05:57:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【日本央行料上修经济展望】 日本央行定于周四（21日）发布最新货币决策，路透引述知情人士报导，看好菅义伟政府的刺激方案能缓解发布紧急状态对经济的打击，日本央行料将微幅上修下一财年（始于4月1日）的经济预测。不具名消息人士还表示，央行本周发布的季度经济展望报告，仍会维持日本这个第三大经济体朝向温和复苏的论调。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8378071.d.html</link>
+            <guid>1977609</guid>
+            <pubDate>Sun, 17 Jan 2021 05:56:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国新船接单量超过韩国，时隔两年重回全球第一】工信部日前发布的数据显示，2020年，中国和韩国的新船接单量占全球份额的比例分别为48.8%和41.4%。时隔两年中国重返全球第一，韩国位居第二，日本获得约7%的份额，排名第三。 据统计，2020年，我国造船完工量和手持订单量，分别占世界总量的43.1%和44.7%，继续在国际市场份额中继续领先。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8369931.d.html</link>
+            <guid>1977604</guid>
+            <pubDate>Sun, 17 Jan 2021 05:31:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  比特币现金跌至480美元/枚下方，日内跌2.01%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7384884.d.html</link>
+            <guid>1977571</guid>
+            <pubDate>Sun, 17 Jan 2021 05:22:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[中国地震台网正式测定：01月17日12时44分在云南保山市昌宁县发生4.1级地震，震源深度8千米。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7376164.d.html</link>
@@ -229,12 +247,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8261991.d.html</link>
             <guid>1977125</guid>
             <pubDate>Sun, 17 Jan 2021 00:26:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南京人才购房门槛调整 弄虚作假的企业和人才都将被取消资格】近日，南京市委、市政府发布了《南京市人才购实商品住房办法》，新版的《办法》与2020年版本的办法相比较，在人才买房政策上出现不少变化，比如明确两类企业人才中社保或个税缴纳的时间要求，硕士缴纳6个月及以上，本科缴12个月及以上。对于弄虚作假骗取人才购房证明的情况，《办法》明确取消人才的购房资格、收回房源等，同时还会严惩企业，将取消企业所有人才购房资格。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8256096.d.html</link>
-            <guid>1977122</guid>
-            <pubDate>Sun, 17 Jan 2021 00:06:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
