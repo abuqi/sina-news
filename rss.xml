@@ -4,16 +4,189 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Fri, 22 Jan 2021 17:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jan 2021 19:03:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[  美国纽约州州长科莫：纽约州感染英国变异新冠病毒的人数增至25人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0743209.d.html</link>
-            <guid>1987226</guid>
-            <pubDate>Fri, 22 Jan 2021 17:18:10 GMT</pubDate>
+            <title><![CDATA[  比利时政府宣布有关非必要旅行的禁令，禁令有效期为1月27日至3月1日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0762372.d.html</link>
+            <guid>1987268</guid>
+            <pubDate>Fri, 22 Jan 2021 18:56:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比特币上破33000美元/枚，日内涨超7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9778101.d.html</link>
+            <guid>1987267</guid>
+            <pubDate>Fri, 22 Jan 2021 18:56:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  白宫发言人：拜登已经就纾困法案与立法者进行了交谈，并将很快再次进行交谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9775833.d.html</link>
+            <guid>1987265</guid>
+            <pubDate>Fri, 22 Jan 2021 18:43:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  洲际交易所（ICE）：截至1月19日当周，投机者所持布伦特原油净多头头寸减少659手至314173手；投机者所持汽油净多头头寸增加11535手至81794手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9774427.d.html</link>
+            <guid>1987264</guid>
+            <pubDate>Fri, 22 Jan 2021 18:35:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  白宫：拜登将于今天晚些时候与墨西哥总统洛佩斯进行通话。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9774214.d.html</link>
+            <guid>1987263</guid>
+            <pubDate>Fri, 22 Jan 2021 18:34:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 上期所原油期货2103合约夜盘收跌0.62%，报335.30元人民币/桶。沪金夜盘收涨0.13%，沪银收跌0.77%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9773580.d.html</link>
+            <guid>1987262</guid>
+            <pubDate>Fri, 22 Jan 2021 18:31:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  爱尔兰报告新增2371例新冠肺炎确诊病例，新增52例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9772199.d.html</link>
+            <guid>1987260</guid>
+            <pubDate>Fri, 22 Jan 2021 18:23:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国华盛顿特区允许当地餐厅开放25％的室内用餐容量】当地时间1月22日，美国华盛顿特区市长穆丽尔·鲍泽宣布取消严禁餐厅室内用餐的命令，并允许当地餐厅以25％的室内容纳率开放室内用餐。该命令于美国东部时间1月22日凌晨5时开始生效，从而正式结束了华盛顿特区为减慢新冠传播为期一个月的室内用餐禁令。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0755252.d.html</link>
+            <guid>1987259</guid>
+            <pubDate>Fri, 22 Jan 2021 18:18:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  芬兰社会服务部长：芬兰加强边境控制以减缓变异病毒的传播。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0754984.d.html</link>
+            <guid>1987257</guid>
+            <pubDate>Fri, 22 Jan 2021 18:16:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  拜登经济顾问Deese：拜登政府将于周日与部分参议员讨论经济刺激计划的必要性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0754627.d.html</link>
+            <guid>1987256</guid>
+            <pubDate>Fri, 22 Jan 2021 18:15:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  拜登经济顾问Deese：希望国会尽快就援助计划采取行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0753399.d.html</link>
+            <guid>1987254</guid>
+            <pubDate>Fri, 22 Jan 2021 18:08:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  贝克休斯：美国石油和天然气钻井数量连续第九周录得增加。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9768335.d.html</link>
+            <guid>1987252</guid>
+            <pubDate>Fri, 22 Jan 2021 18:04:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国钻井数据公布后，美、布两油短线波动暂不大。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9767864.d.html</link>
+            <guid>1987251</guid>
+            <pubDate>Fri, 22 Jan 2021 18:01:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至1月22日当周石油钻井总数289口，前值287口，预期289口。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0752096.d.html</link>
+            <guid>1987250</guid>
+            <pubDate>Fri, 22 Jan 2021 18:01:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：巴西央行可能在6月开始上调巴西基准利率。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9767451.d.html</link>
+            <guid>1987249</guid>
+            <pubDate>Fri, 22 Jan 2021 17:59:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国农产品期货下跌，CBOT大豆期货、小麦期货跌超4%，CBOT玉米期货跌4.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9766419.d.html</link>
+            <guid>1987248</guid>
+            <pubDate>Fri, 22 Jan 2021 17:54:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国参议院对特朗普的弹劾审判将在美东时间26日13时开始】据英国《卫报》报道，对特朗普进行弹劾审判的时间将由佩洛西、麦康奈尔和舒默共同确定。佩洛西可以决定何时将众议院通过的弹劾条款提交参议院。一旦提交，24小时内对特朗普的弹劾审判将正式启动。CNN称，25日提交弹劾条款意味着弹劾审判将在美国东部时间26日13时（北京时间27日凌晨02:00）开始，除非两党在参议院达成新的协议。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9765780.d.html</link>
+            <guid>1987247</guid>
+            <pubDate>Fri, 22 Jan 2021 17:51:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据《华盛顿邮报》：美国民主党人起草了有关向有小孩的家庭发放支票的计划草案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0749539.d.html</link>
+            <guid>1987246</guid>
+            <pubDate>Fri, 22 Jan 2021 17:49:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[游戏驿站盘中触发熔断，停牌前上涨69.23%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9764625.d.html</link>
+            <guid>1987244</guid>
+            <pubDate>Fri, 22 Jan 2021 17:45:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  西班牙新增18187例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0748841.d.html</link>
+            <guid>1987243</guid>
+            <pubDate>Fri, 22 Jan 2021 17:45:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[世卫组织流行病学家VanKerkhove：新冠肺炎确诊病例数下降表明卫生措施有效。 防控措施必须以渐进和稳定的方式解除。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0748354.d.html</link>
+            <guid>1987242</guid>
+            <pubDate>Fri, 22 Jan 2021 17:43:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高盛称拜登政府前期措施对油价构成利好】高盛称，美国总统乔·拜登前期的措施可能对今明两年石油市场构成支撑。分析师Damien Courvalin和Jeff Currie等人在1月21日报告中称，拜登政府可能侧重财政支出，缺乏解除对伊朗制裁的紧迫性，加之北美能源行业受到限制，都可能对油价形成支撑。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0747364.d.html</link>
+            <guid>1987240</guid>
+            <pubDate>Fri, 22 Jan 2021 17:39:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其总统埃尔多安：我绝对反对高利率。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0747078.d.html</link>
+            <guid>1987239</guid>
+            <pubDate>Fri, 22 Jan 2021 17:37:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国首相约翰逊：不排除对边境采取进一步措施的可能性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0747039.d.html</link>
+            <guid>1987238</guid>
+            <pubDate>Fri, 22 Jan 2021 17:37:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国政府首席医疗顾问惠蒂：卫生服务中心的负荷率已达到最高水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0746989.d.html</link>
+            <guid>1987236</guid>
+            <pubDate>Fri, 22 Jan 2021 17:37:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【英国首相约翰逊：有证据显示英国变异毒株的死亡率或更高】英国首相约翰逊在唐宁街举行的新闻发布会上表示，有一些证据显示，在该国发现的新冠变异毒株可能导致更高的死亡率。此前已有证据显示，英国变异毒株的传播速度更快。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9762660.d.html</link>
+            <guid>1987234</guid>
+            <pubDate>Fri, 22 Jan 2021 17:36:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【游戏驿站一年不到涨22倍，今年迄今翻两倍，被数次攻击后香橼放弃评论该股】游戏驿站涨幅扩大至超38%，刷新纪录高位至59.54美元，今年迄今累涨超210%；较去年4月低点2.57美元累涨超22倍。最近看空该股的香橼宣布不再评论该股，此前香橼因该股遭到多次攻击，包括据称针对Andrew Left家人的攻击。Andrew Left称，停止评论该股，因拥有这只股票的愤怒暴徒在过去48小时内涉嫌犯罪，并将移交给FBI、SEC和其他政府机构。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9761507.d.html</link>
+            <guid>1987233</guid>
+            <pubDate>Fri, 22 Jan 2021 17:30:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国政府首席科学顾问瓦兰斯：没有证据表明南非和巴西的新毒株传播性更强。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9761431.d.html</link>
+            <guid>1987232</guid>
+            <pubDate>Fri, 22 Jan 2021 17:30:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[数百名部署到美国首都华盛顿的国民警卫队官兵感染新冠肺炎病毒。（Politico）]]></title>
+            <guid>1987230</guid>
+            <pubDate>Fri, 22 Jan 2021 17:29:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国首相约翰逊：预计新冠肺炎死亡病例数将继续处于高位。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9759950.d.html</link>
+            <guid>1987228</guid>
+            <pubDate>Fri, 22 Jan 2021 17:22:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[国际铜夜盘收涨0.19%，沪铜收涨0.15%，沪铝收涨0.77%，沪锌收涨0.30%，沪铅收涨1.52%，沪镍收涨0.38%，沪锡收涨1.40%。]]></title>
@@ -26,245 +199,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0742708.d.html</link>
             <guid>1987224</guid>
             <pubDate>Fri, 22 Jan 2021 17:15:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国政府首席科学顾问瓦兰斯：三种主要的变异毒株仍令人担忧。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9757186.d.html</link>
-            <guid>1987219</guid>
-            <pubDate>Fri, 22 Jan 2021 17:09:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[1月22日起，吉林省各高速公路出口对黑龙江车辆进行检查劝返。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9755156.d.html</link>
-            <guid>1987216</guid>
-            <pubDate>Fri, 22 Jan 2021 17:00:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据德国商报：德国寻求对外国投资者进行更多安全检查。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9754746.d.html</link>
-            <guid>1987215</guid>
-            <pubDate>Fri, 22 Jan 2021 16:57:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国国防部：美国新任国防部长Lloyd Austin将于当地时间下午3:45（北京时间凌晨4:45）与北约秘书长斯托尔滕贝格进行通话。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9754713.d.html</link>
-            <guid>1987214</guid>
-            <pubDate>Fri, 22 Jan 2021 16:57:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2020年以来，美元指数走势与风险偏好变化高度一致】以标普500指数作为市场风险偏好指标可以看到，2020年以来，美元指数走势与风险偏好变化高度一致。市场所谓的加风险与去风险（RORO，risk on risk off），成为推动美元波动的重要力量。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0738342.d.html</link>
-            <guid>1987213</guid>
-            <pubDate>Fri, 22 Jan 2021 16:54:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家安全顾问Sullivan：国会参议院许多成员希望与总统拜登开会，讨论石油与天然气问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0738305.d.html</link>
-            <guid>1987212</guid>
-            <pubDate>Fri, 22 Jan 2021 16:53:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  2020年，欧洲央行的资产购买计划吸收了85%的净政府债券发行。昨日议息会议拉加德的新闻稿亦表明，PEPP下的资产购买既不是收益率曲线控制，也不是利差曲线控制，而是融资条件控制。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9753757.d.html</link>
-            <guid>1987211</guid>
-            <pubDate>Fri, 22 Jan 2021 16:51:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据德媒Funke：德国扩大了对旅客的新冠病毒检测阴性要求。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9753755.d.html</link>
-            <guid>1987210</guid>
-            <pubDate>Fri, 22 Jan 2021 16:51:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国料下调2021年经济展望】德国经济部长Peter Altmaier将在下周三的新闻发布会上公布最新展望。知情人士透露，政府目前预计2021年将增长3%，低于10月底预期的4.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0736759.d.html</link>
-            <guid>1987209</guid>
-            <pubDate>Fri, 22 Jan 2021 16:44:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【欧股全线收跌】欧股全线收跌，德国DAX指数跌0.24%报13873.97点，法国CAC40指数跌0.56%报5559.57点，英国富时100指数跌0.3%报6695.07点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9752466.d.html</link>
-            <guid>1987208</guid>
-            <pubDate>Fri, 22 Jan 2021 16:43:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【比特币的下一个技术支撑可能在23,000美元附近】比特币本周快速坠落，可能会让位于23,000美元一线附近的一个潜在支撑区域进入视野；这里是从去年3月开始，到今年1月8日触及纪录高位，全部涨势的50%回撤位。周五亚洲时段这种最大的加密货币一度跌破30,000美元，而本月初曾升至近42,000美元。摩根大通策略师周四在一份报告中写道，比特币不是很可靠的防御性对冲工具。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9751245.d.html</link>
-            <guid>1987207</guid>
-            <pubDate>Fri, 22 Jan 2021 16:38:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  金融博客零对冲评美国至1月15日当周EIA数据：美国能源信息署的数据证实了API数据的真实性，这是今年以来首次当周原油产量录得增加，但总体原油库存仍在9个月低位徘徊。这表明尽管油价上涨，美国原油生产仍在钻井数量显著增加的基础下有序进行。此外，上周俄克拉荷马州库欣原油库存大幅减少，而库欣原油是WTI原油定价的重要因素。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0734016.d.html</link>
-            <guid>1987205</guid>
-            <pubDate>Fri, 22 Jan 2021 16:32:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：美国共和党参议员Thune对参议院今天就耶伦财长提名进行确认投票持怀疑态度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9749760.d.html</link>
-            <guid>1987204</guid>
-            <pubDate>Fri, 22 Jan 2021 16:32:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【游戏驿站股价持续上涨，香橼宣布放弃评论该公司】游戏驿站（GME）涨幅扩大至超过14%，刷新盘中历史高位至49.49美元，较1月12日收盘价飙升逾148.72%。做空机构香橼的积极卖空者Andrew Edward Left表示，香橼将不再置评游戏驿站。香橼曾在周二（1月19日）表示，游戏驿站的股价可能会跌回20美元。然而，游戏驿站股价当天仍然收涨将近10.9%。值得一提的是，1月13日，游戏驿站股价就上涨57.39%，随后持续上扬。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0733959.d.html</link>
-            <guid>1987203</guid>
-            <pubDate>Fri, 22 Jan 2021 16:31:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国众议院议长佩洛西：众议院将在1月25日将弹劾条款提交至参议院。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0733874.d.html</link>
-            <guid>1987202</guid>
-            <pubDate>Fri, 22 Jan 2021 16:31:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[做空机构香橼Andrew Left：香橼不再评论艺电。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9746278.d.html</link>
-            <guid>1987201</guid>
-            <pubDate>Fri, 22 Jan 2021 16:18:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【电商股Jumia不到一年暴涨24倍，香橼看涨至100美元】在美上市非洲电商Jumia Technologie涨幅扩大至超16%，刷新盘中纪录新高至2.15美元，较2020年3月18日低点2.15美元翻24倍；香橼研究创始人Andrew Left表示看涨Jumia至100美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9745831.d.html</link>
-            <guid>1987200</guid>
-            <pubDate>Fri, 22 Jan 2021 16:16:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[电子烟生产商雾芯科技 (RLX.N) 美国IPO首日盘初涨幅扩大至137%，最高触及28.61美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9745457.d.html</link>
-            <guid>1987199</guid>
-            <pubDate>Fri, 22 Jan 2021 16:14:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国取暖油期货收窄跌幅，此前公布的数据显示上周蒸馏油库存增幅小于预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9744750.d.html</link>
-            <guid>1987198</guid>
-            <pubDate>Fri, 22 Jan 2021 16:11:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国能源信息署（EIA）：美国东海岸炼油厂利用率升至2019年8月以来的新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9744399.d.html</link>
-            <guid>1987197</guid>
-            <pubDate>Fri, 22 Jan 2021 16:10:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国能源信息署（EIA）：上周美国炼油厂利用率升至去年三月以来最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9744199.d.html</link>
-            <guid>1987196</guid>
-            <pubDate>Fri, 22 Jan 2021 16:09:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  意大利报告新增13633例新冠肺炎确诊病例，新增472例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9744164.d.html</link>
-            <guid>1987195</guid>
-            <pubDate>Fri, 22 Jan 2021 16:08:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美、布两油短线回升约0.4美元，现分别报52.54美元/桶和55.53美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9744141.d.html</link>
-            <guid>1987194</guid>
-            <pubDate>Fri, 22 Jan 2021 16:08:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国能源信息署（EIA）：上周美国炼油厂原油净投入升至去年3月底以来的最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9744044.d.html</link>
-            <guid>1987193</guid>
-            <pubDate>Fri, 22 Jan 2021 16:08:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[雾芯科技 (RLX.N)已停牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9743491.d.html</link>
-            <guid>1987192</guid>
-            <pubDate>Fri, 22 Jan 2021 16:05:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[电子烟生产商雾芯科技 (RLX.N) 美国IPO首日开盘上涨将近86.167%，报22.34美元，此前给出的IPO发行价为每ADS 12.00美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9743297.d.html</link>
-            <guid>1987191</guid>
-            <pubDate>Fri, 22 Jan 2021 16:04:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国报告新增1401例新冠肺炎死亡病例，新增40261例确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9743090.d.html</link>
-            <guid>1987190</guid>
-            <pubDate>Fri, 22 Jan 2021 16:03:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  巴西圣保罗州实施新的限制措施以遏制新冠病毒的传播。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0727081.d.html</link>
-            <guid>1987189</guid>
-            <pubDate>Fri, 22 Jan 2021 16:03:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国原油库存变化值连续5周录得下滑后本周录得增长，且创2020年12月11日当周（6周）以来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9742498.d.html</link>
-            <guid>1987188</guid>
-            <pubDate>Fri, 22 Jan 2021 16:01:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美、布两油短线下挫近0.3美元，现分别报52.23美元/桶和55.18美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9742408.d.html</link>
-            <guid>1987187</guid>
-            <pubDate>Fri, 22 Jan 2021 16:01:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至1月15日当周EIA原油库存435.1万桶，前值-324.8万桶，预期-116.7万桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9742263.d.html</link>
-            <guid>1987186</guid>
-            <pubDate>Fri, 22 Jan 2021 16:00:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  哔哩哔哩(BILI.O)涨5.5%，传其港股将于三月初开始招股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-22/detail-ikftssan9741622.d.html</link>
-            <guid>1987185</guid>
-            <pubDate>Fri, 22 Jan 2021 15:57:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特殊目的收购公司Climate Change目前涨58%，盘初一度涨近80%；报道称美国充电站企业EVgo将与该公司合并上市，交易最早于今日完成。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-22/detail-ikftssan9740918.d.html</link>
-            <guid>1987184</guid>
-            <pubDate>Fri, 22 Jan 2021 15:53:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【民航局对厦航、瑞士航空发出熔断指令】根据中国民航局官网发布的消息，1月22日，民航局再发熔断指令，对厦门航空公司和瑞士航空公司的2个航班实施熔断措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-22/detail-ikftssan9740369.d.html</link>
-            <guid>1987183</guid>
-            <pubDate>Fri, 22 Jan 2021 15:50:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：美国参议院已有足够票数确认Lloyd Austin为国防部长；投票仍在进行中。]]></title>
-            <guid>1987181</guid>
-            <pubDate>Fri, 22 Jan 2021 15:46:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国金融行为监管局（FCA）：保险公司应该尽快支付商业保险索赔。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-22/detail-ikftssan9739292.d.html</link>
-            <guid>1987180</guid>
-            <pubDate>Fri, 22 Jan 2021 15:45:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【公募基金规模突破20万亿元 爆款权益基金大缩水】2020年，在A股显著的结构性行情下，公募基金规模也水涨船高，天相投顾1月22日发布的2020年四季报数据显示，公募基金总规模已达到20.16万亿元。整体来看，四季度仅货币基金和FOF基金出现了净申购，股票型基金、混合型基金、债券型基金等均出现了不同程度的净赎回。显著的结构性行情也助推了2020年新基金发行市场的火爆，一日售罄、发行规模超百亿的爆款基金一度“周周见”。但基金四季报显示，多只去年成立的爆款基金遭遇大规模赎回，有的甚至净赎回率达到70%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-22/detail-ikftssan9739091.d.html</link>
-            <guid>1987179</guid>
-            <pubDate>Fri, 22 Jan 2021 15:44:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【波罗的海干散货指数连续第六周上涨】受所有船型运价指数增长的提振，波罗的海干散货指数连续第六周录得上涨，但因海岬型船运价指数走低，波罗的海干散货指数周五下跌27点或1.5%，报1810点，本周上涨3.2%，在过去的九个交易周中，该指数有八周是上涨的。海岬型船运价指数下跌107点或3.5%，至2970点，本周上涨2.7%，已连续第五周上涨，日均获利下降884美元至24631美元。巴拿马型船运价指数上涨20点或1.2%，至1659点，为5个月以来的高位，本周上涨2.7%，日均获利上涨185美元至14934美元。超灵便型船运价指数上涨9点至1142点，为近15个月以来的新高，本周上涨5.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-22/detail-ikftpnny0722871.d.html</link>
-            <guid>1987178</guid>
-            <pubDate>Fri, 22 Jan 2021 15:41:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国共和党议员科宁预计参议院今天将对耶伦进行投票。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-22/detail-ikftssan9738477.d.html</link>
-            <guid>1987177</guid>
-            <pubDate>Fri, 22 Jan 2021 15:41:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：康希诺生物接近公布墨西哥三期试验的结果。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-22/detail-ikftpnny0722739.d.html</link>
-            <guid>1987176</guid>
-            <pubDate>Fri, 22 Jan 2021 15:41:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
