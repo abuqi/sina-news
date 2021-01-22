@@ -4,11 +4,70 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Fri, 22 Jan 2021 19:03:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jan 2021 20:01:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  欧盟卫生事务专员StellaKyriakides：欧盟方面希望阿斯利康提供准确的交付时间表。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0772605.d.html</link>
+            <guid>1987284</guid>
+            <pubDate>Fri, 22 Jan 2021 19:51:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  南非累计新冠肺炎死亡病例突破4万例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9787891.d.html</link>
+            <guid>1987283</guid>
+            <pubDate>Fri, 22 Jan 2021 19:48:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：英国首相的新闻助理开始自我隔离。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0771960.d.html</link>
+            <guid>1987282</guid>
+            <pubDate>Fri, 22 Jan 2021 19:47:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AMC娱乐目前上涨19%，3B家居一度涨17%，游戏驿站盘中一度涨78%；这三只被大量做空的股票今日盘中均大幅上涨。3B家具卖空头寸比率达70%，AMC达25%，而游戏驿站则达到151%。]]></title>
+            <guid>1987280</guid>
+            <pubDate>Fri, 22 Jan 2021 19:46:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI 3月原油期货收跌0.86美元，跌幅1.62%报52.27美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9785057.d.html</link>
+            <guid>1987277</guid>
+            <pubDate>Fri, 22 Jan 2021 19:34:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[COMEX 2月黄金期货收跌0.52%，报1856.20美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0768145.d.html</link>
+            <guid>1987276</guid>
+            <pubDate>Fri, 22 Jan 2021 19:29:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据沙特通讯社：沙特将派代表与乌兹别克斯坦讨论有关两国关系的问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9781541.d.html</link>
+            <guid>1987275</guid>
+            <pubDate>Fri, 22 Jan 2021 19:16:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：拜登政府将于周日与立法者讨论刺激计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9781520.d.html</link>
+            <guid>1987274</guid>
+            <pubDate>Fri, 22 Jan 2021 19:16:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  法国过去24小时新增23292例新冠肺炎确诊病例和649例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0764161.d.html</link>
+            <guid>1987273</guid>
+            <pubDate>Fri, 22 Jan 2021 19:07:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  法国累计新冠肺炎确诊病例超300万例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0763713.d.html</link>
+            <guid>1987271</guid>
+            <pubDate>Fri, 22 Jan 2021 19:04:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  比利时政府宣布有关非必要旅行的禁令，禁令有效期为1月27日至3月1日。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0762372.d.html</link>
@@ -158,47 +217,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0746989.d.html</link>
             <guid>1987236</guid>
             <pubDate>Fri, 22 Jan 2021 17:37:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【英国首相约翰逊：有证据显示英国变异毒株的死亡率或更高】英国首相约翰逊在唐宁街举行的新闻发布会上表示，有一些证据显示，在该国发现的新冠变异毒株可能导致更高的死亡率。此前已有证据显示，英国变异毒株的传播速度更快。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9762660.d.html</link>
-            <guid>1987234</guid>
-            <pubDate>Fri, 22 Jan 2021 17:36:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【游戏驿站一年不到涨22倍，今年迄今翻两倍，被数次攻击后香橼放弃评论该股】游戏驿站涨幅扩大至超38%，刷新纪录高位至59.54美元，今年迄今累涨超210%；较去年4月低点2.57美元累涨超22倍。最近看空该股的香橼宣布不再评论该股，此前香橼因该股遭到多次攻击，包括据称针对Andrew Left家人的攻击。Andrew Left称，停止评论该股，因拥有这只股票的愤怒暴徒在过去48小时内涉嫌犯罪，并将移交给FBI、SEC和其他政府机构。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9761507.d.html</link>
-            <guid>1987233</guid>
-            <pubDate>Fri, 22 Jan 2021 17:30:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国政府首席科学顾问瓦兰斯：没有证据表明南非和巴西的新毒株传播性更强。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9761431.d.html</link>
-            <guid>1987232</guid>
-            <pubDate>Fri, 22 Jan 2021 17:30:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[数百名部署到美国首都华盛顿的国民警卫队官兵感染新冠肺炎病毒。（Politico）]]></title>
-            <guid>1987230</guid>
-            <pubDate>Fri, 22 Jan 2021 17:29:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国首相约翰逊：预计新冠肺炎死亡病例数将继续处于高位。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9759950.d.html</link>
-            <guid>1987228</guid>
-            <pubDate>Fri, 22 Jan 2021 17:22:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际铜夜盘收涨0.19%，沪铜收涨0.15%，沪铝收涨0.77%，沪锌收涨0.30%，沪铅收涨1.52%，沪镍收涨0.38%，沪锡收涨1.40%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9758689.d.html</link>
-            <guid>1987225</guid>
-            <pubDate>Fri, 22 Jan 2021 17:16:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国纽约州报告新增15144例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0742708.d.html</link>
-            <guid>1987224</guid>
-            <pubDate>Fri, 22 Jan 2021 17:15:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
