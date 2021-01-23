@@ -4,11 +4,28 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 23 Jan 2021 14:00:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2021 14:48:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  中国地震台网正式测定：01月23日22时28分在南海海域发生3.1级地震，震源深度10千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny1042260.d.html</link>
+            <guid>1988663</guid>
+            <pubDate>Sat, 23 Jan 2021 14:47:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【工信部：QQ同步助手、360清理大师、永辉生活等157款APP未完成整改 应在1月29日前完成整改落实工作】工信部发布关于侵害用户权益行为的APP通报，近期组织第三方检测机构对手机应用软件进行检查，督促存在问题的企业进行整改。。截至目前，尚有包括QQ同步助手、360清理大师、永辉生活等157款APP未完成整改，上述APP应在1月29日前完成整改落实工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny1036222.d.html</link>
+            <guid>1988621</guid>
+            <pubDate>Sat, 23 Jan 2021 14:15:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特殊目的收购公司Climate Change目前涨58%，盘初一度涨近80%；报道称美国充电站企业EVgo将与该公司合并上市，交易最早于今日完成。]]></title>
+            <guid>1988609</guid>
+            <pubDate>Sat, 23 Jan 2021 14:07:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  俄外交部发言人谈及美国大使馆发布“示威路线”时说，俄外交部将召见美国外交官并要求美方给出解释。（卫星新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssap0047790.d.html</link>
@@ -217,18 +234,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9989314.d.html</link>
             <guid>1988105</guid>
             <pubDate>Sat, 23 Jan 2021 09:20:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【沙特为首多国联军司令部：沙特防空部队成功拦截“一个空中目标”】沙特为首多国联军司令部当地时间23日上午发布声明称，沙特防空部队当天早些时候在首都利雅得上空成功拦截“一个空中目标”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9987955.d.html</link>
-            <guid>1988104</guid>
-            <pubDate>Sat, 23 Jan 2021 09:14:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【李克强对全国安全生产电视电话会议作出重要批示：创新安全监管方式 建立企业安全风险分级管控和主动报告等制度】国务院1月23日召开全国安全生产电视电话会议。中共中央政治局常委、国务院总理李克强作出重要批示。批示指出，坚持人民至上、生命至上，落实统筹发展与安全的要求，进一步压实各环节安全生产责任，持续抓好安全生产基础建设；提高精准执法和服务水平，强化源头治理，聚焦重点行业领域和薄弱环节，深入开展安全生产专项整治三年行动集中攻坚，有效化解风险隐患；创新安全监管方式，建立企业安全风险分级管控和主动报告等制度，提高监管效能，增强应急响应和救援能力，坚决防范遏制重特大事故，为维护人民群众生命财产安全、保障经济社会发展、实现“十四五”良好开局作出新贡献。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0967759.d.html</link>
-            <guid>1988093</guid>
-            <pubDate>Sat, 23 Jan 2021 08:59:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
