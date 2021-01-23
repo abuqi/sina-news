@@ -4,11 +4,41 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 23 Jan 2021 19:01:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2021 19:58:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  中国地震台网自动测定：01月24日03时38分在黑龙江黑河市嫩江市附近发生3.1级左右地震，最终结果以正式速报为准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0116381.d.html</link>
+            <guid>1988878</guid>
+            <pubDate>Sat, 23 Jan 2021 19:41:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  法国过去24小时内新增23924例新冠肺炎确诊病例，新增死亡病例230例，累计死亡72877例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1099713.d.html</link>
+            <guid>1988877</guid>
+            <pubDate>Sat, 23 Jan 2021 19:36:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国累计新冠肺炎确证病例数为24704417例，前一日为24512618例，累计死亡病例412592例，前一日为408697例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1098140.d.html</link>
+            <guid>1988875</guid>
+            <pubDate>Sat, 23 Jan 2021 19:28:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【世卫组织：全球累计新冠确诊病例达96877399例】世卫组织网站最新数据显示，截至欧洲中部时间23日16时57分（北京时间23时57分），全球确诊病例较前一日增加600790例，达到96877399例；死亡病例增加15846例，达到2098879例。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0113050.d.html</link>
+            <guid>1988871</guid>
+            <pubDate>Sat, 23 Jan 2021 19:24:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  五角大楼：美国国防部长奥斯丁与英国国防大臣华莱士进行了通话。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0109522.d.html</link>
+            <guid>1988844</guid>
+            <pubDate>Sat, 23 Jan 2021 19:05:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【意大利新增新冠肺炎确诊病例13331例 累计确诊2455185例】根据意大利卫生部当地时间1月23日公布的最新数据，过去24小时意大利新增新冠肺炎确诊病例13331例，累计确诊2455185例；新增死亡488例，累计死亡85162例；新增治愈16062例，累计治愈1871189例。现存确诊病例498834例。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0105525.d.html</link>
@@ -199,18 +229,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny1008578.d.html</link>
             <guid>1988143</guid>
             <pubDate>Sat, 23 Jan 2021 11:59:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  沙特外长：希望以色列与一些中东国家达成协议将产生积极影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny1007062.d.html</link>
-            <guid>1988140</guid>
-            <pubDate>Sat, 23 Jan 2021 11:51:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  奥地利外交部表示，为了避免新冠病毒突变传播，该国自1月25日至2月7日禁止来自巴西的客机降落。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny1006393.d.html</link>
-            <guid>1988136</guid>
-            <pubDate>Sat, 23 Jan 2021 11:47:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
