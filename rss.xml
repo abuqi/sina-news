@@ -4,11 +4,41 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 23 Jan 2021 20:48:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2021 21:39:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【尼日利亚发生油罐车爆炸事故致4死11伤】尼日利亚三角洲州22日晚发生一起油罐车爆炸事故，造成4人死亡、11人受重伤。爆炸还造成周围多间房屋和多辆汽车损坏。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1122203.d.html</link>
+            <guid>1988987</guid>
+            <pubDate>Sat, 23 Jan 2021 21:37:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  伊朗外长扎里夫：伊朗方面可以与美国就波斯湾安全问题开展合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0133244.d.html</link>
+            <guid>1988956</guid>
+            <pubDate>Sat, 23 Jan 2021 21:10:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：英国首相约翰逊与美国总统拜登讨论了可能达成自由贸易协议的问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0132238.d.html</link>
+            <guid>1988947</guid>
+            <pubDate>Sat, 23 Jan 2021 21:04:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国首相约翰逊：期待深化英美两国之间的关系。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0130120.d.html</link>
+            <guid>1988935</guid>
+            <pubDate>Sat, 23 Jan 2021 20:54:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国洛杉矶一座教堂凌晨发生爆炸事件 现场无人员伤亡】当地时间1月23日凌晨，位于洛杉矶县艾尔蒙地市的一座教堂发生爆炸事件，现场没有人受伤，警方表示这是一起蓄意破坏事件。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0129637.d.html</link>
+            <guid>1988932</guid>
+            <pubDate>Sat, 23 Jan 2021 20:51:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  英国首相约翰逊：已经与美国总统拜登进行过沟通。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1113190.d.html</link>
@@ -181,48 +211,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssap0036955.d.html</link>
             <guid>1988386</guid>
             <pubDate>Sat, 23 Jan 2021 13:06:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 【2020年韩国全国住宅交易价格上涨5.36% 创下9年来最大涨幅】韩国房地产部门近日公布数据显示，2020年韩国全国住宅交易价格上涨5.36%，创下9年来最大涨幅。进入到2021年，韩国房价还在继续上涨。韩国房地产部门每周住房价格动向报告显示，1月第三周首都圈住房价格环比上涨0.31%，创下有这项统计以来8年零8个月的最高纪录。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssap0034045.d.html</link>
-            <guid>1988330</guid>
-            <pubDate>Sat, 23 Jan 2021 12:51:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【特朗普向道德律师鲍尔斯求助 请求对方为其弹劾案进行辩护】“布奇·鲍尔斯习惯于在道德案件中为公职人员辩护。但他从来没有面对过这样的情况。”美联社当地时间1月23日报道称，美国前总统特朗普向道德律师鲍尔斯求助，请求对方为其弹劾案进行辩护。 (环球网)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssap0031533.d.html</link>
-            <guid>1988293</guid>
-            <pubDate>Sat, 23 Jan 2021 12:38:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳龙华区发现1例新冠肺炎核酸阳性人员】1月23日，深圳市龙华区在对入境隔离酒店第三方外包服务保障人员进行例行监测中，发现1例新冠肺炎核酸阳性人员。赵某，男性，34岁，经市疾控中心复核为阳性。其同住人员核酸检测结果均为阴性。初步排查，密接人员24名。（深圳发布）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssap0029767.d.html</link>
-            <guid>1988262</guid>
-            <pubDate>Sat, 23 Jan 2021 12:29:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【张道根：上海金融服务实体经济功能有待加强，中小银行、社区银行等尤需支持】上海市政协常委张道根在上海市政协十三届四次会议网上交流活动中指出，上海的金融交易量去年超过2000万亿人民币，但是服务实体经济，带动国际国内生产要素流动配置的功能还不够强。他建议，要进一步开放金融市场，放宽外资金融机构的准入，推出更多面向国际的金融产品、金融服务，统筹离岸金融和在岸金融共同发展，促进国内金融、产业、科技资源同国际全方位的流动重组。（21财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssap0028565.d.html</link>
-            <guid>1988229</guid>
-            <pubDate>Sat, 23 Jan 2021 12:22:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【上海市政协常委张道根：要进一步开放金融市场 放宽外资金融机构的准入】上海市政协常委、上海社科院原院长张道根在上海市政协十三届四次会议网上交流活动中指出，上海的金融交易量去年超过2000万亿人民币，但是服务实体经济，带动国际国内生产要素流动配置的功能还不够强。他建议，要进一步开放金融市场，放宽外资金融机构的准入，推出更多面向国际的金融产品、金融服务，统筹离岸金融和在岸金融共同发展，促进国内金融、产业、科技资源同国际全方位的流动重组。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssap0028432.d.html</link>
-            <guid>1988227</guid>
-            <pubDate>Sat, 23 Jan 2021 12:22:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【上海市政协主席董云虎：上海五大新城定位不是城市副中心 而是现代化大城市、长三角增长极】上海市政协主席、党组书记董云虎在上海市政协十三届四次会议委员与市民网上交流会上强调，嘉定、青浦、松江、奉贤和南汇等五大新城的定位是独立的综合性节点城市，而不是城市副中心，也不是卫星城或郊区新城。其目的是要建成现代化的大城市、长三角的增长极，从根本上改变郊区发展洼地的状况。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssap0027859.d.html</link>
-            <guid>1988225</guid>
-            <pubDate>Sat, 23 Jan 2021 12:19:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【上海市政协委员陆铭：上海积分落户的标准有望主要以社保缴纳年限和实际居住年限为主】在下午举行的市政协十三届四次会议委员与市民网上交流会上，上海市政协委员、上海交通大学安泰经济管理学院教授陆铭表示，人才向大城市的集中不应受到制度性的障碍，上海应该通过人才落户政策的改革来顺应这一趋势。未来，上海积分落户的标准有望主要以社保缴纳年限和实际居住年限为主。同时，居民获得上海市居住证之后，在很大程度上就能够享受均等化的公共服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssap0027637.d.html</link>
-            <guid>1988219</guid>
-            <pubDate>Sat, 23 Jan 2021 12:18:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
