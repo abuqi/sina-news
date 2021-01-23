@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 23 Jan 2021 21:39:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2021 22:48:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[伊拉克警方于当地时间1月23日称，极端组织“伊斯兰国”武装分子当天在伊北部萨拉赫丁省发动袭击，造成5人死亡、4人受伤。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0150186.d.html</link>
+            <guid>1989001</guid>
+            <pubDate>Sat, 23 Jan 2021 22:46:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国累计新冠肺炎确诊病例逼近2500万例】据美国约翰斯·霍普金斯大学截至美东时间23日下午15时21分的数据，美国累计新冠肺炎确诊病例已达24934941例，逼近2500万例。死亡人数升至416289人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1127469.d.html</link>
+            <guid>1989000</guid>
+            <pubDate>Sat, 23 Jan 2021 22:09:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【尼日利亚发生油罐车爆炸事故致4死11伤】尼日利亚三角洲州22日晚发生一起油罐车爆炸事故，造成4人死亡、11人受重伤。爆炸还造成周围多间房屋和多辆汽车损坏。（新华社）]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1122203.d.html</link>
@@ -199,18 +211,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssap0047790.d.html</link>
             <guid>1988561</guid>
             <pubDate>Sat, 23 Jan 2021 13:57:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  山西晋中拓展重点区域核酸检测全部阴性。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny1022299.d.html</link>
-            <guid>1988388</guid>
-            <pubDate>Sat, 23 Jan 2021 13:09:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以太坊回落至1200美元/枚下方，日内跌2.91%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssap0036955.d.html</link>
-            <guid>1988386</guid>
-            <pubDate>Sat, 23 Jan 2021 13:06:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
