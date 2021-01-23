@@ -4,11 +4,41 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 23 Jan 2021 15:43:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2021 17:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  意大利总理孔特：将采取一切可行的法律工具来确保合约得以履行。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0079286.d.html</link>
+            <guid>1988755</guid>
+            <pubDate>Sat, 23 Jan 2021 16:36:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  云南省卫健委：1月23日0时至24时，我省无新增确诊病例和无症状感染者。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1057389.d.html</link>
+            <guid>1988731</guid>
+            <pubDate>Sat, 23 Jan 2021 16:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国新增33552例新冠肺炎确诊病例，前一日为新增40261例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1056558.d.html</link>
+            <guid>1988725</guid>
+            <pubDate>Sat, 23 Jan 2021 16:05:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  意大利新增新冠肺炎死亡病例488例，前一日为新增472例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0071736.d.html</link>
+            <guid>1988724</guid>
+            <pubDate>Sat, 23 Jan 2021 16:04:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  意大利新增13331例新冠肺炎确诊病例，前一日为新增13633例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1055985.d.html</link>
+            <guid>1988723</guid>
+            <pubDate>Sat, 23 Jan 2021 16:02:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美国纽约州州长科莫：美国纽约州新增13786例新冠肺炎确诊病例，新增144例死亡病例，目前全州住院病例为8802例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssap0064752.d.html</link>
@@ -187,53 +217,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0994049.d.html</link>
             <guid>1988125</guid>
             <pubDate>Sat, 23 Jan 2021 10:44:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  伊朗新增6207例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssap0006269.d.html</link>
-            <guid>1988123</guid>
-            <pubDate>Sat, 23 Jan 2021 10:28:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  伊朗新增69例新冠肺炎死亡病例，为去年6月5日以来最低水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0990859.d.html</link>
-            <guid>1988122</guid>
-            <pubDate>Sat, 23 Jan 2021 10:28:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【上海政协委员建言：建立打击 “非法代孕”的常态化机制】上海市政协透露，包括市政协常委、同济大学外事办公室主任于雪梅、复旦大学附属中山医院青浦分院外科主任医师沈伯明、市高院行政审判庭庭长侯丹华等在内8名政协委员在2021年上海两会期间提交了一份提案，建议建立长效机制，防范“地下代孕”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0990643.d.html</link>
-            <guid>1988121</guid>
-            <pubDate>Sat, 23 Jan 2021 10:27:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  马来西亚新增4275例新冠肺炎确诊病例，新增7例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssap0002948.d.html</link>
-            <guid>1988119</guid>
-            <pubDate>Sat, 23 Jan 2021 10:15:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【华为公布三大健康研究项目 发力可穿戴健康研究】今日下午，华为在花粉年会上首次对外公布了其在运动健康领域最新的三个健康研究项目，包括高血压管理研究、智能体温健康研究和冠心病筛查研究。华为表示，高血压管理研究的目标是基于华为可穿戴血压测量设备，探索从筛查到早期干预的血压创新主动健康管理，而智能体温联合研究，实现高精度连续检测体温，并提供体温异常筛查。冠心病智能筛查与预警研究，则希望借助华为智能手表心电采集能力，科学有效的管理心脏健康。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssap0000244.d.html</link>
-            <guid>1988116</guid>
-            <pubDate>Sat, 23 Jan 2021 10:06:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  民进广东省委会建言：广东应率先实现碳达峰，构建粤港澳大湾区碳市场。（21财经）]]></title>
-            <guid>1988115</guid>
-            <pubDate>Sat, 23 Jan 2021 10:00:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据韩联社：韩国新增2例高致病性的禽流感病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9997913.d.html</link>
-            <guid>1988113</guid>
-            <pubDate>Sat, 23 Jan 2021 09:57:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  波兰新增6322例新冠肺炎确诊病例，新增346例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0977311.d.html</link>
-            <guid>1988110</guid>
-            <pubDate>Sat, 23 Jan 2021 09:34:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
