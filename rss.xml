@@ -4,11 +4,35 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 23 Jan 2021 14:48:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2021 15:43:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国纽约州州长科莫：美国纽约州新增13786例新冠肺炎确诊病例，新增144例死亡病例，目前全州住院病例为8802例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssap0064752.d.html</link>
+            <guid>1988695</guid>
+            <pubDate>Sat, 23 Jan 2021 15:24:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【深圳楼市调控升级，如违规3年不能买房】深圳楼市调控再度升级，严格审查购房人资格，违规将暂停使用网签系统3年。今年以来，深圳已连续使出三记大招加强房地产调控。业内人士指出，这表明深圳房地产调控维持高压态势，若仍有躁动行情，不排除有更严厉的调控措施出台。（中国证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssap0063657.d.html</link>
+            <guid>1988694</guid>
+            <pubDate>Sat, 23 Jan 2021 15:18:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登与墨西哥总统洛佩斯进行了通话，提出了减少移民数量的计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssap0063074.d.html</link>
+            <guid>1988689</guid>
+            <pubDate>Sat, 23 Jan 2021 15:15:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  葡萄牙新增新冠肺炎确诊病例15333例，累计确诊624469例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny1044687.d.html</link>
+            <guid>1988677</guid>
+            <pubDate>Sat, 23 Jan 2021 15:00:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  中国地震台网正式测定：01月23日22时28分在南海海域发生3.1级地震，震源深度10千米。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny1042260.d.html</link>
@@ -210,30 +234,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0977311.d.html</link>
             <guid>1988110</guid>
             <pubDate>Sat, 23 Jan 2021 09:34:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【林郑月娥：香港首次援引规例进行区域封锁 希望尽快检测出新冠患者】1月23日下午，香港特区行政长官林郑月娥前往位于九龙佐敦的“受限区域”视察工作后表示，被封锁的区域近日问题较为严重，特区政府希望尽快检测出新冠病毒感染者并将其尽早隔离，也希望能将影响程度降至最低，让居民下周可正常上班。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9990918.d.html</link>
-            <guid>1988108</guid>
-            <pubDate>Sat, 23 Jan 2021 09:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【英首相称变异病毒或致更高死亡率】当地时间1月22日，英国新增新冠肺炎确诊病例超过4万例，累计确诊已经超过了358万例、新增死亡病例1400例、累计死亡近96000例。英国首相约翰逊当天表示，研究显示，新冠变异病毒除了传播速度更快以外，还可能会导致更高的死亡率。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0974285.d.html</link>
-            <guid>1988107</guid>
-            <pubDate>Sat, 23 Jan 2021 09:22:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港新增新冠肺炎确诊病例81例，累计确诊破万例】香港特区政府卫生署1月23日通报，截至凌晨零时，全港新增81例新冠肺炎确诊病例，其中78例为本地感染。另有逾50人初步检测呈阳性，正等待复检。香港至今累计确诊病例破万例，达10009例。今日新增的本地病例中，35人暂时未能找到确切的传播源头；其余病患属聚集性或家庭群组感染。卫生署表示，27名当日新增病患居住于油麻地、佐敦及深水埗一带社区，多数为南亚裔人士。（人民日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9989681.d.html</link>
-            <guid>1988106</guid>
-            <pubDate>Sat, 23 Jan 2021 09:22:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  河北藁城：对226个村庄、515个小区落实最严格封闭管控。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9989314.d.html</link>
-            <guid>1988105</guid>
-            <pubDate>Sat, 23 Jan 2021 09:20:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
