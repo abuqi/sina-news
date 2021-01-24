@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 24 Jan 2021 20:49:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jan 2021 21:39:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【证券日报头版评论：资本市场优化科技监管为有序改革创新赋能】随着资本市场创新进一步深入，以注册制为龙头的改革向市场化、法治化、国际化不断迈进，上市公司的质量、数量、体量都在发生深刻变化。因此，资本市场生态需要继续强化科技监管建设——由个案的成功范例向可复制、可推广的成功范式迈进。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0447095.d.html</link>
+            <guid>1989864</guid>
+            <pubDate>Sun, 24 Jan 2021 20:59:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[联合国贸易和发展会议（UNCTAD）报告：全球外国直接投资（FDI）在2020年锐减42%，前景仍然偏弱。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-25/detail-ikftssap0443481.d.html</link>
@@ -251,12 +257,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0377453.d.html</link>
             <guid>1989740</guid>
             <pubDate>Sun, 24 Jan 2021 14:29:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新冠病毒数据追踪 全球病例9883.5万例 死亡212.3万例】根据约翰斯·霍普金斯大学数据，截至1月24日13:36世界标准时间(UTC)，全球新型冠状病毒确诊病例增加至9883.497万例，死亡病例212.2534万例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0374395.d.html</link>
-            <guid>1989718</guid>
-            <pubDate>Sun, 24 Jan 2021 14:12:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
