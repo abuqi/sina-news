@@ -4,11 +4,53 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 24 Jan 2021 05:03:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jan 2021 06:00:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【日本学者研发出捕捉新冠病毒的抗体，有望用于药物和口罩】共同社1月24日，日本岛根大学和长崎大学23日发布消息称，研发了与进入体内的新冠病毒紧贴在一起，防止病毒侵入细胞并增殖的5种抗体，还表示希望推进应用于治疗药物和预防感染的口罩等。（界面）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0262117.d.html</link>
+            <guid>1989562</guid>
+            <pubDate>Sun, 24 Jan 2021 05:53:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【广东：抓好广州期交所建设，支持深交所完善上市制度】1月24日，广东省第十三届人民代表大会第四次会议开幕，省长马兴瑞向大会作广东省人民政府工作报告。广东提出要推进金融强省建设，抓好广州期货交易所建设，支持深交所完善上市制度、开展“新三板”转板试点。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1244526.d.html</link>
+            <guid>1989561</guid>
+            <pubDate>Sun, 24 Jan 2021 05:48:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国新增172878例新冠肺炎确诊病例，新增3390例新冠肺炎死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0258841.d.html</link>
+            <guid>1989560</guid>
+            <pubDate>Sun, 24 Jan 2021 05:42:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：经过修复后，利比亚重启了通往ES SIDER港口的石油管道，输送量为20万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0257169.d.html</link>
+            <guid>1989559</guid>
+            <pubDate>Sun, 24 Jan 2021 05:36:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海通策略：A股处于基本面+情绪面驱动的牛市第三阶段】海通策略最新研报指出，今年来港股领涨全球、南下资金激增，原因是港股低估值、基本面改善。参考16-17年，港股对基本面更敏感，中国上市公司基本面回升将不断得到印证，A股处于基本面+情绪面驱动的牛市第三阶段。A股春季行情仍在路上，短期重视大金融，全年看好科技+大众消费。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1237495.d.html</link>
+            <guid>1989557</guid>
+            <pubDate>Sun, 24 Jan 2021 05:21:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据路透统计：截至周六，美国新冠肺炎累计死亡病例至少增加3340例，至417115例，累计确诊病例至少增加169702例至2486万例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0250716.d.html</link>
+            <guid>1989556</guid>
+            <pubDate>Sun, 24 Jan 2021 05:10:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国疾控机构罗伯特·科赫研究所：德国新冠肺炎累计确诊病例增加12257例至2134936例，新冠肺炎累计死亡病例增加349例至51870例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0248855.d.html</link>
+            <guid>1989555</guid>
+            <pubDate>Sun, 24 Jan 2021 05:04:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[1月23日，据外媒报道，靠近智利的南极洲南设德兰群岛发生6.9级强震，随后智利首都圣地亚哥又发生5.8级地震。智利内政部随即发布海啸预警，并敦促沿海民众撤离。但官方随后又承认错误发布撤离警告，政府发言人称误报由“技术原因”导致，对造成恐慌感到抱歉。据报道，两次地震都未报告人员伤亡。（新京报）]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1231885.d.html</link>
@@ -245,48 +287,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0196419.d.html</link>
             <guid>1989238</guid>
             <pubDate>Sun, 24 Jan 2021 02:03:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据悉，上交所新债券交易系统建设可划分为两个阶段：阶段一是，在2021年相继完成将非交易业务从竞价交易中分离出来，非交易业务迁移到综合业务平台，股债交易系统分离，固收平台功能优化升级等工作。阶段二是，将所有债券业务迁移到独立的债券交易系统，并进行模块化的运行，探索二级市场业务创新。（券商中国）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0194774.d.html</link>
-            <guid>1989209</guid>
-            <pubDate>Sun, 24 Jan 2021 01:57:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上海市市长龚正：坚持房子是用来住的、不是用来炒的定位，完善房地产市场平稳健康发展长效机制。（看看新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1176178.d.html</link>
-            <guid>1989193</guid>
-            <pubDate>Sun, 24 Jan 2021 01:47:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上交所独立债券交易系统上线倒计时，市场接口1月底发布，新规则预计3月征求意见。（券商中国）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1175729.d.html</link>
-            <guid>1989186</guid>
-            <pubDate>Sun, 24 Jan 2021 01:45:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上海市市长龚正：上海今年要推动数字产业化、产业数字化，加快发展在线新经济，大力推进一批新基建重大项目，新建5G室外基站8000个，加快建设国际数据港。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1174975.d.html</link>
-            <guid>1989180</guid>
-            <pubDate>Sun, 24 Jan 2021 01:43:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上海市市长龚正：今年上海全力打好新时代浦东高水平改革开放这张“王牌”，探索发展人民币离岸交易，放大张江科学城扩区效应。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1174764.d.html</link>
-            <guid>1989178</guid>
-            <pubDate>Sun, 24 Jan 2021 01:42:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海市长：今年推进数字人民币试点】龚正说，持续推动金融业扩大对外开放，继续集聚一批功能性、总部型机构，推进数字人民币试点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1173872.d.html</link>
-            <guid>1989169</guid>
-            <pubDate>Sun, 24 Jan 2021 01:40:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上海市市长龚正：今年上海全市生产总值预期增长6%以上，地方一般公共预算收入增长3%，全社会研发经费支出相当于全市生产总值的比例达到4.1%左右，城镇调查失业率5%以内，居民人均可支配收入增长与经济增长基本同步。（看看新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1172251.d.html</link>
-            <guid>1989160</guid>
-            <pubDate>Sun, 24 Jan 2021 01:34:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
