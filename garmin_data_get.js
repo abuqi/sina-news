@@ -16,6 +16,24 @@ const LOGIN_INFO = {
 	"PASSWORD": "",
 }
 
+async function get_activities(start, limit){
+    var url = `${GARMIN_CN_URL_DICT.MODERN_URL}/proxy/activitylist-service/activities/search/activities?start={start}&limit={limit}`
+    return await fetch(url);
+}
+
+async function get_activity_id_list(start){
+    var activities = await get_activities(start, 100);
+
+    console.log(activities);
+
+
+    // if len(activities) > 0:
+    //     ids = list(map(lambda a: str(a.get("activityId", "")), activities))
+    //     print(f"Syncing Activity IDs")
+    //     return ids + await get_activity_id_list(start + 100)
+    // else:
+    //     return []
+}
 
 async function main(){
 	const params = new URLSearchParams({
@@ -62,12 +80,24 @@ async function main(){
 
 	if(response.status < 200 || response.status >= 300){
         // throw new Error('wrong status code: ' + response.status);
-        throw new Error(`worng status code: ${response.status}  message:${response.statusText}`)
+        throw new Error(`worng status code: ${response.status}  message:${response.statusText}`);
 	}
 
-	const json = await response.json();
-	console.log(`response(JSON): ${json}`);
+    const text = await response.text();
+    
+    var arrData = str.match(/"https:.*\?ticket=.*"/);
+    if(arrData != null){
+        const response_url = arr[0].replace(/\"/g, '');
+        await fetch(response_url, {
+            method: 'GET'
+        });
+    }else{
+        throw new Error(`worng response content`);
+    }
+
 	console.log(`successfully fetch the login.`);
+
+    get_activity_id_list(0);
 
 }
 
