@@ -85,7 +85,7 @@ async function main(){
 
     const text = await response.text();
     
-    var arrData = str.match(/"https:.*\?ticket=.*"/);
+    var arrData = text.match(/"https:.*\?ticket=.*"/);
     if(arrData != null){
         const response_url = arr[0].replace(/\"/g, '');
         await fetch(response_url, {
