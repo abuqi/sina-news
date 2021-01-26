@@ -4,11 +4,154 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Tue, 26 Jan 2021 17:50:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jan 2021 18:38:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  爱尔兰再发现6例感染南非变种新冠病毒的病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftpnny2164246.d.html</link>
+            <guid>1994072</guid>
+            <pubDate>Tue, 26 Jan 2021 18:35:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  爱尔兰新增928例新冠肺炎确诊病例，新增90例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftssap1179138.d.html</link>
+            <guid>1994071</guid>
+            <pubDate>Tue, 26 Jan 2021 18:33:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上期所原油期货2103合约夜盘收涨0.51%，报331.90元人民币/桶。沪金夜盘收跌0.53%，沪银收跌0.06%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftssap1178989.d.html</link>
+            <guid>1994067</guid>
+            <pubDate>Tue, 26 Jan 2021 18:31:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国白宫助手：拜登认为北溪2号管道项目对欧洲而言是糟糕的协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftssap1178968.d.html</link>
+            <guid>1994066</guid>
+            <pubDate>Tue, 26 Jan 2021 18:30:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【交易所收盘】上海黄金交易所黄金T+D 1月27日（周三）晚盘收盘下跌0.4%报385.9元/克；上海黄金交易所白银T+D 1月27日（周三）晚盘收盘下跌0.04%报5258.0元/千克。]]></title>
+            <guid>1994065</guid>
+            <pubDate>Tue, 26 Jan 2021 18:30:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国白宫：拜登仍认为两国方案是巴以和平的唯一出路。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftpnny2163859.d.html</link>
+            <guid>1994062</guid>
+            <pubDate>Tue, 26 Jan 2021 18:29:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  加拿大前财长莫诺发布声明，将退出经合组织秘书长竞选。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftssap1178811.d.html</link>
+            <guid>1994061</guid>
+            <pubDate>Tue, 26 Jan 2021 18:29:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑加元跌超0.3%，刷新日低至1.2690。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftpnny2163481.d.html</link>
+            <guid>1994058</guid>
+            <pubDate>Tue, 26 Jan 2021 18:23:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国疾控中心主任发现，在佩戴口罩的情况下，学校内病毒传播能力下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftpnny2163443.d.html</link>
+            <guid>1994056</guid>
+            <pubDate>Tue, 26 Jan 2021 18:22:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国疾控中心：美国新冠肺炎确诊病例从25018520例升至25152433例，死亡病例从417936例升至419827例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftssap1178363.d.html</link>
+            <guid>1994055</guid>
+            <pubDate>Tue, 26 Jan 2021 18:21:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  南方铜业公司：预计2021-2022年铜产量降至94.3万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftpnny2163195.d.html</link>
+            <guid>1994052</guid>
+            <pubDate>Tue, 26 Jan 2021 18:18:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  南方铜业公司：对2021年以及长期铜前景有“积极看法”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftpnny2163184.d.html</link>
+            <guid>1994051</guid>
+            <pubDate>Tue, 26 Jan 2021 18:18:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国数据隐私监管部门：英国已有（至少）数百万用户停止使用Facebook旗下WhatsApp，转而使用Telegram和Signal等信息服务产品。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftpnny2163046.d.html</link>
+            <guid>1994049</guid>
+            <pubDate>Tue, 26 Jan 2021 18:15:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  法国新增22086例新冠肺炎确诊病例，新增612例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftssap1177357.d.html</link>
+            <guid>1994041</guid>
+            <pubDate>Tue, 26 Jan 2021 18:06:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【B. Riley上调包括AMC院线在内的多家影院股目标价】AMC院线目前上涨4%，盘初一度涨超17%；B. Riley此前上调多家影院股目标价，将AMC目标价从3.50美元上调至5.50美元，将IMAX目标价从26美元上调至28美元，将Marcus目标价从19美元上调至25美元，将National CineMedia目标价从4.50美元上调至6美元；预计第四季度收益对该行业生存预期有积极的倾斜。下调2021和2022年电影票房预期，同时预计到2023年票房将全面复苏。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftpnny2162291.d.html</link>
+            <guid>1994037</guid>
+            <pubDate>Tue, 26 Jan 2021 18:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部拍卖52周期国债，得标利率0.090%，投标倍数3.92。拍卖610亿美元五年期国债，得标利率0.424%，投标倍数2.34。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftpnny2162166.d.html</link>
+            <guid>1994033</guid>
+            <pubDate>Tue, 26 Jan 2021 18:02:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储：FOMC货币政策会议（为期两天）在1月26日美东时间13:00如期开幕。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftpnny2162087.d.html</link>
+            <guid>1994030</guid>
+            <pubDate>Tue, 26 Jan 2021 18:01:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沙特将通过发行欧元主权债募资50亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftpnny2161920.d.html</link>
+            <guid>1994027</guid>
+            <pubDate>Tue, 26 Jan 2021 17:58:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国石油协会（API）：将继续推动其他基建提议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftssap1176836.d.html</link>
+            <guid>1994026</guid>
+            <pubDate>Tue, 26 Jan 2021 17:57:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧盟官员消息：由于日本新冠病毒激增，欧盟计划对来自日本的旅客“关闭大门”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftssap1176806.d.html</link>
+            <guid>1994025</guid>
+            <pubDate>Tue, 26 Jan 2021 17:56:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[游戏驿站盘中再度停牌，停牌前上涨48.77%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftssap1176796.d.html</link>
+            <guid>1994024</guid>
+            <pubDate>Tue, 26 Jan 2021 17:56:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国石油协会（API）：拜登的政策迫使美国进口能源产品。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftssap1176735.d.html</link>
+            <guid>1994023</guid>
+            <pubDate>Tue, 26 Jan 2021 17:55:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国石油协会（API）：非常担忧Keystone石油管道项目无法推进。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftssap1176676.d.html</link>
+            <guid>1994022</guid>
+            <pubDate>Tue, 26 Jan 2021 17:54:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LME期铜收涨40美元，报8008美元/吨。LME期铝收涨8美元，报2020美元/吨。LME期锌收跌49美元，报2656美元/吨。LME期铅收涨31美元，报2078美元/吨。LME期镍收跌193美元，报18057美元/吨。LME期锡收涨400美元，报22850美元/吨。LME期钴收涨350美元，报40390美元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftpnny2161612.d.html</link>
+            <guid>1994021</guid>
+            <pubDate>Tue, 26 Jan 2021 17:53:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【瑞士10%的新增病例为英国发现的新冠病毒变异株】当地时间26日，瑞士联邦公共卫生部召开新闻发布会称，目前瑞士已出现英国发现的新冠病毒变异株和南非发现的新冠病毒变异株感染病例，约10%的新冠肺炎新增病例感染病毒为英国发现的新冠病毒变异株。瑞士新冠肺炎工作组主席马丁·阿克曼表示，预计到3月份，超过50%的新增病例将为感染英国发现的新冠病毒变异株所致。瑞士已发现1100多例感染了变异新冠病毒的病例，70%的重症监护病房被新冠肺炎患者使用。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftpnny2161143.d.html</link>
@@ -92,156 +235,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftpnny2159256.d.html</link>
             <guid>1993999</guid>
             <pubDate>Tue, 26 Jan 2021 17:13:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  意大利新增10593例新冠肺炎确诊病例，新增541例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftssap1174027.d.html</link>
-            <guid>1993998</guid>
-            <pubDate>Tue, 26 Jan 2021 17:11:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲央行管委森特诺：复苏将是“强劲且充满挑战的”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftssap1173866.d.html</link>
-            <guid>1993995</guid>
-            <pubDate>Tue, 26 Jan 2021 17:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：法国政府正研究如何拯救其足球产业。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftssap1173819.d.html</link>
-            <guid>1993994</guid>
-            <pubDate>Tue, 26 Jan 2021 17:08:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【高通推动4G LTE和5G网联汽车在全球范围内的部署】1月27日消息，高通技术公司宣布，正与多家行业领先的汽车供应商与技术企业合作部署可靠、网联、智能和具备位置感知功能的下一代汽车，在这一领域获得的客户设计数量持续增长。据悉，全球汽车供应商和企业利用高通骁龙汽车4G和5G平台，支持汽车制造商满足对4G LTE和5G联网服务赋能的可靠和顶级驾乘体验日益增长的需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftssap1173764.d.html</link>
-            <guid>1993993</guid>
-            <pubDate>Tue, 26 Jan 2021 17:07:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长提名人耶伦宣誓就职财长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftpnny2158547.d.html</link>
-            <guid>1993992</guid>
-            <pubDate>Tue, 26 Jan 2021 17:04:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【高通与通用汽车和亚马逊签约使用其汽车驾驶舱平台】高通周二表示，将为通用汽车的下一代汽车提供一系列芯片。通用汽车将在其下一代汽车中使用高通新推出的第三代“骁龙汽车驾驶舱平台”(Snapdragon Automotive Cockpit Platform)。高通还与亚马逊合作，通过预集成Alexa定制助手来开发汽车驾驶舱平台。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftssap1173384.d.html</link>
-            <guid>1993991</guid>
-            <pubDate>Tue, 26 Jan 2021 17:02:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Downdetector数据显示，周二，Zoom Video、嘉信理财、Robinhood和Gmail的宕机次数有所增加。亚马逊也称该网站报告的网络服务问题出现激增。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftssap1173015.d.html</link>
-            <guid>1993989</guid>
-            <pubDate>Tue, 26 Jan 2021 16:57:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧盟各国政府计划于周三更新旅行（国家）清单。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftssap1172910.d.html</link>
-            <guid>1993988</guid>
-            <pubDate>Tue, 26 Jan 2021 16:56:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧盟各国政府没有将日本移出旅行“白名单”的计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftssap1172893.d.html</link>
-            <guid>1993987</guid>
-            <pubDate>Tue, 26 Jan 2021 16:55:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美元指数DXY短线拉升十余点至90.32。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftpnny2157855.d.html</link>
-            <guid>1993986</guid>
-            <pubDate>Tue, 26 Jan 2021 16:54:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：据悉，欧洲央行将质疑美国经济走强但美元疲软的现象。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftssap1172789.d.html</link>
-            <guid>1993985</guid>
-            <pubDate>Tue, 26 Jan 2021 16:53:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元兑美元EUR/USD短线下挫十余点至1.2142。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftssap1172783.d.html</link>
-            <guid>1993984</guid>
-            <pubDate>Tue, 26 Jan 2021 16:53:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：欧洲央行研究与美联储在汇率政策方面差异性的影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftssap1172740.d.html</link>
-            <guid>1993983</guid>
-            <pubDate>Tue, 26 Jan 2021 16:53:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高通宣布进一步扩展高通Snapdragon Ride平台。全新系列SoC进一步扩展了Snapdragon Ride平台的产品组合，面向ADAS与自动驾驶计算系统提供完整解决方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftpnny2157770.d.html</link>
-            <guid>1993982</guid>
-            <pubDate>Tue, 26 Jan 2021 16:52:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股三大指数悉数转跌，道指盘初一度涨超100点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftpnny2157592.d.html</link>
-            <guid>1993981</guid>
-            <pubDate>Tue, 26 Jan 2021 16:50:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高通在其以“重新定义汽车”为主题的线上活动中推出其下一代数字座舱解决方案——第4代高通骁龙汽车数字座舱平台。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftssap1172533.d.html</link>
-            <guid>1993980</guid>
-            <pubDate>Tue, 26 Jan 2021 16:49:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LVMH四季度时装与皮草营收有机增长18%，分析师预期增长11%。四季度有机营收下滑3.0%，分析师预期下滑2.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftpnny2157262.d.html</link>
-            <guid>1993979</guid>
-            <pubDate>Tue, 26 Jan 2021 16:46:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲股市收盘】德国DAX30指数1月26日（周二） 收盘上涨226.55点，涨幅1.66%，报13870.50点;英国富时100指数1月26日（周二） 收盘上涨13.71点，涨幅0.21%，报6652.56点;法国CAC40指数1月26日（周二） 收盘上涨51.16点，涨幅0.94%，报5523.52点;欧洲斯托克50指数1月26日（周二） 收盘上涨39.31点，涨幅1.11%，报3592.45点;西班牙IBEX35指数1月26日（周二） 收盘上涨61.70点，涨幅0.78%，报7959.00点;意大利富时MIB指数1月26日（周二） 收盘上涨255.55点，涨幅1.18%，报21991.50点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftpnny2157091.d.html</link>
-            <guid>1993977</guid>
-            <pubDate>Tue, 26 Jan 2021 16:43:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲央行管委埃尔南德斯德科斯：西班牙企业需要更多直接补助。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftpnny2157018.d.html</link>
-            <guid>1993976</guid>
-            <pubDate>Tue, 26 Jan 2021 16:43:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  加拿大总理特鲁多：在”购买美国货“倡议方面，加拿大会拥护本国利益。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftpnny2157014.d.html</link>
-            <guid>1993975</guid>
-            <pubDate>Tue, 26 Jan 2021 16:42:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【央地多措并举齐力为创新“松绑减负”】目前我国赋予科研人员职务科技成果所有权或长期使用权试点已全面启动。北京、上海、辽宁、江苏等近十省市，以及教育部、农业农村部、中科院等所属的40家高校、科研院所展开自主权试点。央地联手实施的“减表行动”、“包干制”等措施，正在让科技创新“轻装上阵”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftpnny2156803.d.html</link>
-            <guid>1993974</guid>
-            <pubDate>Tue, 26 Jan 2021 16:40:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【经参头版：就业形势好于预期，总体平稳态势将延续】“2020年是我国就业发展史上极其不平凡的一年。综合统计监测和调研情况看，2020年就业形势逐季好转、总体稳定、好于预期。”人社部就业促进司司长张莹1月26日在人社部2020第四季度新闻发布会上表示。她还表示，2021年，受益于经济企稳向好，就业将延续总体平稳态势。据张莹介绍，2020年，新增就业稳定增长。全年城镇新增就业1186万人，超额完成900万人的目标任务。此外，失业水平稳步回落。城镇调查失业率从2月份6.2%的历史最高点，逐步回落，12月份降至5.2%，与2019年同期持平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftpnny2156766.d.html</link>
-            <guid>1993973</guid>
-            <pubDate>Tue, 26 Jan 2021 16:40:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国新增20089例新冠肺炎确诊病例，新增1631例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftpnny2156642.d.html</link>
-            <guid>1993972</guid>
-            <pubDate>Tue, 26 Jan 2021 16:39:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：有用户报告亚马逊网页服务出现问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftssap1171592.d.html</link>
-            <guid>1993971</guid>
-            <pubDate>Tue, 26 Jan 2021 16:38:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据天空新闻：英国政府数据显示，英国新冠肺炎死亡病例超10万例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-27/detail-ikftssap1171567.d.html</link>
-            <guid>1993970</guid>
-            <pubDate>Tue, 26 Jan 2021 16:38:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
