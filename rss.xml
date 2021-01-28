@@ -4,11 +4,106 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Thu, 28 Jan 2021 18:40:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jan 2021 19:32:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[戴姆勒：初步数据显示，本公司2020年全年EBIT为66亿欧元，远超先前给出的指引和市场预期。全年调整后EBIT为86.4亿欧元。预计2021年业务前景偏正面。（车用）半导体供应短缺问题恐将影响到2021年一季度的表现。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1602589.d.html</link>
+            <guid>1998668</guid>
+            <pubDate>Thu, 28 Jan 2021 19:26:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国疾控中心：美国累计新冠肺炎确诊病例达25456670例，累计死亡病例达427626例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1602244.d.html</link>
+            <guid>1998666</guid>
+            <pubDate>Thu, 28 Jan 2021 19:19:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  特斯拉CEO马斯克：电动跑车Roadster将于今年完成工程，明年开始生产。目标是在夏末推出可驾驶的候选设计。三电机驱动系统和先进的电池工作是重要的前提。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1602237.d.html</link>
+            <guid>1998665</guid>
+            <pubDate>Thu, 28 Jan 2021 19:19:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  南非新增555例新冠肺炎死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1602229.d.html</link>
+            <guid>1998664</guid>
+            <pubDate>Thu, 28 Jan 2021 19:18:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国共和党议员Collins：与拜登总统进行了友好的通话。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1602219.d.html</link>
+            <guid>1998662</guid>
+            <pubDate>Thu, 28 Jan 2021 19:18:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  惠誉：拉丁美洲的企业开始复苏，预计其2021年的总收入将改善，整体而言，预计将恢复800亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1601989.d.html</link>
+            <guid>1998661</guid>
+            <pubDate>Thu, 28 Jan 2021 19:14:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国民主党参议员Kaine：可能会在下周提交谴责特朗普的决议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1601773.d.html</link>
+            <guid>1998660</guid>
+            <pubDate>Thu, 28 Jan 2021 19:09:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国共和党方面表示，民主党人使用预算达成救助方案损害了两党合作的努力。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2587402.d.html</link>
+            <guid>1998659</guid>
+            <pubDate>Thu, 28 Jan 2021 19:07:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国参议员Sanders：民主党将在下周准备好预算决议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1601574.d.html</link>
+            <guid>1998656</guid>
+            <pubDate>Thu, 28 Jan 2021 19:06:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  法院文件显示，罗宾汉平台的金融客户在芝加哥和纽约因交易中止对其发起起诉，原告要求赔偿因游戏驿站、黑莓、诺基亚和AMC院线的交易中断带来的损失。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2587138.d.html</link>
+            <guid>1998655</guid>
+            <pubDate>Thu, 28 Jan 2021 19:02:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国炼油工业协会表示，寻求与生物燃料生产商结盟，反对拜登推动电动汽车的计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2587129.d.html</link>
+            <guid>1998653</guid>
+            <pubDate>Thu, 28 Jan 2021 19:02:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  特斯拉CEO埃隆·马斯克支持美国众议员科尔特斯对罗宾汉平台的看法（反对阻止散户交易游戏驿站股票，支持必要情况下举行听证会）。]]></title>
+            <guid>1998651</guid>
+            <pubDate>Thu, 28 Jan 2021 19:01:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  全球最大白银ETF——iShares Silver Trust的期权成交量达到历史新高的224万。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1601366.d.html</link>
+            <guid>1998650</guid>
+            <pubDate>Thu, 28 Jan 2021 19:01:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  富时罗素暂停从指数中移除部分证券。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2587101.d.html</link>
+            <guid>1998649</guid>
+            <pubDate>Thu, 28 Jan 2021 19:01:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登签署行政令，重新向美国人开放奥巴马医保。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1601348.d.html</link>
+            <guid>1998648</guid>
+            <pubDate>Thu, 28 Jan 2021 19:01:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登：正在修复特朗普导致的损害。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1601344.d.html</link>
+            <guid>1998647</guid>
+            <pubDate>Thu, 28 Jan 2021 19:01:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【纽约州疗养院新冠肺炎死亡人数报告差异大，或被低估50%】当地时间1月28日，据美联社报道，纽约州总检察长在28日发布一份报告称，纽约州针对疗养院居民的新冠肺炎死亡人数报告可能低估了超过50%。几个月来，纽约州总检察长Letitia James一直在调查纽约州卫生局报告的新冠肺炎死亡人数与家庭报告的死亡数字之间的差异。James的调查人员对纽约州大约600家疗养院中的62家样本进行了调查。这62家疗养院报告了1914名居民因感染新冠肺炎死亡，而纽约州卫生局针对这62家疗养院的记录只有1229例死亡病例。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2586086.d.html</link>
@@ -151,125 +246,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1595705.d.html</link>
             <guid>1998619</guid>
             <pubDate>Thu, 28 Jan 2021 17:25:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国国务卿布林肯与阿富汗总统加尼通话讨论安全问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1595587.d.html</link>
-            <guid>1998617</guid>
-            <pubDate>Thu, 28 Jan 2021 17:23:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国疾控中心：目前尚无证据表明南非发现的变种病株可导致更严重的疾病。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1595582.d.html</link>
-            <guid>1998616</guid>
-            <pubDate>Thu, 28 Jan 2021 17:23:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲央行执委施纳贝尔：主权银行关系如果管理得当，可成为加快经济复苏的引擎，也将支撑欧洲央行稳定物价的使命。 必须将突然和过早撤销公共支持导致的悬崖效应风险降至最低。 撤回政府救助可能导致企业违约。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1595574.d.html</link>
-            <guid>1998615</guid>
-            <pubDate>Thu, 28 Jan 2021 17:23:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【短期流动性压力凸显 关注央行操作与春节资金缺口之间的预期差】日前，短期流动性压力进一步显现，交易所债券回购利率全线大幅攀升。中信证券指出，考虑到货币政策取向仍然强调“不急转弯”，预计升准、加息等紧缩政策将不会出现，但银行间流动性波动性将会上升。交易层面，后续主要需要关注央行操作与春节资金缺口之间的预期差。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2581169.d.html</link>
-            <guid>1998614</guid>
-            <pubDate>Thu, 28 Jan 2021 17:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【经参头版评论：分层分类深化国企混合所有制改革】下一步，要继续坚持因地施策、因业施策、因企施策，宜独则独、宜控则控、宜参则参，不搞拉郎配，不搞全覆盖，不设时间表，分层分类深化混合所有制改革。要重点推进国有资本投资、运营公司出资企业和商业一类子企业混合所有制改革，稳妥推进商业二类子企业混合所有制改革。要通过进一步深化混合所有制改革，在推动中央企业与中小企业合作，加强与各类企业进行股权融合、战略合作、资源整合，加强产业链供应链上下游协同，进一步推动混合所有制企业深度转换经营机制，成为依法自主经营、自负盈亏、自担风险、自我约束、自我发展的独立市场主体。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2581081.d.html</link>
-            <guid>1998612</guid>
-            <pubDate>Thu, 28 Jan 2021 17:16:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【政策密集落地 2021年金融监管“铁腕”开局】2021年金融监管“铁腕”开局，释放出全方位强化监管和防控风险的政策信号。据不完全统计，1月至今，相关部门已发布近20个规范性文件，涉及规范银行互联网存款、强化支付机构反垄断、推动化解村镇银行风险等，政策密度、力度均超往年。业内预计，下一步，围绕资管、金融控股公司等领域，更多配套政策还将陆续公布，进一步补齐监管短板。（经参）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2580999.d.html</link>
-            <guid>1998611</guid>
-            <pubDate>Thu, 28 Jan 2021 17:15:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[前意大利总理伦齐：如果意大利现在举行大选，那将是一个错误。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2580953.d.html</link>
-            <guid>1998610</guid>
-            <pubDate>Thu, 28 Jan 2021 17:14:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【内盘期货夜盘基础金属集体收涨】国际铜夜盘收涨0.50%，沪铜收涨0.26%，沪铝涨0.68%，沪锌收涨0.41%，沪铅收涨0.52%，沪镍收涨0.55%，沪锡收涨0.89%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1595017.d.html</link>
-            <guid>1998609</guid>
-            <pubDate>Thu, 28 Jan 2021 17:13:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【政策信号密集释放 民间投资再加力】“十四五”开局之年，加力激发民间投资活力政策信号密集释放。从部委到地方正在加快部署，围绕降低民间投资成本、拓宽民间投资渠道、完善推介项目长效机制多箭齐发，打出新一轮政策组合拳。从吸引民资重点领域看，“两新一重”特别是补短板重大项目、新型基础设施建设等成为关键“落子”。（经参）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2580897.d.html</link>
-            <guid>1998608</guid>
-            <pubDate>Thu, 28 Jan 2021 17:13:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大多伦多S&PTSX指数涨幅扩大至1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2580850.d.html</link>
-            <guid>1998607</guid>
-            <pubDate>Thu, 28 Jan 2021 17:12:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银短线走低约0.3美元，现货黄金下挫6美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1594719.d.html</link>
-            <guid>1998606</guid>
-            <pubDate>Thu, 28 Jan 2021 17:08:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以太坊站上1360美元/枚，日内涨9.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1594564.d.html</link>
-            <guid>1998605</guid>
-            <pubDate>Thu, 28 Jan 2021 17:06:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  丹麦首相：将封锁措施延长三周，至2月28日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2580405.d.html</link>
-            <guid>1998604</guid>
-            <pubDate>Thu, 28 Jan 2021 17:05:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金日内转跌，此前一度涨超1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2580329.d.html</link>
-            <guid>1998603</guid>
-            <pubDate>Thu, 28 Jan 2021 17:04:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【道指涨超600点，现货黄金日内转跌】道指涨超600点，纳指涨约1.2%，标普500指数涨约1.8%；道指成分股中，英特尔领涨，涨超6%，美国运通、迪士尼涨超4%，联合健康、卡特彼勒涨超3%。现货黄金日内转跌，此前一度涨超1%。]]></title>
-            <guid>1998602</guid>
-            <pubDate>Thu, 28 Jan 2021 17:03:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国交通大臣夏普斯：自1月29日13:00起延长与阿联酋相关的旅行禁令。将阿联酋、布隆迪和卢旺达加入旅行禁令清单。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2580102.d.html</link>
-            <guid>1998601</guid>
-            <pubDate>Thu, 28 Jan 2021 17:01:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国疾控中心：数据暗示该变种可能更容易传播。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1594216.d.html</link>
-            <guid>1998600</guid>
-            <pubDate>Thu, 28 Jan 2021 17:00:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国疾控中心：注意到在南卡罗来纳州发现感染南非新冠病毒变种的病患情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1594153.d.html</link>
-            <guid>1998599</guid>
-            <pubDate>Thu, 28 Jan 2021 16:59:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金短线下挫8美元，暂报1846.36美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftpnny2579864.d.html</link>
-            <guid>1998598</guid>
-            <pubDate>Thu, 28 Jan 2021 16:58:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金跌破1850美元/盎司，日内涨幅收窄至0.33%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-29/detail-ikftssap1593893.d.html</link>
-            <guid>1998597</guid>
-            <pubDate>Thu, 28 Jan 2021 16:55:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
