@@ -4,11 +4,29 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 30 Jan 2021 21:24:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2021 22:30:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【2020年可再生能源发电量同比增约8.4%】截至2020年底，可再生能源发电装机达到9.34亿千瓦，同比增长约17.5%；其中，水电装机3.7亿千瓦、风电装机2.81亿千瓦、光伏发电装机2.53亿千瓦、生物质发电装机2952万千瓦。2020年，全国可再生能源发电量达22148亿千瓦时，同比增长约8.4%。（人民日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap1983154.d.html</link>
+            <guid>2003051</guid>
+            <pubDate>Sat, 30 Jan 2021 22:20:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[突尼斯新增新冠肺炎确诊病例1438例，累计确诊207468例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap1982621.d.html</link>
+            <guid>2003050</guid>
+            <pubDate>Sat, 30 Jan 2021 22:07:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国强制民众乘公共交通时戴口罩】作为拜登百日新政目标之一，美国疾控中心周五发布指令，自2月1日周一凌晨开始，强制乘客在搭乘包括飞机、轮船、火车、地铁、公共汽车、出租车、共享车辆等交通工具时佩戴口罩。（中国日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny2967694.d.html</link>
+            <guid>2003049</guid>
+            <pubDate>Sat, 30 Jan 2021 21:57:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【法国新冠肺炎累计确诊3177879例 病毒检测阳性率6.91%】法国公共卫生部门1月30日当天公布的数据显示，截至当天下午，法国累计新冠肺炎确诊病例达3177879例，较前一日新增24392例。数据显示，法国当前新冠病毒检测呈阳性的比率为6.91%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny2966546.d.html</link>
@@ -200,18 +218,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2946333.d.html</link>
             <guid>2002800</guid>
             <pubDate>Sat, 30 Jan 2021 14:49:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【苏宁云网万店重要人事调整 旗下零售云业务或将升级子集团】据《科创板日报》记者获悉，在苏宁2021年度工作部署会上，苏宁宣布了云网万店的组织架构和核心领导团队。据悉，由苏宁控股集团总裁任峻担任总裁，苏宁易购集团高级副总裁顾伟担任常务副总裁。此外，零售云也将在组织层面实现新的越级，将升级为涵盖线下零售云电器店、苏宁小店和苏宁有货在内的零售云子集团。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2943360.d.html</link>
-            <guid>2002798</guid>
-            <pubDate>Sat, 30 Jan 2021 14:09:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【今年以来新成立基金122只 募集总规模4901.4亿元】数据显示，截至1月末，今年以来新成立基金122只，募集总规模4901.4亿元，这一规模仅次于2020年7月高点的5389亿元，成为新发基金月度规模的历史第二高点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1957182.d.html</link>
-            <guid>2002797</guid>
-            <pubDate>Sat, 30 Jan 2021 14:03:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
