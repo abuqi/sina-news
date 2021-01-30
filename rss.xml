@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 30 Jan 2021 17:51:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2021 18:38:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[瑞波币日内大幅回调，现报0.37美元/枚，涨幅不足30%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny2959069.d.html</link>
+            <guid>2002949</guid>
+            <pubDate>Sat, 30 Jan 2021 18:13:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  交易平台Coinbase：在取出瑞波币上面临延迟，正在寻求解决方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny2958748.d.html</link>
+            <guid>2002934</guid>
+            <pubDate>Sat, 30 Jan 2021 18:07:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  凯投宏观：美联储今年仍将维持超宽松货币政策立场。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap1972482.d.html</link>
@@ -199,24 +211,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2931159.d.html</link>
             <guid>2002779</guid>
             <pubDate>Sat, 30 Jan 2021 12:07:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[根据灯塔实时数据，截至1月30日20点03分，春节档预售开启36小时，电影《唐人街探案3》预售总票房破1亿，领跑2021年春节档预售大盘。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1945357.d.html</link>
-            <guid>2002778</guid>
-            <pubDate>Sat, 30 Jan 2021 12:06:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：阿根廷经济部长古斯曼希望在5月前与国际货币基金组织达成440亿美元的债务协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2930644.d.html</link>
-            <guid>2002777</guid>
-            <pubDate>Sat, 30 Jan 2021 12:02:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【24家上市券商计提减值218亿元，股票质押风险缓释】A股上市券商陆续披露丰收的喜报，但巨额计提减值也随之“浮出水面”。截至1月30日，已有15家上市券商发布了2020年度计提减值公告，合计计提减值 107.93亿元。若叠加其他上市券商去年前三季的计提数据，截至目前，共有24家上市券商公布计提减值准备，总规模达218.37亿元。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2929864.d.html</link>
-            <guid>2002774</guid>
-            <pubDate>Sat, 30 Jan 2021 11:53:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
