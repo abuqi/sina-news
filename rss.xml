@@ -4,11 +4,41 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 30 Jan 2021 18:38:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2021 19:29:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  据俄罗斯卫星网：印度计划禁止私人的加密货币，并为印度央行推出数字货币建立法律基础。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap1976487.d.html</link>
+            <guid>2003026</guid>
+            <pubDate>Sat, 30 Jan 2021 19:15:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  DownDetector网站：用户报告显示，罗宾汉交易平台服务出现问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap1976272.d.html</link>
+            <guid>2003012</guid>
+            <pubDate>Sat, 30 Jan 2021 19:10:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国加州累计新冠肺炎死亡数达4万。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny2961357.d.html</link>
+            <guid>2002999</guid>
+            <pubDate>Sat, 30 Jan 2021 19:03:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据俄罗斯卫星网：伊朗政府宣布，从欧洲抵达该国的旅客入境后应当接受新冠检测并隔离2周。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny2960563.d.html</link>
+            <guid>2002976</guid>
+            <pubDate>Sat, 30 Jan 2021 18:46:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据河北日报：根据国务院应对新冠肺炎联防联控机制关于科学划分、精准防控等工作要求，自2021年1月31日起，将石家庄正定县东平乐村调整为低风险地区。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap1974990.d.html</link>
+            <guid>2002972</guid>
+            <pubDate>Sat, 30 Jan 2021 18:43:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[瑞波币日内大幅回调，现报0.37美元/枚，涨幅不足30%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny2959069.d.html</link>
@@ -182,35 +212,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1950808.d.html</link>
             <guid>2002786</guid>
             <pubDate>Sat, 30 Jan 2021 13:05:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国新增162390例新冠肺炎确诊病例，持续下降趋势。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftssap1950379.d.html</link>
-            <guid>2002785</guid>
-            <pubDate>Sat, 30 Jan 2021 13:01:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：前意大利总理伦齐或寻求担任意大利财长以作为支持孔特的条件。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2933260.d.html</link>
-            <guid>2002783</guid>
-            <pubDate>Sat, 30 Jan 2021 12:29:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  根据世卫组织最新实时统计数据，截至欧洲中部时间1月30日10时37分（北京时间1月30日17时37分），全球累计新冠肺炎确诊病例101406059例，累计死亡病例2191898例。]]></title>
-            <guid>2002782</guid>
-            <pubDate>Sat, 30 Jan 2021 12:24:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美股“逼空”行情或推动股市回调】据新华社报道，近日，美国股市多只“明星”廉价股票价格在散户投资者与对冲基金的博弈中剧烈波动。虽然此轮遭遇“逼空”的个股均为股价相对低廉的小盘股，但却折射出在流动性充裕的背景下美股疯狂上涨带来的过度投机。有市场人士认为，“逼空”行情或将推动美股出现新一轮回调。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2931403.d.html</link>
-            <guid>2002780</guid>
-            <pubDate>Sat, 30 Jan 2021 12:10:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【艾德生物与阿斯利康签署卵巢癌HRD伴随诊断战略合作协议】艾德生物与阿斯利康签署卵巢癌HRD检测伴随诊断战略合作协议，希望共同推进卵巢癌HRD伴随诊断试剂盒的开发及上市后推广。这是两家公司继两年前BRCA突变检测试剂盒成功获批成为奥拉帕利伴随诊断试剂之后，在卵巢癌精准治疗领域又一重要合作里程碑。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-30/detail-ikftpnny2931159.d.html</link>
-            <guid>2002779</guid>
-            <pubDate>Sat, 30 Jan 2021 12:07:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
