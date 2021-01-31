@@ -4,11 +4,41 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 31 Jan 2021 03:32:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jan 2021 04:36:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[阿根廷圣安东尼奥德洛斯科布雷斯以西63千米处发生5.1级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3021034.d.html</link>
+            <guid>2003514</guid>
+            <pubDate>Sun, 31 Jan 2021 04:26:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【山东涉疫奶枣流入四川德阳 3份样本检出阳性】今天（31日），四川省德阳市卫健委发布通报，通告山东省枣庄市涉疫奶枣流入四川德阳相关情况。经调查，该批涉疫奶枣均为网上购买，涉及德阳市旌阳区、广汉市、什邡市、绵竹市、中江县5个区（市、县）。目前，经对流入德阳的奶枣采样检测，有3份样品新冠病毒核酸检测结果为阳性（中江县3份），其余均为阴性；对相关接触人员和环境采样检测，结果均为阴性。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap2033191.d.html</link>
+            <guid>2003513</guid>
+            <pubDate>Sun, 31 Jan 2021 04:19:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【外媒：距弹劾案不足两周，5名律师离开特朗普法律团队】特朗普弹劾案没律师了？美国有线电视新闻网（CNN）当地时间30日援引消息人士的话称，在距离美国前总统特朗普的弹劾审判还有一周多时间之际，5名律师已经离开其法律团队，其中包括两名“领头”律师，理由是不赞同特朗普的“法律策略”。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap2032441.d.html</link>
+            <guid>2003512</guid>
+            <pubDate>Sun, 31 Jan 2021 04:14:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【钟南山称新冠肺炎研究最新发现 前5天后5天无症状但有明显传染性】“新冠肺炎不同于SARS，在前5天后5天无症状但有明显传染性。”钟南山院士今天表示，这是新冠肺炎研究的最新发现。春节临近，高风险区就地过年，中风险区原则上就地过年，低风险区倡导就地过年，特别是在农村少点串门和聚会，要重点监测。农村的科普一定要做到位，如果出现非常明显的疲劳、嗓子疼、发烧，一定要做核酸检测。村民集合坐大巴去县城检测会造成相互感染，这种情况不应该再出现，现在检测车混检一天最高做50万，开到村头不要让老百姓来回奔波。（中国青年报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3016870.d.html</link>
+            <guid>2003510</guid>
+            <pubDate>Sun, 31 Jan 2021 04:03:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【钟南山：不认为核酸转阳病例有很强的传染性】近期有一些地区出现了新冠肺炎确诊病例康复后，核酸检测转阳的情况。对此，钟南山表示不认为转阳病例有很强的威胁、很强的传染性，可能这些病例有核酸片段的残余。但有核酸片段的残余不等于有活病毒，很少看到核酸转阳性还会传染别人。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap2028516.d.html</link>
+            <guid>2003506</guid>
+            <pubDate>Sun, 31 Jan 2021 03:54:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【春运第三天，全国发送旅客1727.9万人次】昨天（30日）是春运第三天，国务院联防联控机制春运工作专班数据显示，昨天，全国发送旅客1727.9万人次。其中铁路发送296.3万人次，公路1353万人次，水路29.8万人次，民航48.8万人次。全国高速公路流量2699.3万辆。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny3009005.d.html</link>
@@ -175,53 +205,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny2975279.d.html</link>
             <guid>2003066</guid>
             <pubDate>Sun, 31 Jan 2021 00:08:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[河北省卫健委：河北省新增1例本地新型冠状病毒肺炎确诊病例，为石家庄市报告。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap1989262.d.html</link>
-            <guid>2003065</guid>
-            <pubDate>Sun, 31 Jan 2021 00:04:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海昨日无新增本地新冠肺炎确诊病例 新增7例境外输入病例】上海市卫健委今早（31日）通报：2021年1月30日0—24时，通过口岸联防联控机制，报告7例境外输入性新冠肺炎确诊病例。新增治愈出院3例，其中来自阿联酋1例，来自法国1例，来自瑞士1例。1月30日0—24时，无新增本地新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny2973372.d.html</link>
-            <guid>2003064</guid>
-            <pubDate>Sat, 30 Jan 2021 23:47:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黑龙江新增9例确诊 新增4例无症状】1月30日0-24时，黑龙江省新增新冠肺炎确诊病例9例（绥化市望奎县4例，哈尔滨市呼兰区2例，哈尔滨市利民开发区2例，哈尔滨市道里区1例）；当日新增治愈出院确诊病例8例。当日新增无症状感染者4例（绥化市望奎县1例，哈尔滨市呼兰区3例）；当日解除无症状感染者医学观察3例。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap1986676.d.html</link>
-            <guid>2003063</guid>
-            <pubDate>Sat, 30 Jan 2021 23:32:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国寻求加入全面与进步跨太平洋伙伴关系协定】当地时间1月30日，据英国天空新闻报道，作为脱欧后的规划，英国正在寻求加入由11个亚太国家组成的自由贸易区——全面与进步跨太平洋伙伴关系协定（CPTPP）。报道指出，英国国际贸易大臣利兹.特拉斯将于2月1日提出有关要求，预计将于春季进行会谈磋商。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap1986611.d.html</link>
-            <guid>2003062</guid>
-            <pubDate>Sat, 30 Jan 2021 23:31:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【河北省卫健委：自2021年1月31日起 将石家庄正定县东平乐村调整为低风险地区】据河北卫健委消息，自2021年1月31日起，河北省将石家庄正定县东平乐村调整为低风险地区。目前，石家庄藁城区全域、新乐市全域、邢台南宫市全域仍为高风险地区，石家庄长安区河北省胸科医院公寓北区，石家庄正定县冯家庄村，石家庄高新区同祥城小区C区，石家庄平山县访驾庄村，石家庄赵县任庄村，邢台隆尧县烟草家园（烟草公司家属院），廊坊固安县英国宫5期，定州市西城区庞白土新民居北区仍为中风险地区。全省其他地区均为低风险地区。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftpnny2971861.d.html</link>
-            <guid>2003061</guid>
-            <pubDate>Sat, 30 Jan 2021 23:26:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国强制民众乘公共交通时戴口罩】作为拜登百日新政目标之一，美国疾控中心周五发布指令，自2月1日周一凌晨开始，强制乘客在搭乘包括飞机、轮船、火车、地铁、公共汽车、出租车、共享车辆等交通工具时佩戴口罩。强制令还涵盖各类接驳场所，包括机场、码头、公交车站、火车站、地铁站等。美国疾控中心全球防疫检疫部门主任Ceteon在长达11页的文件中强调，强制佩戴口罩将保护美国公众，增强大家在新冠流行期间安全出行的信心。（中国日报网）]]></title>
-            <guid>2003060</guid>
-            <pubDate>Sat, 30 Jan 2021 23:20:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[今天《人民日报》头版的主要内容有：1、增强文化自觉和文化自信，助力文明交流互鉴文物保护利用之路越走越宽（“十三五”，我们这样走过）；2、去年可再生能源发电量同比增约8.4% 发电装机达9.34亿千瓦，同比增约17.5%；3、我国建成全球最大5G网络赋能经济发展 服务百姓生活（新数据 新看点）；4、第一台“华龙一号”核电机组投入商运；5、人均纯收入三成来自林果业 阿克苏的果子可甜了（“十三五”各地经济社会发展新亮点）；6、寨子里的游客多起来（新春走基层·脱了贫更要加油干）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap1985214.d.html</link>
-            <guid>2003057</guid>
-            <pubDate>Sat, 30 Jan 2021 23:09:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据日经新闻，松下将退出太阳能电池和太阳能面板的生产。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-31/detail-ikftssap1984990.d.html</link>
-            <guid>2003056</guid>
-            <pubDate>Sat, 30 Jan 2021 23:04:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
