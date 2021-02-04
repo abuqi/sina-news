@@ -4,11 +4,152 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Thu, 04 Feb 2021 17:29:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Feb 2021 18:27:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  市场消息：SpaceX向美国联邦通信委员会（FCC）寻求补贴，以用于轨道互联网。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4701121.d.html</link>
+            <guid>2011204</guid>
+            <pubDate>Thu, 04 Feb 2021 18:23:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  WSB概念股跌幅进一步扩大，游戏驿站(GME.N)现跌36%，高斯电子(KOSS.O)跌近25%，AMC院线(AMC.N)跌幅扩大至20%，Express(EXPR.O)跌近10%。]]></title>
+            <guid>2011203</guid>
+            <pubDate>Thu, 04 Feb 2021 18:23:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  SpaceX：星链已经拥有超过1万名用户。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3714202.d.html</link>
+            <guid>2011202</guid>
+            <pubDate>Thu, 04 Feb 2021 18:21:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国德克萨斯州地方检察官希望在2022年早些时候对谷歌反垄断案进行审判。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3712516.d.html</link>
+            <guid>2011201</guid>
+            <pubDate>Thu, 04 Feb 2021 18:17:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  唯品会(VIPS.N)盘中涨超5%，股价续刷新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3711232.d.html</link>
+            <guid>2011200</guid>
+            <pubDate>Thu, 04 Feb 2021 18:14:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今年已有55家上市公司拟参与套保，合计金额逾267亿元】对东方财富Choice最新数据统计后发现，今年以来，已有55家A股上市公司发布公告称，拟参与期货套期保值业务，拟定年度交易金额合计267.55亿元。其中，部分上市公司在结合自身业务需要的情况下，已明确所要参与套保的期货品种，例如生猪期货、玉米期货、玉米淀粉期货等。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3709898.d.html</link>
+            <guid>2011199</guid>
+            <pubDate>Thu, 04 Feb 2021 18:11:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【险资也爱买基金，去年四季度增配超千亿元】从相关渠道获得的权威数据显示，截至去年四季度末，险资配置于证券投资基金的余额为11040亿元，较去年三季度末新增1088亿元，增幅达10.9%。其中，去年12月份末，险资配置基金的余额较去年11月末进一步增至12.03%，有加速增配态势。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3709595.d.html</link>
+            <guid>2011198</guid>
+            <pubDate>Thu, 04 Feb 2021 18:11:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储卡普兰：未来两三个月将充满挑战，增长乏力。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4695369.d.html</link>
+            <guid>2011197</guid>
+            <pubDate>Thu, 04 Feb 2021 18:10:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  西班牙新增11388例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3707202.d.html</link>
+            <guid>2011196</guid>
+            <pubDate>Thu, 04 Feb 2021 18:06:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  肿瘤和泌尿科生物制药公司Veru(VERU.O)盘中拉涨超24%，股价刷新历史新高，创下1994年以来的盘中最高涨幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4692179.d.html</link>
+            <guid>2011195</guid>
+            <pubDate>Thu, 04 Feb 2021 18:03:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  PayPal目前涨超5%，盘初一度涨超9%；该公司此前公布财报；分析师们对其在比特币、“先买后付”和二维码服务中的早期数据感到振奋，瑞穗证券美国分析师Dan Dolev认为，PayPal正在转变为“超越支付、商业和金融服务的终极金融‘超级应用程序’”。]]></title>
+            <guid>2011194</guid>
+            <pubDate>Thu, 04 Feb 2021 18:00:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【媒体：三峡集团洽谈收购亿万富豪持有的西班牙风电场】据悉，中国长江三峡集团在洽谈收购由一些亿万富豪持有的西班牙可再生能源资产。三峡集团在寻求收购主要是由在西班牙的风能资产构成的资产组合，装机容量约达400MW。该交易的估值可能介于4-5亿欧元。双方在进行深入磋商，最早可能在2月份稍晚达成协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3704371.d.html</link>
+            <guid>2011193</guid>
+            <pubDate>Thu, 04 Feb 2021 17:59:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  LME期铜收跌20美元，报7823美元/吨。 LME期铝收涨20美元，报1994美元/吨。 LME期锌收涨12美元，报2627美元/吨。 LME期铅收涨9美元，报2044美元/吨。 LME期镍收涨1美元，报17646美元/吨。 LME期锡收跌115美元，报22825美元/吨。 LME期钴收涨725美元，报45225美元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3702646.d.html</link>
+            <guid>2011192</guid>
+            <pubDate>Thu, 04 Feb 2021 17:56:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【顺丰正在商谈收购嘉里物流的少数股权】知情人士称，中国快递巨头顺丰控股正在考虑投资于郭鹤年的上市物流公司——嘉里物流。嘉里物流股价今年在香港上涨了38%，市值约为54亿美元。知情人士说，嘉里物流还考虑将一些资产出售给母公司。潜在交易的细节仍在讨论中，且交易结构可能会改变。顺丰控股和嘉里物流的代表均没有立即回复置评请求。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3702394.d.html</link>
+            <guid>2011191</guid>
+            <pubDate>Thu, 04 Feb 2021 17:55:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  瑞波币日内涨幅扩大至10%，报0.44美元/枚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3698642.d.html</link>
+            <guid>2011189</guid>
+            <pubDate>Thu, 04 Feb 2021 17:47:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货白银短线下挫0.25美元，报25.87美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3696138.d.html</link>
+            <guid>2011188</guid>
+            <pubDate>Thu, 04 Feb 2021 17:42:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  COMEX期银回落至26美元/盎司下方，日内跌3.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3696092.d.html</link>
+            <guid>2011187</guid>
+            <pubDate>Thu, 04 Feb 2021 17:42:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国各大航空公司陆续调整乘客公告，必须戴口罩】据美国有线电视新闻网（CNN）当地时间2月4日报道，由于联邦政府颁布乘坐公共交通的强制口罩令，美国各大航空公司（美国航空公司、达美航空公司、西南航空公司以及美联航）也陆续调整了旅客公告，以提醒乘客加强防护措施。美国疾病控制与预防中心（CDC）口罩强制令要求人们在使用任何形式的公共交通工具时必须戴口罩，包括飞机上、火车、公共汽车、船只、地铁、出租车等，以及在机场和其他交通枢纽设施内。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3694834.d.html</link>
+            <guid>2011186</guid>
+            <pubDate>Thu, 04 Feb 2021 17:39:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【节前生猪出栏量持续增加】截至2021年第4周，据Cofeed调查的全国主要监测屠宰企业的屠宰量为1745835头，较上周的1738449头增加了7386头，增幅为0.42%。英大证券宏观研究员胡研宏表示：“2021年上半年生猪出栏量明显增加，猪肉价格有望继续下降，猪肉消费应该会有更坚实的保障。”猪肉价格从2020年11月一直涨到了2021年的1月底，涨幅接近18%。博亚和讯数据显示，1月末全国猪价延续跌势，全国均价接近34元/公斤。具体来说，全国外三元生猪均价为34.06元/公斤，环比下跌4.62%。（21世纪经济报道）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3693833.d.html</link>
+            <guid>2011185</guid>
+            <pubDate>Thu, 04 Feb 2021 17:37:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国证交会要求就潜在的货币市场基金改革发表评论。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4678513.d.html</link>
+            <guid>2011184</guid>
+            <pubDate>Thu, 04 Feb 2021 17:35:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【分析师：1月信贷投放或超去年同期结构、地区变化差异大】综合多位分析师预测数据来看，今年1月银行信贷增长大概率将超过2020年1月3.34万亿的水平，但社融将低于2020年1月5.05万亿元的水平，M2增速较2020年12月继续下行。从多位银行业人士反馈的结果来看，今年1月信贷投放数量、结构同比变化呈现较大的地区差异。（21世纪经济报道）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4677897.d.html</link>
+            <guid>2011183</guid>
+            <pubDate>Thu, 04 Feb 2021 17:33:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  氢能源板块走高，燃料电池能源(FCEL.O)涨4.55%，普拉格能源(PLUG.O)涨3.44%，Bloom Energy(BE.N)涨2.69%。]]></title>
+            <guid>2011182</guid>
+            <pubDate>Thu, 04 Feb 2021 17:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  ICE美元指数涨幅扩大至0.5%，刷新12月1日以来高位至91.57。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3691033.d.html</link>
+            <guid>2011181</guid>
+            <pubDate>Thu, 04 Feb 2021 17:31:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧元兑美元EUR/USD短线小幅走低10点，现报1.1961。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4676094.d.html</link>
+            <guid>2011180</guid>
+            <pubDate>Thu, 04 Feb 2021 17:29:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  陆金所(LU.N)涨超10%，报18.23美元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3686614.d.html</link>
@@ -157,137 +298,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3662696.d.html</link>
             <guid>2011155</guid>
             <pubDate>Thu, 04 Feb 2021 16:34:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  意大利新增13659例新冠肺炎确诊病例，新增421例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4647715.d.html</link>
-            <guid>2011154</guid>
-            <pubDate>Thu, 04 Feb 2021 16:32:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  多位接近刘锦烨的资本人士表示，刘锦烨被监管关注，直接导火索起因于涉嫌操纵正川股份被举报，同时，大概率与他所重仓的个股出现“一字断魂刀”式出货方式给市场带来负面影响有关。（券商中国）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4647688.d.html</link>
-            <guid>2011153</guid>
-            <pubDate>Thu, 04 Feb 2021 16:31:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【数字人民币优化我国货币支付体系】从2014年着手研发工作到2020年进行公开测试，中国版的法定数字货币即数字人民币渐行渐近。这既是货币形态演变的必然趋势，也是数字经济发展的内在需求。数字人民币将以一种全新的姿态，解构并重构我国货币与支付体系。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4647605.d.html</link>
-            <guid>2011152</guid>
-            <pubDate>Thu, 04 Feb 2021 16:31:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  游戏驿站盘中跌幅扩大至30%，本周已累跌逾80%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3659896.d.html</link>
-            <guid>2011151</guid>
-            <pubDate>Thu, 04 Feb 2021 16:28:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【麦迪科技：拟不超1.85亿元收购两生殖医学业务资产】麦迪科技公告，公司拟收购吉林立创不超过70%的股权，拟收购海口博大不超过30%的股权。本次交易估值合计不超过18,520万元。吉林立创持有吉林北华附属生殖医学中心有限公司100%的股权。海口博大持有延边延医生殖医学中心有限公司90%股权和驻马店市辅助生殖医学中心有限公司100%股权。本次交易有利于公司拓宽医疗服务行业市场，延伸公司医疗服务产业链布局，增强公司可持续发展能力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3658004.d.html</link>
-            <guid>2011150</guid>
-            <pubDate>Thu, 04 Feb 2021 16:24:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  道指涨超300点，纳指涨0.51%，标普涨0.69%。道指成分股中，Visa、美国运通、思科涨超3%，高盛、摩根大通、波音涨超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4642982.d.html</link>
-            <guid>2011148</guid>
-            <pubDate>Thu, 04 Feb 2021 16:22:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  猎豹移动盘中涨超20%，报3.14美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4637140.d.html</link>
-            <guid>2011145</guid>
-            <pubDate>Thu, 04 Feb 2021 16:10:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国成功发射通信技术试验卫星六号】2月4日23时36分，我国在西昌卫星发射中心用长征三号乙运载火箭，成功将通信技术试验卫星六号发射升空，卫星进入预定轨道。通信技术试验卫星六号主要用于卫星通信、广播电视、数据传输等业务，并开展相关技术试验验证。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4636847.d.html</link>
-            <guid>2011144</guid>
-            <pubDate>Thu, 04 Feb 2021 16:10:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【河北邢台隆尧县一地调整为低风险地区】据河北省卫健委消息，根据国务院应对新冠肺炎联防联控机制关于科学划分、精准防控等工作要求，自2021年2月4日起，将邢台隆尧县烟草家园（烟草公司家属院）调整为低风险地区。目前，石家庄藁城区全域仍为高风险地区，石家庄新乐市全域，邢台南宫市全域,石家庄高新区同祥城小区C区，石家庄平山县访驾庄村，定州市西城区庞白土新民居北区仍为中风险地区。河北省其他地区均为低风险地区。（央视）]]></title>
-            <guid>2011143</guid>
-            <pubDate>Thu, 04 Feb 2021 16:06:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国纽约州新增7414例新冠肺炎病例，新增135例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3648127.d.html</link>
-            <guid>2011142</guid>
-            <pubDate>Thu, 04 Feb 2021 16:04:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国新增20634例新冠肺炎确诊病例，新增915例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftssap3647882.d.html</link>
-            <guid>2011141</guid>
-            <pubDate>Thu, 04 Feb 2021 16:04:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  道指站上31000点，日内涨近300点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-05/detail-ikftpnny4633850.d.html</link>
-            <guid>2011140</guid>
-            <pubDate>Thu, 04 Feb 2021 16:04:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  埃及维持关键利率不变。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-04/detail-ikftpnny4630963.d.html</link>
-            <guid>2011139</guid>
-            <pubDate>Thu, 04 Feb 2021 15:58:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【游戏驿站跌幅扩大至超过20%】游戏驿站（GME）跌幅扩大至超过20%，刷新1月25日以来盘中低点至72.05美元。美联储博斯蒂克表示，美国证券交易委员会负责处理游戏驿站和类似的交易波动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-04/detail-ikftpnny4628831.d.html</link>
-            <guid>2011138</guid>
-            <pubDate>Thu, 04 Feb 2021 15:53:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  在美上市淡水河谷（VALE）跌超2.0%，刷新盘中低点至16.50美元，该公司四季度铁矿石产量低于分析师预期均值、但交货量好于预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-04/detail-ikftpnny4625728.d.html</link>
-            <guid>2011137</guid>
-            <pubDate>Thu, 04 Feb 2021 15:46:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美股散户抱团股集体下跌 游戏驿站跌超15%】美股散户抱团股集体下跌，游戏驿站、高斯电子跌超15%，AMC院线跌超10%，Express跌8%。美联储博斯蒂克表示，美国证券交易委员会负责处理游戏驿站和类似的交易波动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-04/detail-ikftssap3638027.d.html</link>
-            <guid>2011136</guid>
-            <pubDate>Thu, 04 Feb 2021 15:42:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储博斯蒂克：美国证券交易委员会负责处理游戏驿站和类似的交易波动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-04/detail-ikftpnny4622327.d.html</link>
-            <guid>2011135</guid>
-            <pubDate>Thu, 04 Feb 2021 15:38:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【因巴拿马型船运价走高 波罗的海干散货指数与昨日持平】因巴拿马型船运价的走高抵消了海岬型船运价的走低，波罗的海干散货指数周四与昨日持平，报1327点。海岬型船运价指数下跌0.3%或4点，至1540点，该指数已连续第11个交易日下跌，跌至去年12月14日以来的最低水平，日均获利下跌30美元至12772美元。巴拿马型船运价指数结束了连续三个交易日的下跌，今日上涨6点或0.4%，至1629点，日均获利上升54美元至14658美元。超灵便型船运价指数跌2点至1139点，为两周以来的低点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-04/detail-ikftpnny4622163.d.html</link>
-            <guid>2011134</guid>
-            <pubDate>Thu, 04 Feb 2021 15:38:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储博斯蒂克：不认为美联储今年需要调整购债计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-04/detail-ikftssap3635679.d.html</link>
-            <guid>2011133</guid>
-            <pubDate>Thu, 04 Feb 2021 15:37:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在岸人民币兑美元（CNY）北京时间23:30收报6.4720元，较周三夜盘收盘跌104点。成交量311.26亿美元，较周三减少3.28亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-04/detail-ikftssap3635630.d.html</link>
-            <guid>2011132</guid>
-            <pubDate>Thu, 04 Feb 2021 15:37:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储博斯蒂克：尽管基本面前景强劲，但美联储仍需要继续提供和扩大支持，并不急于削减政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-04/detail-ikftssap3635482.d.html</link>
-            <guid>2011131</guid>
-            <pubDate>Thu, 04 Feb 2021 15:36:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美银证券：将高通(QCOM.O)目标价从180美元上调至200美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-04/detail-ikftssap3635399.d.html</link>
-            <guid>2011130</guid>
-            <pubDate>Thu, 04 Feb 2021 15:36:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
