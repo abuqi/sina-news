@@ -4,11 +4,28 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 06 Feb 2021 18:26:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Feb 2021 19:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[加拿大新增新冠病毒感染确诊病例2604例，累计超过80万例，达到800360例；新增死亡病例73例，累计达到20682例。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftpnny5512121.d.html</link>
+            <guid>2014643</guid>
+            <pubDate>Sat, 06 Feb 2021 19:13:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【南非购买新车将不再出现车价和维修价格捆绑现象】 据南非媒体当地时间2月6日报道，南非竞争委员会规定，7月1日后，该国新车销售将不再出现车价和维修价格捆绑现象。南非竞争委员会规定7月1日起该国销售的全新机动车价格将与该机动车的服务/维护价格分开。原始设备制造商（OEM）和独立的第三方供应商（4S店 ）必须将服务/维护转让给被保险公司认可的其它企业。该规定虽然不具备法规效力，但是这些指导方针将为汽车销售行业设定新的标准。南非一些保险公司表示，这将让消费者对汽车价格和增值服务价格有进一步的了解，同时让这些产品报价具有比原来更大的竞争力。在此之前，在南非购买新车，通常会把保养等服务价格和新车价格捆绑在一起进行销售。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftssap4525304.d.html</link>
+            <guid>2014625</guid>
+            <pubDate>Sat, 06 Feb 2021 18:49:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利新增13442例新冠肺炎病例，上一日增加14218例；新增385例死亡病例，上一日增加377例。]]></title>
+            <guid>2014607</guid>
+            <pubDate>Sat, 06 Feb 2021 18:42:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  中国地震台网正式测定：02月07日01时36分在台湾宜兰县海域（北纬24.65度，东经122.50度）发生5.2级地震，震源深度70千米。]]></title>
             <guid>2014532</guid>
@@ -210,18 +227,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5468778.d.html</link>
             <guid>2013750</guid>
             <pubDate>Sat, 06 Feb 2021 10:32:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲央行管委维斯科：一旦紧急情况结束，意大利必须从支持措施转向增长所需的改革和投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4482789.d.html</link>
-            <guid>2013749</guid>
-            <pubDate>Sat, 06 Feb 2021 10:30:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲央行管委维斯科：意大利银行业的资本状况继续加强。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5468506.d.html</link>
-            <guid>2013748</guid>
-            <pubDate>Sat, 06 Feb 2021 10:30:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
