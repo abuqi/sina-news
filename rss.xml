@@ -4,11 +4,16 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 06 Feb 2021 16:41:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Feb 2021 17:29:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[希腊新增新冠肺炎累计确诊病例163213例，累计死亡病例5951例；由于出现新冠肺炎确诊病例等相关原因不同程度停课的学校已达336所。（央视）]]></title>
+            <guid>2014450</guid>
+            <pubDate>Sat, 06 Feb 2021 17:15:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[英国新冠肺炎累计确诊病例3929835例，累计死亡病例112092例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftssap4515797.d.html</link>
