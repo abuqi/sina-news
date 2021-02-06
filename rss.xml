@@ -4,11 +4,16 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 06 Feb 2021 17:29:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Feb 2021 18:26:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  中国地震台网正式测定：02月07日01时36分在台湾宜兰县海域（北纬24.65度，东经122.50度）发生5.2级地震，震源深度70千米。]]></title>
+            <guid>2014532</guid>
+            <pubDate>Sat, 06 Feb 2021 17:53:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[希腊新增新冠肺炎累计确诊病例163213例，累计死亡病例5951例；由于出现新冠肺炎确诊病例等相关原因不同程度停课的学校已达336所。（央视）]]></title>
             <guid>2014450</guid>
@@ -217,18 +222,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5468506.d.html</link>
             <guid>2013748</guid>
             <pubDate>Sat, 06 Feb 2021 10:30:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲央行管委维斯科：财政政策必须以降低债务比率为目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5468486.d.html</link>
-            <guid>2013746</guid>
-            <pubDate>Sat, 06 Feb 2021 10:29:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委维斯科：预计经济复苏将从今年春季开始。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5468426.d.html</link>
-            <guid>2013745</guid>
-            <pubDate>Sat, 06 Feb 2021 10:28:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
