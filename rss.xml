@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 06 Feb 2021 13:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Feb 2021 14:23:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【与德拉基会晤后，意大利联盟党主席暗示不反对与五星运动党联合执政】意大利联盟党主席萨尔维尼表示，右翼政党将于下周决定是否支持由欧洲央行前行长德拉基领导的政府，但在周六与德拉基的讨论中已就部分问题达成共识。自德拉基获得授权以来，这位激进的右翼领导人反复改变策略，先是呼吁提前选举，然后又称不会与议会最大政党——五星运动党一起执政。目前萨尔维尼的最新表态是没有为（加入）德拉基政府设定任何条件。德拉基目前正在与五星运动党会面，这是他与各政党第一轮正式谈判中的最后一次会议，下周德拉基还将举行第二轮谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4501158.d.html</link>
+            <guid>2014258</guid>
+            <pubDate>Sat, 06 Feb 2021 13:42:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【国家统计局回应修订2019年GDP数据：是正常制度化安排 并非为做大2020年增速】 国家统计局日前公布了经最终核实的2019年GDP数据，GDP总量比初步核算数有所减少。国家统计局副局长盛来运表示，调整修订是一种正常的制度化安排，不像有些网友调侃的那样，是为了做大2020年GDP增速。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5484831.d.html</link>
@@ -212,24 +218,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4479584.d.html</link>
             <guid>2013738</guid>
             <pubDate>Sat, 06 Feb 2021 10:01:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【广西开展打击海洋非法捕捞专项治理行动】从广西壮族自治区农业农村厅获悉，广西近日启动为期一年的打击海洋非法捕捞专项治理行动，对使用违规渔具、毒鱼、电鱼等破坏渔业资源的非法捕捞行为进行严打。下一步，广西将继续推进专项治理行动，对重点水域、重点区域开展彻底排查，掌握动态信息，全力摸排、打击非法捕捞、运输、经营的地下产业链。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4478212.d.html</link>
-            <guid>2013736</guid>
-            <pubDate>Sat, 06 Feb 2021 09:53:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黑龙江省新冠肺炎救治中心新冠肺炎重症患者清零】今天，经专家组评估，黑龙江省新冠肺炎救治中心最后4名新冠肺炎重型患者，转为普通型。黑龙江省新冠肺炎救治中心重型患者全部清零，黑龙江省新冠肺炎患者重症患者清零。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5463553.d.html</link>
-            <guid>2013735</guid>
-            <pubDate>Sat, 06 Feb 2021 09:50:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  马来西亚周六新增3847例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4477430.d.html</link>
-            <guid>2013734</guid>
-            <pubDate>Sat, 06 Feb 2021 09:49:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
