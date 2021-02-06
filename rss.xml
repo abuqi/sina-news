@@ -4,7 +4,7 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 06 Feb 2021 20:23:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Feb 2021 21:20:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
@@ -209,12 +209,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5470555.d.html</link>
             <guid>2013755</guid>
             <pubDate>Sat, 06 Feb 2021 10:54:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  比特币重回40000美元/枚上方，为1月14日以来首次。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5470478.d.html</link>
-            <guid>2013754</guid>
-            <pubDate>Sat, 06 Feb 2021 10:53:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
