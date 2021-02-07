@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 07 Feb 2021 14:23:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Feb 2021 15:23:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【前海联合基金：继续关注高景气成长板块投资机会】今日，前海联合基金发表市场观点指出，本周市场呈震荡盘整态势，在经济稳步增长、企业盈利继续好转态势下，对市场无需过度悲观，可关注高景气成长、顺周期和低估值行业机会。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftssap4682741.d.html</link>
+            <guid>2015965</guid>
+            <pubDate>Sun, 07 Feb 2021 14:39:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【1月广州港完成港口货物吞吐量5672万吨 货物吞吐量创单月历史新高】据广州市港务局，1月，广州港完成港口货物吞吐量5672万吨，同比增长19.29%，货物吞吐量创单月历史新高；完成集装箱吞吐量205.97万TEU，同比增长19.60%；其中内贸集装箱吞吐量130.50万TEU，同比增长29.01%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftssap4680362.d.html</link>
@@ -284,18 +290,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftssap4668511.d.html</link>
             <guid>2015751</guid>
             <pubDate>Sun, 07 Feb 2021 12:28:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  粉笔教育完成3.9亿美元A轮融资 加速线上线下业务发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftssap4668482.d.html</link>
-            <guid>2015748</guid>
-            <pubDate>Sun, 07 Feb 2021 12:28:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中金：A股节前市场情绪仍可能偏低】中金公司指出，我们认为市场可能继续处于相对“平淡期”，在春节前剩余的交易日内可能情绪仍偏低、成交回落，投资者可能会继续聚焦于政策的边际变化以及节后召开的两会。操作上重结构、轻指数。（1）消费全年或在低基数上继续复苏，确定性相对高，仍是自下而上选股的重点方向；（2）逢低吸纳新能源及新能源汽车产业链中上游高景气的领域；（3）科技及产业自主领域关注电子半导体等科技硬件自下而上、逢低吸纳机会；（4）周期性行业中关注部分金属原材料、原油产业链等。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftssap4666111.d.html</link>
-            <guid>2015703</guid>
-            <pubDate>Sun, 07 Feb 2021 12:04:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
