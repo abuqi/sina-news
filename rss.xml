@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 07 Feb 2021 15:23:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Feb 2021 16:40:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【英国新增新冠肺炎确诊病例15845例 累计确诊3945680例】当地时间2月7日，英国卫生和社会保障部公布最新数据显示，过去24小时英国新增新冠肺炎确诊病例15845例，累计确诊3945680例；新增死亡病例373例，累计死亡112465例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-08/detail-ikftssap4689756.d.html</link>
+            <guid>2016040</guid>
+            <pubDate>Sun, 07 Feb 2021 16:35:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【塞尔维亚新增新冠肺炎确诊病例1529例 累计确诊407881例】据塞卫生部当地时间2月7日公布数据，过去24小时对7510人进行新冠病毒检测，确诊1529例；截至目前，累计确诊407881例；累计死亡4126例，死亡率1.01%。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftssap4686754.d.html</link>
+            <guid>2016030</guid>
+            <pubDate>Sun, 07 Feb 2021 15:51:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【前海联合基金：继续关注高景气成长板块投资机会】今日，前海联合基金发表市场观点指出，本周市场呈震荡盘整态势，在经济稳步增长、企业盈利继续好转态势下，对市场无需过度悲观，可关注高景气成长、顺周期和低估值行业机会。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftssap4682741.d.html</link>
@@ -278,18 +290,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftpnny5654777.d.html</link>
             <guid>2015758</guid>
             <pubDate>Sun, 07 Feb 2021 12:31:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【155亿元回购并增持蔚来中国 蔚来称：无关IPO 回购为共赢】近日，蔚来宣布将向蔚来中国两名战略投资者回购3.305%的股权，作价55亿元。同时，蔚来汽车将增持认购100亿元，在完成股权收购和资本认购后，蔚来汽车将合计持有蔚来中国90.36%的控股权。对此，蔚来汽车相关负责人表示，“蔚来对蔚来中国的回购和IPO没有关系。”同时，其还表示，回购是多方共赢，并为下一步发展提供新的动力。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftpnny5654630.d.html</link>
-            <guid>2015754</guid>
-            <pubDate>Sun, 07 Feb 2021 12:30:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【粉笔教育完成3.9亿美元A轮融资 加速线上线下业务发展】2月7日，深耕职业教育领域的北京粉笔蓝天科技有限公司(简称“粉笔教育”)宣布完成3.9亿美元的A轮融资。这是粉笔教育自成立以来首次公开融资，由IDG资本和挚信资本领投，CPE，德弘资本(DCP)，昆裕润源，华兴新经济基金，弘毅投资，泓睿投资等跟投。粉笔教育成立于2015年，是首个推动“互联网+教育”的职业培训平台。（中国新闻网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftssap4668511.d.html</link>
-            <guid>2015751</guid>
-            <pubDate>Sun, 07 Feb 2021 12:28:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
