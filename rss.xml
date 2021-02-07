@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 07 Feb 2021 17:29:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Feb 2021 18:26:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【今年以来银行业被罚逾1.63亿元 大额罚单剑指银行理财违规】2021年金融业严监管态势不减。根据银保监会官网公布的信息统计，今年以来（以罚单披露时间统计），银保监会及其派出机构对各类型银行业机构（不含个人）已累计开出罚单170余张，罚金金额逾1.63亿元。值得注意的是，信贷业务违规依然是银行受罚“高发区”，其中，因个人经营性贷款、个人消费贷款等多用途资金违规流入房地产市场仍是监管处罚重点。除此之外，对银行理财业务的监管也毫不手软，其中不乏千万元级罚单。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-08/detail-ikftssap4697342.d.html</link>
+            <guid>2016043</guid>
+            <pubDate>Sun, 07 Feb 2021 18:19:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海尔智家：拟增选公司董事及对目前的高管团队进行改组】海尔智家公布，该公司第十届董事会第十五次会议审议通过了公司增选董事及改组高级管理人员的议案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-08/detail-ikftssap4695745.d.html</link>
+            <guid>2016042</guid>
+            <pubDate>Sun, 07 Feb 2021 17:48:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【希望教育：拟以5亿元收购南昌大学共青学院】希望教育公布，公司全资附属公司成都五月阳光教育管理有限公司，拟以代价人民币5亿元向肖学韬、陈寅及赖新见收购南昌大学共青学院100%举办者权益及江西昌振实业有限公司(“目标公司”)100%股权。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-08/detail-ikftpnny5677694.d.html</link>
@@ -278,18 +290,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftpnny5656857.d.html</link>
             <guid>2015791</guid>
             <pubDate>Sun, 07 Feb 2021 12:52:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  2月7日，青田新增一例境外输入新冠肺炎复阳案例。（浙江新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftpnny5656253.d.html</link>
-            <guid>2015784</guid>
-            <pubDate>Sun, 07 Feb 2021 12:45:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【天津新增1例境外输入无症状感染者】天津市疾控中心透露，2月6日18时至7日18时，天津市无新增本土新冠肺炎确诊病例，累计报告147例，其中男性82例，女性65例；治愈出院144例，病亡3例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftpnny5655037.d.html</link>
-            <guid>2015761</guid>
-            <pubDate>Sun, 07 Feb 2021 12:34:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
