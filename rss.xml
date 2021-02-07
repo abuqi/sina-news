@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 07 Feb 2021 16:40:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Feb 2021 17:29:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【希望教育：拟以5亿元收购南昌大学共青学院】希望教育公布，公司全资附属公司成都五月阳光教育管理有限公司，拟以代价人民币5亿元向肖学韬、陈寅及赖新见收购南昌大学共青学院100%举办者权益及江西昌振实业有限公司(“目标公司”)100%股权。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-08/detail-ikftpnny5677694.d.html</link>
+            <guid>2016041</guid>
+            <pubDate>Sun, 07 Feb 2021 17:02:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【英国新增新冠肺炎确诊病例15845例 累计确诊3945680例】当地时间2月7日，英国卫生和社会保障部公布最新数据显示，过去24小时英国新增新冠肺炎确诊病例15845例，累计确诊3945680例；新增死亡病例373例，累计死亡112465例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-08/detail-ikftssap4689756.d.html</link>
@@ -284,12 +290,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftpnny5655037.d.html</link>
             <guid>2015761</guid>
             <pubDate>Sun, 07 Feb 2021 12:34:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【万亿级发债额度或提前下达 水利投资再引关注】近日财政部、国家发改委发布通知，要求各省市在2月21日前上报2021年新增专项债券项目资金需求。机构普遍预计，今年新增专项债券资金规模超过3万亿元。若专项债准备工作顺利，按照此前全国人大的授权，财政部有可能在全国两会前将部分新增专项债额度提前下达地方。2020年我国水利建设落实投资创历史新高，达7700亿元，为稳投资、保增长发挥了重要作用。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftpnny5654777.d.html</link>
-            <guid>2015758</guid>
-            <pubDate>Sun, 07 Feb 2021 12:31:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
