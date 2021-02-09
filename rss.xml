@@ -4,11 +4,77 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Tue, 09 Feb 2021 18:27:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Feb 2021 19:19:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  恒指期货夜盘收涨0.50%，报29551点，高水75点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6082032.d.html</link>
+            <guid>2019328</guid>
+            <pubDate>Tue, 09 Feb 2021 19:07:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英镑兑美元GBP/USD日内涨幅扩大至0.5%，报1.3806。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5096602.d.html</link>
+            <guid>2019327</guid>
+            <pubDate>Tue, 09 Feb 2021 19:05:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  COMEX 4月黄金期货收涨0.2%，报1837.50美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6081851.d.html</link>
+            <guid>2019326</guid>
+            <pubDate>Tue, 09 Feb 2021 19:04:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【印度北阿肯德邦溃坝事件已找到32具遗体 仍在对失踪人员进行搜救】据印度亚洲国际新闻社报道，北阿肯德邦警察部门表示，截至印度当地时间2月9日20时（北京时间22时30分）已经找到32具遗体，其中8人的身份已经确认。失踪人数在200人左右。在对一处可能困有35位失踪人员的隧道进行搜救时，隧道内大量的碎屑和淤泥令搜救进展缓慢。经过36个小时作业，搜救人员已经向隧道内部推进了约60米，工作人员使用了搜救犬、无人机等对隧道深处进行搜寻，但是没有任何突破性进展。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5096438.d.html</link>
+            <guid>2019325</guid>
+            <pubDate>Tue, 09 Feb 2021 19:02:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  纽约联储在隔夜回购操作中没有收到任何投标。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5095453.d.html</link>
+            <guid>2019323</guid>
+            <pubDate>Tue, 09 Feb 2021 18:47:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  开心汽车直线拉涨至11%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5095185.d.html</link>
+            <guid>2019322</guid>
+            <pubDate>Tue, 09 Feb 2021 18:44:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：Ron Bloom被任命为美国邮政服务委员会主席。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6080319.d.html</link>
+            <guid>2019321</guid>
+            <pubDate>Tue, 09 Feb 2021 18:43:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【世卫组织：全球新冠肺炎确诊病例超过1亿612万例】根据世卫组织最新实时统计数据，截至欧洲中部时间2月9日17时10分（北京时间2月10日0时10分），全球累计新冠肺炎确诊病例106125682例，累计死亡病例2320497例。9日全球新冠肺炎确诊病例新增304166例，死亡病例新增8021例。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5094992.d.html</link>
+            <guid>2019319</guid>
+            <pubDate>Tue, 09 Feb 2021 18:40:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  上期所原油期货2103合约夜盘收涨1.09%，报371.30元人民币/桶。 沪金夜盘收跌0.05%，沪银收跌0.98%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6079554.d.html</link>
+            <guid>2019317</guid>
+            <pubDate>Tue, 09 Feb 2021 18:32:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国SaaS赴美上市首股容联云(RAAS.N)盘中大涨140%，报38.4美元，总市值超60亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6079505.d.html</link>
+            <guid>2019316</guid>
+            <pubDate>Tue, 09 Feb 2021 18:31:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  亚马逊宣布ALEXA ENTITIES (测试版)。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5094208.d.html</link>
+            <guid>2019315</guid>
+            <pubDate>Tue, 09 Feb 2021 18:28:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美国纽约州新增7866例新冠肺炎确诊病例，新增138例新冠肺炎死亡病例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5094126.d.html</link>
@@ -191,84 +257,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5089917.d.html</link>
             <guid>2019279</guid>
             <pubDate>Tue, 09 Feb 2021 17:19:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国脱欧及国际政策代表弗罗斯特：不会对欧盟在伦敦的官员施加任何限制，但欧盟正在限制在布鲁塞尔进行的政治层面的接触。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5089904.d.html</link>
-            <guid>2019278</guid>
-            <pubDate>Tue, 09 Feb 2021 17:18:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  汇丰控股：予爱彼迎买入评级，目标价220美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5089865.d.html</link>
-            <guid>2019277</guid>
-            <pubDate>Tue, 09 Feb 2021 17:18:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  福特汽车现涨超4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6074605.d.html</link>
-            <guid>2019275</guid>
-            <pubDate>Tue, 09 Feb 2021 17:10:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【经参头版评论：坚持“房住不炒”定位，力促楼市稳健发展】在投资产品有限、地区经济发展不平衡以及大城市住房问题突出的背景下，要坚持“房住不炒”的定位，巩固调控成果，确保楼市长期稳健发展，完成“住有所居”的目标。首先，进一步完善调控政策。一是完善监测预警。二是扩大调控范围。针对新房、二手房价差的套利炒房行为，尝试对二手房市场采取必要措施。三是完善调控政策。其次，加快基础性配套改革。加快住房供给土地制度改革以及房地产税改革，发挥抑制投机、扩大租赁市场供给、支持财税和土地制度改革的多重效应。再次，实施新市民安居工程。目前热点城市保障性住房供给，很难满足规模巨大且快速增长的新市民的住房需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6074484.d.html</link>
-            <guid>2019274</guid>
-            <pubDate>Tue, 09 Feb 2021 17:08:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  EIA短期能源展望报告：预计2022年美国天然气消费量为810.1亿立方英尺/日，此前预期为790.3亿立方英尺/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5089167.d.html</link>
-            <guid>2019273</guid>
-            <pubDate>Tue, 09 Feb 2021 17:07:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  EIA短期能源展望报告：预计2021年美国天然气消费量为817.1亿立方英尺/日，此前预期为807.3亿立方英尺/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5089153.d.html</link>
-            <guid>2019272</guid>
-            <pubDate>Tue, 09 Feb 2021 17:07:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  EIA短期能源展望报告：预计2022年美国天然气（干气）产量为909.6亿立方英尺/日，此前预期为896.6亿立方英尺/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6074403.d.html</link>
-            <guid>2019271</guid>
-            <pubDate>Tue, 09 Feb 2021 17:07:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  EIA短期能源展望报告：预计2021年美国天然气（干气）产量为905亿立方英尺/日，此前预期为881.7亿立方英尺/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6074385.d.html</link>
-            <guid>2019270</guid>
-            <pubDate>Tue, 09 Feb 2021 17:07:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  EIA短期能源展望报告：预计2022年天然气价格为3.4美元/千立方英尺，此前预期为3.4美元/千立方英尺。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5089095.d.html</link>
-            <guid>2019269</guid>
-            <pubDate>Tue, 09 Feb 2021 17:07:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  EIA短期能源展望报告：预计2021年天然气价格为3.07美元/千立方英尺，此前预期为3.13美元/千立方英尺。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5089079.d.html</link>
-            <guid>2019268</guid>
-            <pubDate>Tue, 09 Feb 2021 17:07:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  EIA短期能源展望报告：预计2022年美国原油产量将增长51万桶/日，此前预计为增加39万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5089003.d.html</link>
-            <guid>2019267</guid>
-            <pubDate>Tue, 09 Feb 2021 17:06:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  EIA短期能源展望报告：预计2021年美国原油产量将增长29万桶/日，此前预计为减少19万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5088959.d.html</link>
-            <guid>2019266</guid>
-            <pubDate>Tue, 09 Feb 2021 17:05:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  EIA短期能源展望报告：预计2022年美国原油需求增速为100万桶/日，此前为99万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6074122.d.html</link>
-            <guid>2019265</guid>
-            <pubDate>Tue, 09 Feb 2021 17:05:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
