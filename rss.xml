@@ -4,13 +4,261 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Tue, 09 Feb 2021 15:24:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Feb 2021 16:40:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[市场消息：一些众议院民主党人推动美国食品药品监督管理局制定有关堕胎药物的规则。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5085906.d.html</link>
+            <guid>2019239</guid>
+            <pubDate>Tue, 09 Feb 2021 16:38:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：特斯拉(TSLA.O)今年将建成研发中心，设计新的2.5万美元的电动汽车。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6071149.d.html</link>
+            <guid>2019238</guid>
+            <pubDate>Tue, 09 Feb 2021 16:38:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  福特：正在寻求提高野马MACH-E电动汽车的产能。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5085853.d.html</link>
+            <guid>2019237</guid>
+            <pubDate>Tue, 09 Feb 2021 16:37:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欢聚时代盘中涨超5%，此前杰富瑞将其目标价从110美元上调至132美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6071031.d.html</link>
+            <guid>2019236</guid>
+            <pubDate>Tue, 09 Feb 2021 16:36:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：加拿大航空将暂时解雇1500名员工，在4月30日前暂停17条航线的服务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6070720.d.html</link>
+            <guid>2019235</guid>
+            <pubDate>Tue, 09 Feb 2021 16:33:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部拍卖42天期现金管理票据，得标利率0.035%；美国财政部拍卖119天期现金管理票据，得标利率0.040%。]]></title>
+            <guid>2019234</guid>
+            <pubDate>Tue, 09 Feb 2021 16:32:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据AXIOS网站：美国参议院多数党领袖舒默表示，在今天开始的对特朗普的第二次弹劾审判中，众议院弹劾负责人将提交一些新证据。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5085301.d.html</link>
+            <guid>2019233</guid>
+            <pubDate>Tue, 09 Feb 2021 16:31:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国DAX 30指数初步收跌0.44%，报13998.07点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6070534.d.html</link>
+            <guid>2019232</guid>
+            <pubDate>Tue, 09 Feb 2021 16:31:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲STOXX 600指数初步收跌0.17%，报410.10点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5085251.d.html</link>
+            <guid>2019231</guid>
+            <pubDate>Tue, 09 Feb 2021 16:30:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Applied Uv停牌，停牌前上涨381%，盘中一度暴涨478%；此前该公司宣布其全资子公司SteriLumen已完成对Akida Holdings全部资产的收购。]]></title>
+            <guid>2019230</guid>
+            <pubDate>Tue, 09 Feb 2021 16:30:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  福特：尽管芯片短缺，F-150皮卡的发布将按计划进行。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5084963.d.html</link>
+            <guid>2019229</guid>
+            <pubDate>Tue, 09 Feb 2021 16:27:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  特斯拉盘中跌超2%，GLJ Research分析师表示维持对特斯拉“卖出”评级及目标价67美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6070229.d.html</link>
+            <guid>2019228</guid>
+            <pubDate>Tue, 09 Feb 2021 16:27:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【两部门提示：西北部分地区发生冰川灾害的趋势可能进一步加剧】国家防办、应急管理部组织相关部门和地区2月9日召开冰川灾害防范应对会商会，分析研判我国冰川灾害形势，要求增强风险意识，加强冰川灾害风险隐患排查。会议强调，要充分认识我国冰川灾害风险的严峻性。受全球气候变化影响，我国冰川消融有所加快，西北部分地区近年来呈现出变暖变湿的趋势，发生冰川灾害的趋势可能进一步加剧，加之西部山区防灾减灾基础薄弱，对下游人民群众生命财产安全、基础设施安全和能源安全构成严重威胁。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5084774.d.html</link>
+            <guid>2019227</guid>
+            <pubDate>Tue, 09 Feb 2021 16:25:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股工业大麻板块持续走强，Tilray涨近50%，Veru涨31.11%，Aphria涨24.76%，Sundial Grower涨近25%，极光大麻涨超11%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6069877.d.html</link>
+            <guid>2019226</guid>
+            <pubDate>Tue, 09 Feb 2021 16:23:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[牛津大学：研究表明，普通哮喘治疗可减少新冠肺炎患者的住院需求；研究发现，新冠肺炎患者在症状出现7天内吸入布地奈德也能缩短恢复时间；研究还表明，接受布地奈德治疗的患者持续性症状有所减轻。]]></title>
+            <guid>2019225</guid>
+            <pubDate>Tue, 09 Feb 2021 16:21:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【黑龙江绥化市1名新冠肺炎患者出院 4名无症状感染者解除集中医学观察】2月9日，在绥化市第一医院，经过治疗1名确诊患者（普通型）出院，4名无症状感染者解除集中医学观察。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6069483.d.html</link>
+            <guid>2019224</guid>
+            <pubDate>Tue, 09 Feb 2021 16:19:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[近日从一名接近深圳国资委的人士处获悉，国信证券董事长将要变动，深圳市龙华区区委常委、副区长张纳沙将赴任国信证券董事长。深圳相关部门已对此进行内部公示。（券商中国）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5084234.d.html</link>
+            <guid>2019223</guid>
+            <pubDate>Tue, 09 Feb 2021 16:19:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  特斯拉(TSLA.O)盘中跌超2%，GLJ Research分析师表示维持对特斯拉“卖出”评级及目标价67美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5084089.d.html</link>
+            <guid>2019222</guid>
+            <pubDate>Tue, 09 Feb 2021 16:16:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  阿联酋火星探测器成功进入火星轨道。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6069203.d.html</link>
+            <guid>2019221</guid>
+            <pubDate>Tue, 09 Feb 2021 16:15:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  药企Veru(VERU.O)涨超30%，股价刷新历史高位，此前获HC Wainwright & Co.上调其目标价至17美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5083970.d.html</link>
+            <guid>2019220</guid>
+            <pubDate>Tue, 09 Feb 2021 16:14:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登将在2月16日主持“市民大会”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6068881.d.html</link>
+            <guid>2019219</guid>
+            <pubDate>Tue, 09 Feb 2021 16:11:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国参议院多数党领袖舒默：正与议员们就最低薪资展开工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5083271.d.html</link>
+            <guid>2019218</guid>
+            <pubDate>Tue, 09 Feb 2021 16:08:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美联储的有效联邦基金利率自1月以来首次下降】根据纽约联储数据，2月8日，有效联邦基金利率从上一交易日的0.08%降至0.07%，为1月以来首次下降；策略师预计有效联邦基金利率在月中走低，届时政府支持企业进入市场拉低利率，但是，这仍然并不意味着美联储近期会调整隔夜逆回购利率或超额准备金利率。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6068351.d.html</link>
+            <guid>2019217</guid>
+            <pubDate>Tue, 09 Feb 2021 16:07:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  空白支票公司GigCapital4开盘价报10.19美元，IPO发行价为10美元/股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5082832.d.html</link>
+            <guid>2019216</guid>
+            <pubDate>Tue, 09 Feb 2021 16:04:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国新增新冠肺炎确诊病例12364例，新增1052例新冠肺炎死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5082793.d.html</link>
+            <guid>2019215</guid>
+            <pubDate>Tue, 09 Feb 2021 16:03:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  波音公司：1月交付了26架喷气式飞机，其中包括21架Max 737。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6067774.d.html</link>
+            <guid>2019214</guid>
+            <pubDate>Tue, 09 Feb 2021 16:02:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高通维持在平盘水平附近，高通技术公司今日发布骁龙X65 5G调制解调器及射频系统——第4代5G调制解调器到天线的解决方案。据悉，它是全球首个支持10Gbps 5G速率和首个符合3GPP Release 16规范的调制解调器及射频系统。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny6067213.d.html</link>
+            <guid>2019213</guid>
+            <pubDate>Tue, 09 Feb 2021 15:56:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  伊拉克副油长：伊拉克承诺欧佩克+减产；只有在国际石油市场有需求的情况下才会提高伊拉克未来的原油产量。]]></title>
+            <guid>2019212</guid>
+            <pubDate>Tue, 09 Feb 2021 15:51:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  游戏驿站跌幅扩大至18%，报49美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftssap5081704.d.html</link>
+            <guid>2019211</guid>
+            <pubDate>Tue, 09 Feb 2021 15:48:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  WTO：总理事会将于下周一（2月15日）召开会议，决定下一任总干事的人选。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftssap5081393.d.html</link>
+            <guid>2019210</guid>
+            <pubDate>Tue, 09 Feb 2021 15:44:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中概造车新势力走势分化，蔚来汽车涨超3%，理想汽车跌1.22%，小鹏汽车跌2.71%。]]></title>
+            <guid>2019209</guid>
+            <pubDate>Tue, 09 Feb 2021 15:43:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国参议院多数党领袖舒默：参议院有责任追究特朗普的责任。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny6066082.d.html</link>
+            <guid>2019207</guid>
+            <pubDate>Tue, 09 Feb 2021 15:39:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  惠誉：欧洲运输业将以不同的速度复苏。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftssap5080959.d.html</link>
+            <guid>2019206</guid>
+            <pubDate>Tue, 09 Feb 2021 15:39:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[在岸人民币兑美元（CNY）北京时间23:30收报6.4342元，较周一夜盘收盘涨146点。成交量272.86亿美元，较周一减少27.88亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny6066025.d.html</link>
+            <guid>2019205</guid>
+            <pubDate>Tue, 09 Feb 2021 15:38:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  猎豹移动涨超10%，现报3.59美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftssap5080834.d.html</link>
+            <guid>2019204</guid>
+            <pubDate>Tue, 09 Feb 2021 15:37:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国民主党寻求在下一次刺激计划中为餐馆拨款250亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny6065751.d.html</link>
+            <guid>2019203</guid>
+            <pubDate>Tue, 09 Feb 2021 15:34:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：德国总理默克尔希望延长封锁期，学校可关闭直至3月初。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny6065734.d.html</link>
+            <guid>2019202</guid>
+            <pubDate>Tue, 09 Feb 2021 15:34:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  猫眼专业版统计，截至2月9日23点27分，唐人街探案3预售总票房破5亿，继续抬高国产电影预售票房纪录。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny6065588.d.html</link>
+            <guid>2019201</guid>
+            <pubDate>Tue, 09 Feb 2021 15:31:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shopify(SHOP.N)涨近5%，股价刷新历史新高，此前Shopify将其结账系统扩展到Facebook和Instagram。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftssap5080336.d.html</link>
+            <guid>2019200</guid>
+            <pubDate>Tue, 09 Feb 2021 15:29:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[《关于加强网络直播规范管理工作的指导意见》强调，网络直播平台要建立健全直播账号分类分级规范管理制度、直播打赏服务管理规则和直播带货管理制度，要针对不同类别级别的网络主播账号在单场受赏总额、直播热度等方面合理设限，要对单个虚拟消费品、单次打赏额度合理设置上限，对单日打赏额度累计触发相应阈值的用户进行消费提醒，必要时设置打赏冷静期和延时到账期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny6065372.d.html</link>
+            <guid>2019199</guid>
+            <pubDate>Tue, 09 Feb 2021 15:28:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【七部门联合发布《关于加强网络直播规范管理工作的指导意见》】9日，国家互联网信息办公室、全国“扫黄打非”工作小组办公室等七部门联合发布《关于加强网络直播规范管理工作的指导意见》，旨在进一步加强网络直播行业的正面引导和规范管理，重点规范网络打赏行为，推进主播账号分类分级管理，提升直播平台文化品位，促进网络直播行业高质量发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftssap5080213.d.html</link>
+            <guid>2019197</guid>
+            <pubDate>Tue, 09 Feb 2021 15:26:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国民主党人计划将刺激计划中的薪酬保障计划（PPP）资金增加至8137亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny6065209.d.html</link>
+            <guid>2019196</guid>
+            <pubDate>Tue, 09 Feb 2021 15:25:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[美股早盘，恐惧与贪婪指数读数为56，表明市场处在贪婪状态。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny6065151.d.html</link>
             <guid>2019195</guid>
             <pubDate>Tue, 09 Feb 2021 15:24:23 GMT</pubDate>
         </item>
@@ -42,251 +290,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny6064551.d.html</link>
             <guid>2019190</guid>
             <pubDate>Tue, 09 Feb 2021 15:19:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  电子艺界(EA.O)涨超3%，此前宣布拟发行两部分的优先票据。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny6064537.d.html</link>
-            <guid>2019189</guid>
-            <pubDate>Tue, 09 Feb 2021 15:19:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  福特汽车现涨近2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftssap5079485.d.html</link>
-            <guid>2019188</guid>
-            <pubDate>Tue, 09 Feb 2021 15:18:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【未来5年我国有望从中东欧进口累计价值上千亿美元商品】中方计划今后5年从中东欧国家进口累计价值1700亿美元以上的商品……这是9日举行的中国-中东欧国家领导人峰会达成的经贸成果之一。此次峰会达成的经贸成果丰硕，包括扩大从中东欧国家进口商品，拓展在数字经济、电子商务、健康产业等领域合作，以及签署总额近130亿美元的53项商业合作协议等。对于进口累计价值1700亿美元以上的中东欧商品，商务部欧洲司司长翟谦说，“这个目标非常务实”。他表示，中东欧国家的机电产品、汽车及零部件、农食产品、轻纺产品、矿产原料等具有比较优势，而中国市场广阔，正推动生产和消费升级，因此扩大自中东欧进口空间很大。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftssap5079442.d.html</link>
-            <guid>2019187</guid>
-            <pubDate>Tue, 09 Feb 2021 15:17:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【研究显示：英国发现的变异病毒致死风险更高】 英国一项有待同行评议的研究结果显示，最初在英国发现的变异新冠病毒致死风险更高。这项研究结果上周发布在美国“医学论文档案网”。文章说，研究人员分析了英格兰地区去年9月至今年1月47%的社区所做新冠病毒检测结果和同期英格兰7%的新冠死亡病例检测结果。把影响新冠患者病情的其他因素考虑在内以后，研究人员估算得出，英国发现的变异病毒致死风险比早先“版本”新冠病毒高35%左右。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftssap5079314.d.html</link>
-            <guid>2019186</guid>
-            <pubDate>Tue, 09 Feb 2021 15:15:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：福特汽车将在德国首次生产全电电动汽车。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny6064235.d.html</link>
-            <guid>2019185</guid>
-            <pubDate>Tue, 09 Feb 2021 15:15:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国国会山呼吁总统拜登支持阿片类药品疗法类政策措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny6064143.d.html</link>
-            <guid>2019184</guid>
-            <pubDate>Tue, 09 Feb 2021 15:13:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[空白支票公司Crown PropTech Acquisitions开盘价报10.28美元，IPO发行价为10美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny6064042.d.html</link>
-            <guid>2019183</guid>
-            <pubDate>Tue, 09 Feb 2021 15:12:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“巴菲特指标”显示美股泡沫程度已远高于2000年】巴菲特最青睐的指标——Wilshire 5000指数衡量的市场市值与美国GDP的比率当前远高于互联网泡沫破灭前不久的比率。在2020年下半年表现出色之后，道指、标普500指数和纳指现在较去年3月23日低点分别上涨了69％、75％和104％，这引发了人们对股市与经济现实之间日益脱节的担忧。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftssap5079039.d.html</link>
-            <guid>2019182</guid>
-            <pubDate>Tue, 09 Feb 2021 15:12:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：拜登下周将访问威斯康星州。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftssap5078786.d.html</link>
-            <guid>2019180</guid>
-            <pubDate>Tue, 09 Feb 2021 15:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【波罗的海干散货运价指数跌至近两个月低位】波罗的海干散货运价指数跌至近两个月低位，因海岬型船运价指数连续第十四个交易日下跌，抵消了巴拿马型船运价指数的上涨；波罗的海干散货运价指数周二跌11点或0.8，报1306点。海岬型船运价指数跌84点或5.8%，报1370点，为去年12月10日以来最低水平，日均获利减少698美元至11359美元。巴拿马型船运价指数涨51点或3%，报1740点，为2020年8月19日以来最高水平，日均获利增加466美元至15664美元。超灵便型船运价指数涨7点，报1156点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftssap5078425.d.html</link>
-            <guid>2019179</guid>
-            <pubDate>Tue, 09 Feb 2021 15:05:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  百度(BIDU.O)持续拉升，股价上破300美元关口，现涨超8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny6063170.d.html</link>
-            <guid>2019178</guid>
-            <pubDate>Tue, 09 Feb 2021 15:04:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【内盘期货夜盘黑色系集体收涨】 螺纹期货夜盘收涨0.5%，热卷收涨0.55%；铁矿石期货收涨1.53%。焦炭夜盘收涨0.23%，焦煤收涨0.32%，动力煤收涨0.68%。橡胶夜盘收跌1.22%，沥青收跌0.89%。豆粕夜盘收涨0.09%，菜粕收涨0.45%。郑棉夜盘收涨0.83%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftssap5078188.d.html</link>
-            <guid>2019177</guid>
-            <pubDate>Tue, 09 Feb 2021 15:03:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：民主党人表示，周二投票否决特朗普弹劾案将以失败告终。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny6062879.d.html</link>
-            <guid>2019176</guid>
-            <pubDate>Tue, 09 Feb 2021 15:01:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：美国民主党将特朗普煽动暴乱视为暴力犯罪，参与特朗普审判的民主党人计划拿出之前没有见过的证据。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny6062842.d.html</link>
-            <guid>2019175</guid>
-            <pubDate>Tue, 09 Feb 2021 15:01:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国12月JOLTs职位空缺(万人)：前值652.7，预期650，公布 664.6。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftssap5077905.d.html</link>
-            <guid>2019174</guid>
-            <pubDate>Tue, 09 Feb 2021 15:01:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【大商所、郑商所夜盘收盘 LPG跌超5%】大商所、郑商所夜盘收盘，能源化工领导跌，LPG跌超5%，LU、郑醇等跌超1%，沥青、PP等小幅下跌；豆二、棕榈等涨逾1%，菜粕、棉纱等小幅上涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftssap5077868.d.html</link>
-            <guid>2019173</guid>
-            <pubDate>Tue, 09 Feb 2021 15:01:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[微博涨超5%，股价刷新近一年新高，报55.43美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny6062497.d.html</link>
-            <guid>2019172</guid>
-            <pubDate>Tue, 09 Feb 2021 14:58:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【热门中概多数上涨，百度涨超6%创历史新高】 百度涨超6%，创盘中纪录新高至295.41美元；其他中概股中，老虎证券涨超10%，今年迄今累涨269%；网易涨超5%，微博涨超4%，陌陌、网易有道涨超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny6062221.d.html</link>
-            <guid>2019171</guid>
-            <pubDate>Tue, 09 Feb 2021 14:55:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富途控股涨幅扩大至20%，现报154美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny6062166.d.html</link>
-            <guid>2019170</guid>
-            <pubDate>Tue, 09 Feb 2021 14:55:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【SpaceX开始接受Starlink卫星互联网服务预订】SpaceX再次扩大了其Starlink卫星互联网服务公开Beta测试的范围，周一开始接受潜在用户的预订。用户可在其网站上输入服务地址，预购价格为99美元。一些地区预订消息显示，SpaceX“将在2021年中后期覆盖您所在区域”，而其他地区则显示在2022年。SpaceX目前正在向美国、加拿大和英国的用户提供Starlink服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny6061940.d.html</link>
-            <guid>2019169</guid>
-            <pubDate>Tue, 09 Feb 2021 14:53:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美、布两油期货短线反弹约0.4美元，现分别报57.8美元/桶和60.55美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftssap5077074.d.html</link>
-            <guid>2019168</guid>
-            <pubDate>Tue, 09 Feb 2021 14:52:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  纳指续刷历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny6061846.d.html</link>
-            <guid>2019167</guid>
-            <pubDate>Tue, 09 Feb 2021 14:51:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货黄金较稍早低位反弹近8美元，重回1840美元/盎司上方。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny6061803.d.html</link>
-            <guid>2019166</guid>
-            <pubDate>Tue, 09 Feb 2021 14:51:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  巴西央行行长内托：汇率波动是一个令人担忧的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftssap5076877.d.html</link>
-            <guid>2019165</guid>
-            <pubDate>Tue, 09 Feb 2021 14:51:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[百度(BIDU.O)涨超5%，股价续刷新高，总市值逼近1000亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny6061542.d.html</link>
-            <guid>2019163</guid>
-            <pubDate>Tue, 09 Feb 2021 14:49:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳指涨穿14000点整数位心理关口，创盘中历史新高，日内当前微涨大约0.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftssap5076613.d.html</link>
-            <guid>2019162</guid>
-            <pubDate>Tue, 09 Feb 2021 14:48:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  逸仙电商(YSG.N)涨超5%，现报24.38美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny6061439.d.html</link>
-            <guid>2019161</guid>
-            <pubDate>Tue, 09 Feb 2021 14:48:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股各大类资产类ETF中，恐慌指数做多ETF领涨，涨1%，其次是大豆基金，涨0.7%；美国布伦特原油基金领跌，其次是标普500价值指数ETF。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftssap5076569.d.html</link>
-            <guid>2019160</guid>
-            <pubDate>Tue, 09 Feb 2021 14:48:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  热门中概股涨跌不一，富途控股(FUTU.O)现涨超17%，秦淮数据涨4.68%，网易有道(DAO.N)涨约4%，雾芯科技(RLX.N)涨超3%，达达集团(DADA.O)跌3.8%，陆金所(LU.N)跌2.61%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftssap5076368.d.html</link>
-            <guid>2019159</guid>
-            <pubDate>Tue, 09 Feb 2021 14:46:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股各行业ETF中，网络股指数ETF领涨，涨0.2%，其次是医疗业ETF；能源业ETF领跌，跌近2%，其次是全球航空业指数ETF跌1.5%。]]></title>
-            <guid>2019158</guid>
-            <pubDate>Tue, 09 Feb 2021 14:45:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  巴西央行行长内托：巴西关注更长期的通胀、利率水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftssap5076230.d.html</link>
-            <guid>2019157</guid>
-            <pubDate>Tue, 09 Feb 2021 14:44:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  巴西央行行长内托：通胀的蔓延幅度超过了预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftssap5076172.d.html</link>
-            <guid>2019156</guid>
-            <pubDate>Tue, 09 Feb 2021 14:44:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  意大利民主党领袖称坚定了对德拉基政府的信心。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftssap5076084.d.html</link>
-            <guid>2019155</guid>
-            <pubDate>Tue, 09 Feb 2021 14:43:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  意大利民主党党魁在与德拉基的会谈后表示非常满意。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny6060888.d.html</link>
-            <guid>2019154</guid>
-            <pubDate>Tue, 09 Feb 2021 14:43:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  纳指转跌，道指现跌130点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftssap5075889.d.html</link>
-            <guid>2019152</guid>
-            <pubDate>Tue, 09 Feb 2021 14:42:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  德国总理默克尔告知保守党议员，小学、托儿所、理发店和商店将优先关闭。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny6060710.d.html</link>
-            <guid>2019151</guid>
-            <pubDate>Tue, 09 Feb 2021 14:41:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货黄金短线走低逾9美元，现报1834.25美元/盎司，现货白银短线走低0.4美元，现报27.17美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny6060695.d.html</link>
-            <guid>2019150</guid>
-            <pubDate>Tue, 09 Feb 2021 14:41:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  WSB概念股涨跌互现，Sundial Grower(SNDL.O)涨超7%，Palantir(PLTR.N)涨1.41%，游戏驿站(GME.N)跌约13%，AMC院线(AMC.N)涨超10%，高斯电子(KOSS.O)跌超5%，黑莓(BB.N)跌4.69%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny6060660.d.html</link>
-            <guid>2019149</guid>
-            <pubDate>Tue, 09 Feb 2021 14:41:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  COMEX期银日内跌超1%，现报27.28美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny6060577.d.html</link>
-            <guid>2019148</guid>
-            <pubDate>Tue, 09 Feb 2021 14:40:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  WTI原油期货跌超1%，现报57.36美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftpnny6060520.d.html</link>
-            <guid>2019147</guid>
-            <pubDate>Tue, 09 Feb 2021 14:40:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  消息称，通用延长汽车产量削减，开始停车不完整的汽车由于全球芯片短缺。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-09/detail-ikftssap5075591.d.html</link>
-            <guid>2019146</guid>
-            <pubDate>Tue, 09 Feb 2021 14:39:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
