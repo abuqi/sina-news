@@ -4,11 +4,218 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Wed, 10 Feb 2021 08:28:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2021 09:25:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  小康股份公告，1月汽车销量为20271辆，同比下降18.34%；新能源汽车销量1275辆，同比增长147.09%。]]></title>
+            <guid>2019892</guid>
+            <pubDate>Wed, 10 Feb 2021 09:21:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  富途控股盘前续涨12%，暂报173.75美元，昨日该股收涨超20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5220507.d.html</link>
+            <guid>2019891</guid>
+            <pubDate>Wed, 10 Feb 2021 09:20:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【春节档预售破八亿，业内人士：最终票房有望创新高】 春节假期临近，备受关注的春节档影片也即将上映。日前，记者走访北京多家电影院看到，春节档新片的宣传物料在售票大厅中随处可见，预售情况十分火爆。2月10日，根据灯塔专业版数据显示，2021年春节档预售总票房已超八亿元。（中新社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6205623.d.html</link>
+            <guid>2019890</guid>
+            <pubDate>Wed, 10 Feb 2021 09:20:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【诚益通：拟以2000万元-4000万元回购股份】诚益通公告，拟以2000万元-4000万元通过集中竞价交易方式回购公司部分社会公众股份，用于实施员工持股计划或股权激励。回购价格不超过11元/股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6205271.d.html</link>
+            <guid>2019889</guid>
+            <pubDate>Wed, 10 Feb 2021 09:17:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  容联云(RAAS.O)盘前涨16.4%，昨日首日上市收涨200%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5219978.d.html</link>
+            <guid>2019888</guid>
+            <pubDate>Wed, 10 Feb 2021 09:17:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富途美股盘涨近9%。老虎证券盘前涨5.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5219928.d.html</link>
+            <guid>2019887</guid>
+            <pubDate>Wed, 10 Feb 2021 09:16:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据港交所披露文件：2月5日，摩根大通在李宁多头头寸从4.89%上升至5.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5219757.d.html</link>
+            <guid>2019886</guid>
+            <pubDate>Wed, 10 Feb 2021 09:15:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美、布两油短线上扬，布伦特原油期货涨幅扩大至0.5%，现报61.42美元/桶；WTI原油期货涨0.45%，报58.62美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6204751.d.html</link>
+            <guid>2019885</guid>
+            <pubDate>Wed, 10 Feb 2021 09:13:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  瑞信：将Lyft(LYFT.O)目标价从66美元上调至74美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5219070.d.html</link>
+            <guid>2019884</guid>
+            <pubDate>Wed, 10 Feb 2021 09:11:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股工业大麻板块盘前飙升，Tilray(TLRY.O)、Aphria(APHA.O)涨超20%，Veru(VERU.O)涨14%，Sundial Grower(SNDL.O)涨13%，极光(JG.O)涨11%。]]></title>
+            <guid>2019882</guid>
+            <pubDate>Wed, 10 Feb 2021 09:07:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上交所关于发布《上海证券交易所证券发行与承销业务指南第1号——科创板上市公司证券发行与承销备案》的通知】上交所：本指南所涉证券发行上市办理流程和方式与现行安排相比，主要变化为对上市公司向原股东配售证券的方式进行了调整，由原股东中有限售条件流通股东与无限售条件流通股东分别采用网下、网上配售，调整为不再区分两类股东与相应的两种配售方式，原股东原则上均通过本所交易系统进行网上申购的方式进行配售，并由中国证券登记结算有限责任公司上海分公司统一清算交收及进行证券登记。 http://t.cn/A6tzAJNC]]></title>
+            <guid>2019881</guid>
+            <pubDate>Wed, 10 Feb 2021 09:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  AMC院线盘前涨幅扩大7.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6202802.d.html</link>
+            <guid>2019880</guid>
+            <pubDate>Wed, 10 Feb 2021 09:03:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  推特(TWTR.N)盘前涨3.8%，第四季度营收同比增加27.96%，超过市场预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6202736.d.html</link>
+            <guid>2019879</guid>
+            <pubDate>Wed, 10 Feb 2021 09:03:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【三一重工：控股股东及一致行动人持股比例减少1%】三一重工公告，三一集团及其一致行动人合计持有三一重工股份自2020年2月29日至2021年2月9日期间累计减少6626.51万股；同时在上述期间因三一重工员工股票期权行权，公司总股本由84.32亿股增加到84.84亿股；三一集团及其一致行动人在上述期间持股比例减少1.0002%。此次权益变动后，三一集团及其一致行动人持股比例由35.87%降至34.87%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6202656.d.html</link>
+            <guid>2019878</guid>
+            <pubDate>Wed, 10 Feb 2021 09:02:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  伦敦金属交易所(LME)：铜库存减少1375吨至74675吨，铝库存减少5300吨至139万吨，锌库存减少475吨至288850吨，镍库存减少1284吨至248664吨，锡库存增加15吨至790吨，铅库存减少425吨至92425吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6202529.d.html</link>
+            <guid>2019877</guid>
+            <pubDate>Wed, 10 Feb 2021 09:01:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  哔哩哔哩盘前跌3.1%，今日多个合作方取消与B站的品牌合作，此前B站被指充斥大量侮辱女性内容。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5217280.d.html</link>
+            <guid>2019876</guid>
+            <pubDate>Wed, 10 Feb 2021 09:01:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[华大基因：持股9.5243%的股东深圳前海华大基因投资企业拟合计减持不超过2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5217233.d.html</link>
+            <guid>2019875</guid>
+            <pubDate>Wed, 10 Feb 2021 09:01:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  思科(CSCO.O)盘前跌4.8%，2021财年Q2净利润同比下降11.57%，差于市场预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5217118.d.html</link>
+            <guid>2019874</guid>
+            <pubDate>Wed, 10 Feb 2021 09:00:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：利比亚将2月锡德尔港口的石油出口量上调至850万桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5216828.d.html</link>
+            <guid>2019872</guid>
+            <pubDate>Wed, 10 Feb 2021 08:59:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【金牛化工：年初甲醇市场价有所回落 近期未出现上涨趋势】股价连续三日涨停的金牛化工2月10日晚间发布股价异动公告称，公司主营甲醇生产和销售，产能20万吨/年，经核实，公司主营业务未发生重大变化，目前生产经营活动正常，市场环境或行业政策没有发生重大调整，2021年初，甲醇市场价格有所回落，近期没有出现上涨趋势。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6201843.d.html</link>
+            <guid>2019871</guid>
+            <pubDate>Wed, 10 Feb 2021 08:58:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【B站：我们不会不尊重任何用户】哔哩哔哩发布关于开展春节网络环境专项整治行动的公告。公告称，尊重，是社区的基石，是我们运营B站的基本指导原则。这其中，包含对用户的尊重，对创作者的尊重，对不同性别的尊重，对各种兴趣族群、文化圈层的尊重，以及对用户和UP主之间互相尊重的倡导。11年来，B站正是因为这个而不断成长。所以我们不会不尊重任何用户。我们对广大用户对社区管理的批评，都乐于接纳、探讨；对于做得不好的地方，我们会承认错误，并积极改进。即日起，我们将响应国家网信办的统一部署，展开为期一个月的2021春节网络环境专项整治行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6201162.d.html</link>
+            <guid>2019869</guid>
+            <pubDate>Wed, 10 Feb 2021 08:52:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【三峡新材：因取保候审 实际控制人被释放】三峡新材公告，董事长、实际控制人许锡忠先生于2021年2月10日通知公司，经普宁市检察院批准，其因取保候审，已于2021年2月9日晚被释放。许锡忠先生目前处于取保候审阶段，涉嫌骗取贷款案还没有结案；后续进展及结案情况，请关注公司公告。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5215370.d.html</link>
+            <guid>2019868</guid>
+            <pubDate>Wed, 10 Feb 2021 08:49:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中印举行联合国安理会事务磋商】2021年2月9日，外交部国际司司长杨涛同印度外交部联秘古光明举行联合国安理会事务磋商，双方就维护多边主义、联合国维和行动、反恐等议题交换了看法。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5214069.d.html</link>
+            <guid>2019866</guid>
+            <pubDate>Wed, 10 Feb 2021 08:39:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧元兑美元EUR/USD短线走高10点，现报1.2138。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6198934.d.html</link>
+            <guid>2019865</guid>
+            <pubDate>Wed, 10 Feb 2021 08:38:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  三连板金牛化工：公司主营业务为甲醇的生产和销售，产能为20万吨/年，经核实，公司主营业务未发生重大变化，目前生产经营活动正常，市场环境或行业政策没有发生重大调整，2021年初，甲醇市场价格有所回落，近期没有出现上涨趋势。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6198751.d.html</link>
+            <guid>2019864</guid>
+            <pubDate>Wed, 10 Feb 2021 08:36:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国奥园(03883.HK)：二零二一年一月，本集团实现未经审核物业合同销售额约人民币101.1亿元，同比增长100%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5213307.d.html</link>
+            <guid>2019863</guid>
+            <pubDate>Wed, 10 Feb 2021 08:34:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华东某省：不得将PPP项目纳入专项债支持范围】该省提出，严格执行专项债券“有收益、能覆盖”的前提要求。专项债券必须用于有一定收益的重大项目，融资规模要保持与项目收益相平衡，不得将自身无收益的项目以及无法实现综合平衡的项目列入专项债券支持范围；不得将PPP项目纳入专项债券资金支持范围。（21财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5213215.d.html</link>
+            <guid>2019862</guid>
+            <pubDate>Wed, 10 Feb 2021 08:33:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  在岸人民币兑美元2月10日16:30收盘报6.4380，较上一交易日上涨107点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6198217.d.html</link>
+            <guid>2019861</guid>
+            <pubDate>Wed, 10 Feb 2021 08:32:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  瑞典央行：预计利率将在未来数年内保持在零的水平不变。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5213019.d.html</link>
+            <guid>2019859</guid>
+            <pubDate>Wed, 10 Feb 2021 08:32:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  瑞典央行：将会继续在7000亿瑞典克朗的规模内购买资产。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6198121.d.html</link>
+            <guid>2019858</guid>
+            <pubDate>Wed, 10 Feb 2021 08:32:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【成都市住建局等部门精准打击煽动“抱团涨价”重点人员】成都市住建局会同市网信办等部门对近期网上炒作“抱团涨价”情况进行集中排查，对造成较大负面影响的中海左岸业主成立的“房价沟通群”重点人员依法进行约谈。下一步，市住建局将会同市网信办、市公安局、市市场监管局等部门对房地产开发企业、自媒体、中介机构和人员的线上、线下炒作房价行为，形成部门协调联动机制，对查实发现扰乱房地产市场的行为，坚决依法从快从严惩处。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5212975.d.html</link>
+            <guid>2019857</guid>
+            <pubDate>Wed, 10 Feb 2021 08:31:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【药明康德：参股公司Adagene2月9日在纳斯达克挂牌上市】药明康德公告，参股公司Adagene于2021年2月9日（美国时间）在美国纳斯达克证券交易所挂牌上市，股份代号：ADAG。Adagene本次全球发售完成后，公司通过全资子企业WuXi Pharma Tech Health care FundIL.P.持有Adagene的股份数为5,356,946股，占Adagene发行完成后总股本约10.16%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5212858.d.html</link>
+            <guid>2019856</guid>
+            <pubDate>Wed, 10 Feb 2021 08:31:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  瑞典央行维持基准利率在0%不变。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6197914.d.html</link>
+            <guid>2019855</guid>
+            <pubDate>Wed, 10 Feb 2021 08:30:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  瑞典克朗兑欧元升至逾3周高位，日内涨幅0.5%至10.0405。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5212790.d.html</link>
+            <guid>2019854</guid>
+            <pubDate>Wed, 10 Feb 2021 08:30:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[华大基因：合计持股5.1929%的股东和玉高林、高林同创拟合计减持不超过0.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6197517.d.html</link>
+            <guid>2019853</guid>
+            <pubDate>Wed, 10 Feb 2021 08:28:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  2021年2月10日，外交部副部长马朝旭应约与美国总统伊朗事务特使马利通电话，双方就伊朗核问题深入交换意见。（澎湃）]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6197362.d.html</link>
@@ -56,221 +263,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5210350.d.html</link>
             <guid>2019840</guid>
             <pubDate>Wed, 10 Feb 2021 08:15:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  燃料油期货尾盘3秒闪崩，业内人士：本次事件乌龙指概率不大，很有可能是多头大户尾盘平仓导致程序化交易跟进做空所致。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6195271.d.html</link>
-            <guid>2019839</guid>
-            <pubDate>Wed, 10 Feb 2021 08:14:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧元兑美元EUR/USD短线下挫十余点，接近回吐日内涨幅，现报1.2126。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5210136.d.html</link>
-            <guid>2019838</guid>
-            <pubDate>Wed, 10 Feb 2021 08:14:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货白银短线下挫0.1美元，涨幅收窄至不足0.2%，现报27.29美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5210115.d.html</link>
-            <guid>2019837</guid>
-            <pubDate>Wed, 10 Feb 2021 08:14:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货黄金短线下挫近5美元，现报1841.97美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5209993.d.html</link>
-            <guid>2019836</guid>
-            <pubDate>Wed, 10 Feb 2021 08:13:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【集装箱运费创纪录，马士基预计今年盈利大增27%】全球最大集装箱航运公司丹麦马士基周三表示，随着集装箱运费飙升至创纪录水平，预计2021年盈利将增长至多27%。该公司2020年未计利息、税项、折旧和摊销前盈利（EBITDA）为83亿美元，预计今年将达到85亿至105亿美元。该公司股价上月底创历史新高，但自那以来有所下跌，因市场预期集装箱运费已见顶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6195029.d.html</link>
-            <guid>2019835</guid>
-            <pubDate>Wed, 10 Feb 2021 08:13:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国家邮政局：春节期间预计快递全行业在岗人数百万以上】国家邮政局表示，目前已经有多家快递企业宣布春节不打烊，在往年做到不打烊的邮政、顺丰、京东等3家企业的基础之上，今年通达系的快递企业也积极地参与。春节期间，预计全行业在岗人数在百万人以上。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6194969.d.html</link>
-            <guid>2019834</guid>
-            <pubDate>Wed, 10 Feb 2021 08:12:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乘联会数据显示，2021年2月的乘用车市场零售走势较好。第一周日均零售达到5.4万辆，环比1月第一周增长15%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5209850.d.html</link>
-            <guid>2019833</guid>
-            <pubDate>Wed, 10 Feb 2021 08:12:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【清水源：拟以4000万元-8000万元回购股份】清水源公告，拟使用自有资金4000万元-8000万元回购公司部分社会公众股份，用于实施员工持股计划或股权激励，回购价格不超过人民币12.8元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5209727.d.html</link>
-            <guid>2019832</guid>
-            <pubDate>Wed, 10 Feb 2021 08:11:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宁德时代：拟投资设立福建时代闽东新能源产业股权投资合伙企业】宁德时代：该公司专项投资布局锂离子电池及材料、智能制造、储能、智能驾驶、可再生能源、新能源汽车、信息技术、人工智能、上下游相关产业及延伸生态领域，公司作为有限合伙人认缴出资5.48亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5209698.d.html</link>
-            <guid>2019831</guid>
-            <pubDate>Wed, 10 Feb 2021 08:11:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【荷兰啤酒巨头喜力计划裁员8000人】喜力周三宣布计划裁员8000人，相当于其员工总数的约十分之一。]]></title>
-            <guid>2019829</guid>
-            <pubDate>Wed, 10 Feb 2021 08:09:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【金城医药：持股12.2%股东锦圣基金计划减持不超2%】金城医药公告，持股12.2%股东锦圣基金计划以集中竞价方式减持本公司股份不超过772.8万股（不超过公司总股本的2%）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5209237.d.html</link>
-            <guid>2019828</guid>
-            <pubDate>Wed, 10 Feb 2021 08:09:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  香港恒生指数收涨1.91%，再度站上30000点关口。恒生科技指数涨2.54%，重返10000点上方。美团、网易均创历史新高。快手大涨13.23%续创上市以来新高，市值突破1.65万亿港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6194278.d.html</link>
-            <guid>2019827</guid>
-            <pubDate>Wed, 10 Feb 2021 08:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英镑兑美元GBP/USD涨至1.3834，刷新2018年4月27日以来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6193960.d.html</link>
-            <guid>2019826</guid>
-            <pubDate>Wed, 10 Feb 2021 08:06:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  科隆股份公告，持股39.308%的股东姜艳拟减持不高于1334.8万股，占公司总股本的6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6193897.d.html</link>
-            <guid>2019824</guid>
-            <pubDate>Wed, 10 Feb 2021 08:06:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【欧洲三大股指小幅高开】欧股小幅高开，德国DAX指数涨0.35%，法国CAC40指数涨0.47%，英国富时100指数涨0.59%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6193688.d.html</link>
-            <guid>2019823</guid>
-            <pubDate>Wed, 10 Feb 2021 08:05:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宝马集团董事长：对中国市场长期向好发展的信心不变】德国宝马集团董事长齐普策9日接受记者书面专访时表示，宝马对中国市场长期向好发展的信心不变。他表示，宝马集团全力支持中国碳达峰和碳中和目标。宝马致力于全产业链的节能减排，未来将从企业层面继续为中国的绿色低碳发展贡献力量。齐普策表示，对宝马而言，中国不仅是一个庞大的销售市场，更是重要的创新源泉，宝马致力于实现从“中国制造”到“中国创造”。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5208379.d.html</link>
-            <guid>2019822</guid>
-            <pubDate>Wed, 10 Feb 2021 08:03:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【B站回应“部分上架动漫作品被指侮辱女性”：正在处理】B站被指存在侮辱女性内容一事引发关注，苏菲、UKISS等多个品牌称将停止与B站的拜年纪合作或所有合作，相关话题登上热搜。针对该情况，B站公关部一位工作人员表示，他们已关注到网络舆情，正在处理。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6193203.d.html</link>
-            <guid>2019820</guid>
-            <pubDate>Wed, 10 Feb 2021 08:01:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯新增14494例新冠肺炎确诊病例，新增536例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6193125.d.html</link>
-            <guid>2019819</guid>
-            <pubDate>Wed, 10 Feb 2021 08:01:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【万业企业：三林万业拟减持不超1.04%股份】万业企业2月10日晚间公告，持股12.92%的公司第二大股东三林万业，计划减持公司股份不超1000万股，即不超过公司总股本的1.04%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6192032.d.html</link>
-            <guid>2019818</guid>
-            <pubDate>Wed, 10 Feb 2021 07:53:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：德国政府计划将封锁措施延长至3月14日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5206923.d.html</link>
-            <guid>2019817</guid>
-            <pubDate>Wed, 10 Feb 2021 07:53:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【鹏博士：拟使用25亿元投建“昆山工业4.0项目”】鹏博士公告，公司全资孙公司昆山坤汇网络有限公司拟使用25亿元投资建设“昆山工业4.0项目”，建设机架约10000个，项目分为两期完成，第一期计划交付时间为2021年10月，第二期交付时间将根据实际进度的变化进行调整。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5206543.d.html</link>
-            <guid>2019816</guid>
-            <pubDate>Wed, 10 Feb 2021 07:51:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  恒指尾盘发力，涨幅扩大至2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5206479.d.html</link>
-            <guid>2019815</guid>
-            <pubDate>Wed, 10 Feb 2021 07:51:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[君实生物：FDA批准公司合作伙伴美国礼来制药的在研抗体药物双抗体疗法的紧急使用授权，该疗法被授予用于治疗伴有进展为重度新型冠状病毒肺炎及/或住院风险的12岁及以上轻中度COVID-19患者。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6191434.d.html</link>
-            <guid>2019814</guid>
-            <pubDate>Wed, 10 Feb 2021 07:51:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【顺丰、嘉里物流管理层谈176亿“联姻”：不是收购是股东方合作，希望小股东支持】顺丰董事长王卫和嘉里物流主席郭孔华均在记者会上表示，外界将此次交易称为收购，对此不予认同，这次交易更多是股东方的合作。王卫在记者会上表示，希望嘉里物流的小股东能够支持此次交易，如果不能够获得小股东的支持，顺丰将不能获得足够的股权，那么这次交易还是存在失败的可能。（21财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5206377.d.html</link>
-            <guid>2019813</guid>
-            <pubDate>Wed, 10 Feb 2021 07:51:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  上海发改委：消费者购买新能源汽车用于非营运，且个人用户名下没有使用本市专用牌照额度注册登记的新能源汽车，本市在非营业性客车总量控制的原则下，免费发放专用牌照额度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5206192.d.html</link>
-            <guid>2019812</guid>
-            <pubDate>Wed, 10 Feb 2021 07:50:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【邮政局：今年初一到初七快递业务量将较往年翻一番】国家邮政局市场监管司副司长边作栋表示，根据历史经验，春节初一到初七平均每年的快递业务量不到日常水平的10%，今年的情况预计会有所变化，预计今年初一到初七的业务量，平均每日的业务量会翻一番，也就是达到日常水平的20%左右，达到平均每天7000万件上下。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6190588.d.html</link>
-            <guid>2019811</guid>
-            <pubDate>Wed, 10 Feb 2021 07:48:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海：2023年1月1日起个人用户或单位用户购买插电式混合动力汽车将不再发放专用牌照额度】上海发布《上海市鼓励购买和使用新能源汽车实施办法》，办法提出，2023年1月1日起，个人用户或单位用户购买插电式混合动力（含增程式）汽车的，本市将不再发放专用牌照额度。http://t.cn/A6t7DILv]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5205482.d.html</link>
-            <guid>2019810</guid>
-            <pubDate>Wed, 10 Feb 2021 07:47:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  上机数控发布非公开发行股票发行情况报告书显示，本次发行募集资金总额为30亿元，睿远基金获配2亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5205322.d.html</link>
-            <guid>2019808</guid>
-            <pubDate>Wed, 10 Feb 2021 07:46:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国12月制造业产出月率公布-1.7%，前值0.5%，预期-0.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5205289.d.html</link>
-            <guid>2019807</guid>
-            <pubDate>Wed, 10 Feb 2021 07:46:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国12月制造业产出年率公布-3.6%，前值-4.3%，预期-3.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6190215.d.html</link>
-            <guid>2019806</guid>
-            <pubDate>Wed, 10 Feb 2021 07:46:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国12月工业产出年率公布-3%，前值-4.6%。预期-1.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftpnny6190127.d.html</link>
-            <guid>2019805</guid>
-            <pubDate>Wed, 10 Feb 2021 07:45:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国12月工业产出月率公布-0.8%，前值-0.9%，预期0.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5205055.d.html</link>
-            <guid>2019804</guid>
-            <pubDate>Wed, 10 Feb 2021 07:45:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【商务部：全国百万商家加入“外卖不打烊”活动】商务部消费促进司司长朱小良介绍，商务部广泛动员商贸企业春节期间开门营业、延长时间，全国百万商家加入“外卖不打烊”活动，推出外卖年夜饭预定和送餐服务，深圳、四川等地数千家商场、超市延长营业时间。南京市的品牌连锁超市各门店、农产品批发市场、农贸市场在春节期间不休市、不歇业。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5204979.d.html</link>
-            <guid>2019803</guid>
-            <pubDate>Wed, 10 Feb 2021 07:45:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特斯拉CEO埃隆·马斯克在推特回复加密钱包制造商Freewallet表示，其应用非常糟糕，并表示应该避免使用任何不给用户私钥的加密钱包。此外，马斯克还在推特发图表示，“这才是真正的力量”，图片内容为：可以从MT.GOX提取比特币。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5204955.d.html</link>
-            <guid>2019802</guid>
-            <pubDate>Wed, 10 Feb 2021 07:44:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  新加坡新增1例新冠肺炎本地传播病例，14例输入性确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5204435.d.html</link>
-            <guid>2019801</guid>
-            <pubDate>Wed, 10 Feb 2021 07:42:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【商务部：网上年货节网络零售额已经超过7000亿】商务部消费促进司司长朱小良表示，全国网上年货节活动开展20多天以来进展顺利，取得了积极的成效，到现在为止的网络零售额已经超过7000亿，在线餐饮销售额同比增长了近50%，一些实体零售企业线上销售占比达到了去年农历同期的三倍，带动整个销售额大幅提升。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-10/detail-ikftssap5204395.d.html</link>
-            <guid>2019800</guid>
-            <pubDate>Wed, 10 Feb 2021 07:42:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
