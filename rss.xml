@@ -4,11 +4,65 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Thu, 11 Feb 2021 18:27:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2021 19:19:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  拜登政府叫停微信禁用诉讼。 (央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5426785.d.html</link>
+            <guid>2021894</guid>
+            <pubDate>Thu, 11 Feb 2021 19:09:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  墨西哥央行预计墨西哥经济将出现严重疲软。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5426638.d.html</link>
+            <guid>2021893</guid>
+            <pubDate>Thu, 11 Feb 2021 19:07:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国国会预算办公室（CBO）：最新的预估包括了前总统特朗普在去年12月份签发的刺激措施，但没有包括拜登已经提出的（1.9万亿美元）救助计划的立法建议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5426489.d.html</link>
+            <guid>2021892</guid>
+            <pubDate>Thu, 11 Feb 2021 19:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  墨西哥央行下调利率至4.00%，符合市场预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6411449.d.html</link>
+            <guid>2021891</guid>
+            <pubDate>Thu, 11 Feb 2021 19:00:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据纽约时报：美国论坛网站Reddit 的CEO表示，公司将出席听证会。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6411106.d.html</link>
+            <guid>2021890</guid>
+            <pubDate>Thu, 11 Feb 2021 18:52:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  COMEX 4月黄金期货收跌0.9%，报1826.80美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6410944.d.html</link>
+            <guid>2021889</guid>
+            <pubDate>Thu, 11 Feb 2021 18:49:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股半导体板块造好，联电(UMC.N)涨超6%，美光科技(MU.O)涨4.75%，日月光半导体涨4.28%，台积电(TSM.N)涨3.79%，微芯科技(MCHP.O)涨3.48%，英伟达(NVDA.O)、英特尔(INTC.O)涨超3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5425533.d.html</link>
+            <guid>2021887</guid>
+            <pubDate>Thu, 11 Feb 2021 18:43:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国能源部从战略石油储备（SPR）提供最高1010万桶石油用于出售。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6410273.d.html</link>
+            <guid>2021886</guid>
+            <pubDate>Thu, 11 Feb 2021 18:36:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  PayPal：未来数月，将把加密数字货币（支付）服务扩展至英国市场。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5424765.d.html</link>
+            <guid>2021885</guid>
+            <pubDate>Thu, 11 Feb 2021 18:28:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  9个对手方在美联储的固定利率逆回购操作中接纳了1.08亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6409294.d.html</link>
@@ -235,54 +289,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5414496.d.html</link>
             <guid>2021845</guid>
             <pubDate>Thu, 11 Feb 2021 16:08:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  荔枝(LIZI.O)涨超10%，此前宣布与泡泡玛特(09992.HK)共同打造首个品牌播客。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftssap5414259.d.html</link>
-            <guid>2021844</guid>
-            <pubDate>Thu, 11 Feb 2021 16:06:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家广播电视总局：不允许BBC世界新闻台继续在中国境内落地，对其新一年度落地申请不予受理】经调查，BBC世界新闻台涉华报道有关内容严重违反《广播电视管理条例》《境外卫星电视频道落地管理办法》有关规定，违反新闻应当真实、公正的要求，损害中国国家利益，破坏中国民族团结，不符合境外频道在中国境内落地条件，国家广播电视总局不允许BBC世界新闻台继续在中国境内落地，对其新一年度落地申请不予受理。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-12/detail-ikftpnny6399251.d.html</link>
-            <guid>2021843</guid>
-            <pubDate>Thu, 11 Feb 2021 16:05:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国参议院多数党领袖舒默：弹劾程序没有拖累刺激法案的进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5413396.d.html</link>
-            <guid>2021841</guid>
-            <pubDate>Thu, 11 Feb 2021 15:55:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国总统拜登：正在寻求新的方式以支持汽车与新型轨道行业。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6397990.d.html</link>
-            <guid>2021840</guid>
-            <pubDate>Thu, 11 Feb 2021 15:47:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天龙山石窟流失佛首回归祖国】从国家文物局获悉，经过曲折艰苦的追索，流失海外近一个世纪的天龙山石窟第8窟北壁主尊佛首已于2020年12月12日回归祖国怀抱。这是近百年来第一件从日本回到祖国的天龙山石窟流失佛雕，也是2020年回归祖国的第100件流失文物。大年初一至3月14日，它将亮相北京鲁迅博物馆“咸同斯福——天龙山石窟国宝回归暨数字复原特展”。之后，按照流失文物回归原属地的国际共识，在具备安全条件前提下，佛首将会回到天龙山石窟，在太原市天龙山石窟博物馆收藏展示。（新华视点）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5412738.d.html</link>
-            <guid>2021839</guid>
-            <pubDate>Thu, 11 Feb 2021 15:42:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  维视图像(MVIS.O)涨超50%，现报21.75美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6397406.d.html</link>
-            <guid>2021837</guid>
-            <pubDate>Thu, 11 Feb 2021 15:34:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国至2月5日当周EIA天然气库存减少1710亿立方英尺，前值减少1920亿立方英尺。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5412121.d.html</link>
-            <guid>2021836</guid>
-            <pubDate>Thu, 11 Feb 2021 15:30:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  EIA天然气报告：美国天然气库存总量为25180亿立方英尺，较去年同期减少90亿立方英尺，同时较5年均值高出1520亿立方英尺。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6397126.d.html</link>
-            <guid>2021835</guid>
-            <pubDate>Thu, 11 Feb 2021 15:30:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
