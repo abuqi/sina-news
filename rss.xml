@@ -4,11 +4,77 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Thu, 11 Feb 2021 00:57:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2021 01:47:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息，美国总统拜登考虑提名Lisa Cook出任美联储理事。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6300292.d.html</link>
+            <guid>2020790</guid>
+            <pubDate>Thu, 11 Feb 2021 01:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒生科技指数跌幅扩大至超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5315064.d.html</link>
+            <guid>2020776</guid>
+            <pubDate>Thu, 11 Feb 2021 01:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金短线走低超3美元，现报1838.87美元/盎司。现货白银短线跳水逾0.2美元，日内跌超1%，现报26.79美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5314965.d.html</link>
+            <guid>2020768</guid>
+            <pubDate>Thu, 11 Feb 2021 01:42:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股区块链板块大幅回调，火币科技跌超20%，欧科云链跌13.7%，雄岸科技跌9.8%，BC科技跌5.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6298406.d.html</link>
+            <guid>2020719</guid>
+            <pubDate>Thu, 11 Feb 2021 01:33:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[科技股在香港普遍走低，快手跌超2%，美团跌超1%，腾讯、阿里、小米、网易、京东集体走低。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6298177.d.html</link>
+            <guid>2020717</guid>
+            <pubDate>Thu, 11 Feb 2021 01:32:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据最新披露的13F文件显示，领航资本在特斯拉的持股比例达到6.1%，成为特斯拉的第三大股东。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6298146.d.html</link>
+            <guid>2020715</guid>
+            <pubDate>Thu, 11 Feb 2021 01:32:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股恒指低开跌0.14％，国企指数跌0.2％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6296316.d.html</link>
+            <guid>2020667</guid>
+            <pubDate>Thu, 11 Feb 2021 01:21:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【居民部门加杠杆的速度提高】 岁末年初房地产成交较为火热，居民贷款买房的需求随之上升。1月居民中长期贷款同比多增了1957亿。这一增幅是2017年3月以来的最高水平。得益于房地产销售的活跃，居民存款更多地转化为单位活期存款，带动M1同比增速上升。不过，1月M1同比的大幅上升还反映了春节错位（2020年春节在1月，但2021年春节在2月）的影响。（兴业研究）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6295428.d.html</link>
+            <guid>2020658</guid>
+            <pubDate>Thu, 11 Feb 2021 01:15:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥卫生部：墨西哥单日新增1328例新冠肺炎死亡病例。墨西哥新冠肺炎死亡病例累计达169760例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6294255.d.html</link>
+            <guid>2020657</guid>
+            <pubDate>Thu, 11 Feb 2021 01:08:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富时中国A50指数期货开盘跌0.13%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5308352.d.html</link>
+            <guid>2020628</guid>
+            <pubDate>Thu, 11 Feb 2021 01:00:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【春节档预售票房破10亿】据灯塔专业版实时数据，截至2月11日凌晨00：57，春节档上映前1天，档期实时预售总票房正式突破10亿。其中，《唐人街探案3》预售总票房达6.66亿，占档期票房近七成；第二名《你好，李焕英》预售票房超1.5亿，第三名《刺杀小说家》接近6000万。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5308177.d.html</link>
+            <guid>2020621</guid>
+            <pubDate>Thu, 11 Feb 2021 00:59:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[现货黄金回落至1840美元/盎司下方，日内跌0.15%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6292201.d.html</link>
@@ -208,78 +274,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5294451.d.html</link>
             <guid>2020389</guid>
             <pubDate>Wed, 10 Feb 2021 22:53:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  全球最大黄金ETF--SPDR Gold Trust持仓较上日减少0.15%或1.74吨，当前持仓量为1146.60吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6279343.d.html</link>
-            <guid>2020386</guid>
-            <pubDate>Wed, 10 Feb 2021 22:48:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：美国交友软件Bumble据悉将IPO发行价定为每股43美元，共发行5000万股股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6279306.d.html</link>
-            <guid>2020385</guid>
-            <pubDate>Wed, 10 Feb 2021 22:46:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：位于底特律的服装零售商Stockx计划最早于本年进行IPO。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6279254.d.html</link>
-            <guid>2020384</guid>
-            <pubDate>Wed, 10 Feb 2021 22:45:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ARK旗下基金ARKK创新基金在本个交易日录得22.04亿美元成交额，创成立以来新高，为去年同期的66倍。该数字在美股所有ETF中排名第五，仅次于标普500ETF、纳指100ETF等被动型指数基金，在所有美股中排名第三十，与奈飞、谷歌A等股票相当。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6279122.d.html</link>
-            <guid>2020383</guid>
-            <pubDate>Wed, 10 Feb 2021 22:43:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  周二（2月9日）纽约尾盘，CME比特币期货BTC主力合约报45425美元，较周二纽约尾盘跌4.90%，盘中交投于48060-43950美元区间。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6279063.d.html</link>
-            <guid>2020382</guid>
-            <pubDate>Wed, 10 Feb 2021 22:43:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  离岸人民币（CNH）兑美元北京时间05:59报6.4290元，较周二纽约尾盘跌86点，盘中整体交投于6.4128-6.4334元区间。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6279047.d.html</link>
-            <guid>2020381</guid>
-            <pubDate>Wed, 10 Feb 2021 22:42:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国共和党参议员MURKOWSKI：目前为止在特朗普弹劾审判中提交的证据相当确凿。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5293743.d.html</link>
-            <guid>2020380</guid>
-            <pubDate>Wed, 10 Feb 2021 22:37:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Street Research：将中国联通评级上调至买入，目标价5.2港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5293647.d.html</link>
-            <guid>2020379</guid>
-            <pubDate>Wed, 10 Feb 2021 22:35:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Street Research：将中国移动评级上调至买入，目标价55港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6278683.d.html</link>
-            <guid>2020378</guid>
-            <pubDate>Wed, 10 Feb 2021 22:35:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据港交所文件：液晶偏光片加工厂家富丽集团、山东农产品生产商富景中国控股向港交所提交上市申请。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftssap5293588.d.html</link>
-            <guid>2020377</guid>
-            <pubDate>Wed, 10 Feb 2021 22:34:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国贸易代表办公室（USTR）：一旦美国贸易代表提名人得到确认，将期待与欧洲盟友合作，并就空客-波音争端找到一个公平竞争的结果。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6278632.d.html</link>
-            <guid>2020376</guid>
-            <pubDate>Wed, 10 Feb 2021 22:34:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国累计新冠肺炎确诊病例达2724.96万例】根据美国霍普金斯大学截至美东时间10日下午4时22分（北京时间11日凌晨5:22）数据，美国累计新冠肺炎确诊病例27249586例，累计死亡病例470600例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-11/detail-ikftpnny6278572.d.html</link>
-            <guid>2020375</guid>
-            <pubDate>Wed, 10 Feb 2021 22:32:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
