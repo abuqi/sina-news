@@ -6,6 +6,46 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 2022503,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6557584.d.html",
+            "title": "【美国中长期美债收益率创2021年新高】 周五（2月12日）美国中长期美债收益率创2021年新高，美国10年期基准国债收益率涨4.50个基点，报1.2082%，本周累涨3.78个基点。20年期美债收益率涨6.21个基点，报1.8303%，本周累涨5.16个基点；30年期美债收益率涨5.86个基点，报2.0086%，盘中交投于1.9287%-2.0115%区间，本周累涨3.76个基点。",
+            "date_modified": "2021-02-12T23:20:00.000Z"
+        },
+        {
+            "id": 2022502,
+            "content_html": "",
+            "title": "【加拿大监管机构批准全球首只比特币ETF上市】 多伦多资产管理公司Purpose Investments Inc.声明称，安大略省证券委员会已经批准了该公司推出的比特币ETF。Purpose Investments表示：“该ETF将是世界上第一个直接投资实物结算的比特币，而不是衍生品，使投资者能够轻松、高效地进入新兴的加密货币资产类别。”投资者可以利用美国芝加哥商品交易所（CME）衍生品交易所的期货合约交易比特币。他们还可以购买封闭式投资基金，比如多伦多证券交易所的比特币基金。",
+            "date_modified": "2021-02-12T23:19:44.000Z"
+        },
+        {
+            "id": 2022501,
+            "content_html": "",
+            "title": "【美国新冠肺炎单日新增确诊病例回升至10万例以上】据美国《国会山报》报道，根据新冠肺炎追踪项目的数据，2月11日美国报告单日新增新冠肺炎确诊病例103000例，再次回升到10万例以上。",
+            "date_modified": "2021-02-12T23:16:19.000Z"
+        },
+        {
+            "id": 2022499,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6556699.d.html",
+            "title": "  除夕和初一两日，全国快递处理超1.3亿件，同比增长223%。",
+            "date_modified": "2021-02-12T23:05:01.000Z"
+        },
+        {
+            "id": 2022497,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5570803.d.html",
+            "title": "周五（2月12日）纽约尾盘，CME比特币期货BTC主力合约报48495美元，较周四纽约尾盘涨2.04%，盘中交投于46500-49500美元区间；本周累计上涨27.57%。",
+            "date_modified": "2021-02-12T22:54:01.000Z"
+        },
+        {
+            "id": 2022496,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6556279.d.html",
+            "title": "离岸人民币（CNH）兑美元北京时间05:59报6.4205元，较周四纽约尾盘涨29点，盘中整体交投于6.4377-6.4188元区间。",
+            "date_modified": "2021-02-12T22:53:50.000Z"
+        },
+        {
             "id": 2022494,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6555240.d.html",
@@ -297,55 +337,6 @@
             "url": "https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5563009.d.html",
             "title": "  美国白宫新闻秘书普萨基：拜登下周将与两党接触，讨论刺激计划。",
             "date_modified": "2021-02-12T18:53:08.000Z"
-        },
-        {
-            "id": 2022452,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5562993.d.html",
-            "title": "美国白宫新闻发言人普萨基：总统拜登本周稍晚将主持白宫会议。",
-            "date_modified": "2021-02-12T18:52:50.000Z"
-        },
-        {
-            "id": 2022451,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5562898.d.html",
-            "title": "  美股AI板块普跌，Palantir(PLTR.N)跌3.44%，人工智能技术公司Veritone(VERI.O)跌1.27%，C3.ai(AI.N)跌1.19%。",
-            "date_modified": "2021-02-12T18:50:48.000Z"
-        },
-        {
-            "id": 2022449,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6548371.d.html",
-            "title": "欧元兑美元EUR/USD短线波动不大，现报1.2121，日内跌0.06%。",
-            "date_modified": "2021-02-12T18:50:13.000Z"
-        },
-        {
-            "id": 2022448,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6548365.d.html",
-            "title": "  欧洲央行前行长德拉基正式接受意大利总理一职。",
-            "date_modified": "2021-02-12T18:50:04.000Z"
-        },
-        {
-            "id": 2022447,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5562537.d.html",
-            "title": "  【全球新冠肺炎累计确诊超1亿零800万例】美国约翰·霍普金斯大学发布的实时统计数据显示，截至北京时间2021年02月13日02:36，全球累计确诊108015884例，累计死亡2374415例，累计确诊国家和地区数192个。",
-            "date_modified": "2021-02-12T18:41:06.000Z"
-        },
-        {
-            "id": 2022446,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5562488.d.html",
-            "title": "  洲际交易所（ICE）：截至2月9日当周，汽油投机性净多头头寸增加8892手合约，至102880手合约。",
-            "date_modified": "2021-02-12T18:40:08.000Z"
-        },
-        {
-            "id": 2022445,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6547980.d.html",
-            "title": "洲际交易所（ICE）：截至2月9日当周，布伦特原油投机性净多头头寸增加1599手合约，至347652手合约。",
-            "date_modified": "2021-02-12T18:39:50.000Z"
         }
     ]
 }
