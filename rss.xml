@@ -4,11 +4,35 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 13 Feb 2021 10:26:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2021 11:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  比特币短线跌幅近1000美元，跌幅一度扩大至2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5662022.d.html</link>
+            <guid>2023121</guid>
+            <pubDate>Sat, 13 Feb 2021 11:00:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  前欧洲央行行长德拉基宣誓就任新一届意大利总理。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5661900.d.html</link>
+            <guid>2023120</guid>
+            <pubDate>Sat, 13 Feb 2021 10:59:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  比特币短线下行近500美元，跌幅1.5%，报46644美元/枚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6646815.d.html</link>
+            <guid>2023119</guid>
+            <pubDate>Sat, 13 Feb 2021 10:56:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：伊朗与阿富汗边境处发生一起油气罐爆炸事件。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5661642.d.html</link>
+            <guid>2023118</guid>
+            <pubDate>Sat, 13 Feb 2021 10:54:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  马来西亚新增3499例新冠肺炎确诊病例，新增5例死亡病例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5656139.d.html</link>
@@ -236,30 +260,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5622599.d.html</link>
             <guid>2023060</guid>
             <pubDate>Sat, 13 Feb 2021 04:36:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[泰国新增126例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5621970.d.html</link>
-            <guid>2023048</guid>
-            <pubDate>Sat, 13 Feb 2021 04:32:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国联邦贸易委员会已对“英伟达收购Arm”展开深入调查】据路透社2月13日报道，美国联邦贸易委员会（FTC）已经对英伟达公司收购Arm的协议展开深入调查。除了FTC的调查外，谷歌母公司Alphabet、高通公司和微软公司也已就这笔交易向美国反垄断监管机构投诉。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5621003.d.html</link>
-            <guid>2023033</guid>
-            <pubDate>Sat, 13 Feb 2021 04:27:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质勘探局：关岛梅里佐西南以南190千米处发生5.0级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6605746.d.html</link>
-            <guid>2023009</guid>
-            <pubDate>Sat, 13 Feb 2021 04:23:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天风证券赵晓光：科技股调整已基本到位 2021年将迎来投资的好时机】天风证券研究所所长赵晓光表示，科技股的调整已经基本到位，2021年将迎来这一板块投资的好时机。在消费电子以外，科技领域的投资也有几个大的方向，例如新能源汽车巨大的需求量拉动了板块的爆发，物联网在5G时代也有巨大的生命力，这些新的利润增长点都处于刚开始的阶段，在市场中占比还微不足道。但是星星之火可以燎原，将它们叠加到一起，就是推动科技板块的强大动力。我们相信，2021年已经进入到了科技产业发展的一个新的时代，整个科技产业还有非常好的投资机会！]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6604572.d.html</link>
-            <guid>2022986</guid>
-            <pubDate>Sat, 13 Feb 2021 04:16:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
