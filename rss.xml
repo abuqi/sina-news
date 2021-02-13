@@ -4,11 +4,41 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 13 Feb 2021 14:23:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2021 15:23:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  斯洛文尼亚新增新冠肺炎确诊病例1005例，累计确诊178384例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5685158.d.html</link>
+            <guid>2023149</guid>
+            <pubDate>Sat, 13 Feb 2021 15:23:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据日本放送协会NHK：约有19.6万户家庭因地震而面临停电。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6669774.d.html</link>
+            <guid>2023148</guid>
+            <pubDate>Sat, 13 Feb 2021 15:13:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国参议院将听取关于特朗普弹劾审判的结案陈词，预计今天将进行投票。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6669515.d.html</link>
+            <guid>2023147</guid>
+            <pubDate>Sat, 13 Feb 2021 15:09:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日本福岛核电站目前未见异常】据日媒，13日晚日本7.1级地震发生后，东京电力公司发布称，福岛第一核电站和福岛第二核电站在可视范围内目前没有观测到异常，相关人员正在确认详细情况。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6666531.d.html</link>
+            <guid>2023146</guid>
+            <pubDate>Sat, 13 Feb 2021 14:32:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NHK：日本的地震没有海啸威胁，茨城县核电厂没有报告异常。发生强震后，日本政府设立工作组。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6666065.d.html</link>
+            <guid>2023145</guid>
+            <pubDate>Sat, 13 Feb 2021 14:25:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[日本当地时间2月13日23时8分，日本东北地区发生里氏7.1级地震。东京有强烈震感，门窗剧烈摇动。（人民日报）]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5680214.d.html</link>
@@ -223,30 +253,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5638109.d.html</link>
             <guid>2023091</guid>
             <pubDate>Sat, 13 Feb 2021 07:08:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  来自国务院联防联控机制春运工作专班数据显示，2月13日大年初二，春运进入第17日，全国预计发送旅客996万人次。其中铁路预计发送旅客210万人次，公路720万人次，水路32万人次，民航34万人次。预计全国高速公路流量3399万辆，各项数据保持低位运行，就地过年成为各地群众欢度新春的首选。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5636745.d.html</link>
-            <guid>2023089</guid>
-            <pubDate>Sat, 13 Feb 2021 06:57:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据俄罗斯卫星网：阿富汗警方表示，阿富汗南部的坎大哈省发生汽车炸弹爆炸事件，造成7名警察受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6620251.d.html</link>
-            <guid>2023088</guid>
-            <pubDate>Sat, 13 Feb 2021 06:44:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【印度新增新冠肺炎确诊病例12143例 累计确诊超1089万例】据印度卫生部当地时间13日早8时（北京时间10时30分）发布消息，印度新冠肺炎确诊病例累计达10892746例，其中死亡病例155550例，治愈出院10600625例，现存确诊病例136571例。详细数据显示，24小时之内，印度新增新冠肺炎确诊病例12143例，死亡病例新增103例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6619804.d.html</link>
-            <guid>2023087</guid>
-            <pubDate>Sat, 13 Feb 2021 06:40:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  以太坊失守1830美元/枚，日内跌幅0.89%，此前一度涨超1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5633932.d.html</link>
-            <guid>2023086</guid>
-            <pubDate>Sat, 13 Feb 2021 06:33:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
