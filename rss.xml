@@ -4,11 +4,29 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 13 Feb 2021 12:31:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2021 13:23:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国地质勘探局：美国阿拉斯加州西海岸阿克希奥克发生5.4级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6659171.d.html</link>
+            <guid>2023139</guid>
+            <pubDate>Sat, 13 Feb 2021 13:14:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：英国政府表示，在米德尔斯堡、沃尔索尔与汉普郡三地发现来自南非的新冠病毒变异毒株，将会在这三地开展病毒检测工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5671172.d.html</link>
+            <guid>2023137</guid>
+            <pubDate>Sat, 13 Feb 2021 12:48:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【山东：核酸检测不再收挂号费和门诊诊察费】记者从山东省卫健委了解到，根据山东省医疗保障局、山东省卫生健康委联合印发的《关于明确公立医疗机构新型冠状病毒核酸检测收费政策有关问题的通知》，自2月11日起，各级公立医疗机构要设置专门的窗口和区域，为单纯进行核酸检测采样提供服务，不收取挂号费和门诊诊察费（一般诊疗费）。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5670997.d.html</link>
+            <guid>2023136</guid>
+            <pubDate>Sat, 13 Feb 2021 12:46:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【春节假期前3天北京接待游客275.8万人次 同比增长1.2倍】北京市文化和旅游局13日通报称，春节假期前3天，北京市重点监测147家景区，累计接待游客275.8万人次，与去年同期相比增长1.2倍；营业收入2.2亿元(人民币，下同)，与去年同期相比增长1.8倍。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5669591.d.html</link>
@@ -242,24 +260,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6616131.d.html</link>
             <guid>2023080</guid>
             <pubDate>Sat, 13 Feb 2021 06:05:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  IMF称，将继续与乌克兰方面进行磋商。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5630699.d.html</link>
-            <guid>2023079</guid>
-            <pubDate>Sat, 13 Feb 2021 06:03:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【电影《你好，李焕英》上映第二日票房累计突破5亿元 位居春节档第二名】据猫眼数据显示，截至2021年2月13日14点00分，上映第二日的春节档电影《你好，李焕英》票房累计突破5亿元，仅次于《唐人街探案3》的16.33亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5630437.d.html</link>
-            <guid>2023077</guid>
-            <pubDate>Sat, 13 Feb 2021 06:01:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 【吉利科技集团旗下新能源汽车公司公开“一种车用电池”专利】数据显示，2月12日，吉利科技集团有限公司旗下浙江吉智新能源汽车科技有限公司公开“一种车用电池”专利。根据专利摘要显示，本发明电池包可直接梯次利用到下一梯次电动自行车、电动摩托车等适合车型，无需拆解和组装，使梯次利用更加便捷、降低了梯次利用的成本，简化了梯次利用的流程。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6615586.d.html</link>
-            <guid>2023076</guid>
-            <pubDate>Sat, 13 Feb 2021 06:00:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
