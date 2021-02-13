@@ -4,11 +4,28 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 13 Feb 2021 13:23:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2021 14:23:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[日本当地时间2月13日23时8分，日本东北地区发生里氏7.1级地震。东京有强烈震感，门窗剧烈摇动。（人民日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5680214.d.html</link>
+            <guid>2023144</guid>
+            <pubDate>Sat, 13 Feb 2021 14:17:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【春节档电影票房累计突破30亿】截止2月13日晚8时，猫眼专业版显示，大年初二电影实时票房已超12亿元，累计票房30亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5676712.d.html</link>
+            <guid>2023141</guid>
+            <pubDate>Sat, 13 Feb 2021 13:45:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国先锋公布Q4持仓 重仓科技巨头抄底ETF】美国先锋集团（Vanguard Group）于2月12日披露的13F持仓报告显示，该机构截至去年四季度末股票持仓总市值为33466.61亿美元，在所有披露13F报告的投资机构中排名为第1名/4051。先锋的季度美股持仓环比增加了11.34%。先锋按市值比例排名的前5大重仓股分别为苹果（4.98%）、微软（4.08%）、亚马逊（3.16%）、Facebook（1.49%）、特斯拉（1.22%）。按持股数量计算，持有比例变化分别为-1.99%、-1.38%、-1.06%、-1.32%、33.58%，唯一大幅加仓的就是明星股特斯拉。]]></title>
+            <guid>2023140</guid>
+            <pubDate>Sat, 13 Feb 2021 13:26:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美国地质勘探局：美国阿拉斯加州西海岸阿克希奥克发生5.4级地震。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6659171.d.html</link>
@@ -230,36 +247,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5633932.d.html</link>
             <guid>2023086</guid>
             <pubDate>Sat, 13 Feb 2021 06:33:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据路透统计，美国周五新增至少98429例新冠肺炎确诊病例，累计确诊2756万例；新增至少5444例死亡病例，累计死亡481258例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6617357.d.html</link>
-            <guid>2023084</guid>
-            <pubDate>Sat, 13 Feb 2021 06:19:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  东京现有新冠肺炎重症病例104例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6617234.d.html</link>
-            <guid>2023083</guid>
-            <pubDate>Sat, 13 Feb 2021 06:18:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  东京新增369例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6616981.d.html</link>
-            <guid>2023082</guid>
-            <pubDate>Sat, 13 Feb 2021 06:14:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【约旦境内变异新冠病毒感染病例超千例】当地时间2月12日晚，约旦卫生部宣布，截至目前，该国境内变异新冠病毒感染病例已超过1000例。去年12月27日，约旦卫生部通报该国发现2例变异新冠病毒感染病例，这是约旦境内首次发现变异新冠病毒，感染者为一对夫妇，这两名感染者于12月19日从英国抵达约旦。据悉，在英国发现变异新冠病毒之后，约旦已于去年12月21日起暂停往返英国的所有航班。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6616446.d.html</link>
-            <guid>2023081</guid>
-            <pubDate>Sat, 13 Feb 2021 06:09:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  IMF称，完成对乌克兰的评估还需要取得更多的进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6616131.d.html</link>
-            <guid>2023080</guid>
-            <pubDate>Sat, 13 Feb 2021 06:05:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
