@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 13 Feb 2021 18:26:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2021 19:19:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国参议院同意跳过特朗普弹劾案传召证人环节，开始结案辩论。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftssap5697378.d.html</link>
+            <guid>2023249</guid>
+            <pubDate>Sat, 13 Feb 2021 18:26:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  世卫组织：全球新冠肺炎确诊病例超过1亿783万例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6682153.d.html</link>
@@ -270,12 +276,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5654825.d.html</link>
             <guid>2023109</guid>
             <pubDate>Sat, 13 Feb 2021 09:29:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国前第一夫人宣布办公室“开张” 未透露工作内容】美国前总统特朗普的妻子梅拉尼娅·特朗普在社交媒体上宣布设立“梅拉尼娅·特朗普办公室”，但并没有透露她将在那里做什么。据媒体此前报道，梅拉尼娅·特朗普计划在佛罗里达州棕榈滩县设立自己的办公室，将自己倡议的“成为最好”(Be Best)项目继续下去，该项目聚焦于社交媒体的安全使用以及预防药物成瘾和药物依赖等方面。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6639629.d.html</link>
-            <guid>2023108</guid>
-            <pubDate>Sat, 13 Feb 2021 09:25:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
