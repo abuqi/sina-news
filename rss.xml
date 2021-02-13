@@ -4,11 +4,35 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 13 Feb 2021 17:28:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2021 18:26:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  世卫组织：全球新冠肺炎确诊病例超过1亿783万例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6682153.d.html</link>
+            <guid>2023235</guid>
+            <pubDate>Sat, 13 Feb 2021 18:18:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  以色列新增新冠肺炎确诊病例3013例，累计确诊721759例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6681195.d.html</link>
+            <guid>2023217</guid>
+            <pubDate>Sat, 13 Feb 2021 17:59:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  土耳其新增7706例新冠肺炎确诊病例，累计确诊2579896例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6680948.d.html</link>
+            <guid>2023216</guid>
+            <pubDate>Sat, 13 Feb 2021 17:53:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【福岛地震为“3·11”余震？近日或还有强震】据日本放送协会(NHK)报道，当地时间13日23时8分，日本福岛近海发生里氏7.3级地震。日本气象厅在当地时间14日1时10分开始的记者会上表示，此次地震可能是2011年发生的东日本大地震(“3·11”地震)的余震，并表示未来2至3天仍可能发生强震，呼吁民众保持警惕。2011年3月11日，日本发生“3·11”大地震，引发巨型海啸及福岛核灾难，造成上万人死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6679469.d.html</link>
+            <guid>2023186</guid>
+            <pubDate>Sat, 13 Feb 2021 17:30:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  法国首现二次感染新冠病毒重症病例，该患者感染在南非发现的变异株。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftssap5694048.d.html</link>
@@ -252,12 +276,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6639629.d.html</link>
             <guid>2023108</guid>
             <pubDate>Sat, 13 Feb 2021 09:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  国家电影局13日下午发布数据显示，2021年2月12日正月初一全国电影票房超过17亿元，刷新了2019年创造的14.43亿元的正月初一单日票房纪录。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6635432.d.html</link>
-            <guid>2023105</guid>
-            <pubDate>Sat, 13 Feb 2021 08:55:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
