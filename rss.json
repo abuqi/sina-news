@@ -6,6 +6,13 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 2023404,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6690291.d.html",
+            "title": "【美国新冠肺炎确诊病例累计超2756万例】根据美国约翰斯·霍普金斯大学（Johns Hopkins University）于美国东部时间2月13日16时24分（北京时间14日5时24分）统计的数据显示，美国新冠肺炎确诊病例已超过2756万例，达到27560750例。死亡病例超过48万例，达到483648例。",
+            "date_modified": "2021-02-13T22:08:32.000Z"
+        },
+        {
             "id": 2023356,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-02-14/detail-ikftssap5703828.d.html",
@@ -310,13 +317,6 @@
             "url": "https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5656139.d.html",
             "title": "  马来西亚新增3499例新冠肺炎确诊病例，新增5例死亡病例。",
             "date_modified": "2021-02-13T09:44:11.000Z"
-        },
-        {
-            "id": 2023112,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5655151.d.html",
-            "title": "  【国家邮政局：除夕和初一包裹量超1.3亿件 同比增长223%】2月13日，国家邮政局数据显示，除夕和初一两日，全国快递处理量超1.3亿件，同比增长223%。据悉，春节期间，为保广大用户能够顺利收到年货，邮政EMS、顺丰、京东物流、中通、圆通、申通、韵达、百世、德邦和极兔等品牌快递企业春节不打烊，预计全行业在岗人数超百万人。（中证网）",
-            "date_modified": "2021-02-13T09:32:23.000Z"
         }
     ]
 }
