@@ -4,7 +4,7 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 13 Feb 2021 19:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2021 20:24:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
@@ -270,12 +270,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6640036.d.html</link>
             <guid>2023110</guid>
             <pubDate>Sat, 13 Feb 2021 09:30:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【字节跳动或将TikTok印度业务售予当地竞争对手Glance】媒体援引知情人士称，字节跳动据称正寻求将TikTok的印度业务出售给当地竞争对手Glance。报道援引知情人士的话称，由日本软银集团发起的讨论是私下进行的，目前仍处于早期阶段，并且较为复杂。（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5654825.d.html</link>
-            <guid>2023109</guid>
-            <pubDate>Sat, 13 Feb 2021 09:29:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
