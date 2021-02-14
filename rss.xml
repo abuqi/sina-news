@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 14 Feb 2021 16:40:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2021 17:29:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【土耳其新增6287例新冠肺炎确诊病例 累计确诊2586183例】当地时间2月14日晚，土耳其卫生部网站更新的数据显示，土耳其新冠肺炎累计确诊2586183例，当天新增94例死亡病例，累计死亡27471例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-15/detail-ikftssap5823834.d.html</link>
+            <guid>2023769</guid>
+            <pubDate>Sun, 14 Feb 2021 17:20:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【新疆克孜勒苏州阿图什市发生3.7级地震 震源深度10千米】据中国地震台网正式测定，2月15日0时16分在新疆克孜勒苏州阿图什市发生3.7级地震，震源深度10千米，震中位于北纬40.32度，东经76.37度。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-15/detail-ikftssap5821020.d.html</link>
@@ -235,12 +241,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftssap5797800.d.html</link>
             <guid>2023555</guid>
             <pubDate>Sun, 14 Feb 2021 11:54:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港新增12宗确诊病例 港台发型师确诊逾20人须检疫】香港新春假期的新冠肺炎确诊数字有所减少，香港特区政府卫生署卫生防护中心14日通报，新增12宗确诊病例。一名香港电台(港台)的发型师确诊，导致超过20人须接受检疫。新增的12宗病例，2宗是输入病例，其余10宗是本地病例，包括3宗源头不明及7宗相关病例。另外还有约10宗初步确诊病例。（中新社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6782650.d.html</link>
-            <guid>2023554</guid>
-            <pubDate>Sun, 14 Feb 2021 11:53:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
