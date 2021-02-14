@@ -4,11 +4,34 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 14 Feb 2021 15:24:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2021 16:40:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【新疆克孜勒苏州阿图什市发生3.7级地震 震源深度10千米】据中国地震台网正式测定，2月15日0时16分在新疆克孜勒苏州阿图什市发生3.7级地震，震源深度10千米，震中位于北纬40.32度，东经76.37度。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-15/detail-ikftssap5821020.d.html</link>
+            <guid>2023740</guid>
+            <pubDate>Sun, 14 Feb 2021 16:40:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿根廷前总统梅内姆去世 享年90岁】当地时间2月14日上午，阿根廷前总统卡洛斯·梅内姆在首都布宜诺斯艾利斯帕勒莫区的一家医院因病去世，享年90岁。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-15/detail-ikftssap5819047.d.html</link>
+            <guid>2023739</guid>
+            <pubDate>Sun, 14 Feb 2021 16:15:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【洛亚蒂群岛发生5.7级地震 震源深度10千米】据中国地震台网正式测定，北京时间2月14日23时1分（当地时间2月15日2时1分）在洛亚蒂群岛发生5.7级地震，震源深度10千米，震中位于南纬23.15度，东经171.65度。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftssap5816896.d.html</link>
+            <guid>2023706</guid>
+            <pubDate>Sun, 14 Feb 2021 15:41:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[罗马尼亚新增新冠肺炎确诊病例1872例，累计确诊761963例；新增死亡病例41例，累计死亡19366例。（央视）]]></title>
+            <guid>2023691</guid>
+            <pubDate>Sun, 14 Feb 2021 15:25:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  墨西哥新增新冠肺炎确诊病例9741例，累计确诊1988695例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6796216.d.html</link>
@@ -218,29 +241,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6782650.d.html</link>
             <guid>2023554</guid>
             <pubDate>Sun, 14 Feb 2021 11:53:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【春节档总票房破40亿 《唐探3》超26亿居首】截至2月14日晚19时，2021春节档期内总票房（含预售）破40亿元，达46.47亿元。《唐探3》超26.02亿居于春节档总票房冠军，《你好，李焕英》近11.15亿排在第二，《刺杀小说家》接近3.23亿。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftssap5797195.d.html</link>
-            <guid>2023552</guid>
-            <pubDate>Sun, 14 Feb 2021 11:45:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗新增新冠肺炎确诊病例7390例】根据伊朗卫生部当地时间14日最新消息，过去24小时，伊朗新增新冠肺炎确诊病例7390例，新增死亡病例62例。截至14日中午，伊朗新冠肺炎累计确诊病例升至1518263例，其中治愈1298023例，死亡58945例，重症3709例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6781049.d.html</link>
-            <guid>2023551</guid>
-            <pubDate>Sun, 14 Feb 2021 11:32:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印尼新增新冠肺炎确诊病例6765例 累计确诊1217468例】当地时间2月14日，印度尼西亚卫生部宣布，该国新增新冠肺炎确诊病例6765例，全国累计确诊1217468例；新增死亡病例247例，累计死亡33183 例；累计治愈病例1025273例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6781008.d.html</link>
-            <guid>2023550</guid>
-            <pubDate>Sun, 14 Feb 2021 11:31:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印媒：特斯拉选择卡纳塔克邦作为印度电动汽车工厂所在地】据印度报业托拉斯报道，特斯拉选择卡纳塔克邦作为其在印度的第一家工厂所在地。报道称，该印度南部邦首席部长B S Yediyurappa宣布了这一计划。]]></title>
-            <guid>2023549</guid>
-            <pubDate>Sun, 14 Feb 2021 11:29:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
