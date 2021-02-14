@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 14 Feb 2021 20:24:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2021 21:21:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【英国新增新冠肺炎确诊病例10972例 累计确诊4038078例】英国卫生和社会保障部公布最新数据显示，英国新增新冠肺炎确诊病例10972例，累计确诊4038078例；新增死亡病例258例，累计死亡117166例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-15/detail-ikftssap5834797.d.html</link>
+            <guid>2023864</guid>
+            <pubDate>Sun, 14 Feb 2021 21:17:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【世卫组织：全球新冠肺炎确诊病例超1.0815亿例】根据世卫组织最新实时统计数据，全球累计新冠肺炎确诊病例108153741例，累计死亡病例2381295例。14日全球新冠肺炎确诊病例新增300530例，死亡病例新增7776例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-15/detail-ikftpnny6815968.d.html</link>
@@ -16,7 +22,7 @@
             <pubDate>Sun, 14 Feb 2021 19:32:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[法国新冠肺炎新增病例16546例，新增死亡病例167例子，死亡病例总计为81814例。]]></title>
+            <title><![CDATA[法国新冠肺炎新增病例16546例，新增死亡病例167例，死亡病例总计为81814例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-15/detail-ikftssap5830687.d.html</link>
             <guid>2023855</guid>
             <pubDate>Sun, 14 Feb 2021 19:24:37 GMT</pubDate>
@@ -187,24 +193,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftssap5801399.d.html</link>
             <guid>2023574</guid>
             <pubDate>Sun, 14 Feb 2021 12:38:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据沙特国有电视台：沙特领导的联盟表示，也门胡塞武装向沙特南部哈米斯地区发射了两架具有爆炸力的无人机。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftssap5801051.d.html</link>
-            <guid>2023572</guid>
-            <pubDate>Sun, 14 Feb 2021 12:33:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：也门胡塞武装称对沙特的阿巴哈机场发动了袭击，沙特方面没有立即予以证实。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6785574.d.html</link>
-            <guid>2023571</guid>
-            <pubDate>Sun, 14 Feb 2021 12:26:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京渐迎出游“小高峰” 王府井游客最多】记者14日从北京市文化和旅游局获悉，2月11日至13日，北京市重点监测的147家景区（地区）累计接待游客275.8万人次，北京市等级景区网络预约数逐天递增，渐迎春节假期的出游“小高峰”。11日至13日游客接待人数最多的景区（地区）是王府井，累计接待游客36万人次。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftssap5800173.d.html</link>
-            <guid>2023570</guid>
-            <pubDate>Sun, 14 Feb 2021 12:21:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
