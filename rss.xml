@@ -4,11 +4,29 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 14 Feb 2021 18:26:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2021 19:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【奥克兰进入封锁后 新西兰元开盘走低】新西兰将其最大城市奥克兰从当地时间星期三午夜开始封锁，新西兰当局对三个新冠肺炎病例进行了调查；在新西兰早盘交易中，新西兰元的价格走低。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-15/detail-ikftpnny6814712.d.html</link>
+            <guid>2023854</guid>
+            <pubDate>Sun, 14 Feb 2021 19:08:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：共享充电宝企业怪兽充电计划在美国进行IPO，目前正与花旗、中金、华兴资本及高盛等投行洽商，目标或定于今年上半年上市，募资3亿美元。截至目前，怪兽充电方面暂未对上市消息作出回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-15/detail-ikftssap5829045.d.html</link>
+            <guid>2023850</guid>
+            <pubDate>Sun, 14 Feb 2021 18:52:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【刚果（金）卫生系统工作人员中发现第1例埃博拉确诊病例 累计确诊4例】据当地媒体报道，2月14日，刚果（金）北基伍省布滕博市发现了第4例埃博拉确诊病例，是一名卫生系统的工作人员。刚果（金）卫生部的消息人士指出，这是医务人员中的第1例确诊病例。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-15/detail-ikftssap5828605.d.html</link>
+            <guid>2023836</guid>
+            <pubDate>Sun, 14 Feb 2021 18:40:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【意大利新增11068例新冠肺炎确诊病例 累计确诊超272万例】意大利卫生部公布的最新统计数据显示，该国新冠肺炎新增确诊病例11068例，累计确诊病例2721879例；新增死亡病例221例，累计死亡病例93577例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-15/detail-ikftpnny6811422.d.html</link>
@@ -211,24 +229,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6784243.d.html</link>
             <guid>2023564</guid>
             <pubDate>Sun, 14 Feb 2021 12:10:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  罗尔斯•罗伊斯选择KAKOULLIS担任首席财务官。（天空新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftssap5799309.d.html</link>
-            <guid>2023563</guid>
-            <pubDate>Sun, 14 Feb 2021 12:10:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯副总理诺瓦克：预计2021年原油均价在45-60美元/桶之间，原油市场已经部分复苏。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftssap5798888.d.html</link>
-            <guid>2023562</guid>
-            <pubDate>Sun, 14 Feb 2021 12:06:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯副总理诺瓦克：即便美方试图阻止北溪2号项目，俄罗斯也会努力完成它。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftssap5798881.d.html</link>
-            <guid>2023561</guid>
-            <pubDate>Sun, 14 Feb 2021 12:06:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
