@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 14 Feb 2021 14:23:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2021 15:24:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  墨西哥新增新冠肺炎确诊病例9741例，累计确诊1988695例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6796216.d.html</link>
+            <guid>2023626</guid>
+            <pubDate>Sun, 14 Feb 2021 14:26:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【伊朗发现9例变异新冠病毒感染病例 其中2例死亡】据伊朗迈赫尔通讯社当地时间2月14日报道，伊朗卫生部副部长莱西当天表示，伊朗境内已发现9例英国报告的变异新冠病毒感染病例，其中德黑兰7例、阿瓦士1例、加兹温1例，目前已有2例死亡。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftpnny6793068.d.html</link>
@@ -235,12 +241,6 @@
             <title><![CDATA[【印媒：特斯拉选择卡纳塔克邦作为印度电动汽车工厂所在地】据印度报业托拉斯报道，特斯拉选择卡纳塔克邦作为其在印度的第一家工厂所在地。报道称，该印度南部邦首席部长B S Yediyurappa宣布了这一计划。]]></title>
             <guid>2023549</guid>
             <pubDate>Sun, 14 Feb 2021 11:29:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【陈茂波：香港特区政府新一年度财政预算赤字将创新高】香港特区政府财政司司长陈茂波14日参加电台节目时表示，特区政府新一年度的财政预算案即将发表，新一年度特区政府的财政预算赤字将创历史上最高，初步估算将达3000亿港元。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-14/detail-ikftssap5794253.d.html</link>
-            <guid>2023546</guid>
-            <pubDate>Sun, 14 Feb 2021 11:04:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
