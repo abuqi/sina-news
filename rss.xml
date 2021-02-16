@@ -4,11 +4,142 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Tue, 16 Feb 2021 05:24:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2021 06:26:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国地质勘探局：瓦努阿图维拉港西南偏西81公里发生5.3级地震。]]></title>
+            <guid>2026140</guid>
+            <pubDate>Tue, 16 Feb 2021 06:26:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[投行贝雅：将美国运通(AXP.N)评级降至中性，目标价126美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6034893.d.html</link>
+            <guid>2026139</guid>
+            <pubDate>Tue, 16 Feb 2021 06:25:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2月16日，国家邮政局邮政业安全中心统计数据显示，2月11日（除夕）至2月15日（正月初四），全国邮政快递业运行总体平稳有序，累计揽收和投递快递包裹3.65亿件，同比增长224%。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6034248.d.html</link>
+            <guid>2026137</guid>
+            <pubDate>Tue, 16 Feb 2021 06:21:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[香港交易所(00388.HK)涨超3%，报552港元，逼近历史高位。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7017917.d.html</link>
+            <guid>2026136</guid>
+            <pubDate>Tue, 16 Feb 2021 06:18:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[里昂：上调华虹半导体(01347.HK)目标价至85港元，评级买入。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7017551.d.html</link>
+            <guid>2026135</guid>
+            <pubDate>Tue, 16 Feb 2021 06:16:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【深圳证监局纪委：对市券协副会长被举报生活作风问题启动核查】针对近期网传的深圳市证券业协会前员工张某实名举报协会副会长、秘书长李某的生活作风问题，深圳证监局纪委表示，此前已收到相关举报，并立即按程序启动了核查，目前核查正在进行中。深圳证监局将在查清事实后，依规依纪进行处理。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6032631.d.html</link>
+            <guid>2026134</guid>
+            <pubDate>Tue, 16 Feb 2021 06:12:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[芬兰2020年第四季度GDP环比增长0.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6032030.d.html</link>
+            <guid>2026132</guid>
+            <pubDate>Tue, 16 Feb 2021 06:09:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗：铜的价差“可能是爆炸性的”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7016114.d.html</link>
+            <guid>2026131</guid>
+            <pubDate>Tue, 16 Feb 2021 06:08:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2月16日，香港特区政府网消息，截至当日零时，香港新增8例新冠肺炎确诊病例，其中2例为输入性病例，6例本地病例中包括3例感染源头不明。（界面）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6031845.d.html</link>
+            <guid>2026130</guid>
+            <pubDate>Tue, 16 Feb 2021 06:07:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗：因市场短缺，铜价有望反弹至10000美元/吨。未来几年铜库存将保持低位。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7015602.d.html</link>
+            <guid>2026129</guid>
+            <pubDate>Tue, 16 Feb 2021 06:05:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  日本东京新增350例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7015464.d.html</link>
+            <guid>2026128</guid>
+            <pubDate>Tue, 16 Feb 2021 06:03:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[华谊腾讯娱乐涨幅扩大至100%，股价报0.5港元。2021年国内院线电影总票房突破100亿元 ，总观影人次达到2.29亿，总场次为1638.74万。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7015391.d.html</link>
+            <guid>2026126</guid>
+            <pubDate>Tue, 16 Feb 2021 06:03:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日经225指数收盘上涨1.28%，报30467.75。东证指数收盘上涨0.6%，至1965.08点。软银集团收在创纪录高位10420日元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6031065.d.html</link>
+            <guid>2026125</guid>
+            <pubDate>Tue, 16 Feb 2021 06:01:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【价格大涨，这个板块将抢先开启“春耕行情”？】随着早春来临，全国范围内春耕即将启动。记者从多方了解到，今年的化肥格外紧俏。节前，化肥已经掀起了价格大涨的“春耕行情”。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6030459.d.html</link>
+            <guid>2026123</guid>
+            <pubDate>Tue, 16 Feb 2021 05:56:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  日本财务大臣麻生太郎：消费完全停滞了。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7014561.d.html</link>
+            <guid>2026122</guid>
+            <pubDate>Tue, 16 Feb 2021 05:56:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【周小川：央行可通过多种手段来确保数字人民币的币值稳定】财新刊发周小川2020年11月27日在北大“数字金融创新及其启示：中国及国际经验”研讨会的发言。周小川表示，央行可通过多种手段来确保数字人民币的币值稳定。银行为了支持币值稳定，不搞成比特币那样价格大波动，可能会有不同的方法。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7013965.d.html</link>
+            <guid>2026120</guid>
+            <pubDate>Tue, 16 Feb 2021 05:52:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  日本东证指数下跌0.3%。日经225指数缩窄涨幅至0.9%，此前一度涨2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6028907.d.html</link>
+            <guid>2026119</guid>
+            <pubDate>Tue, 16 Feb 2021 05:48:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  现货铂金刚刚刺穿1310.00美元/盎司关口，最新报1308.49美元/盎司，日图涨0.24%；Nymex铂金期货主力最新报1317.0美元/盎司，日图涨4.61%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6028522.d.html</link>
+            <guid>2026118</guid>
+            <pubDate>Tue, 16 Feb 2021 05:46:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日经225指数缩窄涨幅至1.18%，此前一度涨2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7011705.d.html</link>
+            <guid>2026117</guid>
+            <pubDate>Tue, 16 Feb 2021 05:41:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[离岸人民币兑美元下跌0.17%，至6.4170。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7010955.d.html</link>
+            <guid>2026115</guid>
+            <pubDate>Tue, 16 Feb 2021 05:38:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  恒大汽车午后拉升，现涨超10%，创上市以来新高，此前恒驰正式发布三款新车。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7010652.d.html</link>
+            <guid>2026114</guid>
+            <pubDate>Tue, 16 Feb 2021 05:36:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美元兑离岸人民币刚刚触及6.4100元关口，最新报6.4100元，日图涨0.06%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6026193.d.html</link>
+            <guid>2026113</guid>
+            <pubDate>Tue, 16 Feb 2021 05:31:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国中西部电网运营商降低紧急警报级别。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7009427.d.html</link>
@@ -126,137 +257,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7003119.d.html</link>
             <guid>2025846</guid>
             <pubDate>Tue, 16 Feb 2021 04:32:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网自动测定：02月16日12时22分在四川宜宾市兴文县附近（北纬28.11度，东经105.03度）发生3.1级左右地震，最终结果以正式速报为准。]]></title>
-            <guid>2025825</guid>
-            <pubDate>Tue, 16 Feb 2021 04:26:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  印尼财长：预计2021年GDP增速为4.3%-5.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7002151.d.html</link>
-            <guid>2025802</guid>
-            <pubDate>Tue, 16 Feb 2021 04:23:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  日本10年期基准国债收益率升至0.80%，创2020年3月以来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7001883.d.html</link>
-            <guid>2025786</guid>
-            <pubDate>Tue, 16 Feb 2021 04:21:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【比特币冲上50000美元/枚关口】比特币再创历史新高，升至50000美元/枚上方。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6017386.d.html</link>
-            <guid>2025785</guid>
-            <pubDate>Tue, 16 Feb 2021 04:16:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞声科技：有关分拆诚瑞光学在内地上市的建议获得香港交易所批准。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7001331.d.html</link>
-            <guid>2025784</guid>
-            <pubDate>Tue, 16 Feb 2021 04:16:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【山东禹城火灾致7人死亡 1人无生命危险】2月16日，中共禹城市委宣传部微信公众号“大禹城”消息，禹城市政府新闻办公室通报，今早6点14分，禹城市鬲津社区富康蛋糕房发生一起火灾。现场居住为蛋糕房老板及家人共9人，其中1人外出跑步幸存；救出8人中，7人经抢救无效死亡，1人无生命危险。起火原因正在调查中。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6017086.d.html</link>
-            <guid>2025783</guid>
-            <pubDate>Tue, 16 Feb 2021 04:14:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：由于雇主就工资达成一致，挪威避免了炼油厂罢工。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny7001097.d.html</link>
-            <guid>2025782</guid>
-            <pubDate>Tue, 16 Feb 2021 04:13:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恒指午盘大涨1.8%，恒生科技指数涨超3%，三桶油、有色股、影业股走高，阿里影业涨超30%，平安好医生、众安在线等涨超40%，小米涨超6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6015889.d.html</link>
-            <guid>2025760</guid>
-            <pubDate>Tue, 16 Feb 2021 04:04:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  印度单日新增9121例新冠肺炎病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6014854.d.html</link>
-            <guid>2025691</guid>
-            <pubDate>Tue, 16 Feb 2021 03:56:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX宣布已开始在美国及海外提供星链服务测试版。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6014782.d.html</link>
-            <guid>2025685</guid>
-            <pubDate>Tue, 16 Feb 2021 03:55:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[截至2月16日，印度累计确诊新冠肺炎病例1093万例， 累计死亡病例增至155813例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6014709.d.html</link>
-            <guid>2025683</guid>
-            <pubDate>Tue, 16 Feb 2021 03:54:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  纽元兑美元攀升0.5%至0.7264，创1月8日以来最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny6998287.d.html</link>
-            <guid>2025656</guid>
-            <pubDate>Tue, 16 Feb 2021 03:50:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  印度NSE NIFTY 50指数创历史新高，最新上涨0.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6013942.d.html</link>
-            <guid>2025646</guid>
-            <pubDate>Tue, 16 Feb 2021 03:49:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股“三桶油”持续走高，中国石油股份涨超10%，中国海洋石油、中国石油化工股份涨超8%。因寒潮袭击，美国得州多个炼油设施关闭，全球供应进一步收紧，刺激油价进一步走高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6013919.d.html</link>
-            <guid>2025645</guid>
-            <pubDate>Tue, 16 Feb 2021 03:48:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  哈萨克斯坦能源部长：哈萨克斯坦计划今年生产8340万吨石油。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny6997414.d.html</link>
-            <guid>2025612</guid>
-            <pubDate>Tue, 16 Feb 2021 03:43:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  COMEX期银站上28美元/盎司，日内涨2.48%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny6997084.d.html</link>
-            <guid>2025605</guid>
-            <pubDate>Tue, 16 Feb 2021 03:41:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【熟悉的感觉回来了 特朗普弹劾审判后向支持者致意】福克斯新闻当地时间15日报道，佛罗里达州海湖庄园附近聚集了大批特朗普的支持者，他们挥舞旗帜，高喊特朗普的名字，以此庆祝“总统日”。特朗普乘坐专车抵达后，从车里向支持者挥手致意。据报道，这次活动是为了庆祝特朗普在第二次弹劾审判中无罪。有支持者表示，特朗普的政治生涯“百分之一百没有结束”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6012668.d.html</link>
-            <guid>2025600</guid>
-            <pubDate>Tue, 16 Feb 2021 03:39:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印尼任命Wirakusumah为1000亿美元主权财富基金的首席执行官】印度尼西亚任命Ridha Wirakusumah为其主权财富基金的新负责人，该基金将引入资金，投资从基础设施到医疗保健等当地项目。印尼总统佐科在雅加达的一次新闻发布会上表示，Wirakusumah曾在通用电气(General Electric Co.)、美国国际集团(American International Group Inc.)和PT Bank Permata任职。Arief Budiman将担任基金副首席执行官。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftssap6012447.d.html</link>
-            <guid>2025586</guid>
-            <pubDate>Tue, 16 Feb 2021 03:37:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  比特币持续走高，现涨至49500美元/枚上方。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny6996035.d.html</link>
-            <guid>2025573</guid>
-            <pubDate>Tue, 16 Feb 2021 03:34:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  日经225指数午后开盘报30564.84点，涨幅1.60%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny6995558.d.html</link>
-            <guid>2025549</guid>
-            <pubDate>Tue, 16 Feb 2021 03:31:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货白银涨幅扩大至1%，现报27.85美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny6995211.d.html</link>
-            <guid>2025546</guid>
-            <pubDate>Tue, 16 Feb 2021 03:29:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【世卫组织：专家已就新冠病毒溯源总结报告达成共识】世界卫生组织15日表示，新冠病毒溯源国际专家组已与中方同行就联合溯源总结报告达成共识。专家组组长彼得·安巴雷克强调，未来仍需进一步研究以获取更多证据，并据此探讨有关新冠病毒来源的所有假设。 （新华国际）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-16/detail-ikftpnny6995093.d.html</link>
-            <guid>2025536</guid>
-            <pubDate>Tue, 16 Feb 2021 03:28:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
