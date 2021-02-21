@@ -4,11 +4,47 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 21 Feb 2021 01:51:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2021 02:31:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【韩1月进口车销售业绩向好】韩国汽车产业协会和韩国进口车协会21日发布的数据显示，今年1月国内乘用车销量同比增加21.0%，为11.9590万辆，其中韩国5家整车厂商销量为9.7368万辆，同比增加19.7%，进口车2.2222万辆，同比增加27.4%。（韩联社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftssap7849594.d.html</link>
+            <guid>2033289</guid>
+            <pubDate>Sun, 21 Feb 2021 02:28:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【三部门：医学科研人员发表论文 无实质学术贡献者不得“挂名”】据国家卫健委网站消息，日前，国家卫生健康委、科技部、国家中医药管理局结合相关法律法规修订了《医学科研诚信和相关行为规范》。《行为规范》明确提出，医学科研人员在发表论文或出版学术著作过程中，要遵守《发表学术论文“五不准”》和学术论文投稿、著作出版有关规定。论文、著作、专利等成果署名应当按照对科研成果的贡献大小据实署名和排序，无实质学术贡献者不得“挂名”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8832340.d.html</link>
+            <guid>2033287</guid>
+            <pubDate>Sun, 21 Feb 2021 02:20:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今年买房合适吗？李稻葵称不要为了投资和投机去买房】著名经济学家李稻葵表示，现在中国房地产市场跟十年前不完全一样，不能说房地产在各个地方都不会降，因为中国经济现在地理结构正在出现重大的变化，有些地区比如深圳、东莞、佛山人口还在流入，就业的市场还是非常的兴旺，年轻人事业发展的前景还是非常好的，这些地方不仅是年轻人多，往里涌。我反过来提醒老百姓，时代不一样了，绝对不能假设房价永远会涨，一定要认准了地区，而且强烈建议大家不要为了投资、投机搞房子。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8832151.d.html</link>
+            <guid>2033286</guid>
+            <pubDate>Sun, 21 Feb 2021 02:19:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国地质勘探局：俄罗斯托拉赫姆以东85千米处发生5.1级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8828460.d.html</link>
+            <guid>2033278</guid>
+            <pubDate>Sun, 21 Feb 2021 02:03:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【下周解禁市值超千亿，石头科技面临解禁洪峰】下周将有42只股解禁，按照最新收盘价计算，合计解禁市值1044.84亿元。解禁市值最高的是石头科技，下周将有0.29亿股上市流通，主要是发行前股份限售流通，解禁市值高达317.22亿元，石头科技是目前A股第三高价股，仅次于贵州茅台、爱美客。对石头科技来说，其可谓是近来A股的大牛股，其顶着A股“发行价之王”的头衔上市，以有史以来最高发行价上市，在2021年1月26日盘中创出1262.62元的历史最高价，这较其271.12元的发行价上涨365.7%。此外，中银证券、七一二和良品铺子的解禁市值均超过百亿元，解禁股均是发行前股份限售流通。（每日经济新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8828308.d.html</link>
+            <guid>2033277</guid>
+            <pubDate>Sun, 21 Feb 2021 02:02:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海医疗科研团队新突破：国际首个CAR-T细胞联合疗法治疗实体肿瘤成效明显。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8826637.d.html</link>
+            <guid>2033272</guid>
+            <pubDate>Sun, 21 Feb 2021 01:53:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[欧洲地中海地震中心：俄罗斯西伯利亚西南部发生5.0级地震。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8825610.d.html</link>
@@ -222,41 +258,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftssap7821813.d.html</link>
             <guid>2033230</guid>
             <pubDate>Sat, 20 Feb 2021 23:12:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美联航一客机在紧急降落丹佛时掉落部件】据美联社报道，当地时间2月20日，一架商用客机在紧急降落时，有大型部件从飞机上坠落。飞机随后在丹佛国际机场安全着陆，所幸没有造成人员伤亡。另据了解，该航班为美国联合航空公司执飞的UA328客机，机型为波音777-200。该客机原计划从丹佛起飞，飞往夏威夷火奴鲁鲁。飞机于当地时间13时04分起飞，13时30分左右返回丹佛国际机场。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftssap7820472.d.html</link>
-            <guid>2033227</guid>
-            <pubDate>Sat, 20 Feb 2021 22:47:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【央行政策利率体系逐步完善 倚重价格型工具】此前央行下属媒体《金融时报》报道称，当前已不应过度关注央行操作数量，否则可能对货币政策取向产生误解，重点关注的应当是央行公开市场操作利率、MLF利率等政策利率指标，以及市场基准利率在一段时间内的运行情况。这是央行近期多次强调的内容，要关注货币政策工具的操作利率，而非操作量。实际上，这背后有深刻的背景：一是货币政策调控框架逐步向价格型转变，二是央行政策利率逐步完善。有分析师认为：当前央行正在逐步加强价格型调控工具的使用，因此以政策利率为代表的价格型工具的信号意义也越来越强。（21财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftssap7820246.d.html</link>
-            <guid>2033226</guid>
-            <pubDate>Sat, 20 Feb 2021 22:41:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿根廷新增新冠肺炎确诊病例5944例，累计确诊2060625例；新增死亡病例122例，累计死亡51122例。]]></title>
-            <guid>2033225</guid>
-            <pubDate>Sat, 20 Feb 2021 22:38:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【超1490万人断水 美国得州民众排长队领水称“太糟糕了”】据美国媒体报道，侵袭全美多州的冬季风暴已造成至少47人死亡。在受灾最严重的得克萨斯州，超过1300个公共供水系统中断供水，导致该州超过1490万人断水。供电方面，目前得州电力供应正在逐步恢复，但仍有超过8万5千户家庭和企业断电。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8803632.d.html</link>
-            <guid>2033224</guid>
-            <pubDate>Sat, 20 Feb 2021 22:31:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“就地过年”下的线上消费：年货包裹达6.6亿件 “一人食”占比增长68%】商务部公布的最新数据显示，除夕至正月初六(2月11日-17日)，全国重点零售和餐饮企业实现销售额约8210亿元，比去年春节黄金周增长28.7%，比2019年春节黄金周增长4.9%。春节期间全国邮政快递业累计揽收和投递快递包裹6.6亿件，同比增长260%。外卖数据显示，春节期间（除夕到初二），全国外卖订单量同比增长81%，品质商家订单量同比增长72%。“一人食”的订单量占比，相比去年增长了68%。（21财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftssap7819606.d.html</link>
-            <guid>2033223</guid>
-            <pubDate>Sat, 20 Feb 2021 22:26:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印尼雅加达遭遇洪灾 上千人被迫疏散】由于连续的暴雨，印度尼西亚首都雅加达多个地区发生严重洪灾。部分地区水深超过1.8米，多处房屋被淹，超过1300人被迫疏散。印尼政府当天派出救援人员，使用小艇协助受灾群众撤离。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8803270.d.html</link>
-            <guid>2033222</guid>
-            <pubDate>Sat, 20 Feb 2021 22:21:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
