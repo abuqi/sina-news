@@ -4,11 +4,191 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Mon, 22 Feb 2021 19:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2021 20:26:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[纳斯达克指数日内跌幅达到2.01%，报13595.96。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftpnny9157553.d.html</link>
+            <guid>2036852</guid>
+            <pubDate>Mon, 22 Feb 2021 20:24:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【年内新发45只ETF为去年同期3倍】截至2月22日，今年以来新发ETF产品数量就达到45只，是去年同期的3倍，这一数据也接近去年ETF产品发行数量的半数，同时，新基金平均募集天数也从去年的28天降至8天，ETF产品发行呈现爆发式增长势头。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftpnny9157213.d.html</link>
+            <guid>2036847</guid>
+            <pubDate>Mon, 22 Feb 2021 20:12:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今年“固收+”新基金发行受追捧，规模激增逾6倍】Wind数据显示，截至2月19日，今年以来成立的“固收+”基金有54只（A/C份额合并统计），涉及39家基金公司；募集规模合计1243.01亿元，较去年同期猛增逾6倍，在全部成立新基金中占比17.28%。这样的发行规模，即便在“固收+”基金迅速走红的2020年，也用了半年时间才完成。而在去年同期，11家基金公司新发12只“固收+”基金，共募资201.3亿元，总募资额约为今年的1/6。与历史同期相比，今年以来“固收+”基金发行规模创下新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftssap8173906.d.html</link>
+            <guid>2036846</guid>
+            <pubDate>Mon, 22 Feb 2021 20:11:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比特币现货刚刚回到54000.00美元/枚关口，最新报54001.00美元/枚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftpnny9157142.d.html</link>
+            <guid>2036845</guid>
+            <pubDate>Mon, 22 Feb 2021 20:08:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“农业芯片”攻关提速，卡脖子难题有望解锁】 今年中央一号文件提出，实施新一轮畜禽遗传改良计划和现代种业提升工程，有序推进生物育种产业化应用。这被业内解读为“顶层设计再为中国种业发展播下新‘种子’”。“中国种业正在发生前所未有的大变化。”这是多位产学研人士的共同感受。变化表征之一，是在新的国际政经格局下，种业问题开始被各界重新认知，并成为中国农业打破既有发展模式的突破口，进而带来农业生产链条中“重生产、轻育种”格局的重构。在此过程中，持续数千年种业和农业自我循环也被打破，资本力量越来越积极地参与其中，种业公司的资本运作提速明显。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftpnny9157109.d.html</link>
+            <guid>2036844</guid>
+            <pubDate>Mon, 22 Feb 2021 20:07:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【二手房网签量大降，深圳楼市新政立竿见影】 深圳市房地产中介协会最新公布的数据显示，上周深圳二手房网签362套（含自助网签），环比下跌78.3%，而且自助网签的占比提高到20%。深圳市房地产中介协会认为，二手住房成交参考价的效果立竿见影，上周为春节假期后半段，仍受到“假日效应”的影响。市场对于新政的最终反应究竟如何，还得通过后续的观察。而在园岭片区，调查了多家中介门店，中介经理均表示自己的门店在二手住房成交参考价格出台后无买卖成交，最近都在做节后的租赁业务。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftpnny9157008.d.html</link>
+            <guid>2036843</guid>
+            <pubDate>Mon, 22 Feb 2021 20:03:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【IPO现场检查亮剑，拟上市企业纷纷撤离】 又一家独角兽企业止步IPO。近日上交所发布消息称，云知声主动撤回科创板申请。这并非孤例，就在10多天前，明星企业柔宇科技从科创板IPO排队名单中悄然离场，和它一起终止申报的，还有另外6家正在创业板IPO通道排队的企业，IPO终止企业数激增。究其背后的原因，或与IPO现场检查相关，首发企业现场检查对发行人现场开展穿透式重点检查，能够对相关违法违规行为起到强大的震慑作用，从源头上净化IPO市场环境。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftssap8173671.d.html</link>
+            <guid>2036842</guid>
+            <pubDate>Mon, 22 Feb 2021 20:02:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国纽约州州长科莫：纽约市的电影院可以以25%的容客量重新开放。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftssap8173659.d.html</link>
+            <guid>2036841</guid>
+            <pubDate>Mon, 22 Feb 2021 20:02:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  加拿大蒙特利尔银行资本市场金属衍生品交易负责人Tai Wong：黄金的强劲买盘源于金价从多月低位的强势反弹和上周五的强劲收盘的动力，同时美元走软也抵消了美国收益率上升的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftssap8173652.d.html</link>
+            <guid>2036840</guid>
+            <pubDate>Mon, 22 Feb 2021 20:02:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  AMC院线尾盘拉涨超16%，报6.66美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftssap8173484.d.html</link>
+            <guid>2036838</guid>
+            <pubDate>Mon, 22 Feb 2021 19:57:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国国务院发言人Price：美国政府将继续调查与北溪2号管道相关实体的潜在可制裁活动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftssap8173478.d.html</link>
+            <guid>2036837</guid>
+            <pubDate>Mon, 22 Feb 2021 19:56:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【证券时报头版：抱团股大幅波动，公私募加紧“春播”】 昨日是牛年春节后第三个交易日，机构抱团股集体重挫，贵州茅台现最近7个多月最大跌幅。多位机构人士普遍认为抱团股调整是对前期资金推动的急涨行情的修正，短期相对更看好顺周期等领域投资机会。不少基金经理认为，这一波调整或许也会带来布局良机，正好“春播”。还从银行渠道人士处获悉，虽然昨日市场经历调整，但多只新发基金吸金总规模超过450亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftssap8173473.d.html</link>
+            <guid>2036836</guid>
+            <pubDate>Mon, 22 Feb 2021 19:56:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国众议院预算委员会批准1.9万亿美元的新冠肺炎援助法案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftpnny9156751.d.html</link>
+            <guid>2036835</guid>
+            <pubDate>Mon, 22 Feb 2021 19:55:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国国务院发言人Price：伊朗尚未正式回应美国的谈判提议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftssap8173430.d.html</link>
+            <guid>2036834</guid>
+            <pubDate>Mon, 22 Feb 2021 19:55:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货白银日内涨幅达3.0%，报28.1美元/盎司。COMEX白银期货日内涨幅达3.5%，报28.21美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftpnny9156486.d.html</link>
+            <guid>2036833</guid>
+            <pubDate>Mon, 22 Feb 2021 19:44:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国国务院发言人Price：重申美国愿意与伊朗就恢复2015年核协议进行谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftssap8173130.d.html</link>
+            <guid>2036832</guid>
+            <pubDate>Mon, 22 Feb 2021 19:42:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：福建省高级人民法院已受理抖音诉腾讯不正当竞争案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftssap8173112.d.html</link>
+            <guid>2036830</guid>
+            <pubDate>Mon, 22 Feb 2021 19:42:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美光科技尾盘跌幅扩大至4%。报87.3美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftssap8173106.d.html</link>
+            <guid>2036829</guid>
+            <pubDate>Mon, 22 Feb 2021 19:41:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国首相约翰逊：不能保证今后再也没有封锁措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftpnny9156404.d.html</link>
+            <guid>2036827</guid>
+            <pubDate>Mon, 22 Feb 2021 19:40:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IHS Markit最新分析显示：2020年美国电动汽车注册市场份额达到1.8%，为历史最高水平；12月的份额达到2.5%。IHS预计2021年份额将超过3.5%，将在2025年增长至10%以上。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftssap8173014.d.html</link>
+            <guid>2036825</guid>
+            <pubDate>Mon, 22 Feb 2021 19:38:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国最近24小时新增4646例新冠肺炎病例，新增334例死亡病例、累计死亡84639例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftpnny9156339.d.html</link>
+            <guid>2036824</guid>
+            <pubDate>Mon, 22 Feb 2021 19:38:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货白银上涨3.0%，报28.1美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftpnny9156305.d.html</link>
+            <guid>2036823</guid>
+            <pubDate>Mon, 22 Feb 2021 19:36:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国政府首席医疗顾问惠蒂：未来某一时刻新冠肺炎病例将激增。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftssap8172963.d.html</link>
+            <guid>2036822</guid>
+            <pubDate>Mon, 22 Feb 2021 19:36:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国政府首席医疗顾问惠蒂：在接下来的几个冬天，新冠肺炎可能会成为一个难题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftssap8172927.d.html</link>
+            <guid>2036821</guid>
+            <pubDate>Mon, 22 Feb 2021 19:34:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[全美住房建筑商协会（NAHB）：软木期货价格上涨，造成美国新屋均价在过去10个月上浮24386美元/套。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftssap8172857.d.html</link>
+            <guid>2036820</guid>
+            <pubDate>Mon, 22 Feb 2021 19:32:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲地中海地震中心：印尼米纳哈苏拉威西发生5.8级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftpnny9156182.d.html</link>
+            <guid>2036819</guid>
+            <pubDate>Mon, 22 Feb 2021 19:31:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国共和党人敦促总统拜登撤回对Becerra的卫生部长提名。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftssap8172821.d.html</link>
+            <guid>2036818</guid>
+            <pubDate>Mon, 22 Feb 2021 19:31:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗最高领袖：如果伊朗需要，可将浓缩铀丰度提升至60%。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftpnny9156046.d.html</link>
+            <guid>2036815</guid>
+            <pubDate>Mon, 22 Feb 2021 19:27:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油期货日内涨幅达4%，现报61.68美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftssap8172638.d.html</link>
+            <guid>2036814</guid>
+            <pubDate>Mon, 22 Feb 2021 19:23:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股铝板块涨幅居前，中国铝业涨14.44%，美国铝业公司涨9.08%，世纪铝业涨8.48%，凯撒铝业涨4.34%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftpnny9155958.d.html</link>
+            <guid>2036813</guid>
+            <pubDate>Mon, 22 Feb 2021 19:23:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  俄罗斯外长拉夫罗夫：欧盟对俄罗斯实施制裁的决定令人失望。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftssap8172507.d.html</link>
@@ -68,231 +248,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftpnny9155357.d.html</link>
             <guid>2036801</guid>
             <pubDate>Mon, 22 Feb 2021 19:08:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【Robinhood面临多达10个州检察长的调查】市场消息，Robinhood面临多达10位检察长的调查。因此，Robinhood不得不放慢其IPO计划。调查焦点是该公司与Citadel Securities的关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftpnny9155346.d.html</link>
-            <guid>2036800</guid>
-            <pubDate>Mon, 22 Feb 2021 19:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  恒指期货夜盘收涨0.54%，报30240点，低水80点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftssap8172022.d.html</link>
-            <guid>2036798</guid>
-            <pubDate>Mon, 22 Feb 2021 19:07:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  纳斯达克指数刚刚刺穿13700.00关口，最新报13700.27 。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftssap8171700.d.html</link>
-            <guid>2036797</guid>
-            <pubDate>Mon, 22 Feb 2021 18:56:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特朗普办公室：美国最高法院不应该允许对特朗普的纳税申报单进行审前盘问。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftpnny9154910.d.html</link>
-            <guid>2036795</guid>
-            <pubDate>Mon, 22 Feb 2021 18:54:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据市场报价，现货白银日内涨3%，现报28.04美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftssap8171555.d.html</link>
-            <guid>2036794</guid>
-            <pubDate>Mon, 22 Feb 2021 18:50:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫国家经济委员会主任布赖恩·迪斯：政府拥有管理通胀风险的工具。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftpnny9154753.d.html</link>
-            <guid>2036793</guid>
-            <pubDate>Mon, 22 Feb 2021 18:48:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫国家经济委员会主任布赖恩·迪斯：对通胀风险保持警惕。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftpnny9154701.d.html</link>
-            <guid>2036792</guid>
-            <pubDate>Mon, 22 Feb 2021 18:46:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美元指数DXY跌至90下方，创1月13日以来新低。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftssap8171408.d.html</link>
-            <guid>2036791</guid>
-            <pubDate>Mon, 22 Feb 2021 18:44:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国白宫国家经济委员会主任布赖恩·迪斯：现在的经济更像是受自然灾害冲击而不是衰退。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftpnny9154640.d.html</link>
-            <guid>2036790</guid>
-            <pubDate>Mon, 22 Feb 2021 18:44:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲央行管委维勒鲁瓦：通胀不存在持续上升的风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftpnny9154595.d.html</link>
-            <guid>2036789</guid>
-            <pubDate>Mon, 22 Feb 2021 18:43:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲央行管委维勒鲁瓦：融资条件仍然非常宽松。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftpnny9154594.d.html</link>
-            <guid>2036788</guid>
-            <pubDate>Mon, 22 Feb 2021 18:43:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲央行管委维勒鲁瓦：经济不存在过热的风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftpnny9154592.d.html</link>
-            <guid>2036787</guid>
-            <pubDate>Mon, 22 Feb 2021 18:43:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[布伦特原油期货日内涨幅达3%，现报64.82美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftpnny9154509.d.html</link>
-            <guid>2036786</guid>
-            <pubDate>Mon, 22 Feb 2021 18:40:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  法国新增4646例新冠肺炎确诊病例，新增333例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftssap8171202.d.html</link>
-            <guid>2036785</guid>
-            <pubDate>Mon, 22 Feb 2021 18:37:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国疾控中心：美国累计新冠肺炎确诊病例27938085例，累计死亡病例497415例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftpnny9154407.d.html</link>
-            <guid>2036784</guid>
-            <pubDate>Mon, 22 Feb 2021 18:37:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币现货刚刚回到53000.00美元/枚关口，最新报53027.68美元/枚。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftpnny9154383.d.html</link>
-            <guid>2036783</guid>
-            <pubDate>Mon, 22 Feb 2021 18:36:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[游戏驿站股价短线波动不大，现涨8.11%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftpnny9154371.d.html</link>
-            <guid>2036782</guid>
-            <pubDate>Mon, 22 Feb 2021 18:36:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据道琼斯：WSB论坛大V Keith Gill再次购买了5万股游戏驿站的股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftssap8171108.d.html</link>
-            <guid>2036781</guid>
-            <pubDate>Mon, 22 Feb 2021 18:34:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上期所原油期货2104合约夜盘收涨2.35%，报399.90元人民币/桶。沪金夜盘收涨1.51%，沪银收涨2.29%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftssap8170917.d.html</link>
-            <guid>2036780</guid>
-            <pubDate>Mon, 22 Feb 2021 18:30:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国官员：美国希望美国伊朗双方遵守2015年核协议，避免冲突升级。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftpnny9154110.d.html</link>
-            <guid>2036779</guid>
-            <pubDate>Mon, 22 Feb 2021 18:29:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新泽西州长签字，大麻市场即将在当地合法化】 美国新泽西州长Phil Murphy已于2月22日签字，使得大麻合法化立法草案生效为法律，意味着当地即将形成娱乐类大麻市场。早在三个月之前，新泽西州选民就已经以压倒性的多数票批准将成年人使用医用大麻合法化。Murphy称，“共识措施”将推迟儿童对大麻的使用，新泽西州距离（合法地）零售销售大麻还有12个月时间。目前，大麻类股普跌，Agrify跌5.9%，Tilray跌4.2%，GRWG跌3.8%，CRON跌2.9%，OGI跌2.8%，CGC跌2.5%，ACB跌2.1%；ETF THCX跌2.0%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftpnny9154106.d.html</link>
-            <guid>2036778</guid>
-            <pubDate>Mon, 22 Feb 2021 18:29:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  伊朗国际原子能机构特使：伊朗将在格林威治时间时间20:30（北京时间次日凌晨4:30）结束执行允许国际原子能机构进行临时检查的附加议定书。]]></title>
-            <guid>2036777</guid>
-            <pubDate>Mon, 22 Feb 2021 18:26:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【特斯拉将于本周向以色列交付第一批汽车】第一批特斯拉汽车将于2月的本周晚些时候抵达以色列港口。另外一批预计将在3月进行，因此销售时第一天订购的所有车辆都将于2021年第一季度抵达该国。来自以色列的消息称，第一批将包括70辆特斯拉汽车，另外一批包括50辆汽车。2月初，特斯拉在以色列开设了一个订单配置器。2021年第一季度可交付的所有汽车都以闪电般的速度销售一空，首批汽车预计将于3月交付。然而，该公司似乎决定取悦其客户，加快了大部分汽车的发货，这样以色列的第一批特斯拉车主肯定会在复活节前收到他们的订单。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftpnny9153890.d.html</link>
-            <guid>2036776</guid>
-            <pubDate>Mon, 22 Feb 2021 18:23:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫新闻秘书珍·普萨基：预计总统拜登将在适当的时候与沙特国王进行对话。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftssap8170553.d.html</link>
-            <guid>2036775</guid>
-            <pubDate>Mon, 22 Feb 2021 18:21:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫新闻秘书珍·普萨基：欧洲盟国正在等待伊朗就会谈作出回应。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftssap8170465.d.html</link>
-            <guid>2036774</guid>
-            <pubDate>Mon, 22 Feb 2021 18:19:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  文件显示：欧盟愿意支持在2021年国际货币基金组织重新分配特别提款权。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftssap8170462.d.html</link>
-            <guid>2036773</guid>
-            <pubDate>Mon, 22 Feb 2021 18:18:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  文件显示：欧盟愿意讨论减少低收入国家财政压力的方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftpnny9153662.d.html</link>
-            <guid>2036772</guid>
-            <pubDate>Mon, 22 Feb 2021 18:18:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫新闻秘书珍·普萨基：美国总统拜登将单独举行新闻发布会，但不是本周。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftssap8170323.d.html</link>
-            <guid>2036770</guid>
-            <pubDate>Mon, 22 Feb 2021 18:15:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波兰KGHM：本公司1月份铜销量4.62万吨，较2020年同期下滑1.0%。1月计价铜（Payable Copper）产量同比增长6.0%，至6.17万吨。1月计价白银产量同比增长39%，至115.5吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftpnny9153532.d.html</link>
-            <guid>2036769</guid>
-            <pubDate>Mon, 22 Feb 2021 18:15:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  巴西参议院议长：现金发放将在3月恢复，将持续4个月。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftssap8170269.d.html</link>
-            <guid>2036768</guid>
-            <pubDate>Mon, 22 Feb 2021 18:13:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据DOWNDETECTOR：用户报告显示转账工具Venmo出现问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftpnny9153355.d.html</link>
-            <guid>2036767</guid>
-            <pubDate>Mon, 22 Feb 2021 18:11:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  爱尔兰新增686例新冠肺炎确诊病例，新增1例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftssap8170156.d.html</link>
-            <guid>2036766</guid>
-            <pubDate>Mon, 22 Feb 2021 18:11:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：Spotify宣布与《复仇者联盟4》导演建立新的合作关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftpnny9153199.d.html</link>
-            <guid>2036765</guid>
-            <pubDate>Mon, 22 Feb 2021 18:08:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币现货刚刚刺穿52000.00美元/枚关口，最新报51999.00美元/枚。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftssap8169993.d.html</link>
-            <guid>2036764</guid>
-            <pubDate>Mon, 22 Feb 2021 18:08:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伦铜收涨逾2.1%，站上9000美元整数位心理关口；伦钴持稳于5万美元】 LME期铜收涨188美元，报9097美元/吨。LME期铝收涨35美元，报2166美元/吨。LME期锌收涨18美元，报2899美元/吨。LME期铅收跌12美元，报2152美元/吨。LME期镍收跌95美元，报19493美元/吨。LME期锡收涨400美元，报26615美元/吨。LME期钴收平，报50000美元/吨。]]></title>
-            <guid>2036763</guid>
-            <pubDate>Mon, 22 Feb 2021 18:07:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫新闻秘书珍·普萨基：认为预算主任提名人有办法赢得50票。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftssap8169943.d.html</link>
-            <guid>2036762</guid>
-            <pubDate>Mon, 22 Feb 2021 18:06:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫新闻秘书珍·普萨基：预计得州更多的县将得到援助。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-23/detail-ikftpnny9152750.d.html</link>
-            <guid>2036761</guid>
-            <pubDate>Mon, 22 Feb 2021 17:58:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  道指涨逾百点，盘初一度跌超200点；标普500指数跌幅缩窄到0.32%，纳指跌1.51%。]]></title>
-            <guid>2036760</guid>
-            <pubDate>Mon, 22 Feb 2021 17:58:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
