@@ -4,11 +4,101 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Tue, 23 Feb 2021 18:32:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2021 19:24:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国参议院多数党领袖舒默：强烈主张提高最低工资。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-24/detail-ikftpnny9355609.d.html</link>
+            <guid>2038524</guid>
+            <pubDate>Tue, 23 Feb 2021 19:24:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据TechCrunch：美国论坛Reddit在此前宣布的E轮融资中追加1.16亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-24/detail-ikftssap8371980.d.html</link>
+            <guid>2038523</guid>
+            <pubDate>Tue, 23 Feb 2021 19:23:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国总统拜登将任命AHUJA为联邦人事管理局局长。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-24/detail-ikftpnny9355601.d.html</link>
+            <guid>2038522</guid>
+            <pubDate>Tue, 23 Feb 2021 19:23:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登：可能很快会发出数百万个口罩。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-24/detail-ikftssap8371875.d.html</link>
+            <guid>2038521</guid>
+            <pubDate>Tue, 23 Feb 2021 19:20:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  加拿大央行行长麦克勒姆：在周二的讲话中，并没有试图暗示通胀目标框架会发生任何变化。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-24/detail-ikftpnny9355475.d.html</link>
+            <guid>2038520</guid>
+            <pubDate>Tue, 23 Feb 2021 19:20:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登：经济刺激法案将不会以绝对优势通过。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-24/detail-ikftpnny9355472.d.html</link>
+            <guid>2038519</guid>
+            <pubDate>Tue, 23 Feb 2021 19:20:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：谷歌(GOOG.O,GOOGL.O)有四周的时间对法国反垄断调查报告做出回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-24/detail-ikftpnny9355433.d.html</link>
+            <guid>2038518</guid>
+            <pubDate>Tue, 23 Feb 2021 19:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  西方石油(OXY.N)：在德州冬季风暴后，90%的产量已经恢复。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-24/detail-ikftssap8371804.d.html</link>
+            <guid>2038517</guid>
+            <pubDate>Tue, 23 Feb 2021 19:19:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据DOWNDETECTOR：用户报告显示领英出现问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-24/detail-ikftpnny9355410.d.html</link>
+            <guid>2038516</guid>
+            <pubDate>Tue, 23 Feb 2021 19:19:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股3D打印股跌幅居前，ExOne(XONE.O)跌20.93%，Materialise(MTLS.O)跌15.85%，Nano Dimension(NNDM.O)跌12.33%，3D系统(DDD.N)跌12.14%，Voxeljet(VJET.O)跌8.99%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-24/detail-ikftpnny9355403.d.html</link>
+            <guid>2038515</guid>
+            <pubDate>Tue, 23 Feb 2021 19:19:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  加拿大央行行长麦克勒姆：比特币没有货币的特征。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-24/detail-ikftpnny9355397.d.html</link>
+            <guid>2038514</guid>
+            <pubDate>Tue, 23 Feb 2021 19:19:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  电动车初创公司Lordstown Motors.(RIDE.O)：我们预售了10万辆电动皮卡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-24/detail-ikftpnny9353361.d.html</link>
+            <guid>2038513</guid>
+            <pubDate>Tue, 23 Feb 2021 18:38:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：黑石集团(BX.N)寻求150亿美元用于新的二级市场基金。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-24/detail-ikftpnny9353355.d.html</link>
+            <guid>2038512</guid>
+            <pubDate>Tue, 23 Feb 2021 18:38:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海原油期货主力合约夜盘收涨0.64%，报407.7元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-24/detail-ikftssap8369553.d.html</link>
+            <guid>2038511</guid>
+            <pubDate>Tue, 23 Feb 2021 18:34:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上期所原油期货2104合约夜盘收涨0.64%，报407.70元人民币/桶。沪金夜盘收跌0.26%，沪银收跌1.12%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-24/detail-ikftpnny9353062.d.html</link>
+            <guid>2038510</guid>
+            <pubDate>Tue, 23 Feb 2021 18:32:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[上海黄金交易所黄金T+D 2月23日（周二）晚盘收盘下跌0.12%报377.09元/克；上海黄金交易所白银T+D 2月23日（周二）晚盘收盘下跌1.0%报5662.0元/千克。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-24/detail-ikftssap8369377.d.html</link>
@@ -163,90 +253,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-24/detail-ikftpnny9351988.d.html</link>
             <guid>2038476</guid>
             <pubDate>Tue, 23 Feb 2021 18:02:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[道琼斯工业平均指数刚刚升破31300.00关口，最新报31298.96。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-24/detail-ikftssap8368202.d.html</link>
-            <guid>2038474</guid>
-            <pubDate>Tue, 23 Feb 2021 18:01:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[爱尔兰新增575例新冠肺炎确诊病例，新增45例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-24/detail-ikftssap8368186.d.html</link>
-            <guid>2038473</guid>
-            <pubDate>Tue, 23 Feb 2021 18:01:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Snap盘中跌幅缩窄至3.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-24/detail-ikftpnny9351929.d.html</link>
-            <guid>2038472</guid>
-            <pubDate>Tue, 23 Feb 2021 18:00:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国会参议院共和党成员Collins：预计共和党成员们都不会支持1.9万亿美元刺激计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-24/detail-ikftssap8368140.d.html</link>
-            <guid>2038471</guid>
-            <pubDate>Tue, 23 Feb 2021 17:59:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【万豪国际任命安东尼•卡普阿诺新任首席执行官】万豪国际宣布，董事会已选定安东尼•卡普阿诺担任公司新任首席执行官，同时他将加入了万豪的董事会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-24/detail-ikftpnny9351843.d.html</link>
-            <guid>2038470</guid>
-            <pubDate>Tue, 23 Feb 2021 17:58:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：CVC考虑以30亿美元收购英国化学公司Synthomer。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-24/detail-ikftpnny9351790.d.html</link>
-            <guid>2038469</guid>
-            <pubDate>Tue, 23 Feb 2021 17:57:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LME期铜收涨110美元，报9206美元/吨。LME期铝收跌20美元，报2147美元/吨。LME期锌收跌44美元，报2854美元/吨。LME期铅收跌30美元，报2122美元/吨。LME期镍收跌141美元，报19352美元/吨。LME期锡收跌95美元，报26520美元/吨。LME期钴收涨1000美元，报51000美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-24/detail-ikftssap8368044.d.html</link>
-            <guid>2038468</guid>
-            <pubDate>Tue, 23 Feb 2021 17:56:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果CEO库克：公司已经在全球实现了性别薪酬平等。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-24/detail-ikftssap8368022.d.html</link>
-            <guid>2038467</guid>
-            <pubDate>Tue, 23 Feb 2021 17:56:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果CEO库克：苹果将继续大力投资App Store。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-24/detail-ikftpnny9351748.d.html</link>
-            <guid>2038466</guid>
-            <pubDate>Tue, 23 Feb 2021 17:56:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Snap：有3500万家企业加入了Snap地图功能。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-24/detail-ikftpnny9351741.d.html</link>
-            <guid>2038465</guid>
-            <pubDate>Tue, 23 Feb 2021 17:55:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果小幅拉升，跌幅缩窄至2.67%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-24/detail-ikftssap8367993.d.html</link>
-            <guid>2038464</guid>
-            <pubDate>Tue, 23 Feb 2021 17:55:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  苹果CEO库克：苹果计划增加年度股息。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-24/detail-ikftpnny9351713.d.html</link>
-            <guid>2038463</guid>
-            <pubDate>Tue, 23 Feb 2021 17:55:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果CEO库克：视频流媒体是一个可以容纳多个玩家的竞技场。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-24/detail-ikftssap8367648.d.html</link>
-            <guid>2038462</guid>
-            <pubDate>Tue, 23 Feb 2021 17:47:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财长耶伦对意大利央行行长表示，她将与意大利、20国集团就全球复苏、改善对低收入国家的支持、气候变化等问题展开合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-24/detail-ikftpnny9351364.d.html</link>
-            <guid>2038461</guid>
-            <pubDate>Tue, 23 Feb 2021 17:46:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
