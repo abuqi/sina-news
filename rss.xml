@@ -4,11 +4,77 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Fri, 26 Feb 2021 17:40:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2021 18:28:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  捷克政府宣布进入新的紧急状态，直到3月28日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8980170.d.html</link>
+            <guid>2044967</guid>
+            <pubDate>Fri, 26 Feb 2021 18:25:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  星巴克(SBUX.O)盘中涨近5%，股价创历史新高，报108.48美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9964272.d.html</link>
+            <guid>2044966</guid>
+            <pubDate>Fri, 26 Feb 2021 18:24:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国方面称，沙特王储本·萨勒曼批准了杀害沙特记者卡舒吉的行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9963544.d.html</link>
+            <guid>2044965</guid>
+            <pubDate>Fri, 26 Feb 2021 18:11:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  SOS(SOS.N)盘中下挫，跌幅扩大至21%，报4.77美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8979410.d.html</link>
+            <guid>2044964</guid>
+            <pubDate>Fri, 26 Feb 2021 18:10:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伦锡收跌逾4%，但伦铜伦锡2月份整体涨幅至少超过12%】LME期铜收跌336美元，报9077美元/吨，2月份累计上涨逾15.54%。 LME期铝收跌80美元，报2154美元/吨，2月累涨约8.90%。 LME期锌收跌98美元，报2792美元/吨，2月累涨约8.22%。 LME期铅收跌106美元，报2052美元/吨，2月累涨逾1.38%。 LME期镍收跌625美元，报18577美元/吨，2月累涨约5.01%。 LME期锡收跌1176美元，报25664美元/吨，2月累涨逾12.66%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9963292.d.html</link>
+            <guid>2044963</guid>
+            <pubDate>Fri, 26 Feb 2021 18:04:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至2月26日当周石油钻井总数(口)前值 305，预期 303，公布 309。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9963117.d.html</link>
+            <guid>2044961</guid>
+            <pubDate>Fri, 26 Feb 2021 18:00:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  伦铜日内跌4.25%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9962746.d.html</link>
+            <guid>2044960</guid>
+            <pubDate>Fri, 26 Feb 2021 17:51:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  白宫新闻秘书珍·普萨基：美国不会采取措施放松对伊朗的制裁。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9962480.d.html</link>
+            <guid>2044959</guid>
+            <pubDate>Fri, 26 Feb 2021 17:46:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑加元USD/CAD日内走高1.00%，现报1.2723。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9962461.d.html</link>
+            <guid>2044958</guid>
+            <pubDate>Fri, 26 Feb 2021 17:45:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑瑞郎USD/CHF突破0.91，为去年11月以来首次。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8978400.d.html</link>
+            <guid>2044957</guid>
+            <pubDate>Fri, 26 Feb 2021 17:45:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  WSB概念股盘中下挫，游戏驿站、高斯电子盘中跌幅扩大至20%，AMC 跌超7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8978397.d.html</link>
+            <guid>2044956</guid>
+            <pubDate>Fri, 26 Feb 2021 17:45:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美股氢能源板块今日回调走高，普拉格能源(PLUG.O)涨超13%，燃料电池能源(FCEL.O)涨5.56%，Bloom Energy(BE.O)涨2.27%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9962136.d.html</link>
@@ -193,72 +259,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8973463.d.html</link>
             <guid>2044918</guid>
             <pubDate>Fri, 26 Feb 2021 16:28:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美元指数DXY持续走高，短线上扬14点，日内涨幅达0.53%，现报90.80。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9956912.d.html</link>
-            <guid>2044917</guid>
-            <pubDate>Fri, 26 Feb 2021 16:24:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金跌破1720美元/盎司，日内跌幅达2.73%；美股黄金股普跌，埃氏金业跌9.76%，科尔戴伦矿业跌8.76%，金罗斯黄金跌5.4%，赫克拉矿业(HL.N)跌5.37%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8972763.d.html</link>
-            <guid>2044916</guid>
-            <pubDate>Fri, 26 Feb 2021 16:23:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  G20金融领导人一致认为，多边主义比以往任何时候都重要。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9956737.d.html</link>
-            <guid>2044915</guid>
-            <pubDate>Fri, 26 Feb 2021 16:22:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳元兑美元AUD/USD跌幅扩大至2%，现报0.7718。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9956725.d.html</link>
-            <guid>2044914</guid>
-            <pubDate>Fri, 26 Feb 2021 16:22:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  大和证券SMBC株式会社首次覆盖晶盛机电，并给予其买入评级，目标价为45元人民币。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8972625.d.html</link>
-            <guid>2044913</guid>
-            <pubDate>Fri, 26 Feb 2021 16:21:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  意大利财长FRANCO：G20重申致力于扩大财政努力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9956560.d.html</link>
-            <guid>2044912</guid>
-            <pubDate>Fri, 26 Feb 2021 16:20:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国财政大臣苏纳克：英国支持国际货币基金组织关于新的特别提款权分配方案的工作，该方案将为低收入国家提供额外的资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8972369.d.html</link>
-            <guid>2044911</guid>
-            <pubDate>Fri, 26 Feb 2021 16:19:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【风水轮流转，油气类QDII年内最高涨幅已超40%】油价超级周期还在持续，助推油气类QDII在今年取得不错的业绩，成为今年全市场基金中当之无愧的领头羊。连续几年年度业绩为负的油气类QDII，在今年终于迎来春天。东方财富Choice数据显示，截至2月24日，华宝标普油气上游股票（QDII）美元A今年以来净值涨幅达到40.74%，排在全市场所有基金之首，华宝标普油气上游股票（QDII）人民币A/C净值涨幅均达到40%以上。（国际金融报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9956314.d.html</link>
-            <guid>2044910</guid>
-            <pubDate>Fri, 26 Feb 2021 16:17:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英镑兑美元GBP/USD短线下挫50点，日内跌幅再次扩大至0.5%，现报1.3940。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8972067.d.html</link>
-            <guid>2044908</guid>
-            <pubDate>Fri, 26 Feb 2021 16:14:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  法国财长勒梅尔：在今年夏天之前就跨境企业税改革达成协议是可能的，特别是在美国放弃其安全港要求之后。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnny9955910.d.html</link>
-            <guid>2044907</guid>
-            <pubDate>Fri, 26 Feb 2021 16:11:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美元指数DXY短线上扬13点，现报90.65，欧元兑美元EUR/USD短线下挫23点，现报1.2121。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap8971745.d.html</link>
-            <guid>2044906</guid>
-            <pubDate>Fri, 26 Feb 2021 16:10:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
