@@ -4,11 +4,110 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 27 Feb 2021 15:24:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2021 16:42:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：美国证券交易委员会正在调查美国贝克休斯石油服务公司在美国制裁涉及项目中的作用。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9128027.d.html</link>
+            <guid>2046052</guid>
+            <pubDate>Sat, 27 Feb 2021 16:28:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【缅甸外交部宣布将驻联合国大使觉莫吞开除公职】当地时间2月27日，缅甸外交部宣布，其常驻联合国大使觉莫吞由于违反了《缅甸国家公务员法》第10条和《国家公务员细则》第126条，被开除公职。宣布将其开除出公务员队伍的文件由外长温纳貌伦签署。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9127931.d.html</link>
+            <guid>2046051</guid>
+            <pubDate>Sat, 27 Feb 2021 16:27:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利新增18916例新冠肺炎确诊病例，新增280例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0111230.d.html</link>
+            <guid>2046050</guid>
+            <pubDate>Sat, 27 Feb 2021 16:18:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【券业2020年营收排名初定 中信、海通和国君暂居前三】截至2月26日，已有19家上市券商公布业绩快报。营业收入上来看，有10家券商的营业收入超过100亿。其中，中信证券的营业收入高达543.48亿元，占据全市场超过12%的市场份额。紧随其后的是海通证券，营业收入达到381.55亿元。国泰君安以351.95亿元的营业收入位居行业第三。（界面新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9126813.d.html</link>
+            <guid>2046049</guid>
+            <pubDate>Sat, 27 Feb 2021 16:12:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国新增7434例新冠肺炎确诊病例，新增290例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9126099.d.html</link>
+            <guid>2046048</guid>
+            <pubDate>Sat, 27 Feb 2021 16:04:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：刺激计划能缓解民众的痛苦。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9126060.d.html</link>
+            <guid>2046047</guid>
+            <pubDate>Sat, 27 Feb 2021 16:03:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：希望参议院迅速就刺激法案采取行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9126054.d.html</link>
+            <guid>2046046</guid>
+            <pubDate>Sat, 27 Feb 2021 16:03:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：我在众议院批准刺激法案后与众议院议长佩洛西进行了通话。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0110078.d.html</link>
+            <guid>2046045</guid>
+            <pubDate>Sat, 27 Feb 2021 16:03:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：美国人民在支持我的（1.9万亿美元刺激）计划方面有“压倒性的共识”。]]></title>
+            <guid>2046044</guid>
+            <pubDate>Sat, 27 Feb 2021 16:02:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[斯洛伐克新增新冠肺炎确s诊病例2848例，累计确诊306268例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0109784.d.html</link>
+            <guid>2046043</guid>
+            <pubDate>Sat, 27 Feb 2021 15:59:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【券商3月金股出炉！最被好看的这只票，本周逆市上涨近8%】目前，已有6家券商披露2021年3月投资组合，近70只推荐金股中，保利地产最被看好。从风格看，推荐次数较多的金股多数集中在顺周期板块，对化工和保险的关注度也明显提升。展望3月行情，券商在保持偏乐观看法的同时，预计市场震荡恐将加剧；行业配置方面，受益经济复苏且低估值品种备受看好（中国证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9125181.d.html</link>
+            <guid>2046042</guid>
+            <pubDate>Sat, 27 Feb 2021 15:49:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波兰新增新冠肺炎确诊病例12100例，累计确诊病例达到1696885例；新增死亡病例303例，累计死亡43656例。]]></title>
+            <guid>2046041</guid>
+            <pubDate>Sat, 27 Feb 2021 15:45:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【尼日利亚中北部学校遭绑架人员获救】尼日利亚官方27日证实，尼中北部尼日尔州一所学校日前遭不明身份武装分子绑架的人员已获救。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0108576.d.html</link>
+            <guid>2046040</guid>
+            <pubDate>Sat, 27 Feb 2021 15:39:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加密货币集体走低，比特币短线下挫近700美元，下破46500美元/枚，以太坊跌破1450美元/枚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0108555.d.html</link>
+            <guid>2046039</guid>
+            <pubDate>Sat, 27 Feb 2021 15:39:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海清算所公布大宗商品现货清算业务收费方案：采用固定费率，按年收取；现货清算成员方面，信息服务费率为100,000元/年/家；现货平台方面，信息服务费率为200,000元/年/家。]]></title>
+            <guid>2046038</guid>
+            <pubDate>Sat, 27 Feb 2021 15:30:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海清算所：银行间市场清算所股份有限公司于2021年3月1日试运行大宗商品现货清算业务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0107942.d.html</link>
+            <guid>2046037</guid>
+            <pubDate>Sat, 27 Feb 2021 15:29:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【股指：周期强+抱团股弱+补涨逻辑仍然延续，IC比IF、IH强】① 本周市场普跌，诸多利空交织导致中美港股市大跌。香港政府提高印花税30％后使总交易成本增加8％左右，恒生指数本周大跌5%；10年期美债收益率飙升1.6%以上引起市场恐慌，作为风险资产定价的锚，美债收益率上行可能对全球资本市场造成较大冲击；② 经济复苏和流动性收紧的组合，重点挖掘结构性机会。基本面方面，三大指数盈利周期整体趋势是一样的，中证500周期行业权重较大，盈利周期和工业企业盈利周期更加吻合，盈利弹性也更大,PPI上行期IC有超额盈利。但是2020年下半年市场并不买账IC周期和科技的属性，背后的原因可能是机构抱团以及在经济存在不确定性的背景下寻找业绩更加确定的行业龙头。资金方面，资金抱团板块部分估值相对较高，易出现估值降维或资金抱团松动现象，近一段时间投机性抱团将继续瓦解，资金从抱团到板块轮动。2月份基金发行明显放缓，近两个月新发基金建仓意愿下降；③ 整体来看，周期强+抱团股弱+补涨逻辑仍然延续，IC比IF、IH强，市场波动加大的背景下单边风险较高，建议做多IC空IH策略。（混沌天成期货）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9123858.d.html</link>
+            <guid>2046036</guid>
+            <pubDate>Sat, 27 Feb 2021 15:28:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【亚美尼亚总统拒绝签署解职总参谋长的文件】当地时间2月27日，亚美尼亚总统新闻处表示，亚美尼亚总统萨尔基相拒绝了签署关于解职总参谋长的文件，并将文件退回给总理帕希尼扬。声明中表示，25日帕希尼扬提交了关于解职总参谋长加斯帕扬的法令草案，随后亚总统办公室召集律师和专家进行了仔细研究，认为该草案不符合亚美尼亚宪法，因此总统行使权力将其退回。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9123176.d.html</link>
@@ -158,83 +257,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9111997.d.html</link>
             <guid>2045953</guid>
             <pubDate>Sat, 27 Feb 2021 13:11:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  伯克希尔哈撒韦：截至2020年12月31日，持有1204亿美元的苹果公司股票，此前截至9月30日持有1117亿美元苹果公司股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9111738.d.html</link>
-            <guid>2045952</guid>
-            <pubDate>Sat, 27 Feb 2021 13:09:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  伯克希尔哈撒韦：2020年公司斥资247亿美元回购其A类和B类普通股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9111401.d.html</link>
-            <guid>2045947</guid>
-            <pubDate>Sat, 27 Feb 2021 13:07:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  伯克希尔哈撒韦：第四季度投资净收益304.5亿美元，去年同期为245.3亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9111097.d.html</link>
-            <guid>2045942</guid>
-            <pubDate>Sat, 27 Feb 2021 13:04:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伯克希尔哈撒韦2020年底的现金储备为1383亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9110986.d.html</link>
-            <guid>2045940</guid>
-            <pubDate>Sat, 27 Feb 2021 13:03:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴菲特旗下伯克希尔哈撒韦四季度运营利润50.2亿美元，同比增长14%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0094812.d.html</link>
-            <guid>2045936</guid>
-            <pubDate>Sat, 27 Feb 2021 13:00:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【壹网壹创：实控人拟以5000万元至1亿元增持公司股份】壹网壹创(300792)2月26日晚间公告，公司实控人、董事长林振宇拟通过包括但不限于集中竞价或大宗交易等方式增持公司股份，增持金额为不低于5000万元且不超过1亿元，此次增持不设定价格区间，将根据公司股票价格波动情况及资本市场整体趋势，择机实施增持计划，6个月内（即自2021年3月1日至2021年9月1日）实施完成。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9109678.d.html</link>
-            <guid>2045933</guid>
-            <pubDate>Sat, 27 Feb 2021 12:49:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据英国金融时报：英国政府将参与科技初创公司的投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9109624.d.html</link>
-            <guid>2045932</guid>
-            <pubDate>Sat, 27 Feb 2021 12:49:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  乌克兰国家紧急情况局称，切尔诺夫策市医院的事故原因是氧气设备爆炸，事故中1死1伤。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9109157.d.html</link>
-            <guid>2045928</guid>
-            <pubDate>Sat, 27 Feb 2021 12:45:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华大基因业绩快报：2020年净利润20.8亿元，同比增653%】①华大基因(300676)2月26日晚间发布业绩快报，2020年营业收入为84.32亿元，同比增长201.09%；②归母净利润20.80亿元，同比增长652.78%；基本每股收益5.23元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0092660.d.html</link>
-            <guid>2045920</guid>
-            <pubDate>Sat, 27 Feb 2021 12:39:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【再度封城，奥克兰进入为期7天三级警戒级别】①据报道，当地时间2月27日晚上9点，新西兰总理阿德恩宣布，奥克兰进入3级警戒级别，其余地方进入2级警戒级别。本次警戒级别时长为期7天。阿德恩表示，这一结果“令人沮丧”；②新西兰27日新增1例社区确诊病例，该病例与本次奥克兰集群感染有关。据报道，该病例是Papatoetoe学校确诊学生家庭中的21岁男性，于23日出现症状。新西兰卫生部正进行基因组测序，以确定最新的社区病例是如何感染的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9108325.d.html</link>
-            <guid>2045917</guid>
-            <pubDate>Sat, 27 Feb 2021 12:37:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  乌克兰切尔诺夫策州副州长称，切尔诺夫策市的一家医院发生爆炸，有人受伤。（卫星新闻）]]></title>
-            <guid>2045901</guid>
-            <pubDate>Sat, 27 Feb 2021 12:20:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[过去的一周，投资者从波动性指数VIX相关ETF中撤出1.353亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0089672.d.html</link>
-            <guid>2045882</guid>
-            <pubDate>Sat, 27 Feb 2021 12:03:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【可转债频现首日破发：3个月已有14只，一度连续三天出现】 统计发现，自2020年12月22日以来，可转债市场迎来了一波“首日破发潮”。截至2021年2月底，共有14只可转债上市首日破发。值得注意的是，2020年12月22日至24日，连续三天出现首日破发现象。在今年上市破发的可转债中，2月8日，海兰转债上市首日跌幅最大，超过10%。近期新上市可转债破发频现，而既往可转债跌破面值的更是超百只。在此背景下，一波“强赎潮”随之来袭，2月最后一周，便有6只可转债实施强制赎回。接下来的一周，也有7只可转债进入强赎期。（每经网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9104799.d.html</link>
-            <guid>2045874</guid>
-            <pubDate>Sat, 27 Feb 2021 11:59:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
