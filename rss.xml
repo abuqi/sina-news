@@ -4,11 +4,53 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 27 Feb 2021 18:27:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2021 19:19:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[法国新增23996例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0121342.d.html</link>
+            <guid>2046075</guid>
+            <pubDate>Sat, 27 Feb 2021 19:11:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国地质勘探局：阿拉斯加麦肯齐点西南偏南3公里处发生5.3级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9137024.d.html</link>
+            <guid>2046074</guid>
+            <pubDate>Sat, 27 Feb 2021 19:08:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美媒：美国证交会可能重新评估低价股的上市标准】据媒体消息，美国证交会可能很快会重新评估主要交易所的上市标准，或阻止纳斯达克和纽交所上市投机性的便士股票（股价低于5美元的股票）。根据证交会的说法，“这些（便士股票）公司的收益很小甚至没有，且具有高度投机性。”在纽交所和纳斯达克合并后的清单上，有多达1000只股票符合证交会对便士股票的定义。在Robinhood的散户交易狂潮后，证交会便注意到这类股票的上市政策问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9136244.d.html</link>
+            <guid>2046072</guid>
+            <pubDate>Sat, 27 Feb 2021 18:50:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国共和党参议院委员会主席称共和党将在2022年至少夺回4个州的参议院席位】美国共和党参议院委员会主席、参议员里克·斯科特（Rick Scott）当地时间2月26日称，共和党将在2022年至少重夺4个州的民主党参议院席位。斯科特表示，目前共和党内部的分歧已经结束，将立志全力夺回参议院更多席位。斯科特认为，到2020年中期选举时，共有14个可以争取的参议院席位中，共和党有信心能够争取到其中不少席位，其中包括重夺佐治亚州、亚利桑那州、新罕布什尔州、和内华达州的参议院席位。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9136109.d.html</link>
+            <guid>2046071</guid>
+            <pubDate>Sat, 27 Feb 2021 18:47:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国疾控中心：美国新冠肺炎确诊病例升至28285544例，死亡病例升至508949例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9135714.d.html</link>
+            <guid>2046070</guid>
+            <pubDate>Sat, 27 Feb 2021 18:38:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【世卫组织：全球新冠肺炎确诊病例超过1.130亿例】根据世卫组织最新实时统计数据，截至欧洲中部时间2月27日15时09分（北京时间2月27日22时09分），全球累计新冠肺炎确诊病例113076707例，累计死亡病例2512272例。27日全球新冠肺炎确诊病例新增420491例，死亡病例新增10939例。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9135519.d.html</link>
+            <guid>2046069</guid>
+            <pubDate>Sat, 27 Feb 2021 18:33:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据媒体消息，沙特首都利雅得传出数声爆炸声，原因尚不明确。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9135405.d.html</link>
+            <guid>2046068</guid>
+            <pubDate>Sat, 27 Feb 2021 18:31:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[土耳其新增9193例新冠肺炎确诊病例，累计确诊2693164例；新增71例死亡病例，累计死亡28503例。]]></title>
             <guid>2046067</guid>
@@ -219,48 +261,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9119984.d.html</link>
             <guid>2046026</guid>
             <pubDate>Sat, 27 Feb 2021 14:33:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【昆仑万维业绩快报：2020年净利润47.75亿元，同比增269%】① 昆仑万维(300418)2月26日晚间发布业绩快报，2020年营业收入为27.69亿元，同比下滑24.93%；净利润47.75亿元，同比增长268.72%；② 基本每股收益4.10元。报告期内，GameArk和闲徕互娱不断加强内部管理，合理控制和优化成本费用，使这两个板块的利润保持稳健。此外，公司在2020年6月完成了Grindr Inc.的股权出售，为公司带来了29.48亿元的投资收益。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9119922.d.html</link>
-            <guid>2046025</guid>
-            <pubDate>Sat, 27 Feb 2021 14:32:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【青岛银行：拟配股募资不超过50亿元】青岛银行(002948)2月26日晚间披露配股公开发行证券预案，公司拟配股募集资金不超过50亿元，资金在扣除相关发行费用后的净额将全部用于补充青岛银行的核心一级资本。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9118973.d.html</link>
-            <guid>2046023</guid>
-            <pubDate>Sat, 27 Feb 2021 14:21:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【蓝思科技业绩快报：2020年净利49.23亿元，同比增99%】① 蓝思科技(300433)2月26日晚间披露业绩快报，公司2020年实现营业收入369.84亿元，同比增长22.23%；净利润49.23亿元，同比增长99.43%；② 基本每股收益1.13元。报告期内公司下游优质客户需求旺盛，订单饱满，公司在行业内率先全面复工复产，可靠地保障了客户的大量交付需求，优质产品资源进一步向公司聚拢，市占率不断提升，营业收入较上年同期大幅增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0102520.d.html</link>
-            <guid>2046022</guid>
-            <pubDate>Sat, 27 Feb 2021 14:14:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【商务部：全力稳住外贸外资基本盘】① 2月26日，全国外资工作电视电话会议在京召开。商务部部长王文涛要求：一是全力稳住外贸外资基本盘；用好已有开放政策和助企纾困政策，发挥开放平台带动作用，优化产业结构和区域布局，在稳总量的基础上优结构、提质量；② 二是在营商环境上下更大功夫；③ 三是统筹好开放与安全；坚定不移扩大高水平对外开放，完善准入前国民待遇加负面清单管理制度，推动持续降低外资准入门槛，同时加强事中事后监管，加强安全风险防范。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9118104.d.html</link>
-            <guid>2046021</guid>
-            <pubDate>Sat, 27 Feb 2021 14:10:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【万科Ａ：入股泰禾集团仍存在不确定性，当前未单方面终止合同】2月27日，万科Ａ在互动易上就入股泰禾最新进展作出回应。万科Ａ称，此次股权投资交易能否最终达成仍取决于相关先决条件能否满足，当前仍存在不确定性。万科当前未单方面终止合同，但保留合同约定的相关权利。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0101972.d.html</link>
-            <guid>2046020</guid>
-            <pubDate>Sat, 27 Feb 2021 14:08:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中交集团与中国融通集团签署战略合作框架协议】2月26日，中交集团与中国融通集团在北京签署战略合作框架协议。根据协议，双方将按照“依法合规、平等自愿、优势互补、互利共赢”的原则，在建设开发、生态农业、商旅服务等领域开展合作。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0101361.d.html</link>
-            <guid>2046019</guid>
-            <pubDate>Sat, 27 Feb 2021 14:03:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据英国金融时报报道，消息人士称英国政府正准备成立一只基金，投资于快速增长的科技公司。新基金将寻求高达3.75亿英镑的投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0101101.d.html</link>
-            <guid>2046018</guid>
-            <pubDate>Sat, 27 Feb 2021 14:00:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
