@@ -4,11 +4,51 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 27 Feb 2021 19:19:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2021 20:25:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国300余人因关联暴力冲击国会遭指控】美国司法部26日证实，已经起诉超过300名关联国会大厦今年初遭暴力冲击的嫌疑人，执法人员逮捕其中至少280人。司法部代理副部长约翰·卡林当天告诉媒体记者，司法部正以“从未有过的速度和规模”推进调查，“必须追究那些人的责任”。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9139836.d.html</link>
+            <guid>2046082</guid>
+            <pubDate>Sat, 27 Feb 2021 20:15:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登表示，将于周一发布有关沙特的声明；此前美国情报部门发布的报告认为是沙特王储于2018年下令杀死记者卡舒吉。]]></title>
+            <guid>2046081</guid>
+            <pubDate>Sat, 27 Feb 2021 20:12:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列新增2481例新冠肺炎确诊病例，累计确诊达773261例；新增死亡病例29例，累计死亡5726人。]]></title>
+            <guid>2046080</guid>
+            <pubDate>Sat, 27 Feb 2021 19:58:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普考虑组建超级政治行动委员会】市场消息，特朗普寻求维护其在共和党内的权力，并扩张政治运作。特朗普的发言人在当地时间周六证实，特朗普正在考虑组建一个超级政治行动委员会（PAC），这种委员会可以从几乎所有渠道筹集无限制的资金，且支出也不受限制。该委员会可能是“全新的实体”或者是“美国优先政策”的改版。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0123040.d.html</link>
+            <guid>2046079</guid>
+            <pubDate>Sat, 27 Feb 2021 19:49:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南非累计确诊1512225例新冠肺炎病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0122952.d.html</link>
+            <guid>2046078</guid>
+            <pubDate>Sat, 27 Feb 2021 19:47:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国驻加纳大使馆暂停为自加纳始发经埃及中转回国旅客发放健康码】中国驻加纳大使馆于当地时间2月27日发布消息，因政策调整，自加纳始发、经埃及中转回国旅客自3月6日（含）起将无法在开罗办理登机手续。为避免出现人员滞留，给回国旅客带来不必要的损失，中国驻加纳大使馆将不再为自加纳出发、经埃及中转乘3月6日（含）以后航班的回国旅客发放健康码。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0122329.d.html</link>
+            <guid>2046077</guid>
+            <pubDate>Sat, 27 Feb 2021 19:32:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【肯尼亚总统当选东非共同体新任轮值主席】当地时间2月27日，东非共同体首脑峰会以线上形式召开，这也是东共体首次以虚拟模式举办峰会。肯尼亚总统肯雅塔接替卢旺达总统卡加梅当选为东共体新任轮值主席。他表示将专注于加强与周边国家的伙伴关系，以增强东非共同体内部联系，并确保可持续地执行区域内的项目和计划。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0121952.d.html</link>
+            <guid>2046076</guid>
+            <pubDate>Sat, 27 Feb 2021 19:24:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[法国新增23996例新冠肺炎确诊病例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0121342.d.html</link>
@@ -225,42 +265,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9123858.d.html</link>
             <guid>2046036</guid>
             <pubDate>Sat, 27 Feb 2021 15:28:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亚美尼亚总统拒绝签署解职总参谋长的文件】当地时间2月27日，亚美尼亚总统新闻处表示，亚美尼亚总统萨尔基相拒绝了签署关于解职总参谋长的文件，并将文件退回给总理帕希尼扬。声明中表示，25日帕希尼扬提交了关于解职总参谋长加斯帕扬的法令草案，随后亚总统办公室召集律师和专家进行了仔细研究，认为该草案不符合亚美尼亚宪法，因此总统行使权力将其退回。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9123176.d.html</link>
-            <guid>2046034</guid>
-            <pubDate>Sat, 27 Feb 2021 15:16:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[缅甸国家电台报道，缅甸政府解除该国驻联合国大使的职务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9122516.d.html</link>
-            <guid>2046033</guid>
-            <pubDate>Sat, 27 Feb 2021 15:05:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【当前对A股市场不必过分悲观】① 中国社会科学院金融研究所副所长、国家金融与发展实验室副主任张明表示，总体而言，北上资金对A股市场的影响有限。即使北上资金持续流出，只要不引发国内机构投资者的跟风行为，即使对蓝筹龙头股的影响也是非常有限的；② 北上资金在未来未必会持续流出，美国10年期国债收益率短期内继续显著上行的空间有限；③ 中国货币政策短期内快速收紧的概率很低，考虑到去年下半年已经进行过一波货币政策正常化进程，2021年的货币政策更可能在当前水平上微调，而非持续单边收紧；④ 中国房地产宏观调控政策已经成型，而且将会持续较长时间，存量资金将会继续由房市轮动到股市；⑤ 短期内中国居民与企业到境外大规模开展证券投资的概率较低；⑥ 与美国等发达国家股市相比，中国股市的估值依然具有吸引力，尤其是蓝筹龙头股；⑦ 在经历本次调整之后，A股市场将会再度迎来全球范围内相对更好的表现。当然，投资者尤其是个人投资者应该提高对股票的鉴别能力，提高对潜在风险的防范能力。基本面更加强劲、估值相对合理、市场占比较高的股票，在未来依然有着良好的上升空间。（张明宏观金融研究）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0105838.d.html</link>
-            <guid>2046031</guid>
-            <pubDate>Sat, 27 Feb 2021 14:56:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【SK Siltron开始生产SiC芯片 扩展业务至功率半导体】《科创板日报》27日讯，据外媒报道，韩国SK集团旗下半导体硅片生产商SK Siltron近日开始生产少量的碳化硅芯片（SiC），意向功率半导体业务扩展。此前2 月 29 日，SK Siltron完成4.5亿美元杜邦SiC部门收购案。1月28日，韩国唯一SiC设计、制造商Yes Power Technix宣布SK集团以268亿韩元收购其33.6％股权。 (Business Korea)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0105644.d.html</link>
-            <guid>2046030</guid>
-            <pubDate>Sat, 27 Feb 2021 14:54:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【格林美：一季度净利预增120%-170%】① 格林美(002340)2月26日晚间发布一季度业绩预告，公司预盈2.42亿元-2.97亿元，同比增长120%-170%。一季度，公司产能释放，销量大增，推动公司业绩稳步增长；② 公司同日披露业绩快报：公司实现营业总收入为124.66亿元，比上年同期降低了13.15%；净利润4.03亿元，比上年同期降低了45.22%；基本每股收益0.09元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9120713.d.html</link>
-            <guid>2046028</guid>
-            <pubDate>Sat, 27 Feb 2021 14:42:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【证监会：目前科创板、创业板审核注册平均周期已经大幅缩减到5个多月】① 证监会新闻发言人就IPO申报企业情况答记者问表示，当前IPO申报企业排队现象与历史上的“堰塞湖”问题有区别。当时市场关注焦点主要在于，IPO没有实现常态化，停停开开，预期也不明朗，一些企业从首次提交申请到获得核准用时需要2到3年；② 近年来，证监会科学合理保持IPO常态化，特别是注册制改革后，证监会着力提高审核透明度和效率，目前科创板、创业板审核注册平均周期已经大幅缩减到5个多月。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9119984.d.html</link>
-            <guid>2046026</guid>
-            <pubDate>Sat, 27 Feb 2021 14:33:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
