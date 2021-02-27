@@ -4,11 +4,53 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 27 Feb 2021 08:29:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2021 09:26:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  匈牙利新增新冠肺炎确诊病例4948例，累计确诊424130例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9085648.d.html</link>
+            <guid>2045837</guid>
+            <pubDate>Sat, 27 Feb 2021 09:21:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【拜登谈美国空袭警告伊朗小心点】针对有媒体提问美国在叙利亚东部空袭向伊朗传递何种信号，美国总统拜登26日回答说，美国传递的信号是警告伊朗“小心点”。据伊朗媒体报道，当天早些时候，伊朗外交部发表声明对美国空袭表示强烈谴责，认为这是侵略行为，违反国际法，并破坏地区局势稳定。美国国防部25日发表声明说，美军当天对位于叙利亚东部伊朗支持的民兵组织目标发动空袭，摧毁多处设施。（新华网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9084811.d.html</link>
+            <guid>2045835</guid>
+            <pubDate>Sat, 27 Feb 2021 09:12:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“十三五”期间贵州淘汰煤炭落后产能7426万吨】 从贵州省能源局获悉，“十三五”期间，贵州省深入实施能源工业运行新机制，强力推动煤炭产业转型升级，关闭退出煤矿477处，淘汰落后产能7426万吨。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0068044.d.html</link>
+            <guid>2045833</guid>
+            <pubDate>Sat, 27 Feb 2021 08:59:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  猫眼专业版实时数据显示，电影《你好，李焕英》总票房超越《流浪地球》的46.8638亿元，目前位列中国影视票房第三名。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0067931.d.html</link>
+            <guid>2045832</guid>
+            <pubDate>Sat, 27 Feb 2021 08:57:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  香港新增新冠肺炎确诊病例33例，累计确诊10984例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0067752.d.html</link>
+            <guid>2045831</guid>
+            <pubDate>Sat, 27 Feb 2021 08:54:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中欧班列“东通道”进出境中欧班列累计突破万列】 记者从中国铁路哈尔滨局集团有限公司获悉，自2013年至今，经满洲里和绥芬河口岸进出境的中欧班列累计达到10556列、发送货物952601标箱。满洲里和绥芬河口岸是中欧班列东部通道的重要口岸。经满洲里和绥芬河口岸进出口货物主要有日用百货、电器产品、工业机械等。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9083138.d.html</link>
+            <guid>2045830</guid>
+            <pubDate>Sat, 27 Feb 2021 08:54:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【138亿！海南自贸港新年首批重点项目集中签约】2月27日，海南自由贸易港2021年（第一批）重点项目集中签约活动在海南迎宾馆举行，共签约34个高质量项目（外资项目6个，内资项目28个），协议投资总额约138亿元。中国邮政集团与海南省政府签订了战略合作协议。施耐德电气（中国）有限公司、信达福集团香港有限公司、嘉城国际物流股份有限公司等重点外资企业也成功落户海南。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9081250.d.html</link>
+            <guid>2045829</guid>
+            <pubDate>Sat, 27 Feb 2021 08:35:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  欧洲地中海地震中心：冰岛发生5.2级地震。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9080088.d.html</link>
@@ -224,54 +266,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0044861.d.html</link>
             <guid>2045780</guid>
             <pubDate>Sat, 27 Feb 2021 06:04:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【东风自动驾驶出租车武汉成功投运】搭载北斗定位系统、利用5G通信技术、具备自动感知能力的40余辆东风自动驾驶出租车27日在“中国车谷”武汉经开区成功投运。这批自动驾驶出租车主要在武汉经开区人流较大的商业区投放，共设置有停车点位20余个，运行线路10余条，市民可线上预约、免费体验乘车。根据有关法律和安全规定，车辆配备有安全员。正常情况下，安全员不会触碰方向盘、油门及刹车踏板。只有遇到紧急情况，安全员才会主动接管车辆，确保行车安全。未来2至3年，东风公司将在武汉经开区投放超过200辆自动驾驶出租车，通过规模化示范运营，推动自动驾驶与智慧城市融合发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0043516.d.html</link>
-            <guid>2045778</guid>
-            <pubDate>Sat, 27 Feb 2021 05:53:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场分析：最近几周有人猜测，欧佩克+将决定进一步限制减产，提高产量以从高油价中获利。Brandes Investment Partners能源分析师Chris Duncan称，欧佩克+的供应增长可能会抑制需求回升带来的任何大宗商品价格上涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9057147.d.html</link>
-            <guid>2045777</guid>
-            <pubDate>Sat, 27 Feb 2021 05:44:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国反亚裔仇恨犯罪事件上升，美司法部称将展开调查】①今年1月以来，美国针对亚裔的歧视行为和仇恨犯罪事件数量继续上升。美国司法部高级官员26日表示，司法部将就仇恨犯罪问题展开调查；②美国司法部民权司首席副助理部长帕梅拉卡兰当天发表声明说，她所在部门正与美国联邦调查局、联邦检察官和地方执法部门合作，“评估可能的仇恨犯罪”，并已就调查和起诉仇恨犯罪嫌疑人展开法律培训；③2020年，美国亚裔人士遭遇的种族歧视和仇恨犯罪事件频繁发生。美国非营利组织“停止仇恨亚裔美国人与太平洋岛居民”2月9日发布的报告显示，去年3月中旬至年底期间，该组织收到关于针对亚裔美国人仇恨事件的第一手报告共2808起，发生地包括美国47个州和华盛顿哥伦比亚特区。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0041326.d.html</link>
-            <guid>2045776</guid>
-            <pubDate>Sat, 27 Feb 2021 05:42:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【东莞发布楼市调控新政 调整商品住房限购年限】27日凌晨，东莞7部门印发《关于进一步加强房地产市场调控的通知(东建〔2021〕6号)》，通知提出，调整商品住房限购年限，非本市户籍居民家庭在本市购买第二套商品住房(新建商品住房或二手商品住房)，须在购房之日前四年内在本市逐月连续缴纳社保满三年。通知自2021年2月27日起实施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0039053.d.html</link>
-            <guid>2045772</guid>
-            <pubDate>Sat, 27 Feb 2021 05:32:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【海关总署：1月份海关截获外来物种204种427批次】海关总署今天（27日）发布，1月份海关在旅客、邮递渠道截获外来物种204种427批次。首次截获钟角蛙、非洲斑腹蝗、西班牙鼠尾草、白鼠尾草等外来物种。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0034584.d.html</link>
-            <guid>2045668</guid>
-            <pubDate>Sat, 27 Feb 2021 05:10:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据路透社统计：美国周五至少新增2116例新冠肺炎死亡病例，累计达510931例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftssap9049674.d.html</link>
-            <guid>2045661</guid>
-            <pubDate>Sat, 27 Feb 2021 05:07:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国人寿举报人再发声 编制虚假报告等成人寿险公司被罚主因】记者发现，此前实名举报中国人寿的当事人张乃丹（用户名为兔宝宝1988Z）在知乎上又发布了最新状态，回应“为何工作16年，现在才出来举报”等问题，她称，自我参加工作以来，嫩江公司一直这样做，我不知道这是有问题的，后来，随着网络信息越来越发达，嫩江公司造假也越来越多、越严重，我查了一下国家的法律法规，才知道这些究竟是怎么回事。她还提到，如果真的没有问题，为什么黑河公司和嫩江公司明明是上下级关系，我提供证据实名举报，不仅不处理，反而是黄亚辉联合孙小刚和白洁无所不用其极地打压我、报复我。“正是因为我举报了，公司现在不敢克扣员工奖金了，不敢强制逼迫员工去造假、去骗保了。”（贝壳财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0033908.d.html</link>
-            <guid>2045645</guid>
-            <pubDate>Sat, 27 Feb 2021 05:05:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印度新增确诊超1.6万例 累计超1107万例】据印度卫生部27日公布的最新数据，印度新冠肺炎确诊病例升至11079979例。在过去24小时内，印度新增确诊病例16488例；新增死亡病例113例，累计死亡156938例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-27/detail-ikftpnnz0032096.d.html</link>
-            <guid>2045595</guid>
-            <pubDate>Sat, 27 Feb 2021 04:52:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
