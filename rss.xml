@@ -4,11 +4,61 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 28 Feb 2021 20:25:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2021 21:21:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【北上资金一周净流出75亿，连续7周加仓25股】上证指数上周累计下跌5.06%，北上资金也大幅撤回，一周4个交易日显示净流出，一周净流出A股75亿元，结束连续3周的流入状态，其中沪股通净流出21.75亿元，深股通净流出53.26亿元。北上资金连续4周买入134股。分行业来看，计算机行业个股较多，有13只。将时间拉长，25股被北上资金连续7周加仓。（证券时报）]]></title>
+            <guid>2046861</guid>
+            <pubDate>Sun, 28 Feb 2021 21:20:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比特币较低位回升逾2000美元，重回45000美元/枚上方。]]></title>
+            <guid>2046860</guid>
+            <pubDate>Sun, 28 Feb 2021 21:09:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度航空恢复莫斯科与新德里之间的常规航班。]]></title>
+            <guid>2046859</guid>
+            <pubDate>Sun, 28 Feb 2021 20:59:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比特币较低位回升逾2000美元，重回45000美元/枚上方。]]></title>
+            <guid>2046858</guid>
+            <pubDate>Sun, 28 Feb 2021 20:59:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加密货币以太坊较低位持续回升，站上1400美元/枚，日跌幅收窄至3%。]]></title>
+            <guid>2046857</guid>
+            <pubDate>Sun, 28 Feb 2021 20:59:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[世卫组织网站最新数据显示，全球确诊病例较前一日增加384956例，达到113467303例；死亡病例增加8230例，达到2520550例。]]></title>
+            <guid>2046856</guid>
+            <pubDate>Sun, 28 Feb 2021 20:50:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：洛亚蒂群岛东南部发生5.4级地震。]]></title>
+            <guid>2046855</guid>
+            <pubDate>Sun, 28 Feb 2021 20:47:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据叙利亚通讯社28日报道，叙首都大马士革当晚遭到导弹袭击，叙防空系统实施了拦截。（新华社）]]></title>
+            <guid>2046854</guid>
+            <pubDate>Sun, 28 Feb 2021 20:47:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【752家企业排着长队来了，IPO全面市场化还有多远？】去年10月以来，关于注册制排队时间拉长、企业首次公开发行(IPO)上市拥堵的讨论逐渐发酵，而近期监管层加强对拟IPO企业现场检查，引发多家企业撤回申请材料的消息，再次将这一话题推上风口浪尖。按照目前的发行速度，752家正在排队IPO的企业，或许要等到2022年才能完成上市。（证券时报）]]></title>
+            <guid>2046852</guid>
+            <pubDate>Sun, 28 Feb 2021 20:33:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【是大跌、盘整还是回升？券商3月投资策略来了！】券商普遍推荐顺周期和景气行业，包括军工、新能源、有色、化工、机械等。牛年开年以来，A股出人意料的走出大调整走势。多家券商认为，A股急跌告一个段落了，甚至有券商乐观指出，有望迎来阳春3月。（21世纪经济报道）]]></title>
+            <guid>2046851</guid>
+            <pubDate>Sun, 28 Feb 2021 20:26:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【多地房贷集中度管理细则出台】《关于建立银行业金融机构房地产贷款集中度管理制度的通知》实施后，多地监管层针对各自辖区内地方法人银行的房地产贷款集中度管理细则也陆续出台。其中，部分地区在政策允许的前提下，调整了相应档次的地方法人银行业金融机构房地产贷款集中度管理要求。易居研究院智库中心研究总监严跃进表示，各地对不同档位的银行机构明确了房地产贷款集中度管理上限，有助于银行灵活执行中央房贷政策。（证券日报）]]></title>
             <guid>2046850</guid>
@@ -193,54 +243,6 @@
             <title><![CDATA[保加利亚新增新冠肺炎确诊病例1079例，累计确诊246706例；新增死亡病例39例，累计死亡10167例。]]></title>
             <guid>2046758</guid>
             <pubDate>Sun, 28 Feb 2021 15:58:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利新增17455例新冠肺炎确诊病例，新增192例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9280317.d.html</link>
-            <guid>2046732</guid>
-            <pubDate>Sun, 28 Feb 2021 15:48:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[虚拟货币以太坊跌破1300美元/枚，日跌幅超10%，刷新一个月低位。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9280106.d.html</link>
-            <guid>2046730</guid>
-            <pubDate>Sun, 28 Feb 2021 15:45:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据媒体报道，卡塔尔埃米尔与沙特王储通电话。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9279969.d.html</link>
-            <guid>2046721</guid>
-            <pubDate>Sun, 28 Feb 2021 15:43:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加密货币短线走低，比特币跌至43415.2美元/枚，以太坊暂报1310.17美元/枚。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9279640.d.html</link>
-            <guid>2046713</guid>
-            <pubDate>Sun, 28 Feb 2021 15:39:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【盈利变巨亏，逾5万股民踩雷！乳业股ST科迪业绩大变脸，股价比一袋牛奶还便宜】ST科迪2月28日晚间发布的业绩修正公告，让5万余户股东的心，瞬间凉透。最新的业绩快报显示，ST科迪2020年净利亏损11.04亿元，同比下降530.77%。而据此前业绩预告，ST科迪预计2020年盈利175.15万元至1751.48万元。面对巨亏公告，ST科迪的股吧里怨声载道。有股民表示，若不是当初扭亏的公告，不会买它。ST科迪的业绩变脸，和公司控股股东科迪集团的非经营性占用有关：公司控股股东非经营性占用公司资金余额为18.65亿元，占公司最近一个年度经审计净资产的118.26%。在网购平台上，科迪牛奶的市场价为1.98元/袋，公司股价比一袋牛奶还便宜。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9279167.d.html</link>
-            <guid>2046697</guid>
-            <pubDate>Sun, 28 Feb 2021 15:30:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫新闻秘书珍·普萨基：与针对沙特王储本·萨勒曼实施制裁相比，美国还有更有效的方法，因为他是沙特领导人之一。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9278319.d.html</link>
-            <guid>2046669</guid>
-            <pubDate>Sun, 28 Feb 2021 15:17:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【转板落地、年报来袭，精选层迎真正转机？】转板落地，精选层又迎政策利好。上周五(2月26日)晚间，沪深交易所、全国股转公司分别发布了全国中小企业股份转让系统挂牌公司向科创板、创业板转板上市办法(试行)及监管指引。与此同时，截至目前，精选层51股已披露2020年业绩报告，记者梳理发现，逾六成个股实现2020年营收、归母净利润同比正增长。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0262753.d.html</link>
-            <guid>2046666</guid>
-            <pubDate>Sun, 28 Feb 2021 15:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【栗战书主持十三届全国人大常委会第二十六次会议闭幕会并作讲话强调，以高度的政治责任感和使命感履职尽责，全力以赴开好十三届全国人大四次会议】 栗战书指出，会议初次审议了印花税法草案，要认真研究常委会组成人员的审议意见和各方面的意见建议，把草案进一步修改好。会议听取审议了国务院关于研究处理“一决定一法”执法检查报告及审议意见情况的报告，最高人民法院关于民事诉讼程序繁简分流改革试点情况的中期报告。安排听取审议这两个报告是对此前相关工作的跟踪问效。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9276678.d.html</link>
-            <guid>2046655</guid>
-            <pubDate>Sun, 28 Feb 2021 14:52:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
