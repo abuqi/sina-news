@@ -4,11 +4,96 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 28 Feb 2021 15:24:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2021 16:42:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：达能计划在2021年出售蒙牛股份。]]></title>
+            <guid>2046790</guid>
+            <pubDate>Sun, 28 Feb 2021 16:40:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比特币下跌7.4%，现报43384美元/枚。]]></title>
+            <guid>2046782</guid>
+            <pubDate>Sun, 28 Feb 2021 16:32:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士：伊朗此举可能让其与美国、欧洲的紧张局势再度升级。]]></title>
+            <guid>2046780</guid>
+            <pubDate>Sun, 28 Feb 2021 16:30:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士：伊朗方面要求首先撤销美国的制裁。]]></title>
+            <guid>2046775</guid>
+            <pubDate>Sun, 28 Feb 2021 16:30:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士：欧盟曾提议主持伊朗、美国及其他核协议参与国的会议。]]></title>
+            <guid>2046773</guid>
+            <pubDate>Sun, 28 Feb 2021 16:30:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士：伊朗拒绝美国方面进行直接核（协议）谈判的提议。]]></title>
+            <guid>2046772</guid>
+            <pubDate>Sun, 28 Feb 2021 16:29:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：英国表示，将发行全球首只主权绿色储蓄债券。该国政府计划面向散户投资者发行全球首支主权绿色债券，这是该国在2050年前实现净零碳经济目标的一部分。]]></title>
+            <guid>2046768</guid>
+            <pubDate>Sun, 28 Feb 2021 16:23:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[媒体消息：德国当局称，没有计划与法国的摩泽尔省之间进行边境控制。]]></title>
+            <guid>2046764</guid>
+            <pubDate>Sun, 28 Feb 2021 16:18:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国新增6035例新冠肺炎确诊病例，新增144例死亡病例。]]></title>
+            <guid>2046763</guid>
+            <pubDate>Sun, 28 Feb 2021 16:10:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【证券日报头版评论：转板规则备齐 新三板值得抱以更高期待】2月26日，新三板转板制度的相关重磅文件落地。沪深交易所分别发布新三板挂牌公司向科创板、创业板转板上市办法，对新三板转板上市条件、转板上市审核、限售安排衔接及交易机制衔接做出了具体规定。同时，全国股转公司也发布了挂牌公司转板上市监管指引。这一系列文件的发布实施意味着新三板转板制度的重要文件均已落地，新三板转板上市工作已驶入开往科创板和创业板的“高速路”。专业人士认为，转板机制的启动，更大的意义在于多层次资本市场体系的贯通。可以预期，由于这种连接和贯通，一个对于中小科技企业更友好的资本市场已然可见，值得投资人抱以更高的期待。]]></title>
+            <guid>2046762</guid>
+            <pubDate>Sun, 28 Feb 2021 16:06:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[保加利亚新增新冠肺炎确诊病例1079例，累计确诊246706例；新增死亡病例39例，累计死亡10167例。]]></title>
+            <guid>2046758</guid>
+            <pubDate>Sun, 28 Feb 2021 15:58:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利新增17455例新冠肺炎确诊病例，新增192例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9280317.d.html</link>
+            <guid>2046732</guid>
+            <pubDate>Sun, 28 Feb 2021 15:48:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[虚拟货币以太坊跌破1300美元/枚，日跌幅超10%，刷新一个月低位。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9280106.d.html</link>
+            <guid>2046730</guid>
+            <pubDate>Sun, 28 Feb 2021 15:45:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据媒体报道，卡塔尔埃米尔与沙特王储通电话。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9279969.d.html</link>
+            <guid>2046721</guid>
+            <pubDate>Sun, 28 Feb 2021 15:43:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加密货币短线走低，比特币跌至43415.2美元/枚，以太坊暂报1310.17美元/枚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9279640.d.html</link>
+            <guid>2046713</guid>
+            <pubDate>Sun, 28 Feb 2021 15:39:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【盈利变巨亏，逾5万股民踩雷！乳业股ST科迪业绩大变脸，股价比一袋牛奶还便宜】ST科迪2月28日晚间发布的业绩修正公告，让5万余户股东的心，瞬间凉透。最新的业绩快报显示，ST科迪2020年净利亏损11.04亿元，同比下降530.77%。而据此前业绩预告，ST科迪预计2020年盈利175.15万元至1751.48万元。面对巨亏公告，ST科迪的股吧里怨声载道。有股民表示，若不是当初扭亏的公告，不会买它。ST科迪的业绩变脸，和公司控股股东科迪集团的非经营性占用有关：公司控股股东非经营性占用公司资金余额为18.65亿元，占公司最近一个年度经审计净资产的118.26%。在网购平台上，科迪牛奶的市场价为1.98元/袋，公司股价比一袋牛奶还便宜。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9279167.d.html</link>
+            <guid>2046697</guid>
+            <pubDate>Sun, 28 Feb 2021 15:30:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[白宫新闻秘书珍·普萨基：与针对沙特王储本·萨勒曼实施制裁相比，美国还有更有效的方法，因为他是沙特领导人之一。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9278319.d.html</link>
@@ -152,90 +237,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9266028.d.html</link>
             <guid>2046439</guid>
             <pubDate>Sun, 28 Feb 2021 12:54:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  西太平洋银行(Westpac)外汇策略师Robert Rennie：一段时间以来，我们一直主张将澳元下跌视为买入机会——我们认为，当前的下跌正是这样一个机会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0249893.d.html</link>
-            <guid>2046433</guid>
-            <pubDate>Sun, 28 Feb 2021 12:49:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全球抛售国债，英媒：“债券义勇军”或将伏击决策者】①英媒称，美国政府债券抛售潮25日影响了市场，导致股价下跌，并令科技股遭遇去年10月以来最糟糕的一天。欧洲政府债券24日也遭遇抛售；②据英国《金融时报》网站2月25日报道，基准的10年期美国国债收益率上升0.23个百分点，一年来首次超过1.5%。被认为对货币政策变化更为敏感的5年期美国国债收益率上升0.21个百分点，至0.82%，为过去10年来第二大单日涨幅。（参考消息网 )]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9264456.d.html</link>
-            <guid>2046424</guid>
-            <pubDate>Sun, 28 Feb 2021 12:43:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【外媒：2020年中国对澳投资减少近2/3，连续4年呈下降趋势】澳大利亚国立大学当地时间2月28日发布的数据显示，2019年中国对澳大利亚的投资为20.5亿美元。然而2020年，投资额骤降至8亿美元。报道提到，中国对澳大利亚的投资已经连续4年呈下降趋势。2016年，中国对澳大利亚的投资为130亿美元。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9263084.d.html</link>
-            <guid>2046397</guid>
-            <pubDate>Sun, 28 Feb 2021 12:30:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【飞车要来了？吉利科技沃飞长空：2024年前后投放中国市场】“Volocopter飞车产品取得欧洲EASA适航证之后，再通过中欧双边适航协议就比较容易拿到中国适航证，所以在2024年前后，中国城市空中出行市场就会有飞车产品推出，我们对此很有信心。”近日，吉利科技集团新通航平台沃飞长空科技有限公司CEO靖超在接受澎湃新闻记者专访时作出如上表述。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0247588.d.html</link>
-            <guid>2046394</guid>
-            <pubDate>Sun, 28 Feb 2021 12:28:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【知名证券投资咨询机构大连华讯被查，董事长在内12名高管被逮捕】据深圳公安龙岗分局，近日，龙岗警方突击查处大连华讯投资股份有限公司，对147名嫌疑人以涉嫌诈骗和虚假广告罪采取刑事强制措施。华讯投资为新三板上市公司（833924）。公司先在多家网络平台投放“荐股名师”的广告，以免费领取“金股”的噱头吸引股民关注；随后由业务员将股民拉入荐股群反复“洗脑”，诱导其购买APP会员。据初步统计，大连华讯公司涉案金额高达27亿。2月初，公司曾公告：实际控制人李妮、周垂富于2021年1月8日收到龙岗分局出具的《拘留通知书》，李妮、周垂富因涉嫌诈骗罪被刑事拘留，对公司经营存在不利影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9262263.d.html</link>
-            <guid>2046387</guid>
-            <pubDate>Sun, 28 Feb 2021 12:20:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：俄罗斯军舰进入该国计划建立海军基地的苏丹港。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9261528.d.html</link>
-            <guid>2046378</guid>
-            <pubDate>Sun, 28 Feb 2021 12:12:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：在2020年创纪录地回购250亿美元之后，2021年巴菲特将回购更多的伯克希尔股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0245306.d.html</link>
-            <guid>2046373</guid>
-            <pubDate>Sun, 28 Feb 2021 12:03:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中海油：纽约证交所将于二零二一年三月九日上午四时整（东部标准时间）暂停美国存托股份的买卖。纽约证交所将向美国证券交易委员会提出申请，于完成包括对纽约证交所监管部门的决定提出之任何申诉（如有）在内的所有适用程序后将美国存托股份下市。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9259545.d.html</link>
-            <guid>2046370</guid>
-            <pubDate>Sun, 28 Feb 2021 11:51:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国有赞：已申请有赞科技股份以介绍方式在联交所主板上市。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0243508.d.html</link>
-            <guid>2046366</guid>
-            <pubDate>Sun, 28 Feb 2021 11:44:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Kitco调查：华尔街继续看空黄金】13位市场专业人士参加了本周的Kitco News调查。其中8位分析师(占61.5%)表示，他们下周看跌黄金。另有3名分析师(23%)表示看好下周黄金的走势。主体街方面，共有669名受访者参加了一项在线民意调查。共有351名受访者(52.5%)预计金价将上涨。另有223名受访者(33.3%)预测金价将下跌。而剩下的95名受访者(占14.2%)则认为市场将呈横向盘整走势。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0241891.d.html</link>
-            <guid>2046365</guid>
-            <pubDate>Sun, 28 Feb 2021 11:31:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【英媒：昂山素季领导政党要建“临时政府”，与军政府抗衡】据英国《金融时报》2月27日报道，缅甸国务资政昂山素季领导的缅甸全国民主联盟计划组建一个“临时政府”，与该国的军政府抗衡。目前，他们正在寻求美国、英国和联合国对这一新机构的正式承认。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0241449.d.html</link>
-            <guid>2046364</guid>
-            <pubDate>Sun, 28 Feb 2021 11:28:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本解除6府县紧急状态】 日本政府正式解除除首都圈之外6个府县的紧急事态宣言，包括东京都在内的首都圈1都3县仍维持紧急状态。但就在本周末，东京都等首都圈内主要地点人流与此前4周的平均值相比明显增加。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9255617.d.html</link>
-            <guid>2046363</guid>
-            <pubDate>Sun, 28 Feb 2021 11:22:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【苏宁易购谈“引战”：赋能物流、免税等领域 推动必要政策支持】苏宁易购公告，公司宣布引入国有战略投资者深国际和鲲鹏资本，股份转让完成后将与其他相关方共同围绕商品供应链、电商、科技、物流、免税业务等领域，对公司进行综合赋能；推动相关方为公司及其业务发展提供必要的政策、税收、金融等方面的支持。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftpnnz0240027.d.html</link>
-            <guid>2046362</guid>
-            <pubDate>Sun, 28 Feb 2021 11:20:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【调查：多数分析师看跌下周金价走势】13位市场专业人士参加了本周的华尔街调查；其中8位分析师(占61.5%)表示，他们下周看跌黄金；另有3名分析师(23%)表示看好下周黄金的走势；最后2位分析师(15.5%)表示，他们对黄金持中性态度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-28/detail-ikftssap9254696.d.html</link>
-            <guid>2046361</guid>
-            <pubDate>Sun, 28 Feb 2021 11:16:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
