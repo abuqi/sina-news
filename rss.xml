@@ -4,285 +4,250 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Tue, 02 Mar 2021 14:25:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Mar 2021 15:26:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[中基协澄清：并未参与“天天向上”的组织和录制。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0752123.d.html</link>
-            <guid>2050568</guid>
-            <pubDate>Tue, 02 Mar 2021 14:25:04 GMT</pubDate>
+            <title><![CDATA[加拿大鹅股价上涨4.5%，该公司与NBA达成多年期合作伙伴关系。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0776341.d.html</link>
+            <guid>2050638</guid>
+            <pubDate>Tue, 02 Mar 2021 15:18:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  市场消息：受访的30名分析师和交易员中，所有人均表示原油产量将有上升，有19位预计本周的欧佩克会议将恢复150万桶/日的原油产量，或接近这一数字。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0751741.d.html</link>
-            <guid>2050567</guid>
-            <pubDate>Tue, 02 Mar 2021 14:24:13 GMT</pubDate>
+            <title><![CDATA[阿联酋阿布扎比国家石油公司CEO：公司致力于石油和天然气，但正在探索包括蓝氢在内的可再生燃料。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0776097.d.html</link>
+            <guid>2050636</guid>
+            <pubDate>Tue, 02 Mar 2021 15:17:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美股三大股指期货悉数转涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0751634.d.html</link>
-            <guid>2050566</guid>
-            <pubDate>Tue, 02 Mar 2021 14:24:00 GMT</pubDate>
+            <title><![CDATA[苏格兰官员：苏格兰计划于5月6日举行选举。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0775990.d.html</link>
+            <guid>2050635</guid>
+            <pubDate>Tue, 02 Mar 2021 15:17:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国苏格兰第一部长：苏格兰将考虑加速退出封锁状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0751281.d.html</link>
-            <guid>2050565</guid>
-            <pubDate>Tue, 02 Mar 2021 14:23:22 GMT</pubDate>
+            <title><![CDATA[英国富时100指数涨1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9791220.d.html</link>
+            <guid>2050634</guid>
+            <pubDate>Tue, 02 Mar 2021 15:15:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  Uber盘前涨超2%，公司分拆机器人配送部门，入股新创业公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9766719.d.html</link>
-            <guid>2050564</guid>
-            <pubDate>Tue, 02 Mar 2021 14:22:23 GMT</pubDate>
+            <title><![CDATA[阿联酋阿布扎比国家石油公司CEO：未来几十年，世界仍将需要石油和天然气。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9790963.d.html</link>
+            <guid>2050633</guid>
+            <pubDate>Tue, 02 Mar 2021 15:15:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  IMF总裁格奥尔基耶娃：上周五在20国集团会议上，国际货币基金组织批准了一项新的特别提款权（SDR）分配方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9766524.d.html</link>
-            <guid>2050563</guid>
-            <pubDate>Tue, 02 Mar 2021 14:21:57 GMT</pubDate>
+            <title><![CDATA[阿联酋阿布扎比国家石油公司CEO：阿联酋已经为能源转型做好了准备。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9790920.d.html</link>
+            <guid>2050632</guid>
+            <pubDate>Tue, 02 Mar 2021 15:15:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【南航三大总部落户广州白云 力推白云临空产业发展】记者2日从广州市白云区政府获悉，继注册资本60亿元的中国南航集团资本控股有限公司、注册资本10亿元的中国南方航空货运有限公司相继落户该区后，另一家中国南方航空集团有限公司总部企业——南方航空货运物流(广州)有限公司也已于近日筑巢白云，为该区发展航旅新业态、航空产业融合等方面注入动力。（中国新闻网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9765248.d.html</link>
-            <guid>2050561</guid>
-            <pubDate>Tue, 02 Mar 2021 14:19:33 GMT</pubDate>
+            <title><![CDATA[消息人士：美国得克萨斯州亚瑟港炼油厂第二大炼油单位以80%的产能运营。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9790272.d.html</link>
+            <guid>2050629</guid>
+            <pubDate>Tue, 02 Mar 2021 15:13:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  据日经新闻援引消息人士报道，因新冠肺炎确诊病例的下降速度放缓，东京方面正考虑寻求将紧急状态延长约两周，目前的紧急状态将于本周末到期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0749154.d.html</link>
-            <guid>2050560</guid>
-            <pubDate>Tue, 02 Mar 2021 14:19:23 GMT</pubDate>
+            <title><![CDATA[WTI原油期货短线回升近0.5美元，报60.83美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0773785.d.html</link>
+            <guid>2050627</guid>
+            <pubDate>Tue, 02 Mar 2021 15:12:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  丰田汽车(TM.N)：2月美国汽车销量同比下降5.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0747015.d.html</link>
-            <guid>2050559</guid>
-            <pubDate>Tue, 02 Mar 2021 14:15:04 GMT</pubDate>
+            <title><![CDATA[塔吉特(TGT.N)：计划在未来几年每年投资40亿美元，开设更多门店，升级现有门店，并建立供应链。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9789374.d.html</link>
+            <guid>2050626</guid>
+            <pubDate>Tue, 02 Mar 2021 15:11:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  欧佩克主席阿泽维多：油价相对稳定，供需之间有一定的平衡。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0746597.d.html</link>
-            <guid>2050557</guid>
-            <pubDate>Tue, 02 Mar 2021 14:14:06 GMT</pubDate>
+            <title><![CDATA[【波罗的海干散货运价指数结束连续四个交易日的跌势】受益于海岬型船价和巴拿马型船价的走高，波罗的海干散货运价指数结束连续四个交易日的跌势，周二上涨22点，涨幅1.3%，报1673点。海岬型船运价指数上涨57点或4%，至1465点，结束了连续8个交易日的跌势，海岬型船日均获利上涨473美元，至12152美元。巴拿马型船运价指数上涨14点或0.7%，至2100点。巴拿马型船日均获利上涨124美元，至18899美元。超灵便型船运价指数维持在1879点不变。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9789205.d.html</link>
+            <guid>2050625</guid>
+            <pubDate>Tue, 02 Mar 2021 15:11:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【日本最大IT企业诞生：日本雅虎与LINE完成合并】 据日本广播协会3月2日报道，软银集团旗下的雅虎日本母公司Z控股和Line公司自3月1日起正式实施经营合并，日本最大IT企业由此诞生。据悉，新公司拥有约2.3万名员工，用户总数约为1亿，搜索与社交媒体服务均为日本国内最大规模，同时公司还提供广告、电商、金融等依托于网络的服务。新公司计划到2023年财年实现销售额2万亿日元、约合人民币1200亿元的目标。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9762285.d.html</link>
-            <guid>2050556</guid>
-            <pubDate>Tue, 02 Mar 2021 14:13:36 GMT</pubDate>
+            <title><![CDATA[市场消息：空白支票公司Iron Spark I申请美国IPO，筹资1.75亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9788867.d.html</link>
+            <guid>2050624</guid>
+            <pubDate>Tue, 02 Mar 2021 15:10:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  fuboTV(FUBO.N)盘前涨超8%，盘后将公布最新季度财报。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0743619.d.html</link>
-            <guid>2050555</guid>
-            <pubDate>Tue, 02 Mar 2021 14:08:17 GMT</pubDate>
+            <title><![CDATA[SEA(SE.N)涨超6%，公司第四季度营收不及预期但同比增长101%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0773077.d.html</link>
+            <guid>2050623</guid>
+            <pubDate>Tue, 02 Mar 2021 15:10:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【猪价上涨 现在谈产能供给过剩或为时太早】据新牧网统计，3月2日新牧猪价指数129.77，较昨日升高1.93个点。今日全国生猪均价为14.53元/斤，较昨日上调0.22元/斤。较上周同期上涨0.93元/斤，涨幅6.4%。目前，全国猪价呈现大部上涨趋势。由于前期养殖户恐慌抛售致存栏量明显下降，加上部分地区出栏价一度跌至13元/斤左右，另一方面市场供不应求，致使近期生猪出栏价小幅拉升。相关概念股主要有天康生物、海大集团、牧原股份等。（中证资讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9759261.d.html</link>
-            <guid>2050554</guid>
-            <pubDate>Tue, 02 Mar 2021 14:07:31 GMT</pubDate>
+            <title><![CDATA[塔吉特(TGT.N)：计划在假日季前完成大约150家商店的改建，并计划从2022年开始每年改建超过200家商店。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0772987.d.html</link>
+            <guid>2050622</guid>
+            <pubDate>Tue, 02 Mar 2021 15:10:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  伦敦金属交易所（LME）三个月期铝上涨超过3%，报2195美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9758338.d.html</link>
-            <guid>2050553</guid>
-            <pubDate>Tue, 02 Mar 2021 14:05:42 GMT</pubDate>
+            <title><![CDATA[美股早盘，恐惧与贪婪指数读数为64，表明市场处在贪婪状态。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9788077.d.html</link>
+            <guid>2050619</guid>
+            <pubDate>Tue, 02 Mar 2021 15:09:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[墨西哥总统洛佩斯：已向美国总统拜登发出访问墨西哥的邀请。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9758137.d.html</link>
-            <guid>2050552</guid>
-            <pubDate>Tue, 02 Mar 2021 14:05:21 GMT</pubDate>
+            <title><![CDATA[【机构：成本上涨叠加需求强劲，推动电阻业巨头继续上调价格】分析人士认为，电阻涨价主要由于原材料如陶瓷基板等成本上涨以及下游需求强劲。MLCC电容方面，车用、5G手机等应用需求强劲，汽车和消费类两大市场供给均呈现紧张态势。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0770803.d.html</link>
+            <guid>2050618</guid>
+            <pubDate>Tue, 02 Mar 2021 15:05:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  市场消息：Uber(UBER.N)分拆机器人配送部门，入股新创业公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0741848.d.html</link>
-            <guid>2050551</guid>
-            <pubDate>Tue, 02 Mar 2021 14:04:31 GMT</pubDate>
+            <title><![CDATA[美国财政部声明：美国对也门胡塞武装的两名关键军事领导人实施制裁。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9785341.d.html</link>
+            <guid>2050617</guid>
+            <pubDate>Tue, 02 Mar 2021 15:03:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  布伦特原油期货主力涨破64.00美元/桶关口，最新报64.02美元/桶，日图涨0.52%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9757448.d.html</link>
-            <guid>2050550</guid>
-            <pubDate>Tue, 02 Mar 2021 14:03:56 GMT</pubDate>
+            <title><![CDATA[国内商品期货夜盘收盘，螺纹涨4.33%，热卷涨3.73%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0769256.d.html</link>
+            <guid>2050616</guid>
+            <pubDate>Tue, 02 Mar 2021 15:02:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  推特(TWTR.N)：预计将从发行债券中获得了12.4亿美元的净收益。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9757058.d.html</link>
-            <guid>2050548</guid>
-            <pubDate>Tue, 02 Mar 2021 14:03:07 GMT</pubDate>
+            <title><![CDATA[沙特阿美石油公司CEO：预计全球石油需求将从2021年下半年开始复苏，到2022年将达到9900万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0768857.d.html</link>
+            <guid>2050615</guid>
+            <pubDate>Tue, 02 Mar 2021 15:01:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【百度智能汽车“集度”入场 计划三年实现量产】在宣布以整车制造商身份进军汽车行业50天后，百度的造车公司在3月2日完成注册，名称为“集度汽车有限公司”。一位百度方面人士对记者透露，吉利与百度的合作模式，是从一开始想到了传统合资公司存在的问题而设计出来的。按照计划，集度汽车需要三年左右的时间实现量产。百度称这是基本的时间线，产品时间表会随着相关进展逐步披露。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0740782.d.html</link>
-            <guid>2050547</guid>
-            <pubDate>Tue, 02 Mar 2021 14:02:32 GMT</pubDate>
+            <title><![CDATA[道琼斯工业平均指数涨破31600.00关口，最新报31600.78。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0768428.d.html</link>
+            <guid>2050614</guid>
+            <pubDate>Tue, 02 Mar 2021 15:00:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  欧洲央行：上周紧急抗疫购债计划（PEPP）项目下的赎回额达到49亿欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9756454.d.html</link>
-            <guid>2050545</guid>
-            <pubDate>Tue, 02 Mar 2021 14:01:51 GMT</pubDate>
+            <title><![CDATA[  美股工业大麻板块拉升，Tilray(TLRY.O)涨超13%，Aphria(APHA.O)涨超12%，Sundial Grower(SNDL.O)涨超11%，极光大麻(ACB.N)涨超8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0767220.d.html</link>
+            <guid>2050613</guid>
+            <pubDate>Tue, 02 Mar 2021 14:57:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美国政府高级官员：无法预测美国未来可能对俄罗斯实施的制裁，包括可能的主权债务限制。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9755957.d.html</link>
-            <guid>2050544</guid>
-            <pubDate>Tue, 02 Mar 2021 14:00:52 GMT</pubDate>
+            <title><![CDATA[  塔吉特(TGT.N)：计划每年在市中心、大学校园和人口稠密的郊区开设30-40家新店。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9781882.d.html</link>
+            <guid>2050611</guid>
+            <pubDate>Tue, 02 Mar 2021 14:55:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美国政府高级官员：美国将制裁一些被纳瓦尔尼支持者确认身份的人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0739281.d.html</link>
-            <guid>2050543</guid>
-            <pubDate>Tue, 02 Mar 2021 13:59:27 GMT</pubDate>
+            <title><![CDATA[  智利国家铜业委员会：COLLAHUASI矿山铜产量将在1月份升至57000吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0765106.d.html</link>
+            <guid>2050610</guid>
+            <pubDate>Tue, 02 Mar 2021 14:53:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  逸仙电商(YSG.N)盘前涨超10%，逸仙电商此前宣布将收购护肤品牌Eve Lom。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0739166.d.html</link>
-            <guid>2050542</guid>
-            <pubDate>Tue, 02 Mar 2021 13:59:13 GMT</pubDate>
+            <title><![CDATA[智利国家铜业委员会（Cochilco）：1月Escondida铜产出下滑。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0764605.d.html</link>
+            <guid>2050609</guid>
+            <pubDate>Tue, 02 Mar 2021 14:51:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美国政府高级官员：被制裁人所有在美国管辖范围内的财产都被禁止，禁止他们与美国人进行交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9755018.d.html</link>
-            <guid>2050541</guid>
-            <pubDate>Tue, 02 Mar 2021 13:58:58 GMT</pubDate>
+            <title><![CDATA[  塔吉特(TGT.N)正在测试新的分拣中心，以加快线上订单增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9780175.d.html</link>
+            <guid>2050608</guid>
+            <pubDate>Tue, 02 Mar 2021 14:51:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美国政府高级官员：美国将在限制名单上增加14个对象，其中9个在俄罗斯。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9754721.d.html</link>
-            <guid>2050540</guid>
-            <pubDate>Tue, 02 Mar 2021 13:58:20 GMT</pubDate>
+            <title><![CDATA[  美、布两油期货持续下挫，短线跌0.25美元，分别报60.24美元/桶、63.31美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9780094.d.html</link>
+            <guid>2050607</guid>
+            <pubDate>Tue, 02 Mar 2021 14:51:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美国政府高级官员：美国希望与俄罗斯保持可预测且稳定的关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0738494.d.html</link>
-            <guid>2050539</guid>
-            <pubDate>Tue, 02 Mar 2021 13:57:46 GMT</pubDate>
+            <title><![CDATA[  据港交所文件：绿色生态人居服务商雅居乐雅城集团有限公司向港交所递交上市申请。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9779613.d.html</link>
+            <guid>2050606</guid>
+            <pubDate>Tue, 02 Mar 2021 14:50:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美国政府高级官员：欧盟也在今天采取行动，美国与他们密切协调。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9754407.d.html</link>
-            <guid>2050538</guid>
-            <pubDate>Tue, 02 Mar 2021 13:57:40 GMT</pubDate>
+            <title><![CDATA[  小鹏汽车(XPEV.N)盘中跌幅进一步扩大，现跌超7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0763468.d.html</link>
+            <guid>2050605</guid>
+            <pubDate>Tue, 02 Mar 2021 14:49:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美国政府高级官员：美国今天的行动包括制裁和签证限制。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0738315.d.html</link>
-            <guid>2050537</guid>
-            <pubDate>Tue, 02 Mar 2021 13:57:23 GMT</pubDate>
+            <title><![CDATA[  【中华文化促进会被罚停止活动3个月】民政部发布公告，经查，中华文化促进会分支机构朗读专业委员会与非法社会组织“全民悦读全国阅读会联盟”共同举办“全民悦读朗读大会暨青少年朗读课文大会”，期间违规开展评比表彰活动并收取费用，违法所得53万元。同时，中华文化促进会向其下设的19家分支机构违规收取管理费，违法所得182万元。根据相关规定，民政部对中华文化促进会作出停止活动3个月并处没收违法所得235万元的行政处罚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0762239.d.html</link>
+            <guid>2050603</guid>
+            <pubDate>Tue, 02 Mar 2021 14:46:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美国政府高级官员：美国得出结论，俄罗斯特工去年使用神经毒剂毒害了纳瓦尔尼。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0738044.d.html</link>
-            <guid>2050536</guid>
-            <pubDate>Tue, 02 Mar 2021 13:56:54 GMT</pubDate>
+            <title><![CDATA[  摩根大通：将蔚来汽车(NIO.N)目标价格从75美元下调至70美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9777514.d.html</link>
+            <guid>2050602</guid>
+            <pubDate>Tue, 02 Mar 2021 14:45:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【加拿大第四季度GDP增长9.6% 今年第一季表现料超预期】即使推出了新一轮防疫限制措施，但加拿大经济在去年年底仍表现出惊人的强劲。加拿大统计局周二发布的初步数据显示，第四季度国内生产总值(GDP)折合成年率增长9.6％，远远高于彭博调查的经济学家7.3％的预期中值。该机构预期1月GDP有望增长0.5％，而经济学家的预期为经济萎缩，该报告将缓解市场对第二轮封锁造成的经济影响的担忧。2020年全年加拿大GDP下降5.4％，与预期一致，但创下1961年以来的最大年降幅。]]></title>
-            <guid>2050535</guid>
-            <pubDate>Tue, 02 Mar 2021 13:56:48 GMT</pubDate>
+            <title><![CDATA[  沙特阿美石油公司CEO：石油市场正在改善，亚洲需求强劲。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9776995.d.html</link>
+            <guid>2050600</guid>
+            <pubDate>Tue, 02 Mar 2021 14:44:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  玻璃期货涨超3%，续创历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9753883.d.html</link>
-            <guid>2050534</guid>
-            <pubDate>Tue, 02 Mar 2021 13:56:32 GMT</pubDate>
+            <title><![CDATA[  跟谁学(GSX.N)盘中直线下挫，现涨幅缩窄至4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0761055.d.html</link>
+            <guid>2050599</guid>
+            <pubDate>Tue, 02 Mar 2021 14:44:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美国政府高级官员：预计美国与俄罗斯的关系将成为一种挑战，具有敌对因素。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9753828.d.html</link>
-            <guid>2050533</guid>
-            <pubDate>Tue, 02 Mar 2021 13:56:25 GMT</pubDate>
+            <title><![CDATA[  现货黄金短线走低近7美元，现报1722.17美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9776880.d.html</link>
+            <guid>2050598</guid>
+            <pubDate>Tue, 02 Mar 2021 14:44:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国至2月27日当周红皮书商业零售销售年率公布 4.6%，前值 2.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9753399.d.html</link>
-            <guid>2050532</guid>
-            <pubDate>Tue, 02 Mar 2021 13:55:31 GMT</pubDate>
+            <title><![CDATA[  WTI原油期货短线下挫0.3美元，报60.59美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0760939.d.html</link>
+            <guid>2050597</guid>
+            <pubDate>Tue, 02 Mar 2021 14:43:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国至2月27日当周红皮书商业零售销售月率公布 -0.3%，前值 -0.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0737298.d.html</link>
-            <guid>2050531</guid>
-            <pubDate>Tue, 02 Mar 2021 13:55:17 GMT</pubDate>
+            <title><![CDATA[2020年是美国历史上死亡人数最多的一年，首次超过了300万。该国2020年上半年预期寿命为77.8岁，最新数据表明，随着上半年美国预期寿命的下降，全年平均情况将会恶化，下降幅度为二战以来最大。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9776423.d.html</link>
+            <guid>2050596</guid>
+            <pubDate>Tue, 02 Mar 2021 14:43:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  俄罗斯议员表示，俄罗斯将对欧盟的制裁做出回应，这是典型的“证据”操纵。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9751583.d.html</link>
-            <guid>2050530</guid>
-            <pubDate>Tue, 02 Mar 2021 13:51:35 GMT</pubDate>
+            <title><![CDATA[  当地时间3月2日，拜登政府宣布就俄罗斯反对派人士纳瓦利内中毒案对7名俄罗斯高级官员及15家企业实施制裁。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0760486.d.html</link>
+            <guid>2050595</guid>
+            <pubDate>Tue, 02 Mar 2021 14:42:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  加拿大统计局：加拿大2020年全年GDP萎缩5.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0734678.d.html</link>
-            <guid>2050529</guid>
-            <pubDate>Tue, 02 Mar 2021 13:49:44 GMT</pubDate>
+            <title><![CDATA[  道指盘中转跌，纳指跌幅扩大至近0.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0760002.d.html</link>
+            <guid>2050594</guid>
+            <pubDate>Tue, 02 Mar 2021 14:41:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【行业供需紧张 被动元件涨价潮持续】去年下半年以来，一些被动元件厂商陆续发布涨价函，截至目前涨价潮仍在持续，一些主流型号的电容已经提价近30%。记者了解到，目前被动元件的涨价潮依然由日韩以及中国台湾地区的部分企业主导，但随着行业供需关系持续紧张，国内厂商或将也有提价计划。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9750371.d.html</link>
-            <guid>2050528</guid>
-            <pubDate>Tue, 02 Mar 2021 13:49:09 GMT</pubDate>
+            <title><![CDATA[  美国气候特使John Kerry：得克萨斯州的停电反映出国家电网建设的需要。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9775650.d.html</link>
+            <guid>2050593</guid>
+            <pubDate>Tue, 02 Mar 2021 14:41:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  欧洲央行执委帕内塔：考虑到我们离充分发挥能力还有多远，以及当前的通胀水平和预期相比任然较低，较低的实际收益率将提供受欢迎的额外刺激。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9749466.d.html</link>
-            <guid>2050527</guid>
-            <pubDate>Tue, 02 Mar 2021 13:47:14 GMT</pubDate>
+            <title><![CDATA[  哔哩哔哩：根据股东协议，我们承诺为获得土地使用权提供不超过人民币12亿元的资金，其中人民币4.87亿元已经支付，剩余部分预计将于2021年3月31日前支付。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9775589.d.html</link>
+            <guid>2050592</guid>
+            <pubDate>Tue, 02 Mar 2021 14:41:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【虹桥国际开放枢纽建设动员大会：进一步做强国际会展、高端服务等特色功能】3月2日上午，推动长三角一体化发展领导小组办公室以视频方式召开虹桥国际开放枢纽建设动员大会。会议要求，要找准定位，准确把握虹桥国际开放枢纽在长三角一体化发展中的定位使命，加强与长三角生态绿色一体化发展示范区、上海自由贸易试验区临港新片区的功能互补、政策互鉴、发展互通。三要发挥“一核两带”各自优势，进一步做强国际会展、高端服务、总部经济等特色功能，提高配置全球要素资源的能力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0733359.d.html</link>
-            <guid>2050526</guid>
-            <pubDate>Tue, 02 Mar 2021 13:47:10 GMT</pubDate>
+            <title><![CDATA[  百度(BIDU.O)涨超2%，传百度最快本周寻求通过港交所聆讯。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0759660.d.html</link>
+            <guid>2050591</guid>
+            <pubDate>Tue, 02 Mar 2021 14:41:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  尼尔森(NLSN.N)盘前涨超6%，ROKU(ROKU.O)将收购尼尔森的高级视频广告业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9749140.d.html</link>
-            <guid>2050525</guid>
-            <pubDate>Tue, 02 Mar 2021 13:46:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲央行执委帕内塔：近期增长前景也在向下倾斜。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9749019.d.html</link>
-            <guid>2050524</guid>
-            <pubDate>Tue, 02 Mar 2021 13:46:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲央行执委帕内塔：我们应该毫不犹豫地增加购买规模，并花光全部的紧急抗疫购债计划（PEPP）资金，如果需要的话，甚至更多。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0732731.d.html</link>
-            <guid>2050523</guid>
-            <pubDate>Tue, 02 Mar 2021 13:45:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行执委帕内塔：必须抵制更陡峭的名义收益率曲线。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0732682.d.html</link>
-            <guid>2050522</guid>
-            <pubDate>Tue, 02 Mar 2021 13:45:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲央行执委帕内塔：通胀上升是暂时的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9748403.d.html</link>
-            <guid>2050521</guid>
-            <pubDate>Tue, 02 Mar 2021 13:44:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲央行执委帕内塔：我们必须证明，不合理的紧缩政策是不能容忍的，从而建立我们战略的可信度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftpnnz0732282.d.html</link>
-            <guid>2050520</guid>
-            <pubDate>Tue, 02 Mar 2021 13:44:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲央行执委帕内塔：在较长一段时间内保持有利的融资条件的承诺向各国政府发出了一个明确的信号，即不要相对于危机的规模减少支出，也不要因为担心借钱而过早退出财政刺激计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9748248.d.html</link>
-            <guid>2050519</guid>
-            <pubDate>Tue, 02 Mar 2021 13:44:35 GMT</pubDate>
+            <title><![CDATA[  美国气候特使John Kerry：美国各州需要摆脱“沙文主义”，以加快智能能源电网的发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-02/detail-ikftssap9775322.d.html</link>
+            <guid>2050590</guid>
+            <pubDate>Tue, 02 Mar 2021 14:40:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
