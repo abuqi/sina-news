@@ -4,11 +4,46 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Fri, 05 Mar 2021 21:22:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Mar 2021 22:27:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【美国新冠肺炎确诊病例累计超2887万例】根据美国霍普金斯大学公布的数据，截至美东时间5日下午4时25分，美国全国新冠肺炎感染人数达到28873800人，死亡人数达到522221人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5302883.d.html</link>
+            <guid>2057357</guid>
+            <pubDate>Fri, 05 Mar 2021 22:03:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  纽约州新增5034例新冠肺炎确诊病例，新增91例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8456608.d.html</link>
+            <guid>2057356</guid>
+            <pubDate>Fri, 05 Mar 2021 21:53:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国联邦航空管理局表示，将调查此前因故障宣布紧急状态的波音737 MAX飞机。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8456534.d.html</link>
+            <guid>2057355</guid>
+            <pubDate>Fri, 05 Mar 2021 21:53:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国航空公司一架波音737 MAX客机在安全降落在纽瓦克前宣布进入紧急状态，此前机长因可能的机械故障关闭了一个引擎。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5295790.d.html</link>
+            <guid>2057354</guid>
+            <pubDate>Fri, 05 Mar 2021 21:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据AXIOS网站：美国食品药品监督管理局（FDA）批准了非处方新冠病毒检测的紧急使用授权（EUA）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5294901.d.html</link>
+            <guid>2057352</guid>
+            <pubDate>Fri, 05 Mar 2021 21:31:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  标普500指数11大板块均收涨，能源板块领涨，其次是工业板块；6大板块涨幅超过2%；非日常生活消费品板块涨幅最小，其次是房地产板块。]]></title>
+            <guid>2057351</guid>
+            <pubDate>Fri, 05 Mar 2021 21:25:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美国证交会表示其高管们向分析师披露了非公开信息。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5292126.d.html</link>
@@ -240,47 +275,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5270235.d.html</link>
             <guid>2057309</guid>
             <pubDate>Fri, 05 Mar 2021 19:57:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  VIX波动率日内跌幅达12.5%，报24.99。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5270193.d.html</link>
-            <guid>2057308</guid>
-            <pubDate>Fri, 05 Mar 2021 19:57:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股走高，道指涨幅扩大至500点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5270031.d.html</link>
-            <guid>2057307</guid>
-            <pubDate>Fri, 05 Mar 2021 19:56:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【消息人士：美股经纪商Robinhood将选择在纳斯达克上市】据CNBC报道，消息人士称美股经纪商Robinhood最终将选择在纳斯达克上市，该公司目前尚未正式提交上市申请，目前尚不清楚Robinhood是选择了直接上市还是传统的IPO。对此，纳斯达克和Robinhood均拒绝置评。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8425507.d.html</link>
-            <guid>2057306</guid>
-            <pubDate>Fri, 05 Mar 2021 19:54:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股半导体板块走高，恩智浦半导体(NXPI.O)涨7.48%，美光科技(MU.O)涨5.1%，凌云半导体涨4.64%，英特尔(INTC.O)涨4.32%，台积电(TSM.N)涨3.85%，思佳讯涨3.27%。]]></title>
-            <guid>2057305</guid>
-            <pubDate>Fri, 05 Mar 2021 19:51:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国财政科学研究院院长刘尚希：摸索建立基于数字经济的新税制】全国政协委员、中国财政科学研究院院长刘尚希表示，随着经济的稳步恢复，政策对冲力度需相应下调，不过积极财政政策依然维持相当力度，且向小微企业、个体工商户等倾斜。随着数字经济的发展壮大，税收与税源背离问题加剧，各国都在探讨数字税的问题，我国也需要摸索基于数字化的新税制。（21世纪经济报道）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8422259.d.html</link>
-            <guid>2057303</guid>
-            <pubDate>Fri, 05 Mar 2021 19:42:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  WTI 4月原油期货收涨2.26美元，涨幅3.54%，报66.09美元/桶，连续两天受益于OPEC+决定维持产油政策不变。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8419823.d.html</link>
-            <guid>2057302</guid>
-            <pubDate>Fri, 05 Mar 2021 19:33:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  比特币站上49000美元/枚，刷新日高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8418662.d.html</link>
-            <guid>2057301</guid>
-            <pubDate>Fri, 05 Mar 2021 19:29:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
