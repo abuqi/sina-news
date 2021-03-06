@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 06 Mar 2021 21:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Mar 2021 22:26:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【代表委员热议创业板改革：制度红利持续释放】作为资本市场改革的里程碑，2020年注册制在创业板全面落地。在今年的全国两会上，多位来自创业板上市公司、亲历了这一重大改革的代表委员表示，创业板改革的制度红利正持续释放，更加有力地助推创新创业，惠及更多实体企业。（经济参考报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-07/detail-ikkntiak5669109.d.html</link>
+            <guid>2058249</guid>
+            <pubDate>Sat, 06 Mar 2021 22:02:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【代表建议加大网约货运行业乱象整治力度】近日，网约货运行业安全问题引发舆论热议。在今年两会上，全国人大代表、山西省市场监督管理局副局长李志强对这一问题十分关注。他对记者表示，网约货运直接打通了用户端与司机端的联系对接，减少了中间环节，受到了用户的追捧。但近来，网约货运行业乱象频生，饱受广大从业者和消费者诟病。从某种意义上讲，当前的网约货运行业正在重蹈网约客运行业的覆辙。因此，亟待重构网络货运平台经营模式，使得各方利益得到平衡，促使这一行业回归正轨。（工人日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-07/detail-ikkntiak5667585.d.html</link>
+            <guid>2058248</guid>
+            <pubDate>Sat, 06 Mar 2021 21:53:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【“十四五”节能环保产业，迎来重大历史发展机遇】我国提出二氧化碳排放力争于2030年前达到峰值，努力争取2060年前实现碳中和的目标。“从节能环保产业来看，‘3060目标’将有力传导至每个具体领域，倒逼全社会加快调整优化产业结构、能源结构，掀起一场绿色革命。”全国政协委员、中国节能环保集团有限公司党委书记、董事长宋鑫认为，节能环保产业作为绿色发展的重要支撑力量，在此过程中将更有用武之地，迎来重大历史发展机遇。总体来说，“十四五”时期，节能环保产业仍然处于重要战略机遇期。（经济参考报）]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-07/detail-ikkntiak5660499.d.html</link>
@@ -218,18 +230,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-07/detail-ikknscsh8779436.d.html</link>
             <guid>2058199</guid>
             <pubDate>Sat, 06 Mar 2021 17:14:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  法国新增170例新冠肺炎死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-07/detail-ikknscsh8778096.d.html</link>
-            <guid>2058198</guid>
-            <pubDate>Sat, 06 Mar 2021 17:08:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  法国新增23306例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-07/detail-ikkntiak5622132.d.html</link>
-            <guid>2058197</guid>
-            <pubDate>Sat, 06 Mar 2021 17:07:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
