@@ -4,11 +4,53 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 06 Mar 2021 19:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Mar 2021 20:26:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  Kitco Metals全球交易主管Peter Hug：下周，金价可能会在1685美元上方徘徊，或许可以守住这一水平。斐波那契指标显示，金价正处于关键技术点，从技术角度来看，预计金价将反弹，下周可能收于1700美元水平。1725美元是下一个阻力位，再往上则是1750美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-07/detail-ikkntiak5654009.d.html</link>
+            <guid>2058235</guid>
+            <pubDate>Sat, 06 Mar 2021 20:23:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  南非新冠肺炎累计确诊病例增至1520206例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-07/detail-ikknscsh8805312.d.html</link>
+            <guid>2058231</guid>
+            <pubDate>Sat, 06 Mar 2021 19:43:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  南非新增81例新冠肺炎死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-07/detail-ikkntiak5649205.d.html</link>
+            <guid>2058230</guid>
+            <pubDate>Sat, 06 Mar 2021 19:42:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【调整行情21股逆市创新高，6股获北向资金青睐】统计显示，不含近一年上市的次新股，共有21股本周股价创出历史新高，按所属板块看，主板有7只，中小板有6只，创业板有7只，科创板有1只。从行业属性来看，机械设备、电子、银行行业创新高的个股较为集中，分别有5只、3只、2只个股出现名单中。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-07/detail-ikknscsh8804673.d.html</link>
+            <guid>2058229</guid>
+            <pubDate>Sat, 06 Mar 2021 19:39:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登：刺激计划预计将创造600万个新就业机会。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-07/detail-ikknscsh8803066.d.html</link>
+            <guid>2058228</guid>
+            <pubDate>Sat, 06 Mar 2021 19:30:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  俄罗斯西布尔秋明天然气公司发布消息称，下瓦尔托夫斯克附近石油输送管道火灾已经被控制住，没有对当地居民和生态环境构成威胁。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-07/detail-ikkntiak5646428.d.html</link>
+            <guid>2058227</guid>
+            <pubDate>Sat, 06 Mar 2021 19:24:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国疾控中心：截至昨日，美国累计新冠肺炎确诊病例达28714163例，累计死亡病例达521294例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-07/detail-ikknscsh8801415.d.html</link>
+            <guid>2058226</guid>
+            <pubDate>Sat, 06 Mar 2021 19:20:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美国总统拜登：许多共和党人接近支持该法案，没有放弃继续争取他们的支持。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-07/detail-ikkntiak5645540.d.html</link>
@@ -188,48 +230,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-07/detail-ikknscsh8764108.d.html</link>
             <guid>2058159</guid>
             <pubDate>Sat, 06 Mar 2021 16:03:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据俄罗斯卫星网：亚美尼亚警方在加强安保的情况下接管亚美尼亚总统官邸。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8762618.d.html</link>
-            <guid>2058148</guid>
-            <pubDate>Sat, 06 Mar 2021 15:55:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  卡塔尔新增460例新冠肺炎确诊病例，新增1例新冠肺炎死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5605179.d.html</link>
-            <guid>2058142</guid>
-            <pubDate>Sat, 06 Mar 2021 15:48:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【为保护用户隐私，这家巨头公司将作出重大改变！或重塑整个行业】据报道，美国互联网巨头谷歌公司日前宣布，未来将停止根据个人网络浏览记录投放广告。有分析人士指出，考虑到谷歌在数字广告领域的影响力，预计这一举措将对数字广告行业产生重大影响。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikkntiak5604717.d.html</link>
-            <guid>2058140</guid>
-            <pubDate>Sat, 06 Mar 2021 15:45:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国纽约州新增7647例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8759506.d.html</link>
-            <guid>2058133</guid>
-            <pubDate>Sat, 06 Mar 2021 15:38:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【CNBC：美国国会在延长失业津贴方面行动过慢】美国参议院民主党人就1.9万亿美元的经济刺激法案中延长失业救济金的条款达成一致。他们希望及时通过刺激法案，以防止失业援助出现中断。不过有专家表示，美国国会行动过于缓慢。咨询公司Employ America的顾问Pancotti表示，大家等得太久了，这是非常不幸的。美国国会应在3月14日前向拜登提交刺激法案。如果失业救济无法延长，数百万的长期失业者将失去支持。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8759501.d.html</link>
-            <guid>2058132</guid>
-            <pubDate>Sat, 06 Mar 2021 15:38:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【港区人大代表：“十四五”绘蓝图，香港应抢抓重大历史机遇】“深度连接中国与世界，始终是香港不可替代的角色和优势。”港区全国人大代表、香港霍英东集团行政总裁霍震寰表示，香港应把握历史机遇，找准定位，以更积极的姿态融入国家发展大局、搭乘国家发展快车。霍震寰指出，未来，香港更应该积极融入大湾区建设，支持大湾区打造国际消费中心都市圈，对内通过跨境资源共享，提升消费供给水平，承接内地购买力，打造湾区消费闭环经济；对外提升消费产业的国际视野，回应国际化需求。（人民日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8759357.d.html</link>
-            <guid>2058131</guid>
-            <pubDate>Sat, 06 Mar 2021 15:37:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华瑞国际递表纳斯达克：拟发行240万股普通股，每股定价为4-6美元】当地时间3月5日，江阴华瑞电工科技股份有限公司的实质控股公司Huarui International New Material Limited向美国证监会提交招股书，拟在美国纳斯达克上市，股票代码为“HRDG”。公司拟发行240万股普通股，每股发行价在4-6美元之间。承销商还可行使超额配售权额外购买36万股普通股。江阴华瑞电工科技股份有限公司曾于2018年3月05日在新三板挂牌，代码为872591，后于2019年6月25日在新三板摘牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-06/detail-ikknscsh8756132.d.html</link>
-            <guid>2058128</guid>
-            <pubDate>Sat, 06 Mar 2021 15:22:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
