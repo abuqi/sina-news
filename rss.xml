@@ -4,11 +4,46 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Fri, 12 Mar 2021 19:00:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Mar 2021 19:38:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  WTI 4月原油期货收跌0.41美元，跌幅0.62%，报65.61美元/桶，本周累计上涨2.79%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi2991227.d.html</link>
+            <guid>2066579</guid>
+            <pubDate>Fri, 12 Mar 2021 19:34:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  波音公司：任命Ed Clark JR.为737 MAX飞机总经理兼副总裁，以取代即将离职的Walter Odisho。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi2981756.d.html</link>
+            <guid>2066577</guid>
+            <pubDate>Fri, 12 Mar 2021 19:20:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：03月13日03时11分在河北张家口市赤城县（北纬40.70度，东经115.79度）发生2.3级地震，震源深度15千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9819196.d.html</link>
+            <guid>2066576</guid>
+            <pubDate>Fri, 12 Mar 2021 19:13:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  阿根廷据悉将其原油价格定在55美元/桶，以缓解油价上涨的压力。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9817502.d.html</link>
+            <guid>2066574</guid>
+            <pubDate>Fri, 12 Mar 2021 19:11:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  摩根大通：墨西哥央行2021年将因通胀疲软而维持利率不变。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi2975423.d.html</link>
+            <guid>2066573</guid>
+            <pubDate>Fri, 12 Mar 2021 19:10:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  特斯拉CEO埃隆·马斯克：BTC（比特币）是TBC（马斯克创立的一家钻探公司）的变位词，太巧了！两者都是进行挖矿作业，以及要使用到砖块和链子的。]]></title>
+            <guid>2066572</guid>
+            <pubDate>Fri, 12 Mar 2021 19:05:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  COMEX 4月黄金期货收跌0.2%，报1719.80美元/盎司，本周累涨约1.3%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi2968075.d.html</link>
@@ -208,24 +243,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi2874129.d.html</link>
             <guid>2066530</guid>
             <pubDate>Fri, 12 Mar 2021 16:37:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  法国新增4033例新冠肺炎确诊病例，新增223例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9715197.d.html</link>
-            <guid>2066528</guid>
-            <pubDate>Fri, 12 Mar 2021 16:36:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲斯托克600指数本周涨3.5%，为去年11月以来最大单周涨幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9712546.d.html</link>
-            <guid>2066526</guid>
-            <pubDate>Fri, 12 Mar 2021 16:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧盟法律提案草案：“假证书”可能对公众健康构成重大风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi2866103.d.html</link>
-            <guid>2066523</guid>
-            <pubDate>Fri, 12 Mar 2021 16:26:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
