@@ -4,11 +4,238 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Fri, 12 Mar 2021 05:27:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Mar 2021 06:28:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  印度政府要求监管机构审查新的债务估值规则。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2435771.d.html</link>
+            <guid>2065866</guid>
+            <pubDate>Fri, 12 Mar 2021 06:27:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  纳指期货跌0.36%，道指期货涨0.19%，标普500指数期货跌0.02%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2435713.d.html</link>
+            <guid>2065865</guid>
+            <pubDate>Fri, 12 Mar 2021 06:27:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[腾讯控股(00700.HK)宣布向日本乐天投资，寻求在数字娱乐和电商的战略合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2434787.d.html</link>
+            <guid>2065864</guid>
+            <pubDate>Fri, 12 Mar 2021 06:26:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南向资金净流入达50亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9275054.d.html</link>
+            <guid>2065863</guid>
+            <pubDate>Fri, 12 Mar 2021 06:22:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股保险板块走低，友邦保险(01299.HK)跌4.4%，中国太保(02601.HK)跌3%，中国平安(02318.HK)跌1.6%，中国太平(00966.HK)、中国人寿(02628.HK)跌0.5%。]]></title>
+            <guid>2065862</guid>
+            <pubDate>Fri, 12 Mar 2021 06:19:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[深交所向金风科技高管翟恩地发布监管函，涉及短线交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2428335.d.html</link>
+            <guid>2065861</guid>
+            <pubDate>Fri, 12 Mar 2021 06:17:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  现货黄金短线加速下挫逾6美元至1712.25美元/盎司，日内跌幅扩大到0.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2428141.d.html</link>
+            <guid>2065860</guid>
+            <pubDate>Fri, 12 Mar 2021 06:17:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽元兑美元NZD/USD失守0.72，日内跌0.38%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2427916.d.html</link>
+            <guid>2065859</guid>
+            <pubDate>Fri, 12 Mar 2021 06:16:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[碳交易指数连续3日大涨，创近5年新高，今年以来该指数累计上涨24.08%。中材节能11交易日9涨停，今年以来飙升82.22%，股价创3年多新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9269518.d.html</link>
+            <guid>2065858</guid>
+            <pubDate>Fri, 12 Mar 2021 06:14:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英镑兑美元GBP/USD短线走低近20点，现报1.3963。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2426098.d.html</link>
+            <guid>2065857</guid>
+            <pubDate>Fri, 12 Mar 2021 06:14:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳指期货跌幅扩大至0.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2425928.d.html</link>
+            <guid>2065856</guid>
+            <pubDate>Fri, 12 Mar 2021 06:13:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国十年期国债收益率短线走高，现报1.58%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9268780.d.html</link>
+            <guid>2065855</guid>
+            <pubDate>Fri, 12 Mar 2021 06:13:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元指数DXY短线走高近10点，现报91.65。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2425358.d.html</link>
+            <guid>2065854</guid>
+            <pubDate>Fri, 12 Mar 2021 06:13:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白银T+D跌破5300元/千克，日内跌1.05%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9268393.d.html</link>
+            <guid>2065853</guid>
+            <pubDate>Fri, 12 Mar 2021 06:12:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  野村研究将从3月26日起注销其4.8%的股权。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9267581.d.html</link>
+            <guid>2065852</guid>
+            <pubDate>Fri, 12 Mar 2021 06:11:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【深圳等多地排查经营贷严防违规流入楼市】3月11日，两位行业人士对表示，当地监管召集各大商业银行开会，要求商业银行自查2020年以来经营贷资金流向，且需穿透检查。除深圳外，多地亦在排查经营贷的贷后管理问题，严防违规流入楼市。一位深圳当地人士对记者表示，排查范围包括2020年以来获批经营贷的公司股东本人及其配偶在贷款前后的6个月内购房行为，穿透了解资金流向。一位总部位于北京的股份行人士表示，该行各分行已对经营贷“逐笔核查”，广州等地已经营贷接单量已很少。（21财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2423334.d.html</link>
+            <guid>2065851</guid>
+            <pubDate>Fri, 12 Mar 2021 06:10:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货白银跌幅达1%，现报25.83美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9265503.d.html</link>
+            <guid>2065850</guid>
+            <pubDate>Fri, 12 Mar 2021 06:09:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金短线走低近4美元，现报1714.39美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9265442.d.html</link>
+            <guid>2065849</guid>
+            <pubDate>Fri, 12 Mar 2021 06:08:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士称，京东正就收购国金证券部分或全部股权进行谈判，价值高达15亿美元。对此，京东向新浪财经表示，京东方面暂时没有回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2420559.d.html</link>
+            <guid>2065848</guid>
+            <pubDate>Fri, 12 Mar 2021 06:06:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[3月16日零时起，国内低风险地区人员进返京不再需要持抵京前7日内核酸检测阴性证明，健康绿码测温正常自由有序进返京。（新京报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2418321.d.html</link>
+            <guid>2065847</guid>
+            <pubDate>Fri, 12 Mar 2021 06:03:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本东京单日新增新冠肺炎感染病例304例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9261332.d.html</link>
+            <guid>2065846</guid>
+            <pubDate>Fri, 12 Mar 2021 06:03:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日经225指数收涨1.73%，报29717.83点。日本东证指数收涨1.4%，报1951.06点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9259874.d.html</link>
+            <guid>2065845</guid>
+            <pubDate>Fri, 12 Mar 2021 06:01:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乐天计划通过售股筹资2418亿日元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9259614.d.html</link>
+            <guid>2065844</guid>
+            <pubDate>Fri, 12 Mar 2021 06:01:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[京东将收购国金证券股权？国金证券回应：一切以公司公告为准。（每经）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2414605.d.html</link>
+            <guid>2065839</guid>
+            <pubDate>Fri, 12 Mar 2021 05:58:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【杭州：通报违规行为，规范房地产中介市场秩序】3月12日上午，杭州市住保房管局联合杭州市房地产中介行业协会召开规范全市房地产中介市场秩序推进会，会议要求，房地产中介服务行业各方参与者坚持“房子是用来住的，不是用来炒的”定位，坚决遏制各类投机炒房行为，严格司法拍卖房产的住房限购审核、严格个人经营贷和消费贷用于购房的审查、严格房地产市场信息发布内容的审查。下一步，将继续开展针对性、全方位集中检查，加强部门联动，严厉打击房地产市场违法违规行为。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9257440.d.html</link>
+            <guid>2065838</guid>
+            <pubDate>Fri, 12 Mar 2021 05:57:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏高新发行江苏省首单“碳中和”绿色债券】昨天，由苏高新集团作为发行主体的首期“碳中和”绿色中票成功发行，发行规模2亿元，期限3年，票面利率3.6%。这是江苏省内首单发行的“碳中和”债券。本次债券发行募集资金主要用于产业板块绿色建筑项目建设运营。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9257126.d.html</link>
+            <guid>2065837</guid>
+            <pubDate>Fri, 12 Mar 2021 05:57:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[华旺科技(605377)3月12日在互动平台表示，目前公司生产线均处于满负荷生产状态。公司木浆储备充裕，为应对目前原材料价格上涨压力，公司对产品售价进行了涨价调整。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9255825.d.html</link>
+            <guid>2065835</guid>
+            <pubDate>Fri, 12 Mar 2021 05:55:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本乐天公司(Rakuten)确认将向日本邮政出售股份。日本邮政将收购乐天8.32%的股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9253353.d.html</link>
+            <guid>2065834</guid>
+            <pubDate>Fri, 12 Mar 2021 05:52:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[半导体芯片股继续走低，汇顶科技跌停，晶方科技、富瀚微跌超7%，中微公司、新洁能、立昂微、圣邦股份等纷纷走低。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9250810.d.html</link>
+            <guid>2065833</guid>
+            <pubDate>Fri, 12 Mar 2021 05:48:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：京东、涌金集团和国金证券没有立即回应置评请求。该消息人士同时表示，京东与涌金集团的谈判还处于早期阶段，可能会发生变化。由于保密限制，该消息人士拒绝透露姓名。（金十数据）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2403662.d.html</link>
+            <guid>2065831</guid>
+            <pubDate>Fri, 12 Mar 2021 05:43:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[券商板块异动，国金证券涨停，哈投股份、国联证券、华西证券、光大证券等集体拉升。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2400391.d.html</link>
+            <guid>2065829</guid>
+            <pubDate>Fri, 12 Mar 2021 05:38:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【字节跳动关联公司入股口腔护理专研品牌“参半NYSCPS”】近日，参半关联公司深圳小阔科技有限公司发生工商变更，新增字节跳动关联企业北京量子跃动科技有限公司为股东，同时公司注册资本由约272.97万元增至约287.97万元。深圳小阔科技有限公司是参半NYSCPS的关联公司，经营范围包括洗发水、沐浴露、身体乳、香水、护肤品、面膜、化妆品等研发与销售。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2400032.d.html</link>
+            <guid>2065827</guid>
+            <pubDate>Fri, 12 Mar 2021 05:38:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国金证券短线直线拉升，一度触及涨停。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9242866.d.html</link>
+            <guid>2065826</guid>
+            <pubDate>Fri, 12 Mar 2021 05:37:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国金证券短线拉升，跌幅缩窄至0.85%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9241831.d.html</link>
+            <guid>2065825</guid>
+            <pubDate>Fri, 12 Mar 2021 05:36:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士称，京东正就收购国金证券部分或全部股权进行谈判，价值高达15亿美元。（金十数据）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9241503.d.html</link>
+            <guid>2065823</guid>
+            <pubDate>Fri, 12 Mar 2021 05:35:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[荷兰1月贸易顺差49.80亿欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2397811.d.html</link>
+            <guid>2065822</guid>
+            <pubDate>Fri, 12 Mar 2021 05:35:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我国首个“百亿”天然气生产基地稳供西气东输 克深气田累产突破500亿方】据中国石油集团官网3月12日消息，截至3月9日，克深气田天然气保持高峰增长，投产新井5口，新增日均产气量197万立方米。至此，克深气田作为我国第一个年产100亿立方米超深层碎屑岩天然气生产基地，已累产天然气突破500亿立方米，推动我国超深超高压气藏高效开发不断取得新成果。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9238409.d.html</link>
+            <guid>2065820</guid>
+            <pubDate>Fri, 12 Mar 2021 05:31:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【富春环保：公司节能业务和固废处置业务涉及到碳排放指标交易】富春环保今日在互动平台上表示，公司热电联产、以生活垃圾等固废处置以及环境监测业务板块都在近日印发的《国务院关于加快建立健全绿色低碳循环发展经济体系的指导意见（国发〔2021〕4号）》的鼓励范围之内。其中，节能业务和固废处置业务涉及到碳排放指标的交易，预计能产生多余的碳排放指标，目前公司正在对十余个产业基地的碳排放情况进行梳理。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9238250.d.html</link>
+            <guid>2065819</guid>
+            <pubDate>Fri, 12 Mar 2021 05:31:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[稀土板块直线下滑，广晟有色、包钢股份跌超3%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2391694.d.html</link>
@@ -38,246 +265,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9224800.d.html</link>
             <guid>2065810</guid>
             <pubDate>Fri, 12 Mar 2021 05:14:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[腾讯控股港股午后小幅走低，涨幅缩窄至0.15%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2381326.d.html</link>
-            <guid>2065808</guid>
-            <pubDate>Fri, 12 Mar 2021 05:13:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【闻泰科技：子公司与联合汽车电子就氮化镓领域深度合作】闻泰科技(600745)公众号消息：子公司Nexperia（安世半导体）宣布与国内汽车行业主要供应商联合汽车电子有限公司，在功率半导体氮化镓（GaN）领域展开深度合作，以满足未来对新能源汽车电源系统不断提升的技术需求。安世半导体高层表示，有意愿加大投资，与联合汽车电子共同打造基于GaN工艺的联合实验室，携手推动GaN工艺技术在中国市场应用。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2381211.d.html</link>
-            <guid>2065807</guid>
-            <pubDate>Fri, 12 Mar 2021 05:12:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[深证成指、创业板指午后再度翻绿。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9223060.d.html</link>
-            <guid>2065806</guid>
-            <pubDate>Fri, 12 Mar 2021 05:11:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  纳指期货收复日内失地，现涨0.12%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2377855.d.html</link>
-            <guid>2065805</guid>
-            <pubDate>Fri, 12 Mar 2021 05:08:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  港股部分内房股午后异动拉升，融创中国涨超11%，宝龙地产涨8.1%，绿城中国涨6.2%，中国奥园、新城发展控股涨4.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9218595.d.html</link>
-            <guid>2065804</guid>
-            <pubDate>Fri, 12 Mar 2021 05:05:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  房地产开发板块异动拉升，荣安地产涨停，华侨城A涨超8%，嘉凯城、万业企业、金融街等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9218280.d.html</link>
-            <guid>2065803</guid>
-            <pubDate>Fri, 12 Mar 2021 05:05:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【百度开始招股：半日孖展额79.54亿港元 超购4.68倍】百度今日招股，据捷力交易宝数据，半日孖展额79.54亿港元，超购4.68倍。百度定价上限为295港元，目前百度美股273.28亿美元，折合每股265港元，较美股溢价11.3%。公司每手50股，一手入场费14898.64港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9218103.d.html</link>
-            <guid>2065802</guid>
-            <pubDate>Fri, 12 Mar 2021 05:05:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  新西兰财长罗伯逊：政府将在未来几周和今年晚些时候的预算中解决房价上涨问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9215749.d.html</link>
-            <guid>2065801</guid>
-            <pubDate>Fri, 12 Mar 2021 05:01:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本邮政正考虑投资乐天，考虑收购乐天“几个百分点”的股份。  （日经新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2369616.d.html</link>
-            <guid>2065798</guid>
-            <pubDate>Fri, 12 Mar 2021 04:56:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亚洲芯片股上涨 延续板块全球涨势】 亚洲芯片制造商和相关供应商股价上涨，扩大了该板块的全球涨幅，此前中美半导体行业协会宣布成立 “中美半导体产业技术和贸易限制工作组”。彭博亚太半导体指数上涨1.7%，延续了周四2.6%的涨幅。日本市场方面，Screen上涨4.2%，东京威力科创上涨4.2%， Advantest上涨4.6%， Lasertec上涨5%。韩国市场，三星电子上涨1%，SK海力士上涨2.9%，东进世美肯上涨3.5%。中国台湾市场，台积电上涨0.5%，鸿海精密涨1.7%。中国A股市场，板块在经历周四大涨后，今日涨跌互见，中芯国际上涨1.1%，沪硅产业下跌1.7%，韦尔股份下跌0.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2369337.d.html</link>
-            <guid>2065797</guid>
-            <pubDate>Fri, 12 Mar 2021 04:56:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中国石油：举行碳达峰碳中和能源发展战略研讨会】日前，中国石油集团公司董事长、党组书记戴厚良主持召开“碳达峰、碳中和目标下的能源发展战略研究”成果汇报与院士专家研讨会，听取研究工作进展，安排部署下一步重点任务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2363168.d.html</link>
-            <guid>2065796</guid>
-            <pubDate>Fri, 12 Mar 2021 04:47:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【哈啰出行将在今年二季度初赴美上市，募资额20亿美金左右】从接近哈啰出行知情人士处获悉，哈啰出行将于今年二季度初赴美上市，募资额在20亿美金左右。此前，彭博社报道，其将以非公开形式在美国提交IPO申请。上述知情人士还表示，去年，哈啰出行累计完成了两轮融资，其中宁德时代战略入股。据天眼查信息显示，迄今为止，其已完成15次融资，背后站着蚂蚁金服、春华资本等一线大VC，其中宁德时代是首次入股哈啰出行。（界面）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2362953.d.html</link>
-            <guid>2065795</guid>
-            <pubDate>Fri, 12 Mar 2021 04:47:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三夫户外与张家口崇礼区政府及慕尼黑展览公司战略合作】三夫户外午间公告，2021年3月12日，公司与张家口市崇礼区人民政府、慕尼黑展览（上海）有限公司就崇礼地区组织夏季户外以及冬季冰雪相关的展览展示活动，签署了《战略合作框架协议》。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9202117.d.html</link>
-            <guid>2065794</guid>
-            <pubDate>Fri, 12 Mar 2021 04:42:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乐天与日本邮政达成资本合作 股价飙升11%】日本放送协会(NHK)报道称，互联网巨头乐天公司(Rakuten Inc.)决定与日本邮政控股公司建立资本合作关系，该公司股价创下四年多来的最大涨幅。这一协议将深化两家公司去年建立的现有物流联盟，当时两家公司同意共享数据，并在包裹递送方面展开合作。报道没有详细说明交易细节。乐天在东京股价飙升11%，创2017年2月以来最大盘中涨幅。日本邮政攀升了3.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2356572.d.html</link>
-            <guid>2065793</guid>
-            <pubDate>Fri, 12 Mar 2021 04:38:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  政府数据显示，印度单日新增23285例新冠肺炎病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9197229.d.html</link>
-            <guid>2065792</guid>
-            <pubDate>Fri, 12 Mar 2021 04:35:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【郑州1例无症状感染者复阳 在深圳3次核酸阴性】2021年3月11日晨，郑州高新区报告1例境外返郑的马某核酸初筛阳性。  （人民日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2353179.d.html</link>
-            <guid>2065791</guid>
-            <pubDate>Fri, 12 Mar 2021 04:33:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  秘鲁1月黄金出口同比下降28.39％至38.98万盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9195432.d.html</link>
-            <guid>2065790</guid>
-            <pubDate>Fri, 12 Mar 2021 04:32:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄媒：俄罗斯央行今年可能转向中性政策】俄罗斯央行行长Elvira Nabiullina在接受izu .ru采访时表示，如果形势发展符合基本情况，俄罗斯央行可能最早在今年转向中性政策。调整政策的时机和节奏将取决于经济的发展，俄罗斯央行现在还难以知道2022年第三和第四季度会发生什么。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9190094.d.html</link>
-            <guid>2065788</guid>
-            <pubDate>Fri, 12 Mar 2021 04:24:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  比特币失守56500美元/枚，日内跌2.20%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9189193.d.html</link>
-            <guid>2065787</guid>
-            <pubDate>Fri, 12 Mar 2021 04:23:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【再创新高！韩国家庭贷款总额破千万亿韩元】据韩国国际广播电台11日报道，韩国央行日前公布的《2月金融市场动向》显示，韩国今年二月底的家庭贷款规模高达1003.1万亿韩元（约合人民币5.75万亿元），较1月底增加6.7万亿韩元，增幅创2004年开始进行此项统计以来的同月第二高纪录。据悉，受搬家旺季来临、租房押金上涨等因素影响，韩国住宅贷款需求居高不下。在此情况下，韩国家庭贷款规模不断扩大。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9188167.d.html</link>
-            <guid>2065786</guid>
-            <pubDate>Fri, 12 Mar 2021 04:22:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯央行行长纳比乌琳娜：目前央行正观察到经济活动出现稳步复苏，同时通胀压力也在加大。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2345371.d.html</link>
-            <guid>2065785</guid>
-            <pubDate>Fri, 12 Mar 2021 04:21:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯央行行长纳比乌琳娜：调整政策的时机和节奏将取决于经济的发展，俄罗斯央行现在还难以知道2022年第三和第四季度会发生什么。即使俄罗斯央行开始加息，货币政策仍将在一段时间内保持宽松。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9187756.d.html</link>
-            <guid>2065784</guid>
-            <pubDate>Fri, 12 Mar 2021 04:21:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【上海新房今年主要采取批量入市 “沪十条”后首批33个楼盘将集中供应】近日，上海市房地产交易中心“网上房地产”显示，近期将上市一批新建商品住房，这是自“沪十条”“沪七条”等房地产市场调控政策落地以来，上海首次以集中批量供应方式推出房源。这批房源已完成价格备案，即将“领证”上市销售。该批房源共33个项目，共计10044套，大部分为刚需盘，除3个楼盘外，其他楼盘的备案均价为6万元以下。该批房源中，续盘项目24个，备案均价均未上涨；新开楼盘价格基本与周边在售同质楼盘持平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9184211.d.html</link>
-            <guid>2065783</guid>
-            <pubDate>Fri, 12 Mar 2021 04:16:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【市场监管总局依法对互联网领域十起违法实施经营者集中案作出行政处罚决定 涉及腾讯收购猿辅导股权案等】市场监管总局依法对互联网领域十起违法实施经营者集中案作出行政处罚决定，涉及腾讯收购猿辅导股权案、百度收购小鱼集团股权案、好未来收购哒哒教育股权案等。上述十起案件构成违法实施经营者集中，评估认为不具有排除、限制竞争效果。市场监管总局对银泰商业（集团）有限公司等十二家企业分别处以50万元人民币罚款。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2333330.d.html</link>
-            <guid>2065782</guid>
-            <pubDate>Fri, 12 Mar 2021 04:05:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【港股午评：恒指跌0.25% 恒生科指涨超1%小米涨超8%】地产股领涨大市，融创中国绩后涨逾10%。科技股延续反弹势头，小米大涨8.5%，比亚迪电子涨逾5%，快手涨3.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9175586.d.html</link>
-            <guid>2065781</guid>
-            <pubDate>Fri, 12 Mar 2021 04:05:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【LG Energy Solution：投45亿美元扩大美国厂电池产能】据外媒报道，LG化学旗下全资子公司LG Energy Solution今日表示，为满足EV电池市场持续增长的需求，该公司将在2025年前投资5万亿韩元（45亿美元）扩大美国的电池产能。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2330880.d.html</link>
-            <guid>2065780</guid>
-            <pubDate>Fri, 12 Mar 2021 04:02:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  日本东证指数日内涨1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2330570.d.html</link>
-            <guid>2065779</guid>
-            <pubDate>Fri, 12 Mar 2021 04:02:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[哔哩哔哩30亿美元香港上市计划据悉获得香港交易所批准。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2329451.d.html</link>
-            <guid>2065778</guid>
-            <pubDate>Fri, 12 Mar 2021 04:00:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【三星电子、SK海力士晶圆稀释剂供应商要求提价50%】据外媒报道，韩国Dongjin Semichem和ENF Technology两家公司均已向客户三星电子和SK海力士提出关于稀释剂的涨价要求，计划从四月份起将稀释剂的价格提高50%。 (THE ELEC)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2329244.d.html</link>
-            <guid>2065777</guid>
-            <pubDate>Fri, 12 Mar 2021 04:00:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  截至3月12日，印度新冠肺炎确诊病例累计达1131万例，死亡病例累计达158306例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2328648.d.html</link>
-            <guid>2065776</guid>
-            <pubDate>Fri, 12 Mar 2021 03:59:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【商务部：1-2月新车产销量等指标均超2019年同期水平】商务部今日发文表示，2021年1-2月，随着我国经济形势稳定向好，中小城市和县乡市场汽车消费潜力逐步释放，新能源汽车带动汽车销量增长，新车产销量、汽车进出口量、二手车交易量、报废机动车回收量等指标均超过2019年同期水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2328317.d.html</link>
-            <guid>2065775</guid>
-            <pubDate>Fri, 12 Mar 2021 03:59:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[远光软件：2月5日至3月11日期间，国网电商公司通过证券交易所集中竞价交易方式累计增持公司股份1245.1万股，占公司总股本的比例约为1.13%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9170612.d.html</link>
-            <guid>2065774</guid>
-            <pubDate>Fri, 12 Mar 2021 03:59:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英派斯：于近日收到青岛市科学技术局、青岛市财政局、国家税务总局青岛市税务局联合颁发的《高新技术企业证书》。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2328019.d.html</link>
-            <guid>2065773</guid>
-            <pubDate>Fri, 12 Mar 2021 03:58:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[蒙草生态：控股子公司联合体中标22亿元斗门水库堤岸生态修复工程EPC总承包项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9170395.d.html</link>
-            <guid>2065772</guid>
-            <pubDate>Fri, 12 Mar 2021 03:58:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  深纺织Ａ：拟回购注销未达解除限售条件的限制性股票合计123.6万股，回购价格6.26元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9169874.d.html</link>
-            <guid>2065771</guid>
-            <pubDate>Fri, 12 Mar 2021 03:58:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【花旗：融创中国年度业绩胜预期 评级“买入” 目标价46.8港元】花旗发布研究报告称，融创中国(01918)去年业绩各方面均胜预期，评级“买入”，目标价46.8港元，认为盈利增长坚实。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2324916.d.html</link>
-            <guid>2065770</guid>
-            <pubDate>Fri, 12 Mar 2021 03:54:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【市场分析：金价周五小幅走弱，因股市上涨打压避险需求且美元反弹】周五亚洲时段，现货黄金小幅走弱，失守1720关口，一度创两日新低至1716.84美元/盎司，勉强守在5日均线和10日均线1715上方。一方面，美元指数在亚洲时段反弹，令金价略微承压。另一方面，无论是美国的1.9万亿刺激计划，还是欧洲央行准备加速购债，都提振经济复苏前景，隔夜欧洲股市创一年新高，美国股市创历史记录新高；亚洲股市周五也普遍上涨，打压了黄金的避险需求。此外，技术面方面，隔夜金价上冲3月3日高点1740关口附近阻力受阻后，多头信心受到打击，部分空头重新入场，也令金价承压。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2324599.d.html</link>
-            <guid>2065769</guid>
-            <pubDate>Fri, 12 Mar 2021 03:54:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  印度SENSEX和NIFTY指数开盘涨超1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9161901.d.html</link>
-            <guid>2065768</guid>
-            <pubDate>Fri, 12 Mar 2021 03:47:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【融创中国“三道红线”降至黄档】 融创中国2020年年报显示，截至报告期，融创中国非受限现金短债比为1.08，净负债率为96%，剔除预收款项后的资产负债率为78.3%。按照“三道红线”标准，融创中国净负债率与非受限现金短债比达到“净负债率低于100%；非受限现金短债比高于1”，已降至黄档。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2318421.d.html</link>
-            <guid>2065767</guid>
-            <pubDate>Fri, 12 Mar 2021 03:46:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【融创中国：“三道红线”中的最后一个指标会在2022年提前完成】 融创中国行政总裁汪孟德在业绩会上表示，公司到了这个阶段，规模和增长不是公司最重要的东西，公司未来要的是整体综合竞争力。谈及“三道红线”的指标时，汪孟德表示，2020年三个指标有大幅度的优化，其中有两个指标已经达标。但汪孟德强调，到2023年公司的债务指标还会持续优化，最后一个指标会在2022年提前完成。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9160621.d.html</link>
-            <guid>2065766</guid>
-            <pubDate>Fri, 12 Mar 2021 03:46:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
