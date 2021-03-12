@@ -4,11 +4,41 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Fri, 12 Mar 2021 21:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Mar 2021 22:27:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【恩智浦、Penn National等将加入标普500指数】标普道琼斯指数公司称，恩智浦、Penn National、Generac Holdings、Caesars将加入标普500指数，以取代Flowserve Corp.、SL Green Realty、施乐、以及Vontier Corp。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3097979.d.html</link>
+            <guid>2066613</guid>
+            <pubDate>Fri, 12 Mar 2021 22:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【道琼斯美国总市场航空公司指数收涨4.11%，本周累涨8.79%】航空类股普遍收涨，Spirit Airlines收涨约5.8%，美国航空公司涨超5.5%，捷蓝航空涨超5.1%，美国西南航空涨约4.4%，夏威夷航空和美联航也涨超4.0%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3096394.d.html</link>
+            <guid>2066612</guid>
+            <pubDate>Fri, 12 Mar 2021 22:17:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国新冠肺炎超2933万例】美国约翰斯·霍普金斯大学统计数据显示，截至美东时间3月12日16时23分，美国累计新冠肺炎确诊病例达29330642例，累计死亡病例532151例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9930689.d.html</link>
+            <guid>2066611</guid>
+            <pubDate>Fri, 12 Mar 2021 22:07:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  巴西经济部长盖德斯：希望第一批月度紧急援助款项能在3月份发放，但也可能在4月份发放。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3083404.d.html</link>
+            <guid>2066610</guid>
+            <pubDate>Fri, 12 Mar 2021 21:57:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  巴西经济部长盖德斯：将为巴西制定一个失业救济计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9914569.d.html</link>
+            <guid>2066609</guid>
+            <pubDate>Fri, 12 Mar 2021 21:42:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  标普500指数11个板块普遍收涨，房地产、工业、公用事业、金融板块均涨超1%，仅仅科技和通信板块收跌，分别跌0.7%和0.9%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3055729.d.html</link>
@@ -241,35 +271,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9789722.d.html</link>
             <guid>2066563</guid>
             <pubDate>Fri, 12 Mar 2021 18:28:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货白银跌幅收窄至1%，现报25.83美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9788227.d.html</link>
-            <guid>2066562</guid>
-            <pubDate>Fri, 12 Mar 2021 18:26:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国银行（市政债券最大承销商）：美国总统拜登的1.9万亿美元救助计划可能会激发新一轮周州和地方政府债券拍卖。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9783828.d.html</link>
-            <guid>2066561</guid>
-            <pubDate>Fri, 12 Mar 2021 18:19:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  部分工业大麻股直线拉升扭转跌势，OrganiGram Holdings(OGI.O)涨超5%，Aphria(APHA.O)拉涨2.47%，Canopy Growth(CGC.O)涨超1%，极光大麻(ACB.N)涨0.85%。]]></title>
-            <guid>2066560</guid>
-            <pubDate>Fri, 12 Mar 2021 18:10:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【福特家族第五代将进入福特汽车董事会，股价持稳于逾三年高位附近】福特汽车（F）涨约3.9%，暂报13.31美元，此前一度涨超4.6%，刷新2018年1月份以来盘中高位至13.41美元附近。美国福特家族第五代将在该公司董事会接管多个席位，提名Alexanda Ford English和Henry Ford III进入公司董事会，72岁的高管Edsel Ford II将于5月份退休，其在该公司担任该高管职位已经长达33年。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9776622.d.html</link>
-            <guid>2066559</guid>
-            <pubDate>Fri, 12 Mar 2021 18:08:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  贝克休斯油服：美国钻井公司本周开始减少石油和天然气钻井平台，为去年11月来首次。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi2933078.d.html</link>
-            <guid>2066558</guid>
-            <pubDate>Fri, 12 Mar 2021 18:05:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
