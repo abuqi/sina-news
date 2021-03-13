@@ -4,11 +4,29 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 13 Mar 2021 20:26:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Mar 2021 21:22:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【白宫开始向部分民众发放1400美元的个人纾困金】当地时间3月13日，随着美国总统拜登于11日正式签署1.9万亿美元新冠纾困救助法案，白宫宣布于从12日开始个人纾困金发放的处理工作，正式付款日期为3月17日，但一些银行已经提前处理收款信息。截至目前，已经有部分民众的账户收到了收款信息。白宫表示，符合纾困金的领取条件为年收入在75000美元以下的美国个人和年收入在15万美元以下的夫妇。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikknscsi3971749.d.html</link>
+            <guid>2068833</guid>
+            <pubDate>Sat, 13 Mar 2021 21:16:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  比特币持续拉升，升破61500美元/枚，日涨幅扩大至7.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikkntiam0791935.d.html</link>
+            <guid>2068805</guid>
+            <pubDate>Sat, 13 Mar 2021 20:34:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  以色列新增1482例新冠肺炎确诊病例，累计确诊817680例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikknscsi3945231.d.html</link>
+            <guid>2068802</guid>
+            <pubDate>Sat, 13 Mar 2021 20:29:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  比特币涨势不止，突破61000美元/枚。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikkntiam0780586.d.html</link>
@@ -212,24 +230,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3704605.d.html</link>
             <guid>2068167</guid>
             <pubDate>Sat, 13 Mar 2021 13:30:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿联酋迪拜酋长公布《2040年迪拜城市规划》】 当地时间3月13日，阿联酋副总统、总理兼迪拜酋长谢赫·穆罕默德·本·拉希德·阿勒马克图姆正式公布《2040年迪拜城市规划》。根据该规划，迪拜在未来发展中将被划分为五大城市中心，即历史文化中心、国际金融中心、旅游和娱乐中心、2020世博会中心以及迪拜硅绿洲中心。另外，该规划还根据多用途和人口密集度的不同，分层确定了六个城市化水平，涵盖了城市、城区、城镇、社区等层次。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3696953.d.html</link>
-            <guid>2068068</guid>
-            <pubDate>Sat, 13 Mar 2021 13:18:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【分析师：预计美股2020年四季度盈利同比下滑2.6%】标普道琼斯指数公司资深指数分析师表示，美股2020年第四季度财报披露已经接近尾声。在已披露的498份四季报中，有383份盈利数据超出了预期，超预期率为76.9%。市场对美股2020年第四季度的盈利预期较2019年底时已下降了17.2%。预计美股2020年四季度盈利将环比增长0.7%，同比下降2.6%。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0538672.d.html</link>
-            <guid>2068058</guid>
-            <pubDate>Sat, 13 Mar 2021 13:16:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中注协：注册会计师行业需要正视问题 刀刃向内】今日下午，中注协审计准则委员会召开“打击资本市场财务造假 提升审计质量”专题会议。会议认为，作为整个财务报告生成链条中的一个重要环节，注册会计师行业需要正视问题，刀刃向内，会计师事务所和注册会计师应当恪守准则操守，提高执业能力，提升审计质量。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3685397.d.html</link>
-            <guid>2067872</guid>
-            <pubDate>Sat, 13 Mar 2021 12:58:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
