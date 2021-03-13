@@ -4,11 +4,41 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 13 Mar 2021 16:44:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Mar 2021 17:38:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【约旦卫生大臣因新冠患者死亡事件辞职】据约旦佩特拉通讯社报道，约旦首都安曼一家医院出现氧气供给短缺问题，至少6名住院治疗的新冠患者因此死亡。约旦首相哈苏奈下令彻查事故原因。卫生大臣纳西尔·奥贝达特表示其负有“道德责任”并宣布辞职。（新华网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikkntiam0682694.d.html</link>
+            <guid>2068585</guid>
+            <pubDate>Sat, 13 Mar 2021 17:25:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【十年期美债收益率三因素分析框架】美联储前主席伯南克认为，影响美国十年期国债收益率的主要因素分为三大类：实际自然利率、通胀预期和期限溢价。经济基本面向好，带动实际GDP增速走高，拉升经济的整体回报水平，实际利率走高从而带动美债收益率上升；通胀水平走高，提升市场加息预期，投资者会要求更高的收益率水平；期限溢价是持有长期债券的债权人所要求的额外风险补偿，投资者风险偏好较低时，期限溢价上升推高美债收益率（民生证券研究院）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikknscsi3835439.d.html</link>
+            <guid>2068581</guid>
+            <pubDate>Sat, 13 Mar 2021 17:18:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  法国新增29759例新冠肺炎确诊病例，新增169例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikknscsi3828544.d.html</link>
+            <guid>2068580</guid>
+            <pubDate>Sat, 13 Mar 2021 17:07:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【菲律宾日增确诊5千，马尼拉将再次宵禁】截至3月13日，菲律宾社区隔离整整一年。当天下午四时，菲律宾卫生部公布日增确诊5千例，为今年单日确诊新高。菲首都大马尼拉地区因被列为“高危险区”，从3月15日开始，将再次实施为期2周的宵禁，每天宵禁时间为晚10时至次日晨5时（中国新闻网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikknscsi3820493.d.html</link>
+            <guid>2068579</guid>
+            <pubDate>Sat, 13 Mar 2021 16:53:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【新疆新能源装机突破3500万千瓦】风能和太阳能资源丰富的新疆，近年来新能源发电稳步发展，目前风电和光伏装机容量共计达3582.55万千瓦，是2015年的1.35倍，规模创历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikkntiam0659423.d.html</link>
+            <guid>2068578</guid>
+            <pubDate>Sat, 13 Mar 2021 16:45:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  英国新增5534例新冠肺炎确诊病例，新增121例死亡病例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikknscsi3790416.d.html</link>
@@ -211,41 +241,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3650364.d.html</link>
             <guid>2067355</guid>
             <pubDate>Sat, 13 Mar 2021 12:01:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中信证券：军工核心企业高景气有望延续】中信证券认为，“十四五”是军工行业前所未有的快速发展期，军工行业趋势将持续向好，目前部分上游军工企业在2020年业绩预告中已经表现出了明显的高增长，行业高景气度也正在开启兑现，“基本面驱动”才是未来板块上涨的核心动能，在军费稳健增长的支撑下，行业高景气有望延续。（一财）]]></title>
-            <guid>2067346</guid>
-            <pubDate>Sat, 13 Mar 2021 11:51:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国FCC认定华为、海康威视等威胁其国家安全 部分通信产品将被拆除】当地时间3月12日，美国联邦通信委员会（FCC）公共安全部和国土安全局（HHS）将包括华为在内的五家中国公司纳入不可信供应商名单，理由是认为这些企业生产的电信设备和服务，会给美国国家安全和公民安全带来“不可接受的风险”。上述公司生产的部分通信产品和服务，将在美国境内被拆除。这五家企业除华为外，还有中兴通讯股份有限公司、海能达通信股份有限公司、杭州海康威视数字技术有限公司和大华科技有限公司。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3642924.d.html</link>
-            <guid>2067344</guid>
-            <pubDate>Sat, 13 Mar 2021 11:48:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【农业农村部与黑龙江省签署合作框架协议共同打造国家粮食安全“压舱石”，加快推进农业现代化】 3月12日，农业农村部与黑龙江省委、省政府在京举行工作会谈，签署部省共同打造国家粮食安全“压舱石”加快推进农业现代化合作框架协议。此次农业农村部与黑龙江省委、省政府签署的协议，以粮食安全为主题，明确到2025年，黑龙江省粮食生产能力进一步提升，建成1亿亩以上旱涝保收、高产稳产的高标准农田，粮食生产能力达到1600亿斤。农业质量效益进一步提升，粮食加工转化率达到70%，实现品种培优、品质提升、品牌打造和标准化生产。协议提出加强黑土地保护、强化科技创新、提升粮食生产装备水平、加快农业绿色转型、推进种养加融合发展等5个方面21项具体措施。（农业农村部网站）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3641040.d.html</link>
-            <guid>2067343</guid>
-            <pubDate>Sat, 13 Mar 2021 11:44:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[礼来制药展示了其阿兹海默症药物一项中期研究试验数据，研究显示，该实验性药物在大约18个月时间里适度减缓了阿尔茨海默病的恶化。对257名早期阿尔茨海默病患者的研究表明，与安慰剂相比，礼来公司的donanemab减缓了32%在认知和功能的综合测量上的下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0477579.d.html</link>
-            <guid>2067340</guid>
-            <pubDate>Sat, 13 Mar 2021 11:35:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【欧洲议会通过“碳边界调整机制”议案】欧洲议会于3月10日通过了一项关于与世贸组织兼容的欧盟碳边境调节机制(CBAM)的决议。该议案称，如果一些与欧盟有贸易往来的国家不能遵守碳排放相关规定，欧盟将对这些国家进口商品征收碳关税。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0475302.d.html</link>
-            <guid>2067339</guid>
-            <pubDate>Sat, 13 Mar 2021 11:31:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“60万顶格罚款”成历史，广东榕泰财务造假共吃千万罚单，系A股首例】 3月12日，广东榕泰公告关于收到中国证券监督管理委员会广东监管局《行政处罚及市场禁入事先告知书》。据告知书，经查明，广东榕泰及相关人员存在未在规定期限内披露2019年年度报告，相关报告未按规定披露关联关系、日常经营性关联交易，2018年年度报告、2019年年度报告虚增利润等违法事实。根据新证券法的最新规定，广东证监局拟决定：对广东榕泰处以300万元罚款，对杨宝生处以330万元罚款，对郑创佳处以160万元罚款，朱少鹏、林伟雄、杨光等多名相关人员也被给予警告和20万元至80万元的罚款。可以看到，在针对信息披露虚假记载的行为处罚，已经突破旧规60万的上限，粗略计算，罚款金额总计已超千万。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0472926.d.html</link>
-            <guid>2067338</guid>
-            <pubDate>Sat, 13 Mar 2021 11:27:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
