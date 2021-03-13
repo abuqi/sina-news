@@ -4,11 +4,29 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 13 Mar 2021 18:29:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Mar 2021 19:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【秘鲁政府自3月15日起调整入境防疫规定】当地时间3月13日，秘鲁政府宣布，3月15日至3月28日，凡自英国、南非和巴西始发，或于近14日内在上述地区中转、不持秘鲁当地居留的外籍人士，一律禁止入境。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikknscsi3900230.d.html</link>
+            <guid>2068735</guid>
+            <pubDate>Sat, 13 Mar 2021 19:09:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  希腊新增新冠肺炎确诊病例2512例，累计确诊219521例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikkntiam0742288.d.html</link>
+            <guid>2068727</guid>
+            <pubDate>Sat, 13 Mar 2021 19:06:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  澳大利亚和新加坡希望在7月前就“旅游气泡”达成协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikkntiam0731383.d.html</link>
+            <guid>2068690</guid>
+            <pubDate>Sat, 13 Mar 2021 18:47:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  加密货币以太坊短线冲高，暂报1918.4美元/枚，日涨幅扩大至8.5%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikknscsi3861319.d.html</link>
@@ -217,30 +235,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0510266.d.html</link>
             <guid>2067613</guid>
             <pubDate>Sat, 13 Mar 2021 12:30:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  比特币日内涨超5%，报60376美元/枚。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0507394.d.html</link>
-            <guid>2067573</guid>
-            <pubDate>Sat, 13 Mar 2021 12:25:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国地质勘探局：新西兰吉斯伯恩东北方向165千米处发5.4级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3662271.d.html</link>
-            <guid>2067529</guid>
-            <pubDate>Sat, 13 Mar 2021 12:21:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  哈萨克斯坦阿拉木图国际机场表示，一架安-26飞机在哈萨克斯坦着陆时坠毁，据悉机上有6人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3661085.d.html</link>
-            <guid>2067515</guid>
-            <pubDate>Sat, 13 Mar 2021 12:19:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国泰君安黄燕铭：大蓝筹行情告一段落 中盘蓝筹将崛起】国泰君安证券研究所所长黄燕铭认为，本轮市场下跌并非来自人们对于基本面预期的下调。下一个阶段，投资风格会从追求绝对的确定性股票，转向盈利与成长性带有一定不确性的股票。即，基本面好确定性高的大蓝筹行情告一段落，基本面好但带有一定不确性的中盘蓝筹将会崛起。（中国证券网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0503660.d.html</link>
-            <guid>2067509</guid>
-            <pubDate>Sat, 13 Mar 2021 12:19:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
