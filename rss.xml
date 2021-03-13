@@ -4,11 +4,59 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 13 Mar 2021 14:29:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Mar 2021 15:26:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  欧洲地中海地震中心：克马德克群岛发生5.1级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3770268.d.html</link>
+            <guid>2068569</guid>
+            <pubDate>Sat, 13 Mar 2021 15:25:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国白宫：拜登总统将于周六会见白宫安全顾问官员。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0608443.d.html</link>
+            <guid>2068568</guid>
+            <pubDate>Sat, 13 Mar 2021 15:17:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  荷兰新增超过6000例新冠肺炎确诊病例，创1月中旬以来单日新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0606000.d.html</link>
+            <guid>2068566</guid>
+            <pubDate>Sat, 13 Mar 2021 15:12:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  巴勒斯坦、阿拉伯联盟谴责捷克在耶路撒冷开设外交办事处。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3756529.d.html</link>
+            <guid>2068565</guid>
+            <pubDate>Sat, 13 Mar 2021 15:01:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【天津市新增2例新冠肺炎境外输入无症状感染者】记者从天津市疾控中心获悉，3月12日18时至13日18时，天津市新增新冠肺炎境外输入无症状感染者2例（均为中国籍），累计168例（境外输入163例），尚在医学观察23例（均为境外输入）、解除医学观察122例、转为确诊病例23例。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0598640.d.html</link>
+            <guid>2068564</guid>
+            <pubDate>Sat, 13 Mar 2021 14:59:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“乱发”推特致公司股价波动 马斯克遭特斯拉股东起诉】据美国福克斯新闻网消息，当地时间12日，特斯拉一名股东对马斯克及特斯拉董事会提起诉讼，称马斯克违反与美国证券交易委员会达成的协议、发布有损公司利益的推文，而特斯拉董事会也没能尽到监管责任，导致公司股东面临数十亿美元的损失。起诉书中列举了马斯克在推特上发布的几条推文，其中就包括去年5月份一条曾引起巨大争议的推文。（央视财经 ）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3749010.d.html</link>
+            <guid>2068563</guid>
+            <pubDate>Sat, 13 Mar 2021 14:47:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【立讯精密：公司生产经营情况正常 不存在应披露而未披露的事项】立讯精密(002475)在互动平台表示，针对337调查一事，公司已成立了专门的工作组，并聘请美国337调查及专利诉讼律师团队积极应对。公司不存在应披露而未披露的事项。公司生产经营情况正常，关于2020年度经营业绩的预计情况已于公司《2020年第三季度报告》中披露，目前不存在需调整的情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0587374.d.html</link>
+            <guid>2068562</guid>
+            <pubDate>Sat, 13 Mar 2021 14:39:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  FLutter提及最近有关体育游戏公司FanDuel可能进行IPO的猜测，称考虑包括将FanDuel持股在美国上市的选项，目前还未做出IPO决定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0582334.d.html</link>
+            <guid>2068561</guid>
+            <pubDate>Sat, 13 Mar 2021 14:31:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【菲律宾发现P.3变异新冠病毒】菲律宾卫生部13日发表声明说，该部门与菲律宾大学的相关研究机构联合确认，发现一种名为P.3的变异新冠病毒，目前累计确诊98例该变异病毒的感染病例。声明表示，P.3变异病毒包含E484K和N501Y突变，与在巴西发现的P.1变异新冠病毒同属B.1.1.28谱系。但现有数据不足以断定P.3变异病毒会否有重大公共卫生影响，因此暂未将P.3列为值得关注的变异病毒。（新华网）]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3733262.d.html</link>
@@ -216,59 +264,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3605910.d.html</link>
             <guid>2067327</guid>
             <pubDate>Sat, 13 Mar 2021 10:44:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【比特币历史上首次触及6万美元大关】比特币触及6万美元整数大关，24小时上涨约6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0443906.d.html</link>
-            <guid>2067326</guid>
-            <pubDate>Sat, 13 Mar 2021 10:37:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中芯国际正努力重新获得芯片订单 聚焦14nm FinFET工艺】供应链消息称中芯国际已获得部分美国设备厂商的供应许可，主要涵盖成熟工艺用半导体设备等。随着美国对中芯国际放松限制，消息人士透露，中芯国际正在努力重新获得订单，特别是其14nm FinFET工艺订单。（界面）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0443806.d.html</link>
-            <guid>2067325</guid>
-            <pubDate>Sat, 13 Mar 2021 10:37:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  卡塔尔新增483例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3598837.d.html</link>
-            <guid>2067324</guid>
-            <pubDate>Sat, 13 Mar 2021 10:31:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以太坊冲上1820美元/枚，日内涨2.97%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0434097.d.html</link>
-            <guid>2067323</guid>
-            <pubDate>Sat, 13 Mar 2021 10:20:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【比特币价格再创新高】比特币快速拉涨，突破59000美元/枚，再创历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0430575.d.html</link>
-            <guid>2067322</guid>
-            <pubDate>Sat, 13 Mar 2021 10:14:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币重新站上58000美元/枚，较日低回升近2000美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0428948.d.html</link>
-            <guid>2067321</guid>
-            <pubDate>Sat, 13 Mar 2021 10:11:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  德国选择党联合主席表示，德国不能陷入对少量几个能源供应方的依赖，因此必须完成“北溪-2”号管道项目。]]></title>
-            <guid>2067320</guid>
-            <pubDate>Sat, 13 Mar 2021 10:10:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【河钢集团计划实现2022年碳达峰2050年碳中和】河钢集团12日发布低碳绿色发展行动计划，提出碳达峰、碳中和时间表和路线图：2022年实现碳达峰，2025年碳排放量较峰值降10%以上，2030年碳排放量较峰值降30％以上，2050年实现碳中和。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3581476.d.html</link>
-            <guid>2067318</guid>
-            <pubDate>Sat, 13 Mar 2021 10:01:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  德国选择党联合主席表示，德国不能陷入对少量几个能源供应方的依赖，因此必须完成“北溪-2”号管道项目。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiam0419945.d.html</link>
-            <guid>2067316</guid>
-            <pubDate>Sat, 13 Mar 2021 09:56:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
