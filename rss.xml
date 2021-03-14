@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 14 Mar 2021 18:28:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Mar 2021 19:20:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国地质勘探局：冰岛Alftanes西南8公里处发生5.4级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam1586975.d.html</link>
+            <guid>2069840</guid>
+            <pubDate>Sun, 14 Mar 2021 18:56:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  利比亚国家石油公司：利比亚2月原油出口收入为12.35亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-15/detail-ikkntiam1562242.d.html</link>
@@ -217,18 +223,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikkntiam1418197.d.html</link>
             <guid>2069633</guid>
             <pubDate>Sun, 14 Mar 2021 13:54:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财长耶伦：部分价格将会如预期的那样上涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikknscsi4574444.d.html</link>
-            <guid>2069632</guid>
-            <pubDate>Sun, 14 Mar 2021 13:51:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财长耶伦：美国的通胀风险较小，而且是可管理的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-14/detail-ikkntiam1416309.d.html</link>
-            <guid>2069631</guid>
-            <pubDate>Sun, 14 Mar 2021 13:50:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
