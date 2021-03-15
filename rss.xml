@@ -4,11 +4,89 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Mon, 15 Mar 2021 18:28:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Mar 2021 19:20:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[跟踪数据发现，2021年以来，截至3月11日，不到三个月的时间里，A股市场已经有435家次上市公司核心高管离任。其中，173家次为董事会秘书离任，126家次为财务总监或财务负责人离任。“尽快套现”是一些上市公司高管离职的重要原因之一。（21世纪经济报道）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-16/detail-ikkntiam2496307.d.html</link>
+            <guid>2071610</guid>
+            <pubDate>Mon, 15 Mar 2021 19:19:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【IPO辅导验收收紧，2278家拟上市企业或承压】 据Wind数据显示，2021年年初至今，已有70家拟IPO企业终止审核。截至3月15日，A股全市场已报送IPO申报材料，但尚未通过发审委或上市委审核的企业就有479家，而已报送辅导备案材料，正接受上市辅导的企业数量就高达2278家。近日，有国内头部券商投行人员表示，目前IPO辅导验收工作整体正在收紧，辅导期有延长趋势。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-16/detail-ikkntiam2492233.d.html</link>
+            <guid>2071608</guid>
+            <pubDate>Mon, 15 Mar 2021 19:11:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  ICE布伦特5月原油期货实盘价格周一收跌0.34美元，跌幅0.49%，报68.88美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-16/detail-ikknscsi5646616.d.html</link>
+            <guid>2071606</guid>
+            <pubDate>Mon, 15 Mar 2021 19:07:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国NYMEX 4月原油期货实盘价格周一收跌0.22美元，跌幅0.34%，报65.39美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-16/detail-ikkntiam2490068.d.html</link>
+            <guid>2071605</guid>
+            <pubDate>Mon, 15 Mar 2021 19:07:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  恒指期货夜盘收涨0.55%，报28995点，高水161点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-16/detail-ikknscsi5643558.d.html</link>
+            <guid>2071604</guid>
+            <pubDate>Mon, 15 Mar 2021 19:01:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油期货维持0.6%的跌幅，暂报65.20美元/桶。据媒体报道，伊拉克北部巴拉德空军基地遭遇火箭弹袭击。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-16/detail-ikkntiam2481572.d.html</link>
+            <guid>2071602</guid>
+            <pubDate>Mon, 15 Mar 2021 18:52:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【摩根大通：比特币第一季度散户资金流入量有望超过机构】摩根大通策略师Nikolaos Panigirtzoglou的一份报告显示，由于本季度迄今为止机构资金流入明显减少，比特币散户投资者正在追赶。比特币散户流入量有望在第一季度超过机构。摩根大通估计，本季度到目前为止，散户投资者与机构的资金流入量并驾齐驱，散户投资者已经购买了超过187000枚比特币，而机构投资者大约购买了172684枚比特币。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-16/detail-ikknscsi5635480.d.html</link>
+            <guid>2071601</guid>
+            <pubDate>Mon, 15 Mar 2021 18:47:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  伊拉克安全部门消息称，五枚火箭弹袭击了巴格达以北的巴拉德空军基地，没有人员伤亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-16/detail-ikkntiam2476247.d.html</link>
+            <guid>2071599</guid>
+            <pubDate>Mon, 15 Mar 2021 18:42:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据阿拉伯天空新闻：伊拉克北部巴拉德空军基地传来爆炸声。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-16/detail-ikkntiam2476177.d.html</link>
+            <guid>2071598</guid>
+            <pubDate>Mon, 15 Mar 2021 18:42:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  专业制药公司KemPharm(KMPH.O)恢复交易，现拉涨至30%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-16/detail-ikkntiam2474871.d.html</link>
+            <guid>2071597</guid>
+            <pubDate>Mon, 15 Mar 2021 18:39:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  专业制药公司KemPharm(KMPH.O)直线拉涨超17%，触及熔断。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-16/detail-ikknscsi5631103.d.html</link>
+            <guid>2071596</guid>
+            <pubDate>Mon, 15 Mar 2021 18:39:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  上海原油期货主力合约夜盘收跌1.78%，报419.0元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-16/detail-ikknscsi5627062.d.html</link>
+            <guid>2071595</guid>
+            <pubDate>Mon, 15 Mar 2021 18:32:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  上海黄金交易所黄金T+D 3月15日（周一）晚盘收盘上涨0.37%报363.3元/克；上海黄金交易所白银T+D 3月15日（周一）晚盘收盘上涨1.54%报5391.0元/千克。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-16/detail-ikknscsi5626474.d.html</link>
+            <guid>2071594</guid>
+            <pubDate>Mon, 15 Mar 2021 18:31:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[法国总理Jean Castex：法国公司可以发放1000欧元免税奖金。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-16/detail-ikknscsi5621041.d.html</link>
@@ -162,78 +240,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-16/detail-ikknscsi5583406.d.html</link>
             <guid>2071561</guid>
             <pubDate>Mon, 15 Mar 2021 17:14:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ICE欧盟碳排放交易许可（期货价格）收跌1.24%，报42.24欧元，结束之前连续四个交易日创收盘历史新高的趋势，上周涨超9.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-16/detail-ikknscsi5579439.d.html</link>
-            <guid>2071560</guid>
-            <pubDate>Mon, 15 Mar 2021 17:07:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【加拿大两大通讯公司签订收购协议 罗杰斯公司或成加第二大运营商】据加拿大媒体当地时间3月15日报道，加拿大通讯运营商罗杰斯（Rogers）已经与萧氏通讯（Shaw Communications）签订了总额为260亿加元的收购协议（月1354.7亿元人民币）。如果能完成收购，罗杰斯将成为加拿大排名第二的通讯运营商。不过，这个协议面临三个监管机构的严格审查，同时也需要股东们的许可。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-16/detail-ikkntiam2422761.d.html</link>
-            <guid>2071559</guid>
-            <pubDate>Mon, 15 Mar 2021 17:07:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  标普1500航空综合指数触及逾1年高点，尾盘上涨3.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-16/detail-ikkntiam2422002.d.html</link>
-            <guid>2071558</guid>
-            <pubDate>Mon, 15 Mar 2021 17:06:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲央行管委森特诺：收益率曲线控制不会成为欧盟关键的稳定工具，欧洲央行方面不会支持其强力实施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-16/detail-ikkntiam2421085.d.html</link>
-            <guid>2071557</guid>
-            <pubDate>Mon, 15 Mar 2021 17:04:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股三大指数悉数转涨，道指涨0.11%，纳指涨0.28%，标普500指数涨0.03%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-16/detail-ikknscsi5576976.d.html</link>
-            <guid>2071556</guid>
-            <pubDate>Mon, 15 Mar 2021 17:03:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委森特诺：货币政策尚未用尽，尤其是与财政措施配合使用的情况下。批准欧盟复苏基金的时间比我们预计的要长，但我相信欧盟的程序。我们离摆脱困境还很远，需要保持所有政策积极到位。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-16/detail-ikkntiam2417343.d.html</link>
-            <guid>2071553</guid>
-            <pubDate>Mon, 15 Mar 2021 16:58:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国际最新研究：英国发现新冠病毒变异株或增死亡风险】 国际著名学术期刊《自然》15日在线发表一篇流行病学研究论文称，最早在英国发现的新冠病毒(SARS-CoV-2)变异株B.1.1.7可能与死亡风险增加有关，研究人员估算出与B.1.1.7变异株相关的死亡风险增加了61%。这项研究对英国从2020年9月至2021年2月的200多万份社区检测结果和逾1.7万例新冠肺炎(COVID-19)死亡病例进行分析。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-16/detail-ikknscsi5572605.d.html</link>
-            <guid>2071552</guid>
-            <pubDate>Mon, 15 Mar 2021 16:55:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国银行CEO：到目前为止，消费者支出比2020年3月增长了10%。贷款需求稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-16/detail-ikknscsi5572441.d.html</link>
-            <guid>2071551</guid>
-            <pubDate>Mon, 15 Mar 2021 16:55:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北方沙尘天继续，17省份受影响，19日或杀回马枪】 近日，受冷空气大风影响，北方多地出现沙尘暴，中央气象台沙尘暴蓝色预警生效中。预计3月15日20时至16日20时，新疆南疆盆地和东部、内蒙古西部、黑龙江西南部、吉林西部、辽宁中西部、青海西北部、甘肃、宁夏、陕西中北部、山西、河北、北京、天津、山东、河南、安徽中北部、江苏中北部等地的部分地区有扬沙或浮尘天气。中国气象局环境气象中心主任张碧辉在中国气象局15日的发布会上介绍，这是近10年以来最强的一次沙尘暴天气过程，已经达到强沙尘暴的级别。根据气象监测，19-20日到来的冷空气可能还会带来一次沙尘天气。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-16/detail-ikkntiam2413961.d.html</link>
-            <guid>2071550</guid>
-            <pubDate>Mon, 15 Mar 2021 16:52:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  智利国家铜业公司（Codelco）因停电在两个矿场宣布实施应急措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-16/detail-ikkntiam2412737.d.html</link>
-            <guid>2071549</guid>
-            <pubDate>Mon, 15 Mar 2021 16:50:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国银行CEO：经济刺激计划的资金将于这两天入账。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-16/detail-ikknscsi5565942.d.html</link>
-            <guid>2071546</guid>
-            <pubDate>Mon, 15 Mar 2021 16:44:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲药品管理局（EMA）：与阿斯利康公司就血栓问题进行密切合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-16/detail-ikkntiam2408671.d.html</link>
-            <guid>2071545</guid>
-            <pubDate>Mon, 15 Mar 2021 16:43:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
