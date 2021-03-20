@@ -4,11 +4,47 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 20 Mar 2021 16:50:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Mar 2021 17:41:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[俄罗斯千岛群岛附近发生5.1级地震，震源深度10公里。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9036944.d.html</link>
+            <guid>2080889</guid>
+            <pubDate>Sat, 20 Mar 2021 17:27:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  俄罗斯国防部：黑海舰队正密切关注进入黑海海域的美国“托马斯·哈德纳”号驱逐舰。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5876751.d.html</link>
+            <guid>2080888</guid>
+            <pubDate>Sat, 20 Mar 2021 17:13:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【首季业绩高增长股提前看，51股净利润增幅翻倍】截至3月20日，78家公司公布一季业绩预告，业绩预增公司有62家，占比79.49%。证券时报·数据宝统计显示，截至3月20日，有78家公司公布了一季业绩预告。业绩预告类型显示，预增公司62家、预盈14家，合计报喜公司比例为97.44%；业绩预降公司有1家。（数据宝）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5876622.d.html</link>
+            <guid>2080887</guid>
+            <pubDate>Sat, 20 Mar 2021 17:12:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  国际货币基金组织第一副总裁杰弗里·冈本：新冠肺炎病毒变异的风险可能会破坏或推迟经济复苏的到来。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5875289.d.html</link>
+            <guid>2080885</guid>
+            <pubDate>Sat, 20 Mar 2021 16:55:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  国际货币基金组织第一副总裁杰弗里·冈本：全球经济复苏的不确定性“异常巨大”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9034341.d.html</link>
+            <guid>2080884</guid>
+            <pubDate>Sat, 20 Mar 2021 16:54:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞波币短线上行，涨幅扩大至13%，报0.53美元/枚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9034096.d.html</link>
+            <guid>2080883</guid>
+            <pubDate>Sat, 20 Mar 2021 16:51:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  国际货币基金组织第一副总裁杰弗里·冈本：发达经济体和新兴市场经济体之间的差距越来越大。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5874574.d.html</link>
@@ -209,40 +245,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5859713.d.html</link>
             <guid>2080325</guid>
             <pubDate>Sat, 20 Mar 2021 13:17:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【王一鸣：宏观政策将保持对经济恢复的必要支持力度】中国国际经济交流中心副理事长王一鸣3月20日在中国发展高层论坛2021年会上表示，2021年是中国实施“十四五”规划的第一年，去年GDP同比增长2.3%，是全球唯一实现正增长的主要经济体。今年设定了6%以上的预期增长目标，体现了中国追求更高质量、更有效率、更可持续的增长，也为应对不确定性、防范风险和结构性改革预留了空间。王一鸣表示，伴随着中国经济逐步恢复常态，宏观政策的正常化也被提上了议程。考虑到经济恢复仍然存在结构性差异，中小微企业仍面临困难，宏观政策将保持对经济恢复必要的支持力度，不急转弯，并在稳增长与防风险之间把握好平衡。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi9018777.d.html</link>
-            <guid>2080324</guid>
-            <pubDate>Sat, 20 Mar 2021 13:16:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【NASA：太空垃圾飞行速度是子弹10倍 后果可能“是灾难性的”】据《纽约邮报》报道，目前环绕地球轨道运行的太空垃圾有超过1.28亿块，美国航空航天局（NASA）称，这些物体以每小时17500英里（约28000千米）的速度移动，大约是高速子弹的10倍，其带来的后果可能是“灾难性的”。这些垃圾来自退化的卫星、过去飞行任务和其他宇宙事故的副产品，而这仅仅是科学家有能力探测到的碎片。（海外网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi9018487.d.html</link>
-            <guid>2080323</guid>
-            <pubDate>Sat, 20 Mar 2021 13:13:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【施耐德CEO赵国华：电气化是唯一一个可以使能源脱碳的方式】施耐德电气公司董事会主席、首席执行官赵国华先生在中国发展高层论坛上表示：电气化可以说是唯一一个可以使能源脱碳的方式，汽车的电气化当然也是我们现在最为期待的一种方式；包括夏季的供凉以及冬季的供暖，空气的调节、温度的调节；在整个工业当中，我们也是看到了电气化的趋势；如果我们想要实现这一点，我们是需要合作的。]]></title>
-            <guid>2080322</guid>
-            <pubDate>Sat, 20 Mar 2021 13:11:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【王一鸣：未来五年年均经济增速约在5%-5.5%区间】中国国际经济交流中心副理事长王一鸣3月20日在中国发展高层论坛2021年会上表示，未来五年大体的年均经济增长速度将处在5%至5.5%的区间；由于外部环境的不确定性，给出精确值很困难。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5859092.d.html</link>
-            <guid>2080321</guid>
-            <pubDate>Sat, 20 Mar 2021 13:10:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国银行刘金：我国商业银行的信用风险在可控范围内】刘金认为中国经济的韧性得益于中国金融体系的韧性，可以抵抗外部的风险。一方面中国信用风险上升，但仍然处于较低水平；而中国商业银行不良贷款情况都能做到心中有数，“我们商业银行所有不良贷款都经过国际会计事务所审计，每个季度我们也在重检，因此商业银行的信用风险在可控范围内。”]]></title>
-            <guid>2080320</guid>
-            <pubDate>Sat, 20 Mar 2021 13:08:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  比特币站上59500美元/枚，日内涨逾2.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5858760.d.html</link>
-            <guid>2080318</guid>
-            <pubDate>Sat, 20 Mar 2021 13:06:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
