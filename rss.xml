@@ -4,11 +4,47 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 20 Mar 2021 19:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Mar 2021 20:27:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[比特币一度短线下挫近700美元，现报58430美元/枚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9045172.d.html</link>
+            <guid>2080905</guid>
+            <pubDate>Sat, 20 Mar 2021 20:26:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国纽约州州长科莫：纽约州发现首例来自巴西的新冠肺炎变异毒株。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5885815.d.html</link>
+            <guid>2080904</guid>
+            <pubDate>Sat, 20 Mar 2021 20:20:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  汽车制造商Stellantis：受芯片短缺的影响，将推迟部分皮卡车的生产，预计影响将持续数周。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9044488.d.html</link>
+            <guid>2080903</guid>
+            <pubDate>Sat, 20 Mar 2021 20:08:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[智利新增新冠肺炎确诊病例7084例，累计确诊925089例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5884609.d.html</link>
+            <guid>2080902</guid>
+            <pubDate>Sat, 20 Mar 2021 19:50:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  土耳其新增21061例新冠肺炎确诊病例，累计确诊2992694例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9043315.d.html</link>
+            <guid>2080901</guid>
+            <pubDate>Sat, 20 Mar 2021 19:39:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国新增35088例新冠肺炎确诊病例，累计确诊4216695例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5883527.d.html</link>
+            <guid>2080900</guid>
+            <pubDate>Sat, 20 Mar 2021 19:23:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  波兰新增新冠肺炎确诊病例26405例，累计确诊2036700例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5883055.d.html</link>
@@ -228,35 +264,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi9025527.d.html</link>
             <guid>2080412</guid>
             <pubDate>Sat, 20 Mar 2021 14:43:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【电动汽车百人会秘书长：2030年前后中国电动汽车保有量达8000万辆】 中国电动汽车百人会副理事长兼秘书长张永伟表示，据预测，2030年前后，中国电动汽车保有量在8000万辆的规模区间，这会在中国催生出一个世界最大规模的电动化汽车产业链。“这个链条当中，会成长出一批营业收入过千亿，市值甚至超万亿的电动化上市公司”，他以半导体为例，“现在半导体在一辆汽车上的价值大概在700到800美金，如果实现了无人驾驶L4的水平，半导体在一辆车里的价值超过2000美金，这也意味着汽车的核心价值链已经发生了变化”。]]></title>
-            <guid>2080406</guid>
-            <pubDate>Sat, 20 Mar 2021 14:42:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国银行刘金：中国信用风险仍处于较低水平】 中国银行行长(候任)刘金3月20日在中国发展高层论坛2021年会上表示，中国信用风险仍处于较低水平，中国银行业的安全垫相比其他国家厚实得多。“可以很负责地给大家讲，中国商业银行的不良贷款情况是心中有数的，所有不良贷款状况都经过了国际会计师事务所的审计，我们自己每个季度也都在进行重检。我们商业银行的信用风险在可控范围之内。”（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5865977.d.html</link>
-            <guid>2080385</guid>
-            <pubDate>Sat, 20 Mar 2021 14:39:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【ETF赛道再添新品 首批新材料ETF获批】国内首批新材料ETF正式获批，包括华宝基金、天弘基金、华夏基金、平安基金和国联安基金在内的五家公司先后申报了该产品。据悉，新材料ETF跟踪的是中证新材料主题指数，目前该指数的前十大成份股中，囊括了万华化学、宁德时代、隆基股份、亿纬锂能、通威股份等新材料细分领域的龙头股。（财联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi9024716.d.html</link>
-            <guid>2080352</guid>
-            <pubDate>Sat, 20 Mar 2021 14:33:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【英国监管机构将对“脸书”发起调查】英国竞争监管机构将在未来几个月内对Facebook“脸书”发起反信任调查。《金融时报》分析称，这是在今年早些时候对谷歌搜索引擎和苹果手机发起了类似调查后，又对“科技大鳄”进行的最新打击。有知情人士透露说，此次英国将全面审查“脸书”是否利用客户数据挤压社交媒体竞争对手以及在线广告。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5864118.d.html</link>
-            <guid>2080337</guid>
-            <pubDate>Sat, 20 Mar 2021 14:12:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  比特币短线跳水约1000美元，报58930美元/枚。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5863117.d.html</link>
-            <guid>2080336</guid>
-            <pubDate>Sat, 20 Mar 2021 14:00:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
