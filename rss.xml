@@ -4,11 +4,34 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 20 Mar 2021 20:27:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Mar 2021 21:23:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  亚美尼亚总理：军方在纳卡冲突升级期间损失3250人。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9046889.d.html</link>
+            <guid>2080909</guid>
+            <pubDate>Sat, 20 Mar 2021 21:14:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  汇丰银行：尽管瑞郎已经有所走弱，但考虑到瑞郎避险属性以及当前瑞士央行的政策立场，预计瑞郎在未来一段时间内的走势将更加脆弱。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9046440.d.html</link>
+            <guid>2080908</guid>
+            <pubDate>Sat, 20 Mar 2021 21:02:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  智利新增新冠肺炎确诊病例7084例，累计确诊925089例。]]></title>
+            <guid>2080907</guid>
+            <pubDate>Sat, 20 Mar 2021 20:52:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【巴西新冠肺炎治疗药品告急】巴西私立医院协会（ANAHP）发布公开声明，表示目前全国私立医院用于新冠肺炎患者插管治疗的药品紧缺，而联邦政府日前要求制药厂家将现有库存中的相关药品提供给公立医疗系统的举动打乱了药品正常的供应链条，也使私立医疗机构本就紧张的库存状况变得更加危急。根据该组织的声明，从总体上看，全国私立医院用于新冠肺炎插管治疗药品的库存量预计还能够维持4至19天。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5886645.d.html</link>
+            <guid>2080906</guid>
+            <pubDate>Sat, 20 Mar 2021 20:43:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[比特币一度短线下挫近700美元，现报58430美元/枚。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9045172.d.html</link>
@@ -247,23 +270,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5868458.d.html</link>
             <guid>2080606</guid>
             <pubDate>Sat, 20 Mar 2021 15:14:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【甘肃新增3例境外输入新冠肺炎确诊病例】俄罗斯-兰州CA910航班118名入境人员中，3人核酸检测阳性，已转运至省级定点医院，经临床检查和省级专家组会诊后确定为新冠肺炎确诊病例。其余115人转运至集中隔离点集中隔离医学观察。上述所有入境人员均在闭环管理中。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi9026886.d.html</link>
-            <guid>2080537</guid>
-            <pubDate>Sat, 20 Mar 2021 15:04:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中国银行刘金：中国信用风险仍处于较低水平】中国银行行长(候任)刘金3月20日在中国发展高层论坛2021年会上表示，中国信用风险仍处于较低水平，中国银行业的安全垫相比其他国家厚实得多。“可以很负责地给大家讲，中国商业银行的不良贷款情况是心中有数的，所有不良贷款状况都经过了国际会计师事务所的审计，我们自己每个季度也都在进行重检。我们商业银行的信用风险在可控范围之内。”（中证网）]]></title>
-            <guid>2080489</guid>
-            <pubDate>Sat, 20 Mar 2021 14:58:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【于学军：“十四五”加快面向人民生命健康的科技创新】在20日举行的中国高层发展论坛2021年会经济峰会上，国家卫健委副主任于学军说，“十四五”要坚持创新驱动发展，立足医学科技自立自强，集中力量开展关键核心技术攻关，加快解决一批药品、医疗器械、医用设备等领域的“卡脖子”问题，推动我国健康科技创新整体实力大幅提升，助力健康中国建设。此外，要推动公立医院高质量发展，力争通过5年努力，公立医院发展方式从规模扩张转向提质增效，资源配置从注重物质要素转向更加注重人才技术要素。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi9025527.d.html</link>
-            <guid>2080412</guid>
-            <pubDate>Sat, 20 Mar 2021 14:43:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
