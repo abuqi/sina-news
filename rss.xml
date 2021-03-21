@@ -4,11 +4,35 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 21 Mar 2021 17:46:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Mar 2021 18:35:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  即时市场评论：土耳其里拉早盘开盘大跌，此类大幅度异动现象经常在流动性较弱的情况下出现。不过此走势仍然符合分析师周末对土耳其里拉即将遭遇抛售的预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-22/detail-ikkntiam6032098.d.html</link>
+            <guid>2081417</guid>
+            <pubDate>Sun, 21 Mar 2021 18:16:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑土耳其里拉USD/TRY早盘涨幅扩大至13%，刷新去年11月11日以来新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-22/detail-ikknscsi9190271.d.html</link>
+            <guid>2081416</guid>
+            <pubDate>Sun, 21 Mar 2021 18:00:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑土耳其里拉USD/TRY早盘涨至7.6（土耳其里拉贬值），上周五收盘价为7.2185。主张降息的土耳其总统埃尔多安于20日宣布免去央行行长Naci Agbal的职务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-22/detail-ikkntiam6031009.d.html</link>
+            <guid>2081415</guid>
+            <pubDate>Sun, 21 Mar 2021 17:55:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国国防部长突访阿富汗】美国国防部长奥斯汀21日突访阿富汗，并与阿富汗总统加尼举行会谈。这是奥斯汀今年1月就任美国防长以来首次访阿。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-22/detail-ikkntiam6030750.d.html</link>
+            <guid>2081414</guid>
+            <pubDate>Sun, 21 Mar 2021 17:51:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【加拿大太平洋铁路通过收购打造北美第一条铁路网】加拿大太平洋铁路公司当地时间3月21日宣布，同意出资25亿加元（约人民币130元），以现金加股票的方式，收购美国的堪萨斯城南公司，以建立连接加拿大——美国——墨西哥的铁路线路，形成第一个贯通北美的铁路网。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-22/detail-ikknscsi9189427.d.html</link>
@@ -243,30 +267,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam6012168.d.html</link>
             <guid>2081173</guid>
             <pubDate>Sun, 21 Mar 2021 13:25:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【激光行业国产替代进程全面提速】在第八届中国激光市场高峰论坛上，中国光学学会激光加工专委会主任王又良介绍，2020年中国激光产业产值680亿元，同比增幅18%，仍然保持较高增速。王又良介绍，2020年中国激光光源和激光加工系统，技术创新和市场规模均取得较大进步。国产化全面替代进程加快，替代质量显著提升。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9169969.d.html</link>
-            <guid>2081172</guid>
-            <pubDate>Sun, 21 Mar 2021 13:16:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【部分固收+基金净值大幅回撤】春节后至今，机构重仓股接连遭遇重挫，投资者将目光转向“进可攻、退可守的”固收+基金，然而部分该类产品同样遭遇大幅回撤。Wind显示，截至3月19日，2月18日以来，市场上包括偏债混合、二级债基在内的共计891只固收+基金（A/C份额合并统计），有150只实现了正收益，占比不到两成。其中最大净值回撤超过10%的有29只，跌幅堪比偏股型基金。（中国基金报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam6010586.d.html</link>
-            <guid>2081171</guid>
-            <pubDate>Sun, 21 Mar 2021 13:06:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【彩电厂商酝酿涨价 相关概念或受关注】近日，创维电子、TCL实业两大彩电厂商高管在接受媒体采访时表示，他们均有计划提高彩电产品零售价格。推动彩电厂商再次涨价的原因主要有液晶面板价格持续走高、其他核心原材料短缺、海外彩电需求旺盛等。作为彩电最核心元器件，液晶面板的成本决定了彩电价格的走势。行业机构和专家纷纷预计，连续8个月上涨的液晶面板价格，仍将延续到今年上半年，且全年价格将保持高位。（中证资讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam6010312.d.html</link>
-            <guid>2081170</guid>
-            <pubDate>Sun, 21 Mar 2021 13:05:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  比特币重回56500美元/枚上方。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam6010204.d.html</link>
-            <guid>2081169</guid>
-            <pubDate>Sun, 21 Mar 2021 13:03:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
