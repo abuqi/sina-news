@@ -4,16 +4,193 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Thu, 25 Mar 2021 17:35:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Mar 2021 18:41:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[  美联储埃文斯：要把失去的工作岗位带回经济中，还有很长的路要走。]]></title>
+            <title><![CDATA[  香港金管局总裁余伟文：美利率正常化或重演“缩减恐慌”，亚洲央行应未雨绸缪。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikknscsk1472979.d.html</link>
+            <guid>2089840</guid>
+            <pubDate>Thu, 25 Mar 2021 18:38:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Facebook CEO马克·扎克伯格：脸书（Facebook）将根据监督委员会的建议恢复特朗普的账号。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikkntiam8312844.d.html</link>
+            <guid>2089839</guid>
+            <pubDate>Thu, 25 Mar 2021 18:35:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国疾控中心：截至昨日，美国累计新冠肺炎确诊病例达29834734例，累计死亡病例达542584例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikknscsk1472740.d.html</link>
+            <guid>2089838</guid>
+            <pubDate>Thu, 25 Mar 2021 18:34:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 比特币重新站上52000美元/枚上方。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikknscsk1472734.d.html</link>
+            <guid>2089837</guid>
+            <pubDate>Thu, 25 Mar 2021 18:34:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  WTI 5月原油期货收跌2.62美元，跌幅4.28%，报58.56美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikknscsk1472722.d.html</link>
+            <guid>2089836</guid>
+            <pubDate>Thu, 25 Mar 2021 18:34:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  谷歌(GOOG.O,GOOGL.O)：SE(Secure Element安全模块)供应商正在与谷歌联手，创建一套开源、经过验证、随时可用的SE应用程序。]]></title>
+            <guid>2089835</guid>
+            <pubDate>Thu, 25 Mar 2021 18:33:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海原油期货主力合约收跌1.81%，报380.0元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikkntiam8312698.d.html</link>
+            <guid>2089833</guid>
+            <pubDate>Thu, 25 Mar 2021 18:32:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  上海黄金交易所黄金T+D 3月25日（周四）晚盘收盘上涨0.01%报366.0元/克；上海黄金交易所白银T+D 3月25日（周四）晚盘收盘上涨0.08%报5195.0元/千克。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikknscsk1472645.d.html</link>
+            <guid>2089832</guid>
+            <pubDate>Thu, 25 Mar 2021 18:32:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登：下一个主要的举措是重建基础设施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikknscsk1472104.d.html</link>
+            <guid>2089829</guid>
+            <pubDate>Thu, 25 Mar 2021 18:20:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  罗马尼亚将延长新冠肺炎高感染率地区的宵禁时间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikknscsk1471851.d.html</link>
+            <guid>2089828</guid>
+            <pubDate>Thu, 25 Mar 2021 18:14:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲央行执委施纳贝尔：欧洲央行将密切关注市场波动的根源。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikkntiam8311709.d.html</link>
+            <guid>2089827</guid>
+            <pubDate>Thu, 25 Mar 2021 18:12:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“木头姐”Cathie Wood：不要低估“小人物”在改变投资秩序上的力量。改变过度指标化和基准化投资方式的时机已经成熟，我认为散户投资者实际上正在带头。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikkntiam8311456.d.html</link>
+            <guid>2089826</guid>
+            <pubDate>Thu, 25 Mar 2021 18:06:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登：完全希望美国副总统哈里斯在2024年成为竞选搭档。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikknscsk1471411.d.html</link>
+            <guid>2089825</guid>
+            <pubDate>Thu, 25 Mar 2021 18:06:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  法国新增45641例新冠肺炎确诊病例，新增225例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikkntiam8311440.d.html</link>
+            <guid>2089824</guid>
+            <pubDate>Thu, 25 Mar 2021 18:06:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国参议院通过将薪酬保障计划（PPP）延期两个月的法案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikknscsk1471278.d.html</link>
+            <guid>2089823</guid>
+            <pubDate>Thu, 25 Mar 2021 18:04:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伦铜收跌逾2.2%，全球铜库存较2月低点反弹逾80%，突显需求回落】LME期铜收跌198美元，报8780美元/吨。 LME期铝收跌12美元，报2246美元/吨。 LME期锌收跌30美元，报2771美元/吨。 LME期铅收跌19美元，报1920美元/吨。 LME期镍收跌38美元，报16152美元/吨。 LME期锡收跌115美元，报25200美元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikknscsk1471160.d.html</link>
+            <guid>2089822</guid>
+            <pubDate>Thu, 25 Mar 2021 18:03:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登：我的计划是在2024年竞选连任。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikkntiam8311141.d.html</link>
+            <guid>2089821</guid>
+            <pubDate>Thu, 25 Mar 2021 18:02:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【苏伊士运河拥堵危机持续 马士基等航运巨头考虑绕行好望角】全球最大的两家集装箱航运公司表示，他们正考虑派遣货轮绕道非洲以避开堵塞的苏伊士运河。有人警告称，在该运河搁浅的超大型货轮“长赐号”可能需要几天，甚至几周才能脱浅。马士基和赫伯罗特正在考虑让船只绕道非洲，以避免水路堵塞。丹麦的船东Torm A/S表示，客户已经在询问绕道的成本。]]></title>
+            <guid>2089820</guid>
+            <pubDate>Thu, 25 Mar 2021 18:02:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  国际铜夜盘收跌1.26%，沪铜收跌1.09%，沪铝收跌0.20%，沪锌收跌0.35%，沪铅收跌0.40%，沪镍收涨0.41%，沪锡收跌1.50%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikkntiam8310588.d.html</link>
+            <guid>2089819</guid>
+            <pubDate>Thu, 25 Mar 2021 17:58:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【以色列媒体：一艘货船遭伊朗导弹袭击 无人员伤亡】当地时间3月25日，据以色列十二频道电视台报道称，当天早些时候，一艘行驶在阿拉伯海的以色列集装箱货船遭到一枚导弹袭击，所幸没有人员伤亡。报道称，以色列安全部门人士认为，这次袭击是伊朗蓄意发动的。 （央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikknscsk1470379.d.html</link>
+            <guid>2089818</guid>
+            <pubDate>Thu, 25 Mar 2021 17:55:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登：很难在5月1日的最后期限前从阿富汗撤军。美国将安全有序地离开阿富汗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikkntiam8310391.d.html</link>
+            <guid>2089817</guid>
+            <pubDate>Thu, 25 Mar 2021 17:55:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧盟理事会接受了有关东地中海问题的结论。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikknscsk1469942.d.html</link>
+            <guid>2089816</guid>
+            <pubDate>Thu, 25 Mar 2021 17:48:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  COMEX 4月黄金期货收跌0.5%，报1725.10美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikknscsk1469792.d.html</link>
+            <guid>2089815</guid>
+            <pubDate>Thu, 25 Mar 2021 17:45:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登：美国正与墨西哥商讨移民问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikkntiam8309749.d.html</link>
+            <guid>2089814</guid>
+            <pubDate>Thu, 25 Mar 2021 17:44:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  道指涨超100点，纳指跌0.19%，标普500指数涨0.21%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikknscsk1469683.d.html</link>
+            <guid>2089813</guid>
+            <pubDate>Thu, 25 Mar 2021 17:44:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国参议院有足够的票数通过延长薪酬保障计划（PPP）的议案，投票仍在继续。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikkntiam8309528.d.html</link>
+            <guid>2089811</guid>
+            <pubDate>Thu, 25 Mar 2021 17:40:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储埃文斯：估计要到2024年才会加息。 2022年将通胀率调整至2％仍可能是艰难的。 若经济复苏速度快于预期，美联储的加息动作可能会更早开始。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikkntiam8309419.d.html</link>
+            <guid>2089810</guid>
+            <pubDate>Thu, 25 Mar 2021 17:39:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  法国卫生部长：如果有必要，将实施新的严格封锁措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikknscsk1469320.d.html</link>
+            <guid>2089809</guid>
+            <pubDate>Thu, 25 Mar 2021 17:38:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  特斯拉盘中一度涨超2%，目前交投在平盘水平附近；据Electrek百事公司预计在今年年底前将收到特斯拉交付的15辆电动半挂卡车。早在2019年，百事就决定使用特斯拉电动半挂取代其在美国加州菲多利生产基地现有的柴油驱动货运车。特斯拉最近表示，这款电动半挂卡车将于今年投产，并向客户交付部分产品。]]></title>
+            <guid>2089808</guid>
+            <pubDate>Thu, 25 Mar 2021 17:37:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储埃文斯：要把失去的工作岗位带回经济中，还有很长的路要走。对美国劳动力市场的复苏持乐观态度，将取得实质性进展。 通货膨胀将是真正的考验。 一旦通胀率达到2%并有望超调，美联储就可以缓慢加息。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikknscsk1469152.d.html</link>
             <guid>2089807</guid>
             <pubDate>Thu, 25 Mar 2021 17:35:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登：共和党人将必须决定是要合作还是分裂美国这个国家。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikkntiam8309236.d.html</link>
+            <guid>2089806</guid>
+            <pubDate>Thu, 25 Mar 2021 17:35:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[美国总统拜登上任以来首场正式新闻发布会开始。]]></title>
@@ -70,6 +247,12 @@
             <pubDate>Thu, 25 Mar 2021 17:16:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[  【葡萄牙众议院批准将国家紧急状态延长至4月15日】当地时间3月25日，葡萄牙众议院经过投票后批准了将国家紧急状态延长至4月15日的提案，本次紧急状态的延长将从当地时间4月1日持续至4月15日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikknscsk1467986.d.html</link>
+            <guid>2089793</guid>
+            <pubDate>Thu, 25 Mar 2021 17:14:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[  智利首都圣地亚哥实施全面封锁。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikknscsk1467936.d.html</link>
             <guid>2089792</guid>
@@ -80,185 +263,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikkntiam8308086.d.html</link>
             <guid>2089791</guid>
             <pubDate>Thu, 25 Mar 2021 17:13:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：据悉美国私募公司阿波罗Apollo计划以60亿美元的价格出售麦格希教育出版公司(McGraw-Hill)。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikknscsk1467899.d.html</link>
-            <guid>2089790</guid>
-            <pubDate>Thu, 25 Mar 2021 17:13:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国下议院以484票对76票通过延长新冠肺炎的法案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikknscsk1467895.d.html</link>
-            <guid>2089789</guid>
-            <pubDate>Thu, 25 Mar 2021 17:13:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  ICE欧盟碳排放交易许可（期货价格）收跌3.13%，报40.23欧元，创3月8日以来收盘新低。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikkntiam8307991.d.html</link>
-            <guid>2089787</guid>
-            <pubDate>Thu, 25 Mar 2021 17:12:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国方面表示，美国国务卿布林肯强调了也门停火的必要性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikknscsk1467823.d.html</link>
-            <guid>2089785</guid>
-            <pubDate>Thu, 25 Mar 2021 17:11:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国贸易代表办公室（USTR）：美国贸易代表和印度商务部长讨论了扩大贸易、以及在数字贸易、知识产权、农业、劳动力、气候和环境方面合作的方式。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikknscsk1467773.d.html</link>
-            <guid>2089784</guid>
-            <pubDate>Thu, 25 Mar 2021 17:10:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  法国卫生部长：法国再将三个地区封锁4周。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikknscsk1467679.d.html</link>
-            <guid>2089783</guid>
-            <pubDate>Thu, 25 Mar 2021 17:09:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储埃文斯：（经济）状况较2020年有显著改善。 经济复苏比我预期的要强劲得多。 预料在财政援助的帮助下，今年经济将强劲增长6.5％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikkntiam8307609.d.html</link>
-            <guid>2089782</guid>
-            <pubDate>Thu, 25 Mar 2021 17:07:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：美国飞机租赁公司Air Lease预计将于下周接受波音(BA.N)787飞机的交付。]]></title>
-            <guid>2089781</guid>
-            <pubDate>Thu, 25 Mar 2021 17:06:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金短线回升6美元，基本收回此前7年期国债拍卖结果公布后跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikknscsk1467394.d.html</link>
-            <guid>2089780</guid>
-            <pubDate>Thu, 25 Mar 2021 17:06:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行执委施纳贝尔：如果市场条件需要，资产购买速度和组成可以在任何时候双向灵活调整。 欧洲央行将坚决，有效地使用紧急抗疫购债计划（PEPP）额度。 坚决承诺提供特殊支持。 欧元区近期增长前景极不确定。 在某些情况下，加息会过度收紧我们的政策立场。 实际利率上升并不一定表明融资环境变得不那么有利。 由于更高的名义利率可能与未来更高的增长率和更高的实际通胀率齐头并进，因此它们不能很好地反映货币政策的宽松程度。 欧洲央行也可以在会议之间调整资产购买速度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikknscsk1467314.d.html</link>
-            <guid>2089779</guid>
-            <pubDate>Thu, 25 Mar 2021 17:04:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10年期美债收益率短线走高2个基点，最高报1.633%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikkntiam8307394.d.html</link>
-            <guid>2089778</guid>
-            <pubDate>Thu, 25 Mar 2021 17:04:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金一度跌超6美元，现报1724.32美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikkntiam8307326.d.html</link>
-            <guid>2089777</guid>
-            <pubDate>Thu, 25 Mar 2021 17:03:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国对外国上市企业监管加严 中概股“退市潮”短期难现】当地时间3月24日，美国证券交易委员会发布通告称，已通过临时最终修正案，以执行由美国国会要求的《外国公司问责法案》对上市公司信息披露的要求。此外，据报道SEC将加强对SPCA交易的监管。多位专业人士表示，美股在短期内不会出现中概股的退市潮。TS Lombard的经济学家Rory Green预计，大多数在美上市的中国公司会遵守规定，避免退市。据统计，自2020年《外国公司问责法案》在美国国会通过后，截至今年3月24日，共有12家在美上市的中概股成功在香港二次上市。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikknscsk1467172.d.html</link>
-            <guid>2089776</guid>
-            <pubDate>Thu, 25 Mar 2021 17:03:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财政部拍卖620亿美元7年期国债，得标利率1.3%，投标倍数2.23。（预发行交易利率为1.275%，上月投标倍数为2.04）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikknscsk1467118.d.html</link>
-            <guid>2089775</guid>
-            <pubDate>Thu, 25 Mar 2021 17:02:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美、布两油期货短线走低逾0.5美元，现分别报58.04美元/桶和61.60美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikkntiam8307160.d.html</link>
-            <guid>2089774</guid>
-            <pubDate>Thu, 25 Mar 2021 17:01:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【基金净值大涨116% 71.7%基民却亏钱】在2020年市场向好的背景下，公募基金规模刷新历史，接近20万亿元。部分上市公司持股的基金公司，在财报季，也交出了亮丽的成绩单。数据显示，在华夏能源革新股票的最近1年持有用户的盈亏分析中，有44.1%的用户亏损10%以上，27.6 %的用户亏损10%以内，而赚10%以内和赚10%以上的分别为14.1%和14.2%。该基金近一年取得翻倍收益，区间收益高达116.43%，这些数据都表明，百亿基金华夏能源革新股票属于基金中的优秀之列。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikknscsk1466995.d.html</link>
-            <guid>2089773</guid>
-            <pubDate>Thu, 25 Mar 2021 17:00:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[凤凰新媒体(FENG.N)盘中直线拉升，大涨24%，此前消息称交易员猜测其可能成为下一个NTF概念股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikkntiam8306955.d.html</link>
-            <guid>2089772</guid>
-            <pubDate>Thu, 25 Mar 2021 16:57:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑墨西哥比索USD/MXN跌幅扩大至1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikkntiam8306711.d.html</link>
-            <guid>2089771</guid>
-            <pubDate>Thu, 25 Mar 2021 16:53:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[生物技术公司LAVA Therapeutics(LVTX.O)上市首日破发，开盘价报12美元，IPO价为15美元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikkntiam8306705.d.html</link>
-            <guid>2089770</guid>
-            <pubDate>Thu, 25 Mar 2021 16:52:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货黄金跌至1730美元/盎司下方，日内下跌0.33%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikkntiam8306642.d.html</link>
-            <guid>2089769</guid>
-            <pubDate>Thu, 25 Mar 2021 16:51:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国新增6397例新冠肺炎确诊病例，新增63例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikknscsk1466425.d.html</link>
-            <guid>2089768</guid>
-            <pubDate>Thu, 25 Mar 2021 16:51:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【据悉波音最早周五开始交付787梦幻客机】知情人士透露，在停滞五个月后，波音公司料于本周恢复787梦幻客机的交付，技术人员此前在寻找该碳纤维飞机的细微结构缺陷。上述消息人士称，预计最早将在周五交付，波音可能在本月交付两到三架该宽体飞机。波音在一封电邮声明中预计到3月底能交付787飞机。但该公司没有透露具体时间。波音(BA.N)现涨3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikknscsk1466200.d.html</link>
-            <guid>2089767</guid>
-            <pubDate>Thu, 25 Mar 2021 16:47:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金再度跌破1730美元/盎司，较日高回落超15美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikkntiam8306190.d.html</link>
-            <guid>2089765</guid>
-            <pubDate>Thu, 25 Mar 2021 16:45:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美、布两油期货短线拉升约0.4美元，现分别报58.51美元/桶和61.97美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikkntiam8306065.d.html</link>
-            <guid>2089764</guid>
-            <pubDate>Thu, 25 Mar 2021 16:43:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【欧洲主要股指收盘涨跌不一 德国DAX30指数涨0.11%】欧洲主要股指收盘涨跌不一，德国DAX30指数涨0.11%，英国富时100指数跌0.54%，法国CAC40指数涨0.09%，欧洲斯托克50指数跌0.01%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikknscsk1465788.d.html</link>
-            <guid>2089763</guid>
-            <pubDate>Thu, 25 Mar 2021 16:42:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据俄罗斯卫星网：荷兰警方封锁海牙议会周边区域以应对“炸弹威胁”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikkntiam8305955.d.html</link>
-            <guid>2089762</guid>
-            <pubDate>Thu, 25 Mar 2021 16:42:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  意大利新增23696例新冠肺炎确诊病例，新增460例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikkntiam8305773.d.html</link>
-            <guid>2089760</guid>
-            <pubDate>Thu, 25 Mar 2021 16:40:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Moderna计划在德国东部建立厂房。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikknscsk1465584.d.html</link>
-            <guid>2089759</guid>
-            <pubDate>Thu, 25 Mar 2021 16:40:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：Gap(GPS.N)打算出售旗下高端儿童时装品牌Janie and Jack。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikkntiam8305517.d.html</link>
-            <guid>2089757</guid>
-            <pubDate>Thu, 25 Mar 2021 16:37:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国交通部长：不清楚拜登政府是否支持在2035年前禁止燃油汽车。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-26/detail-ikknscsk1464950.d.html</link>
-            <guid>2089756</guid>
-            <pubDate>Thu, 25 Mar 2021 16:32:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
