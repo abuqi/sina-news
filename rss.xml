@@ -4,11 +4,46 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Fri, 09 Jul 2021 20:21:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jul 2021 21:21:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[公报草案显示，20国集团将签署全球税收协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5974593.d.html</link>
+            <guid>2235157</guid>
+            <pubDate>Fri, 09 Jul 2021 21:15:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法官未同意孟晚舟引入新证据的申请】当地时间7月9日下午，加拿大不列颠哥伦比亚省高等法院就孟晚舟的律师要求引入新证据的申诉做出判决，法官不同意引入从汇丰银行获取的新证据。这意味着，孟晚舟在8月举行的最后阶段审理中，将无法使用这些新证据来证明美方提交法庭的引渡依据——《案件记录》存在重大遗漏并误导了法庭。有法律界人士认为，如果引入这些新证据，将对美方要求引渡的关键证据构成挑战。法官不同意引入这些新证据，对辩方律师在最后阶段的审理中要求终止引渡程序是不利的。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4576482.d.html</link>
+            <guid>2235156</guid>
+            <pubDate>Fri, 09 Jul 2021 21:09:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉确认俄罗斯评级为“BBB”；前景展望稳定。]]></title>
+            <guid>2235155</guid>
+            <pubDate>Fri, 09 Jul 2021 21:04:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美联储首次在金融风险评估中提及加密资产】美联储在其对金融体系稳定性的总体评估中首次特别提到加密货币资产价格的飙升，称这种上涨反映出投资者风险偏好的增加。报告还称，如果投资者风险偏好下降、利率意外上升或复苏停滞，资产价格可能容易大幅下跌。美联储在货币政策报告中表示，自2月份向国会提交上一份报告以来，金融体系的某些部分已经变得更容易受到潜在不稳定因素的影响，但体系的核心依然具有韧性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5973828.d.html</link>
+            <guid>2235154</guid>
+            <pubDate>Fri, 09 Jul 2021 20:56:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：日本本州东海岸发生5.3级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4575356.d.html</link>
+            <guid>2235152</guid>
+            <pubDate>Fri, 09 Jul 2021 20:39:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股大类资产类ETF中，罗素2000指数ETF收涨逾2.1%，新兴市场ETF和美国布伦特原油基金（BNO）涨约1.7%，美国房地产ETF、标普500价值ETF、道指ETF、标普500ETF均涨超1.0%，恐慌指数做多ETF表现最差，收跌逾6.7%，美国国债20+年ETF以超过1.4%的跌幅紧随其后，美国国债7-10年ETF也跌0.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5972585.d.html</link>
+            <guid>2235151</guid>
+            <pubDate>Fri, 09 Jul 2021 20:21:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美股行业ETF中，区域银行ETF收涨将近4.5%领跑，银行业ETF涨超3.8%，金融业ETF也涨超2.8%，全球航空业ETF涨超2.3%，能源业ETF涨超2.1%，公用事业ETF以不足0.2%的涨幅“垫底”。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5972583.d.html</link>
@@ -246,48 +281,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5964091.d.html</link>
             <guid>2235109</guid>
             <pubDate>Fri, 09 Jul 2021 17:43:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫新闻秘书珍·普萨基：总统拜登预计国会将提高债务上限。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4565791.d.html</link>
-            <guid>2235108</guid>
-            <pubDate>Fri, 09 Jul 2021 17:38:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[洲际交易所ICE：上周布伦特原油期货投机性净多头头寸减少4796手至303605手。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5963270.d.html</link>
-            <guid>2235107</guid>
-            <pubDate>Fri, 09 Jul 2021 17:34:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际铜夜盘收涨1.70%，沪铜收涨1.57%，沪铝收涨1.28%，沪锌收涨1.03%，沪铅收涨1.24%，沪镍收涨1.58%，沪锡收涨1.09%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4564440.d.html</link>
-            <guid>2235106</guid>
-            <pubDate>Fri, 09 Jul 2021 17:21:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储在固定利率逆回购中接纳了7806亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4563996.d.html</link>
-            <guid>2235104</guid>
-            <pubDate>Fri, 09 Jul 2021 17:16:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国报告新增4580例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5961816.d.html</link>
-            <guid>2235103</guid>
-            <pubDate>Fri, 09 Jul 2021 17:16:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫新闻秘书珍·普萨基：北溪2号项目将成为总统拜登和德国总理默克尔会谈的议题之一。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5960865.d.html</link>
-            <guid>2235102</guid>
-            <pubDate>Fri, 09 Jul 2021 17:05:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[南非7月9日新增22443例新冠肺炎确诊病例，累计达2157687例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4562964.d.html</link>
-            <guid>2235101</guid>
-            <pubDate>Fri, 09 Jul 2021 17:04:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
