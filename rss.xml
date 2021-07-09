@@ -4,13 +4,56 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Fri, 09 Jul 2021 18:30:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jul 2021 19:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[  恒指期货夜盘收涨1.69%，报27707点，高水362点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5969396.d.html</link>
+            <guid>2235132</guid>
+            <pubDate>Fri, 09 Jul 2021 19:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西经济部长盖德斯：我们不会增税。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4570857.d.html</link>
+            <guid>2235131</guid>
+            <pubDate>Fri, 09 Jul 2021 19:02:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：特斯拉(TSLA.O)与布鲁克菲尔德资管公司将在得州奥斯丁建立太阳能社区。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4570849.d.html</link>
+            <guid>2235130</guid>
+            <pubDate>Fri, 09 Jul 2021 19:02:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  凯投宏观：投资者最终将会对通胀上升和进一步加息之间的某种组合产生怀疑，因为他们预计美联储将采取更多措施，以将通胀重新置于其控制之下。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4570843.d.html</link>
+            <guid>2235129</guid>
+            <pubDate>Fri, 09 Jul 2021 19:02:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[凯投宏观：预计美国长期国债收益率近期的大跌不会持续下去，仍然认为未来几年收益率将会大幅上升。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5968200.d.html</link>
+            <guid>2235128</guid>
+            <pubDate>Fri, 09 Jul 2021 18:49:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  凯投宏观：目前预计到今年年底，10年期美债收益率将升至1.75%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5968198.d.html</link>
+            <guid>2235127</guid>
+            <pubDate>Fri, 09 Jul 2021 18:49:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽元兑美元NZD/USD涨回0.70关口，现涨0.69%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4569802.d.html</link>
+            <guid>2235126</guid>
+            <pubDate>Fri, 09 Jul 2021 18:39:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[上海原油期货主力合约夜盘收涨2.74%，报453.3元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4569344.d.html</link>
             <guid>2235125</guid>
             <pubDate>Fri, 09 Jul 2021 18:30:45 GMT</pubDate>
         </item>
@@ -240,48 +283,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5957526.d.html</link>
             <guid>2235083</guid>
             <pubDate>Fri, 09 Jul 2021 16:31:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国央行行长维勒鲁瓦：预计法国经济在2021年和2022年期间总体增长约10%，即使德尔塔变种病毒导致采取进一步的限制措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5957519.d.html</link>
-            <guid>2235082</guid>
-            <pubDate>Fri, 09 Jul 2021 16:31:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国央行行长维勒鲁瓦在给法国总统马克龙的信中表示，欧洲从新冠大流行的复苏比预期的要强劲，但滞后于美国。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5957456.d.html</link>
-            <guid>2235081</guid>
-            <pubDate>Fri, 09 Jul 2021 16:30:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质勘探局：秘鲁艾纳以南10公里处发生5.0级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5956940.d.html</link>
-            <guid>2235080</guid>
-            <pubDate>Fri, 09 Jul 2021 16:24:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国共和党众议员Katko：美国应该追踪加密货币的黑客足迹。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5956627.d.html</link>
-            <guid>2235079</guid>
-            <pubDate>Fri, 09 Jul 2021 16:21:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美疾控中心鼓励中小学及幼儿园秋季恢复线下教学】美国疾病控制与预防中心最新防疫指南鼓励全美中小学及幼儿园秋季开放线下教学，并称完成接种的学生和教师在室内无需佩戴口罩。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4558879.d.html</link>
-            <guid>2235078</guid>
-            <pubDate>Fri, 09 Jul 2021 16:21:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【高盛：以太坊未来将取代比特币 成为最主流加密货币】高盛发布报告称，以太坊最终会取代比特币成为最主流的加密货币。以太币“目前看起来像是最具有实际使用潜力的加密货币，因为以太币所在的原生数字货币平台也正是最受欢迎的智能合约应用开发平台。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4558737.d.html</link>
-            <guid>2235077</guid>
-            <pubDate>Fri, 09 Jul 2021 16:19:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[一位美国官员说，佛罗里达公寓倒塌造成的累计死亡人数升至78人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5956160.d.html</link>
-            <guid>2235076</guid>
-            <pubDate>Fri, 09 Jul 2021 16:17:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
