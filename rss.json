@@ -6,6 +6,13 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 2235456,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-07-11/detail-ikqcfnca6135126.d.html",
+            "title": "【逐步淘汰燃油公务车 南非正计划采购电动汽车】据南非媒体当地时间7月10日报道，南非政府正在制定“绿色采购指南”，通过购买电动汽车而逐步淘汰目前的燃油公务车。南非交通部发言人阿扬达·潘恩（Ayanda Allie-Paine）表示，南非交通部和南非贸易和工业部正在制定南非“绿色采购指南”，未来电动汽车将替代政府燃油公务车，同时将通过电动汽车和零配件的南非制造，带动南非经济并提高就业机会。未来还将调整目前的电动汽车进口税制，从而推动电动汽车的普及。",
+            "date_modified": "2021-07-10T21:51:22.000Z"
+        },
+        {
             "id": 2235455,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-07-11/detail-ikqciyzk4736372.d.html",
@@ -311,20 +318,6 @@
             "url": "https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4716110.d.html",
             "title": "美国财长耶伦：全球应迅速采取行动以敲定税收协议。",
             "date_modified": "2021-07-10T15:26:53.000Z"
-        },
-        {
-            "id": 2235407,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6113061.d.html",
-            "title": "美国财长耶伦：G20在（应对）气候变化方面取得了进展。",
-            "date_modified": "2021-07-10T15:18:20.000Z"
-        },
-        {
-            "id": 2235406,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6112862.d.html",
-            "title": "沙特媒体：沙特当局将设定国内汽油价格上限，7月10日起当地汽油价格不超过6月的水平。",
-            "date_modified": "2021-07-10T15:14:25.000Z"
         }
     ]
 }

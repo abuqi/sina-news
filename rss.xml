@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 10 Jul 2021 21:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jul 2021 22:21:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【逐步淘汰燃油公务车 南非正计划采购电动汽车】据南非媒体当地时间7月10日报道，南非政府正在制定“绿色采购指南”，通过购买电动汽车而逐步淘汰目前的燃油公务车。南非交通部发言人阿扬达·潘恩（Ayanda Allie-Paine）表示，南非交通部和南非贸易和工业部正在制定南非“绿色采购指南”，未来电动汽车将替代政府燃油公务车，同时将通过电动汽车和零配件的南非制造，带动南非经济并提高就业机会。未来还将调整目前的电动汽车进口税制，从而推动电动汽车的普及。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqcfnca6135126.d.html</link>
+            <guid>2235456</guid>
+            <pubDate>Sat, 10 Jul 2021 21:51:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【东京奥运会允许观众入内的赛场只剩三个】东京奥组委10日宣布，在福岛举行的棒球和垒球比赛以及在札幌举行的足球比赛都将禁止观众入内，这样允许观众观看的奥运会比赛只剩下场地自行车和足球两个项目，赛场只剩下三个。另外，东京奥组委表示，在札幌巨蛋体育场举行的奥运会足球比赛也将闭门举行。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqciyzk4736372.d.html</link>
@@ -271,18 +277,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4716110.d.html</link>
             <guid>2235408</guid>
             <pubDate>Sat, 10 Jul 2021 15:26:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：G20在（应对）气候变化方面取得了进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6113061.d.html</link>
-            <guid>2235407</guid>
-            <pubDate>Sat, 10 Jul 2021 15:18:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特媒体：沙特当局将设定国内汽油价格上限，7月10日起当地汽油价格不超过6月的水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6112862.d.html</link>
-            <guid>2235406</guid>
-            <pubDate>Sat, 10 Jul 2021 15:14:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
