@@ -4,11 +4,41 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 10 Jul 2021 17:24:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jul 2021 18:27:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国疾控中心：截至7月10日，美国新冠肺炎确诊病例累计达33659974例，死亡病例累计达604596例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqciyzk4728566.d.html</link>
+            <guid>2235447</guid>
+            <pubDate>Sat, 10 Jul 2021 18:20:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿联酋新增新冠肺炎确诊病例1520例，累计确诊648702例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqcfnca6124798.d.html</link>
+            <guid>2235446</guid>
+            <pubDate>Sat, 10 Jul 2021 17:56:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【二十国集团财长和央行行长就国际税收框架达成历史性协议】当地时间7月10日，二十国集团财政部长和央行行长第三次会议在意大利威尼斯闭幕，并发布公报称，已就更稳定、更公平的国际税收框架达成历史性协议。报指出，二十国集团支持跨国企业利润重新分配、设置全球最低公司税率等措施，并呼吁更多国家未来加入磋商。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqcfnca6123479.d.html</link>
+            <guid>2235445</guid>
+            <pubDate>Sat, 10 Jul 2021 17:39:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国新增4696例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqcfnca6122761.d.html</link>
+            <guid>2235444</guid>
+            <pubDate>Sat, 10 Jul 2021 17:29:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国新增19例新冠肺炎死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqcfnca6122741.d.html</link>
+            <guid>2235443</guid>
+            <pubDate>Sat, 10 Jul 2021 17:29:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[特斯拉CEO埃隆·马斯克：SpaceX在得州的第二个猛禽发动机生产厂即将破土，工厂将专注批量生产猛禽2火箭发动机。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqciyzk4724401.d.html</link>
@@ -242,35 +272,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6106150.d.html</link>
             <guid>2235399</guid>
             <pubDate>Sat, 10 Jul 2021 13:45:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国财长肖尔茨：正在监测通胀，但估计（通胀上涨）是暂时的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6105180.d.html</link>
-            <guid>2235397</guid>
-            <pubDate>Sat, 10 Jul 2021 13:35:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国财长肖尔茨：20国集团支持全球税收协议的原则。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6104766.d.html</link>
-            <guid>2235396</guid>
-            <pubDate>Sat, 10 Jul 2021 13:30:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国财长肖尔茨：我们肯定会在10月前就税制改革达成最终协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6104484.d.html</link>
-            <guid>2235395</guid>
-            <pubDate>Sat, 10 Jul 2021 13:28:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国财长肖尔茨：20国集团批准了经合组织税收协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6104465.d.html</link>
-            <guid>2235394</guid>
-            <pubDate>Sat, 10 Jul 2021 13:28:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【市场监管总局局长张工：坚决防止资本无序扩张和各种垄断、不正当竞争行为】国家市场监管总局党组书记、局长张工在“培育市场主体优化营商环境”研讨会发表主旨演讲时称，公正监管保障公平竞争，公平竞争提升市场预期和信心。市场监管部门注重统筹活力和秩序、支持和规范、发展和安全，综合运用反垄断、反不正当竞争、消费者权益保护等法律法规，坚决防止资本无序扩张和各种垄断、不正当竞争行为，坚定不移构建知识产权大保护格局。（中国经济时报）]]></title>
-            <guid>2235393</guid>
-            <pubDate>Sat, 10 Jul 2021 13:28:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
