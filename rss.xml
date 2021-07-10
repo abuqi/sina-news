@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 10 Jul 2021 18:27:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jul 2021 19:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[赞比亚新增新冠肺炎确诊病例2384例，累计确诊174789例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqcfnca6127023.d.html</link>
+            <guid>2235448</guid>
+            <pubDate>Sat, 10 Jul 2021 18:36:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国疾控中心：截至7月10日，美国新冠肺炎确诊病例累计达33659974例，死亡病例累计达604596例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqciyzk4728566.d.html</link>
@@ -266,12 +272,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4708730.d.html</link>
             <guid>2235400</guid>
             <pubDate>Sat, 10 Jul 2021 13:47:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海发布生活数字化转型三年行动方案 三年内新建电动汽车充电桩超过5万个】在2021世界人工智能大会闭幕式上，上海市城市数字化转型工作领导小组办公室发布了《推进上海生活数字化转型 构建高品质数字生活行动方案（2021—2023年）》。其中提出，到2023年，上海建成至少50个生活数字化转型标杆场景，推动上海建设成为全球数字生活的新兴技术试验场、模式创新先行区、智能体验未来城；新建电动汽车充电桩超过5万个，新建智能快件箱1.2万组。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6106150.d.html</link>
-            <guid>2235399</guid>
-            <pubDate>Sat, 10 Jul 2021 13:45:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
