@@ -4,11 +4,28 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 10 Jul 2021 19:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jul 2021 20:20:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[希腊新增新冠肺炎确诊病例2327例，累计确诊437345例；新增死亡病例2例，累计死亡12787例。]]></title>
+            <guid>2235452</guid>
+            <pubDate>Sat, 10 Jul 2021 20:02:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯国防部：俄黑海舰队对7月10日进入黑海的希腊海军"达尼奥洛斯"号导弹艇的动向保持监控。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqcfnca6130254.d.html</link>
+            <guid>2235451</guid>
+            <pubDate>Sat, 10 Jul 2021 19:45:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其新增新冠肺炎确诊病例5530例，累计确诊5476294例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqcfnca6129145.d.html</link>
+            <guid>2235450</guid>
+            <pubDate>Sat, 10 Jul 2021 19:20:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[赞比亚新增新冠肺炎确诊病例2384例，累计确诊174789例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqcfnca6127023.d.html</link>
@@ -260,18 +277,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6108843.d.html</link>
             <guid>2235403</guid>
             <pubDate>Sat, 10 Jul 2021 14:18:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新能源汽车电池荒来袭，全球动力电池缺口或将达40%】 一场“电池荒”正悄然来袭。赣锋锂业是江西省新余市的一家锂电池厂商，为特斯拉Model 3、比亚迪汉等多款新能源汽车供货。负责人表示，一个月基本上28天满负荷进行生产。近日亿纬锂能在公告中披露，公司现有场地及生产线已满负荷运转，但近一年仍将供不应求。全球新兴能源市场调研机构SNE Research预测，到2023年，全球电动汽车对动力电池的需求达406千兆瓦时（GWH），而动力电池供应预计为335千兆瓦时(GWH)，缺口约18%；到2025年，这一缺口将扩大到约40%。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6107010.d.html</link>
-            <guid>2235401</guid>
-            <pubDate>Sat, 10 Jul 2021 13:56:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场监管总局局长张工在“培育市场主体优化营商环境”研讨会上表示，坚决防止资本无序扩张和各种垄断、不正当竞争行为，坚定不移构建知识产权大保护格局。（中国经济时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4708730.d.html</link>
-            <guid>2235400</guid>
-            <pubDate>Sat, 10 Jul 2021 13:47:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
