@@ -4,11 +4,29 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 10 Jul 2021 14:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jul 2021 15:26:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国财长耶伦：G20在（应对）气候变化方面取得了进展。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6113061.d.html</link>
+            <guid>2235407</guid>
+            <pubDate>Sat, 10 Jul 2021 15:18:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沙特媒体：沙特当局将设定国内汽油价格上限，7月10日起当地汽油价格不超过6月的水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6112862.d.html</link>
+            <guid>2235406</guid>
+            <pubDate>Sat, 10 Jul 2021 15:14:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国新增32367例新冠肺炎确诊病例，新增34例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4714618.d.html</link>
+            <guid>2235405</guid>
+            <pubDate>Sat, 10 Jul 2021 15:04:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【上海发布经济数字化转型三年行动方案，将打造“50+”市值超百亿元流量型企业】 7月10日在2021世界人工智能大会闭幕式上，上海市城市数字化转型工作领导小组办公室发布了《推进上海经济数字化转型 赋能高质量发展行动方案（2021-2023年）》，拟推进上海经济数字化转型，重点聚焦12个专项行动、形成40项重点任务，集中突破“100+”关键技术、形成“100+”标准化算法产品、培育“100+”智能硬件产品，打造“50+”市值超百亿元的流量型企业。到2023年，将上海打造成为世界级的创新型产业集聚区、数字经济与实体经济融合发展示范区、经济数字化转型生态建设引领区，成为数字经济国际创新合作典范之城。（上证报）]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6108843.d.html</link>
@@ -221,12 +239,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6081726.d.html</link>
             <guid>2235346</guid>
             <pubDate>Sat, 10 Jul 2021 09:37:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国家计算机病毒应急处理中心监测发现18款违法移动应用】国家计算机病毒应急处理中心近期通过互联网监测，发现18款移动应用存在隐私不合规行为，违反网络安全法相关规定，涉嫌超范围采集个人隐私信息，将对它们采取通报整改等处理举措。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6079543.d.html</link>
-            <guid>2235343</guid>
-            <pubDate>Sat, 10 Jul 2021 09:20:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
