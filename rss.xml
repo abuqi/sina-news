@@ -4,11 +4,177 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Fri, 09 Jul 2021 23:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jul 2021 01:07:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：韩国财长洪南基与美国财长耶伦就伊朗资金转移问题进行了沟通。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4603588.d.html</link>
+            <guid>2235214</guid>
+            <pubDate>Sat, 10 Jul 2021 01:06:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚新南威尔士州新增50例本土新冠肺炎确诊病例，其中37例为已知群聚感染病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4603170.d.html</link>
+            <guid>2235213</guid>
+            <pubDate>Sat, 10 Jul 2021 01:04:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国家卫健委最新数据显示，7月9日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增无症状感染者16例，其中境外输入13例，本土3例（均在云南）；当日转为确诊病例3例（均为境外输入）；当日解除医学观察15例（均为境外输入）；尚在医学观察的无症状感染者480例（境外输入471例）。]]></title>
+            <guid>2235211</guid>
+            <pubDate>Sat, 10 Jul 2021 01:01:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国家卫健委最新数据显示，7月9日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例26例，其中境外输入病例19例（上海6例，云南4例，四川3例，陕西3例，天津2例，广东1例），本土病例7例（均在云南）；无新增死亡病例；新增疑似病例2例，均为境外输入病例（均在上海）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4602296.d.html</link>
+            <guid>2235209</guid>
+            <pubDate>Sat, 10 Jul 2021 00:59:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家运输安全委员会已经找到7月2日在夏威夷欧胡岛(Oahu)坠毁的飞机残骸。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5999518.d.html</link>
+            <guid>2235206</guid>
+            <pubDate>Sat, 10 Jul 2021 00:56:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网自动测定：07月10日08时43分在印尼马鲁古海北部附近（北纬2.88度，东经126.66度）发生6.2级左右地震，最终结果以正式速报为准。]]></title>
+            <guid>2235205</guid>
+            <pubDate>Sat, 10 Jul 2021 00:49:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【海产品外包装检出阳性 海关总署暂停印度5家企业进口申报】海关总署网站7月10日消息，因从进口自印度4批次冻南美白虾的7个外包装和5个内包装样本以及1批次冻鱿鱼的2个外包装样本中检出新冠病毒核酸阳性。海关总署暂停印度5家企业进口申报。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5997599.d.html</link>
+            <guid>2235204</guid>
+            <pubDate>Sat, 10 Jul 2021 00:44:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国政府高级官员表示，目前没有向海地提供军事援助的计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4598049.d.html</link>
+            <guid>2235203</guid>
+            <pubDate>Sat, 10 Jul 2021 00:35:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据俄罗斯卫星网10日报道，海地参议院宣布参议院长克劳德·约瑟夫为临时总统。（海外网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4597505.d.html</link>
+            <guid>2235201</guid>
+            <pubDate>Sat, 10 Jul 2021 00:32:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华为加拿大公司就法官拒绝引入新证据发表声明：遗憾！】当地时间7月9日，加拿大不列颠哥伦比亚省高等法院就孟晚舟律师要求引入新证据的申请作出判决，法官拒绝引入从汇丰银行获取的新证据。对于这一判决结果，华为加拿大在一份声明中表示，尊重法庭的判决，但对这样的结果表示遗憾。华为表示，尽管法庭拒绝引入新证据，但这些从汇丰银行获得的文件清楚表明，汇丰银行及其高管均知晓华为公司与星通公司的关系，以及星通公司在伊朗的业务。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5994718.d.html</link>
+            <guid>2235199</guid>
+            <pubDate>Sat, 10 Jul 2021 00:29:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗首都德黑兰西部发生大规模爆炸并起火】当地时间9日晚些时候，伊朗首都德黑兰西部地区发生大规模爆炸并起火，伤亡情况尚不清楚。报道援引当地媒体消息称，爆炸发生后，消防和救援队赶到现场。 (环球网)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5994628.d.html</link>
+            <guid>2235198</guid>
+            <pubDate>Sat, 10 Jul 2021 00:28:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯财政部长安东·西卢阿诺夫表示，三大评级机构先后确认俄罗斯的信用评级，证明了俄罗斯政府宏观经济政策的有效性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4596454.d.html</link>
+            <guid>2235197</guid>
+            <pubDate>Sat, 10 Jul 2021 00:25:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海昨日新增6例境外输入新冠肺炎确诊病例】上海市卫健委10日通报：7月9日0-24时，通过口岸联防联控机制，报告6例境外输入性新冠肺炎确诊病例。新增治愈出院2例，其中来自西班牙1例，来自美国1例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5992399.d.html</link>
+            <guid>2235196</guid>
+            <pubDate>Sat, 10 Jul 2021 00:14:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中原证券：短线谨慎关注有色金属、新能源锂电等行业投资机会】中原证券研报指出，预计沪指短线小幅震荡的可能性较大，创业板市场短线小幅整理的可能较大。建议投资者短线谨慎关注有色金属、新能源锂电、化工以及汽车等行业的投资机会，中线继续关注低估值蓝筹股的投资机会。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5992304.d.html</link>
+            <guid>2235195</guid>
+            <pubDate>Sat, 10 Jul 2021 00:13:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[全球最大白银ETF--iShares Silver Trust持仓较上日减少28.84吨，当前持仓量为17267.1吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5990906.d.html</link>
+            <guid>2235194</guid>
+            <pubDate>Sat, 10 Jul 2021 00:05:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【车险前5个月增速现“剪刀差”：保费同比降7%保额大增67%】 银保监会近期披露的数据显示，今年前5个月车险保费达3140亿元，同比下降7%；不过，车险保额达323.8万亿元，同比增速高达67%。车险保费增速与保额增速出现了明显的“剪刀差”。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5990815.d.html</link>
+            <guid>2235193</guid>
+            <pubDate>Sat, 10 Jul 2021 00:05:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国佛罗里达州住宅楼倒塌事故死亡人数上升至78人】美国佛罗里达州迈阿密-戴德县县长丹妮拉·莱雯·卡瓦当地时间7月9日宣布，迈阿密住宅楼楼倒塌事故的死亡人数已经上升至78人，还有62人下落不明。自6月24日倒塌事故发生以来，搜救人员还未在废墟中发现幸存者。卡瓦称，寻找受难者的工作仍在紧迫地进行当中。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5988949.d.html</link>
+            <guid>2235190</guid>
+            <pubDate>Fri, 09 Jul 2021 23:53:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京7月9日无新增新冠肺炎确诊病例】7月9日0时至24时，北京无新增本地确诊病例、疑似病例和无症状感染者；无新增境外输入确诊病例、疑似病例和无症状感染者。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4591002.d.html</link>
+            <guid>2235189</guid>
+            <pubDate>Fri, 09 Jul 2021 23:53:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中金公司：货币政策或在中期都将保持稳中偏松】中金公司研报指出，本次央行宣布的全面降准释放正是“紧信用、松货币、宽财政”政策组合的体现，也确认了央行不会因为供给约束导致的通胀而收紧货币政策，而是更注重通胀灰犀牛对企业利润的挤压、债务风险的影响，此次降准置换MLF并非“大水漫灌”，主要目的是以短换长、降低金融机构负债成本，进一步推动综合融资利率下行，助力金融支持实体。货币政策或在中期都将保持稳中偏松，三农、小微、民企、绿色再贷款再贴现等货币政策工具或也将发力，发挥结构性支持实体的作用。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5987718.d.html</link>
+            <guid>2235188</guid>
+            <pubDate>Fri, 09 Jul 2021 23:45:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【太保新添一张投资牌照 保险系私募基金迎市场化扩容】来自中国证券投资基金业协会的信息显示，太保私募基金管理有限公司近日完成私募股权、创业投资基金管理人备案登记。太保私募基金由中国太保旗下太保资产100%持股，注册资本1亿元，中国太保总裁傅帆出任董事长。随着太保私募基金的设立，保险系私募基金再次迎来扩容。记者获悉，在政策鼓励保险资金发挥长期稳健投资优势、保险公司自身提高长期投资回报水平诉求上升等多因素驱动下，还有不少保险公司正计划申请设立私募基金。（上海证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5986362.d.html</link>
+            <guid>2235187</guid>
+            <pubDate>Fri, 09 Jul 2021 23:35:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【贝莱德：战略性超配中国股票】全球资管巨头贝莱德正在积极布局A股，在2021年下半年展望中，贝莱德首次将中国资产与新兴资产区分开来，作为独立的战术配置类别，并提出“战略性超配中国股票”。此外，贝莱德申报的首只中国内地公募基金产品也已经“箭在弦上”。（上海证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5985991.d.html</link>
+            <guid>2235186</guid>
+            <pubDate>Fri, 09 Jul 2021 23:32:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【专家：不锈钢消费空间大 产业链建设亟待完善】在7月8日举行的2021（第一届）中国建筑用不锈钢创新论坛上，与会专家表示，我国不锈钢消费仍有较大发展空间。不锈钢具有耐腐蚀、少维护、低碳环保等特点，契合绿色建筑发展趋势，应加大不锈钢在建筑领域的推广力度。目前，不锈钢行业仍面临不少挑战，亟需在夯实发展基础、构建差异化竞争力、延伸产业链等方面加大努力。（中国证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5985820.d.html</link>
+            <guid>2235185</guid>
+            <pubDate>Fri, 09 Jul 2021 23:31:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 【A股结构性机会犹存 “聪明钱”涌入高景气赛道】本周，A股市场呈现震荡走势。稀土、稀有金属以及锂电池相关概念板块集体爆发，“聪明钱”北向资金毫不掩饰对科技成长类、高景气度股票的喜爱。在此背景下，分析人士认为，央行降准或打消市场对流动性环境会否继续宽松的疑虑，对市场无疑形成利好。（中国证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4587693.d.html</link>
+            <guid>2235184</guid>
+            <pubDate>Fri, 09 Jul 2021 23:29:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[除了头版内容，今天《人民日报》涉及财经的主要内容还包括：1、新征程上，必须不断推动构建人类命运共同体——论学习贯彻习近平总书记在庆祝中国共产党成立一百周年大会上重要讲话；2、央行下调存款准备金率0.5个百分点，促进综合融资成本稳中有降；3、6月CPI、PPI涨幅均小幅回落，物价总体运行平稳。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5985444.d.html</link>
+            <guid>2235183</guid>
+            <pubDate>Fri, 09 Jul 2021 23:28:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[今天《人民日报》头版的主要内容有：1、习近平主持召开中央全面深化改革委员会第二十次会议强调，统筹指导构建新发展格局，推进种业振兴，推动青藏高原生态环境保护和可持续发展，李克强王沪宁韩正出席；2、就中南建交10周年，习近平同南苏丹总统基尔互致贺电；3、哥伦比亚总统杜克通过视频方式向习近平主席致以问候；4、“文明其精神，野蛮其体魄”（习近平的小康故事）——习近平同少年儿童的故事；5、栗战书主持召开第九十七次委员长会议，审议有关法律草案；6、全国政协召开双周协商座谈会，围绕“加快绿色发展，保障农产品质量安全”协商议政，汪洋主持；7、王岐山出席基辛格秘密访华50周年纪念活动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4587454.d.html</link>
+            <guid>2235182</guid>
+            <pubDate>Fri, 09 Jul 2021 23:28:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿根廷经济部公告：经济部长Martin Guzman将于7月10日在威尼斯G20会议的间隙会见美国财长耶伦，并与法国财长Le Maire和西班牙经济大臣Nadia Calvino（分别）举行双边会谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4586824.d.html</link>
+            <guid>2235181</guid>
+            <pubDate>Fri, 09 Jul 2021 23:23:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【通用汽车因侧气囊安全隐患召回超41万辆皮卡】当地时间7月9日，美国国家公路交通安全管理局（NHTSA）表示，由于汽车侧气囊出现安全隐患，通用汽车正在召回部分2015年和2016年款雪佛兰索罗德和GMC Sierra1500、2500和3500卡车，共计410019辆。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4586685.d.html</link>
+            <guid>2235180</guid>
+            <pubDate>Fri, 09 Jul 2021 23:22:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【武汉：全力支持重点企业做大做强】武汉市市长程用文9日主持召开支持重点企业做大做强座谈会。程用文说，政府要当好“金牌店小二”，给环境、给服务、给市场、给场景、给数据、给政策、给平台、给渠道，加快营造一流营商环境，加快完善金融、质量等服务体系，更大力度实施首台首套等政策，更大力度开放应用场景，更大力度推进信息数据共享，更大力度制定有效管用政策措施，更大力度搭建创新就业等平台，更大力度畅通政企沟通渠道，全力支持重点企业做大做强。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5984628.d.html</link>
+            <guid>2235179</guid>
+            <pubDate>Fri, 09 Jul 2021 23:22:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【广东昨日新增境外输入确诊病例1例、无症状感染者3例】广东省卫健委公布的数据显示，7月9日0-24时，全省新增境外输入确诊病例1例，广州报告1例，来自缅甸。新增境外输入无症状感染者3例，广州报告2例，分别来自伊拉克、孟加拉国；深圳报告1例，均来自印度。新增出院5例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5983766.d.html</link>
@@ -116,166 +282,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5974593.d.html</link>
             <guid>2235157</guid>
             <pubDate>Fri, 09 Jul 2021 21:15:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【法官未同意孟晚舟引入新证据的申请】当地时间7月9日下午，加拿大不列颠哥伦比亚省高等法院就孟晚舟的律师要求引入新证据的申诉做出判决，法官不同意引入从汇丰银行获取的新证据。这意味着，孟晚舟在8月举行的最后阶段审理中，将无法使用这些新证据来证明美方提交法庭的引渡依据——《案件记录》存在重大遗漏并误导了法庭。有法律界人士认为，如果引入这些新证据，将对美方要求引渡的关键证据构成挑战。法官不同意引入这些新证据，对辩方律师在最后阶段的审理中要求终止引渡程序是不利的。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4576482.d.html</link>
-            <guid>2235156</guid>
-            <pubDate>Fri, 09 Jul 2021 21:09:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉确认俄罗斯评级为“BBB”；前景展望稳定。]]></title>
-            <guid>2235155</guid>
-            <pubDate>Fri, 09 Jul 2021 21:04:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美联储首次在金融风险评估中提及加密资产】美联储在其对金融体系稳定性的总体评估中首次特别提到加密货币资产价格的飙升，称这种上涨反映出投资者风险偏好的增加。报告还称，如果投资者风险偏好下降、利率意外上升或复苏停滞，资产价格可能容易大幅下跌。美联储在货币政策报告中表示，自2月份向国会提交上一份报告以来，金融体系的某些部分已经变得更容易受到潜在不稳定因素的影响，但体系的核心依然具有韧性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5973828.d.html</link>
-            <guid>2235154</guid>
-            <pubDate>Fri, 09 Jul 2021 20:56:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：日本本州东海岸发生5.3级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4575356.d.html</link>
-            <guid>2235152</guid>
-            <pubDate>Fri, 09 Jul 2021 20:39:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股大类资产类ETF中，罗素2000指数ETF收涨逾2.1%，新兴市场ETF和美国布伦特原油基金（BNO）涨约1.7%，美国房地产ETF、标普500价值ETF、道指ETF、标普500ETF均涨超1.0%，恐慌指数做多ETF表现最差，收跌逾6.7%，美国国债20+年ETF以超过1.4%的跌幅紧随其后，美国国债7-10年ETF也跌0.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5972585.d.html</link>
-            <guid>2235151</guid>
-            <pubDate>Fri, 09 Jul 2021 20:21:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股行业ETF中，区域银行ETF收涨将近4.5%领跑，银行业ETF涨超3.8%，金融业ETF也涨超2.8%，全球航空业ETF涨超2.3%，能源业ETF涨超2.1%，公用事业ETF以不足0.2%的涨幅“垫底”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5972583.d.html</link>
-            <guid>2235150</guid>
-            <pubDate>Fri, 09 Jul 2021 20:21:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[道指成分股里，高盛收涨将近3.6%，摩根大通和TRV至少涨3.2%，陶氏化学、美国运通、卡特彼勒、迪士尼、霍尼韦尔至少涨约2.3%，默沙东则收跌将近0.2%，CRM也跌0.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5972575.d.html</link>
-            <guid>2235149</guid>
-            <pubDate>Fri, 09 Jul 2021 20:21:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英镑兑美元GBP/USD站上1.39，日内涨0.86%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4574691.d.html</link>
-            <guid>2235148</guid>
-            <pubDate>Fri, 09 Jul 2021 20:21:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：斐济群岛南部发生5.0级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5972469.d.html</link>
-            <guid>2235147</guid>
-            <pubDate>Fri, 09 Jul 2021 20:18:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股三大股指均创收盘新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5971739.d.html</link>
-            <guid>2235146</guid>
-            <pubDate>Fri, 09 Jul 2021 20:01:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股三大指数强势高收，道指初步收涨约400点，金融股领涨大市，中概股止跌回升，基建相关板块维持涨势。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4573776.d.html</link>
-            <guid>2235145</guid>
-            <pubDate>Fri, 09 Jul 2021 20:00:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  临近收盘，纳指涨幅扩大至1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4573366.d.html</link>
-            <guid>2235144</guid>
-            <pubDate>Fri, 09 Jul 2021 19:50:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【市场分析：金价在复苏逆风中连续第三周上涨】对于新冠病毒变异毒株可能危及经济复苏的担忧刺激了投资者对避险资产的需求，金价连续第三周上涨。在经历了惨淡的6月份之后，黄金正重新赢得投资者的支持，这得益于美国国债收益率的大幅下降，增强了这种无息金属的吸引力。尽管美国国债收益率和股市周五反弹，但金价仍保持涨势。盛宝银行分析师Ole Hansen表示，黄金作为一种对冲未知事态发展的能力在过去一个月得到加强。如果全球复苏不像预期的那样进行，或者通胀开始超出预期，黄金将有很大的上行潜力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4573221.d.html</link>
-            <guid>2235143</guid>
-            <pubDate>Fri, 09 Jul 2021 19:47:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至7月6日当周，美元投机性净空头押注降至83亿美元，创4月以来新低。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4572899.d.html</link>
-            <guid>2235142</guid>
-            <pubDate>Fri, 09 Jul 2021 19:39:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至7月6日当周，COMEX铜期货投机性净多头头寸增加4930手至32506手。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5970620.d.html</link>
-            <guid>2235141</guid>
-            <pubDate>Fri, 09 Jul 2021 19:34:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至7月6日当周，投机者将CBOT美国10年期国债期货合约净空头头寸减少34367手至25593手。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5970577.d.html</link>
-            <guid>2235140</guid>
-            <pubDate>Fri, 09 Jul 2021 19:33:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至7月6日当周，WTI原油期货投机性净多头头寸减少34423手至383913手。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5970572.d.html</link>
-            <guid>2235139</guid>
-            <pubDate>Fri, 09 Jul 2021 19:33:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至7月6日当周，COMEX白银期货投机性净多头头寸增加2416手至35557手。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5970501.d.html</link>
-            <guid>2235138</guid>
-            <pubDate>Fri, 09 Jul 2021 19:31:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至7月6日当周，COMEX黄金期货投机性净多头头寸增加20487手至93004手。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4572532.d.html</link>
-            <guid>2235137</guid>
-            <pubDate>Fri, 09 Jul 2021 19:31:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  小牛电动尾盘涨幅扩大至10%，最高报33.32美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5970357.d.html</link>
-            <guid>2235136</guid>
-            <pubDate>Fri, 09 Jul 2021 19:28:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联邦贸易委员会主席Lina Khan：当前的企业合并指引需要“重点审核”。]]></title>
-            <guid>2235135</guid>
-            <pubDate>Fri, 09 Jul 2021 19:23:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拜登签署行政命令以促进美国各行业竞争】美国总统拜登当地时间7月9日签署了一项行政命令，以促进美国各行业的竞争。这项法案针对科技、医疗和其他领域的反竞争做法提出了指导和限制措施，同时意在提高工人收入，为消费者提供保护。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4571869.d.html</link>
-            <guid>2235133</guid>
-            <pubDate>Fri, 09 Jul 2021 19:17:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  恒指期货夜盘收涨1.69%，报27707点，高水362点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5969396.d.html</link>
-            <guid>2235132</guid>
-            <pubDate>Fri, 09 Jul 2021 19:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西经济部长盖德斯：我们不会增税。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4570857.d.html</link>
-            <guid>2235131</guid>
-            <pubDate>Fri, 09 Jul 2021 19:02:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：特斯拉(TSLA.O)与布鲁克菲尔德资管公司将在得州奥斯丁建立太阳能社区。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4570849.d.html</link>
-            <guid>2235130</guid>
-            <pubDate>Fri, 09 Jul 2021 19:02:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  凯投宏观：投资者最终将会对通胀上升和进一步加息之间的某种组合产生怀疑，因为他们预计美联储将采取更多措施，以将通胀重新置于其控制之下。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4570843.d.html</link>
-            <guid>2235129</guid>
-            <pubDate>Fri, 09 Jul 2021 19:02:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[凯投宏观：预计美国长期国债收益率近期的大跌不会持续下去，仍然认为未来几年收益率将会大幅上升。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5968200.d.html</link>
-            <guid>2235128</guid>
-            <pubDate>Fri, 09 Jul 2021 18:49:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
