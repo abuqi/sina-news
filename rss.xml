@@ -4,11 +4,89 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Thu, 15 Jul 2021 17:27:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jul 2021 18:26:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[基金分析公司理柏（Lipper）：预计市政债基金本周流入22亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5712565.d.html</link>
+            <guid>2240847</guid>
+            <pubDate>Thu, 15 Jul 2021 18:25:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[基金分析公司理柏（Lipper）：美国高收益基金本周流出14亿美元资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7109470.d.html</link>
+            <guid>2240846</guid>
+            <pubDate>Thu, 15 Jul 2021 18:24:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫顾问SPERLING：我们计划增加经济适用房的供应。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7109461.d.html</link>
+            <guid>2240845</guid>
+            <pubDate>Thu, 15 Jul 2021 18:23:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  COMEX 8月黄金期货收涨0.2%，连续三个交易日上涨，报1829美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5712490.d.html</link>
+            <guid>2240844</guid>
+            <pubDate>Thu, 15 Jul 2021 18:23:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国众议院议长佩洛西：众议院将修改3.5万亿美元的民主党预算法案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7108969.d.html</link>
+            <guid>2240843</guid>
+            <pubDate>Thu, 15 Jul 2021 18:17:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据美国国家公共电台NPR：美国财长耶伦预计通胀将在中期内消退。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5711911.d.html</link>
+            <guid>2240842</guid>
+            <pubDate>Thu, 15 Jul 2021 18:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉CEO埃隆·马斯克：坦率地说，Cybertruck总会有失败的可能，因为它与其他任何东西都不一样。 我不在乎。即使其他人不喜欢，我也非常喜欢它。 其他卡车看起来像是同一件东西的复制品，但Cybertruck 看起来像是由来自未来的外星人制造的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7108236.d.html</link>
+            <guid>2240840</guid>
+            <pubDate>Thu, 15 Jul 2021 18:05:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫：拜登将致力于使预算法案通过国会的批准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7107134.d.html</link>
+            <guid>2240839</guid>
+            <pubDate>Thu, 15 Jul 2021 17:51:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据英国《金融时报》：德意志银行可能向西班牙的50多家公司不当销售了外汇衍生品  。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5709773.d.html</link>
+            <guid>2240838</guid>
+            <pubDate>Thu, 15 Jul 2021 17:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫：拜登政府的专家认为，预计“大部分物价上涨”将是暂时的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7105405.d.html</link>
+            <guid>2240837</guid>
+            <pubDate>Thu, 15 Jul 2021 17:33:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新闻秘书珍·普萨基：美国将对通货膨胀保持警惕。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7105326.d.html</link>
+            <guid>2240836</guid>
+            <pubDate>Thu, 15 Jul 2021 17:32:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国民主党的法案将填补内幕交易的漏洞。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5708560.d.html</link>
+            <guid>2240835</guid>
+            <pubDate>Thu, 15 Jul 2021 17:32:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳指跌幅扩大至1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7105261.d.html</link>
+            <guid>2240834</guid>
+            <pubDate>Thu, 15 Jul 2021 17:31:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国十年期国债收益率跌至1.30%下方，日内跌近5个基点。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5708044.d.html</link>
@@ -217,90 +295,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5699736.d.html</link>
             <guid>2240795</guid>
             <pubDate>Thu, 15 Jul 2021 15:52:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储埃文斯：仍认为美联储将于2024年加息。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqcfnca7096242.d.html</link>
-            <guid>2240794</guid>
-            <pubDate>Thu, 15 Jul 2021 15:48:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货钯金跌4%，现报2714.5美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5699327.d.html</link>
-            <guid>2240793</guid>
-            <pubDate>Thu, 15 Jul 2021 15:45:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储埃文斯：认为美国将在年底前看到实质性的进一步进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqcfnca7096010.d.html</link>
-            <guid>2240792</guid>
-            <pubDate>Thu, 15 Jul 2021 15:44:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储主席鲍威尔：在大流行期间财政政策强有力地介入，为有需要的人们提供支持。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqcfnca7095955.d.html</link>
-            <guid>2240791</guid>
-            <pubDate>Thu, 15 Jul 2021 15:43:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储埃文斯：美联储需要实现其目标，过早缩减规模可能会削弱这一点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqcfnca7095947.d.html</link>
-            <guid>2240790</guid>
-            <pubDate>Thu, 15 Jul 2021 15:43:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储埃文斯：仍然担心过去多年的低利率环境意味着很难实现通胀目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqcfnca7095838.d.html</link>
-            <guid>2240789</guid>
-            <pubDate>Thu, 15 Jul 2021 15:42:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  在岸人民币兑美元（CNY）北京时间23:30收报6.4615元，较周三夜盘收盘涨75点。成交量467.70亿美元，较周三增加96.69亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5699093.d.html</link>
-            <guid>2240788</guid>
-            <pubDate>Thu, 15 Jul 2021 15:42:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储埃文斯：如果年底失业率达到4.5%，美联储可能会调整政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5698973.d.html</link>
-            <guid>2240787</guid>
-            <pubDate>Thu, 15 Jul 2021 15:41:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国共和党参议员罗姆尼：美国国税局的执法可能会从基础设施计划中移除。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5698824.d.html</link>
-            <guid>2240786</guid>
-            <pubDate>Thu, 15 Jul 2021 15:39:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储埃文斯：可能需几个月的时间来确定缩减购债规模的时机。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqcfnca7095304.d.html</link>
-            <guid>2240785</guid>
-            <pubDate>Thu, 15 Jul 2021 15:35:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储主席鲍威尔：认为美联储继续实行宽松的货币政策是合适的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5698492.d.html</link>
-            <guid>2240784</guid>
-            <pubDate>Thu, 15 Jul 2021 15:35:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储埃文斯：在通货膨胀问题上，我们有足够的信心，认为高通货膨胀将是暂时的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqcfnca7095267.d.html</link>
-            <guid>2240783</guid>
-            <pubDate>Thu, 15 Jul 2021 15:35:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储埃文斯：如果通货膨胀看起来更持久，那么我们可能需要早些调整立场。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqcfnca7095263.d.html</link>
-            <guid>2240782</guid>
-            <pubDate>Thu, 15 Jul 2021 15:35:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储埃文斯：在缩减购债规模之前，希望看到我们走上了降低失业率的轨道。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5698468.d.html</link>
-            <guid>2240781</guid>
-            <pubDate>Thu, 15 Jul 2021 15:35:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
