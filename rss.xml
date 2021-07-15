@@ -4,11 +4,83 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Thu, 15 Jul 2021 18:26:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jul 2021 19:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：参议院计划通过预算强制推行清洁能源。该计划还将奖励那些通过清洁能源获得收益的公用事业企业。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5715923.d.html</link>
+            <guid>2240860</guid>
+            <pubDate>Thu, 15 Jul 2021 19:14:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国民主党将对未达到气候目标的公用事业企业进行处罚。该计划是3.5万亿美元税收和支出法案的一部分。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7112661.d.html</link>
+            <guid>2240859</guid>
+            <pubDate>Thu, 15 Jul 2021 19:13:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Paypal：将加密货币的购买上限提高至10万美元/周。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7112165.d.html</link>
+            <guid>2240858</guid>
+            <pubDate>Thu, 15 Jul 2021 19:08:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒指期货夜盘收跌0.46%，报27882点，低水114点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7111665.d.html</link>
+            <guid>2240856</guid>
+            <pubDate>Thu, 15 Jul 2021 19:01:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国佛罗里达州新增7011例新冠肺炎确诊病例，创4月22日以来新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7111191.d.html</link>
+            <guid>2240855</guid>
+            <pubDate>Thu, 15 Jul 2021 18:53:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国金融行为监管局（FCA）承诺投入1520万美元用于一项数字营销活动，以提醒年轻投资者警惕包括加密货币在内的高风险投资。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7111180.d.html</link>
+            <guid>2240854</guid>
+            <pubDate>Thu, 15 Jul 2021 18:53:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥新增233例新冠肺炎死亡病例，累计死亡病例达235740例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7110119.d.html</link>
+            <guid>2240853</guid>
+            <pubDate>Thu, 15 Jul 2021 18:34:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥新增12821例新冠肺炎确诊病例，累计确诊病例达2629648例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5713083.d.html</link>
+            <guid>2240852</guid>
+            <pubDate>Thu, 15 Jul 2021 18:33:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【鲍威尔表示美联储可能会要求银行进行气候风险测试】美联储主席鲍威尔周四暗示，美联储可能最终会要求银行进行气候风险测试，以判断它们是否容易受到气候变化的影响。“我的猜测是这是我们将要走的方向，但我们还没有准备好去做。“一些欧洲国家央行已经在让银行进行气候压力情境演练。这些测试旨在确定银行对极端天气事件和气候变暖其他长期影响的准备程度和韧性。鲍威尔表示，“气候风险测试对金融机构和监管当局来说都是一个非常有益的做法。”]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7109942.d.html</link>
+            <guid>2240851</guid>
+            <pubDate>Thu, 15 Jul 2021 18:31:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海原油期货主力合约夜盘收跌2.62%，报437.9元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5712925.d.html</link>
+            <guid>2240850</guid>
+            <pubDate>Thu, 15 Jul 2021 18:31:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海黄金交易所黄金T+D 7月16日（周五）晚盘收盘下跌0.04%报379.65元/克；上海黄金交易所白银T+D 7月16日（周五）晚盘收盘上涨0.04%报5422.0元/千克。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7109875.d.html</link>
+            <guid>2240849</guid>
+            <pubDate>Thu, 15 Jul 2021 18:30:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油期货短线跌0.5美元，现报71.72美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7109816.d.html</link>
+            <guid>2240848</guid>
+            <pubDate>Thu, 15 Jul 2021 18:29:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[基金分析公司理柏（Lipper）：预计市政债基金本周流入22亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5712565.d.html</link>
@@ -217,84 +289,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5703739.d.html</link>
             <guid>2240811</guid>
             <pubDate>Thu, 15 Jul 2021 16:39:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“新债王”冈拉克：短期内美元似乎保持坚挺。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7100023.d.html</link>
-            <guid>2240810</guid>
-            <pubDate>Thu, 15 Jul 2021 16:34:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“新债王”冈拉克：从长远来看，美元前景注定不利。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5703269.d.html</link>
-            <guid>2240809</guid>
-            <pubDate>Thu, 15 Jul 2021 16:34:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“新债王”冈拉克：很多事情都让我回想起美国上世纪70年代出现的高通胀。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7099589.d.html</link>
-            <guid>2240807</guid>
-            <pubDate>Thu, 15 Jul 2021 16:29:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“新债王”冈拉克：美联储已经证明他们错了。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7099573.d.html</link>
-            <guid>2240806</guid>
-            <pubDate>Thu, 15 Jul 2021 16:29:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“新债王”冈拉克：股票仍然比债券便宜。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7099565.d.html</link>
-            <guid>2240805</guid>
-            <pubDate>Thu, 15 Jul 2021 16:29:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“新债王”冈拉克：美国股票的估值非常高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7099139.d.html</link>
-            <guid>2240804</guid>
-            <pubDate>Thu, 15 Jul 2021 16:25:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[小米集团董事长雷军：Canalys刚刚发布了第二季度全球智能手机市占率排名，小米手机销量超越了苹果，首次晋升全球第二。数据显示，小米全球智能手机市占率达到 17%，同比增长83%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5702023.d.html</link>
-            <guid>2240803</guid>
-            <pubDate>Thu, 15 Jul 2021 16:20:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国住宅销量下滑 买家争抢导致市场存量稀缺】美国历史上竞争最激烈的房地产市场销售开始停滞。Redfin Corp季节性因素调整后数据显示，美国6月份房产交易量环比下降1.2%，是2012年有记录以来最大同期月度降幅。库存达到历史最低，平均挂牌14天即售出，是有史以来最快速度。远程工作加上极低的抵押贷款利率，令大量买家涌向美国郊区和房价实惠的城市。6月房价中值较上年同期上涨25%，达到创纪录的386888美元，Redfin追踪的所有85个大都会地区房价均较去年同期有所上涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7098295.d.html</link>
-            <guid>2240800</guid>
-            <pubDate>Thu, 15 Jul 2021 16:15:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股三大指数全部转跌，纳指跌0.8%，标普500指数跌0.39%，道指跌0.04%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqciyzk5700944.d.html</link>
-            <guid>2240799</guid>
-            <pubDate>Thu, 15 Jul 2021 16:07:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纽约联储：Dianne Dobbeck已被任命为监管小组负责人，从2021年8月1日起开始生效。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-16/detail-ikqcfnca7097191.d.html</link>
-            <guid>2240798</guid>
-            <pubDate>Thu, 15 Jul 2021 16:04:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国参议院确认Nellie Liang担任财政部负责国内金融的副部长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5699921.d.html</link>
-            <guid>2240797</guid>
-            <pubDate>Thu, 15 Jul 2021 15:55:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储埃文斯：对于央行数字货币有所怀疑。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5699805.d.html</link>
-            <guid>2240796</guid>
-            <pubDate>Thu, 15 Jul 2021 15:53:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储埃文斯：如果做得好，央行数字货币可能是有益的，但需要了解其风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-15/detail-ikqciyzk5699736.d.html</link>
-            <guid>2240795</guid>
-            <pubDate>Thu, 15 Jul 2021 15:52:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
