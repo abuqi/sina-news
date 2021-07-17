@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 17 Jul 2021 21:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jul 2021 22:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国新冠肺炎确诊病例超过3406万例】根据美国约翰斯·霍普金斯大学（Johns Hopkins University）于美国东部时间7月17日16时22分（北京时间7月18日4时22分）统计的数据显示，美国新冠肺炎确诊病例已超过3406万例，达到34064168例。死亡病例超过60.8万例，达到608870例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6091918.d.html</link>
+            <guid>2242776</guid>
+            <pubDate>Sat, 17 Jul 2021 21:54:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【南非近300家银行在骚乱中遭到破坏】据南非媒体当地时间7月17日报道，南非银行业协会称在该国夸祖鲁-纳塔尔省和豪登省的骚乱中，超过1400台自动取款机和近300家银行遭到破坏。该协会表示，南非各大银行在7月12日至14日期间被迫关闭了1300多家分支机构。而被毁坏的1400多台自动取款机的造价非常高，重新定制和部署需要数周时间。目前南非有1150万居民通过自动取款机和其它销售设备从南非社会保障局领取子女抚养费、养老金和其他补助金，因此未来一段时间，部分地区的居民将不能按时领取相关款项。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6091255.d.html</link>
+            <guid>2242775</guid>
+            <pubDate>Sat, 17 Jul 2021 21:34:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【法国外贸银行：预计欧洲央行在通胀达到2%目标后才会加息】在战略评估结果公布后，欧洲央行7月份的政策会议应该比最初预想的更有趣。管委会现在的任务是将新的通胀目标转化为适当的政策立场。在我们看来，新战略意味着更多的耐心，但不一定是立即采取额外的宽松措施。调整前瞻性指引意味着在欧洲央行开始收紧政策之前，通胀波动的门槛会更高。更具体地说，我们预计管委会需要看到2%的通胀目标才会提高政策利率。这也符合欧洲央行让通胀“暂时略高于目标水平”的意愿。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7486753.d.html</link>
@@ -240,12 +252,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk6060340.d.html</link>
             <guid>2242646</guid>
             <pubDate>Sat, 17 Jul 2021 13:32:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯远东两列货运火车相撞 致2死2伤】当地时间17日，在位于俄罗斯远东的阿穆尔州，两列货运火车发生迎面相撞事故，导致2人死亡2人受伤，共96节车厢脱轨。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk6059677.d.html</link>
-            <guid>2242644</guid>
-            <pubDate>Sat, 17 Jul 2021 13:25:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
