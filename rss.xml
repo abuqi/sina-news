@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 17 Jul 2021 18:27:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jul 2021 19:16:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【不要过分乐观！瑞穗呼吁对芯片行业保持谨慎态度】尽管全球芯片严重供需失衡的态势不减，但瑞穗证券(Mizuho Securities)分析师近日敦促投资者在评估芯片行业时，仍要尽量采取保守态度。该机构将美国微芯科技和荷兰恩智浦半导体公司得股票评级从“买入”下调至“中性”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7481440.d.html</link>
+            <guid>2242759</guid>
+            <pubDate>Sat, 17 Jul 2021 18:55:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[法国报告新增10949例新冠肺炎确诊病例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7479469.d.html</link>
@@ -240,12 +246,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqcfnca7446610.d.html</link>
             <guid>2242619</guid>
             <pubDate>Sat, 17 Jul 2021 11:43:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国第一大能源公司莱茵集团：位于德国INDEN的露天矿受到洪水冲击。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk6049574.d.html</link>
-            <guid>2242617</guid>
-            <pubDate>Sat, 17 Jul 2021 11:36:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
