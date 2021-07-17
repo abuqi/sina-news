@@ -4,11 +4,47 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 17 Jul 2021 17:25:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jul 2021 18:27:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[法国报告新增10949例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7479469.d.html</link>
+            <guid>2242758</guid>
+            <pubDate>Sat, 17 Jul 2021 18:24:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国巴登-符腾堡州伯布林根地区一架轻型飞机坠毁导致3人死亡。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7478400.d.html</link>
+            <guid>2242757</guid>
+            <pubDate>Sat, 17 Jul 2021 18:07:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[当地时间7月17日凌晨2时左右，美国俄勒冈州波特兰市市中心发生一起枪击事件，造成8人受伤，其中1人伤势严重，可能危及生命。当地警方表示，目前尚无嫌疑人线索。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6082024.d.html</link>
+            <guid>2242756</guid>
+            <pubDate>Sat, 17 Jul 2021 18:04:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗副外长：英国和美国需要停止将释放囚犯和伊核协议联系起来。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6080068.d.html</link>
+            <guid>2242755</guid>
+            <pubDate>Sat, 17 Jul 2021 17:40:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗副外长：如果美国和英国履行它们在伊核协议中的职责，双方的十名囚犯可能于明天获释。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7475956.d.html</link>
+            <guid>2242754</guid>
+            <pubDate>Sat, 17 Jul 2021 17:37:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗副外长：目前伊朗正处于过渡时期，必须等待我们的新政府上台后再进行伊核谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7475657.d.html</link>
+            <guid>2242753</guid>
+            <pubDate>Sat, 17 Jul 2021 17:34:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【缅甸单日新增新冠死亡病例首超两百例，连续十天刷新纪录】缅甸卫生与体育部7月17日晚发布消息称，在当天检测的14052个样本中，发现5497例新冠肺炎确诊病例，确诊率达39%，累计确诊224236例。当日新增死亡病例233例，单日死亡病例首次超过两百例，连续十天刷新纪录，累计死亡4769例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6077679.d.html</link>
@@ -210,41 +246,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk6049574.d.html</link>
             <guid>2242617</guid>
             <pubDate>Sat, 17 Jul 2021 11:36:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印尼方面表示，看到雅加达和巴厘岛的病例出现减少的迹象。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqcfnca7445861.d.html</link>
-            <guid>2242616</guid>
-            <pubDate>Sat, 17 Jul 2021 11:35:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印尼将在几天内决定是否延长防疫限制措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk6049453.d.html</link>
-            <guid>2242615</guid>
-            <pubDate>Sat, 17 Jul 2021 11:35:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：德国水电站因洪水关闭。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqcfnca7445639.d.html</link>
-            <guid>2242613</guid>
-            <pubDate>Sat, 17 Jul 2021 11:32:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印尼方面预计实施封锁措施后人员流动性将大幅下滑；将提供39.9万亿印尼盾的额外社会援助资金。]]></title>
-            <guid>2242612</guid>
-            <pubDate>Sat, 17 Jul 2021 11:32:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【鸡块掉地捡起继续炸？华莱士发布致歉声明：涉事餐厅已停业整顿】今日，华莱士官方微博发布声明称，近期，公司关注到网络上关于个别员工操作不规范的报道，公司高度重视，已于第一时间展开调查。截至7月17日，涉事餐厅北京霍营店已停业整顿。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk6049090.d.html</link>
-            <guid>2242611</guid>
-            <pubDate>Sat, 17 Jul 2021 11:30:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【比利时因洪水死亡人数升至27人】据比利时RTBF电视台报道，比利时已至少有27人确认因洪水死亡，搜救行动仍在继续进行。比利时内政部16日确认有20人在洪水中死亡，其中9人的身份已被识别。内政部当时还称约有20人下落不明。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-17/detail-ikqciyzk6046879.d.html</link>
-            <guid>2242607</guid>
-            <pubDate>Sat, 17 Jul 2021 11:06:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
