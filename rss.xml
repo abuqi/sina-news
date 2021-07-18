@@ -4,11 +4,29 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 18 Jul 2021 18:28:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jul 2021 19:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【房地产市场趋于理性 房住不炒定位继续巩固】随着热点城市房地产调控的升级，以及地方政府对市场行为把握更加准确，相应的政策措施也更加精准。长期人口和短期资金面的约束正得到进一步强化，我国房地产市场投机炒作明显收敛，楼市预期也开始出现分化，房住不炒定位继续巩固。事实上，在全球经济处于艰难恢复性增长的过程中，我国房地产市场的理性回归，为宏观调控政策预留了一定空间。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7635679.d.html</link>
+            <guid>2244169</guid>
+            <pubDate>Sun, 18 Jul 2021 18:54:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上半年10家信托公司信托业务收入逆势增长 过半公司同比增速超20%】在“两压一降”的监管环境下，信托业产品存量规模下滑明显，已跌破20万亿元大关。数据显示，今年一季度末信托产品存量规模降至19.74万亿元。信托产品规模不断压降的形势下，不少公司今年上半年的信托业务收入却不降反升。统计发现，12家已披露上半年业绩的信托公司中，10家信托业务收入实现同比增长。相较于去年同期，五矿信托该项收入上涨近五成，中粮信托、中航信托等5家增速均超20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6238445.d.html</link>
+            <guid>2244168</guid>
+            <pubDate>Sun, 18 Jul 2021 18:37:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【推进证券集体诉讼常态化 专家建议赋予投保机构“启动权”】“加快推动健全证券执法司法体制机制，有序推进证券纠纷特别代表人诉讼常态化等工作，持续健全立体有机的投保体系。”7月16日，在证监会举行的党史学习教育专题党课上，中国证监会党委书记、主席易会满表示。接受采访的专家认为，要推动证券纠纷特别代表人诉讼（即中国特色证券集体诉讼）常态化开展，需要进一步完善特别代表人诉讼的启动程序，可以考虑设立投保机构直接发起程序；持续健全立体有机的投保体系，需要促使立法、司法、执法三方面协同配合，进一步完善事前、事中和事后的投资者保护体系。 (证券日报)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7634194.d.html</link>
+            <guid>2244167</guid>
+            <pubDate>Sun, 18 Jul 2021 18:33:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【河南省气象台继续发布暴雨和雷电黄色预警】河南省气象台7月18日23时20分继续发布暴雨黄色预警：预计未来6小时内，济源、焦作、三门峡、洛阳、郑州、许昌、南阳、信阳八地市和安阳、新乡、周口三地区西部部分地区降水量将达50毫米以上，局部达100毫米以上。请注意防范。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7633406.d.html</link>
@@ -248,18 +266,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7608785.d.html</link>
             <guid>2244118</guid>
             <pubDate>Sun, 18 Jul 2021 13:17:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【A股限售股解禁规模再次大增】Wind数据显示，本周（7.19-7.25）A股市场将有91家公司限售股解禁，初始流通股数合计59.05亿股，较此前一周增长98.54%，解禁市值合计达到1549亿元，较此前一周增长30.45%。从解禁市值来看，奇安信-U暂为最多，按照目前股价计算，解禁市值达到437.68亿元。被称为“AI芯片第一股”的寒武纪-U解禁市值也较多，解禁参考市值达到250亿元。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7608694.d.html</link>
-            <guid>2244117</guid>
-            <pubDate>Sun, 18 Jul 2021 13:16:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：参加东京奥运会七人制橄榄球的南非队的教练新冠病毒检测结果呈阳性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6211512.d.html</link>
-            <guid>2244116</guid>
-            <pubDate>Sun, 18 Jul 2021 13:06:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
