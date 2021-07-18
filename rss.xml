@@ -4,11 +4,53 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 18 Jul 2021 20:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jul 2021 21:21:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国累计新冠肺炎确诊病例超过3407万例】根据美国约翰斯·霍普金斯大学于美国东部时间7月18日16时21分统计的数据，美国累计新冠肺炎确诊病例已超过3407万例，达34075477例；死亡病例超过60.9万例，达609006例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6246369.d.html</link>
+            <guid>2244184</guid>
+            <pubDate>Sun, 18 Jul 2021 21:20:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南非新增新冠肺炎确诊病例11215例，累计确诊2295095例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7641632.d.html</link>
+            <guid>2244183</guid>
+            <pubDate>Sun, 18 Jul 2021 20:57:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦调查局 (FBI) 对比特币等加密货币发出了严重警告，并告诉个人不要参与其中。FBI称，网络犯罪分子以虚拟资产行业的加密货币用户、交易所和第三方支付平台为目标，给受害者造成大量经济损失。（Bitcoin News）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6245458.d.html</link>
+            <guid>2244182</guid>
+            <pubDate>Sun, 18 Jul 2021 20:55:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[塔利班：阿富汗对话与会双方未能在停火或释放战俘问题上达成一致。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6245284.d.html</link>
+            <guid>2244181</guid>
+            <pubDate>Sun, 18 Jul 2021 20:50:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全国碳市场首日成交2.1亿，后续价格仍有上涨空间】① 全国碳排放权交易市场日前在北京、上海、武汉三地同时举行启动仪式，随即开启上线后的首批交易。至此，备受关注的全国碳排放权交易系统正式上线开市，中国石油、中国石化、华能集团、华电集团、申能集团等企业参与了全国碳市场首日交易。业内人士表示，全国碳市场正式开启，标志着我国市场化碳减排进入新阶段，这是中国应对气候变化工作又一重大里程碑；② 国金证券研报指出，由于碳价受多因素影响，一种可行的碳价预测方法是从欧盟碳达峰时碳交易市场占GDP总额的比例倒算中国碳交易市场的比例。由于欧盟28国整体经济发展优于中国，中国的碳交易金额占GDP比重至多看齐欧盟市场。据其测算，2030年中国碳市场碳价约在80元-120元/吨左右。这一结果与另一研究团队——清华大学张希良团队推算的2030年全国碳市场碳价13美元/吨接近。（经济参考报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7641094.d.html</link>
+            <guid>2244179</guid>
+            <pubDate>Sun, 18 Jul 2021 20:41:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：飓风Felicia最终将以更快的速度减弱。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6244582.d.html</link>
+            <guid>2244178</guid>
+            <pubDate>Sun, 18 Jul 2021 20:34:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：热带风暴Guillermo有所加强、加快，范围也有所扩大。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7640729.d.html</link>
+            <guid>2244177</guid>
+            <pubDate>Sun, 18 Jul 2021 20:34:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据阿拉伯半岛电视台：塔利班政治办事处发言人表示，我们没有提议在与阿富汗政府于多哈谈判期间休战。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6244096.d.html</link>
@@ -218,54 +260,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6219260.d.html</link>
             <guid>2244135</guid>
             <pubDate>Sun, 18 Jul 2021 14:28:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上海市市场监管局约谈华莱士总部并开展突击检查。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7615303.d.html</link>
-            <guid>2244134</guid>
-            <pubDate>Sun, 18 Jul 2021 14:25:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据越南河内市人民委员会，自当地时间7月19日0时起，河内市全市进入社会隔离状态。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6218475.d.html</link>
-            <guid>2244133</guid>
-            <pubDate>Sun, 18 Jul 2021 14:20:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广西自贸试验区17个重大项目签约，总投资额达131亿元】7月18日，2021年中国（广西）自由贸易试验区重大项目签约仪式在中国—东盟经贸中心举行。当日广西自贸试验区共签约17个重大项目，签约项目总投资额131亿元。据了解，本次签约项目主要突出外向型项目、重大制造业项目和产城融合项目，涵盖了电子信息、绿色能源、演艺文化、现代服务、生态林业、仓储物流等产业，对广西自贸试验区加快构建面向东盟的跨境产业链、价值链、供应链具有积极推动作用。其中6个外资项目签约额折合人民币约60亿元。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6218417.d.html</link>
-            <guid>2244132</guid>
-            <pubDate>Sun, 18 Jul 2021 14:19:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全球主要农作物价格飙升，多国历史性旱灾致粮价大涨】① 去年以来，全球主要农作物的价格持续飙升。巴西一年内大米涨幅高达70%，玉米涨幅高达87%，5月玉米价格创下2004年以来的最高纪录。尼日利亚的食品价格已达到15年来最高水平，700万尼日利亚人将因此陷入贫困。6月美国消费者价格指数创下新高，达到13年来最大涨幅。数据显示，截至2021年5月，全球粮食价格指数持续上涨了12个月，同比上涨近40%，创10年来新高；② 是什么导致了全球粮食价格的不断上涨？今年以来，巴西遭遇了号称百年一遇的干旱，近期美国也遭遇了号称“1200年以来”最严重的旱灾。此外，全球多个主要农产品产出国，都在经历旱灾的炙烤。此外，资本的炒作更是不断助推全球粮价。在全球流动性过剩的当下，粮食已成为众多投资者的首选投机目标。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6218354.d.html</link>
-            <guid>2244131</guid>
-            <pubDate>Sun, 18 Jul 2021 14:18:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄外交部：美国从未向联合国安理会上报有关其在阿富汗的行动。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7613662.d.html</link>
-            <guid>2244130</guid>
-            <pubDate>Sun, 18 Jul 2021 14:06:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黑龙江启动防汛Ⅳ级应急响应】7月18日，记者从黑龙江省人民政府防汛抗旱指挥部获悉，决定18日18时30分启动防汛Ⅳ级应急响应。受上游降雨和来水影响，7月18日18时，黑龙江诺敏河古城子站流量6140立方米每秒，已超过20年一遇洪水标准，7月18日8时，尼尔基水库6小时入库流量达到4110立方米每秒，嫩江发生2号洪水。根据预测，嫩江干流江桥、大赉站将于7月下旬开始超警，防汛形势十分严峻。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7613099.d.html</link>
-            <guid>2244129</guid>
-            <pubDate>Sun, 18 Jul 2021 14:02:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[研究公司Enverus的董事Bill Farren-Price：欧佩克+月度会议和12月的产量政策评估说明这一切都是可以修改的，石油多头应该把这件事看作利好，因为这说明欧佩克+仍在继续管理石油供应。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7612467.d.html</link>
-            <guid>2244128</guid>
-            <pubDate>Sun, 18 Jul 2021 13:55:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国参议员Cassidy：仍可能在下周三前准备好基础设施法案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6215164.d.html</link>
-            <guid>2244127</guid>
-            <pubDate>Sun, 18 Jul 2021 13:45:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
