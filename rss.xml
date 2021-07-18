@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 18 Jul 2021 16:34:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jul 2021 17:24:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国参议员放弃两党基建法案中的税收执行条款】美国共和党参议员Portman周日表示，美国议员已经放弃了1.2万亿美元基建法案中的一项加强税收执行条款，这意味着搁置了一项重要的增税措施。Portman称，这项旨在增加美国国税局收入的条款可能会被加入民主党推动的另一项预算"调和"法案中。拜登曾表示，他希望在美国国税局的技术和执法方面投资800亿美元，以便在未来10年增加7000亿美元的税收。据民主党参议员估计，基建法案中的这一条款占该目标中的约1000亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6229972.d.html</link>
+            <guid>2244156</guid>
+            <pubDate>Sun, 18 Jul 2021 16:57:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【2021中国奶业20强（D20）峰会在合肥召开】7月18日，2021中国奶业20强（D20）峰会在安徽省合肥市召开。会议强调，持续加强优质奶源基地建设，推进奶牛遗传改良，增加优质饲草料供给，不断提高奶源供给能力；持续强化全链条、全主体、全覆盖监管，进一步提升乳品质量安全水平；支持乳品企业扩大自有奶源比例，鼓励奶牛养殖与乳品加工、休闲观光等增值服务相结合，大力促进养殖加工融合发展；持续优化乳品供给结构，加快开发适合中国消费者的奶酪等干乳制品，尽快提高乳品供需适配度。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7625380.d.html</link>
+            <guid>2244154</guid>
+            <pubDate>Sun, 18 Jul 2021 16:51:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[伊拉克油长贾巴尔：库存和石油过剩下降是一个积极且有影响力的指标。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7623329.d.html</link>
@@ -259,24 +271,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7603323.d.html</link>
             <guid>2244105</guid>
             <pubDate>Sun, 18 Jul 2021 12:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特能源大臣阿卜杜勒-阿齐兹：每月举行会议的机制让我们可以暂停或取消40万桶/日的石油增产。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6206845.d.html</link>
-            <guid>2244104</guid>
-            <pubDate>Sun, 18 Jul 2021 12:19:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特王储本·萨勒曼：今天欧佩克+达成协议，为市场提供指导是很重要的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7602814.d.html</link>
-            <guid>2244103</guid>
-            <pubDate>Sun, 18 Jul 2021 12:13:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  尼泊尔新增新冠肺炎确诊病例1801例，累计确诊716049例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7602702.d.html</link>
-            <guid>2244101</guid>
-            <pubDate>Sun, 18 Jul 2021 12:12:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
