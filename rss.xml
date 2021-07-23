@@ -4,11 +4,62 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Fri, 23 Jul 2021 18:28:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jul 2021 19:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[恒指期货夜盘收跌0.78%，报27060点，低水262点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8683161.d.html</link>
+            <guid>2250977</guid>
+            <pubDate>Fri, 23 Jul 2021 19:06:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：KKR支持的东南亚领先房地产技术公司PropertyGuru将通过与Bridgetown 2 Holdings(BTNB.O)合并进行上市，PropertyGuru估值约为17.8亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7285539.d.html</link>
+            <guid>2250976</guid>
+            <pubDate>Fri, 23 Jul 2021 19:06:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[好未来(TAL.N)盘中跌幅扩大至70%。其他中概教育股中，高途(GOTU.N)跌近62%，新东方(EDU.N)跌近58%。]]></title>
+            <guid>2250974</guid>
+            <pubDate>Fri, 23 Jul 2021 18:51:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI 9月原油期货收涨0.16美元，涨幅0.22%，报72.07美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7284544.d.html</link>
+            <guid>2250973</guid>
+            <pubDate>Fri, 23 Jul 2021 18:51:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：Facebook(FB.O)将支付5200万美元以解决集体诉讼。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7283660.d.html</link>
+            <guid>2250972</guid>
+            <pubDate>Fri, 23 Jul 2021 18:38:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国与俄罗斯的对话将于7月28日在日内瓦举行。]]></title>
+            <guid>2250971</guid>
+            <pubDate>Fri, 23 Jul 2021 18:38:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【交易所收盘】上海黄金交易所黄金T+D 7月24日（周六）晚盘收盘下跌0.04%报375.47元/克；上海黄金交易所白银T+D 7月24日（周六）晚盘收盘下跌0.1%报5245.0元/千克。]]></title>
+            <guid>2250970</guid>
+            <pubDate>Fri, 23 Jul 2021 18:30:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海原油期货主力合约夜盘收涨1.75%，报442.3元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8680602.d.html</link>
+            <guid>2250969</guid>
+            <pubDate>Fri, 23 Jul 2021 18:30:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国新增29例新冠肺炎死亡病例，累计死亡85082例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7283072.d.html</link>
+            <guid>2250968</guid>
+            <pubDate>Fri, 23 Jul 2021 18:30:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：阿根廷央行排除加息的可能性。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8680059.d.html</link>
@@ -203,60 +254,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7273020.d.html</link>
             <guid>2250928</guid>
             <pubDate>Fri, 23 Jul 2021 16:27:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据9to5Mac：知情人士表示，苹果(AAPL.O)正在内部测试一款新的外部显示器，配有A13芯片和神经网络引擎。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7272937.d.html</link>
-            <guid>2250927</guid>
-            <pubDate>Fri, 23 Jul 2021 16:26:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国共和党参议员卡西迪：预计下周早些时候将公布基建法案细节。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7272679.d.html</link>
-            <guid>2250926</guid>
-            <pubDate>Fri, 23 Jul 2021 16:23:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国共和党参议员卡西迪：对达成基础设施协议持乐观态度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8670097.d.html</link>
-            <guid>2250925</guid>
-            <pubDate>Fri, 23 Jul 2021 16:23:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  瑞士医疗数据分析公司Sophia Genetics(SOPH.O)首日上市开涨超1%，报18.3美元，IPO定价18美元/ADS。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8670080.d.html</link>
-            <guid>2250924</guid>
-            <pubDate>Fri, 23 Jul 2021 16:22:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周五（7月23日）欧市尾盘，ICE欧盟碳排放交易许可（期货价格）涨0.28%，报50.88欧元/吨，本周累跌3.67%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8669674.d.html</link>
-            <guid>2250922</guid>
-            <pubDate>Fri, 23 Jul 2021 16:18:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【越南上半年钢铁出口同比增长50%至588万吨】① 越南海关总署数据显示，该国上半年共出口钢铁588万吨，同比增长50.5%。6月份钢铁出口同比增长4.3%至102万吨。在国内生产复苏以及中国、东盟、欧美需求增长背景下，越南上半年钢铁出口大幅增长，且前景乐观；② 中国是越南钢铁出口的主要目的地，上半年向中国出口120万吨，同比增长 14%。越南向东盟国家的钢铁出口也出现增长。其中，向印尼、马来西亚、泰国和菲律宾的钢铁出口量分别增长53%、13%、1.3%和17%至33.9万吨、36.5万吨、30.4万吨和28万吨。由于价格具有竞争力，今年上半年越南向欧洲美国家出口的钢铁，尤其是扁平材也显著增加。（世界金属导报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7272121.d.html</link>
-            <guid>2250921</guid>
-            <pubDate>Fri, 23 Jul 2021 16:18:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据Electrek：特斯拉(TSLA.O)CEO马斯克已经确认，特斯拉不会在新的Model S和Model X车辆上提供常规方向盘选项。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8669495.d.html</link>
-            <guid>2250920</guid>
-            <pubDate>Fri, 23 Jul 2021 16:17:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委魏德曼：欧洲央行新的通胀目标并不意味着通胀率显著上升。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8668818.d.html</link>
-            <guid>2250919</guid>
-            <pubDate>Fri, 23 Jul 2021 16:08:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国农业部长：美国食品价格上涨将有所缓和。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8668741.d.html</link>
-            <guid>2250918</guid>
-            <pubDate>Fri, 23 Jul 2021 16:07:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
