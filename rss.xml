@@ -4,11 +4,29 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 24 Jul 2021 16:34:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jul 2021 17:24:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国印第安纳波利斯市发生多起枪击和暴力袭击事件 造成2人死亡多人受伤】美国印第安纳州印第安纳波利斯市当地时间7月24日凌晨发生多起枪击事件和一起暴力袭击事件，造成2人死亡，多人受伤。除此之外，当地警方还报告了另外4起枪击事件，4起枪击事件共造成4人受伤，其中3人情况危急。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8844592.d.html</link>
+            <guid>2251955</guid>
+            <pubDate>Sat, 24 Jul 2021 17:21:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其新增12381例新冠肺炎确诊病例，为5月中旬以来最高单日病例报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8842752.d.html</link>
+            <guid>2251954</guid>
+            <pubDate>Sat, 24 Jul 2021 17:00:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新加坡新增127例本土新冠肺炎病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8840907.d.html</link>
+            <guid>2251953</guid>
+            <pubDate>Sat, 24 Jul 2021 16:37:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[比特币短线快速拉升，日内涨1.7%至34312美元/枚。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8840018.d.html</link>
@@ -253,28 +271,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8814602.d.html</link>
             <guid>2251646</guid>
             <pubDate>Sat, 24 Jul 2021 11:55:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[教育部有关负责人就《关于进一步减轻义务教育阶段学生作业负担和校外培训负担的意见》答记者问。]]></title>
-            <guid>2251641</guid>
-            <pubDate>Sat, 24 Jul 2021 11:51:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【证监会20年来首增期货牌照 山东港信期货设立开业】备受瞩目的全国第150家期货公司——山东港信期货有限公司正式开业。近二十多年来，除少量期货公司因股权变更等事项变更公司名称外，中国证监会未曾新批准设立一家期货公司。此次港信期货的设立、开业，是中国证监会时隔20多年的首次“开闸”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7416750.d.html</link>
-            <guid>2251640</guid>
-            <pubDate>Sat, 24 Jul 2021 11:49:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【交通运输部启动Ⅱ级防御响应全力防范6号台风“烟花”】为全力做好6号台风“烟花”防范应对工作，7月23日20时，交通运输部启动防御台风Ⅱ级响应。部长李小鹏强调，要坚持人民至上、生命至上，讲政治、顾大局、负责任，坚持底线思维、加强统筹协调，指导浙江等省份交通运输部门认真履职尽责，落实落细Ⅱ级响应各项防御措施，切实抓好防汛防台风工作，全力保障人民群众生命财产安全。]]></title>
-            <guid>2251639</guid>
-            <pubDate>Sat, 24 Jul 2021 11:44:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[南京溧水区：7月25日起开展全区第二次全员核酸检测。（界面）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8813417.d.html</link>
-            <guid>2251638</guid>
-            <pubDate>Sat, 24 Jul 2021 11:44:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
