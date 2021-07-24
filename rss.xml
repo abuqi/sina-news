@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 24 Jul 2021 21:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jul 2021 22:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【中国企业承建的赞比亚下凯富峡水电站举行并网发电仪式】当地时间7月23日，由中国企业承建的下凯富峡水电站在赞比亚齐坎卡塔举行并网发电仪式，赞比亚总统伦古以及中赞双方代表出席了下凯富峡水电站的并网发电仪式，伦古总统为项目的发电运营揭牌，他在致辞中感谢中国政府和企业对缓解赞比亚电力短缺所做的重要贡献，并表示下凯富峡水电站并网发电将极大促进当地社会经济发展，同时助力赞比亚成为南部非洲地区的电力中心。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8859210.d.html</link>
+            <guid>2251972</guid>
+            <pubDate>Sat, 24 Jul 2021 21:51:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国丹佛市发生枪击事件 共造成两人死亡】当地时间7月24日，美国科罗拉多州丹佛市发生枪击事件，共造成两人死亡，目前尚无嫌疑人被拘留。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7461056.d.html</link>
+            <guid>2251971</guid>
+            <pubDate>Sat, 24 Jul 2021 21:25:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[伊拉克新增新冠肺炎确诊病例8001例，累计确诊1543501例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8856695.d.html</link>
@@ -254,18 +266,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7427045.d.html</link>
             <guid>2251822</guid>
             <pubDate>Sat, 24 Jul 2021 13:20:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【金石亚药捐赠100余万药品驰援郑州】四川金石亚洲医药股份有限公司紧急组织下属企业，快速筹集医院亟需的药品物资，通过团中央所属青年创业就业基金会，向河南郑州阜外华中心血管医院捐赠价值100余万药品。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8824017.d.html</link>
-            <guid>2251821</guid>
-            <pubDate>Sat, 24 Jul 2021 13:19:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：克马德克群岛发生5.6级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7425316.d.html</link>
-            <guid>2251796</guid>
-            <pubDate>Sat, 24 Jul 2021 13:04:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
