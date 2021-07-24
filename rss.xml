@@ -4,11 +4,35 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 24 Jul 2021 22:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jul 2021 23:21:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[当地时间7月24日，阿根廷卫生部公布最新数据，该国新增新冠肺炎确诊病例11136例，累计确诊达4839109例；新增死亡病例225例，累计死亡达103584例；累计治愈病例4480336例；现存确诊病例255189例。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8868114.d.html</link>
+            <guid>2251978</guid>
+            <pubDate>Sat, 24 Jul 2021 23:17:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广东中山新增本土确诊病例1例】7月24日0-24时，广东全省新增本土确诊病例1例（为7月22日中山报告的本土无症状感染者转确诊）。全省新增境外输入确诊病例5例。（广东卫健委）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8865545.d.html</link>
+            <guid>2251975</guid>
+            <pubDate>Sat, 24 Jul 2021 23:00:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[7月24日0时至24时，云南新增1例本土新冠肺炎确诊病例，新增境外输入确诊病例6例。（云南省卫健委）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7467095.d.html</link>
+            <guid>2251974</guid>
+            <pubDate>Sat, 24 Jul 2021 22:49:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国加州长滩市发生枪击事件致1死1伤】嫌犯在逃当地时间7月24日，美国加州长滩市中心发生枪击事件，共造成1人死亡，1人受伤，嫌犯仍然在逃中。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7464721.d.html</link>
+            <guid>2251973</guid>
+            <pubDate>Sat, 24 Jul 2021 22:27:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【中国企业承建的赞比亚下凯富峡水电站举行并网发电仪式】当地时间7月23日，由中国企业承建的下凯富峡水电站在赞比亚齐坎卡塔举行并网发电仪式，赞比亚总统伦古以及中赞双方代表出席了下凯富峡水电站的并网发电仪式，伦古总统为项目的发电运营揭牌，他在致辞中感谢中国政府和企业对缓解赞比亚电力短缺所做的重要贡献，并表示下凯富峡水电站并网发电将极大促进当地社会经济发展，同时助力赞比亚成为南部非洲地区的电力中心。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8859210.d.html</link>
@@ -236,36 +260,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7430581.d.html</link>
             <guid>2251907</guid>
             <pubDate>Sat, 24 Jul 2021 13:53:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据法新社：伊拉克总理宣布逮捕首都巴格达自杀式炸弹的袭击者。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8825962.d.html</link>
-            <guid>2251867</guid>
-            <pubDate>Sat, 24 Jul 2021 13:39:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：07月24日20时51分在克马德克群岛发生5.9级地震，震源深度10千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8824724.d.html</link>
-            <guid>2251831</guid>
-            <pubDate>Sat, 24 Jul 2021 13:25:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【东京奥运会首日 中国队斩获三金一铜】杨倩夺得射击女子10米气步枪金牌，射落东京奥运会首金；侯志慧夺得东京奥运会举重女子49kg级金牌；在击剑女子个人重剑决赛中，孙一文夺得金牌；庞伟夺得射击男子10米气手枪铜牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7427523.d.html</link>
-            <guid>2251824</guid>
-            <pubDate>Sat, 24 Jul 2021 13:23:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质勘探局：印尼托贝洛西北方向199千米处发生5.3级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7427388.d.html</link>
-            <guid>2251823</guid>
-            <pubDate>Sat, 24 Jul 2021 13:22:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中银香港首席经济学家鄂志寰表示，新兴市场以及一些不发达经济体加速推进去美元化进程，希望寻求美元的替代。数字货币也是一种特殊的美元替代选择。过去10年人民币国际化是央行的政策驱动和在岸及离岸市场相互配合的结果。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7427045.d.html</link>
-            <guid>2251822</guid>
-            <pubDate>Sat, 24 Jul 2021 13:20:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
