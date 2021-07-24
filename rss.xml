@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 24 Jul 2021 19:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jul 2021 20:21:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[阿富汗内政部24日宣布，在全国34个省中的31个省实施宵禁，以遏制因塔利班近期加大攻势所导致的暴力事件激增。根据宵禁规定，每日22时至次日4时民众必须待在家里，不得外出。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7457408.d.html</link>
+            <guid>2251966</guid>
+            <pubDate>Sat, 24 Jul 2021 19:59:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【南非骚乱地区食品价格开始回落】据南非媒体当地时间7月23日报道，南非骚乱的重灾区德班地区的食品价格开始回落。因骚乱导致德班与外界的公路中断，该地生鲜产品市场临时关闭，当地商品价格一度出现飞涨。曾经53兰特（约合人民币23元）十公斤的土豆，上涨到了100兰特。不过到7月23日，价格又回落到85兰特。虽然价格仍然略高，但已经在向正常水平回落。除了土豆之外，包括卷心菜、 西红柿的价格也曾出现了较大幅度的上涨。不过现在价格正在回落，估计很快就会回到正常水平。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7455935.d.html</link>
+            <guid>2251964</guid>
+            <pubDate>Sat, 24 Jul 2021 19:27:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[法国新增25624例新冠肺炎确诊病例，新增22例死亡病例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7455185.d.html</link>
@@ -266,18 +278,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7423028.d.html</link>
             <guid>2251766</guid>
             <pubDate>Sat, 24 Jul 2021 12:44:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印尼新增45416例新冠肺炎确诊病例，新增1415例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7421570.d.html</link>
-            <guid>2251724</guid>
-            <pubDate>Sat, 24 Jul 2021 12:31:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【瑞丰光电Mini/Micro LED湖北生产基地开工】今日，瑞丰光电旗下全资子公司湖北瑞华光电有限公司“Mini/Mciro LED新型显示产业化项目”开工仪式在湖北鄂州·葛店经济技术开发区隆重启动。该项目征用国有建设用地超过200亩，总建筑面积达到约27万平米。其中，一期项目新增土地约68.022亩，预计总投资约15亿人民币，建设期12个月，建筑面积约72200平米，将实施全彩LED封装扩产项目、Mini LED背光封装生产项目、Micro LED技术研发中心项目，预计满产后可形成年产10105KK只全彩LED封装产品、2000万片Mini LED背光封装产品生产能力，建成并运营Micro LED技术研究中心，一期项目建成达产后可实现年营业收入超过13亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8818491.d.html</link>
-            <guid>2251721</guid>
-            <pubDate>Sat, 24 Jul 2021 12:30:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
