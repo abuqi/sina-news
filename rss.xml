@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 24 Jul 2021 20:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jul 2021 21:21:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[伊拉克新增新冠肺炎确诊病例8001例，累计确诊1543501例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8856695.d.html</link>
+            <guid>2251969</guid>
+            <pubDate>Sat, 24 Jul 2021 20:54:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[古巴新增7732例新冠肺炎确诊病例，新增68例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7459111.d.html</link>
+            <guid>2251968</guid>
+            <pubDate>Sat, 24 Jul 2021 20:39:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[阿富汗内政部24日宣布，在全国34个省中的31个省实施宵禁，以遏制因塔利班近期加大攻势所导致的暴力事件激增。根据宵禁规定，每日22时至次日4时民众必须待在家里，不得外出。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7457408.d.html</link>
@@ -254,30 +266,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7425316.d.html</link>
             <guid>2251796</guid>
             <pubDate>Sat, 24 Jul 2021 13:04:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[辽宁省卫健委：7月24日0时至20时，辽宁省新增1例本土新冠肺炎确诊病例，新增2例本土无症状感染者、1例境外输入无症状感染者，均为沈阳市报告。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7425093.d.html</link>
-            <guid>2251795</guid>
-            <pubDate>Sat, 24 Jul 2021 13:02:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国互联网金融协会李礼辉：币圈等去中心化金融带来三方面颠覆性冲击，应引起高度警惕】中国互联网金融协会区块链研究组组长李礼辉指出，去中心化在很大程度上挑战现有的或者说传统的中心化金融模式，游离于现行的金融监管之外，应该引起高度关注和高度警惕。去中心化金融带来的颠覆性冲击，主要体现在投机性、去中介和难监管三个方面。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7424666.d.html</link>
-            <guid>2251794</guid>
-            <pubDate>Sat, 24 Jul 2021 12:59:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【证监会王建平：未来传统工业和交通运输等领域将纳入碳市场】今日，中国证监会市场监管二部主任王建平在“全球财富管理论坛2021北京峰会”上表示， 未来传统工业和交通运输等“碳排放”大户领域将纳入碳市场，细分这些碳排放大户产业链的上下游，可从中发现巨大的减排市场潜力，其中仅当前可看到二氧化碳捕集与封存技术、储能技术、绿色化工、非化石能源应用等就将引发颠覆性创新和巨额投资需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8820521.d.html</link>
-            <guid>2251777</guid>
-            <pubDate>Sat, 24 Jul 2021 12:46:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【王建平：拟在条件成熟时推出碳排放权相关的期货品种】中国证监会市场监管二部主任王建平表示，期货交易所在积极研究碳期货，拟在条件成熟时推出碳排放权相关的期货品种。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7423028.d.html</link>
-            <guid>2251766</guid>
-            <pubDate>Sat, 24 Jul 2021 12:44:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
