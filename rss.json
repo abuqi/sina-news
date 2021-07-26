@@ -6,6 +6,188 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 2255215,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqciyzk7811551.d.html",
+            "title": "【特斯拉财报公布前 Cathie Wood表示华尔街对特斯拉的估值全错了】在周一Real Vision节目发表的一系列采访中，Cathie Wood把重点放在了华尔街的缺点上，她举了特斯拉的例子。她指出ARK的基本假设是特斯拉(TSLA.O)的股价将达到3000美元，这被华尔街认为是“疯狂的”，因为当前的股价接近700美元。 Wood说：“我们认为，特斯拉估值如此低的原因在于分析师的短期眼光。”她解释说，特斯拉是一家多面科技公司，但它拥有的不仅仅是一项科技，特斯拉拥有能源储存、机器人、人工智能计Saas等多项科技。Wood的整体颠覆性和创新性愿景市场有多大？她表示，2019年专注于变革性创新的上市股票市值约为7万亿美元，然后在2020年翻了一番，达到14万亿美元，在未来5到10年内，这个数字将达到75万亿美元以上。",
+            "date_modified": "2021-07-26T18:25:27.000Z"
+        },
+        {
+            "id": 2255214,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqciyzk7811528.d.html",
+            "title": "【推特公司股价下跌5.7%，为超过12周以来最大】推特公司下跌 5.7%，股价从71.69美元下跌至67.62美元。",
+            "date_modified": "2021-07-26T18:25:00.000Z"
+        },
+        {
+            "id": 2255213,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqcfnca9208432.d.html",
+            "title": "市场消息：比特币矿商Crusoe energy寻求新贷款以扩大业务。",
+            "date_modified": "2021-07-26T18:20:16.000Z"
+        },
+        {
+            "id": 2255212,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqcfnca9207683.d.html",
+            "title": "【德意志银行前瞻美联储利率决议：美联储将提供缩减购债讨论进展的最新情况】预计美联储将提供缩减购债讨论进展的最新情况，这将有助于确定未来几个月宣布缩债计划的可能时间表。预计美联储领导层将会发出更明确的信号，即在8月份的杰克逊霍尔研讨会或9月份的会议上，缩债时间表就会显现出来，然后在11月的会议上正式宣布。不过具体的顺序将根据获得的数据来决定。货币政策委员会可能将权衡近期通胀攀升与德尔塔毒株感染病例上升造成的风险哪个更大。",
+            "date_modified": "2021-07-26T18:07:32.000Z"
+        },
+        {
+            "id": 2255211,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqcfnca9207465.d.html",
+            "title": "【新三板精选层转板上市制度进入实施阶段】截至2021年7月26日，精选层挂牌公司已达到58家，总股本96.98亿股，其中流通股本35.98亿股，累计成交1910.89万股，成交金额逾3.79亿元。在精选层平稳运行近一年、转板步入实操阶段之际，证监会副主席阎庆民近日表示，要支持高端装备制造、信息技术等科创企业挂牌精选层，并推动符合条件的企业通过精选层转板上市。（经参）",
+            "date_modified": "2021-07-26T18:05:35.000Z"
+        },
+        {
+            "id": 2255210,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqciyzk7810126.d.html",
+            "title": "  市场消息：由于芯片短缺，通用汽车(GM.N)将关闭西劳工厂整整一周。",
+            "date_modified": "2021-07-26T18:04:18.000Z"
+        },
+        {
+            "id": 2255209,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqciyzk7810031.d.html",
+            "title": "Express(EXPR.N)：希望在电子商务领域的销售额能达到10亿美元。",
+            "date_modified": "2021-07-26T18:02:41.000Z"
+        },
+        {
+            "id": 2255208,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqcfnca9207212.d.html",
+            "title": "  Express(EXPR.N)盘中飙升，现涨幅扩大至20%，报5.45美元。",
+            "date_modified": "2021-07-26T18:02:08.000Z"
+        },
+        {
+            "id": 2255207,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqcfnca9207186.d.html",
+            "title": "  COMEX 8月黄金期货收跌0.1%，报1799.20美元/盎司。",
+            "date_modified": "2021-07-26T18:01:39.000Z"
+        },
+        {
+            "id": 2255206,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqcfnca9207007.d.html",
+            "title": "秘鲁南方铜业公司：今年的铜产量目标为96万吨。",
+            "date_modified": "2021-07-26T17:57:54.000Z"
+        },
+        {
+            "id": 2255205,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqcfnca9206924.d.html",
+            "title": "美国民主党参议员Durbin：领导层还没有决定如何处理债务上限问题。",
+            "date_modified": "2021-07-26T17:56:12.000Z"
+        },
+        {
+            "id": 2255204,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqcfnca9206910.d.html",
+            "title": "美国民主党参议员Durbin：对美联储主席鲍威尔的做法印象很好。",
+            "date_modified": "2021-07-26T17:56:04.000Z"
+        },
+        {
+            "id": 2255203,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqcfnca9206746.d.html",
+            "title": "【英法两国签署新的海上安全条约】当地时间26日，英国政府官网公布，英国外交大臣多米尼克·拉布及内政大臣普里蒂·帕特尔与法国方面就英法两国之间的新海上安全条约达成一致。据报道，英国外交大臣拉布当天在巴黎签署的这项新的条约规定，英国紧急救援人员将有更多权力处理在英吉利海峡有关水域发生的恐怖袭击事件。",
+            "date_modified": "2021-07-26T17:53:26.000Z"
+        },
+        {
+            "id": 2255201,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqciyzk7809417.d.html",
+            "title": "  腾讯ADR跌超10%，美团ADR跌超13.5%。",
+            "date_modified": "2021-07-26T17:51:11.000Z"
+        },
+        {
+            "id": 2255200,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqciyzk7808878.d.html",
+            "title": "麦当劳(MCD.N)：创建了新的客户体验团队。",
+            "date_modified": "2021-07-26T17:44:14.000Z"
+        },
+        {
+            "id": 2255198,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqcfnca9206064.d.html",
+            "title": "美股区块链概念股暴涨，Bit Digital涨超90%，Riot Blockchain涨22%，第九城市涨20%，Marathon Patent涨19%，SOS与嘉楠科技涨约13%。",
+            "date_modified": "2021-07-26T17:43:18.000Z"
+        },
+        {
+            "id": 2255197,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqciyzk7808816.d.html",
+            "title": "【生猪价格震荡调整，稳猪价效果将逐步显现】7月以来，我国陆续开展3次中央储备冻猪肉收储竞价交易。国家统计局此前公布数据显示，7月上旬，生猪（外三元）价格为16元/千克，环比涨15.1%。近20多个交易日，生猪期货累计涨幅超过10%。业内普遍认为，短期内生猪价格将处于震荡调整状态。随着下半年消费旺季来临之际，猪价有望温和反弹。（经参）",
+            "date_modified": "2021-07-26T17:43:06.000Z"
+        },
+        {
+            "id": 2255196,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqcfnca9205996.d.html",
+            "title": "【美国航空公司就燃油短缺问题向飞行员发出警示】据一份企业备忘录显示，美国航空公司向飞行员发出警告称，一些中型机场的燃料交付出现延误，要求飞行员在可能的情况下节省燃油。备忘录称，燃料交付延误最初主要影响美国西部城市，但现在全美各地都有报道，预计这种情况将持续到8月中旬。",
+            "date_modified": "2021-07-26T17:41:53.000Z"
+        },
+        {
+            "id": 2255195,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqcfnca9205859.d.html",
+            "title": "市场消息： 美国总统拜登考虑限制燃煤电厂的有毒污染物排放。",
+            "date_modified": "2021-07-26T17:39:32.000Z"
+        },
+        {
+            "id": 2255193,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqciyzk7808235.d.html",
+            "title": "美国白宫：欢迎共和党提出关于基础设施的提案。",
+            "date_modified": "2021-07-26T17:32:59.000Z"
+        },
+        {
+            "id": 2255192,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqcfnca9205456.d.html",
+            "title": "  美国白宫：民主党提出了一项旨在解决所有基础设施协议问题的提议，对达成协议仍有信心。",
+            "date_modified": "2021-07-26T17:32:44.000Z"
+        },
+        {
+            "id": 2255191,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqcfnca9205436.d.html",
+            "title": "美国参议院小组将于7月28日审议洲际交易所（ICE）和美国人口普查局的相关提名人。",
+            "date_modified": "2021-07-26T17:32:26.000Z"
+        },
+        {
+            "id": 2255190,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqcfnca9205422.d.html",
+            "title": "【世卫组织：全球累计新冠肺炎确诊病例超1.940亿例】根据世卫组织最新实时统计数据，截至欧洲中部夏令时间7月26日18时28分（北京时间7月27日0时28分），全球累计新冠肺炎确诊病例194080019例，累计死亡病例 4162304例。26日全球新冠肺炎确诊病例新增422294例，死亡病例新增7644例。",
+            "date_modified": "2021-07-26T17:32:10.000Z"
+        },
+        {
+            "id": 2255189,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqciyzk7808017.d.html",
+            "title": "【联合国官员：纳米比亚青年失业率或将达到50.3%】据纳米比亚《新时代报》当地时间7月26日的消息，联合国人口基金驻纳米比亚代表日前在第三次国家青年政策会议上表示，截至今年年底，纳米比亚青年的失业率可能达到50.3%。纳米比亚是非洲人口年轻化程度最高的国家之一，10岁至24岁的人口占该国人口总数的三分之一，解决好青年就业问题至关重要。（央视）",
+            "date_modified": "2021-07-26T17:29:33.000Z"
+        },
+        {
+            "id": 2255188,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqcfnca9205199.d.html",
+            "title": "南非新冠肺炎累计死亡病例超过7万例。",
+            "date_modified": "2021-07-26T17:28:56.000Z"
+        },
+        {
+            "id": 2255187,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqciyzk7807973.d.html",
+            "title": "【水利部：全国34条河流发生超警以上洪水】水利部最新发布，26日8时至20时，河南、浙江、上海、江苏、安徽、云南、新疆等地共有34条河流发生超警以上洪水，最大超警幅度0.02至2.77米，其中河南卫河干流，浙江钱塘江支流曹娥江、甬江支流姚江，黑龙江乌裕尔河支流润津河等15条河流发生超保证水位洪水，最大超保幅度0.01至1.27米，卫河、共产主义渠、姚江、浦阳江等4条河流超历史水位。此外，太湖周边及杭嘉湖区有42个站点水位超警，其中20站超保证水位，杭嘉湖区嘉善站、青阳汇站超历史水位。",
+            "date_modified": "2021-07-26T17:28:42.000Z"
+        },
+        {
             "id": 2255186,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqcfnca9204993.d.html",
@@ -129,161 +311,6 @@
             "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqcfnca9202431.d.html",
             "title": "【我国年底将开通140万个5G基站】三大运营商披露的信息显示，目前我国已经开通5G基站超97万个。今年是5G大规模建设期，年底我国将开通140万个5G基站。网络是基础，应用才是关键。在行业应用方面，三大运营商和各行各业深入探索5G应用场景。",
             "date_modified": "2021-07-26T16:48:29.000Z"
-        },
-        {
-            "id": 2255165,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqcfnca9202403.d.html",
-            "title": "  蓝色起源的创始人杰夫·贝索斯表示，如果美国国家航空航天局授予其第二份人类着陆系统(HLS)合同，他的公司将承担超过20亿美元的成本。",
-            "date_modified": "2021-07-26T16:48:08.000Z"
-        },
-        {
-            "id": 2255162,
-            "content_html": "",
-            "title": "  中国地震台网自动测定：07月27日00时34分在黑龙江大庆市肇州县附近（北纬45.63度，东经125.35度）发生3.6级左右地震，最终结果以正式速报为准。",
-            "date_modified": "2021-07-26T16:39:15.000Z"
-        },
-        {
-            "id": 2255161,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqciyzk7804325.d.html",
-            "title": "  周一（7月26日）欧市尾盘，ICE欧盟碳排放交易许可（期货价格）涨4.27%，报53.01欧元/吨。",
-            "date_modified": "2021-07-26T16:37:02.000Z"
-        },
-        {
-            "id": 2255160,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqciyzk7804305.d.html",
-            "title": "在现货市场交易中，巴西雷亚尔兑美元上涨1.01%。",
-            "date_modified": "2021-07-26T16:36:47.000Z"
-        },
-        {
-            "id": 2255158,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqciyzk7804288.d.html",
-            "title": "  美股抗疫概念股走低，阿索尔达生物制药(ACOR.O)跌超8%，Moderna(MRNA.O)跌超5%，诺瓦瓦克斯医药(NVAX.O)跌4.4%，阿斯利康(AZN.O)跌2.3%。",
-            "date_modified": "2021-07-26T16:36:30.000Z"
-        },
-        {
-            "id": 2255157,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqciyzk7804016.d.html",
-            "title": "美国地质勘探局：俄罗斯维柳钦斯克东南偏东9公里处发生5.0级地震。",
-            "date_modified": "2021-07-26T16:32:17.000Z"
-        },
-        {
-            "id": 2255156,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqciyzk7803702.d.html",
-            "title": "Pacer ETF总裁O'Hara：所有人都预计美国上市公司的业绩将保持强劲，主要是因为和去年的数据对比比较容易，如果这种趋势发生改变，对市场肯定是不利的。预计美联储的措辞不会很明确，市场将更加关注美联储对美国国内情况的更多表态，以更好地了解利率周期。如果开始看到美联储支持力度减弱的任何迹象，这将令市场担忧。",
-            "date_modified": "2021-07-26T16:28:40.000Z"
-        },
-        {
-            "id": 2255155,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqcfnca9200648.d.html",
-            "title": "比特币涨破39000.00美元/枚关口，最新报39041.34美元/枚，日图涨13.18%。",
-            "date_modified": "2021-07-26T16:26:35.000Z"
-        },
-        {
-            "id": 2255154,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqciyzk7802856.d.html",
-            "title": "市场消息：伊拉克6月份的石油出口收入达到61.43亿美元。",
-            "date_modified": "2021-07-26T16:19:50.000Z"
-        },
-        {
-            "id": 2255152,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqciyzk7802749.d.html",
-            "title": "英国新增14例新冠肺炎死亡病例。",
-            "date_modified": "2021-07-26T16:18:19.000Z"
-        },
-        {
-            "id": 2255150,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqcfnca9199785.d.html",
-            "title": "【天齐锂业董事宣布：提前终止减持】市值1400亿的锂电巨头天齐锂业发布公告称，公司收到董事兼高级管理人员邹军出具的《关于减持股份及提前终止减持计划的告知函》，其减持股份数量已过半，同时其根据自身情况决定提前终止本次减持计划，其减持公司股份20万股，占公司总股本比例0.0135%。作为近期A股市场最火赛道之一的锂电行业，天齐锂业突然提前终止减持，对于整个板块来说，无疑是一粒定心丸，而对于市场情绪来说，也是一次“稳定军心”的信号。（券商中国）",
-            "date_modified": "2021-07-26T16:16:21.000Z"
-        },
-        {
-            "id": 2255149,
-            "content_html": "",
-            "title": "  在美上市中概生物技术股走低，再鼎医药(ZLAB.O)跌超10%，天境生物(IMAB.O)跌近15%。",
-            "date_modified": "2021-07-26T16:14:51.000Z"
-        },
-        {
-            "id": 2255148,
-            "content_html": "",
-            "title": "  达美航空(DAL.N)：自9月份开始，美国与加拿大之间的航班将增加一倍；将把飞往加拿大的航班座位容量提高150%。",
-            "date_modified": "2021-07-26T16:09:31.000Z"
-        },
-        {
-            "id": 2255147,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqciyzk7802024.d.html",
-            "title": "特斯拉(TSLA.O)盘中涨幅扩大至3.23%，今日盘后将公布Q2业绩。",
-            "date_modified": "2021-07-26T16:09:14.000Z"
-        },
-        {
-            "id": 2255146,
-            "content_html": "",
-            "title": "【视频：开挂的鸿星尔克】https://finance.sina.com.cn/chanjing/gsnews/2021-07-27/doc-ikqciyzk7801105.shtml",
-            "date_modified": "2021-07-26T16:06:18.000Z"
-        },
-        {
-            "id": 2255144,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqcfnca9198297.d.html",
-            "title": "  伦铜涨逾2%，创6月15日以来新高至9826.5美元/吨。",
-            "date_modified": "2021-07-26T16:01:24.000Z"
-        },
-        {
-            "id": 2255143,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-07-27/detail-ikqcfnca9198248.d.html",
-            "title": "洛克希德马丁(LMT.N)首席执行官预计F-35的产量将稳定在每年170架。",
-            "date_modified": "2021-07-26T16:00:59.000Z"
-        },
-        {
-            "id": 2255142,
-            "content_html": "",
-            "title": "  美股白银股普涨，迈利达电子(MAG.O)、Fortuna Silver(FSM.N)涨4.8%，Endeavour Silver(EKX.O)涨3.7%，First Majestic(AG.O)涨2.65%，泛美白银(PAAS.O)涨1.3%。",
-            "date_modified": "2021-07-26T15:54:17.000Z"
-        },
-        {
-            "id": 2255141,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-07-26/detail-ikqciyzk7800562.d.html",
-            "title": "墨西哥主要股指涨超1%。",
-            "date_modified": "2021-07-26T15:50:42.000Z"
-        },
-        {
-            "id": 2255139,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-07-26/detail-ikqciyzk7800346.d.html",
-            "title": "LVMH二季度时装和皮草商品有机营收较2019年同期增长40%。",
-            "date_modified": "2021-07-26T15:47:13.000Z"
-        },
-        {
-            "id": 2255138,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-07-26/detail-ikqciyzk7800246.d.html",
-            "title": "【美国新屋销售出人意料疲软，进一步表明市场降温】① 美国6月份新屋销售数据出人意料疲软，除了导致建筑商股价下跌之外，也进一步表明房地产市场或许已经见顶，可能会进一步强化通胀全面放缓的预期；② 6月份美国新屋销售下降到2020年4月以来的最低水平，表明在高价格和供应紧张的情况下需求减弱。上周，新屋开工和建筑许可数据喜忧参半，暗示火热的房地产市场可能正在降温；③ 住宅建筑商股价较5月中旬以来下跌超过10％，但在经济重新开放和低抵押贷款利率的推动下，它们今年的表现仍然明显超过整体股市。如果房地产数据继续令人失望，这种局面势将发生变化。",
-            "date_modified": "2021-07-26T15:45:51.000Z"
-        },
-        {
-            "id": 2255136,
-            "content_html": "",
-            "title": "欧股收盘涨跌不一，德国DAX30指数跌0.38%；英国富时100指数跌0.09%；法国CAC40指数涨0.15%；欧洲斯托克50指数跌0.25%。",
-            "date_modified": "2021-07-26T15:44:54.000Z"
-        },
-        {
-            "id": 2255134,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-07-26/detail-ikqcfnca9196900.d.html",
-            "title": "【股市收盘】德国DAX30指数7月26日（周一）收盘下跌53.54点，跌幅0.34%，报15615.75点；英国富时100指数7月26日（周一）收盘下跌3.58点，跌幅0.05%，报7024.00点；法国CAC40指数7月26日（周一）收盘上涨9.78点，涨幅0.15%，报6578.60点；欧洲斯托克50指数7月26日（周一）收盘下跌7.21点，跌幅0.18%，报4101.89点；西班牙IBEX35指数7月26日（周一）收盘上涨52.80点，涨幅0.61%，报8770.00点；意大利富时MIB指数7月26日（周一）收盘上涨160.59点，涨幅0.64%，报25285.50点。",
-            "date_modified": "2021-07-26T15:41:31.000Z"
         }
     ]
 }
