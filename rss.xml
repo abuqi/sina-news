@@ -4,284 +4,289 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Wed, 28 Jul 2021 18:28:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jul 2021 19:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[分析师Chris Anstey即时市场评论：外国回购工具实质上使美联储在去年面临极端压力时设立的一个临时计划永久化。当时，外国央行纷纷抛售美国国债，买进美元现金。回购机制允许他们在不出售证券的情况下迅速从美联储获得美元现金。 从6月份的会议纪要来看，美联储官员似乎对将这一政策永久化没有什么争论。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9608143.d.html</link>
-            <guid>2258956</guid>
-            <pubDate>Wed, 28 Jul 2021 18:21:39 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：住房抵押贷款支持证券和债券对财政状况的影响相似。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8213743.d.html</link>
+            <guid>2259059</guid>
+            <pubDate>Wed, 28 Jul 2021 19:17:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国联邦基金期货显示市场充分定价美联储在2023年3月前加息25个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9608091.d.html</link>
-            <guid>2258955</guid>
-            <pubDate>Wed, 28 Jul 2021 18:20:26 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：一些美联储参会者提出了关于MBS和缩债的问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9611220.d.html</link>
+            <guid>2259058</guid>
+            <pubDate>Wed, 28 Jul 2021 19:16:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英镑兑美元GBP/USD日内再度转涨，现报1.3876。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8210388.d.html</link>
-            <guid>2258954</guid>
-            <pubDate>Wed, 28 Jul 2021 18:16:11 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：应该不久后就能知道通胀的理论是否正确。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8213707.d.html</link>
+            <guid>2259057</guid>
+            <pubDate>Wed, 28 Jul 2021 19:16:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美元指数DXY较日高回落逾15点，现报92.59。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8210378.d.html</link>
-            <guid>2258953</guid>
-            <pubDate>Wed, 28 Jul 2021 18:15:56 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：美国经济重启需要一些时间，将非常不平衡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8213703.d.html</link>
+            <guid>2259056</guid>
+            <pubDate>Wed, 28 Jul 2021 19:16:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[现货白银较日低反弹近0.3美元，现报24.85美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9607791.d.html</link>
-            <guid>2258952</guid>
-            <pubDate>Wed, 28 Jul 2021 18:13:55 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：想看看某些商品的价格是否会趋于平缓。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8213657.d.html</link>
+            <guid>2259055</guid>
+            <pubDate>Wed, 28 Jul 2021 19:15:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[现货黄金日内再度站上1800美元/盎司，较日低回升近8美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9607726.d.html</link>
-            <guid>2258951</guid>
-            <pubDate>Wed, 28 Jul 2021 18:13:09 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：这些因素不会对通胀或经济产生长期影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8213647.d.html</link>
+            <guid>2259054</guid>
+            <pubDate>Wed, 28 Jul 2021 19:14:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【FOMC声明后】据CME“美联储观察”：美联储9月维持利率在0%-0.25%区间的概率为100%，加息25个基点至0.25%-0.50%区间的概率为0%；11月维持利率在0%-0.25%区间的概率为100%，加息25个基点的概率为0%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9607716.d.html</link>
-            <guid>2258950</guid>
-            <pubDate>Wed, 28 Jul 2021 18:12:57 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：真的只有一小部分的因素导致了通胀超出预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9611126.d.html</link>
+            <guid>2259053</guid>
+            <pubDate>Wed, 28 Jul 2021 19:14:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[当地时间7月28日下午，中国新任驻美大使秦刚抵达纽约。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9607659.d.html</link>
-            <guid>2258948</guid>
-            <pubDate>Wed, 28 Jul 2021 18:11:50 GMT</pubDate>
+            <title><![CDATA[  据监测网络状况的网站DownDetector：用户报告显示Visa(V.N)出现故障。]]></title>
+            <guid>2259052</guid>
+            <pubDate>Wed, 28 Jul 2021 19:12:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【秘鲁新任总统佩德罗·卡斯蒂略宣誓就职】当地时间28日，秘鲁当选总统佩德罗·卡斯蒂略在国会宣誓就职，开始其5年任期。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9607645.d.html</link>
-            <guid>2258947</guid>
-            <pubDate>Wed, 28 Jul 2021 18:11:24 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：强有力的资本使银行能够为社区提供服务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9611075.d.html</link>
+            <guid>2259051</guid>
+            <pubDate>Wed, 28 Jul 2021 19:12:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国总统拜登：议员们似乎已经就基础设施达成了两党协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8209991.d.html</link>
-            <guid>2258945</guid>
-            <pubDate>Wed, 28 Jul 2021 18:09:39 GMT</pubDate>
+            <title><![CDATA[美国白宫：基建计划的资金来自未动用的紧急救济基金、目标企业用户费用、与加密货币相关的更强有力的税收执法，以及来自更强劲增长的收入。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9611051.d.html</link>
+            <guid>2259050</guid>
+            <pubDate>Wed, 28 Jul 2021 19:12:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国30年期国债收益率回升至1.91%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8209976.d.html</link>
-            <guid>2258944</guid>
-            <pubDate>Wed, 28 Jul 2021 18:09:26 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：强大的资本需求至关重要，尤其是对于最大的银行；资本不足的银行可能对经济造成威胁。]]></title>
+            <guid>2259049</guid>
+            <pubDate>Wed, 28 Jul 2021 19:11:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储FOMC声明：总体金融状况依然宽松。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9607307.d.html</link>
-            <guid>2258943</guid>
-            <pubDate>Wed, 28 Jul 2021 18:06:36 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：正在撰写杰克逊霍尔演讲的致辞，但目前还不想说其中的内容。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9611003.d.html</link>
+            <guid>2259048</guid>
+            <pubDate>Wed, 28 Jul 2021 19:11:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[纽约联储：常设逆回购工具的操作上限为5000亿美元，于7月29日生效。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8209731.d.html</link>
-            <guid>2258942</guid>
-            <pubDate>Wed, 28 Jul 2021 18:06:29 GMT</pubDate>
+            <title><![CDATA[财经网站Forexlive分析师Adam Button：新的信息是，鲍威尔表示在取得实质性的进一步进展之前，“还有一些工作要做”，而不是“还有一段路要走”。市场把它解读称鸽派但我不太确定。这听起来似乎在秋季宣布缩减购债规模是可能的。此外，还可以排除在杰克逊霍尔年会上宣布这一行动的可能性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9610995.d.html</link>
+            <guid>2259047</guid>
+            <pubDate>Wed, 28 Jul 2021 19:11:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储FOMC声明：常设逆回购工具将对国债、机构债务证券和机构抵押贷款支持证券进行每日隔夜回购操作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8209726.d.html</link>
-            <guid>2258941</guid>
-            <pubDate>Wed, 28 Jul 2021 18:06:23 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔确认将在杰克逊霍尔全球央行年会上发表讲话。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8213485.d.html</link>
+            <guid>2259046</guid>
+            <pubDate>Wed, 28 Jul 2021 19:10:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储FOMC声明：将隔夜逆回购利率（ON RRP）维持在0.05%不变。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9607287.d.html</link>
-            <guid>2258940</guid>
-            <pubDate>Wed, 28 Jul 2021 18:06:14 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：这是第一次深入地讨论缩债的时间、节奏和构成。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8213482.d.html</link>
+            <guid>2259045</guid>
+            <pubDate>Wed, 28 Jul 2021 19:10:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[现货黄金、现货白银基本收复美联储利率决议后的跌幅，现分别报1796.9美元/盎司和24.7美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9607279.d.html</link>
-            <guid>2258939</guid>
-            <pubDate>Wed, 28 Jul 2021 18:06:07 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：关于何时缩债是合适的，美国联邦公开市场委员会（FOMC）有很多不同的观点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9610969.d.html</link>
+            <guid>2259044</guid>
+            <pubDate>Wed, 28 Jul 2021 19:10:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储FOMC声明：致力于使用所有工具来支持美国经济。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9607273.d.html</link>
-            <guid>2258938</guid>
-            <pubDate>Wed, 28 Jul 2021 18:05:59 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：美联储尚未就缩债时间做出任何决定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9610955.d.html</link>
+            <guid>2259043</guid>
+            <pubDate>Wed, 28 Jul 2021 19:10:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储公布利率决议后，非美货币对普遍走走低，英镑兑美元GBP/USD上下挫近40点，最低至1.3846，欧元兑美元EUR/USD下挫40点，最低至1.1775，澳元兑美元AUD/USD下挫30点，最低至0.7318。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8209693.d.html</link>
-            <guid>2258937</guid>
-            <pubDate>Wed, 28 Jul 2021 18:05:52 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：尚未就重返美联储线下办公做出决定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9610941.d.html</link>
+            <guid>2259042</guid>
+            <pubDate>Wed, 28 Jul 2021 19:10:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储FOMC声明：经济活动和就业形势继续增强。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9607103.d.html</link>
-            <guid>2258936</guid>
-            <pubDate>Wed, 28 Jul 2021 18:04:02 GMT</pubDate>
+            <title><![CDATA[美国白宫：法案包括总计400亿美元的桥梁维修、更换和重建新资金。]]></title>
+            <guid>2259041</guid>
+            <pubDate>Wed, 28 Jul 2021 19:10:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储FOMC声明：在劳动力市场条件达到与委员会对充分就业的评估相一致的水平，且通胀率已经升至2%并定会在一段时间内适度超过2%之前，维持这一利率目标区间是合适的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8209516.d.html</link>
-            <guid>2258935</guid>
-            <pubDate>Wed, 28 Jul 2021 18:03:49 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：“暂时”的意思是通胀的进程将会停止。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8213405.d.html</link>
+            <guid>2259040</guid>
+            <pubDate>Wed, 28 Jul 2021 19:09:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美国10年期国债收益率一度最高达1.278%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9607083.d.html</link>
-            <guid>2258934</guid>
-            <pubDate>Wed, 28 Jul 2021 18:03:42 GMT</pubDate>
+            <title><![CDATA[Business Insider美国首席利率策略师Ira Jersey：尽管离缩减购债规模还很遥远，但我们认为FOMC声明暗示着最早可能在11月开始缩债。考虑到储蓄通过隔夜逆回购机制的循环和货币市场的正常运转，提前缩债可能会受到许多人的欢迎。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8213394.d.html</link>
+            <guid>2259038</guid>
+            <pubDate>Wed, 28 Jul 2021 19:09:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[标普500指数跌至日低，现跌0.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8209432.d.html</link>
-            <guid>2258932</guid>
-            <pubDate>Wed, 28 Jul 2021 18:02:43 GMT</pubDate>
+            <title><![CDATA[美国白宫：两党基础设施计划包括5500亿美元的新联邦投资。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8213377.d.html</link>
+            <guid>2259037</guid>
+            <pubDate>Wed, 28 Jul 2021 19:09:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美元指数DXY短线走高20点，报92.70。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9606981.d.html</link>
-            <guid>2258930</guid>
-            <pubDate>Wed, 28 Jul 2021 18:02:20 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：很容易想象，有些人重返工作岗位的时间可能更长，特别是如果学校推迟重新开放。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9610843.d.html</link>
+            <guid>2259036</guid>
+            <pubDate>Wed, 28 Jul 2021 19:08:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储FOMC声明：将继续每月增持至少800亿美元的国债，以及至少400亿美元的住房抵押贷款支持证券，直到委员会的充分就业和物价稳定的目标取得实质性进展。（与上次会议一致）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8209402.d.html</link>
-            <guid>2258929</guid>
-            <pubDate>Wed, 28 Jul 2021 18:02:13 GMT</pubDate>
+            <title><![CDATA[恒指期货夜盘收涨3.12%，报26175点，高水701点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8213350.d.html</link>
+            <guid>2259034</guid>
+            <pubDate>Wed, 28 Jul 2021 19:08:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储FOMC声明：通胀上升很大程度上反映了暂时性因素的影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9606966.d.html</link>
-            <guid>2258928</guid>
-            <pubDate>Wed, 28 Jul 2021 18:02:05 GMT</pubDate>
+            <title><![CDATA[美股基建股拉升，Summit Materials(SUM.N)涨4.6%，美国钢铁(X.N)涨近3%，卡特彼勒(CAT.N)涨1.14%，麦格理基础设施(MIC.N)涨0.23%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9610815.d.html</link>
+            <guid>2259033</guid>
+            <pubDate>Wed, 28 Jul 2021 19:08:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储FOMC声明：将贴现利率维持在0.25%不变。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8209386.d.html</link>
-            <guid>2258927</guid>
-            <pubDate>Wed, 28 Jul 2021 18:01:59 GMT</pubDate>
+            <title><![CDATA[美国白宫：法案包括总计400亿美元的桥梁维修、更换和重建新资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9610663.d.html</link>
+            <guid>2259032</guid>
+            <pubDate>Wed, 28 Jul 2021 19:05:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储FOMC声明：委员们一致同意此次的利率决定。（与上次会议一致）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9606955.d.html</link>
-            <guid>2258926</guid>
-            <pubDate>Wed, 28 Jul 2021 18:01:50 GMT</pubDate>
+            <title><![CDATA[Business Insider美国首席利率策略师Ira Jersey：常设回购工具（SRF）最终将包括交易商和银行作为对手方，它的创建将使美联储在未来减少其资产负债表，避免像2019年9月那样的回购市场停滞。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8213143.d.html</link>
+            <guid>2259031</guid>
+            <pubDate>Wed, 28 Jul 2021 19:04:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储FOMC声明：寻求实现通胀在一段时间内适度高于2%，以使长期通胀均值达到2%，且较长期通胀预期仍然牢牢锚定在2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9606953.d.html</link>
-            <guid>2258925</guid>
-            <pubDate>Wed, 28 Jul 2021 18:01:42 GMT</pubDate>
+            <title><![CDATA[美国疾控中心：截至昨天，美国新冠肺炎累计死亡病例达609441人，此前为609012人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8212874.d.html</link>
+            <guid>2259030</guid>
+            <pubDate>Wed, 28 Jul 2021 18:58:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美股三大股指短线下挫。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8209349.d.html</link>
-            <guid>2258924</guid>
-            <pubDate>Wed, 28 Jul 2021 18:01:33 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：有大量的职位空缺，这是不寻常的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8212870.d.html</link>
+            <guid>2259029</guid>
+            <pubDate>Wed, 28 Jul 2021 18:58:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[COMEX最活跃黄金期货合约北京时间7月29日02:00一分钟内买卖盘面瞬间成交2286手，交易合约总价值4.10亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9606932.d.html</link>
-            <guid>2258923</guid>
-            <pubDate>Wed, 28 Jul 2021 18:01:24 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：理想情况下加息不会发生在缩债前面。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8212786.d.html</link>
+            <guid>2259028</guid>
+            <pubDate>Wed, 28 Jul 2021 18:57:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[现货黄金短线下挫6美元，报1792.4美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9606921.d.html</link>
-            <guid>2258922</guid>
-            <pubDate>Wed, 28 Jul 2021 18:01:13 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：现在考虑加息还不是时候，美联储正在考虑购买资产的变动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9610273.d.html</link>
+            <guid>2259027</guid>
+            <pubDate>Wed, 28 Jul 2021 18:57:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储建立了国内和国外的常设逆回购机制。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8209316.d.html</link>
-            <guid>2258921</guid>
-            <pubDate>Wed, 28 Jul 2021 18:01:01 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：在进入强劲的就业市场前不会特别久，但我们需要一定时间来实现目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9610268.d.html</link>
+            <guid>2259026</guid>
+            <pubDate>Wed, 28 Jul 2021 18:57:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储FOMC声明：美国经济已经朝着缩减量化宽松的目标取得了进展 。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8209274.d.html</link>
-            <guid>2258920</guid>
-            <pubDate>Wed, 28 Jul 2021 18:00:30 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：认为未来几年内将在实现就业最大化方面取得良好进展。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9610079.d.html</link>
+            <guid>2259025</guid>
+            <pubDate>Wed, 28 Jul 2021 18:54:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储将基准利率维持在0%-0.25%不变，符合市场预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8209262.d.html</link>
-            <guid>2258919</guid>
-            <pubDate>Wed, 28 Jul 2021 18:00:24 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：在考虑加息时将进行框架测试。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8212580.d.html</link>
+            <guid>2259024</guid>
+            <pubDate>Wed, 28 Jul 2021 18:54:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储FOMC声明：将超额准备金利率（IOER）维持在0.15%不变。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9606847.d.html</link>
-            <guid>2258918</guid>
-            <pubDate>Wed, 28 Jul 2021 18:00:15 GMT</pubDate>
+            <title><![CDATA[【EIA：由于阿拉斯加海上维修，每周石油产量下降】 根据EIA的声明，截至7月23日的一周，美国原油产量下降了20万桶/天，原因是墨西哥湾的两个海上平台计划进行维护，阿拉斯加的产量略有下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9610050.d.html</link>
+            <guid>2259023</guid>
+            <pubDate>Wed, 28 Jul 2021 18:54:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[比特币失守39000美元/枚，日内跌1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8208611.d.html</link>
-            <guid>2258917</guid>
-            <pubDate>Wed, 28 Jul 2021 17:52:31 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：美联储的框架得到了市场很好的理解。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9610047.d.html</link>
+            <guid>2259022</guid>
+            <pubDate>Wed, 28 Jul 2021 18:53:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【FOMC声明前】据CME“美联储观察”：美联储7月维持利率在0%-0.25%区间的概率为100%，加息25个基点至0.25%-0.50%区间的概率为0%；美联储9月维持利率在0%-0.25%区间的概率为100%，加息25个基点至0.25%-0.50%区间的概率为0%；11月维持利率在0%-0.25%区间的概率为100%，加息25个基点的概率为0%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8208558.d.html</link>
-            <guid>2258916</guid>
-            <pubDate>Wed, 28 Jul 2021 17:51:46 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：正在谨慎监控通胀。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9610039.d.html</link>
+            <guid>2259021</guid>
+            <pubDate>Wed, 28 Jul 2021 18:53:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[高盛给予东鹏控股中性的初始评级；目标价17.40元人民币。]]></title>
-            <guid>2258915</guid>
-            <pubDate>Wed, 28 Jul 2021 17:50:31 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：没有在债券市场看到任何挑战框架可信度的活动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9610032.d.html</link>
+            <guid>2259020</guid>
+            <pubDate>Wed, 28 Jul 2021 18:53:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[土耳其卫生部：土耳其单日新增超20000例新冠肺炎确诊病例，为5月中旬来首次。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9605881.d.html</link>
-            <guid>2258914</guid>
-            <pubDate>Wed, 28 Jul 2021 17:48:32 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：对于债券市场走势的原因没有达成共识。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8212468.d.html</link>
+            <guid>2259019</guid>
+            <pubDate>Wed, 28 Jul 2021 18:51:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据美国民主党消息人士：在共和党提高工资的条款被否决后，基础设施融资授权从两党基础设施法案中移除。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8208279.d.html</link>
-            <guid>2258913</guid>
-            <pubDate>Wed, 28 Jul 2021 17:48:26 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：如果价格持续高于目标，美联储将使用工具。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9609951.d.html</link>
+            <guid>2259018</guid>
+            <pubDate>Wed, 28 Jul 2021 18:51:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[全球最大的ETF、规模3830亿美元的SPDR标普500 ETF信托（SPY）周二（7月27日）获得35.5亿美元资金流入，创3月份以来最大资金流入。规模1820亿美元的Invesco QQQ信托系列1（QQQ）入账4.74亿美元，最近四个交易日累计流入32亿美元。]]></title>
-            <guid>2258912</guid>
-            <pubDate>Wed, 28 Jul 2021 17:43:18 GMT</pubDate>
+            <title><![CDATA[凯投宏观首席经济学家Paul Ashworth：通过FOMC声明中的措辞改变，美联储朝着最终缩减购债规模迈出了一小步，但委员们似乎并不着急，我们仍预计其将在8或9月宣布缩债，而真正实施可能要到2022年初才会开始。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8212449.d.html</link>
+            <guid>2259017</guid>
+            <pubDate>Wed, 28 Jul 2021 18:51:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据美国民主党消息人士：基础设施融资授权从两党基础设施法案取消后，共和党反对提高工资的条款。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9605364.d.html</link>
-            <guid>2258911</guid>
-            <pubDate>Wed, 28 Jul 2021 17:40:32 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：很难说通胀何时会下降，如果通胀持续、显著高于目标，美联储将采取行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9609930.d.html</link>
+            <guid>2259016</guid>
+            <pubDate>Wed, 28 Jul 2021 18:50:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  大众：以每股0.5欧元的价格收购EUROPCAR，企业价值达到2.9亿欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9605073.d.html</link>
-            <guid>2258910</guid>
-            <pubDate>Wed, 28 Jul 2021 17:36:44 GMT</pubDate>
+            <title><![CDATA[美元指数DXY抹去美联储声明后的涨幅，日内跌0.13%，报92.35。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9609923.d.html</link>
+            <guid>2259015</guid>
+            <pubDate>Wed, 28 Jul 2021 18:50:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【机构：美联储利率决议或谈论缩减购债，但政策立场不变】瑞银集团：预计美联储本周不会释放重大信息，可能评估美国经济是否正步入“缩减购债”的轨道；高盛集团：预计美联储将在下次会议释放更多信号，此次会议重点关注其对美国通胀前景的评论；花旗银行：料美联储基本保持中立，或就缩减购债进行详细讨论，但不会披露全部细节或时间安排；道明证券：料美联储不会改变政策，鲍威尔或承认委员会已开始讨论缩债，但尚未取得实质性进展；西太银行：预计美联储将维持政策不变，但会就经济前景、风险偏向，以及缩债步伐讨论提供指引；德意志银行：预计美联储将提供缩减购债谈论进展的最新情况，并于11月的会议中公布缩债时间表；新加坡大华银行：料美联储维持政策立场不变，8月份或将首次暗示缩债，并于12月完成首次缩债。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8207204.d.html</link>
-            <guid>2258909</guid>
-            <pubDate>Wed, 28 Jul 2021 17:32:59 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：有信心中期通胀将回落。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9609904.d.html</link>
+            <guid>2259014</guid>
+            <pubDate>Wed, 28 Jul 2021 18:50:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国商务部长雷蒙多：美国总统拜登将决定对外国芯片制造商的津贴。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9604436.d.html</link>
-            <guid>2258908</guid>
-            <pubDate>Wed, 28 Jul 2021 17:28:39 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：短期内通胀风险倾向上行。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8212333.d.html</link>
+            <guid>2259013</guid>
+            <pubDate>Wed, 28 Jul 2021 18:50:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[法国租车EuropCar与大众达成每股0.50欧元的收购报价。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9604055.d.html</link>
-            <guid>2258907</guid>
-            <pubDate>Wed, 28 Jul 2021 17:24:14 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：通胀高于预期仅与少数因素有关。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9609802.d.html</link>
+            <guid>2259012</guid>
+            <pubDate>Wed, 28 Jul 2021 18:49:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧元兑美元EUR/USD短线上扬逾10点，现报1.1843。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9609767.d.html</link>
+            <guid>2259011</guid>
+            <pubDate>Wed, 28 Jul 2021 18:49:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
