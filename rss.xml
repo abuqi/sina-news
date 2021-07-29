@@ -4,11 +4,101 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Thu, 29 Jul 2021 21:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jul 2021 22:22:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：美国众议院通过资金法案以避免可能的政府关门。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8421371.d.html</link>
+            <guid>2261500</guid>
+            <pubDate>Thu, 29 Jul 2021 22:21:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[全球最大黄金ETF--SPDR Gold Trust持仓较上日增加5.82吨，当前持仓量为1031.46吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8421147.d.html</link>
+            <guid>2261499</guid>
+            <pubDate>Thu, 29 Jul 2021 22:17:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据CME“美联储观察”：美联储9月维持利率在0%-0.25%区间的概率为100%，加息25个基点至0.25%-0.50%区间的概率为0%；11月维持利率在0%-0.25%区间的概率为100%，加息25个基点的概率为0%；12月维持利率在0%-0.25%区间的概率为100%，加息25个基点的概率为0%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfnca9818482.d.html</link>
+            <guid>2261497</guid>
+            <pubDate>Thu, 29 Jul 2021 22:10:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普500指数期货下跌0.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfnca9818365.d.html</link>
+            <guid>2261496</guid>
+            <pubDate>Thu, 29 Jul 2021 22:08:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【科技股引领A股强劲反弹，创业板指收盘点位首超沪指】周四沪深两市迎来大反弹，半导体、新能源、军工等科技题材大幅上涨。科创50指数涨幅超过4%，创业板指涨幅超过5%，收盘点位首次超过沪指。华鑫证券首席策略分析师严凯文表示，本周初A股市场大幅下挫是突发性事件，引发了市场风险偏好快速下滑，目前风险偏好已经得以纠正，无需过于担忧，景气度赛道依然是支持行情热度的核心动力。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8420469.d.html</link>
+            <guid>2261495</guid>
+            <pubDate>Thu, 29 Jul 2021 22:06:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【城市群崛起带动区域经济协调发展步入新阶段】随着中国进入城市化下半程，城市群迅速崛起，我国区域经济协调发展正步入新阶段。目前我国城市化水平已达到63.8%，空间发展和结构聚散从多个尺度和多个维度展开角逐，正在重塑中国区域经济版图。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfnca9818105.d.html</link>
+            <guid>2261494</guid>
+            <pubDate>Thu, 29 Jul 2021 22:05:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥卫生部：墨西哥累计新冠肺炎死亡病例升至239997例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfnca9817895.d.html</link>
+            <guid>2261493</guid>
+            <pubDate>Thu, 29 Jul 2021 22:02:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股期货下跌，纳斯达克100指数跌0.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfnca9817866.d.html</link>
+            <guid>2261492</guid>
+            <pubDate>Thu, 29 Jul 2021 22:01:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西报告新增42283例新冠肺炎确诊病例，新增1318例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8419762.d.html</link>
+            <guid>2261491</guid>
+            <pubDate>Thu, 29 Jul 2021 21:55:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【居民增配权益资产大潮将愈发澎湃】相较于聚焦短期资金进出，居民储蓄长期“搬家”趋势更值得关注。今年上半年，1.6万亿元的新设公募基金募资规模创下历史最佳的上半年业绩，彰显了投资者“借基入市”热情高涨，延续着增量资金稳步入市的良好势头。在中国经济加速转型升级以及资本市场制度改革深化进程中，居民增配权益资产的大潮势必愈发澎湃。 (中国证券报)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfnca9817493.d.html</link>
+            <guid>2261490</guid>
+            <pubDate>Thu, 29 Jul 2021 21:54:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【证券时报头版：外资与A股难言“断舍离”】本周前两个交易日，受多重因素影响，有悲观者惊呼“外资出逃”“抛售资产”，一时间市场情绪低迷。外资真的会一去不归吗？答案显然是否定的。随着与外资互通有无的加深，A股与外围市场联系更为紧密，市场波动可能加大，机遇与风险并存，这些都为A股带来一定的不确定因素。但过往事实证明，外资单日的大规模流出对市场的负面影响是短暂的，市场往往能够快速自我纠正。毋庸置疑的是，A股乃至整个中国资本市场拥有巨量的资源与广阔的前景，已是一片投资蓝海，必将继续成为海内外资金追逐的“香饽饽”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfnca9817310.d.html</link>
+            <guid>2261489</guid>
+            <pubDate>Thu, 29 Jul 2021 21:51:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  标普500指数的11个板块里，原材料板块和金融板块均收涨将近1.1%，能源板块涨超0.9%，可选消费和工业板块均涨约0.8%，只有通信和房地产板块收跌，分别跌超0.9%和0.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8418458.d.html</link>
+            <guid>2261486</guid>
+            <pubDate>Thu, 29 Jul 2021 21:35:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  周四（7月29）纽约尾盘，CME比特币期货BTC主力合约报39725美元，较周三纽约尾盘跌1.60%，盘中交投于40650-39290美元区间。 CME以太币期货DCR主力合约报2308.75美元，较周三涨0.16%，盘中交投于2265.00-2345.00美元区间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8418283.d.html</link>
+            <guid>2261485</guid>
+            <pubDate>Thu, 29 Jul 2021 21:31:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  离岸人民币（CNH）兑美元北京时间04:59报6.4574元，较周三纽约尾盘涨285点，盘中整体交投于6.4935-6.4563元区间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8418250.d.html</link>
+            <guid>2261484</guid>
+            <pubDate>Thu, 29 Jul 2021 21:31:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【G20文化部长会议在意大利罗马开幕】当地时间7月29日晚，二十国集团（G20）文化部长会议在意大利罗马斗兽场开幕。意大利总理德拉吉、文化部长弗朗切斯基尼和联合国教科文组织总干事阿祖莱及来自G20的40个代表团出席。意大利总理德拉吉在开幕致辞中表示，对文化的支持在该国的重启中扮演重要作用。意大利的旅游产业占据国内生产总值的13%，有350万人直接或间接从事相关行业。在经过欧盟批准的国家复苏计划中，意大利将在相关产业投入近70亿欧元。据悉，G20文化部长会议将持续至30日，五大主要议题为：对文化和创意领域的保护及推广，以期其成为可持续及平衡发展的引擎；保护文化遗产免受自然灾害、气候变化、故意毁坏和非法贩运等因素威胁；推动数字化和技术转型对文化和创意领域增长的贡献；致力于培养应对当今世界和文化领域挑战复杂性的能力；通过文化手段应对气候变化。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8418027.d.html</link>
+            <guid>2261483</guid>
+            <pubDate>Thu, 29 Jul 2021 21:27:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  淡水河谷二季度销售878亿巴西雷亚尔。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8417596.d.html</link>
@@ -138,90 +228,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfnca9812077.d.html</link>
             <guid>2261451</guid>
             <pubDate>Thu, 29 Jul 2021 20:00:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[基金分析公司理柏（Lipper）：预计美国贷款基金在7月28日当周资金流入2.98亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfnca9812040.d.html</link>
-            <guid>2261450</guid>
-            <pubDate>Thu, 29 Jul 2021 19:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国宇航局和波音公司已决定退出周五的轨道飞行试验。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8414112.d.html</link>
-            <guid>2261449</guid>
-            <pubDate>Thu, 29 Jul 2021 19:57:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【财经网站Fxstreet分析师Salord：现货白银创近2周】新高现货白银一度涨至25.8美元/盎司，创近2周新高，延续了自周二开始的上涨势头。在最近几个交易日，现货白银累计上涨了5%以上。引发白银反弹的因素主要是技术性修正，并且受到了风险情绪改善的推动。与此同时，美指连续第四天下跌，创下一个月来的最低水平。现货白银回升至20日移动均线上方，即将测试25.90美元的200日均线；若反弹至26美元上方，短期内可能为进一步上涨扫清道路。若不回落至于25.40美元下方，乐观基调可能将继续保持。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8414066.d.html</link>
-            <guid>2261448</guid>
-            <pubDate>Thu, 29 Jul 2021 19:55:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Atlantic Equities：首予Robinhood(HOOD.O)增持评级，目标价65美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8413477.d.html</link>
-            <guid>2261446</guid>
-            <pubDate>Thu, 29 Jul 2021 19:42:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[基金分析公司理柏（Lipper）：预计美国高收益基金本周流出9.96亿美元资金；预计美国投资级基金本周资金流入2.94亿美元；预计市政债基金本周流入13.9亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8413073.d.html</link>
-            <guid>2261445</guid>
-            <pubDate>Thu, 29 Jul 2021 19:36:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳斯达克证券交易所总裁Nelson Griggs：美国在线券商Robinhood股价下跌并不“罕见”，有多达30%的IPO出现了价格下跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfnca9810339.d.html</link>
-            <guid>2261444</guid>
-            <pubDate>Thu, 29 Jul 2021 19:24:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恒指期货夜盘收跌0.62%，报26041点，低水274点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfnca9809665.d.html</link>
-            <guid>2261441</guid>
-            <pubDate>Thu, 29 Jul 2021 19:06:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行副行长金多斯：还有时间来决定紧急抗疫购债计划（PEPP）的未来。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8411415.d.html</link>
-            <guid>2261440</guid>
-            <pubDate>Thu, 29 Jul 2021 18:58:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行副行长金多斯：欧洲央行预计明年通胀率将下降并保持在低位。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8411268.d.html</link>
-            <guid>2261439</guid>
-            <pubDate>Thu, 29 Jul 2021 18:56:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行副行长金多斯：欧洲银行业非常稳健，具有弹性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8411019.d.html</link>
-            <guid>2261438</guid>
-            <pubDate>Thu, 29 Jul 2021 18:52:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国疾控中心：69.3%的美国市县有相当高的新冠病毒传播率，高于周三公布的66.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8410905.d.html</link>
-            <guid>2261437</guid>
-            <pubDate>Thu, 29 Jul 2021 18:50:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国得州一化工厂约10万磅乙酸泄漏，致2人死亡42人受伤】美国媒体28日称，得克萨斯州一家化学加工厂27日发生化学品泄漏事故，造成2人死亡，42人受伤。该公司位于得州拉波特市的工厂大约10万磅乙酸发生泄漏，导致两名承包商丧生，42名工人送医治疗。截至28日，已有27人出院。福克斯新闻网报道称，泄漏发生时，该工厂内包括事发区域在内的部分区域正在进行维护，处于关闭状态。哈里斯县消防局长办公室在社交平台上说，调查人员初步调查后确定现场没有发生爆炸和火灾，泄漏原因还在调查。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8410500.d.html</link>
-            <guid>2261436</guid>
-            <pubDate>Thu, 29 Jul 2021 18:43:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国民主党人就二手电动汽车提出税收抵免法案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfnca9808080.d.html</link>
-            <guid>2261434</guid>
-            <pubDate>Thu, 29 Jul 2021 18:39:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  WTI 9月原油期货收涨1.23美元，涨幅1.70%，报73.62美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8410044.d.html</link>
-            <guid>2261433</guid>
-            <pubDate>Thu, 29 Jul 2021 18:34:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
