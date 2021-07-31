@@ -4,7 +4,7 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 31 Jul 2021 21:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Jul 2021 22:21:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
@@ -235,18 +235,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0162547.d.html</link>
             <guid>2263931</guid>
             <pubDate>Sat, 31 Jul 2021 13:41:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中广核：台山核电厂1号机组少量燃料破损 决定对其停机检修】据中广核集团消息，目前，1号机组运行过程中出现少量燃料破损，但仍在技术规范允许范围内，机组可以继续稳定运行。考虑到1号机组是全球首堆，刚投入运行不久，经中法双方技术人员充分沟通，台山核电厂根据核安全法规和核电厂运行规程，坚持安全第一、保守决策，决定对1号机组进行停机检修，查找燃料破损原因，更换破损燃料。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8763649.d.html</link>
-            <guid>2263929</guid>
-            <pubDate>Sat, 31 Jul 2021 13:27:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【海南离岛免税商品实行溯源管理】为强化对海南离岛免税商品的源头管理，从8月1日起，海南离岛免税商品加贴溯源码，到今年年底实现离岛免税商品溯源全覆盖。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8762681.d.html</link>
-            <guid>2263928</guid>
-            <pubDate>Sat, 31 Jul 2021 13:17:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
