@@ -4,11 +4,65 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 31 Jul 2021 15:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Jul 2021 16:34:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[法国新增43例新冠肺炎死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8779322.d.html</link>
+            <guid>2263964</guid>
+            <pubDate>Sat, 31 Jul 2021 16:25:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[突尼斯总统呼吁银行降低利率。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8777755.d.html</link>
+            <guid>2263963</guid>
+            <pubDate>Sat, 31 Jul 2021 16:08:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[广西东兴通报越南入境涉疫车辆最新情况：司机核酸检测为阴性。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8776857.d.html</link>
+            <guid>2263962</guid>
+            <pubDate>Sat, 31 Jul 2021 15:59:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：美国加州海湾发生5.0级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0173834.d.html</link>
+            <guid>2263961</guid>
+            <pubDate>Sat, 31 Jul 2021 15:49:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【郑州气象台发布大风橙色预警 部分地区将出现8到10级大风】郑州市气象台2021年7月31日22时20分发布大风橙色预警信号：预计6小时内，郑州市区、中牟、荥阳、新郑、新密、登封、巩义将出现8到10级大风，局地阵风11到13级。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8775685.d.html</link>
+            <guid>2263960</guid>
+            <pubDate>Sat, 31 Jul 2021 15:41:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[江苏扬州：将适时启动新一轮大规模核酸检测，新一轮检测将力争一天完成采样一天出结果。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0172949.d.html</link>
+            <guid>2263959</guid>
+            <pubDate>Sat, 31 Jul 2021 15:39:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利新增6513例新冠肺炎确诊病例，新增16例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0172750.d.html</link>
+            <guid>2263958</guid>
+            <pubDate>Sat, 31 Jul 2021 15:35:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院多数党领袖舒默：将在最近公布最新进展。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0171990.d.html</link>
+            <guid>2263957</guid>
+            <pubDate>Sat, 31 Jul 2021 15:26:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院多数党领袖舒默：敦促跨党派团体完成他们的工作（法案谈判）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8774457.d.html</link>
+            <guid>2263956</guid>
+            <pubDate>Sat, 31 Jul 2021 15:26:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  江苏淮安通报新增1名阳性人员，曾与此前感染者去张家界旅行。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8773354.d.html</link>
@@ -163,47 +217,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8751195.d.html</link>
             <guid>2263689</guid>
             <pubDate>Sat, 31 Jul 2021 11:19:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据日本共同社：日本31日新冠肺炎新增确诊病例首次超过1.2万例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8749727.d.html</link>
-            <guid>2263652</guid>
-            <pubDate>Sat, 31 Jul 2021 11:04:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新华社热评：坚决纠正运动式“减碳”】新华社发文称，实现碳达峰、碳中和是一项复杂、长期和系统性的工程，需要科学部署目标任务、加强顶层设计。不论是地方、行业还是企业，都要合理设置目标，一切从实际出发，科学把握节奏。要处理好发展和减排、整体和局部、短期和中长期的关系，处理好减污降碳和能源安全、产业链供应链安全、粮食安全、群众正常生活的关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0146451.d.html</link>
-            <guid>2263622</guid>
-            <pubDate>Sat, 31 Jul 2021 10:58:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿塞拜疆能源部：阿塞拜疆上半年天然气出口同比增长36%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8748562.d.html</link>
-            <guid>2263613</guid>
-            <pubDate>Sat, 31 Jul 2021 10:52:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿塞拜疆能源部：阿塞拜疆上半年石油出口同比下降4.8％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8748548.d.html</link>
-            <guid>2263612</guid>
-            <pubDate>Sat, 31 Jul 2021 10:52:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亚马逊个人数据处理不当被罚57亿：卢森堡开罚单，创下同类处罚纪录】7月30日，亚马逊在公布的一份证券文件披露，卢森堡数据保护局对亚马逊罚款7.46亿欧元（约合人民币57.2亿元），原因对个人数据的处理不符合欧盟通用数据保护条例（GDPR）而罚款7.46亿欧元（约合人民币57.2亿元），创下纪录。此前的类似案例的最大金额是谷歌被罚5000万欧元。（经济观察报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8747580.d.html</link>
-            <guid>2263588</guid>
-            <pubDate>Sat, 31 Jul 2021 10:43:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新加坡报告117例新增新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8745792.d.html</link>
-            <guid>2263544</guid>
-            <pubDate>Sat, 31 Jul 2021 10:26:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果供应商伯恩光学申请在香港IPO，可能融资10亿-20亿美元；伯恩光学截至3月31日全年收入增长9％，同期利润增长71％。]]></title>
-            <guid>2263534</guid>
-            <pubDate>Sat, 31 Jul 2021 10:24:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
