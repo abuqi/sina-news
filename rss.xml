@@ -4,11 +4,29 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 31 Jul 2021 12:35:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Jul 2021 13:24:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【海南离岛免税商品实行溯源管理】为强化对海南离岛免税商品的源头管理，从8月1日起，海南离岛免税商品加贴溯源码，到今年年底实现离岛免税商品溯源全覆盖。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8762681.d.html</link>
+            <guid>2263928</guid>
+            <pubDate>Sat, 31 Jul 2021 13:17:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[郑州新增4名确诊病例、1名无症状感染者。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0158462.d.html</link>
+            <guid>2263917</guid>
+            <pubDate>Sat, 31 Jul 2021 13:00:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯航天集团称国际空间站将在2028年停用。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0156279.d.html</link>
+            <guid>2263864</guid>
+            <pubDate>Sat, 31 Jul 2021 12:37:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【日本单日新增新冠患者首超1.2万人，东京新确诊4058人感染新冠】据日本媒体报道，日本国内7月31日新确诊的新冠病毒感染者首次超过了1.2万人。同时，正在举办奥运会的东京都宣布新确诊4058人感染新冠病毒，首次超过4000人并再创新高。另据东京奥组委信息，与奥运相关又有21人在新冠病毒检测中呈阳性，其中没有运动员为阳性。奥运相关阳性人数自本月1日起累计达到246人。之前，日本首相菅义伟在发布会上表示，“日本不适应封城的方法”。（中新网）]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0154386.d.html</link>
@@ -210,18 +228,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0125277.d.html</link>
             <guid>2263397</guid>
             <pubDate>Sat, 31 Jul 2021 08:01:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本东京报告新增4058例新冠肺炎确诊病例，7日均值为2920例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8726563.d.html</link>
-            <guid>2263388</guid>
-            <pubDate>Sat, 31 Jul 2021 07:51:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国疾控中心研究员冯子健：与Alpha变异株相比，感染德尔塔变异株的患者住院风险增加了2.6倍。它对病死率的影响，目前还没有获得明确的研究结果。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0123993.d.html</link>
-            <guid>2263386</guid>
-            <pubDate>Sat, 31 Jul 2021 07:50:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
