@@ -4,11 +4,35 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 31 Jul 2021 20:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Jul 2021 21:20:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国新冠肺炎确诊病例累计超3496万例】根据美国约翰斯·霍普金斯大学于美国东部时间7月31日16时21分（北京时间8月1日4时21分）统计的数据，美国新冠肺炎确诊病例累计已超过3496万例，达到34964188例；死亡病例累计超过61万例，达到613110例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0193919.d.html</link>
+            <guid>2263983</guid>
+            <pubDate>Sat, 31 Jul 2021 21:18:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西新增37582例新冠肺炎确诊病例，新增910例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8795910.d.html</link>
+            <guid>2263982</guid>
+            <pubDate>Sat, 31 Jul 2021 20:57:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国务卿布林肯与以色列外长拉皮德讨论了阿曼附近的船只袭击事件。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0192595.d.html</link>
+            <guid>2263981</guid>
+            <pubDate>Sat, 31 Jul 2021 20:46:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：热带风暴希尔达（Hilda）将很快演变为飓风。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8795075.d.html</link>
+            <guid>2263980</guid>
+            <pubDate>Sat, 31 Jul 2021 20:36:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[欧洲地中海地震中心：希腊克里特岛发生5.0级地震。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8793736.d.html</link>
@@ -223,18 +247,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8762681.d.html</link>
             <guid>2263928</guid>
             <pubDate>Sat, 31 Jul 2021 13:17:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[郑州新增4名确诊病例、1名无症状感染者。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0158462.d.html</link>
-            <guid>2263917</guid>
-            <pubDate>Sat, 31 Jul 2021 13:00:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯航天集团称国际空间站将在2028年停用。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0156279.d.html</link>
-            <guid>2263864</guid>
-            <pubDate>Sat, 31 Jul 2021 12:37:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
