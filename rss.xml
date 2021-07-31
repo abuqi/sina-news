@@ -4,11 +4,29 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 31 Jul 2021 17:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Jul 2021 18:28:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[约旦暂时关闭与叙利亚交界的Jaber过境点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0184386.d.html</link>
+            <guid>2263973</guid>
+            <pubDate>Sat, 31 Jul 2021 18:05:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国新增23471例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0183186.d.html</link>
+            <guid>2263972</guid>
+            <pubDate>Sat, 31 Jul 2021 17:47:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【张家界新增3例新冠肺炎本土确诊病例】7月31日0—20时，湖南省张家界市新增3例本土新冠肺炎确诊病例。自7月29日以来，湖南省张家界市累计发现本土确诊病例8例（其中永定区8例）。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0181805.d.html</link>
+            <guid>2263971</guid>
+            <pubDate>Sat, 31 Jul 2021 17:27:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[南非新增12528例新冠肺炎确诊病例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0181633.d.html</link>
@@ -211,18 +229,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0151764.d.html</link>
             <guid>2263739</guid>
             <pubDate>Sat, 31 Jul 2021 11:50:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[当地时间7月30日夜间至31日凌晨，伊拉克发生两起极端组织袭击事件，造成3人死亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0151487.d.html</link>
-            <guid>2263736</guid>
-            <pubDate>Sat, 31 Jul 2021 11:48:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【安徽多地水泥厂家上调水泥价格】近期安徽地区虽仍有雨水天气影响，但由于原材料煤炭等价格上调，水泥生产成本增加。7月29日安徽宿州、淮北等地主要厂家上调水泥价格20元/吨后，7月30日淮南、蚌埠、阜阳、亳州等地主要厂家跟进上调各品种水泥价格20-30元/吨。至此，皖北地区水泥价格基本完成一轮普涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8753652.d.html</link>
-            <guid>2263731</guid>
-            <pubDate>Sat, 31 Jul 2021 11:43:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
