@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 31 Jul 2021 18:28:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Jul 2021 19:16:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[孟加拉国新增9369例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8790283.d.html</link>
+            <guid>2263975</guid>
+            <pubDate>Sat, 31 Jul 2021 19:01:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其新增22332例新冠肺炎确诊病例，累计确诊5727045例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0186019.d.html</link>
+            <guid>2263974</guid>
+            <pubDate>Sat, 31 Jul 2021 18:34:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[约旦暂时关闭与叙利亚交界的Jaber过境点。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0184386.d.html</link>
@@ -217,18 +229,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0154386.d.html</link>
             <guid>2263801</guid>
             <pubDate>Sat, 31 Jul 2021 12:18:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[越南方面表示，将在整个南部地区将社交距离限制令延长14天。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8755430.d.html</link>
-            <guid>2263753</guid>
-            <pubDate>Sat, 31 Jul 2021 12:02:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[交通运输部：交通运输部召开全国交通运输2021年半年工作视频会。部长李小鹏强调，要扎实做好安全生产、执法领域突出问题专项整治行动、国际物流供应链、交通运输新业态、碳达峰碳中和、提高治理能力等各项工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0151764.d.html</link>
-            <guid>2263739</guid>
-            <pubDate>Sat, 31 Jul 2021 11:50:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
