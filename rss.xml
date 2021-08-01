@@ -4,11 +4,59 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 01 Aug 2021 02:35:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Aug 2021 03:25:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[智利Escondida铜矿工人投票罢工。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0242341.d.html</link>
+            <guid>2264065</guid>
+            <pubDate>Sun, 01 Aug 2021 03:19:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南京：病例主要集中在禄口机场及周边地区，江宁、溧水两区病例占总量90.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0240947.d.html</link>
+            <guid>2264064</guid>
+            <pubDate>Sun, 01 Aug 2021 03:11:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[广东省文旅厅日前发布紧急通知：不得组团到中高风险地区旅游，暂停销售中高风险地区"机票+酒店"等旅游产品。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0240922.d.html</link>
+            <guid>2264063</guid>
+            <pubDate>Sun, 01 Aug 2021 03:11:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[天风证券认为，金融、周期上游、周期中游对于现金流，也就是经济的景气程度敏感度较高，而周期下游、消费、成长板块则相对敏感度较低。因此在现金流上行时，应当配置金融、周期上游、周期中游，现金流下行时应当配置周期下游、消费、成长。根据最新数据，天风制造业活动指数同比下行，现金流下行，折现率下行，模型建议8月配置成长、消费板块。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8842181.d.html</link>
+            <guid>2264061</guid>
+            <pubDate>Sun, 01 Aug 2021 03:02:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【南京卫健委回应三轮核酸检测采样人数变化：部分大学生因为假期等原因离开南京】三轮全市大规模核酸检测采样总人数有所变化，其中第二轮、第三轮要少于第一轮，主要原因是因为部分符合条件的大学生因为假期等原因离开了南京，此外第二轮采样数明显比第一轮低，还有江宁禄口等街道相较全市提前开展了第二轮检测，相关采样数计入了全市第一轮采样期间的数字。（新华日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0238308.d.html</link>
+            <guid>2264060</guid>
+            <pubDate>Sun, 01 Aug 2021 02:58:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[来宁出差的外市人员黄码如何转?南京回应：提供核酸报告远程转码。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0237284.d.html</link>
+            <guid>2264058</guid>
+            <pubDate>Sun, 01 Aug 2021 02:52:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：热带风暴希尔达（Hilda）升级为飓风。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0234815.d.html</link>
+            <guid>2264055</guid>
+            <pubDate>Sun, 01 Aug 2021 02:39:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[东京奥组委首席执行官武藤敏郎：我同意首相菅义伟和东京都知事小池百合子的观点，即奥运会不会导致东京新冠病毒感染病例的增加。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8837384.d.html</link>
+            <guid>2264054</guid>
+            <pubDate>Sun, 01 Aug 2021 02:35:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[海南海口新增1例新冠肺炎确诊病例，曾乘坐HU7059航班飞机，轨迹涉及商场等。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8837095.d.html</link>
@@ -192,60 +240,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0214216.d.html</link>
             <guid>2264015</guid>
             <pubDate>Sun, 01 Aug 2021 00:43:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[近一周机构调研个股数量有70多只，海康威视成为调研机构数量最多的股票。数据显示，合计有489家机构调研了该公司，包括103家基金公司、52家证券公司、69家私募、32家保险公司等。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0214011.d.html</link>
-            <guid>2264014</guid>
-            <pubDate>Sun, 01 Aug 2021 00:41:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【钟南山：密切接触者已重新定义，室内病毒感染要充分注意】7月31日，在广州举行的一场关于室内空气净化的峰会上，钟南山院士表示，目前对密切接触有了新的定义。德尔塔病毒株已经成为世界新冠病毒主要的变异株，病毒在密闭空间中可以悬浮在空气里，浓度很高的话就会传染。因此，大家要关注室内密闭空间的空气净化。（南方都市报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8816451.d.html</link>
-            <guid>2264013</guid>
-            <pubDate>Sun, 01 Aug 2021 00:38:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韩国新增3例新冠肺炎死亡病例，累计死亡2098例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8815641.d.html</link>
-            <guid>2264012</guid>
-            <pubDate>Sun, 01 Aug 2021 00:33:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京：加强进出京旅游管理 市民近期尽量减少出京】北京卫健委建议，加强进出京旅游管理，公园、景区、商场、超市、影剧院、酒店、交通场站等公共场所，严格落实限流、测温、验码、佩戴口罩等防疫措施。请市民朋友近期尽量减少出京，不去中高风险地区、旅游热点地区旅行或出差。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8815625.d.html</link>
-            <guid>2264011</guid>
-            <pubDate>Sun, 01 Aug 2021 00:33:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韩国新增1442例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8815497.d.html</link>
-            <guid>2264008</guid>
-            <pubDate>Sun, 01 Aug 2021 00:32:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【自购潮又来了：基金公司出手，年内已超27亿】 今年前7月基金公司自购规模超27亿元，同比上升逾两成。其中权益类基金仍是基金公司自购主力军，占比近7成。从业绩看，获基金公司自购的多数基金年内斩获正收益，27只产品涨超10%。业内人士表示，今年基金公司自购的基金大多都是在其成立时申购，不少基金公司将“自购”作为营销卖点。另外，自购也能彰显行业对市场的信心，给投资者传递基金公司和基金经理知行合一的积极信息。（中国基金报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8815439.d.html</link>
-            <guid>2264007</guid>
-            <pubDate>Sun, 01 Aug 2021 00:31:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[湖南湘潭新增1例无症状感染者，曾在常德乘船游穿紫河。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0210057.d.html</link>
-            <guid>2264005</guid>
-            <pubDate>Sun, 01 Aug 2021 00:15:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[湖南湘潭：将雨湖区云塘街道杨家湾公安小区的风险等级调整为中风险地区。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8812506.d.html</link>
-            <guid>2264004</guid>
-            <pubDate>Sun, 01 Aug 2021 00:12:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【河南洛阳白马寺宣布暂停对外开放】8月1日凌晨，“洛阳白马寺”微信公众号发布信息，8月1日起，白马寺暂停任何宗教活动，具体恢复开放时间另行通知。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqciyzk8812399.d.html</link>
-            <guid>2264003</guid>
-            <pubDate>Sun, 01 Aug 2021 00:11:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
