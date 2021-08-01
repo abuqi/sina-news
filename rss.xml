@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 01 Aug 2021 18:27:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Aug 2021 19:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【法国新增新冠肺炎确诊病例19600例 累计确诊6146619例】法国公共卫生部门当地时间8月1日当天公布的数据显示，截至当天下午，法国新冠肺炎累计确诊病例达6146619例，24小时新增19600例。累计报告死亡病例达111916例，其中医院死亡病例85402例，24小时新增18例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-02/detail-ikqciyzk8949520.d.html</link>
+            <guid>2264293</guid>
+            <pubDate>Sun, 01 Aug 2021 19:06:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【方正中期：美联储未来货币政策预判】基于美国现状，参考2013-2014年美联储QE退出路径，对美联储货币政策调整时间表预测如下：第一阶段，2021年8—9月将会释放缩减购置规模的信号；第二阶段，2021年11-12月逐步开启缩减购债规模的政策调整，每月缩减100-150亿；第三阶段，2022年6-9月正式结束第五轮QE；第四阶段，2022年12月或2023年初开始加息，2023—2024年会加速加息。今年8-9月是会释放缩减购债规模信号的关键期，重点关注两个时间点。8月，鲍威尔在杰克逊霍尔全球央行年会的讲话，从鲍威尔7月议息会议讲话来看，本次讲话将会出现货币政策重大的可关注的信号；9月美联储议息会议，本次会议将会发布会议声明、经济展望和点阵图，预计将会出现明确的货币政策转向信号。这两个节点均是美联储释放缩减购债规模信号的关键期，届时对金融市场和商品市场会产生重要的影响，金融市场和商品市场将会迎来行情的大转向。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-02/detail-ikqcfncc0345498.d.html</link>
+            <guid>2264292</guid>
+            <pubDate>Sun, 01 Aug 2021 18:52:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【全国一般公共预算科学技术支出10年达7.07万亿】7月30日下午，国务院新闻办公室举行财政支持全面建成小康社会新闻发布会。财政部部长刘昆在会上说，2012年—2021年，全国一般公共预算科学技术支出从4452.63亿元增长到9321亿元，10年共计7.07万亿元，重点支持集成电路、光伏发电、新能源汽车、新一代信息技术等领域，着力保障关键核心技术攻关，支持突破技术瓶颈问题。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-02/detail-ikqcfncc0344032.d.html</link>
@@ -212,24 +224,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0321772.d.html</link>
             <guid>2264235</guid>
             <pubDate>Sun, 01 Aug 2021 13:28:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国民主党参议员曼钦：相信周日就能得到基建法案的文本。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0321701.d.html</link>
-            <guid>2264232</guid>
-            <pubDate>Sun, 01 Aug 2021 13:27:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国共和党参议员柯林斯：我认为会有超过10位共和党参议员支持两党基建法案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0321210.d.html</link>
-            <guid>2264231</guid>
-            <pubDate>Sun, 01 Aug 2021 13:22:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华工科技：预计2021年全年小基站出货量达80万~100万个】 华工科技在日前的业绩说明会上表示，小基站是公司做的室内覆盖的无线网络设备。上半年公司小基站出货量为30万个，预计2021年全年达80万~100万个。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-01/detail-ikqcfncc0319847.d.html</link>
-            <guid>2264229</guid>
-            <pubDate>Sun, 01 Aug 2021 13:08:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
