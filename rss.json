@@ -6,6 +6,228 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 2266932,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqciyzk9371642.d.html",
+            "title": "富国银行(WFC.N)发言人：与公司的美国员工沟通了将在9月开始持续数周的分阶段重返办公室计划。",
+            "date_modified": "2021-08-03T18:28:08.000Z"
+        },
+        {
+            "id": 2266931,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqcfncc0768699.d.html",
+            "title": "高乐氏(CLX.N)CEO：有证据表明，更高的清洁产品需求将持续下去。",
+            "date_modified": "2021-08-03T18:27:44.000Z"
+        },
+        {
+            "id": 2266929,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqcfncc0768682.d.html",
+            "title": "白宫新闻秘书珍·普萨基：白宫正密切关注五角大楼枪击案相关官员的情况。",
+            "date_modified": "2021-08-03T18:27:22.000Z"
+        },
+        {
+            "id": 2266928,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqcfncc0768479.d.html",
+            "title": "Moderna(MRNA.O)涨幅扩大至8%，股价续创新高，市值超1500亿美元，成为万亿管理规模的长线价值投资者Baillie Gifford基金第一重仓股。",
+            "date_modified": "2021-08-03T18:21:50.000Z"
+        },
+        {
+            "id": 2266927,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqcfncc0768269.d.html",
+            "title": "美国参议院多数党领袖舒默：参议院将在8月休会前完成基础设施和预算法案。",
+            "date_modified": "2021-08-03T18:17:42.000Z"
+        },
+        {
+            "id": 2266926,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqciyzk9371191.d.html",
+            "title": "  高乐氏(CLX.N)CFO：预计第四季度毛利润将在40％左右。",
+            "date_modified": "2021-08-03T18:17:34.000Z"
+        },
+        {
+            "id": 2266925,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqcfncc0768201.d.html",
+            "title": "  美国国务卿布林肯：正与印尼展开战略对话。",
+            "date_modified": "2021-08-03T18:15:51.000Z"
+        },
+        {
+            "id": 2266924,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqciyzk9370819.d.html",
+            "title": "  比特币短线走低500美元，现报37779美元/枚。",
+            "date_modified": "2021-08-03T18:10:23.000Z"
+        },
+        {
+            "id": 2266923,
+            "content_html": "",
+            "title": "美股中概教育股部分走高，高途(GOTU.N)涨超20%，新东方(EDU.N)涨近7%，好未来(TAL.N)涨近5%。",
+            "date_modified": "2021-08-03T18:10:16.000Z"
+        },
+        {
+            "id": 2266922,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqcfncc0767817.d.html",
+            "title": "【有效防沉迷应是游戏企业安全发展的底线】8月3日，一篇对未成年人沉迷网络游戏的报道，引发游戏企业股价震荡，腾讯、网易、B站等游戏收入占比较高的互联网公司，齐刷刷地“绿”了起来。“放于利而行，多怨”。笔者认为，推进中国游戏产业健康发展迫在眉睫。有效防沉迷应是游戏企业安全发展的底线，不仅要对游戏企业提出更高的要求，严禁12岁以下儿童参与各类网络游戏，还要从法律上进一步予以约束，建立分级制度，对问题游戏企业实施黑名单制度，让防沉迷工作取得实质性效果。唯有如此，游戏企业才能有基本的发展起点。（证券日报）",
+            "date_modified": "2021-08-03T18:08:13.000Z"
+        },
+        {
+            "id": 2266921,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqciyzk9370479.d.html",
+            "title": "美联储理事鲍曼：要使美国经济恢复强劲，还有更多工作要做。",
+            "date_modified": "2021-08-03T18:04:19.000Z"
+        },
+        {
+            "id": 2266920,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqciyzk9370384.d.html",
+            "title": "美联储理事鲍曼：许多家庭仍然处于困境中。",
+            "date_modified": "2021-08-03T18:03:05.000Z"
+        },
+        {
+            "id": 2266919,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqcfncc0767422.d.html",
+            "title": "美联储理事鲍曼：认为创纪录的职位空缺数量是令人鼓舞的迹象。",
+            "date_modified": "2021-08-03T18:02:21.000Z"
+        },
+        {
+            "id": 2266918,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqciyzk9370323.d.html",
+            "title": "  【英国考虑阻止英伟达收购Arm 英伟达短线下挫】据媒体，英国考虑以国家安全名义阻止英伟达收购Arm。英国监管机构尚未做出最后决定。之后英国方面可能会对该并购进行更深入的审查。受消息影响，英伟达短线跳水约5美元，日内从涨约0.6%转变为下跌1.5%。",
+            "date_modified": "2021-08-03T18:02:13.000Z"
+        },
+        {
+            "id": 2266917,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqciyzk9370309.d.html",
+            "title": "美联储理事鲍曼：招聘遇到困难，就业率仍然远远低于原来的水平。",
+            "date_modified": "2021-08-03T18:02:01.000Z"
+        },
+        {
+            "id": 2266916,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqciyzk9370253.d.html",
+            "title": "美联储理事鲍曼：让一些人重新进入劳动市场可能需要一段时间。",
+            "date_modified": "2021-08-03T18:00:56.000Z"
+        },
+        {
+            "id": 2266915,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqciyzk9370233.d.html",
+            "title": "媒体消息：一名警察在五角大楼枪击案中丧生。",
+            "date_modified": "2021-08-03T18:00:34.000Z"
+        },
+        {
+            "id": 2266914,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqciyzk9370102.d.html",
+            "title": "美国联邦贸易委员会（FTC）：有权将目前为期30天的公司合并交易审查延长。",
+            "date_modified": "2021-08-03T17:58:10.000Z"
+        },
+        {
+            "id": 2266913,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqciyzk9370013.d.html",
+            "title": "2021年8月3日0-24时，湖南省张家界市报告新增本土新型冠状病毒肺炎确诊病例3例。自7月29日以来，湖南省张家界市累计报告新型冠状病毒肺炎确诊病例16例，无症状感染者3例。（掌上张家界）",
+            "date_modified": "2021-08-03T17:56:14.000Z"
+        },
+        {
+            "id": 2266912,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqciyzk9369905.d.html",
+            "title": "【153只上半年营收净利双增长股扎堆四大行业】根据数据统计发现，截至8月3日收盘，在已披露半年报业绩的公司中，共有153家公司实现净利润和营业收入双增长。按照申万一级行业分类来看，这153只双增长股主要扎堆在机械设备(23只)、化工(20只)、电子(19只)、医药生物(18只)等四大行业。（证券日报）",
+            "date_modified": "2021-08-03T17:54:27.000Z"
+        },
+        {
+            "id": 2266911,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqcfncc0766987.d.html",
+            "title": "美国联邦贸易委员会（FTC）警告称，公司合并的审查规则可能会延长。",
+            "date_modified": "2021-08-03T17:54:07.000Z"
+        },
+        {
+            "id": 2266910,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqciyzk9369816.d.html",
+            "title": "苹果公司：由于税收和外汇汇率发生变化，将会调整某些地区的App Store的应用价格或用户收益。在接下来的几天里，南非、英国和所有欧元区的App Store的应用价格和应用内置付费功能(不包括自动更新订阅)将会下降。",
+            "date_modified": "2021-08-03T17:52:40.000Z"
+        },
+        {
+            "id": 2266909,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqcfncc0766800.d.html",
+            "title": "Moderna(MRNA.O)盘中股价续创新高，现涨5.62%，将于周四美股盘前公布财报业绩。",
+            "date_modified": "2021-08-03T17:50:42.000Z"
+        },
+        {
+            "id": 2266908,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqcfncc0766672.d.html",
+            "title": "  Robinhood(HOOD.O)涨幅扩大至26.22%，现报47.6美元。",
+            "date_modified": "2021-08-03T17:48:41.000Z"
+        },
+        {
+            "id": 2266907,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqcfncc0766502.d.html",
+            "title": "  高乐氏(CLX.N)CEO：对公司将达到长期销售目标有信心，成本面临压力，将重点关注利润率。",
+            "date_modified": "2021-08-03T17:45:33.000Z"
+        },
+        {
+            "id": 2266906,
+            "content_html": "",
+            "title": "  沙特外长：将支持与伊朗达成核协议，条件是该协议需确保伊朗永远不会获得核武器。",
+            "date_modified": "2021-08-03T17:45:18.000Z"
+        },
+        {
+            "id": 2266905,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqcfncc0766241.d.html",
+            "title": "  市场消息：通用汽车(GM.N)雪佛兰SILVERADO、GMC SIERRA的生产将受芯片短缺影响。",
+            "date_modified": "2021-08-03T17:41:28.000Z"
+        },
+        {
+            "id": 2266904,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqcfncc0766228.d.html",
+            "title": "市场消息：由于芯片短缺，通用汽车(GM.N)北美卡车工厂下周将停工。",
+            "date_modified": "2021-08-03T17:41:21.000Z"
+        },
+        {
+            "id": 2266903,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqcfncc0766214.d.html",
+            "title": "招聘网站ZipRecruiter(ZIP.N)直线拉涨，一度涨近4%，现涨1.68%。",
+            "date_modified": "2021-08-03T17:41:10.000Z"
+        },
+        {
+            "id": 2266902,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqciyzk9368852.d.html",
+            "title": "【年内公司债企业债发行近2.3万亿元 下半年仍有较大增长空间】今年以来，公司债和企业债发行规模持续增长。截至8月3日，年内公司债和企业债合计发行规模达22821.45亿元，同比增长9.1%。360政企安全集团投资总监唐川对记者表示，注册制之后，公司债、企业债的发行效率明显提高，对于经营状况较好的企业而言，债券融资效率已有明显提升，故在经济稳定发展的前提下，公司债、企业债整体年发行量稳步增长已是必然。（证券日报）",
+            "date_modified": "2021-08-03T17:36:17.000Z"
+        },
+        {
+            "id": 2266901,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqcfncc0765829.d.html",
+            "title": "市场消息：据悉虚拟活动平台初创公司Hopin将寻求超过70亿美元的融资。",
+            "date_modified": "2021-08-03T17:35:53.000Z"
+        },
+        {
+            "id": 2266900,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqcfncc0765707.d.html",
+            "title": "招聘网站ZipRecruiter：与Facebook(FB.O)开展合作，在Facebook Blueprint平台认证的求职者有机会获得数字营销工作。",
+            "date_modified": "2021-08-03T17:33:31.000Z"
+        },
+        {
             "id": 2266899,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqciyzk9368640.d.html",
@@ -115,220 +337,6 @@
             "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqciyzk9366503.d.html",
             "title": "国际铜夜盘收跌0.97%，沪铜夜盘收跌0.95%，沪铝收跌0.28%，沪锌收跌0.99%，沪铅收跌0.38%，沪镍收跌0.24%，沪锡收跌0.83%。",
             "date_modified": "2021-08-03T17:03:43.000Z"
-        },
-        {
-            "id": 2266882,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqcfncc0763319.d.html",
-            "title": "【江苏无锡建成3座“火眼”实验室 核酸日检测量增加9万单管】近日，无锡市卫生健康委为快速提升核酸检测储备力量，决定紧急启动“火眼”实验室项目，用最短时间在无锡全市范围内搭建3座“火眼”实验室，增强核酸检测的能力。8月1日晚7点，无锡“火眼”实验室建设施工调试完毕，正式移交使用。“火眼”实验室在全自动设备下实现高效率运转，少量测试人员在有条不紊地进行演练。一座“火眼”可提升无锡市日检测量3万单管，3座可提升9万单管，所有检测力量到位后，无锡市单日最大检测能力可达33万单管。",
-            "date_modified": "2021-08-03T17:02:11.000Z"
-        },
-        {
-            "id": 2266881,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqcfncc0762578.d.html",
-            "title": "LME期铜收跌159美元，报9542美元/吨。LME期铝收跌29美元，报2586美元/吨。LME期锌收跌81美元，报2970美元/吨。LME期铅收跌4美元，报2398美元/吨。LME期镍收跌128美元，报19388美元/吨。LME期锡收跌193美元，报34637美元/吨。",
-            "date_modified": "2021-08-03T16:54:25.000Z"
-        },
-        {
-            "id": 2266880,
-            "content_html": "",
-            "title": "美股NFT概念股跌幅居前，Dolphin Entertainment(DLPN.O)跌超16%，大公文化(TKAT.O)跌12.38%，Integrated Media Technology(IMTE.O)跌9.14%，Hall of Fame(HOFV.O)跌7.46%。",
-            "date_modified": "2021-08-03T16:54:06.000Z"
-        },
-        {
-            "id": 2266879,
-            "content_html": "",
-            "title": "标普：将T-Mobile US(TMUS.O)评级从“BB”上调至“BB+”，前景展望稳定。",
-            "date_modified": "2021-08-03T16:51:47.000Z"
-        },
-        {
-            "id": 2266878,
-            "content_html": "",
-            "title": "【英国苏格兰地区将于8月9日取消大部分防疫限制措施】据英国媒体当地时间8月3日报道，英国苏格兰政府首席大臣妮古拉·斯特金当天宣布，苏格兰地区将于8月9日结束大部分防疫限制措施。斯特金表示，从9日开始，社交距离的规定将基本取消，酒吧和餐馆可以接待更多顾客，体育场馆和音乐厅将全场接待观众。但在未来一段时间内，在商店和公共交通工具上，仍将强制要求人们戴面部遮盖物；将继续采取检测和保护措施；建议居家办公和办公室办公相结合。（央视）",
-            "date_modified": "2021-08-03T16:45:11.000Z"
-        },
-        {
-            "id": 2266877,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqciyzk9364962.d.html",
-            "title": "自8月4日0时起，株洲市石峰区时代路时代雅园8栋、石峰区翰林府1期和3期、荷塘区桂花街道阳光里社区东部美的城23栋被划定为中风险地区。（时刻新闻）",
-            "date_modified": "2021-08-03T16:43:50.000Z"
-        },
-        {
-            "id": 2266875,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqcfncc0761604.d.html",
-            "title": "  Societe Generale：将诺基亚(NOK.N)欧股目标价从5.3欧元上调至6.6欧元。",
-            "date_modified": "2021-08-03T16:41:25.000Z"
-        },
-        {
-            "id": 2266874,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqcfncc0761373.d.html",
-            "title": "南非报告新增8988例新冠肺炎确诊病例，累计达2470746例。",
-            "date_modified": "2021-08-03T16:39:13.000Z"
-        },
-        {
-            "id": 2266873,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqcfncc0761304.d.html",
-            "title": "  斗鱼(DOYU.O)跌幅扩大至8.78%，虎牙(HUYA.N)跌幅扩大至9.58%。",
-            "date_modified": "2021-08-03T16:38:12.000Z"
-        },
-        {
-            "id": 2266872,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqciyzk9364347.d.html",
-            "title": "市场消息：伊朗方面表示，准备向海湾地区的任何船只提供支持。",
-            "date_modified": "2021-08-03T16:36:47.000Z"
-        },
-        {
-            "id": 2266871,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqcfncc0761162.d.html",
-            "title": "  Truist证券：将Square(SQ.N)目标价从325美元上调至365美元。",
-            "date_modified": "2021-08-03T16:36:40.000Z"
-        },
-        {
-            "id": 2266870,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqcfncc0760929.d.html",
-            "title": "  【美证监会掌门人重申欲加强监管加密货币，拒绝透露会否批准比特币ETF】SEC新主席称，监管加密货币交易所或为最佳方式，正研究至少七大领域来探索潜在政策变化，包括初始代币发行、交易场所、借贷平台、去中心化金融、稳定币、托管以及ETF和其他代币基金。加密货币普跌，比特币一度失守3.8万美元。",
-            "date_modified": "2021-08-03T16:33:50.000Z"
-        },
-        {
-            "id": 2266869,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqcfncc0760899.d.html",
-            "title": "能源情报集团记者Amena Bakr：伊朗油长Amir Zamaninia将在不久后退休，此前，他参加了伊朗和美国之间的核协议谈判。",
-            "date_modified": "2021-08-03T16:33:32.000Z"
-        },
-        {
-            "id": 2266868,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqciyzk9363708.d.html",
-            "title": "  【英国苏格兰地区将于8月9日取消大部分防疫限制措施】据英国媒体当地时间8月3日报道，英国苏格兰政府首席大臣妮古拉·斯特金当天宣布，苏格兰地区将于8月9日结束大部分防疫限制措施。",
-            "date_modified": "2021-08-03T16:29:20.000Z"
-        },
-        {
-            "id": 2266867,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqcfncc0760519.d.html",
-            "title": "  【随着互联网服务订阅增加 星链目前拥有约9万名用户】SpaceX旗下的星链卫星互联网服务订阅量实现增长，CEO埃隆·马斯克表示，公司目前在全球为约9万名用户提供服务。7月29日，在与美国联邦通信委员会(FCC)官员的通话中，SpaceX公布了星链增长的最新情况，指出该服务目前的用户覆盖12个国家，最新用户数表明过去一个月增加了约2万名用户。",
-            "date_modified": "2021-08-03T16:29:10.000Z"
-        },
-        {
-            "id": 2266866,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqciyzk9363578.d.html",
-            "title": "伊朗外交部：有关船只在海湾海岸附近发生安全事件报道的真实性“令人怀疑”。",
-            "date_modified": "2021-08-03T16:27:32.000Z"
-        },
-        {
-            "id": 2266865,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqciyzk9363457.d.html",
-            "title": "周二（8月3日）欧市尾盘，德国10年期国债收益率涨0.5个基点，报-0.482%。法国10年期国债收益率涨0.3个基点，报-0.134%。英国10年期国债收益率跌0.1个基点，报0.520%。意大利10年期国债收益率跌0.5个基点，报0.566%。西班牙10年期国债收益率大体持稳，报0.233%。希腊10年期国债收益率跌0.6个基点，报0.572%。",
-            "date_modified": "2021-08-03T16:25:55.000Z"
-        },
-        {
-            "id": 2266864,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqcfncc0760195.d.html",
-            "title": "Accountability Research给予CRM US买进的初始评级，目标价290美元。",
-            "date_modified": "2021-08-03T16:24:39.000Z"
-        },
-        {
-            "id": 2266863,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqciyzk9363350.d.html",
-            "title": "【罗尔斯·罗伊斯公司接近向英国兰利出售Bergen Engines】罗尔斯·罗伊斯公司正在就将其Bergen Engines出售给一家私人持有的英国国防承包商兰利进行深入谈判，此前一笔交易被挪威以安全为由阻止。据悉，与兰利的谈判已进入最后阶段。这笔交易可能会在周四与罗尔斯·罗伊斯公司的上半年业绩同时宣布。价格问题尚未解决。",
-            "date_modified": "2021-08-03T16:23:48.000Z"
-        },
-        {
-            "id": 2266862,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqcfncc0760119.d.html",
-            "title": "  市场消息：动视暴雪(ATVI.O)因股价下跌面临诉讼。",
-            "date_modified": "2021-08-03T16:23:31.000Z"
-        },
-        {
-            "id": 2266861,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqcfncc0760109.d.html",
-            "title": "  意大利新增新冠肺炎确诊病例4845例，累计确诊4363374例。",
-            "date_modified": "2021-08-03T16:23:23.000Z"
-        },
-        {
-            "id": 2266860,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqcfncc0760025.d.html",
-            "title": "  美国国会参议院共和党成员Marsha Blackburn：到周四可能会投票基建立法草案。",
-            "date_modified": "2021-08-03T16:22:24.000Z"
-        },
-        {
-            "id": 2266858,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqcfncc0759969.d.html",
-            "title": "  【消息称英国政府考虑阻止英伟达收购ARM】据报道，知情人士今日称，出于对国家安全的潜在风险，英国政府正考虑阻止英伟达公司收购 ARM 公司。知情人士今日称，英国反垄断部门“竞争和市场管理局”（CMA）在 7 月下旬提交了这份报告。报告内容显示，这笔交易对英国国家安全的影响令人担忧。因此，英国目前倾向于阻止这一收购交易。而另一位知情人士称，由于国家安全问题，英国可能会对该交易展开更深入的审查。当然，知情人士同时还强调，目前英国政府还没有做出最终决定，将来仍可能在满足某些条件的情况下批准这笔交易。至于该交易是否需要英国监管机构的进一步审查，还要由数字大臣道登来决定。",
-            "date_modified": "2021-08-03T16:21:48.000Z"
-        },
-        {
-            "id": 2266857,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqciyzk9362995.d.html",
-            "title": "美国证交会主席根斯勒：投资者在加密领域没有得到足够的保护。",
-            "date_modified": "2021-08-03T16:20:07.000Z"
-        },
-        {
-            "id": 2266856,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqcfncc0759728.d.html",
-            "title": "美国证交会主席根斯勒：加密交易平台可能要求遵守证券法。",
-            "date_modified": "2021-08-03T16:19:13.000Z"
-        },
-        {
-            "id": 2266855,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqciyzk9362864.d.html",
-            "title": "美国证交会主席根斯勒：稳定币可能受到证券和投资公司法律的约束。",
-            "date_modified": "2021-08-03T16:18:28.000Z"
-        },
-        {
-            "id": 2266854,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqcfncc0759643.d.html",
-            "title": "美国证交会主席根斯勒：期待审核比特币ETF的申请。",
-            "date_modified": "2021-08-03T16:18:03.000Z"
-        },
-        {
-            "id": 2266853,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqciyzk9362823.d.html",
-            "title": "美国证交会主席根斯勒：股票代币、证券支持稳定币以及所有提供基础证券敞口的虚拟产品均受证交会监管。",
-            "date_modified": "2021-08-03T16:17:55.000Z"
-        },
-        {
-            "id": 2266852,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqcfncc0759597.d.html",
-            "title": "美国证交会主席根斯勒：证交会将在监管加密货币方面“尽其所能”。",
-            "date_modified": "2021-08-03T16:17:20.000Z"
-        },
-        {
-            "id": 2266851,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqciyzk9362749.d.html",
-            "title": "美国证交会主席根斯勒：加密货币交易、借贷和去中心化金融平台应该是监管的重中之重。",
-            "date_modified": "2021-08-03T16:17:02.000Z"
-        },
-        {
-            "id": 2266850,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-04/detail-ikqcfncc0759481.d.html",
-            "title": "美国证交会主席根斯勒：呼吁美国国会给予更多权力和资源来监管加密货币的交易。",
-            "date_modified": "2021-08-03T16:15:48.000Z"
         }
     ]
 }
