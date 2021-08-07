@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 07 Aug 2021 19:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 20:21:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  德国新增新冠肺炎确诊病例3448例 累计确诊3784433例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqciyzm0169987.d.html</link>
+            <guid>2272684</guid>
+            <pubDate>Sat, 07 Aug 2021 20:09:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其新增新冠肺炎确诊病例25100例，累计确诊5895841例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqcfncc1566655.d.html</link>
+            <guid>2272683</guid>
+            <pubDate>Sat, 07 Aug 2021 19:28:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[伊拉克新增新冠肺炎确诊病例7973例，累计确诊1704363例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqcfncc1566100.d.html</link>
@@ -222,12 +234,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0134732.d.html</link>
             <guid>2272017</guid>
             <pubDate>Sat, 07 Aug 2021 11:52:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新赛道风头不减，外资却开始默默加仓“老白马”】 作为当前A股市场的“最强风口”，光伏、锂电池等板块频频掀起涨停潮。但最新数据显示，外资已经开始默默买入这些“老白马”。近两周，中国平安、伊利股份、泸州老窖、格力电器、五粮液等股票均获北向资金大幅加仓。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0134110.d.html</link>
-            <guid>2272009</guid>
-            <pubDate>Sat, 07 Aug 2021 11:45:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
