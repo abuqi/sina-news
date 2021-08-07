@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 07 Aug 2021 16:33:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 17:24:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[南非新冠肺炎确诊病例累计达2523488例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqcfncc1558447.d.html</link>
+            <guid>2272505</guid>
+            <pubDate>Sat, 07 Aug 2021 17:08:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【澳门已完成全民核酸采样程序 96%检测结果已出均为阴性】澳门新冠病毒感染应变协调中心8月7日表示，全民核酸检测计划已完成采样程序。截至当天21时，澳门全民核酸检测累计采样614465人，加上自8月3日后有101786人自行前往进行核酸检测，且不在全民核酸检测计划内，目前共有716251人进行了核酸检测。其中685350人已有检测结果，约占全部核酸检测人数的96%，检测结果全部为阴性。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqcfncc1554340.d.html</link>
@@ -216,24 +222,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0133032.d.html</link>
             <guid>2271985</guid>
             <pubDate>Sat, 07 Aug 2021 11:33:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【招商基金大动作，“军工一哥”和券商首席双双加盟】 知名军工分析师冯福章日前已确认加盟招商基金，出任研究部总监，后续或将挂帅新发产品。此外，中山证券前首席经济学家李湛也于近期加盟了招商基金，担任招商基金研究部首席经济学家。作为资管业老牌头部公募，招商基金目前管理的资产总规模已超过1万亿元（含子公司），非货基金规模位列前十。分析指出，近年来卖方机构竞争趋于激烈，公募等买方发展势头迅猛，招商基金的案例，是大资管大发展背景下卖方优秀人才转战买方的一个生动注脚。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1529730.d.html</link>
-            <guid>2271942</guid>
-            <pubDate>Sat, 07 Aug 2021 11:18:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[郑州市域内将开展第三轮全员核酸检测：2021年8月8日15:00开始采样，9日24:00完成采样工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1529542.d.html</link>
-            <guid>2271936</guid>
-            <pubDate>Sat, 07 Aug 2021 11:15:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国威尔士地区取消大部分防疫限制措施】 据英国媒体8月7日报道，当天早晨6时起，英国威尔士地区进入最低层级的防疫限制级别“零级”。这意味着该地区室内社交距离规定和室内聚会人数限制规定结束；任何仍然关闭的营业场所，例如夜总会，都可以重新营业。但相关营业场所须采取防疫措施，以保证员工和客户的安全。在许多公共场合，佩戴口罩仍是法律要求。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1529393.d.html</link>
-            <guid>2271933</guid>
-            <pubDate>Sat, 07 Aug 2021 11:14:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
