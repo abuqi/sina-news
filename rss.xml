@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 07 Aug 2021 17:24:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 18:27:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【四川南充明德乡突发暴雨 有人员被困】8月8日凌晨，四川省南充市营山县明德乡突发暴雨，记者初步了解到有人员被困，具体情况正在进一步了解当中。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqciyzm0165332.d.html</link>
+            <guid>2272680</guid>
+            <pubDate>Sat, 07 Aug 2021 18:23:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[南非新冠肺炎确诊病例累计达2523488例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqcfncc1558447.d.html</link>
