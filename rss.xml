@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 07 Aug 2021 20:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 21:20:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  以色列新增新冠肺炎确诊病例5515例，累计确诊897326例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqciyzm0172457.d.html</link>
+            <guid>2272686</guid>
+            <pubDate>Sat, 07 Aug 2021 21:14:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法国新增新冠肺炎确诊病例25755例 多地爆发反对健康通行证游行】根据法国公共卫生署当地时间7日公布的统计数字，过去24小时法国新增新冠肺炎确诊病例25755例，累计确诊6284708例。7日当天，包括巴黎、马赛、里昂等法国多地举行示威活动，抗议即将于9日生效的“健康通行证”法案。根据法国内政部7日晚公布的数据，当天共有超过23万人参加了抗议活动。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqcfncc1569295.d.html</link>
+            <guid>2272685</guid>
+            <pubDate>Sat, 07 Aug 2021 20:37:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  德国新增新冠肺炎确诊病例3448例 累计确诊3784433例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqciyzm0169987.d.html</link>
@@ -228,12 +240,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1533272.d.html</link>
             <guid>2272019</guid>
             <pubDate>Sat, 07 Aug 2021 11:56:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[重庆将全市防汛三级应急响提升为二级应急响应。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0134732.d.html</link>
-            <guid>2272017</guid>
-            <pubDate>Sat, 07 Aug 2021 11:52:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
