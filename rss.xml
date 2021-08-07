@@ -4,11 +4,41 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 07 Aug 2021 15:24:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 16:33:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【澳门已完成全民核酸采样程序 96%检测结果已出均为阴性】澳门新冠病毒感染应变协调中心8月7日表示，全民核酸检测计划已完成采样程序。截至当天21时，澳门全民核酸检测累计采样614465人，加上自8月3日后有101786人自行前往进行核酸检测，且不在全民核酸检测计划内，目前共有716251人进行了核酸检测。其中685350人已有检测结果，约占全部核酸检测人数的96%，检测结果全部为阴性。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqcfncc1554340.d.html</link>
+            <guid>2272283</guid>
+            <pubDate>Sat, 07 Aug 2021 16:18:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利报告新增22例新冠肺炎死亡病例，前一天新增24例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0154502.d.html</link>
+            <guid>2272241</guid>
+            <pubDate>Sat, 07 Aug 2021 15:54:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利报告新增6902例新冠肺炎确诊病例，前一天新增6599例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0154498.d.html</link>
+            <guid>2272240</guid>
+            <pubDate>Sat, 07 Aug 2021 15:54:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本《朝日新闻》7日报道，经济产业省正在考虑修改有关规定，以便允许日本向国外出口大型放射性核废物。日本现有法律禁止核废物出口。这家媒体报道，日方设想的出口对象国包括正在推动核电站报废的美国和瑞典等国。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1552169.d.html</link>
+            <guid>2272231</guid>
+            <pubDate>Sat, 07 Aug 2021 15:41:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【蔚来：“电区房”全国用户覆盖率增至30.9%】随着蔚来换电站建设持续推进，截至7月31日，共有30.9%的蔚来用户住上了“电区房”。据了解，“电区房”是指蔚来换电站3公里范围内的住宅。蔚来计划在2021年内全国累计建成700座换电站，截至8月6日，已建成348座换电站。 (中国证券报)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0153035.d.html</link>
+            <guid>2272214</guid>
+            <pubDate>Sat, 07 Aug 2021 15:25:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【中金宏观：出口压力或将在四季度有所加大】中金宏观点评7月进出口数据指出，7月出口（美元计价，下同）同比增长19.3%，进口同比增长28.1%，出口基本复合预期，进口低于预期。贸易顺差566亿美元。台风对进出口造成扰动，因此实际情况是，贸易动能应该比数据显示的强劲。运价仍在上涨，美国西海岸港口拥堵状况再度上升，亦显示出口在手订单仍较为充足，支撑出口。但7月PMI新出口订单再度走弱，根据历史经验，这意味着出口的压力或将在四季度有所加大。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0152958.d.html</link>
@@ -204,30 +234,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1529393.d.html</link>
             <guid>2271933</guid>
             <pubDate>Sat, 07 Aug 2021 11:14:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沈阳：从域外（国内，沈阳之外的区域）低风险地区来（返）沈需提供48小时内新冠病毒核酸检测阴性证明。无法提供核酸检测阴性信息的，第一时间安排核酸检测，检验结果没有出来之前，尽量不要外出，并向社区和单位进行报备。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1528393.d.html</link>
-            <guid>2271923</guid>
-            <pubDate>Sat, 07 Aug 2021 11:04:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【水利部和中国气象局8月7日18时联合发布橙色山洪灾害气象预警】水利部和中国气象局8月7日18时联合发布橙色山洪灾害气象预警：预计8月7日20时至8月8日20时，四川东部、重庆西部等地部分地区发生山洪灾害可能性较大（黄色预警），局地发生山洪灾害可能性大（橙色预警）。其他地区也可能因局地短历时强降水引发山洪灾害，请各地注意做好实时监测、防汛预警和转移避险等防范工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0129959.d.html</link>
-            <guid>2271920</guid>
-            <pubDate>Sat, 07 Aug 2021 11:01:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【前海开源子公司新三板资管计划纠纷案二审改判，10名投资者均获得赔偿】 据悉，深圳市中级人民法院日前针对前海开源子公司新三板资管计划纠纷作出二审判决，一审未获得法院支持的7位原告暨投资者即将获得赔偿。此前，10名原告秉持同样的诉讼原因和请求，但由于风险评估结果的不同，一审仅3人获得了法院支持、拿到赔偿。对于二审判决结果，前海开源资产最新回应表示，“公司尊重司法裁判规则，但是对于此次二审判决的结果，在理解和尊重投资者诉求的同时，会继续以法律手段维护自身的合法权益。”（中国基金报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1527224.d.html</link>
-            <guid>2271908</guid>
-            <pubDate>Sat, 07 Aug 2021 10:51:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北京：明天起将暂停除天津市、河北省之外，其他省进出京长途客运班线和旅游包车业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0126997.d.html</link>
-            <guid>2271879</guid>
-            <pubDate>Sat, 07 Aug 2021 10:33:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
