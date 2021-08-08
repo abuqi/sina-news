@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 08 Aug 2021 18:27:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Aug 2021 19:16:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【公募基金年内分红1575亿元 创历史同期新高】今年以来，股债市场双双震荡，受益于去年较好的赚钱行情，公募基金分红十分慷慨，年内累计分红1574.86亿元，同比大增逾四成，创历史同期新高；其中，权益基金贡献了一半以上的分红金额，取代债基成为分红主力。 (证券时报)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-09/detail-ikqcfncc1718151.d.html</link>
+            <guid>2272941</guid>
+            <pubDate>Sun, 08 Aug 2021 18:50:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴基斯坦旁遮普省一客车发生爆炸事故 致9死7伤】据当地媒体8月8日报道，巴基斯坦旁遮普省古吉兰瓦拉市一辆客车发生气瓶爆炸事故，造成9名乘客死亡，另外7人被烧伤。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-09/detail-ikqciyzm0319342.d.html</link>
+            <guid>2272937</guid>
+            <pubDate>Sun, 08 Aug 2021 18:47:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【四川再次进入暴雨模式 10余万人受灾】8月7日—8日，四川东部和南部地区出现大到暴雨，部分地区大暴雨。截至8日13时，已造成泸州、绵阳、南充、达州、巴中、甘孜6市（州）12.16万人受灾，倒塌房屋45间，严损房屋118间；直接经济损失2.5亿元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-09/detail-ikqcfncc1716705.d.html</link>
@@ -205,18 +217,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqciyzm0294799.d.html</link>
             <guid>2272887</guid>
             <pubDate>Sun, 08 Aug 2021 13:08:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【凯乐科技收到上交所监管工作函】8月8日，就凯乐科技(600260)资产冻结等事项，凯乐科技,董事,监事,高级管理人员收到上交所监管工作函。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqciyzm0294350.d.html</link>
-            <guid>2272886</guid>
-            <pubDate>Sun, 08 Aug 2021 13:03:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【家电龙头“估值在地板上摩擦”，却有近200家机构悄悄关注】 “现在家电龙头的性价比无疑是很高的，但可能还需要一个基本面拐点，形成更为确定性的机会。”有基金经理直言。尽管7月以来机构调研品种中，家电公司占比并不大，但在新能源等成长性板块估值愈来愈高的当下，已有近200家机构悄悄将视线投向“估值在地板上摩擦”的家电板块。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqcfncc1692363.d.html</link>
-            <guid>2272885</guid>
-            <pubDate>Sun, 08 Aug 2021 12:59:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
