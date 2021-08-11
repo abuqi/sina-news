@@ -4,11 +4,65 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Wed, 11 Aug 2021 18:28:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Aug 2021 19:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[土耳其总统埃尔多安：可能会与塔利班领导人会晤，以促进阿富汗的和平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2326211.d.html</link>
+            <guid>2276776</guid>
+            <pubDate>Wed, 11 Aug 2021 19:00:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【富国银行：美国物价压力已有所扩大】通胀在一段时间内将高于美联储目标美国7月CPI通胀报告的细节支持这样一种观点，即近期的通胀水平不会持续下去，因与经济重新开放和供应限制最密切相关类别的物价已开始缓解。然而，过渡还远未结束，物价压力已经扩大，这应会使通胀在一段时间内显著高于美联储的目标。通胀高于目标的时间越来越长，无疑让一些美联储官员对当前的政策立场越来越感到不安。然而，包括鲍威尔主席在内的其他人仍然认为，物价增长最终会降温。除了通胀预期保持在历史范围内之外，最新的报告也令这些官员感到欣慰。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2326175.d.html</link>
+            <guid>2276774</guid>
+            <pubDate>Wed, 11 Aug 2021 18:59:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【摩根士丹利：上调信义光能(00968.HK)目标价至19港元 评级增持】摩根士丹利发表研报，将信义光能(00968.HK)2021至2023年每股盈利预测由0.65、0.57及0.81元调整为0.6、0.54及0.82元，以反映市场价格调整。根据管理层的增长指引，该行削减今明两年销量预测，但提升2023年预测，预期太阳能市场需求强劲，长远看好公司前景，将目标价由18.3港元升至19港元。大摩指，太阳能发电业务为公司贡献较高利润，且与太阳能玻璃生产业务有协同效应，料提升产能的同时可巩固市场地位，予增持评级。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2325892.d.html</link>
+            <guid>2276773</guid>
+            <pubDate>Wed, 11 Aug 2021 18:53:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[投行KBW：将Coinbase(COIN.O)目标价从265美元上调至275美元，评级持平大市。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm0928461.d.html</link>
+            <guid>2276772</guid>
+            <pubDate>Wed, 11 Aug 2021 18:52:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通：将腾讯音乐(TME.N)评级下调至中性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2325815.d.html</link>
+            <guid>2276770</guid>
+            <pubDate>Wed, 11 Aug 2021 18:51:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  动视暴雪(ATVI.O)短线放量拉升，现涨3.3%。据SEC披露文件显示，本季度动视高管开始大幅买入公司股票，而上季度则总体呈卖出趋势。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2325795.d.html</link>
+            <guid>2276769</guid>
+            <pubDate>Wed, 11 Aug 2021 18:50:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经参：降准提振效应未来几月将显现】根据中国人民银行8月11日发布的数据，7月份人民币贷款增加1.08万亿元，比上年同期多增905亿元。初步统计，2021年7月社会融资规模增量为1.06万亿元，比上年同期少6362亿元。业内人士表示，7月多个金融数据反映当前实体经济融资需求有所减弱。展望未来，央行降准对信贷和社融的提振效应将在未来几个月内有所显现。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm0928359.d.html</link>
+            <guid>2276768</guid>
+            <pubDate>Wed, 11 Aug 2021 18:49:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股铝板块盘中走高，多只个股相继由跌转涨，世纪铝业(CENX.N)、凯撒铝业(KALU.N)涨2%，中国铝业(ACH.N)涨1.2%，美国铝业(AA.N)涨1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm0927289.d.html</link>
+            <guid>2276767</guid>
+            <pubDate>Wed, 11 Aug 2021 18:29:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  摩根大通：将贝壳(BEKE.N)评级从跑赢大市下调至中性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2324693.d.html</link>
+            <guid>2276766</guid>
+            <pubDate>Wed, 11 Aug 2021 18:29:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  智利Andina铜矿工会称，工人投票决定罢工。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm0927037.d.html</link>
@@ -216,78 +270,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm0923260.d.html</link>
             <guid>2276728</guid>
             <pubDate>Wed, 11 Aug 2021 17:24:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储卡普兰：非常重视将通胀预期锚定在2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2320054.d.html</link>
-            <guid>2276727</guid>
-            <pubDate>Wed, 11 Aug 2021 17:18:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储卡普兰：将研究加息的不同标准。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2320041.d.html</link>
-            <guid>2276726</guid>
-            <pubDate>Wed, 11 Aug 2021 17:18:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储在固定利率逆回购中接纳了10004亿美元，时隔逾两周再次突破1万亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2320026.d.html</link>
-            <guid>2276725</guid>
-            <pubDate>Wed, 11 Aug 2021 17:17:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储卡普兰：德尔塔变种病毒可能延长供应链中断情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm0922579.d.html</link>
-            <guid>2276724</guid>
-            <pubDate>Wed, 11 Aug 2021 17:14:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储卡普兰：美联储越早就缩债做出决定，对利率就可越灵活的保持耐心。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm0922568.d.html</link>
-            <guid>2276723</guid>
-            <pubDate>Wed, 11 Aug 2021 17:14:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储卡普兰：目前的资产购买计划不太适合当前的美国经济。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm0922555.d.html</link>
-            <guid>2276722</guid>
-            <pubDate>Wed, 11 Aug 2021 17:14:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储卡普兰：正在将自己的缩债决定与加息决定分离。01:11:23美国白宫：预计通胀将在明年恢复正常。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2319789.d.html</link>
-            <guid>2276721</guid>
-            <pubDate>Wed, 11 Aug 2021 17:14:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储卡普兰：不希望美联储以当前的购债速度运行太长时间，随后将不得不采取更激进的行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2319781.d.html</link>
-            <guid>2276720</guid>
-            <pubDate>Wed, 11 Aug 2021 17:14:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储卡普兰：更愿意加快缩债步伐。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm0922522.d.html</link>
-            <guid>2276719</guid>
-            <pubDate>Wed, 11 Aug 2021 17:14:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  苹果公司（AAPL）涨幅略微扩大至0.6%，美国国会参议院推出跨党派立法建议，希望促进APP Store的竞争。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm0922168.d.html</link>
-            <guid>2276718</guid>
-            <pubDate>Wed, 11 Aug 2021 17:09:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  纳指震荡走高，跌幅缩窄至0.25%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2319410.d.html</link>
-            <guid>2276717</guid>
-            <pubDate>Wed, 11 Aug 2021 17:09:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储卡普兰：如果经济在现在和9月会议之间如我所预期的那样发展，那么赞成在9月会议上宣布一项计划，并在10月开始逐步减少购债。希望在8个月内实现缩债。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm0922095.d.html</link>
-            <guid>2276715</guid>
-            <pubDate>Wed, 11 Aug 2021 17:08:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
