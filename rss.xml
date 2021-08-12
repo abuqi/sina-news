@@ -4,11 +4,83 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Thu, 12 Aug 2021 18:28:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Aug 2021 19:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：08月13日02时32分在南桑威奇群岛发生7.6级地震，震源深度50千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1134987.d.html</link>
+            <guid>2277944</guid>
+            <pubDate>Thu, 12 Aug 2021 19:07:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒指期货夜盘收跌0.52%，报26251点，低水267点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1134852.d.html</link>
+            <guid>2277943</guid>
+            <pubDate>Thu, 12 Aug 2021 19:05:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[基金分析公司理柏（Lipper）：截至8月11日当周，美国贷款基金流入4.23亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1134775.d.html</link>
+            <guid>2277942</guid>
+            <pubDate>Thu, 12 Aug 2021 19:03:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国防部发言人Kirby：向阿富汗临时增派的部队总人数将达到3000人左右。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1134765.d.html</link>
+            <guid>2277941</guid>
+            <pubDate>Thu, 12 Aug 2021 19:03:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿富汗和平进程多边会议在卡塔尔闭幕】当地时间12日，阿富汗和平进程多边会议在卡塔尔首都多哈闭幕。此次会议为期3天，来自中国、美国、联合国以及有关涉阿国际地区重要攸关方的代表在会议期间就阿富汗形势、推进阿富汗和平进程等议题交换了意见。各方在会议上呼吁停战止暴，继续推进阿富汗内部和谈。出席会议的各方代表还分别与阿富汗政府代表、阿富汗民族和解高级委员会主席阿卜杜拉，以及塔利班代表、塔利班政治委员会负责人巴拉达尔举行了会谈，敦促双方早日就根本性问题达成协议。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1134398.d.html</link>
+            <guid>2277940</guid>
+            <pubDate>Thu, 12 Aug 2021 18:56:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国政府：英国将向喀布尔派遣军队协助英国公民离开。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2532548.d.html</link>
+            <guid>2277939</guid>
+            <pubDate>Thu, 12 Aug 2021 18:53:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[基金分析公司理柏（Lipper）：预计美国高收益基金上周流入5.1亿美元，市政债基金流入18.7亿美元资金，投资级基金流入39亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2532519.d.html</link>
+            <guid>2277938</guid>
+            <pubDate>Thu, 12 Aug 2021 18:52:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：南桑维奇群岛地区发生7.0级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2532324.d.html</link>
+            <guid>2277936</guid>
+            <pubDate>Thu, 12 Aug 2021 18:48:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英镑兑美元GBP/USD失守1.38关口，为7月27日以来首次，跌幅0.48%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1133677.d.html</link>
+            <guid>2277935</guid>
+            <pubDate>Thu, 12 Aug 2021 18:39:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  WTI 9月原油期货收跌0.16美元，跌幅0.23%，报69.09美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2531639.d.html</link>
+            <guid>2277934</guid>
+            <pubDate>Thu, 12 Aug 2021 18:33:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海黄金交易所黄金T+D 8月13日（周五）晚盘收盘上涨0.25%报366.24元/克；上海黄金交易所白银T+D 8月13日（周五）晚盘收盘下跌0.75%报5006.0元/千克。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1133264.d.html</link>
+            <guid>2277933</guid>
+            <pubDate>Thu, 12 Aug 2021 18:31:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  上期所原油期货2109合约夜盘收涨1.05%，报433.20元人民币/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1133204.d.html</link>
+            <guid>2277932</guid>
+            <pubDate>Thu, 12 Aug 2021 18:30:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国参议院Warren对洛克希德马丁收购火箭制造商Aerojet Rocketdyne的并购提出质疑，美国联邦贸易委员会新任主席Lina Khan则呼吁反垄断部门尽快调查该交易以阻止更多垄断性并购。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2530561.d.html</link>
@@ -198,77 +270,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1125933.d.html</link>
             <guid>2277896</guid>
             <pubDate>Thu, 12 Aug 2021 16:49:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国疾控中心主管Walensky：上周美国每天约新增11.3万例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1125773.d.html</link>
-            <guid>2277894</guid>
-            <pubDate>Thu, 12 Aug 2021 16:47:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据巴西报纸Estado：巴西的黄金储备在3个月内几乎翻了一番。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2523819.d.html</link>
-            <guid>2277893</guid>
-            <pubDate>Thu, 12 Aug 2021 16:46:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧盟将于9月份针对通用移动充电器提出立法建议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2523634.d.html</link>
-            <guid>2277892</guid>
-            <pubDate>Thu, 12 Aug 2021 16:44:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国基民盟主席Laschet称将于周五会见特斯拉CEO埃隆·马斯克。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1124942.d.html</link>
-            <guid>2277890</guid>
-            <pubDate>Thu, 12 Aug 2021 16:39:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[南非报告新增14271例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2522912.d.html</link>
-            <guid>2277889</guid>
-            <pubDate>Thu, 12 Aug 2021 16:38:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：欧盟将于9月份针对通用移动充电器提出立法。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1124766.d.html</link>
-            <guid>2277888</guid>
-            <pubDate>Thu, 12 Aug 2021 16:37:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CBOT小麦期货2112合约创8年新高，最高一度到772.5美分/蒲式耳。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1124596.d.html</link>
-            <guid>2277887</guid>
-            <pubDate>Thu, 12 Aug 2021 16:35:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【富满电子董秘回应蓝普视讯举报：价格是市场行为 由买卖双方自己选择】针对蓝普视讯举报公司“不正当加价”事项，富满电子董秘罗琼今日晚间表示：“蓝普视讯会从多家拿货，也会从代理商拿货，我们无权干涉。市场那么多家供应商，价格（变动）是市场行为，由买卖双方自己选择。（至于被控诉事项）一切以工商、法院裁决为准，我们相信政府。”（财联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2522453.d.html</link>
-            <guid>2277886</guid>
-            <pubDate>Thu, 12 Aug 2021 16:32:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  CBOT小麦期货刷新最近八年盘中高位，此前美国农业部（USDA）下调产量预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1123851.d.html</link>
-            <guid>2277885</guid>
-            <pubDate>Thu, 12 Aug 2021 16:26:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以太坊跌破3000美元/枚，日内跌幅超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1123602.d.html</link>
-            <guid>2277884</guid>
-            <pubDate>Thu, 12 Aug 2021 16:23:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网正式测定：08月12日23时53分在菲律宾棉兰老岛附近海域（北纬6.21度，东经127.30度）发生5.5级地震，震源深度40千米。]]></title>
-            <guid>2277883</guid>
-            <pubDate>Thu, 12 Aug 2021 16:22:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据株洲发布：自2021年8月13日0时起，将株洲市云龙示范区学林街道学府港湾小区和锦绣香江小区调整为低风险地区。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2521360.d.html</link>
-            <guid>2277882</guid>
-            <pubDate>Thu, 12 Aug 2021 16:19:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
