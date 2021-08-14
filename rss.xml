@@ -4,11 +4,41 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 14 Aug 2021 16:33:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Aug 2021 17:23:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[海地总理宣布该国进入紧急状态，为期一个月。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1490849.d.html</link>
+            <guid>2279328</guid>
+            <pubDate>Sat, 14 Aug 2021 17:15:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿富汗官员：塔利班已占领北部城市马扎里沙里夫，安全部队向乌兹别克斯坦边境方向逃跑。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2888720.d.html</link>
+            <guid>2279319</guid>
+            <pubDate>Sat, 14 Aug 2021 17:05:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【青海通报柴达尔煤矿冒顶事故：该矿已于8月2日停产整顿】8月14日12时10分，青海省海北州刚察县热水地区，西海煤炭开发有限责任公司柴达尔煤矿301采区3690综采工作面发生冒顶事故。截至目前，已救出2人，其中1人遇难，1人无生命危险，尚有19人被困。据悉，该矿因存在重大安全隐患，已于8月2日被青海煤监局责令停产整顿，并暂扣了安全生产许可证，正在进行隐患排查和实施整治。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2887686.d.html</link>
+            <guid>2279309</guid>
+            <pubDate>Sat, 14 Aug 2021 16:52:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[海地当局确认国内逾7级强震造成至少29人死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2887309.d.html</link>
+            <guid>2279305</guid>
+            <pubDate>Sat, 14 Aug 2021 16:48:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：国家安全事务团队向拜登总统通报了阿富汗局势。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1488306.d.html</link>
+            <guid>2279301</guid>
+            <pubDate>Sat, 14 Aug 2021 16:45:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[法国新增51例新冠肺炎死亡病例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1487098.d.html</link>
@@ -230,30 +260,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2863316.d.html</link>
             <guid>2279150</guid>
             <pubDate>Sat, 14 Aug 2021 12:09:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质勘探局：美国阿拉斯加州佩里维尔东南方向117千米处发生6.4级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1464121.d.html</link>
-            <guid>2279149</guid>
-            <pubDate>Sat, 14 Aug 2021 12:05:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[济南公安最新通报“阿里女员工被侵害”案：王某文、张某涉嫌强制猥亵犯罪，无证据证明有强奸犯罪事实发生。案件正在进一步侦办中。（人民日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1462875.d.html</link>
-            <guid>2279148</guid>
-            <pubDate>Sat, 14 Aug 2021 11:52:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据俄罗斯卫星网：消息人士称，塔利班已攻占阿富汗东部库纳尔省的省会阿萨达巴德，该城市与巴基斯坦边境接壤。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1462439.d.html</link>
-            <guid>2279146</guid>
-            <pubDate>Sat, 14 Aug 2021 11:48:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：热带风暴Grace目前正快速地向西往背风群岛移动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1462396.d.html</link>
-            <guid>2279145</guid>
-            <pubDate>Sat, 14 Aug 2021 11:47:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
