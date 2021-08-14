@@ -4,11 +4,47 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 14 Aug 2021 14:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Aug 2021 15:24:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【海地发生7级以上地震 周边国家加强海啸监测】当地时间14日上午，加勒比国家海地发生里氏7级以上地震并触发海啸预警后，周边国家亦加强海啸监测。哥伦比亚有关机构当天表示，目前该国加勒比地区尚未受到影响，暂无海啸预警，但仍将持续关注可能引发的余震情况。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1481669.d.html</link>
+            <guid>2279251</guid>
+            <pubDate>Sat, 14 Aug 2021 15:13:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国新增29520例新冠肺炎确诊病例，新增93例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1480887.d.html</link>
+            <guid>2279242</guid>
+            <pubDate>Sat, 14 Aug 2021 15:03:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【100万美元起拍！梅西泪洒发布会现场，擦泪纸巾被拍卖】据俄罗斯通讯社报道，阿根廷球星梅西在告别巴萨的发布会上曾用来擦拭眼泪的纸巾13日在电商平台美客多（Mercado Libre）上拍卖，起拍价为100万美元。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2879532.d.html</link>
+            <guid>2279241</guid>
+            <pubDate>Sat, 14 Aug 2021 15:03:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国海关数据：韩国7月原油进口1070万吨，去年同期为1160万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2879502.d.html</link>
+            <guid>2279240</guid>
+            <pubDate>Sat, 14 Aug 2021 15:02:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【河南将水旱灾害防御应急响应调整为IV级】当前，河南省河道水位均回落至警戒水位以下，超汛限水库正常泄流，卫河流域启用的8个蓄滞洪区已停止进洪，并有序退洪，进洪口门已全部完成堵复。结合当前气象预报和汛情发展趋势，根据《河南省水利厅水旱灾害防御应急预案》有关规定，经研究决定，从8月14日20时起，水旱灾害防御应急响应由Ⅱ级调整为Ⅳ级。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1478102.d.html</link>
+            <guid>2279216</guid>
+            <pubDate>Sat, 14 Aug 2021 14:27:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我国完全自主研发的超大直径盾构机“运河号”投入使用】我国完全自主研发设计制造的、国产最大直径泥水平衡盾构机“运河号”，日前在北京东六环入地改造工程中投入使用。东六环改造工程南起京哈高速立交，北至潞苑北大街，全长约16公里。其中，盾构隧道段长约7.4公里，成型隧道外径15.4米，是目前国内最大直径盾构隧道。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1477784.d.html</link>
+            <guid>2279215</guid>
+            <pubDate>Sat, 14 Aug 2021 14:23:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【国家防办、应急管理部会商部署全国重点地区防汛工作】8月14日，国家防办、应急管理部召开防汛视频会商调度会，分析当前防汛形势，安排部署南北方重点地区防汛工作。会议指出，当前防汛工作重点仍是东北地区嫩江、松花江、黑龙江超警超保河段安全度汛，西南地区和长江中下游的局地强降雨防范应对，京津冀等地强对流天气有效应对。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2874012.d.html</link>
@@ -199,42 +235,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2849749.d.html</link>
             <guid>2279133</guid>
             <pubDate>Sat, 14 Aug 2021 09:57:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[支付宝官方微博：今天13点14分左右，由于大量用户涌入支付宝参与抢七夕红包活动，页面出现了短暂的不稳定，很快就恢复了。其他的支付宝服务也一切正常。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1450828.d.html</link>
-            <guid>2279132</guid>
-            <pubDate>Sat, 14 Aug 2021 09:54:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据华尔街日报：英特尔计划在欧洲进一步就芯片厂计划进行游说，争取获得补贴。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1449768.d.html</link>
-            <guid>2279130</guid>
-            <pubDate>Sat, 14 Aug 2021 09:44:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币短线走高400美元，上破48000美元/枚，续刷五月中旬以来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1449508.d.html</link>
-            <guid>2279129</guid>
-            <pubDate>Sat, 14 Aug 2021 09:41:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据华尔街日报：英特尔CEO还向除美国以外的国家官员推销芯片厂计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1449179.d.html</link>
-            <guid>2279128</guid>
-            <pubDate>Sat, 14 Aug 2021 09:39:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据华尔街日报：英特尔CEO及董事会成员上个月会见了拜登政府官员，以推动数十亿美元的芯片投资计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1449054.d.html</link>
-            <guid>2279127</guid>
-            <pubDate>Sat, 14 Aug 2021 09:38:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新加坡报告新增57例本土新冠肺炎确诊病例，其中17例与其他病例无关联。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1448191.d.html</link>
-            <guid>2279125</guid>
-            <pubDate>Sat, 14 Aug 2021 09:29:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
