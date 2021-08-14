@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 14 Aug 2021 18:26:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Aug 2021 19:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国银行：通胀可能比美联储的预期更为持久】投资者和美联储可能低估了通胀的持续性，剔除外部因素的通胀指标表明，潜在通胀正在回升。美联储聚焦核心通胀，这剔除了包括食品价格和能源成本在内的“嘈杂”数据。一些指标表明，通胀一直在持续，且可能达到甚至超过了美联储的2%目标。如果近期通胀指标上升的情况持续下去，那么美联储需要在某个时刻调整论调，而市场也需要对通胀进行计价。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2895386.d.html</link>
+            <guid>2279394</guid>
+            <pubDate>Sat, 14 Aug 2021 18:47:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【阿富汗塔利班占领巴尔赫省省会马扎里沙里夫】当地时间14日，阿富汗塔利班发言人穆贾希德在社交媒体上发布声明表示占领了巴尔赫省省会马扎里沙里夫，这是塔利班宣布占领的第22座省会城市。马扎里沙里夫是阿富汗第4大城市，也是北部省份中最大的城市。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2894211.d.html</link>
