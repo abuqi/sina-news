@@ -4,11 +4,51 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 14 Aug 2021 19:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Aug 2021 20:21:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国政府声明：拜登总统指示国务卿布林肯在阿富汗实现政治解决方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1500785.d.html</link>
+            <guid>2279401</guid>
+            <pubDate>Sat, 14 Aug 2021 20:12:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：美国向塔利班表示，任何危及美国人员的行动都将面临“快速且有力的”军事反击。]]></title>
+            <guid>2279400</guid>
+            <pubDate>Sat, 14 Aug 2021 20:08:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国政府声明：拜登总统授权在阿富汗部署约5000名美军，以协助人员“有序、安全撤离”。]]></title>
+            <guid>2279399</guid>
+            <pubDate>Sat, 14 Aug 2021 20:01:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[海地民防官员：有数百人在地震中受伤或失踪。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2898336.d.html</link>
+            <guid>2279398</guid>
+            <pubDate>Sat, 14 Aug 2021 19:50:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[海地民防官员：海地地震遇难者人数升至227人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1499174.d.html</link>
+            <guid>2279397</guid>
+            <pubDate>Sat, 14 Aug 2021 19:39:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  以色列新增新冠肺炎确诊病例7880例，累计确诊934896例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2897434.d.html</link>
+            <guid>2279396</guid>
+            <pubDate>Sat, 14 Aug 2021 19:29:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[尼日利亚中部高原州官方证实，一个中型巴士车队在该州首府乔斯北部一条公路上遭到袭击，造成25人丧生，14人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1498249.d.html</link>
+            <guid>2279395</guid>
+            <pubDate>Sat, 14 Aug 2021 19:17:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国银行：通胀可能比美联储的预期更为持久】投资者和美联储可能低估了通胀的持续性，剔除外部因素的通胀指标表明，潜在通胀正在回升。美联储聚焦核心通胀，这剔除了包括食品价格和能源成本在内的“嘈杂”数据。一些指标表明，通胀一直在持续，且可能达到甚至超过了美联储的2%目标。如果近期通胀指标上升的情况持续下去，那么美联储需要在某个时刻调整论调，而市场也需要对通胀进行计价。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2895386.d.html</link>
@@ -224,48 +264,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1470682.d.html</link>
             <guid>2279164</guid>
             <pubDate>Sat, 14 Aug 2021 13:09:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网速报：此次海地地震震中位于陆地，震中附近平均海拔654米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2869123.d.html</link>
-            <guid>2279163</guid>
-            <pubDate>Sat, 14 Aug 2021 13:08:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯国防部：5名俄罗斯军人和3名土耳其公民在土耳其发生的消防飞机事故中丧生。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2868686.d.html</link>
-            <guid>2279162</guid>
-            <pubDate>Sat, 14 Aug 2021 13:04:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国碳卫星获取首个全球碳通量数据集】记者今天从中科院大气物理研究所获悉，科研人员基于中国碳卫星（TanSat）的大气二氧化碳含量观测，利用先进的碳通量计算系统，获取了中国碳卫星首个全球碳通量数据集。这标志着我国具备了全球碳收支的空间定量监测能力，是继日本、美国之后的第三个具备该技术的国家。大气所副研究员杨东旭称，我国将以碳卫星的研究成果为基础，研发新一代的温室气体监测卫星，服务于全球盘点和我国双碳目标的实现。（新京报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1470051.d.html</link>
-            <guid>2279161</guid>
-            <pubDate>Sat, 14 Aug 2021 13:02:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：08月14日20时29分在海地地区发生7.3级地震，震源深度10千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2867506.d.html</link>
-            <guid>2279160</guid>
-            <pubDate>Sat, 14 Aug 2021 12:51:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德媒：默尔克任总理15年即将卸任 退休金每月1.5万欧元】德新社报道称，德国总理默克尔卸任后，每月可以领取1.5万欧元（约合人民币11.5万元）的退休养老金。报道称，默克尔早前宣布不会参加今年9月的大选，这意味着她将卸任总理一职，但她没有透露自己未来的计划。根据德新社报道，默克尔自1990年起在德国联邦议会任职，并担任总理一职长达15年。默克尔将在新政府完成组阁后辞职。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2867175.d.html</link>
-            <guid>2279159</guid>
-            <pubDate>Sat, 14 Aug 2021 12:48:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网自动测定：08月14日20时29分在海地地区附近发生7.6级左右地震，最终结果以正式速报为准。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1468334.d.html</link>
-            <guid>2279158</guid>
-            <pubDate>Sat, 14 Aug 2021 12:44:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：海地附近发生6.7级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2866166.d.html</link>
-            <guid>2279156</guid>
-            <pubDate>Sat, 14 Aug 2021 12:37:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
