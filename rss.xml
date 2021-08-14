@@ -4,11 +4,35 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 14 Aug 2021 21:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Aug 2021 22:21:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【巴基斯坦卡拉奇市发生手榴弹袭击 10人死亡】8月15日，据当地媒体援引警方和救援组织消息，14日巴基斯坦卡拉奇市的一辆卡车遭到手榴弹袭击，造成10人死亡，其中6名妇女、4名儿童。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2904334.d.html</link>
+            <guid>2279408</guid>
+            <pubDate>Sat, 14 Aug 2021 22:14:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国新冠肺炎确诊病例累计超3662万例】当地时间8月14日，根据美国约翰斯·霍普金斯大学（JHU）数据，截至美东时间当日17时21分（北京时间8月15日5时21分），美国新冠肺炎确诊病例达36626724例，累计死亡621202人。两项数据与24小时前相比，新增确诊212603人，新增死亡1393人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2903383.d.html</link>
+            <guid>2279407</guid>
+            <pubDate>Sat, 14 Aug 2021 21:51:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  法国新增新冠肺炎确诊病例24427例，累计确诊6449863例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2903012.d.html</link>
+            <guid>2279406</guid>
+            <pubDate>Sat, 14 Aug 2021 21:41:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【拜登授权向阿富汗部署约5000名美军士兵以帮助人员撤离】美国总统拜登于当地时间8月14日通过白宫网站发表声明称，他已授权向阿富汗部署约5000名美军士兵，以确保安全撤离驻阿富汗美国人员和其他盟国人员，并帮助疏散帮助过美国的、受到特殊安全威胁的阿富汗人。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2902525.d.html</link>
+            <guid>2279405</guid>
+            <pubDate>Sat, 14 Aug 2021 21:30:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  黎巴嫩新增新冠肺炎确诊病例1498例，累计确诊581497例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2901283.d.html</link>
@@ -240,24 +264,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1475158.d.html</link>
             <guid>2279190</guid>
             <pubDate>Sat, 14 Aug 2021 13:55:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【福建漳州17人海边落水10死1失联】据福建漳州漳浦县政府，今天下午，17名外来人员自行到漳浦县前亭镇江口村附近海滩，被卷入海中。截至20时50分，已搜救出16人（其中10人经抢救无效死亡，6人生命体征平稳），其余1人正在搜救。落水原因正在进一步调查中。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1474626.d.html</link>
-            <guid>2279187</guid>
-            <pubDate>Sat, 14 Aug 2021 13:49:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国海啸预警系统：海地地区发生7级地震后面临海啸威胁。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2871674.d.html</link>
-            <guid>2279170</guid>
-            <pubDate>Sat, 14 Aug 2021 13:32:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网速报：海地地震的震中距最近的城市莱凯约36公里，这里有12万多人，距太子港约125公里。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2869999.d.html</link>
-            <guid>2279167</guid>
-            <pubDate>Sat, 14 Aug 2021 13:16:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
