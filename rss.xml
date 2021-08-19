@@ -4,11 +4,105 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Thu, 19 Aug 2021 18:27:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Aug 2021 19:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国疾控中心：美国累计新冠肺炎确诊病例升至37259886例，昨日为37097850例；累计新冠肺炎死亡病例升至623244例，昨日为621344例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc3878370.d.html</link>
+            <guid>2286216</guid>
+            <pubDate>Thu, 19 Aug 2021 19:09:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒大集团：针对近日网传“中国恒大集团正在与小米集团洽谈出售恒大汽车65%股份”一事，我司特此声明如下：恒大汽车在战略股东引进过程中，曾与小米集团有过初步交流，并未深入洽谈推进。]]></title>
+            <guid>2286214</guid>
+            <pubDate>Thu, 19 Aug 2021 19:05:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Snap聘用Facebook老员工Konstantinos Papamiliadis，其将担任高级副总裁，以负责推进增强现实（AR）业务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc3877880.d.html</link>
+            <guid>2286213</guid>
+            <pubDate>Thu, 19 Aug 2021 19:02:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【亚马逊今夏市值蒸发2530亿美元 华尔街普遍看涨情绪受到考验】数据显示，总计55位给予亚马逊(AMZN.O)评级的分析师都建议客户买入该股。根据美国银行8月10日的报告，主动型基金经理现在比一年前更“超配”这只股票。 该股自7月初的高点已经下跌近14%，市值蒸发约2530亿美元，本周早些时候自6月份以来首次收于200日移动均线下方，现在股价低于年初时的水平。Bokeh Capital Advisors的创始人兼首席投资官Kim Forrest表示，“市场奖励增长，但现在看起来亚马逊没有用户增加支出或吸引更多用户的催化剂。”]]></title>
+            <guid>2286212</guid>
+            <pubDate>Thu, 19 Aug 2021 19:00:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国就业增长强势料在8月继续】美国上周初请失业金人数降至17个月来最低水平，表明8月就业岗位数料将再次录得强劲增长，但新冠肺炎确诊病例激增给劳动力市场复苏带来风险。 Naval Federal Credit Union企业经济学家Robert Frick表示，“我们可以推断，8月招聘情况依然强劲，表明该月的就业报告将是健康的。”  此外，下周公布的续请失业人数将为8月的招聘情况提供更多线索。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqciyzm2480263.d.html</link>
+            <guid>2286210</guid>
+            <pubDate>Thu, 19 Aug 2021 18:53:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：俄罗斯总统普京在与美国总统拜登的峰会上回绝了美国在中亚建立基地的计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc3877238.d.html</link>
+            <guid>2286209</guid>
+            <pubDate>Thu, 19 Aug 2021 18:49:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：在20多名员工感染新冠病毒后，苹果(AAPL.O)关闭了位于美国南卡罗来纳州查尔斯顿的门店。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc3877192.d.html</link>
+            <guid>2286208</guid>
+            <pubDate>Thu, 19 Aug 2021 18:47:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：随着新冠肺炎病例的增加，IBM(IBM.N)暂时关闭了其纽约办事处。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc3876961.d.html</link>
+            <guid>2286207</guid>
+            <pubDate>Thu, 19 Aug 2021 18:43:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[利比亚国家石油公司：7月份石油销售总额达21亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqciyzm2479784.d.html</link>
+            <guid>2286206</guid>
+            <pubDate>Thu, 19 Aug 2021 18:43:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海原油期货主力合约夜盘收跌2.73%，报403.0元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqciyzm2479214.d.html</link>
+            <guid>2286205</guid>
+            <pubDate>Thu, 19 Aug 2021 18:31:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海黄金交易所黄金T+D 8月20日（周五）晚盘收盘下跌0.08%报372.37元/克；上海黄金交易所白银T+D 8月20日（周五）晚盘收盘下跌0.7%报4960.0元/千克。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc3876290.d.html</link>
+            <guid>2286204</guid>
+            <pubDate>Thu, 19 Aug 2021 18:30:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股太空概念股齐挫，Maxar Technologies(MAXR.N)跌5%，维珍银河(SPCE.N)跌3.2%，波音(BA.N)跌3.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc3876284.d.html</link>
+            <guid>2286203</guid>
+            <pubDate>Thu, 19 Aug 2021 18:30:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国防部发言人Kirby：美国就机场问题与塔利班“频繁沟通”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqciyzm2479113.d.html</link>
+            <guid>2286202</guid>
+            <pubDate>Thu, 19 Aug 2021 18:29:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Epic：谷歌曾考虑从腾讯收购部分股份从而控制该公司】新近解密的法庭文件显示，EpicGames Inc.称，在其拒绝了谷歌提出的在Google Play应用商店推出重磅游戏Fortnite的建议之后，谷歌考虑过通过从腾讯收购Epic的部分股份从而控制该公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc3876196.d.html</link>
+            <guid>2286201</guid>
+            <pubDate>Thu, 19 Aug 2021 18:28:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以太坊短线走高近50美元，一度升至日内高点3097.28美元/枚，日内涨2.66%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqciyzm2479057.d.html</link>
+            <guid>2286200</guid>
+            <pubDate>Thu, 19 Aug 2021 18:28:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比特币短线快速拉升800美元，现报46550美元/枚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc3876138.d.html</link>
+            <guid>2286199</guid>
+            <pubDate>Thu, 19 Aug 2021 18:27:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【证券日报头版：网约车平台们 该放弃高利润幻想了】证券日报发表评论文章称，网约车属于准公共服务供给，因为国家允许平台投放网约车加入公共交通行业，占用了稀缺的道路资源，要对公众负有安全责任，那么这些平台的服务价格就理应接受管理，不能以获取高额利润为首要目标。合规经营，保证安全，让乘客享受到品质服务，让司机获得应有的劳动报酬，让平台赚取合理的利润，实现乘客、司机与平台的三方共赢，这个行业才能走得更远、更长久。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc3876082.d.html</link>
@@ -174,90 +268,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqciyzm2471619.d.html</link>
             <guid>2286167</guid>
             <pubDate>Thu, 19 Aug 2021 16:42:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[智利化工矿业SQM：额外的锂产能将使产出更具灵活性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc3868815.d.html</link>
-            <guid>2286166</guid>
-            <pubDate>Thu, 19 Aug 2021 16:42:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际能源署（IEA）：发达国家应该在发展中国家之前达到净零排放。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc3868792.d.html</link>
-            <guid>2286165</guid>
-            <pubDate>Thu, 19 Aug 2021 16:42:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[克里姆林宫：普京和法国总统马克龙通过电话讨论了阿富汗和伊朗问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqciyzm2471572.d.html</link>
-            <guid>2286164</guid>
-            <pubDate>Thu, 19 Aug 2021 16:42:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  日本加密数字货币交易所Liquid遭遇网络袭击，区块链分析公司Elliptic称，黑客从（部分）数字货币钱包盗窃了大约9700万美元。这是最近两周内第二起重大的加密数字货币网络盗窃事故。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqciyzm2470542.d.html</link>
-            <guid>2286162</guid>
-            <pubDate>Thu, 19 Aug 2021 16:28:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国恒大ADR(EGRNY)跌15.1%，传恒大正在与小米谈判出售其电动汽车部门股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqciyzm2469962.d.html</link>
-            <guid>2286161</guid>
-            <pubDate>Thu, 19 Aug 2021 16:22:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  微软将对Office 365企业版提价。（CNBC）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqciyzm2469915.d.html</link>
-            <guid>2286160</guid>
-            <pubDate>Thu, 19 Aug 2021 16:21:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[智利化工矿业公司SQM CEO：本公司预计在2022年生产14万吨锂。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqciyzm2469130.d.html</link>
-            <guid>2286157</guid>
-            <pubDate>Thu, 19 Aug 2021 16:10:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦及美国劳工部长沃尔什表示，美国用于援助失业的救助计划将延长到9月6日以后。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc3866238.d.html</link>
-            <guid>2286156</guid>
-            <pubDate>Thu, 19 Aug 2021 16:09:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：虽然额外的联邦失业救济将到期，但在一些州继续提供援助可能仍具意义。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc3865890.d.html</link>
-            <guid>2286155</guid>
-            <pubDate>Thu, 19 Aug 2021 16:05:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：失业保险改革应该成为预算法案的一部分。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqciyzm2468676.d.html</link>
-            <guid>2286154</guid>
-            <pubDate>Thu, 19 Aug 2021 16:05:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：德尔塔变种毒株可能会对本地市场和经济造成挑战。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-20/detail-ikqcfncc3865380.d.html</link>
-            <guid>2286153</guid>
-            <pubDate>Thu, 19 Aug 2021 16:00:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股三大股指均翻红。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqciyzm2467994.d.html</link>
-            <guid>2286152</guid>
-            <pubDate>Thu, 19 Aug 2021 15:57:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联邦贸易委员会（FTC）以3比2的投票通过了对Facebook的新投诉。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqciyzm2467989.d.html</link>
-            <guid>2286151</guid>
-            <pubDate>Thu, 19 Aug 2021 15:57:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联邦贸易委员会（FTC）：美国联邦贸易委员会主席Lina Khan不会回避针对Facebook的调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-19/detail-ikqciyzm2467794.d.html</link>
-            <guid>2286150</guid>
-            <pubDate>Thu, 19 Aug 2021 15:53:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
