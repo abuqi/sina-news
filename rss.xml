@@ -4,11 +4,29 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 21 Aug 2021 20:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Aug 2021 21:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据福克斯新闻：美国国务院据悉在数周前遭到网络攻击，但不影响近期正在执行的阿富汗撤离任务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4250571.d.html</link>
+            <guid>2288118</guid>
+            <pubDate>Sat, 21 Aug 2021 21:00:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国考虑预订商业航班参与阿富汗撤离行动 】拜登政府计划大幅增加喀布尔的空运能力，以帮助从阿富汗撤离数以万计的人员，并增加可容纳阿富汗人的美军基地数量。美国官员表示，白宫计划启用民用后备航空队（Civil Reserve Air Fleet），以获得多达5家航空公司的近20架商业飞机。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2852572.d.html</link>
+            <guid>2288117</guid>
+            <pubDate>Sat, 21 Aug 2021 20:37:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据华尔街日报：美国考虑预订商业航班参与阿富汗撤离行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4249391.d.html</link>
+            <guid>2288116</guid>
+            <pubDate>Sat, 21 Aug 2021 20:27:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国纽约市长办公室发布飓风紧急状态宣言。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2851630.d.html</link>
@@ -262,24 +280,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2816723.d.html</link>
             <guid>2287520</guid>
             <pubDate>Sat, 21 Aug 2021 12:57:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[东方证券副总裁兼财富管理业务总部总经理徐海宁表示，近几年来，整个中国的金融产品投资市场普遍存在基金挣钱基民不挣钱的情况，作为从业人员，要不断引导基民基于自身的风险偏好和资金属性来进行资产配置。（券中社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4213841.d.html</link>
-            <guid>2287519</guid>
-            <pubDate>Sat, 21 Aug 2021 12:56:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【贝莱德基金汤晓东：中国财富管理行业迎来系统化、趋势化的发展新时代】贝莱德基金董事长、贝莱德中国区负责人汤晓东表示，预计到今年底中国个人持有的可投资的资产管理总体规模可能会达到268万亿人民币，过去平均三年的复合增长率都超过了10%，同时中国资本市场的体系运行机制，市场生态，特别是投资者保护等方面得到不断的发展和完善。中国境内资产配置也在发生结构性的变化，总体来讲中国财富管理行业迎来了系统化、趋势化的发展的新时代。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2816567.d.html</link>
-            <guid>2287518</guid>
-            <pubDate>Sat, 21 Aug 2021 12:55:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【部分个股估值已创新低，集中在生物医药行业】剔除去年以来上市的新股，已有75股滚动市盈率达五年内低点，其中51股估值创近十年新低。估值创新低股中，医药生物行业数量最多，共18股。22只估值新低股上半年利润翻倍。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4213457.d.html</link>
-            <guid>2287515</guid>
-            <pubDate>Sat, 21 Aug 2021 12:51:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
