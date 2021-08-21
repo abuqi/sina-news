@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 21 Aug 2021 21:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Aug 2021 22:21:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国累计新冠肺炎确诊病例达37665585例】当地时间8月21日，据美国约翰斯·霍普金斯大学数据，截至美国东部时间8月21日17时21分（北京时间8月22日5时21分），美国累计新冠肺炎确诊病例达例 37665585例 ，累计死亡病例628270例。与24小时前相比，新增确诊病例239429例，新增死亡病例2045例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2855961.d.html</link>
+            <guid>2288120</guid>
+            <pubDate>Sat, 21 Aug 2021 22:08:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿富汗塔利班不打算组建过渡政府】据阿富汗哈马新闻社21日报道，塔利班高级成员艾哈迈杜拉·瓦西克当天表示，塔利班没有组建临时政府或过渡政府的计划，将直接组建一个能被阿各方接受的包容性政府。瓦西克在接受媒体采访时表示，塔利班目前正与各方就组建政府加快协商。据悉，阿富汗目前仍没有国家元首，塔利班只任命了一部分省长和市长。（新华网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2854817.d.html</link>
+            <guid>2288119</guid>
+            <pubDate>Sat, 21 Aug 2021 21:40:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据福克斯新闻：美国国务院据悉在数周前遭到网络攻击，但不影响近期正在执行的阿富汗撤离任务。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4250571.d.html</link>
@@ -268,18 +280,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2818733.d.html</link>
             <guid>2287523</guid>
             <pubDate>Sat, 21 Aug 2021 13:14:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据华尔街日报：Citadel Securities将从对冲基金Melvin Capital中赎回约5亿美元，但预计仍能保留Melvin Capital的大股东身份。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2817286.d.html</link>
-            <guid>2287521</guid>
-            <pubDate>Sat, 21 Aug 2021 13:02:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币短线走高近600美元，现报49320美元/枚。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2816723.d.html</link>
-            <guid>2287520</guid>
-            <pubDate>Sat, 21 Aug 2021 12:57:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
