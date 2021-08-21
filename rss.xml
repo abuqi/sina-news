@@ -4,11 +4,46 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 21 Aug 2021 15:24:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Aug 2021 16:33:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：美国财长耶伦据悉支持美联储主席鲍威尔连任。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2837205.d.html</link>
+            <guid>2287656</guid>
+            <pubDate>Sat, 21 Aug 2021 16:32:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国新增68例新冠肺炎死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4233105.d.html</link>
+            <guid>2287655</guid>
+            <pubDate>Sat, 21 Aug 2021 16:14:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我国实现水稻生育周期减半重要突破】近日，中国农业科学院都市农业研究所植物工厂创新团队与中国水稻研究所钱前团队合作，在植物工厂环境下成功实现水稻种植60天左右收获的重要突破，将传统大田环境下120天以上的水稻生长周期缩短了一半，这为加速作物育种提供了新的技术途径。（新华社）]]></title>
+            <guid>2287653</guid>
+            <pubDate>Sat, 21 Aug 2021 16:00:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士：塔利班政治办公室主任将在两周内就阿富汗未来政府组织结构做出决定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2834496.d.html</link>
+            <guid>2287646</guid>
+            <pubDate>Sat, 21 Aug 2021 15:56:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美使馆提醒公民远离喀布尔】当地时间周六，美国大使馆发布旅行咨询，建议在阿富汗的美国人避免前往喀布尔机场，因有数千人试图通过该机场离开阿富汗，“喀布尔机场大门外存在潜在安全威胁，应避免前往”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4230737.d.html</link>
+            <guid>2287623</guid>
+            <pubDate>Sat, 21 Aug 2021 15:40:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿富汗塔利班官员：正在与前政府官员讨论应对金融危机和重新开放银行的问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2832102.d.html</link>
+            <guid>2287611</guid>
+            <pubDate>Sat, 21 Aug 2021 15:24:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国国防部：已在喀布尔撤离约1.7万人。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2831226.d.html</link>
@@ -239,42 +274,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4205497.d.html</link>
             <guid>2287503</guid>
             <pubDate>Sat, 21 Aug 2021 11:43:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[《印度时报》刚刚引用阿富汗媒体消息称，所有在喀布尔的印度公民都是安全的。此前有印媒报道称，塔利班在阿富汗喀布尔机场附近抓了150多人，其中大部分是印度人。这项指控之后被塔利班发言人否认。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4204842.d.html</link>
-            <guid>2287501</guid>
-            <pubDate>Sat, 21 Aug 2021 11:38:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  浙江省委常委、杭州市委书记周江勇接受中央纪委国家监委纪律审查和监察调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2807029.d.html</link>
-            <guid>2287500</guid>
-            <pubDate>Sat, 21 Aug 2021 11:33:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[越南报告新增11321例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4204277.d.html</link>
-            <guid>2287499</guid>
-            <pubDate>Sat, 21 Aug 2021 11:32:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[塔利班发言人：塔利班的法律、宗教和外交政策专家打算在未来几周内提出新的治理框架。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2806748.d.html</link>
-            <guid>2287498</guid>
-            <pubDate>Sat, 21 Aug 2021 11:30:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【河南省防指向7个强降雨地区派出防汛工作指导组】根据防汛救灾工作要求，河南省防指决定8月21日起向郑州、开封、安阳、鹤壁、新乡、焦作及济源等7个强降雨地区分别派出防汛工作指导组，工作组由河南省水利厅、省应急厅、省自然资源厅、省委组织部、省纪委监委等部门人员组成。防汛工作指导组将重点检查河南省委省政府工作部署、省防汛视频会商会议要求和省防指3号指挥长令落实情况；雨前转移群众的具体措施；水库“三个责任人”、尾矿库“三级库长”、防洪工程巡查排查人员落实情况；抢险救援队伍预置情况，在险工险段、险库预备防汛物料情况等。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2806403.d.html</link>
-            <guid>2287497</guid>
-            <pubDate>Sat, 21 Aug 2021 11:28:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯总统普京会见哈萨克斯坦总统托卡耶夫】当地时间8月21日，俄罗斯总统普京会见哈萨克斯坦总统托卡耶夫。在当天的会谈中，普京表示，当前阿富汗局势异常严峻，将于8月23日与集体安全条约组织（集安组织）成员国领导人举行视频会议，商议与阿富汗局势相关的安全问题。对此，哈萨克斯坦总统表示，希望了解普京对阿富汗当前局势看法，以便协调政策。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2805385.d.html</link>
-            <guid>2287496</guid>
-            <pubDate>Sat, 21 Aug 2021 11:19:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
