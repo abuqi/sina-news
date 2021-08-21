@@ -4,11 +4,41 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 21 Aug 2021 17:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Aug 2021 18:27:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[黎巴嫩新增新冠肺炎确诊病例1386例，累计确诊590983例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2845895.d.html</link>
+            <guid>2287886</guid>
+            <pubDate>Sat, 21 Aug 2021 18:20:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：热带风暴“亨利”位于北卡罗来纳州哈特拉斯角以东335公里处。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4242601.d.html</link>
+            <guid>2287845</guid>
+            <pubDate>Sat, 21 Aug 2021 18:10:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：热带风暴“亨利”快速移动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4240764.d.html</link>
+            <guid>2287749</guid>
+            <pubDate>Sat, 21 Aug 2021 17:46:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国纽约州州长科莫宣布纽约州长岛进入紧急状态。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2842478.d.html</link>
+            <guid>2287686</guid>
+            <pubDate>Sat, 21 Aug 2021 17:33:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国新增22636例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4239156.d.html</link>
+            <guid>2287666</guid>
+            <pubDate>Sat, 21 Aug 2021 17:26:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[南非新增13261例新冠肺炎确诊病例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4237559.d.html</link>
@@ -250,36 +280,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4208066.d.html</link>
             <guid>2287510</guid>
             <pubDate>Sat, 21 Aug 2021 12:05:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会主席冯德莱恩：欧盟仅与塔利班就行动方面进行了接洽，例如在喀布尔的后勤工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2810793.d.html</link>
-            <guid>2287509</guid>
-            <pubDate>Sat, 21 Aug 2021 12:05:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：热带风暴“亨利”预计将在周六晚些时候增强为飓风，并在长岛或新英格兰南部登陆时达到或接近飓风强度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4207685.d.html</link>
-            <guid>2287508</guid>
-            <pubDate>Sat, 21 Aug 2021 12:02:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会主席冯德莱恩：并未与塔利班进行政治谈判，也不承认塔利班组织。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4207072.d.html</link>
-            <guid>2287507</guid>
-            <pubDate>Sat, 21 Aug 2021 11:57:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【水利部：黄淮海地区部分河流可能发生超警以上洪水】水利部21日发布汛情通报指出，据预测，西北、华北、黄淮等地21日至23日将出现强降雨过程，其中河南中北部等地可能发生大暴雨、甚至特大暴雨。受其影响，海河、黄河、淮河流域部分河流可能发生超警以上洪水。水利部维持水旱灾害防御Ⅲ级应急响应。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2809529.d.html</link>
-            <guid>2287506</guid>
-            <pubDate>Sat, 21 Aug 2021 11:55:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国方面建议公民避免前往喀布尔机场，并避开机场大门。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2809269.d.html</link>
-            <guid>2287505</guid>
-            <pubDate>Sat, 21 Aug 2021 11:52:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
