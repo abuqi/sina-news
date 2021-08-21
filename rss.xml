@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 21 Aug 2021 18:27:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Aug 2021 19:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[泰国议会批准自10月1日起实施的930亿美元的财政预算。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2847780.d.html</link>
+            <guid>2287987</guid>
+            <pubDate>Sat, 21 Aug 2021 18:53:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[媒体报道，尽管因阿富汗局势美国国防部遭到批评，但美国国防部长奥斯汀并不打算辞职。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2846964.d.html</link>
+            <guid>2287905</guid>
+            <pubDate>Sat, 21 Aug 2021 18:38:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[黎巴嫩新增新冠肺炎确诊病例1386例，累计确诊590983例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2845895.d.html</link>
@@ -268,18 +280,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4209714.d.html</link>
             <guid>2287512</guid>
             <pubDate>Sat, 21 Aug 2021 12:19:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【广东粤电阳江沙扒海上风电项目已进入最后冲刺】记者21日从中铁大桥局了解到，由该局承建的广东粤电阳江沙扒海上风电项目已进入最后冲刺阶段。当日，工人们正在安装WT54号风机机位。项目规划装机容量为300兆瓦，项目施工任务主要包括46台6.45兆瓦风机基础施工、风电机组安装和一台海上升压站。全部风电机组并网时间为2021年10月31日。 (中国新闻网)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4208576.d.html</link>
-            <guid>2287511</guid>
-            <pubDate>Sat, 21 Aug 2021 12:09:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据扬州发布：扬州多个高风险地区降级，多地由中风险地区调整为低风险地区。调整后全市现有4个高风险地区、21个中风险地区。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4208066.d.html</link>
-            <guid>2287510</guid>
-            <pubDate>Sat, 21 Aug 2021 12:05:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
