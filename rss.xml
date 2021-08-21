@@ -4,11 +4,29 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 21 Aug 2021 16:33:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Aug 2021 17:23:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[南非新增13261例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4237559.d.html</link>
+            <guid>2287659</guid>
+            <pubDate>Sat, 21 Aug 2021 17:07:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿富汗民族和解高级委员会主席阿卜杜拉表示，他与阿富汗前总统哈米德·卡尔扎伊一同会见了塔利班政治办公室的成员，该国的其他政治和部落领导人也出席了此次会议。会议就阿富汗国家局势、民众安全等问题进行了讨论。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2838943.d.html</link>
+            <guid>2287658</guid>
+            <pubDate>Sat, 21 Aug 2021 16:52:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【知情人士：耶伦支持鲍威尔连任】知情人士透露，美国财长耶伦向白宫高级顾问表示，她支持再次任命鲍威尔为美联储主席。据悉，美国总统拜登尚未作出决定，可能在美国劳动节前后（9月6日）作出决定。白宫与财政部官员均拒绝置评。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4234732.d.html</link>
+            <guid>2287657</guid>
+            <pubDate>Sat, 21 Aug 2021 16:35:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：美国财长耶伦据悉支持美联储主席鲍威尔连任。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2837205.d.html</link>
@@ -262,18 +280,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2809269.d.html</link>
             <guid>2287505</guid>
             <pubDate>Sat, 21 Aug 2021 11:52:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【22日0时起 河南焦作火车站所有列车临时停运一天】8月21日夜间至23日白天，河南省自西向东将有一次区域性强降雨天气过程。为保障旅客生命财产安全，记者从焦作火车站获悉，自8月22日0时起，焦作火车站所有列车临时停运一天。针对列车停运，已购买停运车次的旅客可免手续费退票。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4206329.d.html</link>
-            <guid>2287504</guid>
-            <pubDate>Sat, 21 Aug 2021 11:50:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿富汗塔利班发言人：已成立委员会回应媒体关心的事务】当地时间21日，阿富汗塔利班发言人扎比乌拉·穆贾希德在社交媒体上表示，已在阿富汗首都喀布尔成立了一个委员会，以回应媒体关心的事务。该委员会将由塔利班文化委员会一名负责人、记者与媒体机构联合会一名成员及喀布尔警察司令部一名成员组成。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4205497.d.html</link>
-            <guid>2287503</guid>
-            <pubDate>Sat, 21 Aug 2021 11:43:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
