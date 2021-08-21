@@ -4,11 +4,29 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 21 Aug 2021 19:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Aug 2021 20:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国纽约市长办公室发布飓风紧急状态宣言。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2851630.d.html</link>
+            <guid>2288115</guid>
+            <pubDate>Sat, 21 Aug 2021 20:14:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿富汗塔利班官员：塔利班在保障喀布尔机场外国官兵的安全。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2850857.d.html</link>
+            <guid>2288114</guid>
+            <pubDate>Sat, 21 Aug 2021 19:57:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2021年服贸会预约购票开始 分为专业观众日和公众开放日】9月2日至9月7日，2021年服贸会将在北京举办，展览地点位于国家会议中心和首钢园区。观展分为专业观众日和公众开放日，均需实名制预约。即日起，观众可在线上平台预约购买门票。（北京青年报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2849453.d.html</link>
+            <guid>2288097</guid>
+            <pubDate>Sat, 21 Aug 2021 19:26:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[泰国议会批准自10月1日起实施的930亿美元的财政预算。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2847780.d.html</link>
@@ -262,24 +280,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4213457.d.html</link>
             <guid>2287515</guid>
             <pubDate>Sat, 21 Aug 2021 12:51:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本外相访问伊拉克 考虑安全未提前公布】日本外相茂木敏充当地时间21日上午访问了伊拉克巴格达。他与该国总统巴尔哈姆·萨利赫和外长等人举行会谈，并于当日启程前往伊朗。据外务省透露，这是日本外相时隔15年再次访问伊拉克。出于安全上的原因，直至抵达为止未对外公布。（日本共同社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4212355.d.html</link>
-            <guid>2287514</guid>
-            <pubDate>Sat, 21 Aug 2021 12:42:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【长赐号再次通过苏伊士运河】据俄罗斯卫星网报道，航运服务公司GAC公司的消息人士称，“长赐”号集装箱船在被扣数月后于7月终于离开苏伊士运河。当地时间8月20日，该船再次安全通过了苏伊士运河，这也是它上月离开埃及后首次通过苏伊士运河。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2812886.d.html</link>
-            <guid>2287513</guid>
-            <pubDate>Sat, 21 Aug 2021 12:23:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[深交所创业板发行上市审核信息公开网站信息显示，8月18日，深交所中止比亚迪半导体股份有限公司发行上市审核，因发行人律师北京市天元律师事务所被中国证监会立案调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4209714.d.html</link>
-            <guid>2287512</guid>
-            <pubDate>Sat, 21 Aug 2021 12:19:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
