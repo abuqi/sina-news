@@ -19,7 +19,7 @@ const feed = new Feed({
 // 关键字过滤
 const filterArr = [
 //  '比特币',
-  '以太坊',
+//  '以太坊',
 //  '莱特币',
   '疫苗',
   '疫情',
