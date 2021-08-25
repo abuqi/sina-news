@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Wed, 25 Aug 2021 08:24:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Aug 2021 08:25:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美副总统称愿在南海问题上支持越南以应对中国，外交部回应】8月25日，外交部发言人汪文斌主持例行记者会。有记者提问，美国副总统哈里斯在访问越南时称愿给越南提供帮助以在南海问题上应对中国，包括增加美国舰队在该地区的活动等。中方对此有何评论？汪文斌表示，中方坚决反对美方在南海部署海上执法力量，插手地区事务，搅乱地区和平稳定。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3536296.d.html</link>
+            <guid>2291743</guid>
+            <pubDate>Wed, 25 Aug 2021 08:24:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[财经网站Forexlive评瑞士8月ZEW投资者信心指数：由于德尔塔毒株引发的风险和经济增长放缓，经济预期下降，投资者信心遭到重创，为去年3月以来首次录得负值。尽管如此，这似乎更多的是市场情绪和预期的正常化，在信心指数上涨后，下降或早或晚都会到来。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4932037.d.html</link>
@@ -277,12 +283,6 @@
             <title><![CDATA[  迈瑞医疗：上半年实现净利润43.44亿元，同比增长25.79%；公司拟以10亿元回购股份，回购价格不超过400元/股。]]></title>
             <guid>2291690</guid>
             <pubDate>Wed, 25 Aug 2021 07:51:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[氯碱化工公告，上半年实现净利润6.66亿元，同比增长354.69%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3529266.d.html</link>
-            <guid>2291688</guid>
-            <pubDate>Wed, 25 Aug 2021 07:49:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
