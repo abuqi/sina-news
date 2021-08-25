@@ -4,11 +4,283 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Wed, 25 Aug 2021 06:27:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Aug 2021 07:20:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【科大讯飞上半年智能座舱整体解决方案出货量22万台】在今天的科大讯飞业绩说明会中，总裁吴晓如表示，科大讯飞智能车载业务上半年收入同比增长74%，实现与奥迪、保时捷、沃尔沃等品牌合作，实现从单一语音交互软件到智能座舱整体解决方案（讯飞飞鱼系统）提升，21年上半年出货量22万台，同比2020年增长445%，前装产品覆盖主流车企市场。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3522290.d.html</link>
+            <guid>2291665</guid>
+            <pubDate>Wed, 25 Aug 2021 07:16:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【科大讯飞：下半年智慧医疗业务增幅会大于上半年】科大讯飞董事长刘庆峰8月25日在业绩说明会上表示，上半年智慧医疗业务还是在打基础状态，持续打磨产品。在智医助理基础上，增加重大传染病防控功能，并积极探索智医助理新商业模式。下半年智慧医疗增幅会大于上半年，随着公司启动分拆智慧医疗业务上市，后续成长空间可期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4918240.d.html</link>
+            <guid>2291664</guid>
+            <pubDate>Wed, 25 Aug 2021 07:15:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【云从科技落户广西 面向东盟开展人工智能应用合作】广西大数据发展局8月25日消息，广西北投信创科技投资集团与云从科技达成战略合作协议，双方将在高速车路协同、高速稽查、交通事件处理、船舶无人驾驶等多个人工智能应用大场景展开合作。根据合作协议，云从科技将在广西设立东盟人工智能创新中心，与生态合作伙伴一起面向泛东盟地区提供包括智慧港口、智慧城市、隐私计算、可信云、人机协同平台等多行业赋能的支撑应用。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3521974.d.html</link>
+            <guid>2291663</guid>
+            <pubDate>Wed, 25 Aug 2021 07:14:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【近期电厂供煤总体大于耗煤 存煤回升较快】发改委：8月中旬以来，全国煤炭生产保持高位稳定，电煤供应稳中有升，电厂供煤总体大于耗煤，存煤明显回升。调度数据显示，8月10日以来，全国统调电厂日均供煤663万吨，比7月份日均供煤增加近40万吨，日均耗煤640万吨，比7月份日均耗煤减少近40万吨，存煤快速回升近300万吨。下一步，随着日耗继续回落，预计电厂存煤会进一步增加。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4918166.d.html</link>
+            <guid>2291662</guid>
+            <pubDate>Wed, 25 Aug 2021 07:14:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[今日沪深两市主力资金净流出215.09亿元，占比1.64%；大单资金净流出145.62亿元，占比1.11%；小单资金净流入255.36亿元，占比1.94%。]]></title>
+            <guid>2291661</guid>
+            <pubDate>Wed, 25 Aug 2021 07:13:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【发改委：又有16座露天煤矿取得用地批复，正有序恢复生产】为加快释放煤炭先进产能，国家有关部门和内蒙古自治区积极推动露天煤矿接续用地办理，尽快恢复正常生产。继上月20多座露天煤矿取得接续用地批复后，近日又有16座鄂尔多斯露天煤矿取得接续用地批复，涉及产能2500万吨/年左右，还有产能近5000万吨/年露天煤矿将于9月中旬陆续取得接续用地批复。全部正常生产后，月可增加产量700万吨以上。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4917794.d.html</link>
+            <guid>2291660</guid>
+            <pubDate>Wed, 25 Aug 2021 07:12:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【发改委：电煤消费明显回落 港口存煤稳步提升】8月上旬用煤高峰过后，全国电煤消费逐步回落。8月23日全国统调电厂煤炭消耗630万吨，比7月15日峰值回落110万吨以上，降幅15%。随着消费回落，煤炭供需宽松，港口存煤开始累积，截至8月24日，秦皇岛港存煤468万吨，比7月末增加60万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4917701.d.html</link>
+            <guid>2291659</guid>
+            <pubDate>Wed, 25 Aug 2021 07:11:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【电产业链价格变动：今日碳酸锂、氢氧化锂价格大幅上涨】上海钢联发布的锂电产业链价格数据显示，99.2%（工/国）规格的碳酸锂涨1.15万元/吨，56.5%（工/国）规格的氢氧化锂涨5000元/吨，56.5%（电/微粉)规格的氢氧化锂涨3000元/吨。六氟磷酸锂涨5000元/吨。三元前驱体下跌5000元。电解钴上涨1000-2500元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4917044.d.html</link>
+            <guid>2291658</guid>
+            <pubDate>Wed, 25 Aug 2021 07:08:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【前7个月全国发行地方政府债券39979亿元】财政部25日发布数据显示，今年前7个月，全国发行地方政府债券39979亿元。其中，发行一般债券18583亿元，发行专项债券21396亿元；按用途划分，发行新增债券18833亿元，发行再融资债券21146亿元。数据显示，前7个月，地方政府债券平均发行期限10.6年，其中一般债券7.8年，专项债券13.0年。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4916764.d.html</link>
+            <guid>2291657</guid>
+            <pubDate>Wed, 25 Aug 2021 07:07:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【西藏国资公司原党委副书记、总经理李春明接受审查调查】据西藏自治区纪委监委消息：西藏国有资本投资运营有限公司（原西藏自治区国有资产经营公司）原党委副书记、总经理李春明因涉嫌严重违纪违法，目前正在接受自治区纪委监委纪律审查和监察调查。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4916590.d.html</link>
+            <guid>2291656</guid>
+            <pubDate>Wed, 25 Aug 2021 07:06:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[科伦坡指数上涨3％至8928.71点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3519915.d.html</link>
+            <guid>2291655</guid>
+            <pubDate>Wed, 25 Aug 2021 07:04:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  以每日额度余额口径，北向资金截至A股收盘净流入近76亿元；以买卖成交额口径，北向资金净买入逾34亿元。]]></title>
+            <guid>2291654</guid>
+            <pubDate>Wed, 25 Aug 2021 07:02:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【收评：指数午后震荡走强沪指表现较为强势 光伏概念掀起涨停潮】8月25日消息，三大指数开盘涨跌不一，开盘后沪指围绕平盘线震荡，创指跌幅一度扩大至1%，科创50指数跌超2%。板块方面，白酒冲高，油服拉升，工业母机、证券、锂电等前期热点板块回调。午后三大指数延续震荡态势，沪指表现仍然相对强势，两市成交额连续第26个交易日破万亿，北向资金尾盘加速流入，累计流入超80亿元。板块方面，中船系个股持续拉升，光伏板块带领有机硅板块走强。总体而言，市场情绪分化，多空博弈激烈，个股涨多跌少，赚钱效应一般。从盘面上看，中船系、有机硅板块涨幅居前，证券、鸿蒙概念板块跌幅居前。]]></title>
+            <guid>2291653</guid>
+            <pubDate>Wed, 25 Aug 2021 07:01:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲主要股指开盘涨跌不一，英国富时100指数跌0.03%，法国CAC40指数涨0.27%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4915679.d.html</link>
+            <guid>2291652</guid>
+            <pubDate>Wed, 25 Aug 2021 07:01:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[截至今日收盘，上证指数大市成交额为5986.12亿元（上一交易日成交额为6160.84亿元），成交量为4.5亿手（上一交易日为4.3亿手）；深证成指大市成交额为7158.44亿元（上一交易日成交额为7922.35亿元），成交量为4.75亿手（上一交易日为5.08亿手）。]]></title>
+            <guid>2291651</guid>
+            <pubDate>Wed, 25 Aug 2021 07:01:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【国内商品期货多数收涨 红枣主力合约涨超5%】国内商品期货多数收涨，红枣主力合约涨超5%，焦煤、动力煤、燃油、焦炭涨超3%，原油、豆一、棕榈、郑油、沪锡涨超2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3519239.d.html</link>
+            <guid>2291650</guid>
+            <pubDate>Wed, 25 Aug 2021 07:01:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【引力传媒中选中国移动2021至2022年央视投放服务支撑项目】据中国移动采购与招标网消息，中国移动2021至2022年央视投放服务支撑项目标/包1的中选人为引力传媒股份有限公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4915536.d.html</link>
+            <guid>2291649</guid>
+            <pubDate>Wed, 25 Aug 2021 07:00:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2021年全国早稻总产量2802万吨，增长2.7%】国家统计局25日发布数据显示，根据10省（区）早稻实割实测抽样调查结果推算，2021年全国早稻总产量2802万吨（560.4亿斤），比2020年增加72.3万吨（14.46亿斤），增长2.7%。全国早稻播种面积稳中略降。2021年全国早稻播种面积4734千公顷（7101万亩），比上年减少16.6千公顷（24.9万亩），下降0.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4915470.d.html</link>
+            <guid>2291648</guid>
+            <pubDate>Wed, 25 Aug 2021 07:00:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北向资金净流入达80亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3519016.d.html</link>
+            <guid>2291647</guid>
+            <pubDate>Wed, 25 Aug 2021 07:00:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[对于有消息称蜜雪冰城考虑最早于2022年赴港IPO，可能融资2亿至5亿美元，蜜雪冰城回应：目前确实没有明确上市计划。(界面新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4914784.d.html</link>
+            <guid>2291646</guid>
+            <pubDate>Wed, 25 Aug 2021 06:56:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【香港新增新冠肺炎确诊病例5例 均为境外输入】香港特区政府卫生署卫生防护中心8月25日公布，截至当日0时，香港新增5例新冠肺炎确诊病例，均为境外输入。截至目前，香港新冠肺炎累计确诊病例达12074例。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3518350.d.html</link>
+            <guid>2291644</guid>
+            <pubDate>Wed, 25 Aug 2021 06:55:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北向资金净流入达50亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4914340.d.html</link>
+            <guid>2291643</guid>
+            <pubDate>Wed, 25 Aug 2021 06:54:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【为何阿里女员工案未批捕王某文？代理律师：反映出检察院对该案慎重】 对于为何只有张某被批捕，8月25日，济南市槐荫区人民检察院告诉记者：依法办理。 王某文代理律师郑晓静接受采访时并未正面回应，其称，王某文在8月11日时已转为指定居所监视居住。8月18日上午郑晓静与王某文见面后，通过王某文个人陈词，认为其不构成猥亵，遂提交了不批捕申请。目前律师还不能阅卷，对于尚未对王某文批捕，反映了检察院对该案件的认真和慎重。（新京报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4914321.d.html</link>
+            <guid>2291642</guid>
+            <pubDate>Wed, 25 Aug 2021 06:54:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【农业农村部：引导生猪龙头企业发展壮大 带动中小养殖场户融入现代生猪产业】农业农村部8月25日答复政协提案表示，下一步，将在继续引导生猪产业龙头企业发展壮大的同时，带动中小养殖场户融入现代生猪产业，加快建设现代养殖体系；持续完善信息发布制度，加强能繁母猪存栏和猪肉产量等核心指标的监测和预警，及时精准调控，缓解生猪周期性波动；中国银保监会将进一步提升能繁母猪和育肥猪养殖险的保险服务能力，鼓励保险产品创新，督促保险公司做好承保理赔，提升生猪养殖抗风险能力。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4913943.d.html</link>
+            <guid>2291641</guid>
+            <pubDate>Wed, 25 Aug 2021 06:52:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马来西亚新增22642例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3517432.d.html</link>
+            <guid>2291640</guid>
+            <pubDate>Wed, 25 Aug 2021 06:51:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[百度旗下智驾品牌集度汽车将和禾赛科技正式合作。 (36氪)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4913593.d.html</link>
+            <guid>2291639</guid>
+            <pubDate>Wed, 25 Aug 2021 06:50:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【成都二次集中供地出让75幅地块：取消竞配建，严查资金来源】8月24日晚间，成都市公共资源交易中心披露第二批集中供地地块挂牌信息。根据公告内容，第二批的集中供地将在9月15日-17日正式出让，总计75幅地块，出让面积总计约5686亩，此次出让的地块中绝大多数地块的溢价率未超过10%。在此次土地出让的规则中将采取“限房价、定品质、竞地价”的拍卖措施。意向竞买人参与本次出让宗地竞买所缴纳的资金须为合规自有资金，对于经审查资金来源不符合要求的，将依据公告要求或出让合同约定，取消意向竞买人的竞买资格，取消土地竞得人的竞得资格并解除土地出让合同，依法收回国有建设用地使用权，已缴纳的宗地竞买保证金不予退还，且一年内不得参与成都市的土地招拍挂活动。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4913513.d.html</link>
+            <guid>2291638</guid>
+            <pubDate>Wed, 25 Aug 2021 06:50:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【赛轮轮胎：海运费上涨对出口公司均造成一定影响 多种方式保障发货需求】赛轮轮胎(601058)8月25日在互动平台表示，海运费上涨对涉及出口的公司均造成一定程度影响，公司出口产品交易方式主要为FOB，运费由客户承担，但随着海运运费价格持续保持高位，公司也会结合公司市场营销策略等因素确定是否为客户承担部分运费。另外公司已积极联络各方资源，通过多种方式保障公司的发货需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4912882.d.html</link>
+            <guid>2291637</guid>
+            <pubDate>Wed, 25 Aug 2021 06:47:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【小米回应放弃MI品牌：并不存停止使用MI品牌的说法】据外媒报道，小米公司表示正逐步舍弃“MI”品牌，未来的设备在推出时将使用全新“xiaomi“品牌 Logo。小米集团公关部总经理王化在微博表示，MI标志在所有应用中具有最重要地位，是小米集团全球唯一品牌标志，作为小米集团企业形象、产品宣传形象、渠道形象等使用。所以我们并不存在全球范围内停止使用MI品牌的说法。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4912800.d.html</link>
+            <guid>2291636</guid>
+            <pubDate>Wed, 25 Aug 2021 06:46:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家航空航天局局长比尔·纳尔逊表示，他期待2030年之后就国际空间站同俄罗斯进行合作。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4912716.d.html</link>
+            <guid>2291635</guid>
+            <pubDate>Wed, 25 Aug 2021 06:46:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[工信部发布关于侵害用户权益行为的APP通报（2021年第9批，总第18批）：截至目前，检查发现尚有210款APP未按要求完成整改。搜狐资讯等app在列。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4912396.d.html</link>
+            <guid>2291634</guid>
+            <pubDate>Wed, 25 Aug 2021 06:44:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【龙湖集团：2021上半年核心纯利升17.1%至61.8亿元 中期息0.47元】8月25日，龙湖集团发布2021年中期业绩公告显示，期内实现营业收入约606.2亿元，同比增长约18.5%，其中物业投资业务租金收入同比增长42.4%至47.8亿元；股东应占溢利为74.2亿元，剔除公平值变动等影响后的股东应占核心溢利同比增长17.1%至61.8亿元。每股基本盈利为1.26元，每股核心基本盈利为1.05元，宣派中期股息每股0.47元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3515935.d.html</link>
+            <guid>2291631</guid>
+            <pubDate>Wed, 25 Aug 2021 06:43:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[科伦坡指数上涨2％，至8841.95点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4912073.d.html</link>
+            <guid>2291630</guid>
+            <pubDate>Wed, 25 Aug 2021 06:42:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  红枣期货主力合约涨幅扩大至逾4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3515008.d.html</link>
+            <guid>2291629</guid>
+            <pubDate>Wed, 25 Aug 2021 06:39:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【洽洽食品：后期不排除调价可能 目前没有明确时间表】洽洽食品(002557)在最新披露的投资者关系活动记录表中表示，公司在上半年瓜子坚果定价方面没有变化，下半年的定价情况主要根据新采购季的价格进行预判与应对。今年年初大宗商品和包材等均有上涨，公司后期不排除有调价的可能，目前没有明确的时间表。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4911171.d.html</link>
+            <guid>2291628</guid>
+            <pubDate>Wed, 25 Aug 2021 06:39:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【抖音申请注册TIKTOK商标被驳回】天眼查App显示，近日，抖音运营主体北京微播视界科技有限公司申请注册的“TIKTOK”商标状态变更为“驳回复审中”，国际分类涉及网站服务、教育娱乐、厨房洁具等。值得一提的是，目前该公司已提交超60个“TIKTOK”相关商标申请注册信息。据悉，TIKTOK为抖音海外版名称。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4911136.d.html</link>
+            <guid>2291627</guid>
+            <pubDate>Wed, 25 Aug 2021 06:38:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【南京集中供地：到限价后提高预售条件，购地6个月内不得预售】8月25日，江苏省南京市发布第二批集中供地公告，并进一步完善竞买规则。此次公告合计挂牌53幅地块，出让总面积约241.72万平方米，起始总价约621.55亿元。南京要求，竞买保证金及须缴纳的土地出让金须为符合要求的自有资金，报名竞买时应提供相关说明材料。在现行的“限房价、竞地价”出让方式基础上，进一步确立“限房价、定品质、竞地价”的出让方式。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3514872.d.html</link>
+            <guid>2291626</guid>
+            <pubDate>Wed, 25 Aug 2021 06:38:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国外交大臣拉布：我们认为喀布尔撤离的最后期限正好是本月底。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3514704.d.html</link>
+            <guid>2291625</guid>
+            <pubDate>Wed, 25 Aug 2021 06:37:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：蜜雪冰城据悉考虑最早于2022年在香港上市，或融资2~5亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3514628.d.html</link>
+            <guid>2291624</guid>
+            <pubDate>Wed, 25 Aug 2021 06:37:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[郑煤主力合约日内涨幅4.01%，现报887.8元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3514404.d.html</link>
+            <guid>2291623</guid>
+            <pubDate>Wed, 25 Aug 2021 06:35:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【三星起诉华为再次败诉】天眼查显示，8月25日，三星电子株式会社与国家知识产权局其他一审行政判决书公开。判决书显示，三星公司因发明专利权无效，不服相关被诉决定，起诉华为，华为作为第三人参加诉讼。涉案专利为三星2016年获授权的“执行随机接入过程的节点B、用户设备及方法”，华为曾就该专利提出了无效宣告请求。法院认为三星关于部分权利要求具备创造性的理由，均不能成立，专利复审委员会作出的被诉决定结论正确。本案判决结果为驳回三星公司诉讼请求。值得一提的是，目前三星与华为之间已存在多条专利权纠纷。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4910548.d.html</link>
+            <guid>2291622</guid>
+            <pubDate>Wed, 25 Aug 2021 06:35:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【科大讯飞：区域级因材施教解决方案已实现规模化成效验证】8月25日，在科大讯飞2021半年报业绩说明会上，公司总裁吴晓如表示，科大讯飞区域级因材施教解决方案已实现规模化的成效验证，蚌埠市2021年2月入选2020年度“智慧教育示范区”，青岛西海岸新区入选2021年山东省智慧教育示范区。2021年上半年，科大讯飞中标郑州金水和武汉经开区智慧教育项目，进一步打开“高考大省”市场。2021年上半年教育整体实现合同额19.59亿元，同比增长76%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3514167.d.html</link>
+            <guid>2291621</guid>
+            <pubDate>Wed, 25 Aug 2021 06:34:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【王府井成立免税品数字零售公司 注册资本5000万元】8月25日，据天眼查显示，北京王府井免税品数字零售有限责任公司于近日成立，注册资本5000万元，由王府井全资持股。工商信息显示，北京王府井免税品数字零售有限责任公司经营范围含免税商店商品销售；零售珠宝首饰、服装鞋帽、化妆品、电子产品、汽车等；烟草制品零售；互联网信息服务等。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3514119.d.html</link>
+            <guid>2291620</guid>
+            <pubDate>Wed, 25 Aug 2021 06:33:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国KOSPI指数8月25日（周三）收盘上涨8.46点，涨幅0.27%，报3146.76点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3513793.d.html</link>
+            <guid>2291619</guid>
+            <pubDate>Wed, 25 Aug 2021 06:31:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国欧洲事务部长博恩：欧盟和英国之间需要就移民问题达成新协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4909586.d.html</link>
+            <guid>2291618</guid>
+            <pubDate>Wed, 25 Aug 2021 06:29:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【江西一协会及其会员企业因垄断行为被罚2.86亿元】江西省市场监督管理局依据反垄断法对江西丰城市预拌混凝土协会及其8家会员企业涉嫌垄断行为立案调查，日前依法做出行政处罚决定，对丰城市预拌混凝土协会及其8家会员企业罚没共计2.86亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4909335.d.html</link>
+            <guid>2291617</guid>
+            <pubDate>Wed, 25 Aug 2021 06:28:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美元兑泰铢USD/THB下跌0.5％至32.733，创一个月来新低。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3512825.d.html</link>
@@ -26,234 +298,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4908789.d.html</link>
             <guid>2291614</guid>
             <pubDate>Wed, 25 Aug 2021 06:24:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【科大讯飞：AI学习机预计2021年可实现100万台销售目标】8月25日，在科大讯飞2021半年报业绩说明会上，公司总裁吴晓如表示，科大讯飞AI学习机预计2021年可实现100万台销售目标，其中通过解决方案项目预计70-80万台。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4908342.d.html</link>
-            <guid>2291613</guid>
-            <pubDate>Wed, 25 Aug 2021 06:22:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  有机硅板块午后持续拉升，合盛硅业涨停股价创历史新高，恒星科技、晨光新材、宏柏新材集体封板，新安股份、硅宝科技、东岳硅材等大幅跟涨，消息上，有机硅DMC现货价格近期持续创出年内新高，年内上涨幅度约59%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4908277.d.html</link>
-            <guid>2291612</guid>
-            <pubDate>Wed, 25 Aug 2021 06:21:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳大利亚S&P/ASX200指数8月25日（周三）收盘上涨28.90点，涨幅0.39%，报7531.90点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3511775.d.html</link>
-            <guid>2291611</guid>
-            <pubDate>Wed, 25 Aug 2021 06:20:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【重庆市市长唐良智调研长安汽车】8月24日，重庆市委副书记、市长唐良智与中国兵装集团董事长许宪平一同调研长安汽车。唐良智在调研中说，长安汽车是重庆汽车产业的龙头企业，是重庆工业的重要支柱。重庆将持续深化与中国兵装集团的战略合作，全力支持长安汽车转型发展，加强政策供给，提高政策精准度、配套性和执行力，为企业发展创造良好环境。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4907702.d.html</link>
-            <guid>2291610</guid>
-            <pubDate>Wed, 25 Aug 2021 06:18:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沪深两市成交额突破1.1万亿元，其中沪市成交额5043亿元，深市成交额5958亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4907579.d.html</link>
-            <guid>2291609</guid>
-            <pubDate>Wed, 25 Aug 2021 06:17:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国外交大臣拉布：我们希望喀布尔机场恢复正常。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3510710.d.html</link>
-            <guid>2291607</guid>
-            <pubDate>Wed, 25 Aug 2021 06:14:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[工信部：近期，我部重点针对APP违规索取权限、开屏弹窗信息骚扰用户等问题进行了“回头看”，对仍存在问题的APP（2021年第6、7批）进行了公开通报。截至目前，尚有67款APP未按时限要求完成整改。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4907000.d.html</link>
-            <guid>2291606</guid>
-            <pubDate>Wed, 25 Aug 2021 06:14:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国外交大臣拉布：即时到最后一刻，我们也会把人们带回英国。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4906849.d.html</link>
-            <guid>2291605</guid>
-            <pubDate>Wed, 25 Aug 2021 06:13:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国外交大臣拉布：几乎所有英国国民都已离开阿富汗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3510267.d.html</link>
-            <guid>2291604</guid>
-            <pubDate>Wed, 25 Aug 2021 06:12:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：新西兰克马德克群岛发生5.5级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4906606.d.html</link>
-            <guid>2291603</guid>
-            <pubDate>Wed, 25 Aug 2021 06:12:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北向资金净流入达30亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4905791.d.html</link>
-            <guid>2291602</guid>
-            <pubDate>Wed, 25 Aug 2021 06:09:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[可降解塑料概念股午后大幅走高，君正集团、联泓新科双双涨停，金丹科技、三联虹普、美瑞新材、丹化科技等涨超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3509201.d.html</link>
-            <guid>2291601</guid>
-            <pubDate>Wed, 25 Aug 2021 06:07:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[捷克新增250例新增新冠肺炎病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4904978.d.html</link>
-            <guid>2291598</guid>
-            <pubDate>Wed, 25 Aug 2021 06:05:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  日经225指数今天收盘报27724.80点，跌幅0.03%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4904299.d.html</link>
-            <guid>2291597</guid>
-            <pubDate>Wed, 25 Aug 2021 06:01:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【普华永道：今年上半年，香港成为中概股二次上市首选地】8月25日，普华永道发布了2021年上半年中国科技、媒体及通信行业（TMT）企业首次公开募股（IPO）数据。数据显示，2021年上半年，赴香港二次上市的TMT企业共有4家，总融资额为人民币529亿元，占上半年TMT IPO总融资额的25%。香港成为中概股二次上市首选地。（新京报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4903849.d.html</link>
-            <guid>2291596</guid>
-            <pubDate>Wed, 25 Aug 2021 05:59:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[焦煤主力合约上破2600元/吨，日内涨3.75%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3506324.d.html</link>
-            <guid>2291595</guid>
-            <pubDate>Wed, 25 Aug 2021 05:51:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沪深两市成交额连续第26个交易日突破1万亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3506132.d.html</link>
-            <guid>2291594</guid>
-            <pubDate>Wed, 25 Aug 2021 05:50:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[光伏板块继续走强，多股涨停，天合光能拉升涨近11%，福莱特、芯能科技等此前涨停，通威股份等继续走高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4902274.d.html</link>
-            <guid>2291593</guid>
-            <pubDate>Wed, 25 Aug 2021 05:49:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三星起诉华为再被驳回】近日，三星电子株式会社与国家知识产权局其他一审行政判决书公开。审理经过显示，三星公司因发明专利权无效，不服相关被诉决定，起诉华为，华为作为第三人参加诉讼。法院认为三星提供该专利具备创造性的理由，不能成立。判决结果为驳回三星公司诉讼请求，并交纳案件受理费100元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4902200.d.html</link>
-            <guid>2291592</guid>
-            <pubDate>Wed, 25 Aug 2021 05:48:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行审议委员中村丰明：绿色债券分类体系尚未决定，需要考虑更多东西。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4901588.d.html</link>
-            <guid>2291591</guid>
-            <pubDate>Wed, 25 Aug 2021 05:44:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【李光荣辞任中民投 深商控股黄继宏或接任CEO】在入主中民投并全面主持工作一年时间之后，华安财险、特华系掌门李光荣已辞任，相关流程正在进行中。来自深圳的深商控股总裁黄继宏或将接任CEO职位。黄继宏在资本市场中有着丰富实操经验。其曾在2019年成功操盘庞大集团重整，并成为庞大集团的实际控制人。近期在众泰汽车重整投资人名单中，黄继宏背后的深商控股集团子公司亦有参与。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3505089.d.html</link>
-            <guid>2291590</guid>
-            <pubDate>Wed, 25 Aug 2021 05:44:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 恒大汽车跌近11%，报6.64港元，续创52周新低。其他恒大概念股方面，中国恒大涨1.12%，恒大物业涨2.56%，恒腾网络跌2.27%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4901500.d.html</link>
-            <guid>2291589</guid>
-            <pubDate>Wed, 25 Aug 2021 05:44:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【广东出台数字经济促进条例 推进建设数字经济强省】近日，《广东省数字经济促进条例》由广东省人大常委会通过，并将于9月1日起实施。条例旨在促进数字经济发展，推进数字产业化和产业数字化，推动数字技术与实体经济深度融合，打造具有国际竞争力的数字产业集群，全面建设数字强省。据介绍，广东将通过条例的实施，切实增强数字产业化和产业数字化“两大核心”的发展动能。深入实施“强芯”“铸魂”工程，加快培育新一代电子信息、软件与信息服务、超高清视频显示、半导体与集成电路、智能机器人、区块链与量子信息、数字创意等战略性产业集群。到2025年，数字产业集群营业收入超过10.7万亿元，形成一批具有核心竞争力的园区和企业。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3504258.d.html</link>
-            <guid>2291588</guid>
-            <pubDate>Wed, 25 Aug 2021 05:39:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【力源信息：正与上游晶圆制造商商议四季度小批量量产、明年一月开始大规模量产的产能规划】力源信息在互动平台表示，目前公司新研发的两款MCU产品进展顺利，第一款流片成功的工程样品已下发给多家客户开始测试评估，涉及十几个行业多家客户，本次测试的客户主要有手机配件、电子烟、空气净化器、扫地机器人、指纹锁、无线充、打印机、电动工具、电动自行车、智能家居、温湿度模块、机器人手臂等行业客户，目前客户测试结果非常理想。目前，公司正与上游晶圆制造商商议四季度小批量量产、明年一月开始大规模量产的产能规划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4900625.d.html</link>
-            <guid>2291587</guid>
-            <pubDate>Wed, 25 Aug 2021 05:39:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[台湾加权指数收盘上涨227.13点，涨幅1.35%，报17045.86点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3503773.d.html</link>
-            <guid>2291585</guid>
-            <pubDate>Wed, 25 Aug 2021 05:36:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【北京链家：网上所传“链家被禁止转租服务”消息不实】近日，《北京市住房租赁条例（征求意见稿）》面向社会公开征求意见，这是全国首部地方性租赁管理相关法律。依据《条例》规定，租赁服务包括信息发布、居间、代理、转租等服务，其中房地产经纪机构可以提供居间、代理服务，住房租赁企业可以提供转租服务，房地产经纪机构不得提供转租服务。对此，有文称北京链家已被禁止在京从事房屋转租业务。对此，北京链家回应称，北京链家作为经纪机构，一直严格执行有关规定，目前提供居间、代理服务，未从事任何转租服务。因此，网上所传“链家被禁止转租服务”消息不实。北京链家和自如为独立发展的两家公司，仅有部分合作关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3503185.d.html</link>
-            <guid>2291584</guid>
-            <pubDate>Wed, 25 Aug 2021 05:32:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恒大地产债券涨幅扩大，“15恒大03”涨20%盘中临停，“19恒大02”涨超8%，“20恒大01”和“19恒大01”涨超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4899264.d.html</link>
-            <guid>2291583</guid>
-            <pubDate>Wed, 25 Aug 2021 05:30:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本拟加强新一代半导体研发】日本文部科学省日前基本决定，为开发有望大幅节电等的新一代半导体，加强相关研究及人才培养力度。正就在下年度预算概算要求中列入9亿日元（约合人民币5310万元）展开协调。计划把承担新存储器、中央处理器（CPU）等设计到制造的一条龙研究团队作为“据点”，重点编制预算。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3502544.d.html</link>
-            <guid>2291582</guid>
-            <pubDate>Wed, 25 Aug 2021 05:28:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天津LNG年度接卸量超300万吨】记者昨日获悉，来自巴布亚新几内亚的“莱斯姆斯”号LNG船携6.5万吨LNG（液化天然气）靠泊国家管网集团天津液化天然气有限责任公司（简称天津LNG）码头，这标志着天津LNG本年度接卸量达302.2万吨，是历史同期LNG接卸量最高纪录。年内，天津LNG外输量还将持续增加，满足今冬明春华北天然气保供需求。 (天津日报)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4898892.d.html</link>
-            <guid>2291581</guid>
-            <pubDate>Wed, 25 Aug 2021 05:28:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【哈尔滨：5G基础设施建设将纳入城市开发计划】近日，记者从哈尔滨市推进5G通信基础设施建设及5G应用座谈会上获悉，今后哈市5G基础设施规划及建设将同步纳入城市的开发建设规划中，在城市规划建设中统筹运营商需求。同时，全市将加快5G基础设施施工进度，确保如期完工。 (黑龙江日报)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4898645.d.html</link>
-            <guid>2291580</guid>
-            <pubDate>Wed, 25 Aug 2021 05:26:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[锂电股午后回暖，西藏城投、延安必康、华锋股份等涨停，蓝晓科技涨超14%，藏格控股、精测电子跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3501591.d.html</link>
-            <guid>2291578</guid>
-            <pubDate>Wed, 25 Aug 2021 05:22:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行委员中村丰明：必须警惕下行风险，但不觉得经济会下降得很厉害。经济下行压力将持续一段时间。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4897247.d.html</link>
-            <guid>2291576</guid>
-            <pubDate>Wed, 25 Aug 2021 05:17:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[快手跌幅扩大至5%，盘初一度涨逾6%，将于今日发布二季度财报。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4897029.d.html</link>
-            <guid>2291575</guid>
-            <pubDate>Wed, 25 Aug 2021 05:15:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天津同仁堂发布声明：公司前身可追溯至清朝 知识产权系合法取得】针对知识产权问题，天津同仁堂集团股份有限公司发布声明：公司前身可追溯至清朝时期，历史上曾使用京都同仁堂张家老药铺、京同仁堂和记、天津同仁堂制药厂等名称开展药品经营活动。天津同仁堂的企业名称、字号和商标等均系合法取得，具有悠久的历史渊源，毋庸置疑。据了解，天津同仁堂核心产品以处方药为主，与北京同仁堂、南京同仁堂在主要药品分类、功效、适应症等方面不同。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqcfncc4896676.d.html</link>
-            <guid>2291572</guid>
-            <pubDate>Wed, 25 Aug 2021 05:13:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[光伏板块午后持续走高，金博股份、海优新材、恒星科技、清源股份、金辰股份、嘉泽新能、福莱特、鑫铂股份、意华股份、帝科股份、天合光能等十余股涨停或涨幅超10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3500093.d.html</link>
-            <guid>2291570</guid>
-            <pubDate>Wed, 25 Aug 2021 05:13:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  机场航运板块午后持续拉升，上海机场涨近8%，春秋航空、南方航空跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3500051.d.html</link>
-            <guid>2291569</guid>
-            <pubDate>Wed, 25 Aug 2021 05:12:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国副总统哈里斯：越南经济对美国的供应链至关重要。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3498803.d.html</link>
-            <guid>2291566</guid>
-            <pubDate>Wed, 25 Aug 2021 05:05:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中船系个股午后持续拉升，中国船舶、中船科技双双涨停，中船防务涨超7%，亚星锚链、中国重工、江龙船艇等跟涨，消息上，中国船舶集团副总经理钱建平表示，两船重组进入实质性操作阶段。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-25/detail-ikqciyzm3498620.d.html</link>
-            <guid>2291565</guid>
-            <pubDate>Wed, 25 Aug 2021 05:04:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
