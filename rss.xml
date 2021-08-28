@@ -4,11 +4,35 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 28 Aug 2021 18:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Aug 2021 19:16:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国纽约州新增5524例新冠肺炎确诊病例，新增26例新冠死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2749373.d.html</link>
+            <guid>2295694</guid>
+            <pubDate>Sat, 28 Aug 2021 19:06:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：绝对不是最后一次打击“伊斯兰国”极端组织。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2748812.d.html</link>
+            <guid>2295693</guid>
+            <pubDate>Sat, 28 Aug 2021 18:52:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：阿富汗的地缘局势仍然极度危险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2748806.d.html</link>
+            <guid>2295692</guid>
+            <pubDate>Sat, 28 Aug 2021 18:52:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国路易斯安那州海上石油港（LOOP）因飓风“艾达”（Ida）而暂停原油运输。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2748021.d.html</link>
+            <guid>2295691</guid>
+            <pubDate>Sat, 28 Aug 2021 18:31:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国安全和环境执法局（BSEE）：美国海湾地区关闭了90.84%的原油产量（或165万桶/日）及84.87%的天然气产量（或1892.7百万立方英尺/日）。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2747066.d.html</link>
@@ -264,30 +288,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2717434.d.html</link>
             <guid>2295427</guid>
             <pubDate>Sat, 28 Aug 2021 12:01:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：预计今晚飓风“艾达”（Ida）在经过墨西哥湾东南部和中部地区时快速增强。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0945804.d.html</link>
-            <guid>2295425</guid>
-            <pubDate>Sat, 28 Aug 2021 11:53:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质勘探局：摩洛哥Hoceima东北44公里处发生5.3级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0945030.d.html</link>
-            <guid>2295424</guid>
-            <pubDate>Sat, 28 Aug 2021 11:45:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【全球首例 美国农业部证实野生鹿感染新冠】当地时间周五，美国农业部证实，在俄亥俄州验出全球首起鹿只感染新冠的病例。目前尚不清楚感染的野生白尾鹿如何接触到病毒，暂未有鹿只出现感染症状的报告。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2714497.d.html</link>
-            <guid>2295423</guid>
-            <pubDate>Sat, 28 Aug 2021 11:32:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cambridge Global Payments全球产品和市场策略部董事：美联储主席鲍威尔的讲话表明，美联储今年可能开始缩减资产购买规模，但加息前景仍遥遥无期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0943628.d.html</link>
-            <guid>2295422</guid>
-            <pubDate>Sat, 28 Aug 2021 11:32:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
