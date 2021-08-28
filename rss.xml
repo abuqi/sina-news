@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 28 Aug 2021 01:58:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Aug 2021 02:31:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【腾讯公告：加强饭圈乱象整治，涉明星艺人榜单小程序下线整改】腾讯发布公告称，拟进一步加大整治力度，彻底抵制饭圈不良风气和“无底线追星”行为，净化网络环境：所有涉明星艺人榜单、应援集资类小程序下线整改；对所有名称含有“粉丝团”、“后援会”等的账号和群组进行清理，只有获得明星经纪公司（工作室）授权或认证方可予以恢复，未经授权的个人或组织将严禁注册明星粉丝团账号；加大力度清理粉丝互撕谩骂、拉踩引战、造谣攻击、应援集资、刷量控评、诱导未成年人追星等各类有害信息，从严处置违法违规账号等。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0856324.d.html</link>
+            <guid>2295296</guid>
+            <pubDate>Sat, 28 Aug 2021 02:07:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美军空袭杀死一名ISIS-K的“策划者”，美媒：其参与计划在喀布尔对美发动袭击】据美联社刚刚消息，五角大楼称，美国在阿富汗对极端组织“伊斯兰国”（ISIS）分支“ISIS-K”的一名“策划者”实施了空袭打击。报道称，据称此人参与了在喀布尔对美国发动袭击的计划。报道称，美国中央司令部发言人比尔说，美国在阿富汗楠格哈尔省对一名“伊斯兰国”成员发动了无人机袭击，“我们杀死了目标”。报道称，据称此人参与了在喀布尔对美国发动袭击的计划，尚不清楚此人是否具体参与了喀布尔机场外的自杀式炸弹袭击。（环球网）]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0854108.d.html</link>
@@ -258,18 +264,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2605370.d.html</link>
             <guid>2295246</guid>
             <pubDate>Fri, 27 Aug 2021 23:45:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国共和党议员要求拜登辞职并提议发起弹劾程序】当地时间8月26日，据美国当地媒体报道，在阿富汗喀布尔机场爆炸事件造成至少13名美国军人死亡后，美国多位共和党议员公开炮轰拜登的对阿富汗政策，要求拜登辞去总统职位并提议发起弹劾总统程序。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2604780.d.html</link>
-            <guid>2295244</guid>
-            <pubDate>Fri, 27 Aug 2021 23:39:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国国防部：阿富汗喀布尔机场未来或遭遇更多恐袭】当地时间8月27日，美国国防部发言人约翰·柯比在新闻发布会上表示，美军已掌握的可信情报显示，阿富汗喀布尔机场未来极有可能遭遇更多的恐怖袭击。美军正在采取多项措施以应对可能发生的恐袭，如增加机场周边的巡逻班次，封锁周边道路，直到8月31日美军完成撤军任务。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2604675.d.html</link>
-            <guid>2295243</guid>
-            <pubDate>Fri, 27 Aug 2021 23:37:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
