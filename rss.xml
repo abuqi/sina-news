@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 28 Aug 2021 21:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Aug 2021 22:21:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【英国首相府：英最后一批军队和外交人员已撤离阿富汗】当地时间8月28日，英国媒体报道称，英国首相府已证实，最后一批英国军队和外交人员28日晚已撤离阿富汗首都喀布尔。报道指出，伴随英国皇家空军最后一次从喀布尔返英飞行，英国在阿富汗长达20年的军事介入结束。报道称，英国驻阿富汗大使劳里·布里斯托将暂时前往卡塔尔，远程负责英国在阿的外交、安全和其他事务。据悉，8月14日以来，英国已从阿富汗撤离了1.5万余人。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2754709.d.html</link>
+            <guid>2295707</guid>
+            <pubDate>Sat, 28 Aug 2021 21:57:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【券商总资产突破10万亿 中证协30年推动证券业高质量发展】截至2021年7月，协会共有会员475家，其中，法定会员(证券公司)140家，证券公司总资产超10万亿元。经过多年发展，证券公司业务形态逐渐丰富，呈多元化发展态势。（券商中国）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx0983133.d.html</link>
+            <guid>2295706</guid>
+            <pubDate>Sat, 28 Aug 2021 21:27:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[巴西过去24小时新增24699例新冠肺炎确诊病例和684例死亡病例。]]></title>
             <guid>2295705</guid>
@@ -263,18 +275,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2722410.d.html</link>
             <guid>2295439</guid>
             <pubDate>Sat, 28 Aug 2021 12:49:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：印尼巴布亚省发生5.6级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0950286.d.html</link>
-            <guid>2295438</guid>
-            <pubDate>Sat, 28 Aug 2021 12:37:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【赣锋锂业：锑金属难以对动力电池形成大规模供应】赣锋锂业8月28日在投资者互动平台表示，从静态储采比来看，锑金属的储采比远低于锂，供应高度集中、产量稀缺，难以对动力电池形成大规模供应。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2720626.d.html</link>
-            <guid>2295437</guid>
-            <pubDate>Sat, 28 Aug 2021 12:31:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
