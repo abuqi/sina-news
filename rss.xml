@@ -4,11 +4,35 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 28 Aug 2021 17:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Aug 2021 18:25:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国安全和环境执法局（BSEE）：美国海湾地区关闭了90.84%的原油产量（或165万桶/日）及84.87%的天然气产量（或1892.7百万立方英尺/日）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2747066.d.html</link>
+            <guid>2295681</guid>
+            <pubDate>Sat, 28 Aug 2021 18:09:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：飓风“艾达”（Ida）正在向路易斯安那州移动，已经与地方州长进行过沟通，将提供所需的帮助。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2746417.d.html</link>
+            <guid>2295663</guid>
+            <pubDate>Sat, 28 Aug 2021 17:55:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国新增17590例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2746411.d.html</link>
+            <guid>2295662</guid>
+            <pubDate>Sat, 28 Aug 2021 17:55:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国五角大楼确认了阿富汗喀布尔机场爆炸事件中丧生的13名美国军人的身份，其中大部分是20岁的海军陆战队员。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2744882.d.html</link>
+            <guid>2295640</guid>
+            <pubDate>Sat, 28 Aug 2021 17:28:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国墨西哥湾地区油气平台和炼化设施停产备战Ida飓风】美国墨西哥湾的石油天然气勘探开采企业和沿岸的炼化工厂纷纷停产，准备迎接飓风Ida。根据美国国家飓风中心的最新预测，飓风Ida将于下周初在新奥尔良附近登陆。根据安全与环境执法局的数据，截至周五，已有59%的原油产能（相当于大约106万桶/日）和49%的天然气产能关闭。密西西比河沿岸的炼化工厂，大约125万桶/日的炼化产能已经关闭或降低开工率。关闭油气产能的石油公司包括：英国石油、壳牌、挪威国家石油、必和必拓、墨菲石油、雪佛龙、埃克森美孚。炼化工厂停产或减产的公司包括：Phillips 66、埃克森美孚、壳牌、Marathon。另外，新奥尔良港预计将在周六关闭。]]></title>
             <guid>2295639</guid>
@@ -264,30 +288,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0943628.d.html</link>
             <guid>2295422</guid>
             <pubDate>Sat, 28 Aug 2021 11:32:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印尼新增新冠肺炎确诊病例10050例，累计确诊4066404例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0942042.d.html</link>
-            <guid>2295421</guid>
-            <pubDate>Sat, 28 Aug 2021 11:18:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【海南国际知识产权交易中心挂牌总金额超37亿元】28日，海南国际知识产权交易中心正式开业运营一周年。一年来，在海知中心挂牌的专利、商标、版权、植物新品种等知识产权权属转让及许可类产品的数量超过18万项，总金额超过37亿元，已完成及意向交易金额逾千万元。 (新华社)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0940392.d.html</link>
-            <guid>2295418</guid>
-            <pubDate>Sat, 28 Aug 2021 11:04:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总统马克龙：法国将支持伊拉克人不受干涉。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2711132.d.html</link>
-            <guid>2295417</guid>
-            <pubDate>Sat, 28 Aug 2021 11:03:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海口公开征求房地产中介服务管理办法修订意见】 海口市住建局拟对《海口市房地产中介服务管理办法》进行修订，现将《海口市房地产中介服务管理办法(修订征求意见稿)》面向社会公众征求意见及建议。其中，明确房地产中介服务机构不得提供中介服务的九种情形：一是未依法登记领取权属证书及其他合法权属证明的，或者房屋权属证书与标的物不符的;二是权属有争议的;三是司法机关和行政机关依法裁定、决定查封或者以其他形式限制房地产权利的;四是代理销售商品房未取得房屋预售许可证，或者不符合商品房销售其他条件的;五是未经过房源信息核验的;六是共有房产未经共有人书面同意或者代管房产无房屋所有权人书面授权的;七是双方当事人无合法有效身份证明的;八是双方当事人无合法有效身份证明的;九是有关法律法规和政策禁止提供中介服务的其他情形。（海南发布）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2707870.d.html</link>
-            <guid>2295416</guid>
-            <pubDate>Sat, 28 Aug 2021 10:37:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
