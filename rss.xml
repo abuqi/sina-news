@@ -4,11 +4,22 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 28 Aug 2021 16:33:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Aug 2021 17:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国墨西哥湾地区油气平台和炼化设施停产备战Ida飓风】美国墨西哥湾的石油天然气勘探开采企业和沿岸的炼化工厂纷纷停产，准备迎接飓风Ida。根据美国国家飓风中心的最新预测，飓风Ida将于下周初在新奥尔良附近登陆。根据安全与环境执法局的数据，截至周五，已有59%的原油产能（相当于大约106万桶/日）和49%的天然气产能关闭。密西西比河沿岸的炼化工厂，大约125万桶/日的炼化产能已经关闭或降低开工率。关闭油气产能的石油公司包括：英国石油、壳牌、挪威国家石油、必和必拓、墨菲石油、雪佛龙、埃克森美孚。炼化工厂停产或减产的公司包括：Phillips 66、埃克森美孚、壳牌、Marathon。另外，新奥尔良港预计将在周六关闭。]]></title>
+            <guid>2295639</guid>
+            <pubDate>Sat, 28 Aug 2021 17:21:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：荷兰皇家壳牌开始关闭位于美国路易斯安那州的Norco炼厂与化工厂。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2741824.d.html</link>
+            <guid>2295604</guid>
+            <pubDate>Sat, 28 Aug 2021 16:41:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[南非新增10173例新冠肺炎确诊病例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx0969010.d.html</link>
@@ -277,12 +288,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2707870.d.html</link>
             <guid>2295416</guid>
             <pubDate>Sat, 28 Aug 2021 10:37:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【嘉兴官方发布“真房源”系统遏制虚假房源】 8月26日，嘉兴市房管中心召开二手房交易服务平台“真房源”发布使用试点培训会。会上，嘉兴市房管中心工作人员介绍了关于二手房交易服务平台“真房源”推进工作的任务安排，要求试点经纪公司尽快完成平台开户申请，积极申报房源信息。待“真房源”系统正式上线后，所有通过中介成交的二手房都必须在二手房交易服务平台申请房源核验，核验通过获取房源统一编码及二维码后方可在网站发布委托出售的房源信息，消费者可以扫二维码实时查看房源真实信息。（每经网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2707351.d.html</link>
-            <guid>2295415</guid>
-            <pubDate>Sat, 28 Aug 2021 10:34:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
