@@ -4,11 +4,35 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 28 Aug 2021 15:23:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Aug 2021 16:33:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[南非新增10173例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx0969010.d.html</link>
+            <guid>2295593</guid>
+            <pubDate>Sat, 28 Aug 2021 16:16:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【证监会副主席最新发声，证券业发展方向明确】8月28日，在中国证券业协会成立30周年座谈会上，证监会副主席李超就证券业发展指出了方向。李超提出了“五个坚持”，坚持回归本源，提升服务实体经济能力；坚持严守底线，强化合规风控意识和实施；坚持行稳致远，加强行业文化和声誉建设；坚持强基固本，努力提升专业服务能力；坚持担当使命，发挥好自律服务传导作用。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx0967874.d.html</link>
+            <guid>2295592</guid>
+            <pubDate>Sat, 28 Aug 2021 16:03:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国总统马克龙：只要伊拉克政府提出要求，法国作为反恐行动的一份子，将会继续在伊拉克驻军。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0967503.d.html</link>
+            <guid>2295591</guid>
+            <pubDate>Sat, 28 Aug 2021 15:58:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【五角大楼：两名IS“高级别成员”在空袭中被击毙】法新社刚刚消息，五角大楼称，两名IS“高级别成员”在空袭中被击毙。据美联社此前消息，五角大楼当地时间27日称，美国在阿富汗对极端组织“伊斯兰国”（ISIS）分支“ISIS-K”的一名“策划者”实施了空袭打击，目标人物被击毙。报道称，据称此人参与了在喀布尔对美国发动袭击的计划。英国《卫报》称，一位不愿透露姓名的美国防部官员说，拜登授权了空袭行动，是国防部长奥斯汀下令进行的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0966011.d.html</link>
+            <guid>2295590</guid>
+            <pubDate>Sat, 28 Aug 2021 15:34:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[英国新增32406例新冠肺炎确诊病例，新增133例死亡病例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2735660.d.html</link>
@@ -259,18 +283,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2707351.d.html</link>
             <guid>2295415</guid>
             <pubDate>Sat, 28 Aug 2021 10:34:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[莫德納、日本武田药品联合声明：正在与日本厚劳省共同调查该事件。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0935610.d.html</link>
-            <guid>2295413</guid>
-            <pubDate>Sat, 28 Aug 2021 10:27:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【阿布扎比证交所削减交易费50% 并延长交易时间】阿联酋阿布扎比证券交易所（ADX）周六表示，自10月3日起，将交易手续费削减50%，并将交易时间延长一小时。阿布扎比证交所在声明中说，自9月1日起，交易手续费将从0.05%下调至0.025%，这是该交易所今年第二次下调交易手续费，也是三年内第三次下调交易手续费。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0934984.d.html</link>
-            <guid>2295410</guid>
-            <pubDate>Sat, 28 Aug 2021 10:22:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
