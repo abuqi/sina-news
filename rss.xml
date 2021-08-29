@@ -4,11 +4,29 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 29 Aug 2021 17:23:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Aug 2021 18:25:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国安全和环境执法局（BSEE）：美国海湾地区关闭了95.65%的原油产量（或174万桶/日）及93.75%的天然气产量（或2090.7百万立方英尺/日）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-30/detail-iktzqtyt2903125.d.html</link>
+            <guid>2296185</guid>
+            <pubDate>Sun, 29 Aug 2021 18:10:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：飓风“艾达”（Ida）的风眼正在朝着路易斯安那州东南部移动，该州部分地区将出现灾难性风暴潮与山洪爆发。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-30/detail-iktzqtyt2902130.d.html</link>
+            <guid>2296184</guid>
+            <pubDate>Sun, 29 Aug 2021 17:53:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国新增13630例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-30/detail-iktzscyx1131725.d.html</link>
+            <guid>2296183</guid>
+            <pubDate>Sun, 29 Aug 2021 17:52:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【阿富汗塔利班：女性有权接受教育，男女学生将被分开管理】据阿富汗当地媒体报道，29日，塔利班新任命的高等教育部代理部长阿卜杜勒·巴奇·哈卡尼（Abdul Baqi Haqqani）表示，在未来的教育计划中，女性将被允许上学，但男女学生将被分开管理。据阿富汗高等教育部负责人透露，阿富汗公立和私立大学将很快重新开放，并保证将为教职人员发放工资。（澎湃）]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-30/detail-iktzqtyt2899589.d.html</link>
@@ -265,29 +283,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2873068.d.html</link>
             <guid>2295921</guid>
             <pubDate>Sun, 29 Aug 2021 12:12:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新加坡总理李显龙：在抗疫斗争中“谨慎”、“渐进”地行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2873046.d.html</link>
-            <guid>2295920</guid>
-            <pubDate>Sun, 29 Aug 2021 12:12:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家安全顾问沙利文：美国将考虑针对ISIS-K（“伊斯兰国”极端组织分支“呼罗珊省”）的更多军事打击及其他行动。]]></title>
-            <guid>2295919</guid>
-            <pubDate>Sun, 29 Aug 2021 12:03:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【宁波港：上半年净利润22.5亿元 同比增长35%】宁波港发布半年报，上半年归属于母公司所有者的净利润22.5亿元，同比增长35.36%；营业收入108.64亿元，同比增长22.11%；基本每股收益0.14元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1101292.d.html</link>
-            <guid>2295918</guid>
-            <pubDate>Sun, 29 Aug 2021 12:00:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【网易云音乐：下线所有明星艺人榜单 对付费数字专辑及单曲进行限购】今日晚间，网易云音乐官方微博发布进一步加强“饭圈”乱象专项治理公告，称平台将下线所有明星艺人榜单，仅保留音乐作品相关排行；对所有付费数字专辑及单曲进行限购。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2870775.d.html</link>
-            <guid>2295917</guid>
-            <pubDate>Sun, 29 Aug 2021 11:53:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
