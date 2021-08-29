@@ -4,11 +4,59 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 29 Aug 2021 06:25:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Aug 2021 07:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国疾控中心：当地时间周六，美国新增至少57194例新冠肺炎确诊病例，新增至少554例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2828054.d.html</link>
+            <guid>2295826</guid>
+            <pubDate>Sun, 29 Aug 2021 07:18:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泰国新增新冠肺炎确诊病例16536例，累计确诊1174091例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2827556.d.html</link>
+            <guid>2295825</guid>
+            <pubDate>Sun, 29 Aug 2021 07:15:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿富汗塔利班：新的政府必须在阿富汗境内外都被接受并得到承认】当地时间8月29日，据阿富汗媒体报道，阿富汗塔利班政治办公室高级成员斯坦尼克扎伊表示，塔利班领导人以及不同团体和政党正在就组建一个包容性政府进行磋商，这个政府必须在阿富汗境内外都被接受并得到承认。他还说，新政府将包括来自不同阶层、各行各业的人。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1056674.d.html</link>
+            <guid>2295824</guid>
+            <pubDate>Sun, 29 Aug 2021 07:11:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[科威特石油部长：新冠病毒影响东亚等国家经济，必须谨慎行事。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2824543.d.html</link>
+            <guid>2295822</guid>
+            <pubDate>Sun, 29 Aug 2021 06:58:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[科威特石油部长称，欧佩克+可能会在下周三的会议上重新考虑上一次会议上同意的40万桶/日的增产选项。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2824373.d.html</link>
+            <guid>2295821</guid>
+            <pubDate>Sun, 29 Aug 2021 06:56:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：飓风“艾达”（Ida）继续加强，目前已升级至危险的4级飓风。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2823000.d.html</link>
+            <guid>2295818</guid>
+            <pubDate>Sun, 29 Aug 2021 06:47:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【机构前瞻下周三欧佩克+会议：随着市场趋于稳定 或按计划增产40万桶/日】原油的下一步走势将在很大程度上取决于欧佩克+在9月1日会议上的决定。此前由于油价下跌，市场猜测欧佩克+可能会冻结下一次的增产计划。随着市场趋于稳定，沙特及其伙伴国更有可能采取中间立场：按照最初的增产计划，再恢复40万桶/日的产能，并希望这足以在不脱轨的情况下有助于复苏。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2822958.d.html</link>
+            <guid>2295817</guid>
+            <pubDate>Sun, 29 Aug 2021 06:47:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北向资金加仓隆基股份 减持五粮液】本周北向资金连续五个交易日净流入，累计净流入179.97亿元，其中沪股通净流入134.31亿元，深股通净流入45.66亿元。本周北向资金对725只股票的持股数增加，对818只股票进行了减仓，其中对隆基股份加仓金额最大，对五粮液减仓金额最大。（中国证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1051004.d.html</link>
+            <guid>2295816</guid>
+            <pubDate>Sun, 29 Aug 2021 06:36:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【紫光国微：创新产品超级SIM卡已经实现了小批量出货】紫光国微 (002049)8月29日在互动平台表示，公司创新产品超级SIM卡正在市场推广过程中，目前已经实现了小批量出货，现有产能情况可以满足需求。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2818153.d.html</link>
@@ -198,84 +246,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1024527.d.html</link>
             <guid>2295776</guid>
             <pubDate>Sun, 29 Aug 2021 03:18:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息，原定封锁到本周四的墨尔本29日通报新增92例新冠确诊病例。墨尔本是维多利亚州首府，该州州长安德鲁斯说，当地社区病例仍居高不下，因此暂时无法解封，他没有透露此次封锁将持续多久。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1023332.d.html</link>
-            <guid>2295774</guid>
-            <pubDate>Sun, 29 Aug 2021 03:09:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场数据显示，截至8月27日晚间，有44艘集装箱船停泊在洛杉矶和加利福尼亚长滩两个港口外，打破了今年2月初创下的40艘的记录。目前，船只平均等待时间正在从8月中旬的6.2天上升至7.6天。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2793655.d.html</link>
-            <guid>2295773</guid>
-            <pubDate>Sun, 29 Aug 2021 03:06:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[塔利班官员：塔利班的技术专家团队、高素质工程师已经准备好接手塔利班机场的工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2792893.d.html</link>
-            <guid>2295772</guid>
-            <pubDate>Sun, 29 Aug 2021 03:01:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：热带风暴“诺拉”（Nora）在贾利斯科和纳亚里特海岸造成大量降雨，暴雨和强风将向北蔓延。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2792814.d.html</link>
-            <guid>2295771</guid>
-            <pubDate>Sun, 29 Aug 2021 03:01:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马斯克对英伟达收购英国芯片商Arm的计划表示担忧】据英国《每日电讯报》报道，多个消息来源称，特斯拉CEO马斯克对英伟达收购英国芯片设计商Arm的计划表达了竞争方面的担忧。据报道，亚马逊和三星电子也向美国当局提出反对这笔交易。知情人士表示，英伟达很可能在下月初为540亿美元收购Arm的交易寻求欧盟的反垄断批准，预计监管机构将在初步审查后启动全面调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2792754.d.html</link>
-            <guid>2295770</guid>
-            <pubDate>Sun, 29 Aug 2021 03:00:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[塔利班官员：塔利班和美国希望迅速移交喀布尔机场。 正在等待美国方面的最后同意，以确保完全控制喀布尔机场。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1021807.d.html</link>
-            <guid>2295769</guid>
-            <pubDate>Sun, 29 Aug 2021 02:58:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【塔利班谴责美国发动无人机袭击：这是对阿富汗领土的明确攻击】美军周六对参与策划喀布尔机场袭击的“伊斯兰国”极端组织激进分子进行空袭，塔利班对此谴责，并表示袭击之前美国并未通知塔利班。塔利班发言人称，此次行动是“对阿富汗领土的明显袭击”。该名发言人补充称，袭击造成两人死亡，两名妇女和一名儿童受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1021704.d.html</link>
-            <guid>2295768</guid>
-            <pubDate>Sun, 29 Aug 2021 02:57:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息，美国官员透露，美国总统拜登计划在下周二之前从喀布尔撤出美国大使和外交官。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2789099.d.html</link>
-            <guid>2295767</guid>
-            <pubDate>Sun, 29 Aug 2021 02:37:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳重新发布第二批次居住用地集中挂牌出让公告：强化“房地联动” 进一步下调住房销售限价】今日，深圳市重新发布了2021年第二批住宅用地集中出让公告(深土交告〔2021〕38号、39号、40号、41号、42号、43号)，涉及的出让地块不变，共22宗，总用地面积约83.4公顷。此次公告主要作了以下调整优化：一是调整竞买人资质条件和准入要求，健全市场准入机制。二是优化土地竞价方式，合理限定土地溢价。三是强化“房地联动”，进一步下调住房销售限价。本批次用地普通商品住房销售限价在原限价基础上下调3%-9.2%不等，安居型商品房销售限价在原限价基础上下调2.8%-9.1%不等，通过价格引导进一步稳定市场购房预期。四是严格落实购地资金审查机制，确保房地产开发企业使用合规自有资金购地。五是强化企业信用约束。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1018269.d.html</link>
-            <guid>2295766</guid>
-            <pubDate>Sun, 29 Aug 2021 02:37:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国疾控机构罗伯特·科赫研究所：德国新增8416例新冠肺炎确诊病例，累计达3932547例，新增死亡病例12例，累计达92130例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2787618.d.html</link>
-            <guid>2295765</guid>
-            <pubDate>Sun, 29 Aug 2021 02:30:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息，七国集团、土耳其以及卡塔尔将于下周一讨论喀布尔机场的未来运作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2786258.d.html</link>
-            <guid>2295764</guid>
-            <pubDate>Sun, 29 Aug 2021 02:21:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【服贸会9月在京开幕 建筑专题将首次独立亮相】2021年中国国际服务贸易交易会将于9月2日在北京开幕，本届服贸会将举办“2021年中国电子商务大会”、“服务贸易开放发展新趋势”等五场高峰论坛。 作为本次服贸会八个专题展之一，工程咨询与建筑服务首次作为独立专题将于9月3日至7日在北京首钢园区亮相。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1014713.d.html</link>
-            <guid>2295763</guid>
-            <pubDate>Sun, 29 Aug 2021 02:16:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【新增住房供应3.8亿平米 浙江全力打造“浙里安居”品牌】近日，浙江省城乡住房工作协调委员会办公室印发《关于推进高质量发展建设共同富裕示范区打造“浙里安居”品牌的实施意见》。实施意见》明确，到2025年，政府投资公租房（含租赁补贴）保障家庭达到21万户以上，开工棚改安置住房（含货币化安置）13万套，改造城镇老旧小区3000个以上，城镇住房保障受益覆盖率达到23%。新增住宅用地供应30万亩，新增住房供应3.8亿平方米，住房公积金支持消费11500亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1014689.d.html</link>
-            <guid>2295762</guid>
-            <pubDate>Sun, 29 Aug 2021 02:16:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
