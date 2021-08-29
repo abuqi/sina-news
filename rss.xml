@@ -4,11 +4,47 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 29 Aug 2021 16:33:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Aug 2021 17:23:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【阿富汗塔利班：女性有权接受教育，男女学生将被分开管理】据阿富汗当地媒体报道，29日，塔利班新任命的高等教育部代理部长阿卜杜勒·巴奇·哈卡尼（Abdul Baqi Haqqani）表示，在未来的教育计划中，女性将被允许上学，但男女学生将被分开管理。据阿富汗高等教育部负责人透露，阿富汗公立和私立大学将很快重新开放，并保证将为教职人员发放工资。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-30/detail-iktzqtyt2899589.d.html</link>
+            <guid>2296160</guid>
+            <pubDate>Sun, 29 Aug 2021 17:15:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国路易斯安那州新奥尔良市宣布暂停一切紧急服务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-30/detail-iktzqtyt2898903.d.html</link>
+            <guid>2296153</guid>
+            <pubDate>Sun, 29 Aug 2021 17:09:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[飓风“艾达”（Ida）在美国路易斯安那州登陆，风力强度高于飓风“卡特里娜”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-30/detail-iktzqtyt2898175.d.html</link>
+            <guid>2296137</guid>
+            <pubDate>Sun, 29 Aug 2021 16:58:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南非新增7704例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-30/detail-iktzscyx1127514.d.html</link>
+            <guid>2296132</guid>
+            <pubDate>Sun, 29 Aug 2021 16:54:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据国际奥委会官网当地时间29日消息，前国际奥委会主席雅克·罗格去世，享年79岁。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-30/detail-iktzqtyt2896734.d.html</link>
+            <guid>2296117</guid>
+            <pubDate>Sun, 29 Aug 2021 16:39:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“三桶油”创近七年最好“中考”成绩】随着8月29日晚间中国石化发布2021年中期业绩报告，中国三大石油公司（简称“三桶油”）上半年成绩单全部出炉。中国石油、中国石化一举扭亏，中国海油净利润同比大增221%。据计算，2021年上半年“三桶油”合计实现净利润1263.2亿元，创近七年以来同期最好水平。值得注意的是，在“碳达峰”“碳中和”目标下，“三桶油”瞄准“绿色低碳”赛道进行转型升级，下半年将加码新能源等业务。（经济参考报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-30/detail-iktzscyx1126176.d.html</link>
+            <guid>2296116</guid>
+            <pubDate>Sun, 29 Aug 2021 16:37:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【海通证券：牛市大格局未变，将以普涨实现收敛】① 年度视角下，今年A股目前的分化程度无论是从行业、个股还是基金的维度看都已经来到了历史前列，而根据历史规律，分化最终都将走向收敛。那么往后看，目前较为极致的市场分化将以何种路径实现收敛？站在当前时点看，本轮牛市大格局未变，而历史经验显示，随着牛市到了后期，此前强势和弱势的行业均会有所表现，即牛市将以众乐乐实现收敛；② 当前A股分化程度居历史前列，今年宏观背景类似2010年，流动性更优，但个股与行业表现的离散度已经高于10年。牛熊市分化的收敛方式不同，05-07年、13-15年牛市后期，通过普涨的方式降低离散度。宏微观基本面和统计规律看，市场具备机会，兼顾智能制造和传统中下游制造，并注意洼地行业，如券商等。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-30/detail-iktzscyx1125029.d.html</link>
@@ -252,36 +288,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2870775.d.html</link>
             <guid>2295917</guid>
             <pubDate>Sun, 29 Aug 2021 11:53:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[越南新增12663例新冠肺炎确诊病例，新增344例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2869950.d.html</link>
-            <guid>2295915</guid>
-            <pubDate>Sun, 29 Aug 2021 11:45:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：热带风暴“诺拉”（Nora）已非常接近墨西哥中西部海岸，并继续带来大雨和洪水。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1099275.d.html</link>
-            <guid>2295913</guid>
-            <pubDate>Sun, 29 Aug 2021 11:41:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国华融：将继续停牌，等待进一步通知。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2869253.d.html</link>
-            <guid>2295912</guid>
-            <pubDate>Sun, 29 Aug 2021 11:39:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国华融：2021年上半年净利润为1.58亿元，上年同期为2.1亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1097231.d.html</link>
-            <guid>2295911</guid>
-            <pubDate>Sun, 29 Aug 2021 11:24:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国华融：2020年净亏损1029.03亿元，2019年盈利14.24亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2867265.d.html</link>
-            <guid>2295910</guid>
-            <pubDate>Sun, 29 Aug 2021 11:22:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
