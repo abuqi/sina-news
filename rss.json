@@ -6,6 +6,83 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 2299828,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3534496.d.html",
+            "title": "【8月新成立基金200只，创单月新高】8月份新发基金数量达200只，创历史单月新高，但发行总规模与7月份基本持平。整体来看，股票型基金的发行份额从6月开始下降，而混合型基金的发行份额从5月开始持续增长。此外，爆款产品骤减。业内人士表示，下半年以来，板块轮动加速，市场震荡加剧，导致新基金发行冷热不均现象显著（证券时报）",
+            "date_modified": "2021-09-01T21:14:01.000Z"
+        },
+        {
+            "id": 2299827,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-09-02/detail-iktzscyx1765279.d.html",
+            "title": "巴西新增27345例新冠肺炎确诊病例，新增737例死亡病例。",
+            "date_modified": "2021-09-01T21:06:57.000Z"
+        },
+        {
+            "id": 2299826,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-09-02/detail-iktzscyx1765155.d.html",
+            "title": "市场消息：美国联邦航空管理局（FAA）局调查维珍银河在七月的飞行失误。",
+            "date_modified": "2021-09-01T21:04:48.000Z"
+        },
+        {
+            "id": 2299824,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-09-02/detail-iktzscyx1764782.d.html",
+            "title": "瑞幸咖啡：把重组支持协议（RSA）里的两项里程碑，即向开曼法院提交请愿书批准RSA计划，以及就该计划召开相关债权人的会议指示的最后期限延长至9月22日。",
+            "date_modified": "2021-09-01T20:56:33.000Z"
+        },
+        {
+            "id": 2299823,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3533323.d.html",
+            "title": "【美国司法部针对谷歌公司广告科技业务的反垄断诉状准备就绪】这将是谷歌在美国本土面临的第二宗反垄断指控。司法部一直在审查谷歌与Facebook的协议，谷歌目前正与司法部围绕网页搜索对簿公堂。谷歌A美股盘后跌超0.2%。",
+            "date_modified": "2021-09-01T20:47:47.000Z"
+        },
+        {
+            "id": 2299822,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-09-02/detail-iktzscyx1764358.d.html",
+            "title": "据产业数据公司WARDS INTELLIGENCE：美国8月份轻型汽车销量为110万辆。",
+            "date_modified": "2021-09-01T20:45:16.000Z"
+        },
+        {
+            "id": 2299821,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-09-02/detail-iktzscyx1764347.d.html",
+            "title": "  美国芝加哥商业交易所（CME）：降低木材、玉米、豆油和豆粕期货的保证金，周四收盘后生效。",
+            "date_modified": "2021-09-01T20:44:53.000Z"
+        },
+        {
+            "id": 2299820,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3533002.d.html",
+            "title": "美国国家飓风中心：风暴“拉里”正在迅速增强，预计将在今晚发展成为飓风。",
+            "date_modified": "2021-09-01T20:38:13.000Z"
+        },
+        {
+            "id": 2299818,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3532654.d.html",
+            "title": "  美股行业ETF涨跌各异，能源业ETF跌超1.4%，银行业ETF跌超0.7%，区域银行ETF跌超0.6%，金融业ETF跌超0.5%，公用事业ETF涨超1.3%，日常消费品ETF涨超0.5%，网络股指数ETF涨约0.4%。",
+            "date_modified": "2021-09-01T20:30:24.000Z"
+        },
+        {
+            "id": 2299817,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-09-02/detail-iktzscyx1763615.d.html",
+            "title": "  美国考虑实行配额制度以结束欧盟在钢铁关税问题上的争端。",
+            "date_modified": "2021-09-01T20:25:17.000Z"
+        },
+        {
+            "id": 2299816,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3532417.d.html",
+            "title": "  C3.ai(AI.N)盘后跌超7%，第一财季净亏损3745.9万美元，同比扭盈为亏。",
+            "date_modified": "2021-09-01T20:23:37.000Z"
+        },
+        {
             "id": 2299815,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3532305.d.html",
@@ -241,83 +318,6 @@
             "url": "https://finance.sina.cn/7x24/2021-09-02/detail-iktzscyx1755182.d.html",
             "title": "  Robinhood(HOOD.O)涨幅扩大至5%，报46.6美元。",
             "date_modified": "2021-09-01T17:46:05.000Z"
-        },
-        {
-            "id": 2299778,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-09-02/detail-iktzscyx1755174.d.html",
-            "title": "  市场消息：Robinhood(HOOD.O)计划推出早期存款功能，与Paypal(PYPL.O)和银行相抗衡。",
-            "date_modified": "2021-09-01T17:46:01.000Z"
-        },
-        {
-            "id": 2299777,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3523643.d.html",
-            "title": "加密货币公司Coinpass表示，已被英国金融行为监管局批准注册为加密货币资管公司。",
-            "date_modified": "2021-09-01T17:41:43.000Z"
-        },
-        {
-            "id": 2299776,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3523334.d.html",
-            "title": "俄罗斯副总理诺瓦克：今年全球石油需求将恢复600万桶/日。",
-            "date_modified": "2021-09-01T17:36:50.000Z"
-        },
-        {
-            "id": 2299774,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3523229.d.html",
-            "title": "俄罗斯副总理诺瓦克：俄罗斯负责任地遵守了欧佩克+协议。",
-            "date_modified": "2021-09-01T17:35:29.000Z"
-        },
-        {
-            "id": 2299773,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3523224.d.html",
-            "title": "俄罗斯副总理诺瓦克：欧佩克+ 7月的（减产）执行率为109％。",
-            "date_modified": "2021-09-01T17:35:23.000Z"
-        },
-        {
-            "id": 2299771,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-09-02/detail-iktzscyx1754021.d.html",
-            "title": "瑞银：预计布伦特原油价格今年将再次达到75美元/桶。",
-            "date_modified": "2021-09-01T17:29:08.000Z"
-        },
-        {
-            "id": 2299770,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-09-02/detail-iktzscyx1753670.d.html",
-            "title": "  市场消息：美国证券交易委员会已对Workhorse(WKHS.O)展开调查。",
-            "date_modified": "2021-09-01T17:24:15.000Z"
-        },
-        {
-            "id": 2299769,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3522427.d.html",
-            "title": "  Workhorse(WKHS.O)跳水，现跌超5%，此前一度涨超7%。",
-            "date_modified": "2021-09-01T17:24:10.000Z"
-        },
-        {
-            "id": 2299768,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-09-02/detail-iktzscyx1753415.d.html",
-            "title": "瑞银：预计今年晚些时候石油需求将超过9900万桶/日，石油库存将进一步下降。",
-            "date_modified": "2021-09-01T17:20:50.000Z"
-        },
-        {
-            "id": 2299767,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3522112.d.html",
-            "title": "【花旗空头策略师承认失算，但坚定看跌美股】 尽管标普500指数已经将他对股市今明两年的预测远远甩在身后，但花旗集团的首席美国股票策略师仍在坚持华尔街最看跌的股市预测之一。Tobias Levkovich承认自己犯了“重大”错误，但依然坚持他的预测：标普500指数今年收在4,000点，明年6月达到4,350点。这两个点位均低于周二收盘（4,522.68点）。支撑Levkovich谨慎观点的理由包括估值过高和计划加税（这将损害企业利润）。标普500指数的预期市盈率达到21倍，接近互联网泡沫时代以来的最高水平。",
-            "date_modified": "2021-09-01T17:20:06.000Z"
-        },
-        {
-            "id": 2299766,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-09-02/detail-iktzqtyt3522085.d.html",
-            "title": "瑞银：由于石油需求会继续上升，预计石油市场将继续供不应求，从而支撑油价。",
-            "date_modified": "2021-09-01T17:19:47.000Z"
         }
     ]
 }
