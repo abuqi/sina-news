@@ -4,11 +4,46 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 04 Sep 2021 20:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Sep 2021 21:18:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【伊朗总统：过去二十年美国在阿富汗的存在侵犯了阿富汗人民的权利】当地时间9月4日晚，伊朗总统莱希表示，阿富汗问题说明美国在其他国家和地区的存在不仅不会带来安全，反而破坏了该地区的安全。过去二十年来阿富汗的情况清楚地表明，美国的存在侵犯了阿富汗人民的权利，美国的一些行为违反人权。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzscyx2341843.d.html</link>
+            <guid>2302597</guid>
+            <pubDate>Sat, 04 Sep 2021 21:17:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：飓风“拉里”目前位于背风群岛以东约970英里处（1560公里）；最大持续风速125英里/小时（205公里/小时）。]]></title>
+            <guid>2302596</guid>
+            <pubDate>Sat, 04 Sep 2021 20:55:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【飓风“艾达”过境墨西哥湾后，清理船只出动清理油污】据媒体消息，美国海岸警卫队表示，清理人员正在对飓风“艾达”造成的墨西哥湾大规模石油泄漏作出反应。目前发生泄漏的源头可能来自于美国路易斯安那州Fourchon港以南约3公里的海上钻井平台的下方，航拍照片显示，该海域附近有棕色和黑色的浮油，长达数英里。海岸警卫队发言人称，污染源来自塔洛斯能源公司（Talos）的海底管道的原油。该公司称，已经派出了2艘应急船前往现场回收石油，另一艘船也将前往现场确定泄漏的源头。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4108990.d.html</link>
+            <guid>2302595</guid>
+            <pubDate>Sat, 04 Sep 2021 20:42:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国内政部长：有犯罪分子通过撤离行动来到德国】据德国媒体当地时间9月4日报道，德国内政部长泽霍费尔证实，多名在警方留有记录的阿富汗人通过喀布尔撤离行动来到德国。按照泽霍费尔的说法，其中有20人此前就受到了德国安全部门的关注。这20人涉及的案件包括强奸和伪造文件，其中4人在多年前被德国遣返阿富汗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4108796.d.html</link>
+            <guid>2302594</guid>
+            <pubDate>Sat, 04 Sep 2021 20:36:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国路易斯安那州州长：飓风“艾达”造成的死亡人数已经增至12人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzscyx2340380.d.html</link>
+            <guid>2302593</guid>
+            <pubDate>Sat, 04 Sep 2021 20:31:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【内华达州的特斯拉超级工厂生产了第100万个电池组】据Drive Tesla，美国社交论坛Reddit上的一张照片显示，内华达州的超级工厂生产了第100万个电池组，考虑到该工厂面临的挑战，这对特斯拉和松下来说都是一个重大时刻。虽然这家工厂不生产汽车，但它对特斯拉扩张计划的成功是不可或缺的。内华达超级工厂的设立是一场赌注，当时有很多人持保留态度，因电池价格昂贵。然而，特斯拉通过内部电池供应，继续以创纪录的速度推出Model 3和Model Y。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzscyx2340130.d.html</link>
+            <guid>2302592</guid>
+            <pubDate>Sat, 04 Sep 2021 20:22:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  中国地震台网正式测定：09月05日04时03分在四川阿坝州九寨沟县（北纬33.12度，东经103.89度）发生3.2级地震，震源深度26千米。]]></title>
             <guid>2302591</guid>
@@ -244,42 +279,6 @@
             <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4094246.d.html</link>
             <guid>2302548</guid>
             <pubDate>Sat, 04 Sep 2021 16:16:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【小米妙播开启大范围公测 已搭载30款机型】小米妙播已经内置于9月3日的MIUI开发版，适配了30款机型。这一功能集成了全新的控制组件，可以让音乐在多个设备之间切换流转，此外还支持使用WiFi传输音频，实现更高的音质。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4093979.d.html</link>
-            <guid>2302547</guid>
-            <pubDate>Sat, 04 Sep 2021 16:12:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【关于就业，三部门发话 用人单位如涉嫌就业性别歧视将被约谈】为贯彻落实党中央、国务院“稳就业”“保就业”决策部署，支持促进高校毕业生就业创业，近日，全国妇联、教育部、人力资源和社会保障部联合印发《关于做好女性高校毕业生就业创业工作的通知》，要求共同推进女性高校毕业生就业创业工作，完善对女性高校毕业生就业创业的支持举措，促进女性高校毕业生更加充分更高质量就业。要强化市场监管，畅通投诉举报渠道，对反映涉及就业性别歧视的问题及时核查处理，对涉嫌就业性别歧视的用人单位实施联合约谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzscyx2325892.d.html</link>
-            <guid>2302546</guid>
-            <pubDate>Sat, 04 Sep 2021 16:10:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国纽约州新增5030例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4093660.d.html</link>
-            <guid>2302545</guid>
-            <pubDate>Sat, 04 Sep 2021 16:09:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟经济专员反对央行过早收紧 提醒勿重犯十几年前的“大错”】欧盟经济事务专员Paolo Gentiloni表示，过早收紧欧元区货币政策会犯下“大错”。“我们正在监测欧元区通胀状况--我们应该非常准确地进行监测--但不要过早得出结论，” Gentiloni在意大利切尔诺比奥举行的Ambrosetti论坛期间表示说，“我认为那会是一个大错，因为主流共识是目前的通胀仍然是一种暂时现象。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4092786.d.html</link>
-            <guid>2302544</guid>
-            <pubDate>Sat, 04 Sep 2021 16:00:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：利比亚国家石油公司将吸收东部分支的员工。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt4092446.d.html</link>
-            <guid>2302543</guid>
-            <pubDate>Sat, 04 Sep 2021 15:53:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广州：小学教材有异味 整批次回收更换】近日，广州有部分学生家长在网络上表示孩子新学期发的英语课本有刺鼻的味道，还有家长发出晾晒英语课本的照片。广州市教育局4日做出回应称，相关英语教材将全部回收更换，原版数字教材同步上线。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2324408.d.html</link>
-            <guid>2302542</guid>
-            <pubDate>Sat, 04 Sep 2021 15:51:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
