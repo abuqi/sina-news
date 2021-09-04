@@ -4,11 +4,22 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 04 Sep 2021 21:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Sep 2021 22:21:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【伊朗总统莱希：伊核协议谈判已提上日程 人民的利益一步也不会让】当地时间9月4日晚，在就任之后的首次电视讲话中，伊朗总统莱希表示，伊核协议谈判已提上日程，但谈判不能在压力下进行。他强调，欧美寻求的是谈判与压力同步，但伊朗不会接受任何威胁和恐吓性质的谈判。莱希称，伊朗参与对话的目的是解除压迫性制裁，对话的核心是维护伊朗人民利益。关于伊朗人民的利益，一步也不会退让。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzscyx2342499.d.html</link>
+            <guid>2302599</guid>
+            <pubDate>Sat, 04 Sep 2021 21:35:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国地震台网正式测定：09月05日05时13分在新疆和田地区皮山县（北纬37.73度，东经77.81度）发生3.4级地震，震源深度25千米。]]></title>
+            <guid>2302598</guid>
+            <pubDate>Sat, 04 Sep 2021 21:29:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【伊朗总统：过去二十年美国在阿富汗的存在侵犯了阿富汗人民的权利】当地时间9月4日晚，伊朗总统莱希表示，阿富汗问题说明美国在其他国家和地区的存在不仅不会带来安全，反而破坏了该地区的安全。过去二十年来阿富汗的情况清楚地表明，美国的存在侵犯了阿富汗人民的权利，美国的一些行为违反人权。]]></title>
             <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzscyx2341843.d.html</link>
@@ -261,24 +272,6 @@
             <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzscyx2327358.d.html</link>
             <guid>2302551</guid>
             <pubDate>Sat, 04 Sep 2021 16:27:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【投资圈刷屏 量化“收割”A股50%交易量？】一则“量化交易贡献A股一半交易量”消息刷屏，让不少投资人恐慌，甚至有的指出量化是AI收割机，主观投资会被收割。多家头部量化机构及券商表示，数据完全失真。从长期来看，量化投资并不会影响主观投资。目前已有多家头部量化私募出手封盘，以保护超额收益。（中国基金报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzscyx2327356.d.html</link>
-            <guid>2302550</guid>
-            <pubDate>Sat, 04 Sep 2021 16:27:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港出现首例野猪感染非洲猪瘟病毒个案】据香港特区政府渔农自然护理署(渔护署)介绍，在本地野猪非洲猪瘟监测计划下，日前一具野猪尸体样本检测出非洲猪瘟病毒，为香港首例野猪感染非洲猪瘟病毒个案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzscyx2327226.d.html</link>
-            <guid>2302549</guid>
-            <pubDate>Sat, 04 Sep 2021 16:26:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：意大利和欧盟就保护超级跑车制造商免受发动机禁令的影响进行谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4094246.d.html</link>
-            <guid>2302548</guid>
-            <pubDate>Sat, 04 Sep 2021 16:16:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
