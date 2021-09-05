@@ -4,11 +4,65 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 05 Sep 2021 18:25:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Sep 2021 19:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[消息人士称，占据阿富汗潘杰希尔的反塔利班力量的发言人Fahim Dashti在和塔利班的战斗中身亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-06/detail-iktzqtyt4260061.d.html</link>
+            <guid>2302877</guid>
+            <pubDate>Sun, 05 Sep 2021 19:12:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其预计该国2021年经常账户赤字与GDP之比为2.6%，2022年为2.2%，2023年为1.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-06/detail-iktzscyx2492454.d.html</link>
+            <guid>2302876</guid>
+            <pubDate>Sun, 05 Sep 2021 19:08:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其预计该国到2021年底的通胀率为16.2%，到2022年底的通胀率为9.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-06/detail-iktzqtyt4259418.d.html</link>
+            <guid>2302875</guid>
+            <pubDate>Sun, 05 Sep 2021 19:00:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其发布2022-2024中期计划，计划预计土耳其2021年GDP增速为9%，2022年为5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-06/detail-iktzscyx2491854.d.html</link>
+            <guid>2302874</guid>
+            <pubDate>Sun, 05 Sep 2021 18:56:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：非洲联盟谴责发生在几内亚的军事政变，要求立即释放被扣押的几内亚总统。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-06/detail-iktzqtyt4259220.d.html</link>
+            <guid>2302873</guid>
+            <pubDate>Sun, 05 Sep 2021 18:55:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[大众汽车首席执行官：对与自动驾驶软件初创公司Argo AI的合作非常满意。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-06/detail-iktzscyx2491312.d.html</link>
+            <guid>2302872</guid>
+            <pubDate>Sun, 05 Sep 2021 18:44:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国能源公司安特吉：美国路易斯安那州因风暴失去电力的90多万客户中，有34.9万人已经得到供电。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-06/detail-iktzqtyt4258646.d.html</link>
+            <guid>2302871</guid>
+            <pubDate>Sun, 05 Sep 2021 18:43:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【罗马尼亚已安排与该国有关联的156名阿富汗人撤离】据罗马尼亚外交部9月5日通报，当天上午，80名阿富汗人成功通过陆路从阿富汗撤离到巴基斯坦，包括罗马尼亚军队在阿的合作者，以及在罗马尼亚获得奖学金的阿富汗学生等。罗马尼亚驻伊斯兰堡使馆向此80人发放了签证。截至目前，罗马尼亚共计帮助撤离156名阿富汗人。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-06/detail-iktzqtyt4258360.d.html</link>
+            <guid>2302870</guid>
+            <pubDate>Sun, 05 Sep 2021 18:37:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Kitco：华尔街分析师和普通投资者都看涨黄金】在经历了一个漫长的平静夏季之后，黄金市场开始出现一些看涨势头。贵金属网站Kitco本周的调查结果显示，华尔街分析师和普通投资者都预计金价会上涨。接受调查的15位华尔街分析师中，有10位看涨金价，2位看跌，3位持中性看法。637位受访普通投资者中，416位看涨，118位看跌，103位持中立态度。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-06/detail-iktzscyx2490898.d.html</link>
+            <guid>2302869</guid>
+            <pubDate>Sun, 05 Sep 2021 18:36:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[大众汽车首席执行官：到2030年，我们85%的业务仍将是汽车，15%为出行服务。]]></title>
             <link>https://finance.sina.cn/7x24/2021-09-06/detail-iktzqtyt4257650.d.html</link>
@@ -212,54 +266,6 @@
             <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4244460.d.html</link>
             <guid>2302822</guid>
             <pubDate>Sun, 05 Sep 2021 15:13:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：09月05日22时58分在青海海东市平安区发生2.4级地震，震源深度10千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzscyx2476628.d.html</link>
-            <guid>2302821</guid>
-            <pubDate>Sun, 05 Sep 2021 15:10:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国新增68例新冠肺炎死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzscyx2476486.d.html</link>
-            <guid>2302820</guid>
-            <pubDate>Sun, 05 Sep 2021 15:08:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[腾讯：99公益日启动了“共同富裕”主题日专场，截至今日18时，共有473万人次捐出2.7亿元，加上腾讯基金会1.6亿元配捐，共计4.3亿元善款。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4243973.d.html</link>
-            <guid>2302819</guid>
-            <pubDate>Sun, 05 Sep 2021 15:06:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿富汗塔利班：将很快成立新政府】阿富汗塔利班文化委员会成员阿纳穆拉·萨曼贾尼5日表示，塔利班将很快成立新政府。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4243959.d.html</link>
-            <guid>2302818</guid>
-            <pubDate>Sun, 05 Sep 2021 15:06:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【开源证券：煤企有望量价两端均获支撑 持续看好煤炭股估值提升】开源证券最新研报指出，动力煤价短期内或回归理性，但难见深跌，有望在较高位置过渡至冬季旺季。双焦方面，本周价格持续强势上涨，本周山西煤矿事故加剧紧供给，催化焦煤价格涨势延续，焦炭在成本端推动下连续提涨，下游低库存压力或支撑双焦价格短期内偏强运行。总体来看下半年高景气度不改，考虑到保供放量及煤价强势，煤企有望量价两端均获支撑，看好下半年业绩进一步改善，持续看好煤炭股估值提升。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4243700.d.html</link>
-            <guid>2302816</guid>
-            <pubDate>Sun, 05 Sep 2021 15:03:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：伊朗总统莱希和法国总统马克龙在通话中讨论了核谈判问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzscyx2476102.d.html</link>
-            <guid>2302815</guid>
-            <pubDate>Sun, 05 Sep 2021 15:03:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国新增37011例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4243676.d.html</link>
-            <guid>2302814</guid>
-            <pubDate>Sun, 05 Sep 2021 15:03:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  意大利9月5日新增5315例新冠肺炎病例，新增49例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-05/detail-iktzqtyt4243336.d.html</link>
-            <guid>2302812</guid>
-            <pubDate>Sun, 05 Sep 2021 14:57:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
