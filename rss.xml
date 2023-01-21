@@ -4,11 +4,16 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 21 Jan 2023 12:32:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Jan 2023 13:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[荷兰国际银行：对欧元兑瑞典克朗适度看跌，预计该货币对在2023年第三季度之前将跌至10.5水平下方，然后在第四季度反弹。]]></title>
+            <guid>2953580</guid>
+            <pubDate>Sat, 21 Jan 2023 13:14:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【黄金“越贵越买” 导购员：20天卖了一个季度的量】消费热情回暖背后，黄金价格也在持续反弹，市场呈现出一种“越贵越买”的现象。从国际金价看，1月20日，COMEX黄金期货暂报收于1945.5美元/盎司，盘中触及1955.5美元/盎司，刷新近9个月新高。国内市场方面，A股贵金属板块当日整体涨幅4.41%，其中11只股票全部上涨。经过对数家门店的询问，记者发现，与其他消费品不同，今年的黄金饰品优惠力度不大，有的甚至没有优惠。一家小型的金店售货员王女士称，由于黄金价格持续上涨，每天价格都会有所调整，今天不买的话，没准明天就又要提价了。（华夏时报）]]></title>
             <link>https://finance.sina.cn/7x24/2023-01-21/detail-imyaycmi5368534.d.html</link>
@@ -237,18 +242,6 @@
             <link>https://finance.sina.cn/7x24/2023-01-21/detail-imyaxnpt2247728.d.html</link>
             <guid>2953529</guid>
             <pubDate>Sat, 21 Jan 2023 05:56:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新加坡总理李显龙：2023年新加坡经济可能增长放缓，不过预计可以避免经济衰退。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-21/detail-imyaxnpt2243814.d.html</link>
-            <guid>2953528</guid>
-            <pubDate>Sat, 21 Jan 2023 05:52:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【沃尔玛建立电子商务网站瞄准中小型企业】沃尔玛公司通过为日常消费者提供服务而成为全球最大的零售商，现在该公司正建立一个面向中小企业的电子商务网站，瞄准更大份额的客户。负责该项目的高级副总裁阿什利·胡布卡(Ashley Hubka)表示，这项名为“沃尔玛商业”(Walmart Business)的计划旨在为办公用品、家具、食品和电子产品提供一站式商店。沃尔玛还推出了一项商业会员计划，将帮助消费者节省开支。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-21/detail-imyaxnpt2243046.d.html</link>
-            <guid>2953527</guid>
-            <pubDate>Sat, 21 Jan 2023 05:50:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
