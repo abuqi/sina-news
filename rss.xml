@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 22 Jan 2023 18:21:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Jan 2023 19:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美媒：白宫办公厅主任拟数周内离职】美国媒体21日披露，白宫办公厅主任罗恩·克莱因打算数周内离职。媒体援引消息人士的话报道克莱因打算离职的消息。去年11月初美国中期选举结束以来，克莱因一直向同事透露卸任的想法，克莱因可能在总统约瑟夫·拜登于2月7日发表国情咨文后离职。（新京报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-23/detail-imycccpx4884386.d.html</link>
+            <guid>2954078</guid>
+            <pubDate>Sun, 22 Jan 2023 18:57:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【春节出境游火爆，泰国预订量猛增近20倍】1月20日，文旅部发布通知，宣布自2023年2月6日起，试点恢复全国旅行社及在线旅游企业经营中国公民赴有关国家出境团队旅游和“机票+酒店”业务。国家名单包括泰国、印度尼西亚、柬埔寨、马尔代夫、斯里兰卡、菲律宾、马来西亚、新加坡、老挝、阿联酋、埃及、肯尼亚、南非、俄罗斯、瑞士、匈牙利、新西兰、斐济、古巴、阿根廷。消息一出，浙江各大出境组团社一片欢腾，连夜上架跟团游产品，部分线路的首发团瞬间“客满”。（每日经济新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2023-01-23/detail-imycaxhc1762368.d.html</link>
@@ -273,12 +279,6 @@
             <link>https://finance.sina.cn/7x24/2023-01-22/detail-imycahki5005430.d.html</link>
             <guid>2953928</guid>
             <pubDate>Sun, 22 Jan 2023 09:30:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度斯坦石油公司高管表示，将在2个月内完成500万吨/年西海岸液化天然气接收站。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-22/detail-imycahki5005070.d.html</link>
-            <guid>2953927</guid>
-            <pubDate>Sun, 22 Jan 2023 09:29:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
