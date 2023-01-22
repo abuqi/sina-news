@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 22 Jan 2023 16:24:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Jan 2023 17:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【重庆首次超越这座一线城市，成为GDP“第四城”】1月20日，广州市GDP终于出炉——28839.00亿元。这一数字相较前一日重庆市披露的29129.03亿元略逊一筹。两座城市GDP相差290.03亿元，重庆的经济总量也首次超越广州。据广东省地区生产总值统一核算结果，2022年，广州市地区生产总值为28839.00亿元，同比增长1.0%。1月13日，重庆市市长胡衡华作政府工作报告时表示，过去五年，全市地区生产总值预计从2017年的2.01万亿元，增加到2.9万亿元以上。（每日经济新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-23/detail-imycaxhc1720385.d.html</link>
+            <guid>2954075</guid>
+            <pubDate>Sun, 22 Jan 2023 16:59:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【主品牌增长乏力 安踏体育迎来管理层大洗牌和“双CEO”】近日，安踏体育发布公告，称为使集团管理架构与其战略方向匹配并完善集团的企业管治，丁世忠将卸任首席执行官并留任董事会主席；集团首席财务官赖世贤、专业运动群首席执行官吴永华成为新的联席首席执行官；郑捷不再担任集团总裁，专任亚玛芬体育首席执行官。这是安踏体育上市16年以来最大规模的人事调整，将于2023年2月1日起生效。此番管理层洗牌后，几位核心高层的管理领域分为了安踏主品牌、FILA品牌、其他品牌与亚玛芬四大块。（每日经济新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-23/detail-imycaxfz4924760.d.html</link>
+            <guid>2954074</guid>
+            <pubDate>Sun, 22 Jan 2023 16:34:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美军军车在叙利亚哈塞克省遭村民驱逐】据叙利亚通讯社消息，22日，由四辆美军装甲车及一辆叙利亚反对派武装车辆组成的车队在经过叙利亚哈塞克省卡米什利南部哈莫村时，遭到当地村民拦截。最终，村民成功阻止该车队进入村庄，将其驱逐。]]></title>
             <link>https://finance.sina.cn/7x24/2023-01-23/detail-imycasyf1808984.d.html</link>
@@ -267,17 +279,6 @@
             <link>https://finance.sina.cn/7x24/2023-01-22/detail-imycahkm1778711.d.html</link>
             <guid>2953925</guid>
             <pubDate>Sun, 22 Jan 2023 09:24:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2022/2023赛季国际雪联自由式滑雪U型场地技巧世界杯卡尔加里站第二场决赛，中国选手谷爱凌夺得冠军。这是谷爱凌3天内的第二冠。（人民日报）]]></title>
-            <guid>2953924</guid>
-            <pubDate>Sun, 22 Jan 2023 09:23:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【尼日利亚3月底将开展17年来首次全国人口普查】尼日利亚一位官员当地时间20日表示，尼日利亚将在3月底开展全国人口普查，这是该国17年来首次进行人口普查。 报道称，尼日利亚当局正在寻求该国人口及不同种族群体规模的最新确切数据。 报道还称，尼日利亚人口预计超过2亿，联合国预估到2050年这一数字将翻一番。这将使尼日利亚超过美国，成为世界第三大人口大国。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-22/detail-imycahkm1776402.d.html</link>
-            <guid>2953923</guid>
-            <pubDate>Sun, 22 Jan 2023 09:22:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
