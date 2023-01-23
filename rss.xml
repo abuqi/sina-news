@@ -4,11 +4,75 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Mon, 23 Jan 2023 19:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jan 2023 20:19:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：美国国际贸易委员会1月10日起撤销对巴西征收的碳钢板税。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycfnux1315624.d.html</link>
+            <guid>2955392</guid>
+            <pubDate>Mon, 23 Jan 2023 20:14:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克表示，沙特主权财富基金放弃了特斯拉私有化计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycfnuv4538250.d.html</link>
+            <guid>2955391</guid>
+            <pubDate>Mon, 23 Jan 2023 20:13:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[芝加哥小麦跌至2021年以来新低，天气良好和播种面积缓和投资者对供应面的担忧。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycfnuv4535877.d.html</link>
+            <guid>2955390</guid>
+            <pubDate>Mon, 23 Jan 2023 20:08:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[迪士尼：电影《阿凡达2》上映六周，全球票房超过20亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycfnuv4525418.d.html</link>
+            <guid>2955389</guid>
+            <pubDate>Mon, 23 Jan 2023 19:57:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【布基纳法索要求法国撤军】布基纳法索过渡政府发言人让-埃马纽埃尔·韦德拉奥戈23日证实，布政府决定终止同法国的军事协议，并要求驻扎在该国的法国军队在一个月内撤离。韦德拉奥戈23日对布国家电视台说，法国军队是应布基纳法索政府要求驻扎在布首都瓦加杜古，协议终止是协议里预设的。如有必要，布方有权终止协议，并要求法国撤军。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycfnux1298005.d.html</link>
+            <guid>2955388</guid>
+            <pubDate>Mon, 23 Jan 2023 19:50:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国能源部长Granholm：总统拜登一直都侧重于降低能源成本。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycfnux1297946.d.html</link>
+            <guid>2955387</guid>
+            <pubDate>Mon, 23 Jan 2023 19:50:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿根廷经济部长Massa：阿根廷与巴西的目标是，围绕地区共同汇率启动相关磋商。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycfnuv4520842.d.html</link>
+            <guid>2955386</guid>
+            <pubDate>Mon, 23 Jan 2023 19:49:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【C919大飞机即将迎来兔年第一飞】 国产大飞机C919入列东航机队后的首个春节假期没有飞行任务，东航机务工程师张海荣的主要工作是对C919进行动态停场维护。“今天主要是做通电测试和APU功能的进一步检查。”张海荣（正月初二/1月23日在机坪）说着已进入到工作状态。假期之后，C919还将继续进行密集验证飞行，为确保C919保持良好的飞行状态，动态停场维护需要对飞机进行全面检测和保养，两天进行一次通电测试是重要的工作之一。过几天，C919将迎来兔年第一飞，机组将前往高温高寒高湿地区继续完成验证飞行任务，对飞机性能进行全面检验，同时客舱也将根据验证飞行反馈信息进行优化。（新华网）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycfnux1297886.d.html</link>
+            <guid>2955385</guid>
+            <pubDate>Mon, 23 Jan 2023 19:49:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI 3月原油期货收跌0.02美元，跌幅0.02%，报81.62美元/桶。NYMEX 2月天然气期货收涨8.60%，报3.4470美元/百万英热单位。]]></title>
+            <guid>2955384</guid>
+            <pubDate>Mon, 23 Jan 2023 19:37:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[道达尔能源将通过电费上限措施来帮助2.2万家小公司，电费折扣幅度为100欧元/MWh（折合109美元）。]]></title>
+            <guid>2955383</guid>
+            <pubDate>Mon, 23 Jan 2023 19:33:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长耶伦将会见南非总统拉马福萨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycfhnx4633764.d.html</link>
+            <guid>2955382</guid>
+            <pubDate>Mon, 23 Jan 2023 19:20:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[COMEX 2月黄金期货收涨0.40美元，报1928.60美元/盎司。]]></title>
             <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycfhnz1392255.d.html</link>
@@ -22,7 +86,7 @@
             <pubDate>Mon, 23 Jan 2023 18:43:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【科威特内阁向科王储递交辞呈】据科威特国家媒体当地时间1月23日报道，科威特首相艾哈迈德·纳瓦夫·艾哈迈德·萨巴赫因与国民议会出现分歧而向科威特王储米沙勒递交政府辞职书，这已经是科威特内阁在两年内的第五次辞职。]]></title>
+            <title><![CDATA[【科威特内阁向科王储递交辞呈】 当地时间1月23日，据科威特国家媒体报道，科威特首相艾哈迈德·纳瓦夫·艾哈迈德·萨巴赫因与国民议会出现分歧而向科威特王储米沙勒递交政府辞职书，这已经是科威特内阁在两年内的第五次辞职。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycfhnz1387935.d.html</link>
             <guid>2955379</guid>
             <pubDate>Mon, 23 Jan 2023 18:42:07 GMT</pubDate>
@@ -64,7 +128,7 @@
             <pubDate>Mon, 23 Jan 2023 17:54:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【乌国家原子能公司：国际原子能机构常驻乌专家已开始工作】乌克兰国家原子能公司当地时间23日宣布，国际原子能机构常驻乌境内各核电站的专家已开始工作。]]></title>
+            <title><![CDATA[【乌国家原子能公司：国际原子能机构常驻乌专家已开始工作】 当地时间23日，乌克兰国家原子能公司宣布，国际原子能机构常驻乌境内各核电站的专家已开始工作。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycfhnx4578291.d.html</link>
             <guid>2955370</guid>
             <pubDate>Mon, 23 Jan 2023 17:47:44 GMT</pubDate>
@@ -208,70 +272,6 @@
             <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycfaez4641649.d.html</link>
             <guid>2955343</guid>
             <pubDate>Mon, 23 Jan 2023 16:22:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高盛：大宗商品将在今年创造更高的总回报（标普高盛商品指数S&P GSCI的12个月展望为+30%回报），再次跑赢其他资产类别。]]></title>
-            <guid>2955342</guid>
-            <pubDate>Mon, 23 Jan 2023 16:19:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西和阿根廷签署经济、金融一体化谅解备忘录，寻求通过进口融资来促进双边贸易。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycfafc1416903.d.html</link>
-            <guid>2955341</guid>
-            <pubDate>Mon, 23 Jan 2023 16:18:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【纳斯达克100指数涨幅扩大至2%，刷新12月14日以来盘中最高位】 成分股中，Lucid集团涨8.0%领跑，AMD涨超7.8%、迈威尔科技涨超6.3%、高通涨超6.1%、英伟达涨超5.9%、美光科技涨4.8%、SWKS涨4.7%，特斯拉涨5.5%，奈飞涨4.8%，中概股拼多多涨3.5%，苹果涨3.2%，阿斯利康则跌约0.9%，TEAM跌超3.4%目前表现最差。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycfafc1413854.d.html</link>
-            <guid>2955340</guid>
-            <pubDate>Mon, 23 Jan 2023 16:14:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[布伦特原油向上触及89美元/桶，日内涨1.56%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycfafc1413394.d.html</link>
-            <guid>2955339</guid>
-            <pubDate>Mon, 23 Jan 2023 16:13:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳斯达克100指数涨幅扩大至2%，刷新12月14日以来盘中最高位。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycfaez4633943.d.html</link>
-            <guid>2955338</guid>
-            <pubDate>Mon, 23 Jan 2023 16:11:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【吉利硅谷万吨项目试生产】 1月16日，位于谷城的吉利硅谷二期1万吨多晶硅项目车间正在试生产。目前，该项目一期已顺利投产，二期正在进行试生产，整个项目预计在今年3月底全部投产达效。届时，项目将具备功能完整的6N太阳能级多晶硅加工制造能力。（襄阳日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycfaez4633714.d.html</link>
-            <guid>2955337</guid>
-            <pubDate>Mon, 23 Jan 2023 16:10:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国三大股指涨幅至少达到1.0%，标普500指数涨约1.3%，道指涨约330点，纳指涨1.78%。]]></title>
-            <guid>2955336</guid>
-            <pubDate>Mon, 23 Jan 2023 16:06:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股三大指数均涨超1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycfafc1405730.d.html</link>
-            <guid>2955335</guid>
-            <pubDate>Mon, 23 Jan 2023 16:06:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲STOXX 600日内涨幅达0.5%，报454.52点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycfafc1404449.d.html</link>
-            <guid>2955334</guid>
-            <pubDate>Mon, 23 Jan 2023 16:05:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳元兑美元AUD/USD涨1.1%至盘中新高的0.7036。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycfaez4624003.d.html</link>
-            <guid>2955333</guid>
-            <pubDate>Mon, 23 Jan 2023 16:01:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德意志银行：将道富银行(STT.N)目标价从85美元上调至88美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-23/detail-imycfafc1398817.d.html</link>
-            <guid>2955332</guid>
-            <pubDate>Mon, 23 Jan 2023 15:56:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
