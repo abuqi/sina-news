@@ -4,11 +4,81 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Wed, 25 Jan 2023 19:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 20:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国天然气期货日内跌超6%，现报2.873美元/百万英热。]]></title>
+            <guid>2957646</guid>
+            <pubDate>Wed, 25 Jan 2023 20:18:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【市场分析：黯淡的企业前景等担忧导致美股回落】法兴银行策略师Kenneth Broux表示，投资者现在正在等待特斯拉公司和IBM公司等公司的最新财报。黯淡的企业前景、迫在眉睫的美国经济衰退以及对俄乌冲突升级的担忧，都是导致美股回落的原因。Broux表示：“市场无疑担心企业盈利增速放缓，尤其是科技股，因此市场有一种希望继续卖出科技股和美元的感觉。但如果俄乌冲突升级，欧洲被卷入冲突，乌克兰现在会发生什么，这是一个巨大的尾部风险。”]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-26/detail-imycmyyy4209570.d.html</link>
+            <guid>2957645</guid>
+            <pubDate>Wed, 25 Jan 2023 20:18:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普500指数转涨，此前一度跌1.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-26/detail-imycmyza0975501.d.html</link>
+            <guid>2957632</guid>
+            <pubDate>Wed, 25 Jan 2023 20:06:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金短线上扬4美元，现报1946.26美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-26/detail-imycmyyy4197396.d.html</link>
+            <guid>2957631</guid>
+            <pubDate>Wed, 25 Jan 2023 20:05:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【四川甘孜州泸定县附近发生5.3级左右地震】中国地震台网自动测定：01月26日03时49分在四川甘孜州泸定县附近（北纬29.71度，东经102.15度）发生5.3级左右地震，最终结果以正式速报为准。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-26/detail-imycmyyy4191210.d.html</link>
+            <guid>2957621</guid>
+            <pubDate>Wed, 25 Jan 2023 19:54:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧元兑英镑EUR/GBP失守0.88，日内跌幅0.22%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-26/detail-imycmyza0960452.d.html</link>
+            <guid>2957605</guid>
+            <pubDate>Wed, 25 Jan 2023 19:41:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI 3月原油期货收涨0.02美元，涨幅0.02%，报80.15美元/桶。NYMEX 2月天然气期货收跌5.86%，报3.0670美元/百万英热单位。]]></title>
+            <guid>2957600</guid>
+            <pubDate>Wed, 25 Jan 2023 19:35:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据机构用户调查：美国至1月20日当周EIA天然气库存预期下降820亿立方英尺。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-26/detail-imycmyza0953218.d.html</link>
+            <guid>2957595</guid>
+            <pubDate>Wed, 25 Jan 2023 19:27:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【约旦国王阿卜杜拉二世访问卡塔尔】约旦国王阿卜杜拉二世当地时间1月25日抵达卡塔尔首都多哈，对卡塔尔展开工作访问。卡塔尔埃米尔（国家元首）塔米姆前往机场迎接。两位元首随后举行会谈，重点就进一步密切双边关系、加强两国在各领域的合作进行了讨论。两人还就共同关心的地区和国际问题，特别是巴勒斯坦问题交换了意见。约旦国王阿卜杜拉二世结束对卡塔尔的访问后，还将前往加拿大和美国访问。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-26/detail-imycmyyy4175943.d.html</link>
+            <guid>2957594</guid>
+            <pubDate>Wed, 25 Jan 2023 19:27:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【纽交所总裁回应周二异常停牌事件：备用站点例行维护后未及时关闭】当地时间三（1月25日），纽约证券交易所总裁林恩·马丁（Lynn Martin）告诉媒体，周二异常停牌事件确实是由于人为失误所致。马丁称，纽交所除了在当地的主要交易站点外，还在芝加哥有一个备用站点。当地时间周一晚，纽交所对芝加哥站点进行例行维护，但该备用站点直至周二开盘仍在运行。这导致纽约的主站点跳过了开盘竞价，令数百只股票在没有开盘价的情况下开始交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-26/detail-imycmyza0952908.d.html</link>
+            <guid>2957593</guid>
+            <pubDate>Wed, 25 Jan 2023 19:27:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【原糖期货涨超1%，投资者等待印度出口数据】 ICE原糖期货涨1.10%，报20.08美分/磅。ICE白糖期货跌0.15%，报546.90美元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-26/detail-imycmyyy4170676.d.html</link>
+            <guid>2957591</guid>
+            <pubDate>Wed, 25 Jan 2023 19:18:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[微软转涨，日内稍早一度下跌4.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-26/detail-imycmyza0947685.d.html</link>
+            <guid>2957590</guid>
+            <pubDate>Wed, 25 Jan 2023 19:18:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[COMEX 2月黄金期货收涨0.40%，连续第五个交易日上涨，报1942.60美元/盎司。]]></title>
             <guid>2957589</guid>
@@ -222,74 +292,6 @@
             <link>https://finance.sina.cn/7x24/2023-01-26/detail-imycmqme4324440.d.html</link>
             <guid>2957552</guid>
             <pubDate>Wed, 25 Jan 2023 16:31:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国DAX 30指数初步收跌0.25%，报15056.09点。法国股指初步收跌0.24%，意大利股指初步收跌0.20%，英国股指初步收跌0.35%。]]></title>
-            <guid>2957551</guid>
-            <pubDate>Wed, 25 Jan 2023 16:30:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲STOXX 600指数初步收跌0.43%，报451.41点。富时泛欧绩优300指数初步收跌0.42%，报1782.25点。欧元区STOXX 50指数初步收跌0.30%，报4140.88点。]]></title>
-            <guid>2957550</guid>
-            <pubDate>Wed, 25 Jan 2023 16:30:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务院官员：美国2022财年武器出口规模增加11%至1531亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-26/detail-imycmqme4317516.d.html</link>
-            <guid>2957549</guid>
-            <pubDate>Wed, 25 Jan 2023 16:24:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行行长麦克勒姆：现在讨论降息还为时过早。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-26/detail-imycmqme4313923.d.html</link>
-            <guid>2957548</guid>
-            <pubDate>Wed, 25 Jan 2023 16:20:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行行长麦克勒姆：服务业通胀还需要更长时间才能降低。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-26/detail-imycmqme4308917.d.html</link>
-            <guid>2957547</guid>
-            <pubDate>Wed, 25 Jan 2023 16:16:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行行长麦克勒姆：如果通胀下降，这将证明加拿大央行已经做的足够多。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-26/detail-imycmqmh1085724.d.html</link>
-            <guid>2957546</guid>
-            <pubDate>Wed, 25 Jan 2023 16:16:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：01月26日00时02分在新疆和田地区和田县（北纬35.83度，东经79.89度）发生4.9级地震，震源深度10千米。]]></title>
-            <guid>2957545</guid>
-            <pubDate>Wed, 25 Jan 2023 16:15:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大年初四全员返岗，特斯拉门店客户激增】 “史上最低价格，首付3万5，新车开回家。”春节期间，多家特斯拉门店打出“春节不打烊，欢迎预约试驾”的口号吸引客户。有的门店推出试驾抽奖活动，春节到店并拍摄图片分享至社交平台的，可以参与一次抽奖。上海浦东一位特斯拉销售人员表示，特斯拉降价后到店客户激增，为了趁热打铁，春节期间门店不打烊，员工轮班，还有的销售不休假，主动留守门店。“今年春节客流比去年好太多，我们店的员工最迟初四就全部返岗了。”上海长宁一家特斯拉门店销售称。（证券时报·e公司）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-26/detail-imycmqmh1082987.d.html</link>
-            <guid>2957544</guid>
-            <pubDate>Wed, 25 Jan 2023 16:14:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音CFO：将提高787飞机产量至每月5架的计划推迟至2023年晚些时候。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-26/detail-imycmqme4300334.d.html</link>
-            <guid>2957543</guid>
-            <pubDate>Wed, 25 Jan 2023 16:09:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行行长麦克勒姆：乐见汽油价格的下跌，但必需品物价继续以过快速度上涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-26/detail-imycmqme4296672.d.html</link>
-            <guid>2957542</guid>
-            <pubDate>Wed, 25 Jan 2023 16:05:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行行长麦克勒姆：去年下半年经济增长和支出超过预期，过热的经济未像预期般降温。]]></title>
-            <guid>2957541</guid>
-            <pubDate>Wed, 25 Jan 2023 16:05:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行行长麦克勒姆：高利率正重新平衡经济。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-26/detail-imycmqmh1072498.d.html</link>
-            <guid>2957540</guid>
-            <pubDate>Wed, 25 Jan 2023 16:04:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
