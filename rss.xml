@@ -4,11 +4,35 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 29 Jan 2023 20:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Jan 2023 21:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【火灾致使美国一家主要鸡蛋供应商损失惨重】美国康涅狄格州波斯拉市一家商业鸡蛋农场发生大火，消防员花费数小时才扑灭了Hillandale农场里鸡舍发生的火灾，事故发生时里面有大约10万只鸡。Hillandale农场是美国最大的鸡蛋供应商之一，他们的鸡蛋在各大超市都能买到。目前尚不清楚此次火灾对美国的鸡蛋供应链意味着什么。值得注意的是，此次火灾发生之际，禽流感导致的数千万只母鸡死亡正使美国遭受严重的鸡蛋短缺。一些超市中A级鸡蛋的价格已经涨到了“天文数字”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-30/detail-imycwzme7136824.d.html</link>
+            <guid>2961960</guid>
+            <pubDate>Sun, 29 Jan 2023 21:03:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一队过境伊拉克前往叙利亚的卡车遭遇轰炸】据伊拉克当地媒体报道，当地时间29日晚，一队约25辆从伊朗开往叙利亚的卡车在伊拉克遭遇轰炸。目前尚未有人员伤亡的消息。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-30/detail-imycwzme7135970.d.html</link>
+            <guid>2961959</guid>
+            <pubDate>Sun, 29 Jan 2023 21:01:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列警察与巴勒斯坦人再起冲突】当地时间1月29日晚，以色列警察在东耶路撒冷与巴勒斯坦民众发生冲突，6名巴勒斯坦人被捕。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-30/detail-imycwzme7129227.d.html</link>
+            <guid>2961958</guid>
+            <pubDate>Sun, 29 Jan 2023 20:48:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国警察暴力执法事件持续发酵 受害者律师呼吁国会通过警务改革法案】美国田纳西州警方暴力执法导致非洲裔男子泰尔·尼科尔斯死亡事件持续在全美多地引发抗议。当地时间1月29日，泰尔·尼科尔斯的家庭律师呼吁美国国会通过以弗洛伊德命名的警务改革法案“乔治·弗洛伊德警务公正法案”，并表示拜登有责任重新推动警务改革。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-30/detail-imycwzme7123181.d.html</link>
+            <guid>2961957</guid>
+            <pubDate>Sun, 29 Jan 2023 20:37:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【2月7日起全面推行专利证书电子化】国家知识产权局今天发布公告，明确为贯彻落实党中央、国务院关于加强数字政府建设的决策部署，持续提高专利审查服务信息化和便利化水平，国家知识产权局自2023年2月7日（含当日）起，全面推行专利证书电子化。]]></title>
             <guid>2961956</guid>
@@ -269,23 +293,6 @@
             <link>https://finance.sina.cn/7x24/2023-01-29/detail-imycwkpn7172188.d.html</link>
             <guid>2961627</guid>
             <pubDate>Sun, 29 Jan 2023 13:10:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄媒：海基“锆石”高超声速导弹已开始批量生产】据俄媒27日报道，海基“锆石”高超声速导弹已开始批量生产，俄海军将于2023年接收“锆石”导弹。俄国防部25日发布消息称，俄海军“戈尔什科夫海军元帅”号护卫舰在大西洋西部水域用计算机模拟方式进行了发射“锆石”高超声速导弹的演习，打击了900公里外的模拟敌舰。 ( 央视军事  )]]></title>
-            <guid>2961625</guid>
-            <pubDate>Sun, 29 Jan 2023 13:04:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亚世光电：2022年净利同比预增139%-182%】亚世光电公告，公司预计2022年净利润1.097亿元–1.297亿元，比上年同期增长138.6%-182.1%。公司2022年全年，营业收入大幅增长。ITO玻璃、TFT屏、IC等主要原材料价格有所下降。销售规模及毛利率提升使净利润同比大幅增长。2022年度公司电子纸显示模组业务板块销售规模扩大并实现盈利。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-29/detail-imycwkpn7163825.d.html</link>
-            <guid>2961624</guid>
-            <pubDate>Sun, 29 Jan 2023 13:00:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【京山轻机：2022年净利同比预增92%-119%】京山轻机公告，公司预计2022年净利润2.8亿元-3.2亿元，比上年同期增长92%-119.43%。报告期内，晟成光伏经营业绩再创历史新高。2022年新签订单数和年底在手订单数、报告期内销售收入和净利润均较上年同期大幅增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-29/detail-imycwkpn7161720.d.html</link>
-            <guid>2961623</guid>
-            <pubDate>Sun, 29 Jan 2023 12:56:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
