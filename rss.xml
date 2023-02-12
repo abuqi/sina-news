@@ -4,11 +4,16 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 12 Feb 2023 16:24:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Feb 2023 17:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【银保监会、人民银行 加强商业银行金融资产风险分类管理】为进一步推动商业银行准确识别、评估信用风险，真实反映资产质量，中国银保监会会同中国人民银行联合制定《商业银行金融资产风险分类办法》，于11日正式对外发布。信用风险是我国银行业面临的最主要风险，完善的风险分类制度是有效防控信用风险的前提和基础。据介绍，1998年，人民银行出台《贷款风险分类指导原则》，提出五级分类概念。2007年，原银监会发布《贷款风险分类指引》，进一步明确了五级分类监管要求。“近年来，我国商业银行资产结构发生较大变化，风险分类实践面临诸多新情况和新问题。”银保监会有关部门负责人表示，银保监会、人民银行借鉴国际国内良好标准，并结合我国银行业现状及监管实践，制定该办法，有利于银行业有效防范化解信用风险，提升服务实体经济水平。（新华网）]]></title>
+            <guid>2981728</guid>
+            <pubDate>Sun, 12 Feb 2023 16:32:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【英国工资和通胀数据将推动英国央行进一步加息】英国本周公布的工资和通胀数据，可能支持英国央行政策制定者希望继续加息的观点，加剧英国借贷成本30年来最快的飙升。经济学家预计，两份单独的报告将显示，英国消费者价格仍在以两位数的速度上涨，企业正在以有记录以来最快的速度加薪。英国央行行长贝利及其同事暗示，他们已接近加息周期的尾声。这轮加息始于14个月前，已将关键利率从接近零的水平上调至4%，为2008年以来最高水平。不过，他们也认为就业市场吃紧和不断增加的薪酬压力，是他们遏制通胀的潜在绊脚石。]]></title>
             <link>https://finance.sina.cn/7x24/2023-02-13/detail-imyfnkpn9428177.d.html</link>
@@ -310,17 +315,6 @@
             <link>https://finance.sina.cn/7x24/2023-02-12/detail-imyfmxxs9481625.d.html</link>
             <guid>2981618</guid>
             <pubDate>Sun, 12 Feb 2023 11:38:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通：将宁德时代评级上调至超配，目标价600元人民币。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-12/detail-imyfmxxs9471962.d.html</link>
-            <guid>2981617</guid>
-            <pubDate>Sun, 12 Feb 2023 11:25:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【TCL中环：网传公司个别厂房停电和坩埚质量导致硅料漏液影响2月硅片出货不实，目前生产状况一切正常】有投资者提问称，请问网传公司个别厂房停电和坩埚质量导致硅料漏液影响了2月硅片出货这件事是真的吗？TCL中环2月12日在互动平台表示，公司生产状况一切正常，不存在上述事件情况；公司各制造体系安全、稳定。公司通过对供应链的前瞻性考量，建立并保持长期战略合作关系，保障石英坩埚等上游关键材料的供应。]]></title>
-            <guid>2981616</guid>
-            <pubDate>Sun, 12 Feb 2023 11:24:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
