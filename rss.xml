@@ -4,11 +4,112 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Thu, 23 Feb 2023 21:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 22:18:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美联储3月加息50BP的概率为27%】据CME“美联储观察”：美联储3月加息25个基点至4.75%-5.00%区间的概率为73.0%，加息50个基点至5.00%-5.25%区间的概率为27.0%；到5月累计加息25个基点的概率为0%，累计加息50个基点的概率为70.3%，累计加息75个基点至5.25%-5.50%区间的概率为28.7%，累计加息100个基点至5.50%-5.75%区间的概率为1.0%。]]></title>
+            <guid>2997933</guid>
+            <pubDate>Thu, 23 Feb 2023 22:12:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Adobe美股盘后涨3.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-24/detail-imyhtxrz1669721.d.html</link>
+            <guid>2997932</guid>
+            <pubDate>Thu, 23 Feb 2023 22:09:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【门店客流量多了 车市持续升温 】“从2月开始，进店的客流量就多起来了，这周比上周有明显增多。”销售人员表示。这成为车市回暖的一个缩影。受新能源汽车“国补”政策退出和春节假期等因素影响，1月车市遇冷，进入2月后逐渐回暖。乘联会预计2月乘用车零售销量环比增长4.3%。业内人士表示，消费者信心持续稳定恢复，终端客流持续升温，叠加各地补贴持续发力，预计3月车市将步入正轨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-24/detail-imyhtxsa8446212.d.html</link>
+            <guid>2997931</guid>
+            <pubDate>Thu, 23 Feb 2023 22:07:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“杠杆”效应撬动高门槛服务 保险金信托进入发展快车道 】近期，保险金信托正在悄然走热。数据显示，今年1月，新增保险金信托规模近90亿元，环比增长67%。分析人士指出，保险金信托可以丰富保险赔偿金的分配方式，帮助实现财富有效传承和保全。相比家族信托的高门槛，保险金信托门槛相对较低，受到越来越多高净值人群的青睐。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-24/detail-imyhtxsa8446032.d.html</link>
+            <guid>2997930</guid>
+            <pubDate>Thu, 23 Feb 2023 22:07:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【异常交易监管加强 伪量化被套上“紧箍咒” 】日前，沪深交易所发布《主板股票异常交易实时监控细则》，对异常交易行为的类型和标准作出规定。其中，针对“打板”和“封板”行为的监控受到市场关注，有观点认为，部分机构的高频量化和“T+0”策略会受到影响，盈利难度大大增加。不过，多家量化私募向记者表示，当前大部分量化私募的选股模型以中周期为主，不会受此影响，而对游资的短线交易行为及以“手动操作打板”模式的伪量化机构会有很大限制。在此基础上，相关规则出台有利于量化行业更加注重合规，营造良好生态。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-24/detail-imyhtxrz1668801.d.html</link>
+            <guid>2997929</guid>
+            <pubDate>Thu, 23 Feb 2023 22:07:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国司法部准备提起诉讼，阻止Adobe以200亿美元收购Figma。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-24/detail-imyhtxsa8445740.d.html</link>
+            <guid>2997928</guid>
+            <pubDate>Thu, 23 Feb 2023 22:06:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新西兰联储官员表示，4月份所有加息选项都是可能的。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-24/detail-imyhtxrz1666079.d.html</link>
+            <guid>2997927</guid>
+            <pubDate>Thu, 23 Feb 2023 22:04:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【摩根大通CEO：美联储对通胀有一点点失控】摩根大通CEO表示，“我对美联储主席鲍威尔表示敬意，但事实是我们对通胀失去了一点点的控制。”控制通货膨胀仍然是美联储正在进行的工作。他预计利率可能在高位维持更长的时间，因为可能需要“一段时间”，才能达到美联储2%的通货膨胀目标。]]></title>
+            <guid>2997926</guid>
+            <pubDate>Thu, 23 Feb 2023 22:03:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储再次否决加密货币银行Custodia对Payments Access的收购计划。]]></title>
+            <guid>2997925</guid>
+            <pubDate>Thu, 23 Feb 2023 22:01:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【瞄准时机加仓A股 各路资金跑步入场】近期A股的反复盘整并未打乱各路资金加速布局的脚步。一方面，公募发行市场逐步升温，基金公司积极申报产品，多只权益基金发行份额明显提升；另一方面，北向资金中的配置盘和交易盘也在持续流入。据高盛统计，过去3个月，海外对冲基金客户对中国股票翻倍加仓，且持仓比例处于历史高位。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-24/detail-imyhtxrz1661756.d.html</link>
+            <guid>2997924</guid>
+            <pubDate>Thu, 23 Feb 2023 21:57:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【朝鲜进行战略巡航导弹发射演习】据朝中社2月24日报道，朝鲜于23日进行了战略巡航导弹发射演习。（央视新闻）]]></title>
+            <guid>2997923</guid>
+            <pubDate>Thu, 23 Feb 2023 21:50:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【波音公司因文件问题暂停交付787飞机】据美国联邦航空管理局和业内人士说，波音公司因文件问题已停止交付787梦幻客机(787 Dreamliner)。航空数据提供商Ascend by Cirium称，自1月26日以来，波音一直没有从生产线或数十架等待交付的飞机中交付梦想飞机。波音公司上周表示，已经暂停了新飞机的组装。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-24/detail-imyhttkc1781826.d.html</link>
+            <guid>2997922</guid>
+            <pubDate>Thu, 23 Feb 2023 21:46:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2月23日美股成交前20：马斯克称电动车才是汽车行业的未来】周四美股成交额冠军特斯拉收高0.6%，成交292.3亿美元。特斯拉全球工程总部周三在美国加州正式成立。马斯克表示：“过去没有人相信、也没有人制造电动车，现在汽车行业不得不接受电动车才是未来。”马斯克认为，完全自动驾驶能力的未来应用，会让汽车在成本不变的情况下被充分使用，利用率提高4倍至5倍；人形机器人将会比汽车更具价值，长期来看，它将解决劳动力短缺的制约。http://t.cn/A6C5zeB4]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-24/detail-imyhttke8550680.d.html</link>
+            <guid>2997921</guid>
+            <pubDate>Thu, 23 Feb 2023 21:34:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至2月18日当周外国央行持有美国国债 5.76亿美元，前值150.47亿美元。]]></title>
+            <guid>2997920</guid>
+            <pubDate>Thu, 23 Feb 2023 21:31:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【年初至今 已有超过40家A股公司发布了募投项目变更公告】据不完全统计，年初至今，已有超过40家A股公司发布了募投项目变更公告。仅在2月22日当天，就有3家公司宣布拟变更募投项目。梳理公司公告，“市场环境变化”是上市公司变更募投项目的主要原因之一。“募投项目的信息披露非常重要。”有投行人士认为，对上市公司来说，募投项目是资本市场助力实体经济的核心一环，上市公司会对募投项目反复研讨、论证，以求给股东创造可预期的回报。如果是“挂羊头卖狗肉”，说好的项目总变更，不仅涉嫌信息披露违规，还势必失信于市场。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-24/detail-imyhttkc1767682.d.html</link>
+            <guid>2997919</guid>
+            <pubDate>Thu, 23 Feb 2023 21:26:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院外交关系委员会主席和该委员会的共和党领袖敦促拜登政府禁止所有非美航空公司的美国航线飞越俄罗斯领空。]]></title>
+            <guid>2997918</guid>
+            <pubDate>Thu, 23 Feb 2023 21:23:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【杰富瑞：重申Lululemon(LULU.O)跑输大市评级和200美元的目标价】杰富瑞分析师Randal Konik表示，该行对定价数据的分析表明，Lululemon在1月加速推出促销活动，另外对最近对商店的访问表明，外衣类别的减价风险上升。该分析师认为，Lululemon第四季度毛利率指引的下行风险增加，重申其对该股的跑输大市评级和200美元的目标价。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-24/detail-imyhttke8540865.d.html</link>
+            <guid>2997917</guid>
+            <pubDate>Thu, 23 Feb 2023 21:23:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[金融科技公司Block Inc四季度净收入46.5亿美元，分析师预期45.7亿美元。]]></title>
+            <guid>2997916</guid>
+            <pubDate>Thu, 23 Feb 2023 21:19:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Carvana四季度销售二手车86977辆，分析师预期94394辆。]]></title>
             <link>https://finance.sina.cn/7x24/2023-02-24/detail-imyhttke8535025.d.html</link>
@@ -126,6 +227,12 @@
             <pubDate>Thu, 23 Feb 2023 20:35:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[【美方称已准备好就《新削减战略武器条约》同俄方谈判】当地时间2月23日，塔斯社报道称， 美国副国务卿纽兰在接受专访时表示，如果俄方做好准备，美方也已准备好同俄方就《新削减战略武器条约》进行谈判，哪怕谈判明天就开启。纽兰还称，美方也已经准备好同意接受相关检查。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-24/detail-imyhttke8507930.d.html</link>
+            <guid>2997894</guid>
+            <pubDate>Thu, 23 Feb 2023 20:30:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【银行春招帷幕全面拉开 AI相关人才成“香饽饽”】2023年银行春招已全面拉开帷幕。从多家银行近日发布的招聘公告不难看出，金融科技复合型人才依然是银行机构争抢的“香饽饽”；同时，银行纷纷对人工智能相关技术人才抛出“橄榄枝”。“以ChatGPT为代表的AIGC(利用人工智能技术生成内容)持续推高AI相关人才热度。”高端人才猎寻机构CGL数字金融合伙人钱晗对记者表示。目前云计算、大数据、AI、隐私计算、算法等领域的科技人才是金融机构争夺的重要方向，其中对AI领域人才的需求更大。]]></title>
             <link>https://finance.sina.cn/7x24/2023-02-24/detail-imyhttke8506202.d.html</link>
             <guid>2997893</guid>
@@ -181,116 +288,6 @@
             <title><![CDATA[智利比索兑美元下跌1.05%，报807.41比索，此前一度跌至日低810.20比索，铜价下跌，使得铜矿主产国智利本币在新兴市场货币中表现最差。]]></title>
             <guid>2997884</guid>
             <pubDate>Thu, 23 Feb 2023 19:55:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[达美航空(DAL.N)：在底特律、波士顿和纽约的运营继续面临延误和航班减少的情况。]]></title>
-            <guid>2997883</guid>
-            <pubDate>Thu, 23 Feb 2023 19:50:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[达美航空(DAL.N)：由于冬季风暴的影响转移到美国东北部，工作人员正努力稳定时间表。]]></title>
-            <guid>2997882</guid>
-            <pubDate>Thu, 23 Feb 2023 19:50:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德意志银行：将沃尔玛(WMT.N)目标价上调至169美元 维持买入评级】德意志银行分析师Krisztina Katai将沃尔玛的目标价从164美元上调至169美元，并维持对该股的买入评级。尽管该公司最初的2023年展望低于买方预期，但该分析师仍感到鼓舞，称其展望为上升和下降留下了更多空间。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-24/detail-imyhttkc1699205.d.html</link>
-            <guid>2997880</guid>
-            <pubDate>Thu, 23 Feb 2023 19:44:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【土耳其已对至少171名参与建造劣质建筑物的嫌疑人进行拘捕】土耳其司法部长博兹达当地时间2月23日表示，在针对2月6日大地震中被毁建筑物的调查中，目前已对至少171名涉嫌参与建造劣质建筑物的人员进行拘留或发出逮捕令。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-24/detail-imyhttkc1698559.d.html</link>
-            <guid>2997879</guid>
-            <pubDate>Thu, 23 Feb 2023 19:43:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国前财长萨默斯：经济极难解读 应警惕坠崖风险】美国前财长萨默斯表示，经济活动可能急剧下滑的令人担忧信号，加上其他指标的强势，预示着经济前景存在不确定性。“我们的经济极难解读，人们对当前经济的强劲表现可能有点过度解读了，一两个季度后情况看起来可能会非常不同。”“当你对未来稍作展望，就会发现有些事情令你相当担忧会出现类似威利狼（Wile E. Coyote）的情况，”萨默斯说道，再度引用了这一从悬崖上掉落的卡通形象。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-24/detail-imyhttkc1697554.d.html</link>
-            <guid>2997877</guid>
-            <pubDate>Thu, 23 Feb 2023 19:41:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国垃圾债基金的单周资金流出规模创下纪录第三高】基金分析公司理柏称，最近一周，美国高收益债券基金遭遇61.2亿美元资金外流；美国投资级债券基金获得1.836亿美元资金流入；美国市政债券基金遭遇17亿美元资金外流；美国贷款基金遭遇6.18亿美元资金外流。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-24/detail-imyhttke8473813.d.html</link>
-            <guid>2997872</guid>
-            <pubDate>Thu, 23 Feb 2023 19:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【WTI 4月原油期货收涨1.44美元】WTI 4月原油期货收涨1.44美元，涨幅1.95%，报75.39美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-24/detail-imyhttke8473575.d.html</link>
-            <guid>2997871</guid>
-            <pubDate>Thu, 23 Feb 2023 19:38:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【开年以来19家企业首发上市折戟 信息披露质量已成企业IPO成败关键】数据显示，截至2月23日，开年来已有19家企业终止IPO。细究其中原因不难看出，技术创新能力不强及经营能力存疑成为企业IPO折戟的主要原因。同时，监管部门对信息披露质量的要求显著提高。多位专家表示，监管部门秉持多层次市场定位，严格把控入口端，主要是为了IPO企业更好地匹配到适合自身发展的资源。对于板块而言，则有利于营造健康稳定的增长环境，发挥板块特色，进而巩固多层次资本市场体系，奠定资本市场良性循环基础。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-24/detail-imyhttkc1695576.d.html</link>
-            <guid>2997865</guid>
-            <pubDate>Thu, 23 Feb 2023 19:36:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[埃及采购7.9万吨葵花籽油和大豆油。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-24/detail-imyhtpah8599069.d.html</link>
-            <guid>2997859</guid>
-            <pubDate>Thu, 23 Feb 2023 19:31:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【IMF董事会“普遍同意”加密货币不应成为法定货币】本月早些时候，IMF董事会提交了一份文件，警告加密货币对各国货币政策、税收征收、金融稳定和消费者保护构成的风险。据悉，周四IMF执行董事会在一份声明中表示，总体而言，加密货币不应被授予法定货币地位。声明还称，尽管一些董事会成员认为“不排除完全禁止加密货币的可能性”，但完全禁止并不现实，不过各国可以采取一些有针对性的限制措施来降低其风险。声明最后表示，政府其实还可以从底层数字技术发展中受益。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-24/detail-imyhtpaf1821204.d.html</link>
-            <guid>2997855</guid>
-            <pubDate>Thu, 23 Feb 2023 19:29:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[基金分析公司理柏（Lipper）：最近一周美国投资级基金的资金流入1.836亿美元，市政债券基金的资金流出为17亿美元，高收益基金的资金流出61.2亿美元。]]></title>
-            <guid>2997851</guid>
-            <pubDate>Thu, 23 Feb 2023 19:25:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【奥本海默：予沃尔玛(WMT.N)跑赢大市评级 目标价160美元】奥本海默分析师Rupesh Parikh表示，沃尔玛业务的健康状况看起来比公司预想的要强，杂货店的份额增长较大、其他收入来源的增长势头健康，以及在资本支出方面的更严格的控制。该分析师认为，鉴于其对食品通胀水平的预期更强、份额持续增长的潜力，以及2022年之前的高个位数销售额增长势头，管理层对美国沃尔玛2-2.5%的销售额增长指引是保守的。随着标准的重新设定和公司有利的基本面观点，该行在多个季度后重新将沃尔玛加入最佳选择的名单。他对该股的评级为跑赢大市，目标价为160美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-24/detail-imyhtpaf1819264.d.html</link>
-            <guid>2997848</guid>
-            <pubDate>Thu, 23 Feb 2023 19:25:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COMEX 2月黄金期货收跌0.8%，连续四个交易日下跌，报1826.80美元/盎司，创2022年12月30日以来主力合约收盘新低。COMEX 3月白银期货跌1.76%，报21.306美元。NYMEX铂金期货收跌0.80%，钯金期货收跌3.6%。COMEX铜期货收跌3.1%，报4.059美元/磅。]]></title>
-            <guid>2997847</guid>
-            <pubDate>Thu, 23 Feb 2023 19:23:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【房贷创新重在发掘消费者潜在需求】当前我国经济复苏面临总需求不足的突出矛盾，运用特色金融产品发掘消费者潜在需求，鼓励大件商品消费，不失为一种金融创新手段。但如果仅仅是像“百岁贷”海报那样，将数字简单相加给出看似优惠的营销噱头，却前脚刚上线后脚就下架，形大于实，不仅让降低借款门槛虚有其表，还会损害商业银行公共形象，对促进房地产市场回暖无益。在坚持“房住不炒”定位、支持刚性和改善性住房需求的前提下，房地产市场参与各方应从切实解决购房者需求痛点的角度出发，实现产品真正创新，而非简单地炒作概念博眼球，方能共同构建房地产供给、需求两方有效匹配的良性市场环境。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-24/detail-imyhtpaf1815432.d.html</link>
-            <guid>2997842</guid>
-            <pubDate>Thu, 23 Feb 2023 19:20:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【行业首台钠离子电池试验车亮相锂电池“江湖地位”将被钠电池取代】2月23日，中科海钠与思皓新能源打造的行业首台钠离子电池试验车公开亮相。据了解，此次装车试验的思皓花仙子首次应用蜂窝电池技术的钠离子电池包。该款车型续航里程为252km，电池容量为25KWh，快充充电时间为15分钟至20分钟。“钠离子电池试验车的亮相给新能源行业带来了积极影响。当下锂离子电池产业瓶颈凸显，制约了电动车的发展。而钠离子电池产业化加速，随着技术不断完善，其应用场景还会逐渐扩大。”业内人士表示。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-24/detail-imyhtpaf1814978.d.html</link>
-            <guid>2997838</guid>
-            <pubDate>Thu, 23 Feb 2023 19:19:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【在岸人民币兑美元较周三收盘收盘跌176点】在岸人民币兑美元（CNY）北京时间03:00收报6.9088元，较周三收盘收盘跌176点。成交量401.53亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-24/detail-imyhtpaf1814583.d.html</link>
-            <guid>2997834</guid>
-            <pubDate>Thu, 23 Feb 2023 19:19:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【ETF总规模站稳1.63万亿元关口 6只新产品月内有望带来73亿元增量资金】自去年12月份以来，ETF总规模持续增长，目前已站稳1.63万亿元关口。Wind数据显示，截至2月23日，开年以来ETF总规模增加近70亿元；同时，2月份以来已有6只ETF新产品成立。多位公募基金经理表示，今年以来，A股市场逐渐回暖，投资者借道ETF能够捕捉到更多投资机会，尤其是宽基和部分主题指数基金资金流入更加明显，这是ETF总规模持续增长的原因。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-24/detail-imyhtpaf1814163.d.html</link>
-            <guid>2997833</guid>
-            <pubDate>Thu, 23 Feb 2023 19:17:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国7年期国债中标收益率创下纪录新高】美国财政部招标发行350亿美元7年期国债——也是本周第三次和最后一次附息国债发行——的中标收益率报4.062%，创下纪录新高。在美国东部时间下午1点招标截止时的发行前交易水平报4.047%。招标结果公布后，7年期国债收益率小幅走高，令7年和30年期国债收益率差达到年内低点-18个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-24/detail-imyhtpah8591189.d.html</link>
-            <guid>2997832</guid>
-            <pubDate>Thu, 23 Feb 2023 19:17:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据统计：2023年，加密行业内已经减少了2000多个工作岗位。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-24/detail-imyhtpaf1811160.d.html</link>
-            <guid>2997826</guid>
-            <pubDate>Thu, 23 Feb 2023 19:14:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
