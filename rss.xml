@@ -4,11 +4,22 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 04 Mar 2023 16:24:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 17:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场资讯：哥伦比亚2月CPI环比上涨1.66%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-05/detail-imyitsvn4470382.d.html</link>
+            <guid>3011256</guid>
+            <pubDate>Sat, 04 Mar 2023 17:02:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[全球石油需求正在飙升至历史最高水平，一些业内最聪明的人预测，油价在几个月内就会达到每桶100美元，但美国生产商正在玩短线游戏，希望把尽可能多的现金交给投资者。]]></title>
+            <guid>3011254</guid>
+            <pubDate>Sat, 04 Mar 2023 16:35:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【土耳其及周边地区近一个月内已记录到约1.3万次地震】据土耳其灾害与应急管理局当地时间3月4日发布的报告称，从该国南部当地时间2月6日发生7.7级强震至今，土耳其及其周边地区发生的有记录地震次数约为1.3万次，其中也包括6日强震发生后的余震。当地时间2月6日，土耳其南部发生强震，截至目前，土耳其有超过4.5万人不幸遇难，超20万栋建筑物受损，数百万人流离失所。此前总统埃尔多安称，余震次数已超上万次。]]></title>
             <link>https://finance.sina.cn/7x24/2023-03-05/detail-imyitsvn4433917.d.html</link>
@@ -288,18 +299,6 @@
             <title><![CDATA[全国政协委员、上海师范大学校长袁雯：建议探索数字化学习成果多元评价体系，加快建设学习型大国。（上证报）]]></title>
             <guid>3011099</guid>
             <pubDate>Sat, 04 Mar 2023 10:20:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【菲律宾沉船燃油泄漏事故影响持续扩大 2.4万公顷珊瑚礁或受影响】菲律宾环境与自然资源部表示，截至当地时间3日，沉船燃油泄漏的范围已经达到300米至500米宽，25公里长；共有约590公顷的珊瑚礁、约1625公顷的海岸红树林和约360公顷的海藻受到影响。多位菲律宾海洋专家发表声明称，此次泄漏的燃油预计最终可能会导致2.4万公顷珊瑚礁受到影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyiszxw1359063.d.html</link>
-            <guid>3011098</guid>
-            <pubDate>Sat, 04 Mar 2023 10:19:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【成都赴沪引进人才——蓉漂人才荟·集成电路专场举行】 蓉漂人才荟·集成电路专场——蓉“芯”人才上海行活动在上海浦东新区成功举行，旨在深入实施成都“人才强市”战略，精准引进产业急需紧缺人才，推动成都集成电路产业建圈强链行动走深走实。活动吸引了成都海光、嘉纳海威、成都华微、成都奕成、电子科技大学等35家成都集成电路相关企事业单位，提供了超过1300个优质岗位，其中年薪80万元以上的岗位100余个。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyiszxw1358895.d.html</link>
-            <guid>3011097</guid>
-            <pubDate>Sat, 04 Mar 2023 10:18:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
