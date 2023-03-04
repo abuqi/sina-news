@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 04 Mar 2023 21:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 22:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【加拿大原住民庆祝传统节日 呼吁增强文化认同】当地时间3日，千余人聚集在加拿大温哥华太平洋国家展览馆，庆祝尼斯加阿部落新年节日霍比耶节，加拿大40多个原住民部落参加了这次庆祝活动。活动现场，许多原住民后裔表达了找回身份认同、增强文化认同的强烈意愿。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-05/detail-imyiucmh4355107.d.html</link>
+            <guid>3011275</guid>
+            <pubDate>Sat, 04 Mar 2023 21:41:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美联储前副主席：押注美联储不会将利率上调至6%】美联储前副主席艾伦·布林德（Alan Blinder）是今年表达乐观态度的最著名人士之一，他曾乐观地表示，美联储可以在不引发经济衰退的情况下控制通胀，实现软着陆。现在，他已经稍微降低了这种乐观情绪，主要是因为美国政府根据季节性因素调整通胀数据的方式发生了变化。虽然去年下半年房价有所回落，但并没有像此前的数据显示的那样迅速降温。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-05/detail-imyiucmk1130522.d.html</link>
+            <guid>3011274</guid>
+            <pubDate>Sat, 04 Mar 2023 21:37:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【年轻人社交需求增加 “微度假”今年接着火】过去几年，周末游、周边游等“微度假”成为旅游消费市场的全新增长点。进入2023年，随着年轻人社交需求的增加，他们同样不再执著于空间距离上的“远方”，而是选择在城市及周边发现新潮玩法，进行深度体验。]]></title>
             <link>https://finance.sina.cn/7x24/2023-03-05/detail-imyiucmk1108725.d.html</link>
@@ -276,24 +288,6 @@
             <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyithfu1282725.d.html</link>
             <guid>3011119</guid>
             <pubDate>Sat, 04 Mar 2023 11:46:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上汽奥迪员工内购价最高优惠16万，客服：不对外，若倒卖一查到底】 近日，一份《2023年上汽大众员工奥迪品牌购车活动》的图片在网上流传，图上内容显示，奥迪旗下在售的三款产品给出了员工购车价，优惠区间在7万-16万元。3月4日，客服回应称：“员工内购活动属实，正在严查信息外泄。若有员工倒卖资格，一经发现会追查到底。”（上游新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyithfs4504056.d.html</link>
-            <guid>3011118</guid>
-            <pubDate>Sat, 04 Mar 2023 11:43:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南苏丹总统解除国防部长和内政部长职务】南苏丹总统发言人马尼耶尔当地时间3月4日表示，在3月3日南苏丹国家电视台宣读的总统令中，总统基尔宣布解除该国国防部长安吉丽娜·特尼和内政部长马哈茂德·索罗门的职务。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyithfu1277121.d.html</link>
-            <guid>3011117</guid>
-            <pubDate>Sat, 04 Mar 2023 11:38:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【财通证券7单主板IPO在审项目平移完成】据财通证券，目前，财通证券平移主板IPO在审项目7单，排名位列行业第12，其中浙江企业占比100%，民营企业占比逾八成。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyithfs4499685.d.html</link>
-            <guid>3011116</guid>
-            <pubDate>Sat, 04 Mar 2023 11:37:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
