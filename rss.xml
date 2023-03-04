@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 04 Mar 2023 20:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 21:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【年轻人社交需求增加 “微度假”今年接着火】过去几年，周末游、周边游等“微度假”成为旅游消费市场的全新增长点。进入2023年，随着年轻人社交需求的增加，他们同样不再执著于空间距离上的“远方”，而是选择在城市及周边发现新潮玩法，进行深度体验。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-05/detail-imyiucmk1108725.d.html</link>
+            <guid>3011273</guid>
+            <pubDate>Sat, 04 Mar 2023 20:55:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【联合国秘书长敦促富裕国家每年向最不发达国家援助5000亿美元】当地时间3月4日，联合国最不发达国家峰会在卡塔尔首都多哈举行，联合国秘书长古特雷斯以及来自全球46个最不发达国家的领导人或代表与会。联合国秘书长古特雷斯在峰会致辞中敦促富裕国家每年提供5000亿美元，援助“陷入恶性循环”的最不发达国家，帮助它们促进经济发展、提高教育和医疗水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-05/detail-imyiucmh4320091.d.html</link>
+            <guid>3011272</guid>
+            <pubDate>Sat, 04 Mar 2023 20:31:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【欧盟宣布将向刚果（金）东部冲突地区运送人道主义援助物资】当地时间3月4日，欧盟表示正在启动“人道主义空中桥梁”行动，将向位于刚果（金）东部冲突地区的戈马空运人道主义援助物资。戈马是刚果（金）东部北基伍省的首府。据了解，自去年5月刚果（金）反政府武装“M23运动”与政府军发生冲突以来，该地区已有超过60万人流离失所。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2023-03-05/detail-imyiucmh4314490.d.html</link>
@@ -282,18 +294,6 @@
             <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyithfs4499685.d.html</link>
             <guid>3011116</guid>
             <pubDate>Sat, 04 Mar 2023 11:37:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿联酋总统会见意大利总理 讨论双边合作等问题】当地时间3月4日，阿联酋总统穆罕默德·本·扎耶德·阿勒纳哈扬会见了到访的意大利总理焦尔吉娅·梅洛尼。双方讨论了两国建立战略伙伴关系的合作路径和机遇，着重讨论了在经济、投资、贸易以及能源安全、可再生能源、清洁技术和可持续发展等领域的合作。两国领导人表达了加快发展双边关系的愿望。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyithfs4487514.d.html</link>
-            <guid>3011115</guid>
-            <pubDate>Sat, 04 Mar 2023 11:19:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：几内亚的铝土矿出口在2022财年增长19%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyithfu1263535.d.html</link>
-            <guid>3011114</guid>
-            <pubDate>Sat, 04 Mar 2023 11:17:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
