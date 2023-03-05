@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 05 Mar 2023 17:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 18:22:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[国际货币基金组织代表：塞尔维亚应继续收紧货币政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-06/detail-imyiwaak4029662.d.html</link>
+            <guid>3011849</guid>
+            <pubDate>Sun, 05 Mar 2023 18:19:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【十大券商策略：“两会行情”可期！A股积极因素正逐步累积 关注国企改革、数字经济】中金公司：A股积极因素正逐步累积，两会期间关注政策方向；海通证券：从两会报告看产业亮点，数字经济代表的成长空间或更大；财通证券：“两会行情”可期，国企改革有望助推上证50；中信证券：增量资金入场，把握中大盘成长的黄金配置窗口。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-06/detail-imyiwaak4004757.d.html</link>
+            <guid>3011797</guid>
+            <pubDate>Sun, 05 Mar 2023 17:30:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场资讯：苏伊士运河交通不受搁浅船舶影响。]]></title>
             <link>https://finance.sina.cn/7x24/2023-03-06/detail-imyiwaan0769610.d.html</link>
@@ -266,23 +278,6 @@
             <link>https://finance.sina.cn/7x24/2023-03-05/detail-imyivrns0858233.d.html</link>
             <guid>3011728</guid>
             <pubDate>Sun, 05 Mar 2023 13:12:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美毒火车脱轨地74%居民有头痛症状 过半有焦虑情绪、疲劳感】据美国媒体4日报道，俄亥俄州州长办公室公布了针对约170名东巴勒斯坦城居民的健康评估报告。结果显示，自东巴勒斯坦城“毒火车”脱轨事故发生以来，当地居民有74%出现了头痛，61%有咳嗽症状，52%的人表示皮肤有刺痛或灼热感，有64%的人出现了焦虑情绪，58%的人表示有疲劳感。3日，美国多位科学家表示，事发地多种化学物质含量超标。（央视）]]></title>
-            <guid>3011726</guid>
-            <pubDate>Sun, 05 Mar 2023 13:09:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大立光2月营收达25.65亿元新台币，环比下降21%】3月5日，光学镜头厂大立光公布2月合并营收为25.65亿元新台币，环比下降21%，同比下降2%；累计今年前2月合并营收58.22亿元新台币，同比下降9%。2月出货产品结构显示，10M（百万画素）产品占比为50%到60%；20M以上产品占10%到20%；8M产品占0%到10%；其他产品占20%到30%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-05/detail-imyivrns0856148.d.html</link>
-            <guid>3011722</guid>
-            <pubDate>Sun, 05 Mar 2023 13:09:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国参议员拟就禁止高级行政官员持有或交易个股提出法案】市场消息称，美国共和党参议员Josh Hawley预计将于周一提出一项法案，禁止高级行政官员持有或交易个股，以加强对联邦政府内部利益冲突的限制。Hawley称：“行政部门的高级成员——他们有权获得特权信息——不应该利用这些信息致富。虽然联邦法律中已经存在防止利益冲突的禁令，但这些法律很难执行。”近几个月来，两党议员都在推动这类立法，但迄今进展甚微。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-05/detail-imyivrns0854918.d.html</link>
-            <guid>3011717</guid>
-            <pubDate>Sun, 05 Mar 2023 13:06:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
