@@ -6,6 +6,176 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 3020789,
+            "content_html": "",
+            "title": "全球最大的住宅太阳能企业SunRun：公司在硅谷银行的存款总额不超过8000万美元；由于采用了对冲操作，公司在硅谷银行并没有太多的风险敞口。",
+            "date_modified": "2023-03-10T20:17:59.000Z"
+        },
+        {
+            "id": 3020788,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmrzh9550643.d.html",
+            "title": "【美国财长耶伦召集多部门领导人开会 淡化硅谷银行危机的风险】美国财政部长耶伦称，美国的银行系统“依旧坚韧”，监管机构“拥有有效的工具”来应对围绕硅谷银行的事态发展。美国财政部在一份通过电子邮件发表的声明中表示，耶伦周五召集美联储、联邦存款保险公司和货币监理署的领导人举行会议，讨论围绕硅谷银行的事态发展。经历了包括融资失败以及科技初创企业纷纷撤走资金等一系列事件的动荡一周之后，硅谷银行成为美国十多年来规模最大的倒闭银行。",
+            "date_modified": "2023-03-10T20:07:25.000Z"
+        },
+        {
+            "id": 3020787,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmrzf2770285.d.html",
+            "title": "美国白宫经济顾问委员会主席劳斯：我们对我们的监管机构有信心。",
+            "date_modified": "2023-03-10T19:58:24.000Z"
+        },
+        {
+            "id": 3020786,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmrzh9547351.d.html",
+            "title": "美国白宫经济顾问委员会主席劳斯：财政部长耶伦正在密切关注硅谷银行的情况。",
+            "date_modified": "2023-03-10T19:58:19.000Z"
+        },
+        {
+            "id": 3020785,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmrzf2770224.d.html",
+            "title": "美国白宫经济顾问委员会主席劳斯：美国走向稳定增长的道路将是坎坷的。",
+            "date_modified": "2023-03-10T19:58:15.000Z"
+        },
+        {
+            "id": 3020784,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmrzh9547301.d.html",
+            "title": "美国白宫经济顾问委员会主席劳斯：有信心美国将恢复稳定增长。",
+            "date_modified": "2023-03-10T19:58:11.000Z"
+        },
+        {
+            "id": 3020783,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmrzh9538430.d.html",
+            "title": "【美国富国银行的一些客户报告存款丢失】美国富国银行的一些客户周五早上醒来，发现他们的支票账户里的存款不见了。该银行承认，一些直接存款交易没有出现在账户中，他们正在研究解决方案。富国银行表示，这些账户安全可靠，存款丢失是由于一个未知的技术问题。“如果您看到不正确的余额或丢失的交易，这可能是由于技术问题，我们深表歉意。你的账户仍然是安全的，我们正在迅速制定解决方案，”富国银行在其网站上向客户发布的一份声明中表示。目前还不清楚这个问题有多普遍，也不清楚有多少客户受到了影响。",
+            "date_modified": "2023-03-10T19:48:00.000Z"
+        },
+        {
+            "id": 3020782,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmrzf2758295.d.html",
+            "title": "美国财长耶伦：相信监管机构将采取适当行动。",
+            "date_modified": "2023-03-10T19:41:23.000Z"
+        },
+        {
+            "id": 3020781,
+            "content_html": "",
+            "title": "WTI 4月原油期货收涨0.96美元，涨幅1.27%，报76.68美元/桶。NYMEX 4月天然气期货收跌4.44%，报2.4300美元/百万英热单位。",
+            "date_modified": "2023-03-10T19:38:13.000Z"
+        },
+        {
+            "id": 3020780,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmrzf2757128.d.html",
+            "title": "美国财长耶伦：对银行监管机构充满信心。",
+            "date_modified": "2023-03-10T19:37:55.000Z"
+        },
+        {
+            "id": 3020779,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmrzh9534176.d.html",
+            "title": "美国财长耶伦：已经召集监管机构讨论硅谷银行问题。",
+            "date_modified": "2023-03-10T19:37:48.000Z"
+        },
+        {
+            "id": 3020778,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmrzf2756705.d.html",
+            "title": "美国财长耶伦：银行体系仍保持韧性。",
+            "date_modified": "2023-03-10T19:36:43.000Z"
+        },
+        {
+            "id": 3020777,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmrzf2756590.d.html",
+            "title": "【萨默斯：如果储户毫发无损，硅谷银行倒闭将不构成系统性风险】前美国财政部长萨默斯表示，只要储户毫发无损，硅谷银行爆雷应该不会对金融系统构成风险。萨默斯认为：“绝对重要的一点是，无论这件事最后怎么解决，储户得拿到钱，拿到全部钱。只要是这样的情况，如果处置得当，即使银行资产价值面临风险，我也有充分理由认为其不会成为一个系统性风险的来源”。萨默斯表示，由于最新形势的发展，银行业“可能需要进行一些整合”，这可能会对监管机构构成考验。",
+            "date_modified": "2023-03-10T19:36:25.000Z"
+        },
+        {
+            "id": 3020776,
+            "content_html": "",
+            "title": "纽约商业交易所（NYMEX）WTI原油期货4月合约结算价为76.68美元/桶；NYMEX汽油期货4月合约结算价报2.6458美元/加仑。",
+            "date_modified": "2023-03-10T19:34:03.000Z"
+        },
+        {
+            "id": 3020775,
+            "content_html": "",
+            "title": "市场资讯：曼联俱乐部的出售最后期限被延后至今年夏季。曼联股价盘中下跌5%，触及日低。",
+            "date_modified": "2023-03-10T19:33:51.000Z"
+        },
+        {
+            "id": 3020774,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmrzf2755639.d.html",
+            "title": "美国议员希尔：众议院金融服务委员会正在密切关注硅谷银行的情况。",
+            "date_modified": "2023-03-10T19:33:32.000Z"
+        },
+        {
+            "id": 3020773,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmrzh9532201.d.html",
+            "title": "【2023年俄罗斯粮食产量可能达到1.2亿吨左右】俄罗斯工商会农工综合发展委员会主席Pyotr Chekmarev表示，2023年俄罗斯的粮食收成可能达到1.2亿吨左右。Chekmarev表示，今年俄罗斯没有任何普遍的种子问题，俄罗斯农民使用化肥和植保产品没有面临问题，但主要风险之一是燃料和润滑油的价格。",
+            "date_modified": "2023-03-10T19:32:46.000Z"
+        },
+        {
+            "id": 3020772,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmrzh9531610.d.html",
+            "title": "生物技术公司Gritstone bio：在硅谷银行有不到50万美元现金。",
+            "date_modified": "2023-03-10T19:32:12.000Z"
+        },
+        {
+            "id": 3020771,
+            "content_html": "",
+            "title": "美国内政部正在加速编制计划以出售墨西哥湾地区的石油开采租赁权。此前曾有国会议员批评称，内政部在此行动上故意拖延、试图阻挠。",
+            "date_modified": "2023-03-10T19:28:48.000Z"
+        },
+        {
+            "id": 3020770,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmrzf2752936.d.html",
+            "title": "美国联邦航空管理局（FAA）：波音公司下周可以恢复交付。",
+            "date_modified": "2023-03-10T19:28:33.000Z"
+        },
+        {
+            "id": 3020769,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmrzf2752765.d.html",
+            "title": "市场资讯：美国联邦航空管理局（FAA）批准重新启动波音787梦幻客机的交付工作。",
+            "date_modified": "2023-03-10T19:27:56.000Z"
+        },
+        {
+            "id": 3020768,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmrzh9529715.d.html",
+            "title": "波音股价抹去跌幅。",
+            "date_modified": "2023-03-10T19:27:30.000Z"
+        },
+        {
+            "id": 3020767,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmrzf2752567.d.html",
+            "title": "【媒体：硅谷银行暴雷事件对美国债券指数的影响有限】美国公司债指数在硅谷银行金融集团债券的风险敞口大约为33亿美元。而美国公司高收益率债券指数和资本美国附息债券小于五年指数则不存在风险敞口。这就限制了硅谷银行破产管理所能产生的直接影响的力度。",
+            "date_modified": "2023-03-10T19:27:22.000Z"
+        },
+        {
+            "id": 3020766,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmrzh9525280.d.html",
+            "title": "欧盟委员：将和拜登讨论《通胀削减法案》。",
+            "date_modified": "2023-03-10T19:17:26.000Z"
+        },
+        {
+            "id": 3020765,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmrzh9524019.d.html",
+            "title": "【美国财政赤字扩大 或加剧长期预算上美国两党的争执】美国联邦政府2月份的预算赤字扩大了2620亿美元，使本财年前5个月的赤字达到7230亿美元。根据美国财政部周五公布的月度预算数据，政府为未偿债务支付的利息再次成为赤字的主要驱动因素。2月份的利息支出为460亿美元，本财年迄今为止的利息支出约为3070亿美元，比去年同期猛增29%左右。经调整后，本财政年度的联邦赤字比前一年扩大了62%。这种恶化将加剧围绕如何应对长期预算挑战的两党争执，美国总统拜登提议大幅增税，而美国共和党议员则坚持削减支出。",
+            "date_modified": "2023-03-10T19:13:43.000Z"
+        },
+        {
             "id": 3020764,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmrzf2746207.d.html",
@@ -170,172 +340,6 @@
             "content_html": "",
             "title": "上海黄金交易所黄金T+D 3月11日（周六）晚盘收盘上涨0.7%报420.11元/克；上海黄金交易所白银T+D 3月11日（周六）晚盘收盘上涨1.41%报4832.0元/千克。",
             "date_modified": "2023-03-10T18:30:28.000Z"
-        },
-        {
-            "id": 3020739,
-            "content_html": "",
-            "title": "市场资讯：Lafayette Energy申请在纳斯达克IPO。",
-            "date_modified": "2023-03-10T18:23:27.000Z"
-        },
-        {
-            "id": 3020738,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmti2857057.d.html",
-            "title": "美股冲高回落，三大指数均跌超1%。",
-            "date_modified": "2023-03-10T18:22:41.000Z"
-        },
-        {
-            "id": 3020737,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmti2854732.d.html",
-            "title": "惠誉：美国经济的近期势头超过预期，年初就业和消费增长强劲。",
-            "date_modified": "2023-03-10T18:17:09.000Z"
-        },
-        {
-            "id": 3020736,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmtk9631802.d.html",
-            "title": "美联储在固定利率逆回购操作中总计接纳了100个对手方的2.188万亿美元。",
-            "date_modified": "2023-03-10T18:17:03.000Z"
-        },
-        {
-            "id": 3020735,
-            "content_html": "",
-            "title": "加密货币商业银行 Galaxy Digital创始人兼首席执行官 Mike Novogratz：未曾在银行业务上与硅谷银行有过往来。",
-            "date_modified": "2023-03-10T18:14:37.000Z"
-        },
-        {
-            "id": 3020734,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmtk9631109.d.html",
-            "title": "巴克莱：就业数据公布后，预计美联储将在3月份加息50个基点。",
-            "date_modified": "2023-03-10T18:13:50.000Z"
-        },
-        {
-            "id": 3020733,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmtk9630962.d.html",
-            "title": "惠誉：全球经济增长前景已有所好转，但各国央行继续加息的行动仍将遏制经济增长动能。",
-            "date_modified": "2023-03-10T18:13:18.000Z"
-        },
-        {
-            "id": 3020732,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmti2851300.d.html",
-            "title": "惠誉：全球经济增长前景改善，但加息影响仍存在。",
-            "date_modified": "2023-03-10T18:07:52.000Z"
-        },
-        {
-            "id": 3020731,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmti2850708.d.html",
-            "title": "苹果公司2023年股东大会结束。",
-            "date_modified": "2023-03-10T18:05:23.000Z"
-        },
-        {
-            "id": 3020730,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmtk9627438.d.html",
-            "title": "美国至3月10日当周石油钻井总数 590口，预期589口，前值592口。",
-            "date_modified": "2023-03-10T18:04:00.000Z"
-        },
-        {
-            "id": 3020729,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmti2847594.d.html",
-            "title": "苹果公司首席执行官蒂姆·库克：全球经济正面临着空前复杂的形势。",
-            "date_modified": "2023-03-10T17:57:33.000Z"
-        },
-        {
-            "id": 3020728,
-            "content_html": "",
-            "title": "瑞士信贷：瑞士监管部门Finma对董事会主席Axel Lehmann的调查已经结束，不会再启动任何新的监管程序。",
-            "date_modified": "2023-03-10T17:57:24.000Z"
-        },
-        {
-            "id": 3020727,
-            "content_html": "",
-            "title": "LME期铜收涨58美元，报8867美元/吨。LME期铝收跌15美元，报2313美元/吨。LME期锌收跌37美元，报2937美元/吨。LME期铅收跌7美元，报2077美元/吨。LME期镍收跌585美元，报22684美元/吨。LME期锡收跌439美元，报22912美元/吨。",
-            "date_modified": "2023-03-10T17:56:48.000Z"
-        },
-        {
-            "id": 3020726,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmtk9622900.d.html",
-            "title": "苹果公司首席执行官蒂姆·库克：在招聘和支出方面非常谨慎。",
-            "date_modified": "2023-03-10T17:52:04.000Z"
-        },
-        {
-            "id": 3020725,
-            "content_html": "",
-            "title": "周五（3月10日）欧市尾盘，德国10年期国债收益率下跌13.5个基点，报2.508%，盘中交投于2.643%-2.426%区间。",
-            "date_modified": "2023-03-10T17:48:57.000Z"
-        },
-        {
-            "id": 3020724,
-            "content_html": "",
-            "title": "看涨比特币的华尔街资深投资者Michael Novogratz：对美国联邦政府默许储户在硅谷银行倒闭事件中蒙受损失之举感到“震惊”。",
-            "date_modified": "2023-03-10T17:46:20.000Z"
-        },
-        {
-            "id": 3020723,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmtk9620247.d.html",
-            "title": "苹果公司首席执行官蒂姆·库克：在印度看到了难以置信的巨大机遇。",
-            "date_modified": "2023-03-10T17:43:33.000Z"
-        },
-        {
-            "id": 3020722,
-            "content_html": "",
-            "title": "加密货币投资公司Galaxy Digital创始人Novogratz：对美联储将让储户在SVB事件上遭到资金损失感到震惊。",
-            "date_modified": "2023-03-10T17:41:11.000Z"
-        },
-        {
-            "id": 3020721,
-            "content_html": "",
-            "title": "美国加州电网运营商：因风暴天气发布输电紧急状况提示，加州西北部Humboldt县供电可能受影响。",
-            "date_modified": "2023-03-10T17:39:28.000Z"
-        },
-        {
-            "id": 3020720,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmti2839378.d.html",
-            "title": "【美国金融服务和金融技术公司Brex周四从硅谷银行收到了数十亿美元的资金】美国金融服务和金融技术公司Brex周四（3月9日）从硅谷银行收到了数十亿美元的资金。一位直接了解情况的人士说，Brex周四开设了数千个新账户，总计流入数十亿美元。摩根大通、摩根士丹利和第一共和银行等其他公司周四的资金流入也有所增加，SVB的股价因风投引发的银行挤兑担忧而大幅下跌。存款外流给SVB带来了更大的压力，该公司本周早些时候曾试图筹集股权融资，并积极开展资产出售。周五，该银行被美国联邦存款保险公司接管。",
-            "date_modified": "2023-03-10T17:35:01.000Z"
-        },
-        {
-            "id": 3020719,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmtk9616327.d.html",
-            "title": "美国国会民主党参议员曼钦：风电与太阳能光伏发电当前已是成熟产业。",
-            "date_modified": "2023-03-10T17:34:31.000Z"
-        },
-        {
-            "id": 3020718,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmtk9616287.d.html",
-            "title": "币安：对硅谷银行没有风险敞口，资金是安全的。",
-            "date_modified": "2023-03-10T17:34:25.000Z"
-        },
-        {
-            "id": 3020717,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmtk9615512.d.html",
-            "title": "瑞士信贷：瑞士金融市场监督管理局（FINMA）认为没有必要启动监管程序。",
-            "date_modified": "2023-03-10T17:33:01.000Z"
-        },
-        {
-            "id": 3020716,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmtk9612216.d.html",
-            "title": "【券商策略分析师们观点差异挺大：有的持乐观态度，有的态度谨慎】眼下，不少券商通过召开春季策略会，或者发布报告等形式，表达了对A股下一阶段走势的看法与观点。有的券商持乐观态度。中信证券称，预计A股将迎来“转折之年”，增量资金或将在3月集中增配A股。瑞银证券称，两会结束之后市场又将重拾上升趋势。有的券商持谨慎态度。中信建投称A股的春季行情已经进入较难赚钱的鱼尾阶段。西部证券策略团队认为，跨年行情已经完美谢幕。（券商中国）",
-            "date_modified": "2023-03-10T17:30:46.000Z"
-        },
-        {
-            "id": 3020715,
-            "content_html": "",
-            "title": "Western Alliance银行表示，截至3月9日，存款总额为615亿美元，存款依然强劲。",
-            "date_modified": "2023-03-10T17:29:10.000Z"
         }
     ]
 }
