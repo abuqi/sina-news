@@ -6,6 +6,185 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 3020764,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmrzf2746207.d.html",
+            "title": "美国白宫经济顾问：劳动力参与度有机会得到提高。",
+            "date_modified": "2023-03-10T19:12:41.000Z"
+        },
+        {
+            "id": 3020763,
+            "content_html": "",
+            "title": "在岸人民币兑美元北京时间23:30收报6.9195，较上一交易日夜盘收盘涨435点。成交量346.16亿美元。",
+            "date_modified": "2023-03-10T19:10:26.000Z"
+        },
+        {
+            "id": 3020762,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmrzh9520903.d.html",
+            "title": "【古特雷斯就叙利亚危机12周年发表声明】当地时间3月10日，联合国秘书长古特雷斯通过发言人就叙利亚危机12周年发表声明。古特雷斯表示，3月11日是叙利亚危机12周年，而叙利亚人民今年又遭遇了地震的悲剧，人道主义需求达到冲突开始以来的最高水平。古特雷斯表示，在哀悼所有遇难者并在叙利亚各地扩大人道主义行动的同时，必须确保使用所有方式和充足的资源继续行动，以满足所有受影响者的需求。（央视新闻）",
+            "date_modified": "2023-03-10T19:08:14.000Z"
+        },
+        {
+            "id": 3020761,
+            "content_html": "",
+            "title": "以色列总理内塔尼亚胡表示，在罗马打算成为天然气中心的情况下，以色列寻求通过意大利增加对欧洲的天然气出口。",
+            "date_modified": "2023-03-10T19:07:36.000Z"
+        },
+        {
+            "id": 3020760,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmtk9650863.d.html",
+            "title": "加拿大加密货币公司Bigg Digital Assets：确认在SilverGate以及硅谷银行都没有风险敞口。",
+            "date_modified": "2023-03-10T19:05:48.000Z"
+        },
+        {
+            "id": 3020759,
+            "content_html": "",
+            "title": "阿根廷最大石油天然气公司YPF首席财务官：预计2023年公司石油产量将增长8%，天然气产量将增长3%。预计在未来五年内石油产量将翻一番，天然气产量将增加30%。",
+            "date_modified": "2023-03-10T19:04:00.000Z"
+        },
+        {
+            "id": 3020758,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmti2872310.d.html",
+            "title": "【硅谷银行陷入困境后，美国地区银行股仍承压】周五，美股许多地区银行股仍承压，市场试图评估硅谷银行事件的影响，以及影响可能蔓延到多远。拥有庞大财富管理业务的第一共和银行在股价大幅下跌后停牌。Hennessy Funds专门投资银行股的投资组合经理Dave Ellison说：“对我来说，大环境是美国的每家银行都在关注自己的流动性。解决流动性问题的一个重要方法就是停止放贷。”Ellison说，他相信美国经济衰退终于开始了，预计大多数银行将停止或减少贷款，以增加流动性。而美国银行的分析师Ebrahim Poonawala和Brandon Berman写道，银行股的抛售“可能过度了”，但这也“突显出投资者太迟意识到，长期利率上升对该行业每股收益前景不利。”",
+            "date_modified": "2023-03-10T19:03:05.000Z"
+        },
+        {
+            "id": 3020757,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmti2870821.d.html",
+            "title": "ICE 5月棉花期货下跌4.87%，触及交易所跌停限制，报78.18美分/磅。",
+            "date_modified": "2023-03-10T19:00:54.000Z"
+        },
+        {
+            "id": 3020756,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmtk9647677.d.html",
+            "title": "美国2月政府预算-2624亿美元，预期-2630亿美元，前值-2166亿美元。",
+            "date_modified": "2023-03-10T19:00:10.000Z"
+        },
+        {
+            "id": 3020755,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmtk9646835.d.html",
+            "title": "土耳其外长：欢迎沙特阿拉伯和伊朗达成恢复外交关系的协议。",
+            "date_modified": "2023-03-10T18:57:22.000Z"
+        },
+        {
+            "id": 3020754,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmti2866992.d.html",
+            "title": "市场资讯：俄罗斯称世界野生动物基金会为外国代理人。",
+            "date_modified": "2023-03-10T18:51:32.000Z"
+        },
+        {
+            "id": 3020753,
+            "content_html": "",
+            "title": "COMEX 4月黄金期货结算价涨1.8%，报1867.2美元/盎司，本周累涨0.68%。",
+            "date_modified": "2023-03-10T18:51:07.000Z"
+        },
+        {
+            "id": 3020752,
+            "content_html": "",
+            "title": "洲际交易所：截至3月7日当周，布伦特原油期货投机性净多头头寸增加了12291手合约，至298291手合约；汽油期货投机性净多头头寸增加了6364手，至45301手。",
+            "date_modified": "2023-03-10T18:50:42.000Z"
+        },
+        {
+            "id": 3020751,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmti2866546.d.html",
+            "title": "欧盟委员会主席冯德莱恩将于十分钟后和美国总统拜登就清洁能源和供应链问题进行讨论。",
+            "date_modified": "2023-03-10T18:50:37.000Z"
+        },
+        {
+            "id": 3020750,
+            "content_html": "",
+            "title": "巴克莱：硅谷银行倒闭这起事件突显了抵押贷款支持证券（MBS）在高利率环境下受到的冲击，MBS当前面对利率的敏感性已经超过了以往。",
+            "date_modified": "2023-03-10T18:46:36.000Z"
+        },
+        {
+            "id": 3020749,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmti2865080.d.html",
+            "title": "美股继续走低，纳指现跌2%，标普500指数跌1.62%，道指跌1.25%。",
+            "date_modified": "2023-03-10T18:45:00.000Z"
+        },
+        {
+            "id": 3020748,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmti2864189.d.html",
+            "title": "美股恐慌指数VIX指数攀升至27.60，为去年10月25日以来最高水平。",
+            "date_modified": "2023-03-10T18:42:22.000Z"
+        },
+        {
+            "id": 3020747,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmti2862778.d.html",
+            "title": "【硅谷银行爆雷后 美国两家银行试图安抚投资者】在美国硅谷银行爆雷后，美国第一共和银行和Western Alliance银行周五表示，他们的流动性和存款仍然强劲，试图安抚投资者对硅谷银行倒闭风险外溢的担忧。Western Alliance银行报告存款总额为615亿美元，并警告说，由于季节性和月度活动，到本季度末存款总额将较这一水平略有下降，但该公司确认全年存款增长预期为13%-17%。截至2月28日，该行资产负债表上持有25亿美元现金，持有至到期证券占资产的比例不到2%，未确认亏损1.92亿美元。第一共和银行表示，消费者存款的平均账户规模低于20万美元，企业存款低于50万美元。科技相关存款占总存款的4%。它的投资组合不到银行总资产的15%，只有不到2%的银行总资产被归类为可供出售。",
+            "date_modified": "2023-03-10T18:40:32.000Z"
+        },
+        {
+            "id": 3020746,
+            "content_html": "",
+            "title": "恒生指数主连夜盘收涨0.30%，报19359点。恒生科技指数主连夜盘收涨0.66%，报3812点。",
+            "date_modified": "2023-03-10T18:38:06.000Z"
+        },
+        {
+            "id": 3020745,
+            "content_html": "",
+            "title": "美国投资银行Stifel：硅谷银行对我们所覆盖的几家公司的影响“即使不是微乎其微，也是有限的”。",
+            "date_modified": "2023-03-10T18:37:54.000Z"
+        },
+        {
+            "id": 3020744,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmti2861312.d.html",
+            "title": "美国财政部官员：美国就业的变化可能会推动劳动生产率进一步提高。",
+            "date_modified": "2023-03-10T18:35:19.000Z"
+        },
+        {
+            "id": 3020743,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmtk9638188.d.html",
+            "title": "市场资讯：2022年对俄罗斯投资同比增长4.6%，第四季度增长3.3%。",
+            "date_modified": "2023-03-10T18:34:30.000Z"
+        },
+        {
+            "id": 3020742,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmti2860938.d.html",
+            "title": "加密货币交易所Gemini：与硅谷银行没有任何业务联系。",
+            "date_modified": "2023-03-10T18:33:53.000Z"
+        },
+        {
+            "id": 3020741,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmtk9637789.d.html",
+            "title": "【夜盘主力合约收盘】截至2:30收盘，沪金主力合约收涨0.88%，报420元/克，沪银主力合约收涨1.29%，报4862元/千克，SC原油主力合约收跌1.11%，报553元/桶。",
+            "date_modified": "2023-03-10T18:32:58.000Z"
+        },
+        {
+            "id": 3020740,
+            "content_html": "",
+            "title": "上海黄金交易所黄金T+D 3月11日（周六）晚盘收盘上涨0.7%报420.11元/克；上海黄金交易所白银T+D 3月11日（周六）晚盘收盘上涨1.41%报4832.0元/千克。",
+            "date_modified": "2023-03-10T18:30:28.000Z"
+        },
+        {
+            "id": 3020739,
+            "content_html": "",
+            "title": "市场资讯：Lafayette Energy申请在纳斯达克IPO。",
+            "date_modified": "2023-03-10T18:23:27.000Z"
+        },
+        {
+            "id": 3020738,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmti2857057.d.html",
+            "title": "美股冲高回落，三大指数均跌超1%。",
+            "date_modified": "2023-03-10T18:22:41.000Z"
+        },
+        {
             "id": 3020737,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmti2854732.d.html",
@@ -157,186 +336,6 @@
             "content_html": "",
             "title": "Western Alliance银行表示，截至3月9日，存款总额为615亿美元，存款依然强劲。",
             "date_modified": "2023-03-10T17:29:10.000Z"
-        },
-        {
-            "id": 3020714,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmti2829310.d.html",
-            "title": "苹果股价跌0.79%，现报149.40美元。",
-            "date_modified": "2023-03-10T17:23:22.000Z"
-        },
-        {
-            "id": 3020713,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmtk9605195.d.html",
-            "title": "Western Alliance银行股票结束停牌恢复交易，股价跌幅扩大至48%。",
-            "date_modified": "2023-03-10T17:21:53.000Z"
-        },
-        {
-            "id": 3020712,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmti2827873.d.html",
-            "title": "苹果股东重新选举整个董事会，苹果公司股东批准新任CEO和高管的薪酬方案。",
-            "date_modified": "2023-03-10T17:21:39.000Z"
-        },
-        {
-            "id": 3020711,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmti2827092.d.html",
-            "title": "美国世界银行行长候选人Banga：世界银行的扶贫模式已经放缓。",
-            "date_modified": "2023-03-10T17:20:38.000Z"
-        },
-        {
-            "id": 3020710,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmti2825985.d.html",
-            "title": "【萨默斯：美联储有近五成可能性会加息到6%甚至更高】美国前财长萨默斯表示，美联储将基准利率上调至6％或更高水平的可能性接近五成。他表示，“我现在的猜测是，政策利率有接近50%可能性会达到6%或更高。”萨默斯讲话前公布的非农就业数据显示，就业增长超预期，失业率上升。平均时薪增速有所放缓。他表示，该数据报告喜忧参半，难以解读，但从更广泛的角度来看，美联储目前的利率不足以对经济增长构成很大限制性。他说，“眼下看起来经济短期内很强劲，这是一件非常好的事情，但存在通胀或硬着陆的风险，所以我认为我们仍然高于限速。”",
-            "date_modified": "2023-03-10T17:17:23.000Z"
-        },
-        {
-            "id": 3020709,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmti2825898.d.html",
-            "title": "美国达美航空将于2023年招聘4000-6000名空乘人员。",
-            "date_modified": "2023-03-10T17:17:10.000Z"
-        },
-        {
-            "id": 3020708,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmti2820685.d.html",
-            "title": "生物技术公司Rocket Pharmaceuticals：在SVB没有现金存款。",
-            "date_modified": "2023-03-10T17:06:30.000Z"
-        },
-        {
-            "id": 3020707,
-            "content_html": "",
-            "title": "美国共和党参议员Murkowski：国会必须提高债务上限，否则将向世界传递错误的信息。",
-            "date_modified": "2023-03-10T17:05:59.000Z"
-        },
-        {
-            "id": 3020706,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmtk9597429.d.html",
-            "title": "秘鲁央行：维持利率的决定并不意味着加息周期结束。",
-            "date_modified": "2023-03-10T17:05:39.000Z"
-        },
-        {
-            "id": 3020705,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmtk9597129.d.html",
-            "title": "苹果2023年线上股东大会开始。",
-            "date_modified": "2023-03-10T17:04:59.000Z"
-        },
-        {
-            "id": 3020704,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmtk9596788.d.html",
-            "title": "市场消息：通用公司正在开发AI虚拟个人助理。",
-            "date_modified": "2023-03-10T17:04:15.000Z"
-        },
-        {
-            "id": 3020703,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmti2819570.d.html",
-            "title": "美国民主党参议员曼钦：美国必须解决膨胀的债务成本以保持全球超级大国地位。",
-            "date_modified": "2023-03-10T17:03:55.000Z"
-        },
-        {
-            "id": 3020702,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmti2819489.d.html",
-            "title": "硅谷银行在英国的客户称，硅谷银行显示账户余额和资金交易的仪表板已经瘫痪。",
-            "date_modified": "2023-03-10T17:03:42.000Z"
-        },
-        {
-            "id": 3020701,
-            "content_html": "",
-            "title": "国际铜夜盘收跌0.44%，沪铜收跌0.17%，沪铝收跌0.60%，沪锌收跌0.93%，沪铅收跌0.16%，沪镍收跌3.16%，沪锡收跌1.46%。不锈钢夜盘收跌0.16%。",
-            "date_modified": "2023-03-10T17:02:40.000Z"
-        },
-        {
-            "id": 3020700,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmmtk9594394.d.html",
-            "title": "【美国加州金融保护与创新部门接管硅谷银行】美国加州金融保护与创新部门（DFPI）公告显示，其在今天宣布，根据加州金融法典第592条，它已经接管了硅谷银行，理由是流动性不足和资不抵债。DFPI指定联邦存款保险公司（FDIC）作为硅谷银行的接管方。硅谷银行是一家州特许商业银行，也是位于圣克拉拉的联邦储备系统的成员，截至2022年12月31日，总资产约为2090亿美元，总存款约为1754亿美元。它的存款由联邦存款保险公司在适用的限额下提供联邦保险。",
-            "date_modified": "2023-03-10T17:00:53.000Z"
-        },
-        {
-            "id": 3020699,
-            "content_html": "",
-            "title": "法国奢侈品巨头LVMH：公司CEO阿尔诺2023年度的固定薪酬为114万欧元，可变薪酬为220万欧元。",
-            "date_modified": "2023-03-10T16:59:58.000Z"
-        },
-        {
-            "id": 3020698,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmfmm2943453.d.html",
-            "title": "美国联邦存款保险公司：超过保险限额的存款数额尚未确定。",
-            "date_modified": "2023-03-10T16:48:35.000Z"
-        },
-        {
-            "id": 3020697,
-            "content_html": "",
-            "title": "美国联邦存款保险公司：为了保护受保险的储户，联邦存款保险公司创建了圣克拉拉储蓄保险国家银行（DINB）。",
-            "date_modified": "2023-03-10T16:48:29.000Z"
-        },
-        {
-            "id": 3020696,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmfmm2943080.d.html",
-            "title": "美国联邦存款保险公司：未投保的存款人将收到其未投保资金剩余金额的破产管理证书。",
-            "date_modified": "2023-03-10T16:46:57.000Z"
-        },
-        {
-            "id": 3020695,
-            "content_html": "",
-            "title": "美国联邦存款保险公司：硅谷银行的总部和所有分支机构将于2023年3月13日星期一重新开放。",
-            "date_modified": "2023-03-10T16:46:37.000Z"
-        },
-        {
-            "id": 3020694,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmfmn9719939.d.html",
-            "title": "美国联邦存款保险公司：硅谷银行的官方支票将继续兑现。",
-            "date_modified": "2023-03-10T16:46:05.000Z"
-        },
-        {
-            "id": 3020693,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmfmm2942768.d.html",
-            "title": "美国联邦存款保险公司：硅谷银行有1754亿美元存款。",
-            "date_modified": "2023-03-10T16:45:44.000Z"
-        },
-        {
-            "id": 3020692,
-            "content_html": "",
-            "title": "市场资讯：美国联邦存款保险公司采取行动保护硅谷银行的受保储户，建立了一个存款保险，指定联邦存款保险FDIC为接管人。",
-            "date_modified": "2023-03-10T16:45:38.000Z"
-        },
-        {
-            "id": 3020691,
-            "content_html": "",
-            "title": "美国联邦存款保险公司：硅谷银行受保储户周一可以进入银行，该行主要办公室和分办公室周一重新开放。",
-            "date_modified": "2023-03-10T16:44:40.000Z"
-        },
-        {
-            "id": 3020690,
-            "content_html": "",
-            "title": "美国联邦存款保险公司：硅谷银行拥有约2090亿美元资产，该银行是今年第一家破产的受保险机构。",
-            "date_modified": "2023-03-10T16:44:32.000Z"
-        },
-        {
-            "id": 3020689,
-            "content_html": "",
-            "title": "德国DAX30指数3月10日（周五）收盘下跌205.26点，跌幅1.31%，报15427.95点；英国富时100指数3月10日（周五）收盘下跌132.68点，跌幅1.68%，报7747.30点；法国CAC40指数3月10日（周五）收盘下跌95.21点，跌幅1.30%，报7220.67点；欧洲斯托克50指数3月10日（周五）收盘下跌55.57点，跌幅1.30%，报4230.55点；西班牙IBEX35指数3月10日（周五）收盘下跌137.77点，跌幅1.46%，报9285.43点；意大利富时MIB指数3月10日（周五）收盘下跌433.53点，跌幅1.56%，报27277.00点。",
-            "date_modified": "2023-03-10T16:40:46.000Z"
-        },
-        {
-            "id": 3020688,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-03-11/detail-imykmfmm2940064.d.html",
-            "title": "美国联邦存款保险公司：硅谷银行被加州监管机构关闭。",
-            "date_modified": "2023-03-10T16:40:27.000Z"
         }
     ]
 }
