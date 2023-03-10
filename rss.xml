@@ -4,294 +4,293 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Fri, 10 Mar 2023 01:47:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 02:57:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[信创概念股快速反弹，恒久科技拉升封板，汇金科技、易华录涨超10%，银信科技、彩讯股份、熙菱信息、万兴科技等纷纷冲高。]]></title>
-            <guid>3019403</guid>
-            <pubDate>Fri, 10 Mar 2023 01:46:52 GMT</pubDate>
+            <title><![CDATA[新华社快讯：习近平当选为中华人民共和国主席。]]></title>
+            <guid>3019698</guid>
+            <pubDate>Fri, 10 Mar 2023 02:56:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[医药股开盘走低，普洛药业跌超9%，亨迪药业、新华制药、神奇制药、金石亚药、山河药辅等跟跌。]]></title>
-            <guid>3019398</guid>
-            <pubDate>Fri, 10 Mar 2023 01:44:49 GMT</pubDate>
+            <title><![CDATA[【南向资金净流入超30亿元】按余额规模口径统计，截至目前南向资金净流入超30亿元，其中港股通（沪）流入超15亿元，港股通（深）流入超14亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz3022351.d.html</link>
+            <guid>3019697</guid>
+            <pubDate>Fri, 10 Mar 2023 02:56:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【ChatGPT板块异动拉升 天利科技20CM涨停】ChatGPT板块分化，天利科技20CM涨停，当虹科技、彩讯股份、银之杰、光云科技、海天瑞声等快速跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz2948361.d.html</link>
-            <guid>3019393</guid>
-            <pubDate>Fri, 10 Mar 2023 01:43:38 GMT</pubDate>
+            <title><![CDATA[消息人士称，沙特阿美将在4月份向至少4家北亚炼油厂供应全部合同数量的原油。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz3021468.d.html</link>
+            <guid>3019696</guid>
+            <pubDate>Fri, 10 Mar 2023 02:54:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【数字经济再度冲高 数据要素方向领涨】数据要素概念股开盘走高，恒久科技拉升封板，易华录、佳华科技、英飞拓、山大地纬、东方国信、创意信息等纷纷冲高。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz2947837.d.html</link>
-            <guid>3019388</guid>
-            <pubDate>Fri, 10 Mar 2023 01:43:09 GMT</pubDate>
+            <title><![CDATA[【王启铭任国家铁路局副局长】 据澎湃新闻，国家铁路局官网“组织机构-局领导”一栏更新显示，此前担任国家铁路局安全监察司司长的王启铭现已出任该局副局长。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz3021405.d.html</link>
+            <guid>3019695</guid>
+            <pubDate>Fri, 10 Mar 2023 02:54:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国地质勘探局：俄罗斯维尔柳钦斯克东南以南184公里处发生5.3级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz2947364.d.html</link>
-            <guid>3019386</guid>
-            <pubDate>Fri, 10 Mar 2023 01:42:50 GMT</pubDate>
+            <title><![CDATA[A股超导概念股快速回暖，百利电气直线涨停，永鼎股份拉升翻红。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz3021379.d.html</link>
+            <guid>3019694</guid>
+            <pubDate>Fri, 10 Mar 2023 02:54:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【超导概念股开盘大跌 西部超导跌超5%】西部超导、永鼎股份跌超5%，宝胜股份、百利电气、金杯电工、东方坦业等跟跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixsa9723476.d.html</link>
-            <guid>3019375</guid>
-            <pubDate>Fri, 10 Mar 2023 01:42:09 GMT</pubDate>
+            <title><![CDATA[【中国空间技术研究院研制并成功发射航天器达400颗】3月10日，我国在太原卫星发射中心使用长征四号丙运载火箭，成功将天绘六号A/B星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。天绘六号A/B星由中国航天科技集团有限公司所属中国空间技术研究院抓总研制，主要用于地理信息测绘、国土资源普查和科学试验研究等任务。至此，中国空间技术研究院研制并成功发射的航天器达400颗。从研制并成功发射我国第一颗人造卫星“东方红一号”，到如今成功送第400星飞天……展望未来，中国航天令人期待。据航天科技集团有关负责人介绍，2023年航天科技集团共计划安排约60次宇航发射任务，发射约200个航天器，长征系列运载火箭累计发射次数将突破500次。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixsa9797269.d.html</link>
+            <guid>3019693</guid>
+            <pubDate>Fri, 10 Mar 2023 02:53:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【佳兆业集团复牌 股价一度跌40%】佳兆业集团(01638.HK)停牌近一年后复牌，今日低开低走后跌幅收窄，盘中一度跌40%。截至发稿跌25%，成交超2500万港元。公司公告称，2021年营业额及毛利分别约为人民币355.44亿元及人民币46.28亿元，归属股东净亏损约为人民币127.27亿元。2022年上半年营业收入134.31亿元，毛利23.10亿元，归属股东净亏损76.72亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz2946187.d.html</link>
-            <guid>3019372</guid>
-            <pubDate>Fri, 10 Mar 2023 01:42:03 GMT</pubDate>
+            <title><![CDATA[【宁德时代：今年将保持合理的盈利水平】据证券时报，宁德时代在电话会议中释放了乐观的预期。“新能源行业发展前景广阔，随着新能源车竞争力逐步提升、储能政策持续支持，未来将保持较快增长”，而宁德时代将在2023年“追求高质量的份额增长，同时保持合理的盈利水平”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixsa9795557.d.html</link>
+            <guid>3019692</guid>
+            <pubDate>Fri, 10 Mar 2023 02:51:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【截至3月9日上交所基础设施公募REITs市值合计604.33亿元】 据上交所消息，截至2023年3月9日，上交所基础设施公募REITs市值合计604.33亿元，2023年3月9日成交额合计为21875.2万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixsa9722311.d.html</link>
-            <guid>3019371</guid>
-            <pubDate>Fri, 10 Mar 2023 01:41:23 GMT</pubDate>
+            <title><![CDATA[【苏州一楼盘可“0首付”购房？置业顾问：通过申请装修贷抵首付】苏州楼市日前传出消息，位于阳澄湖镇的浅棠水岸项目打出“0首付、拎包入住”的广告。对此，该楼盘置业顾问向记者表示，项目确于近日推出该项服务，但所谓0首付并非不需要支付首付。“购房者自己向银行申请装修贷，此类贷款期限一般不超过5年，通过装修贷来抵首付款，但能否批下来、具体能贷到多少，仍要视申请人征信等情况而定。部分有购房需求但短期筹不齐首付款的，可通过这种方式实现变通。”该楼盘置业顾问称。（财联社）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz3018163.d.html</link>
+            <guid>3019691</guid>
+            <pubDate>Fri, 10 Mar 2023 02:51:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【2月份北京CPI环比下降0.4% 同比上涨1.2%】2月份，受节后需求回落和市场供应充足等因素影响，居民消费价格环比有所下降，同比涨幅回落。从环比看，CPI由上月上涨0.4%转为下降0.4%。其中，食品价格由上月上涨2.4%转为下降2.3%，影响CPI下降约0.35个百分点。节后需求减弱叠加季节性因素影响，我市鲜菜、鲜果和水产品价格均由升转降，分别下降6.3%、2.2%和0.8%；市场供应相对充足，并且处于消费淡季，猪肉和鸡蛋价格分别下降13.8%和4.6%，降幅分别扩大1.6个和2.2个百分点。非食品价格持平。春节后，飞机票、电影及演出票、旅行社收费和在外住宿价格均转为下降，降幅分别为9.7%、3.1%、2.6%和0.1%；房租市场需求增加，租赁房房租价格上涨0.2%；受国际大宗商品价格波动影响，汽油和柴油价格分别上涨1.0%和1.1%。从同比看，CPI同比上涨1.2%，涨幅比上月回落0.8个百分点。（北京统计局）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixsa9721767.d.html</link>
-            <guid>3019370</guid>
-            <pubDate>Fri, 10 Mar 2023 01:41:00 GMT</pubDate>
+            <title><![CDATA[【朗迪集团：参股公司及至微公司的MEMS振镜技术可应用于半固态激光雷达】朗迪集团在互动平台表示，激光雷达有机械式、半固态、全固态等不同技术路线，参股公司及至微公司的MEMS振镜技术可以应用于半固态激光雷达，与部分激光雷达厂商有技术合作，目前尚未量产。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz3017361.d.html</link>
+            <guid>3019690</guid>
+            <pubDate>Fri, 10 Mar 2023 02:50:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【卢卡申科：白俄罗斯计划今年6月前完成加入上合组织手续】 据澎湃新闻，当地时间3月9日，白俄罗斯总统卢卡申科在白俄罗斯首都明斯克表示，白俄罗斯计划今年6月前完成加入上海合作组织（上合组织）的手续。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixsa9720912.d.html</link>
-            <guid>3019368</guid>
-            <pubDate>Fri, 10 Mar 2023 01:40:23 GMT</pubDate>
+            <title><![CDATA[【创业板指翻红】 创业板指翻红，上证指数跌0.74%，深证成指跌0.67%。汽车服务、贵金属、国资云、半导体等板块领涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz3016842.d.html</link>
+            <guid>3019689</guid>
+            <pubDate>Fri, 10 Mar 2023 02:50:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【汽车整车板块下挫】 汽车整车板块下挫，长城汽车跌超4%，中集车辆、东风汽车、长安汽车、比亚迪等跟跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz2942415.d.html</link>
-            <guid>3019362</guid>
-            <pubDate>Fri, 10 Mar 2023 01:38:59 GMT</pubDate>
+            <title><![CDATA[【自繁自养生猪养殖利润与外购仔猪养殖利润】据Wind数据显示，截至3月10日当周，自繁自养生猪养殖利润为亏损202.04元/头，3月3日为亏损189.90元/头；外购仔猪养殖利润为亏损370.16元/头，3月3日为亏损284.79元/头。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixsa9792715.d.html</link>
+            <guid>3019688</guid>
+            <pubDate>Fri, 10 Mar 2023 02:49:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【媒体：台积电德国扩张计划放缓，或重新考虑在新加坡设厂】3月10日，据报道，因新加坡愿意提供土地、水电与减税等相关优渥补助，并给予足够人力协助，加之来自英飞凌等车用客户需求相当强劲，台积电可能重新考虑在当地设立12吋工厂。而由于欧盟和德国财政吃紧与多项相关补助案排挤，以及难以答应台积电所提出的所有条件，加上欧洲建置成本高昂，台积电在德国的扩张计划已放缓。台积电对此表示，德国建厂计划仍在评估中，其他地区则不排除任何可能性，但目前未有计划。（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixsa9719360.d.html</link>
-            <guid>3019361</guid>
-            <pubDate>Fri, 10 Mar 2023 01:38:42 GMT</pubDate>
+            <title><![CDATA[【3天2板容大感光收关注函：要求说明是否具备感光干膜光刻胶生产研发核心技术，是否存误导投资者、炒作股价情形】 容大感光3月10日收到深交所下发的关注函，关注函要求公司披露公司感光干膜光刻胶、显示用光刻胶、半导体光刻胶的主要技术特征、技术优势、生产研发团队、核心客户及其主营业务、实现批量销售的时点、当前产能及产能利用率、在手订单及意向订单、毛利率、在核心客户供应链体系中的具体定位等；关注函要求公司说明近3个月接受媒体采访、机构调研、自媒体宣传、投资者关系活动的相关情况，调研沟通内容是否属于对公司股价有重大影响的信息，是否存在违反公平披露原则或者误导投资者、炒作股价的情形。]]></title>
+            <guid>3019687</guid>
+            <pubDate>Fri, 10 Mar 2023 02:47:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中航证券：ASML发声，成熟制程无忧，先进制程或可希冀】此前荷兰政府公告拟对华限制出口DUV光刻等技术并于夏季前实施。中航证券对此指出此次限制出口方案上成熟制程不受限，中低端浸没式设备仍可出货；且ASML保留了TWINSCANNXT:1980Di出货的可能性，为前期展受制裁的半导体制造行业带来一线希望。此外，从国内在建项目看，国内扩产以12英寸成熟制程为主，增速较快，Capex维持高位。因此中航证券认为市场情绪已起，应积极把握国产替代大浪潮下，设备、材料、零部件的投资机会。重点卡脖子、国产化率低的细分环节有望获得更大弹性，如光刻机零部件、光刻胶、涂胶显影、量测环节等。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixsa9719016.d.html</link>
-            <guid>3019355</guid>
-            <pubDate>Fri, 10 Mar 2023 01:38:20 GMT</pubDate>
+            <title><![CDATA[美元兑日元USD/JPY抹去部分涨幅，现报136.31，此前日本央行利率决议公布后一度涨超100点至136.97。]]></title>
+            <guid>3019686</guid>
+            <pubDate>Fri, 10 Mar 2023 02:47:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【港股汽车股普跌 比亚迪股份跌5%】港股汽车股早盘走低。截至发稿，比亚迪股份(01211.HK)跌5%，吉利汽车(00175.HK)跌5%，长城汽车(02333.HK)跌4%，蔚来汽车(09866.HK)跌4%，理想汽车(02015.HK)跌4%，小鹏汽车(09868.HK)跌3%，广汽集团(02238.HK)跌2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixsa9718765.d.html</link>
-            <guid>3019354</guid>
-            <pubDate>Fri, 10 Mar 2023 01:38:06 GMT</pubDate>
+            <title><![CDATA[【支付宝掌纹支付设备外观曝光 支付宝掌纹识别装置专利获授权】天眼查App显示，近日，支付宝（杭州）信息技术有限公司申请的“掌纹识别装置”外观专利获得授权。摘要显示，本外观设计产品用于采集人体的掌纹、掌脉特征信息，设计要点在于形状。据此前媒体报道，继微信在线下部分试点城市开通刷掌支付功能后，支付宝也将布局掌纹支付。除了内部研发掌纹支付功能外，支付宝还预研了多个掌纹支付原型设备。天眼查信息：https://zhuanli.tianyancha.com/8864872726b05f16c4c48696f07fb203]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz3014011.d.html</link>
+            <guid>3019685</guid>
+            <pubDate>Fri, 10 Mar 2023 02:47:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【发改委产业司组织召开传统产业智能化发展专题研讨会议】为深入贯彻落实党的二十大精神和中央经济工作会议要求，加快建设现代化产业体系，推动传统产业转型升级和制造业智能化发展，近日，发改委产业司组织召开传统产业智能化发展专题研讨会议。建材、汽车、石化等重点领域行业协会负责同志、行业专家，相关行业重点企业负责同志，清华大学、北京航空航天大学、北京理工大学、中科院等有关专家参加会议。]]></title>
-            <guid>3019351</guid>
-            <pubDate>Fri, 10 Mar 2023 01:37:50 GMT</pubDate>
+            <title><![CDATA[【新能源汽车概念港股跌幅扩大 比亚迪股份跌8%】新能源汽车概念港股早盘跌幅扩大。截至发稿，比亚迪股份跌8%，理想汽车跌7%，长城汽车跌6%，蔚来汽车跌6%，吉利汽车跌5%，小鹏汽车跌5%，赣锋锂业跌4%，广汽集团跌4%。消息面上，截止昨日已有30多个汽车品牌参与到这场近期的价格战，最高优惠超过10万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixsa9790486.d.html</link>
+            <guid>3019684</guid>
+            <pubDate>Fri, 10 Mar 2023 02:46:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[富时中国A50指数期货转涨，抹去盘初1%跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixsa9718289.d.html</link>
-            <guid>3019350</guid>
-            <pubDate>Fri, 10 Mar 2023 01:37:35 GMT</pubDate>
+            <title><![CDATA[【微软宣布可以在Azure OpenAI服务中使用ChatGPT】微软(MSFT.O)宣布，可以在基于云计算的操作系统Azure上的OpenAI服务中使用ChatGPT。通过Azure OpenAI服务，开发者可以将定制的人工智能驱动的体验直接整合到他们自己的应用程序中，以实现更快的客户支持解决方案，创建具有个性化优惠的新广告副本等。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixsa9789930.d.html</link>
+            <guid>3019681</guid>
+            <pubDate>Fri, 10 Mar 2023 02:45:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[铁矿石主力合约日内涨幅达2.00%，现报927.50元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz2940529.d.html</link>
-            <guid>3019349</guid>
-            <pubDate>Fri, 10 Mar 2023 01:36:52 GMT</pubDate>
+            <title><![CDATA[【我爱我家：现已具备地产经纪业务全价值链数字化运营、端到端闭环交付能力】我爱我家3月10日在互动平台表示，公司通过近5年的数字化战略转型投入现已具备了业内领先的地产经纪业务全价值链数字化运营、端到端闭环交付能力，能够更好地为客户带来更高品质的服务体验。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz3011953.d.html</link>
+            <guid>3019680</guid>
+            <pubDate>Fri, 10 Mar 2023 02:44:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[海水提锂概念股继续走强，创业板股津膜科技冲击2连板，巴安水务涨超7%，三达膜、富淼科技等纷纷走强。]]></title>
-            <guid>3019348</guid>
-            <pubDate>Fri, 10 Mar 2023 01:36:43 GMT</pubDate>
+            <title><![CDATA[【沪深两市成交额突破4000亿元】截至目前，沪深两市成交额突破4000亿元，其中沪市成交额1633亿元，深市成交额2365亿元。]]></title>
+            <guid>3019679</guid>
+            <pubDate>Fri, 10 Mar 2023 02:42:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[国家大基金持股板块开盘拉升，汇顶科技涨超3%，长电科技、南大光电、思特威、江波龙等跟涨。]]></title>
-            <guid>3019347</guid>
-            <pubDate>Fri, 10 Mar 2023 01:36:30 GMT</pubDate>
+            <title><![CDATA[【国家体育总局副局长刘国永：建议研制出台全面推动全民健身和全民健康深度融合的指导意见】 据中国体育报，全国人大代表，国家体育总局副局长刘国永表示，要加强全民健身和全民健康深度融合的总结和研究。建议由国务院全民健身工作部际联席会议机制牵头，对全民健身和全民健康深度融合工作进行全面调研，总结经验成果，厘清问题，谋划融合工作的新思路与新路径，形成系统性方案。研制出台全面推动全民健身和全民健康深度融合的指导意见，各级政府、各部门匹配相应的配套政策和专项方案，形成相互衔接、互为补充的政策组合牌，并在工作推进落实中加强常态化评估和研究。]]></title>
+            <guid>3019669</guid>
+            <pubDate>Fri, 10 Mar 2023 02:39:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[澳新银行预测去年第四季度新西兰经济收缩了0.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixsa9716885.d.html</link>
-            <guid>3019346</guid>
-            <pubDate>Fri, 10 Mar 2023 01:36:05 GMT</pubDate>
+            <title><![CDATA[【西湖大学何睿华实验室发现首个光阴极“量子”材料】西湖大学理学院何睿华课题组连同研究合作者一起，近期发现了世界首例具有本征相干性的光阴极量子材料，其性能远超传统的光阴极材料，且无法为现有理论所解释，为光阴极研发、应用与基础理论发展打开了新的天地。3月8日，相关论文“Anomalous intense coherent secondary photoemission from a perovskite oxide”，已提前线上发表于Nature期刊。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz3005395.d.html</link>
+            <guid>3019668</guid>
+            <pubDate>Fri, 10 Mar 2023 02:39:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【比亚迪4S店因不正当竞争被判向特斯拉公开道歉】记者获悉，近日，安徽某法院对一起民事诉讼进行宣判。判决书表示，被告“安庆市丰迪新能源汽车销售服务有限公司”通过编造、传播误导性的信息抬高自己的同时，给特斯拉汽车现有及潜在消费者以特斯拉汽车没有刹车或者刹车有问题的误导性的信息，损害了原告的商业声誉，构成了商业诋毁。被告要在抖音官方账号上刊登声明，向原告赔礼道歉、消除影响，并赔偿原告经济损失5万元。（财联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz2939190.d.html</link>
-            <guid>3019345</guid>
-            <pubDate>Fri, 10 Mar 2023 01:35:34 GMT</pubDate>
+            <title><![CDATA[【双创板块暴拉行情扩散至科技行业，华大九天、台基股份等放量猛攻】 双创板块暴拉行情扩散至科技行业，华大九天、台基股份、晓程科技、广立微、中微半导均放量猛攻。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz3003291.d.html</link>
+            <guid>3019660</guid>
+            <pubDate>Fri, 10 Mar 2023 02:36:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【储能板块早盘跳水 C华塑科跌超10%】储能板块早盘跳水，次新股C华塑科跌超10%，三变科技一度逼近跌停，开勒股份、启迪设计、英杰电气等快速跟跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz2938734.d.html</link>
-            <guid>3019344</guid>
-            <pubDate>Fri, 10 Mar 2023 01:35:04 GMT</pubDate>
+            <title><![CDATA[【发改委国际司负责同志会见高通全球高级副总裁叶小伟】 据发改委网站，3月7日下午，国家发展改革委国际司副司长高健会见高通全球高级副总裁叶小伟一行。双方围绕高通未来在华发展等议题进行了交流。叶小伟总裁介绍了高通在华业务情况，表示目前其在华研发中心等工作进展顺利，愿继续为中国高质量发展贡献力量。高健表示，中国政府坚定不移扩大对外开放，愿为包括高通在内的跨国企业在华发展提供一流营商环境。国际司将一如既往通过与美在华跨国企业高层圆桌会、“行走的达沃斯”等机制及时了解企业关切，推动营商环境持续改善。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixsa9779922.d.html</link>
+            <guid>3019658</guid>
+            <pubDate>Fri, 10 Mar 2023 02:35:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[恒生科技指数跌超3％，恒指跌超2％。科网股普跌，腾讯控股、美团跌2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixsa9711695.d.html</link>
-            <guid>3019325</guid>
-            <pubDate>Fri, 10 Mar 2023 01:31:25 GMT</pubDate>
+            <title><![CDATA[【沪指跌逾1% 下跌个股近4200只】指数走弱，沪指下挫跌逾1%，深成指跌1.09%，创业板指跌0.64%。汽车产业链、超导、房地产等方向跌幅居前，两市下跌个股近4200只。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz3002045.d.html</link>
+            <guid>3019657</guid>
+            <pubDate>Fri, 10 Mar 2023 02:35:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[6G概念股开盘领跌，世嘉科技一字跌停，本川智能、亚光科技、信维通信、大恒科技等纷纷低开。]]></title>
-            <guid>3019324</guid>
-            <pubDate>Fri, 10 Mar 2023 01:31:13 GMT</pubDate>
+            <title><![CDATA[日本央行：通胀预期有所升温。日本经济已经有所回升。核心CPI稳定在4%左右。将保持商业票据持有额度在2万亿日元左右。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz3001962.d.html</link>
+            <guid>3019656</guid>
+            <pubDate>Fri, 10 Mar 2023 02:35:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【汽车服务概念股开盘冲高 中国中期开盘涨停】中国中期开盘涨停，中汽股份、浩物股份、申华控股、特力A、广汇汽车等跟涨。消息面上，近日，汽车行业掀起一波“降价潮”。据统计，截至目前，已有至少30个汽车品牌参与降价，最高优惠超过10万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz2933676.d.html</link>
-            <guid>3019322</guid>
-            <pubDate>Fri, 10 Mar 2023 01:30:51 GMT</pubDate>
+            <title><![CDATA[日本央行保持利率前瞻性指引不变。日本央行将ETF年度购买上限维持在12万亿日元不变。]]></title>
+            <guid>3019634</guid>
+            <pubDate>Fri, 10 Mar 2023 02:31:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[国债期货开盘，10年期主力合约涨0.03%，5年期主力合约涨0.03%，2年期主力合约涨0.01%。]]></title>
-            <guid>3019319</guid>
-            <pubDate>Fri, 10 Mar 2023 01:30:22 GMT</pubDate>
+            <title><![CDATA[日本央行利率决议公布后，美元兑日元USD/JPY短线走高近100点，报136.81。]]></title>
+            <guid>3019632</guid>
+            <pubDate>Fri, 10 Mar 2023 02:31:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【证监会同意一诺威发行注册】北交所网站3月9日披露，同意山东一诺威聚氨酯股份有限公司首次公开发行股票的注册申请，公司计划登陆北交所。 一诺威主要从事聚氨酯原材料及EO、PO其他下游衍生物系列产品的研发、生产与销售及承接塑胶跑道等体育场地工程的施工。产品被广泛应用于轻工、建筑、机械、纺织、冶金、运输、水利等行业。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixsa9710086.d.html</link>
-            <guid>3019318</guid>
-            <pubDate>Fri, 10 Mar 2023 01:30:21 GMT</pubDate>
+            <title><![CDATA[日本央行一致通过收益率曲线控制（YCC）决定。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixsa9774456.d.html</link>
+            <guid>3019631</guid>
+            <pubDate>Fri, 10 Mar 2023 02:31:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本10年期收益率下跌0.5个基点，至0.495%，从日本央行0.5%的收益率曲线上限回落。]]></title>
-            <guid>3019312</guid>
-            <pubDate>Fri, 10 Mar 2023 01:29:36 GMT</pubDate>
+            <title><![CDATA[日本央行将收益率曲线控制区间维持在-0.5%至0.5%不变。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixsa9774279.d.html</link>
+            <guid>3019630</guid>
+            <pubDate>Fri, 10 Mar 2023 02:30:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[新华社快讯：会议开始选举。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz2931908.d.html</link>
-            <guid>3019309</guid>
-            <pubDate>Fri, 10 Mar 2023 01:29:02 GMT</pubDate>
+            <title><![CDATA[日本央行将基准利率维持在历史低点-0.1%，将10年期国债收益率目标维持在0%附近，符合市场预期。]]></title>
+            <guid>3019621</guid>
+            <pubDate>Fri, 10 Mar 2023 02:30:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【科网概念港股低开 百度跌近7%】科网概念港股早盘随美股低开，京东集团-SW(09618.HK)跌9.93%、百度集团-SW (09888.HK)跌6.83%、美团-W(09868.HK)跌2.70%、阿里巴巴-SW(09988.HK)跌3.55%，腾讯控股(00700.HK)跌2.12%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz2931273.d.html</link>
-            <guid>3019305</guid>
-            <pubDate>Fri, 10 Mar 2023 01:28:07 GMT</pubDate>
+            <title><![CDATA[【神州优车被强制执行19亿】企查查APP显示，近日，神州优车股份有限公司新增一则被执行人信息，执行标的约19亿元，执行法院为北京市第一中级人民法院。企查查信息显示，该公司成立于2002年，法定代表人为陆正耀，经营范围包含：网络预约出租汽车经营；汽车租赁、向国内外购买租赁车辆、租赁车辆的残值处理等。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz2995644.d.html</link>
+            <guid>3019618</guid>
+            <pubDate>Fri, 10 Mar 2023 02:29:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【吉林省：2025年肉牛全产业链产值有望达到2500亿元】3月9日，吉林省政府新闻办召开《吉林省肉牛产业发展规划》及《关于支持全省肉牛产业发展有关政策措施》解读新闻发布会。吉林省将确立10项重点任务，推动全省肉牛到2025年发展到1000万头，肉牛全产业链产值达到2500亿元，饲料化利用秸秆2400万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixsa9708088.d.html</link>
-            <guid>3019304</guid>
-            <pubDate>Fri, 10 Mar 2023 01:27:46 GMT</pubDate>
+            <title><![CDATA[【调查：通胀居高不下，上调欧洲央行利率峰值预期】调查的分析师称，欧洲央行的利率峰值将远高于一个月前的预期，他们补充称，通胀居高不下将促使政策制定者采取更激进的措施。受访的60名经济学家都认为下周四欧洲央行存款利率将上调50个基点至3.00%。调查中值显示，欧洲央行将在接下来5月、6月和7月的三次会议上都加息25个基点，将存款利率峰值上调至3.75%，高于2月调查预期的3.25%的峰值。“下周加息50个基点似乎已成定局。欧洲央行更为激烈的辩论表明了是3月会议后的货币政策路径。”荷兰国际集团分析师Carsten Brzeski表示。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz2995548.d.html</link>
+            <guid>3019617</guid>
+            <pubDate>Fri, 10 Mar 2023 02:29:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[十四届全国人大一次会议表决通过了十四届全国人大一次会议总监票人、监票人名单。（央视新闻）]]></title>
-            <guid>3019303</guid>
-            <pubDate>Fri, 10 Mar 2023 01:27:41 GMT</pubDate>
+            <title><![CDATA[【富乐德20CM直线封板】富乐德20CM直线封板，成交额2.91亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz2994810.d.html</link>
+            <guid>3019616</guid>
+            <pubDate>Fri, 10 Mar 2023 02:28:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[科创50指数开盘报990.90点，跌0.74%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixsa9707395.d.html</link>
-            <guid>3019293</guid>
-            <pubDate>Fri, 10 Mar 2023 01:26:54 GMT</pubDate>
+            <title><![CDATA[【北向资金净流出超20亿元】以余额规模口径（已挂单）统计，截至目前北向资金净流出超20亿元，其中沪股通净流出7.80亿元，深股通净流出12.28亿元。以买卖成交额口径（挂单已成交）统计，北向资金净卖出超21亿元，其中沪股通净卖出8.46亿元，深股通净卖出超12.96亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz2994287.d.html</link>
+            <guid>3019613</guid>
+            <pubDate>Fri, 10 Mar 2023 02:27:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[白糖主力合约日内涨超2.00%，现报6335.00元/吨，续创2017年11月以来新高。]]></title>
-            <guid>3019292</guid>
-            <pubDate>Fri, 10 Mar 2023 01:26:31 GMT</pubDate>
+            <title><![CDATA[【国家大基金持股板块再度拉升，沪硅产业涨超10%】 国家大基金持股板块再度拉升，沪硅产业涨超10%，华大九天涨超7%，广立微、江波龙、拓荆科技、龙芯中科等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixsa9771246.d.html</link>
+            <guid>3019612</guid>
+            <pubDate>Fri, 10 Mar 2023 02:27:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[宁德时代高开1.18%，公司2022年净利润307.3亿元，同比增长92.89%，拟10转8派25.20元。]]></title>
-            <guid>3019291</guid>
-            <pubDate>Fri, 10 Mar 2023 01:26:06 GMT</pubDate>
+            <title><![CDATA[【半导体板块震荡反弹 沪硅产业涨超10%】沪硅产业涨超8%，神工股份、金百泽涨超5%，中微半导、立昂微、康强电子等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz2992857.d.html</link>
+            <guid>3019610</guid>
+            <pubDate>Fri, 10 Mar 2023 02:25:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【东财证券：高温（室温）超导走向商业化之路三大场景】日前在美国物理学会上罗切斯特大学的RaganP.Dias团队讲述了在实验中1GPa（10kbar）的压力下，在20°C（294K）的氮掺杂氢化镥中实现了常温下的超导性。东方财富证券对此在研报中指出，高温超导在电力技术应用预计将是首要方向，其次是超导磁体技术应用，与超导电子学应用；研报中同时指出，Dias团队发表的研发成果由于极高压力的限制（前提条件等同于1万倍的现实大气压强），其机理仍属BCS理论范畴，因此其颠覆性意义不如钇钡铜氧与铁基高温超导体的发现。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixsa9706615.d.html</link>
-            <guid>3019290</guid>
-            <pubDate>Fri, 10 Mar 2023 01:25:57 GMT</pubDate>
+            <title><![CDATA[【日本追加半导体等9行业为外国投资重点审查对象】据日经新闻消息，日本财务省等3月9日针对日本《外汇和外国贸易法》的相关公告的修正案，启动了公众意见征集。预计今年夏季起适用。经过修正后，日本《经济安全保障推进法》指定为“特定重要物资”的11种物资将全部成为关键行业的对象。此次的追加对象包括氯化钾等肥料、机床和工业机器人、蓄电池、金属矿产物、金属3D打印机、永久磁体、制造设备等半导体相关、天然气、船舶零部件这9种物资。要求在向制造和进口等相关企业进行投资时要提前申报。 (界面新闻)]]></title>
+            <guid>3019607</guid>
+            <pubDate>Fri, 10 Mar 2023 02:24:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[三大股指低开，沪指跌0.63％，深成指跌0.57％，创业板跌0.26％。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz2928902.d.html</link>
-            <guid>3019285</guid>
-            <pubDate>Fri, 10 Mar 2023 01:25:18 GMT</pubDate>
+            <title><![CDATA[【马来西亚前总理受到腐败指控】马来西亚前总理穆希丁9日受腐败指控被该国反贪委员会传讯。他可能成为继纳吉布之后马来西亚又一位因涉嫌腐败被起诉的前总理。穆希丁在被保释后举行的记者会上透露，反贪部门指控其执政期间实施的选择性招标计划涉嫌受贿和滥权，以及他领导的土著团结党接受的政治献金涉嫌利益交换。他否认自己所受的指控，并再度声称这是选择性的政治指控。他称，这是执政党希望在今年的地方选举前打击其阵营。马来西亚总理安瓦尔则在9日出席国会会议时否认了在野党对自己干预司法的指控。（中新社）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixsa9769127.d.html</link>
+            <guid>3019606</guid>
+            <pubDate>Fri, 10 Mar 2023 02:24:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[MSCI中国指数跌0.3%，抹去2023年以来的全部涨幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz2928124.d.html</link>
-            <guid>3019283</guid>
-            <pubDate>Fri, 10 Mar 2023 01:24:22 GMT</pubDate>
+            <title><![CDATA[【香港本地影视股走低 英皇文化产业跌14%】近期曾大涨的香港本地影视股普跌。截至发稿，英皇文化产业跌14%，橙天嘉禾跌7%，电视广播跌3%，乐华娱乐跌3%，邵氏兄弟控股跌2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz2991552.d.html</link>
+            <guid>3019605</guid>
+            <pubDate>Fri, 10 Mar 2023 02:23:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[回港中概股普跌，百度跌近7%，哔哩哔哩跌超5%，理想汽车、蔚来汽车、阿里巴巴跌超3%。]]></title>
-            <guid>3019279</guid>
-            <pubDate>Fri, 10 Mar 2023 01:23:56 GMT</pubDate>
+            <title><![CDATA[【华润雪花啤酒法定代表人变更 赵春武接替侯孝海】天眼查App显示，近日，华润雪花啤酒（中国）有限公司发生工商变更，侯孝海卸任法定代表人、执行董事、经理，均由赵春武接任。该公司成立于2003年6月，注册资本约2.47亿美元，经营范围含酒制品生产；酒类经营；代理记账；饮料生产等，由华润雪花啤酒（中国）投资有限公司全资持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz2990283.d.html</link>
+            <guid>3019603</guid>
+            <pubDate>Fri, 10 Mar 2023 02:22:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【佳兆业集团复牌后跌超32%】佳兆业集团复牌跌32%。佳兆业集团停牌近一年后恢复交易，该公司2021年全年净亏损约127.3亿元人民币，2022年上半年净亏损约76.7亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz2927630.d.html</link>
-            <guid>3019278</guid>
-            <pubDate>Fri, 10 Mar 2023 01:23:48 GMT</pubDate>
+            <title><![CDATA[A股超导概念股持续走低，永鼎股份跌近7%，西部超导跌超5%，宝胜股份、百利电气、中孚实业等跟跌。]]></title>
+            <guid>3019599</guid>
+            <pubDate>Fri, 10 Mar 2023 02:21:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[新华社快讯：会议表决通过了十四届全国人大一次会议选举和决定任命的办法。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz2926354.d.html</link>
-            <guid>3019266</guid>
-            <pubDate>Fri, 10 Mar 2023 01:22:39 GMT</pubDate>
+            <title><![CDATA[【北交所新股铁大科技上市首日高开，现涨超28%】北交所新股铁大科技上市首日高开，现涨超28%。公司主营业务为通信信号产品的研制、生产与销售，并向客户提供系统集成、工程施工、技术咨询、技术培训、技术支持等一体化的轨道交通安全监控与防护整体解决方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz2987092.d.html</link>
+            <guid>3019592</guid>
+            <pubDate>Fri, 10 Mar 2023 02:20:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[港股恒指低开跌1.73％，国企指数跌1.98％，科指开跌2.84%。京东绩后开跌10%，佳兆业集团复牌后大跌逾30%。]]></title>
-            <guid>3019260</guid>
-            <pubDate>Fri, 10 Mar 2023 01:21:57 GMT</pubDate>
+            <title><![CDATA[【日媒：日本拟邀尹锡悦出席G7广岛峰会扩大会议】据日本共同社网站3月9日报道，多名外交消息人士透露，日本政府拟邀请韩国总统尹锡悦出席5月七国集团（G7）首脑会议期间的扩大会议，已就此展开协调。此外，日韩两国政府9日还宣布，尹锡悦夫妇将于16至17日访日，逗留期间将与首相岸田文雄会谈。 报道称，日方将关注韩方是否切实履行强征劳工赔偿问题的解决措施，再就是否邀请尹锡悦出席扩大会议作出最终判断。 相关人士称，韩方对访问广岛持积极态度。日本是主席国，因此有权邀请韩方出席扩大会议。岸田考虑在预计本月16日在东京与尹锡悦的会谈中，对强征劳工赔偿问题的解决措施表示支持，助力在韩国国内遭到反对的尹锡悦。两位首脑还将时隔近12年重启每年一次互访的“穿梭外交”。 （参考消息）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz2986370.d.html</link>
+            <guid>3019590</guid>
+            <pubDate>Fri, 10 Mar 2023 02:19:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[MSCI亚太指数跌1.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixsa9701667.d.html</link>
-            <guid>3019258</guid>
-            <pubDate>Fri, 10 Mar 2023 01:21:31 GMT</pubDate>
+            <title><![CDATA[【上海银保监局：力争2023年绿色融资余额突破1.2万亿元】上海银保监局发布关于进一步完善金融服务，优化上海营商环境和支持经济高质量发展的通知。其中提到，全方位构建上海银行业保险业支持碳达峰碳中和的体制机制，推动经济社会全面绿色低碳转型，形成绿色金融可复制可推广的上海方案。至2025年末实现辖内绿色融资余额突破1.5万亿元，力争2023年绿色融资余额突破1.2万亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz2985787.d.html</link>
+            <guid>3019583</guid>
+            <pubDate>Fri, 10 Mar 2023 02:18:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[央行今日开展7天期150亿元逆回购操作，因今日有180亿元7天期逆回购到期，当日实现净回笼30亿元。]]></title>
-            <guid>3019257</guid>
-            <pubDate>Fri, 10 Mar 2023 01:21:00 GMT</pubDate>
+            <title><![CDATA[【电影板块震荡走高 华谊兄弟冲击涨停】电影板块盘中异动拉升，华谊兄弟冲击涨停，上海电影、唐德影视涨超4%，华策影视、金逸影视、幸福蓝海等跟涨。华谊兄弟3月9日在互动平台表示，公司控股子公司华谊兄弟时尚（上海）文化传媒有限公司已筹备自有官方抖音直播间—“抹布友好物”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixsa9762663.d.html</link>
+            <guid>3019579</guid>
+            <pubDate>Fri, 10 Mar 2023 02:18:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[央行：今日进行150亿元7天期逆回购操作，中标利率为2.00%，与此前持平。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixsa9700803.d.html</link>
-            <guid>3019255</guid>
-            <pubDate>Fri, 10 Mar 2023 01:20:54 GMT</pubDate>
+            <title><![CDATA[锂电池板块震荡下挫，欧克科技、金龙羽跌超7%，立中集团、融捷股份、中矿资源、科达利等多股跌超3%。]]></title>
+            <guid>3019578</guid>
+            <pubDate>Fri, 10 Mar 2023 02:18:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【小红书调整组织架构，押注直播电商，结束社区和商业化之争】小红书将提升直播业务为独立部门，统一管理直播内容与直播电商等业务。新部门负责人为银时（花名），他同时也是小红书社区生态负责人。在此之前，小红书的直播业务归属于社区部旗下二级部门的业务组。（晚点 LatePost）]]></title>
-            <guid>3019254</guid>
-            <pubDate>Fri, 10 Mar 2023 01:20:31 GMT</pubDate>
+            <title><![CDATA[美股期货下跌，标普500指数期货下跌0.6%，道指期货、纳指期货跌超0.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz2985440.d.html</link>
+            <guid>3019577</guid>
+            <pubDate>Fri, 10 Mar 2023 02:18:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【十四届全国人大一次会议第三次全体会议议程完成后，将举行宪法宣誓仪式】十四届全国人大一次会议第三次全体会议议程包括：表决关于国务院机构改革方案的决定草案，表决第十四届全国人大一次会议选举和决定任命的办法草案，表决总监票人、监票人名单草案，选举中华人民共和国主席，选举中华人民共和国中央军事委员会主席，选举第十四届全国人大常委会委员长、副委员长、秘书长，选举中华人民共和国副主席。在会议议程完成后，将举行宪法宣誓仪式。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz2922039.d.html</link>
-            <guid>3019253</guid>
-            <pubDate>Fri, 10 Mar 2023 01:19:22 GMT</pubDate>
+            <title><![CDATA[【全国政协委员许可慰：建议全国统一电子病历】全国两会期间，新任全国政协委员，中山大学孙逸仙纪念医院泌尿外科教授许可慰带来了他的第一件提案，呼吁推动建设全国统一的医院电子病历系统。这也是一件19位委员联名提案。许可慰表示，从医疗管理上，各医院采用不同的电子病历系统不利于卫生行政部门对各医院诊疗行为监管、医疗质量控制评价，不利于诊疗规范化和标准化的提升。同时，病历资料互联互通程度不足，严重制约了“基层首诊、双向转诊、急慢分治、上下联动”的分级诊疗模式的实现。（国是直通车）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixsa9762196.d.html</link>
+            <guid>3019573</guid>
+            <pubDate>Fri, 10 Mar 2023 02:18:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【亚洲银行股下跌，追随美股银行股走势】 MSCI亚太金融指数一度下跌0.9%。日本的三菱日联金融集团一度下跌3.2%，澳大利亚联邦银行下跌2.7%，韩国国民银行金融集团下跌2.4%。隔夜美股市场上，硅谷银行金融集团(SVB)大跌60%，创纪录最大跌幅，并拖累美国银行股指数大跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixsa9697034.d.html</link>
-            <guid>3019252</guid>
-            <pubDate>Fri, 10 Mar 2023 01:17:00 GMT</pubDate>
+            <title><![CDATA[【代表建议完善工伤认定时间之限】“在工作时间和工作岗位，突发疾病死亡或者在48小时之内经抢救无效死亡的”，是《工伤保险条例》规定的视同工伤的情形之一。该规定自2003年《工伤保险条例》制定并实施以来，一直没有修改，争议不断。“因为‘48小时’工伤认定的规定过于倚重时间的限制，而且条文规定明确，囿于形式标准，造成很多工伤亡者不能享受工伤待遇，甚至导致一些劳动者及家属因工伤亡者不能享受工伤待遇而放弃对其医治，人为使伤患者符合在‘48小时’内死亡的条件，从而引发一系列社会问题。”安徽古井集团有限责任公司董事长梁金辉代表认为，应该以人为本，结合当今医疗发展水平，尽快完善《工伤保险条例》，科学认定、优化细化“48小时之限”，切实加强对工伤、工亡者的法治保障。（法治日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz2984647.d.html</link>
+            <guid>3019569</guid>
+            <pubDate>Fri, 10 Mar 2023 02:17:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[人民币中间价报6.9655，上调11点，上一交易日中间价报6.9666，在岸人民币上一交易日收报6.9699。]]></title>
-            <guid>3019251</guid>
-            <pubDate>Fri, 10 Mar 2023 01:15:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富时中国A50指数期货跌幅扩大至1％。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixrz2918944.d.html</link>
-            <guid>3019250</guid>
-            <pubDate>Fri, 10 Mar 2023 01:15:41 GMT</pubDate>
+            <title><![CDATA[【上海银保监局：服务总部经济，建设供应链金融示范区】上海银保监局发布关于进一步完善金融服务，优化上海营商环境和支持经济高质量发展的通知。通知提到，鼓励银行保险机构建设数字化供应链系统，探索供应链金融服务新模式，推出供应链金融服务新产品。围绕制造业高质量发展，选择具备条件的重点产业链、特色产业集群，重点支持集成电路、生物医药、人工智能、汽车制造等上海重点产业链核心企业，以点带链，筑牢产业基础，加快发展优势产业。深化产融对接和信息共享，制定专门的授信方案，高效服务链上中小微企业。打造联动长三角，服务全国的供应链金融体系，推动形成国内国际双循环相互促进的新发展格局。力争2023年供应链金融融资余额突破4500亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-10/detail-imykixsa9761161.d.html</link>
+            <guid>3019562</guid>
+            <pubDate>Fri, 10 Mar 2023 02:16:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
