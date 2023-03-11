@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 11 Mar 2023 16:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Mar 2023 17:15:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[一周展望：重磅数据将轮番“轰炸”，CPI恐再度引爆黄金抛售力量。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-12/detail-imykpqsk9197706.d.html</link>
+            <guid>3021415</guid>
+            <pubDate>Sat, 11 Mar 2023 16:58:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【南非总统拉马福萨启动竞选活动】当地时间11日下午，南非总统拉马福萨启动了南非执政党非国大（非洲人国民大会）2024年大选的竞选活动。]]></title>
             <link>https://finance.sina.cn/7x24/2023-03-12/detail-imykpqsk9163317.d.html</link>
@@ -292,12 +298,6 @@
             <link>https://finance.sina.cn/7x24/2023-03-11/detail-imykpeaq9275450.d.html</link>
             <guid>3021125</guid>
             <pubDate>Sat, 11 Mar 2023 12:06:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京：推进数字农业农村发展，建设乡村振兴大数据平台】 近日，北京市数字农业农村工作部署会在京举办。会议对今年北京市数字农业农村重点工作进行了部署，涉及6个方面27类54项工作，主要包括夯实数字底座和基础支撑、全面提升乡村产业数字化水平、推进乡村治理数字化、乡村服务数字化、加强农业信息化技术研发和转化应用等内容。北京市农业农村局相关负责人介绍，北京市农业农村局、13个涉农区农业农村局先后成立了数字农业农村工作专班。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-11/detail-imykpeaq9275254.d.html</link>
-            <guid>3021124</guid>
-            <pubDate>Sat, 11 Mar 2023 12:05:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
