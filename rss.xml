@@ -4,11 +4,61 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Fri, 17 Mar 2023 20:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 21:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[瑞银集团正在就收购瑞信一事参与谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-18/detail-imymfpwq1171907.d.html</link>
+            <guid>3031316</guid>
+            <pubDate>Fri, 17 Mar 2023 21:13:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽交所ARCA钢铁指数收跌1.90%，报1757.50点，逼近1月4日收盘位1737.67点，本周累跌7.52%。]]></title>
+            <guid>3031304</guid>
+            <pubDate>Fri, 17 Mar 2023 21:03:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[哥伦比亚财长Ocampo出席美洲开发银行（IADB）会议时表示：德国希望采购100%的哥伦比亚绿氢。]]></title>
+            <guid>3031302</guid>
+            <pubDate>Fri, 17 Mar 2023 21:00:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大标普/TSX综合指数收跌0.77%，报19387.72点，本周累计下跌1.96%；小盘股指收跌0.29%，本周累跌1.70%。]]></title>
+            <guid>3031289</guid>
+            <pubDate>Fri, 17 Mar 2023 20:50:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[第一共和银行盘后下跌4%，该公司计划通过非公开配售股票增加现金。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-18/detail-imymfpwn4377838.d.html</link>
+            <guid>3031270</guid>
+            <pubDate>Fri, 17 Mar 2023 20:37:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【3月17日美股成交前20：大摩称特斯拉必须在中国市场进一步降价】周五美股成交额冠军特斯拉收跌2.17%，成交237.7亿美元。摩根士丹利周五发布的报告显示，特斯拉必须进一步降价，才能再次刺激中国市场的需求。摩根士丹利认为，特斯拉最近的降价措施并没有达到目的，但却迫使更多汽车制造商降价，不过从消费者层面来看，这是一件好事。特斯拉已经在多个市场，包括中国和美国，利用降价来刺激需求，并使其产品在同类车型中更具竞争力。特斯拉今年已经多次调整了其车辆的价格，有时上涨有时下跌，其中最大的降幅出现在年初。去年年底也有降价措施，帮助特斯拉接近了2022年交付目标。尽管如此，摩根士丹利的中国团队表示，由于正在进行的价格战，他们认为这一轮降价并不那么成功。消费者期待价格战会继续进行，这将导致整个行业进一步削减价格，该公司说：“我们估计全面的价格战会促使消费者保持观望态度，并等待更多的促销 / 折扣出现。车辆需求的价格弹性正在下降，因为消费者的价格预期也一直在下降，这可能会影响销售复苏和三月份本应提升的订单量。”http://t.cn/A6CE9yHA]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-18/detail-imymfpwn4377188.d.html</link>
+            <guid>3031267</guid>
+            <pubDate>Fri, 17 Mar 2023 20:35:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国的银行存款至3月8日当周下降544亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-18/detail-imymfpwn4373297.d.html</link>
+            <guid>3031265</guid>
+            <pubDate>Fri, 17 Mar 2023 20:25:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【TD Cowen：将UiPath(PATH.N)目标价上调至20美元 维持跑赢大市评级】TD Cowen分析师Bryan Bergin将对UiPath的目标价从18美元上调至20美元，并维持对该股的跑赢大市评级。该分析师表示，由于该公司第四季度表现稳健，且2024年的财务指引提供了良好的年度经常性收入(ARR)和收入起点，比共识预期高出3%/4%，调整后经营利润超出预期60%。]]></title>
+            <guid>3031264</guid>
+            <pubDate>Fri, 17 Mar 2023 20:23:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国大类资产ETF涨跌互现，避险债市ETF全线走强】恐慌指数做多再度大涨10.90%，黄金ETF-SPDR涨2.91%，美国国债20+年涨1.50%，美国国债7-10年涨1.18%，日元做多涨1.16%；而罗素2000指数ETF则重挫2.70%。美国布伦特油价基金跌2.51%，美国房地产ETF跌2.27%，标普500价格值数ETF跌1.59%，标普500 ETF跌1.17%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-18/detail-imymfpwn4371581.d.html</link>
+            <guid>3031263</guid>
+            <pubDate>Fri, 17 Mar 2023 20:21:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国的银行存款至3月8日一周缩减544亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2023-03-18/detail-imymfpwq1147428.d.html</link>
@@ -244,56 +294,6 @@
             <link>https://finance.sina.cn/7x24/2023-03-18/detail-imymfiqq4458855.d.html</link>
             <guid>3031174</guid>
             <pubDate>Fri, 17 Mar 2023 18:52:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿莱恩斯西部银行：截至3月16日，公司持有超过200亿美元的资金流动性；公司在本周一（3月13日）遭受了超预期的资金外流，当前资金外流速度已显著回落，有担保存款占存款总额比率超过55%。]]></title>
-            <guid>3031173</guid>
-            <pubDate>Fri, 17 Mar 2023 18:43:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国2年期国债收益率大跌 市场体现的3月份加息概率下降】美国国债收益率曲线前端的债券延续涨势，2年期国债收益率下滑30个基点，触及盘中新低。2年期国债收益率一度跌至3.852％，2s10s收益率差扩大至盘中新高，当日陡化12个基点。美联储会期对应的OIS价格显示，美联储将在3月政策会议上加息约17个基点，低于周四收盘时的21个基点。3月合约在纽约时间下午2点后一度跌至4.738％。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-18/detail-imymfiqq4453503.d.html</link>
-            <guid>3031172</guid>
-            <pubDate>Fri, 17 Mar 2023 18:40:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国希思罗机场安保人员因薪酬争议将举行罢工】因薪酬争议，英国伦敦希思罗机场的1400多名安保人员将从3月31日至4月9日罢工10天。联合工会表示，罢工行动将使希思罗机场的航班出现严重的延误和中断。但希思罗机场的一位发言人表示，乘客可以放心，机场已经制定了“应急计划”。此外，因薪酬和工作条件等争议，英国各地的1000多名护照办公室工作人员将从4月初开始罢工5周。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-18/detail-imymfiqs1230434.d.html</link>
-            <guid>3031171</guid>
-            <pubDate>Fri, 17 Mar 2023 18:39:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【夜盘主力合约收盘】截至2:30收盘，沪金主力合约收涨2.63%，报443元/克，沪银主力合约收涨3.05%，报5174元/千克，SC原油主力合约收跌0.90%，报495元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-18/detail-imymfiqq4449328.d.html</link>
-            <guid>3031170</guid>
-            <pubDate>Fri, 17 Mar 2023 18:31:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上海黄金交易所黄金T+D 3月18日（周六）晚盘收盘上涨2.54%报443.0元/克；上海黄金交易所白银T+D 3月18日（周六）晚盘收盘上涨2.78%报5143.0元/千克。]]></title>
-            <guid>3031169</guid>
-            <pubDate>Fri, 17 Mar 2023 18:30:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金站上1980美元/盎司，日内涨3.19%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-18/detail-imymfiqq4449071.d.html</link>
-            <guid>3031168</guid>
-            <pubDate>Fri, 17 Mar 2023 18:30:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国本周又连发多起火车出轨事故，危险物品泄漏风险挥之不去】当地时间16日凌晨，一列货运列车在美国华盛顿州斯卡吉特县发生脱轨事故。据华盛顿州生态部门16日早上发布的消息，脱轨事故造成大约5000加仑，也就是将近1.9万升柴油泄漏，土壤遭到污染。同一天下午，一列运输汽车的火车在肯塔基州格伦代尔镇也发生脱轨事故，21节车厢脱轨。前一天，也就是15日，美国还发生了至少两起火车脱轨事故。一列火车在亚利桑那州西部脱轨，起初人们担心该列火车载有危险物质，随后铁路公司表示其运载的是玉米糖浆；在俄勒冈州，一列火车在途经该州拉格兰德市时脱轨，导致当地城市交通一度受阻。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-18/detail-imymfiqq4448914.d.html</link>
-            <guid>3031167</guid>
-            <pubDate>Fri, 17 Mar 2023 18:29:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网自动测定：03月18日02时19分在新疆克孜勒苏州阿克陶县附近（北纬38.33度，东经75.37度）发生4.2级左右地震，最终结果以正式速报为准。]]></title>
-            <guid>3031166</guid>
-            <pubDate>Fri, 17 Mar 2023 18:28:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“美联储传声筒”：美联储加息25个基点或维持利率不变，可能将取决于未来几天的市场反应】“美联储传声筒”Nick Timirao在接受采访时表示，美联储下周的决定可能取决于未来几天的市场反应，选择加息25个基点是因为市场状况将改善；而暂停加息的话是因为担忧信贷问题会加剧，最好是慢慢行动。我们从美联储听到的一切都是，美联储拥有解决金融稳定问题的工具，因此可以专注于恢复物价稳定的目标。]]></title>
-            <guid>3031165</guid>
-            <pubDate>Fri, 17 Mar 2023 18:28:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
