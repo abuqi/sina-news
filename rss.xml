@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 18 Mar 2023 18:21:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 19:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【桑德斯敦促禁止银行CEO进入美联储董事会】美国参议员伯尼·桑德斯表示，他计划引入一项措施，防止大银行高管担任监管他们的地方联邦储备银行的董事会成员。桑德斯表示：“硅谷银行倒闭最荒谬的一个方面是，它的首席执行官是负责监管它的同一机构的董事：旧金山联邦储备银行。”“我将提出一项法案，通过禁止大银行首席执行官在美联储董事会任职，来结束这种利益冲突。”]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-19/detail-imymisvq0726792.d.html</link>
+            <guid>3031708</guid>
+            <pubDate>Sat, 18 Mar 2023 18:52:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场资讯：瑞银表示担心瑞士信贷投资银行的风险。]]></title>
             <link>https://finance.sina.cn/7x24/2023-03-19/detail-imymisvq0713725.d.html</link>
@@ -268,11 +274,6 @@
             <title><![CDATA[【特朗普发文称自己将被逮捕，放话“美国梦已死”，全文大写英文字母】据美国全国广播公司（NBC）18日爆料，了解情况的5名高级官员透露，美国前总统特朗普可能最早于下周被起诉，当地州与联邦的执法和安全机构正在为此做准备。美国前总统特朗普18日在社交媒体上发文称，他预计自己将于下周二被捕，并呼吁支持者“抗议”，“把我们的国家夺回来”。值得注意的是，特朗普长达约千字的声明全文为大写英文字母，内容看起来具有煽动性。他声称，“我们的国家现在是第三世界，正在死亡。美国梦已死！”特朗普向民主党人开火，抨击“激进的左翼无政府主义者破坏了我们的总统选举，也破坏了我们国家的核心”。他还宣称，“美国的爱国者被逮捕，像动物一样被监禁，而罪犯和左派暴徒却被允许在街上游荡，杀人放火，没有任何报应”。（环球网）]]></title>
             <guid>3031658</guid>
             <pubDate>Sat, 18 Mar 2023 12:55:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国苏格兰民族党首席执行官辞职】据英国媒体当地时间18日报道，英国苏格兰民族党首席执行官彼得·马雷尔当天宣布辞职。当天早些时候，马雷尔因被控破坏当前选举面临不信任投票。在苏格兰地方政府首席大臣兼苏格兰民族党党首斯特金宣布辞职后，目前有3名候选人在竞争其职位。选举结果预计于3月27日出炉。（央视新闻）]]></title>
-            <guid>3031657</guid>
-            <pubDate>Sat, 18 Mar 2023 12:54:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
