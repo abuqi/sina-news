@@ -4,300 +4,307 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Mon, 20 Mar 2023 10:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 11:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[沙特阿美公司和敦豪（DHL）供应链宣布建立新的端到端采购和物流中心合资企业，沙特阿美预计此举有望帮助客户提高供应链效率和成本效益。]]></title>
-            <guid>3034351</guid>
-            <pubDate>Mon, 20 Mar 2023 10:20:41 GMT</pubDate>
+            <title><![CDATA[据CNBC：高盛表示，由于银行系统的压力，预计美联储本周不会加息。]]></title>
+            <guid>3034409</guid>
+            <pubDate>Mon, 20 Mar 2023 11:15:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【天亿马：奥邦投资拟减持不超过4.27%】天亿马公告，奥邦投资拟减持不超过4.27%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0190965.d.html</link>
-            <guid>3034350</guid>
-            <pubDate>Mon, 20 Mar 2023 10:20:24 GMT</pubDate>
+            <title><![CDATA[【西藏城投：拟定增募资不超过10亿元】西藏城投公告，拟定增募资不超过10亿元，用于世贸铭城DK3项目、世贸馨城DK1项目、补充流动资金项目。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympqcu0101385.d.html</link>
+            <guid>3034408</guid>
+            <pubDate>Mon, 20 Mar 2023 11:15:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【科蓝软件：控股股东及其一致行动人拟减持不超过5%】科蓝软件公告，控股股东及其一致行动人拟减持不超过5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivu3413758.d.html</link>
-            <guid>3034349</guid>
-            <pubDate>Mon, 20 Mar 2023 10:20:16 GMT</pubDate>
+            <title><![CDATA[英国政府：我们对伊朗革命卫队（IRGC）内部的金融家和高级指挥官进行了制裁。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivu3452848.d.html</link>
+            <guid>3034407</guid>
+            <pubDate>Mon, 20 Mar 2023 11:12:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【崧盛股份：股东拟合计减持公司不超2%股份】 崧盛股份(301002)3月20日晚间公告，特定股东东证汉德、东证夏德计划在公告披露之日起3个交易日后的6个月内以集中竞价方式合计减持公司股份不超过245.75万股（即不超过公司总股本的2.00%）。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0189581.d.html</link>
-            <guid>3034348</guid>
-            <pubDate>Mon, 20 Mar 2023 10:18:08 GMT</pubDate>
+            <title><![CDATA[一图看懂│新一届国务院机构设置]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0229548.d.html</link>
+            <guid>3034406</guid>
+            <pubDate>Mon, 20 Mar 2023 11:12:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【奥迪审慎对待产品下沉发展 上汽奥迪新计划在制定中】奥迪集团全球CEO杜思曼表示，奥迪是一家高端汽车制造商，未来我们依旧着眼于向上突破，对于产品下沉发展保持审慎。往后，奥迪A1和Q2可能不会有新的版本。从2027年开始，奥迪会在每一个核心细分市场推出纯电动车型。奥迪中国总裁温泽岳表示，正在与上汽集团共同商定未来来上汽奥迪的发展计划。 (第一财经)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0189070.d.html</link>
-            <guid>3034347</guid>
-            <pubDate>Mon, 20 Mar 2023 10:17:03 GMT</pubDate>
+            <title><![CDATA[美国天然气期货涨超3%，现报2.412美元/百万英热。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0227449.d.html</link>
+            <guid>3034405</guid>
+            <pubDate>Mon, 20 Mar 2023 11:09:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：加纳方面呼吁要建立更有效的20国集团共同框架。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0188567.d.html</link>
-            <guid>3034346</guid>
-            <pubDate>Mon, 20 Mar 2023 10:16:07 GMT</pubDate>
+            <title><![CDATA[【人工智能将成为浙江中小学必修课系误读】据潮新闻，近日，人工智能将成为浙江中小学必修课程的消息被刷屏。更有媒体将这一消息视为“浙江率先打响AI进入中小学校园的第一枪”。事实是如此吗？记者了解到，人工智能将成为浙江中小学必修课程的消息系误读。课程的设立非常严格且涉及内容广泛。无论是义务教育阶段的基础课程还是高中阶段的必修课，都需要教育部等国家相关职能部门来确定。因此，浙江不会也不能单独将人工智能课程设置为全省中小学必修课。但在省内部分“动作”比较快的地市，人工智能已成为中小学的选修课。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivu3449977.d.html</link>
+            <guid>3034404</guid>
+            <pubDate>Mon, 20 Mar 2023 11:09:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美股三大股指期货相继转涨，道指期货、标普500指数期货一度跌约1.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0188407.d.html</link>
-            <guid>3034345</guid>
-            <pubDate>Mon, 20 Mar 2023 10:15:50 GMT</pubDate>
+            <title><![CDATA[【吉电股份：签订大安风光制绿氢合成氨一体化示范项目PEM制氢设备供货合同】吉电股份公告，全资子公司大安吉电绿氢能源有限公司拟与长春绿动氢能科技有限公司签订大安风光制绿氢合成氨一体化示范项目PEM制氢设备供货合同，合同价格为2.9亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivu3449478.d.html</link>
+            <guid>3034403</guid>
+            <pubDate>Mon, 20 Mar 2023 11:08:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[泰国央行：泰国银行业在面对外部冲击时拥有充足的资本储备。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0187498.d.html</link>
-            <guid>3034344</guid>
-            <pubDate>Mon, 20 Mar 2023 10:14:21 GMT</pubDate>
+            <title><![CDATA[德国央行：预计3月德国通胀将显著放缓。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivu3449073.d.html</link>
+            <guid>3034402</guid>
+            <pubDate>Mon, 20 Mar 2023 11:07:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【舜宇光学科技：2022年净利润同比下降约51.7%。】舜宇光学科技港交所公告，截至二零二二年十二月三十一日止年度，本集团的收入约人民币331.2亿元，较去年下降约11.5%；股东应占年内溢利约人民币24.078亿元，较去年下降约51.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivu3410313.d.html</link>
-            <guid>3034343</guid>
-            <pubDate>Mon, 20 Mar 2023 10:14:13 GMT</pubDate>
+            <title><![CDATA[【中国民航局发布《关于“3·21”东航MU5735航空器飞行事故调查进展情况的通报》】据中国民航局通报，2022年3月21日，东方航空云南有限公司波音737-800型客机（注册号B-1791），执行MU5735昆明长水机场至广州白云机场国内定期客运航班。13时16分飞机从昆明长水机场起飞，64分钟后偏离巡航高度8900米快速下降，坠毁于广西壮族自治区梧州市藤县埌南镇莫埌村附近。机上123名旅客、9名机组成员全部遇难。
+
+中国民用航空局依据中国民航规章《民用航空器事件技术调查规定》（CCAR-395）和《国际民用航空公约》附件13《航空器事故和事故征候调查》的有关规定，会同有关部门对事故开展了深入、细致、严谨的技术调查工作。一年来，技术调查组对飞机残骸进行详细检查，确定坠地前飞机关键操纵部件可能的工作状态，对100余件重要残骸进行实验，分析损坏原因；对机组成员的资质能力、航班运行、飞机适航维修、航空公司组织管理等情况开展调查；对空中交通管制服务，机场地面保障，旅客、行李、货邮的安检和装载，危险品载运等情况开展调查；结合相关数据对飞机最后阶段飞行状态进行分析，使用飞行模拟机和真机开展模拟验证。
+
+截至目前，技术调查组开展了现场勘查、资料检查、人员访谈、实验分析等大量工作，但由于本起事故非常复杂、极为罕见，调查还在持续深入进行中。后续，技术调查组将在前期工作基础上继续开展原因分析及实验验证等工作，并根据调查进展情况及时发布相关信息。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0224143.d.html</link>
+            <guid>3034401</guid>
+            <pubDate>Mon, 20 Mar 2023 11:04:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【一体构建追逃防逃追赃机制“天网2023”行动正式启动】中央反腐败协调小组国际追逃追赃和跨境腐败治理工作办公室召开会议。会议决定启动“天网2023”行动，推动一体构建追逃防逃追赃机制。其中，国家监委牵头开展职务犯罪国际追逃追赃专项行动，公安部开展“猎狐”专项行动，中国人民银行会同公安部开展预防、打击利用离岸公司和地下钱庄向境外转移赃款专项行动，最高人民法院会同最高人民检察院开展犯罪嫌疑人、被告人逃匿、死亡案件追赃专项行动，中央组织部会同公安部等开展违规办理和持有证件专项治理等工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0187228.d.html</link>
-            <guid>3034342</guid>
-            <pubDate>Mon, 20 Mar 2023 10:13:59 GMT</pubDate>
+            <title><![CDATA[【工信部节能与综合利用司赴湖南调研退役动力电池综合利用情况】工业和信息化部节能与综合利用司主要负责同志近日带队赴湖南省长沙市开展工业资源综合利用专题调研。湖南省工业和信息化主管部门参加调研活动。调研组实地考察了格林香山光伏储能一体项目、锂汇通退役动力电池回收平台、长沙矿冶院梯次利用产线以及湖南邦普循环科技有限公司生产基地，并召开座谈会。退役动力电池回收利用是关乎新能源汽车产业持续健康发展的一项重要工作，湖南省依托地区产业优势，在电池梯次利用、新型商业模式等方面做了很好的探索并取得了积极成效。调研组将认真总结湖南省的经验做法，积极推动退役动力电池回收利用新模式新技术的推广应用，促进新能源汽车产业健康有序发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivu3446726.d.html</link>
+            <guid>3034400</guid>
+            <pubDate>Mon, 20 Mar 2023 11:03:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[泰国央行：泰国银行业系统资本、准备金和流动性水平高，实力强劲。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0187149.d.html</link>
-            <guid>3034341</guid>
-            <pubDate>Mon, 20 Mar 2023 10:13:50 GMT</pubDate>
+            <title><![CDATA[【嘉麟杰：拟600万美元收购PRIMACY ENTERPRISE COMPANY LIMITED70%股权】嘉麟杰公告，全资子公司对外投资设立控股子公司及收购PRIMACY (VIETNAM) ENTERPRISE COMPANY LIMITED70%股权。]]></title>
+            <guid>3034399</guid>
+            <pubDate>Mon, 20 Mar 2023 11:03:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【广日股份：拟7.4亿元投建广日股份华东数字化产业园】广日股份公告，公司及其下属子企业拟投资约7.4亿元建设广日股份华东数字化产业园，项目分为广日电梯华东数字化产业园、广日电气（山东）智能制造产业园和广日物流（山东）智慧产业园共三个子项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivu3409986.d.html</link>
-            <guid>3034340</guid>
-            <pubDate>Mon, 20 Mar 2023 10:13:43 GMT</pubDate>
+            <title><![CDATA[欧洲斯托克600指数涨幅扩大至0.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivu3445904.d.html</link>
+            <guid>3034398</guid>
+            <pubDate>Mon, 20 Mar 2023 11:02:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[泰国央行：我们会密切进行监测。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0184958.d.html</link>
-            <guid>3034339</guid>
-            <pubDate>Mon, 20 Mar 2023 10:11:41 GMT</pubDate>
+            <title><![CDATA[国际铝业协会（IAI）：2023年2月份全球原铝产量为527.3万吨，去年同期为513.5万吨，前一个月修正值为582.3万吨。2月原铝日均产量为18.83万吨，前一个月为18.78万吨。预计2月中国原铝产量为310.7万吨，前一个月修正值为342.8万吨。]]></title>
+            <guid>3034397</guid>
+            <pubDate>Mon, 20 Mar 2023 11:02:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[泰国央行：预计全球银行业问题对泰国金融系统的影响有限。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivu3406852.d.html</link>
-            <guid>3034338</guid>
-            <pubDate>Mon, 20 Mar 2023 10:10:50 GMT</pubDate>
+            <title><![CDATA[【德赛西威：77GHz毫米波雷达已在多个国内主流车型上规模化量产】德赛西威在互动平台表示，公司77GHz毫米波雷达已经在多个国内主流车型上规模化量产。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0220644.d.html</link>
+            <guid>3034396</guid>
+            <pubDate>Mon, 20 Mar 2023 11:00:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[乌克兰农业部长：预计2023年乌克兰的谷物和油籽作物总产量将从2022年的7000万吨下降至6300万吨。]]></title>
-            <guid>3034337</guid>
-            <pubDate>Mon, 20 Mar 2023 10:10:41 GMT</pubDate>
+            <title><![CDATA[据越南《DauTu报》：越南加强了对银行公司债券投资的审查。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivu3443040.d.html</link>
+            <guid>3034395</guid>
+            <pubDate>Mon, 20 Mar 2023 11:00:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【欧元区1月贸易逆差环比有所收窄】今日公布的数据显示，欧元区1月商品贸易逆差收窄，进出口双双下降。经季节性调整后，1月货物贸易逆差为113亿欧元(约合121亿美元)。数据显示，欧元区1月出口环比下降1.1%，进口环比下降1.8%。然而，欧元区1月的贸易逆差同比略有扩大，反映出进口能源的成本较上年同期有所上升。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0183660.d.html</link>
-            <guid>3034336</guid>
-            <pubDate>Mon, 20 Mar 2023 10:10:30 GMT</pubDate>
+            <title><![CDATA[【好利科技：拟转让合肥曲速31.82%股权】好利科技公告，近年来，芯片公司一级市场融资难度较大，基于公司实际情况和未来发展规划考虑，公司拟将所持有的合肥曲速超维集成电路有限公司（简称“合肥曲速”）31.8182%的股权及其股东权利义务以7000万元的价格转让给上海硕矩。交易完成后，公司持有的合肥曲速股权将由50.05%降为18.2318%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0219475.d.html</link>
+            <guid>3034394</guid>
+            <pubDate>Mon, 20 Mar 2023 10:59:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【首华燃气：股东拟合计减持股份不超过6%】首华燃气公告，股东西藏科坚及其一致行动人嘉泽创投拟合计减持股份不超过6%。]]></title>
-            <guid>3034335</guid>
-            <pubDate>Mon, 20 Mar 2023 10:09:04 GMT</pubDate>
+            <title><![CDATA[【欧盟MiCA加密法案辩论将于4月18日举行】欧盟的加密资产市场监管 (MiCA) 已提交欧洲议会讨论，将于4月18日进行讨论。在MiCA辩论之后将讨论另一项称为资金转移监管的法律，该法律有争议地要求加密货币提供商验证客户的身份，并且在6月份也得到了临时同意。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivu3442192.d.html</link>
+            <guid>3034393</guid>
+            <pubDate>Mon, 20 Mar 2023 10:59:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【翔港科技：控股股东董建军拟减持股份不超过8.45%】翔港科技公告，控股股东董建军因个人资金需求拟通过协议转让方式减持公司股份不超过1700 万股，占公司总股本的 8.4513%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivu3404301.d.html</link>
-            <guid>3034334</guid>
-            <pubDate>Mon, 20 Mar 2023 10:06:56 GMT</pubDate>
+            <title><![CDATA[【机构：欧元因市场对欧洲银行业的担忧而下跌】荷兰国际表示，在瑞银宣布将收购陷入困境的竞争对手瑞士信贷之后，市场对欧洲银行业的健康状况仍然非常谨慎，欧元下跌。荷兰国际分析师Francesco Pesole在一份报告中表示，欧元兑美元EUR/USD可能会在周三美联储会议前进一步走软，届时该行可能会加息25个基点。荷兰国际称，从联邦基金利率期货曲线来看，本周加息的概率只有50%，这增加了美元在他们的基准情景中做出积极反应的可能性。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivu3442016.d.html</link>
+            <guid>3034392</guid>
+            <pubDate>Mon, 20 Mar 2023 10:58:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[巴基斯坦石油部长：巴基斯坦将在6周内为低收入人群提供更便宜的燃料。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0181124.d.html</link>
-            <guid>3034333</guid>
-            <pubDate>Mon, 20 Mar 2023 10:06:33 GMT</pubDate>
+            <title><![CDATA[【智飞生物：2022年度净利润同比下降26.15% 拟10转1送4派5元】智飞生物公布年报，2022年度净利润75.39亿元，同比下降26.15%；拟10转1送4派5元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivu3440240.d.html</link>
+            <guid>3034391</guid>
+            <pubDate>Mon, 20 Mar 2023 10:55:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[国家新闻出版署发布2023年进口网络游戏审批信息，共27款游戏获批。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0181027.d.html</link>
-            <guid>3034332</guid>
-            <pubDate>Mon, 20 Mar 2023 10:06:23 GMT</pubDate>
+            <title><![CDATA[【新洁能：2022年度净利润同比增长0.97% 拟10股转4派4.09元】新洁能公布年报，2022年度净利润4.35亿元，同比增长0.97%；拟10股转4派4.09元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0216738.d.html</link>
+            <guid>3034390</guid>
+            <pubDate>Mon, 20 Mar 2023 10:54:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【世名科技：与盘锦辽滨沿海经济技术开发区管理委员会签订《合作协议》】世名科技公告，与盘锦辽滨沿海经济技术开发区管理委员会签订《合作协议》，并使用自有或自筹资金7,000万元在辽滨沿海经济技术开发区投资建设“9000吨级UV单体、2000吨级光敏树脂、500吨级电子级碳氢树脂、2000吨级润滑油添加剂、3500吨级建筑添加剂中试装置及其配套设施”项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivu3402914.d.html</link>
-            <guid>3034331</guid>
-            <pubDate>Mon, 20 Mar 2023 10:04:37 GMT</pubDate>
+            <title><![CDATA[【回天新材：拟以1亿元-2亿元回购股份】回天新材公告，拟以1亿元-2亿元回购股份，回购价格不超过16元/股。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0216667.d.html</link>
+            <guid>3034389</guid>
+            <pubDate>Mon, 20 Mar 2023 10:54:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【首华燃气：股东拟合计减持股份不超过6%】首华燃气公告，股东拟合计减持股份不超过6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0179709.d.html</link>
-            <guid>3034330</guid>
-            <pubDate>Mon, 20 Mar 2023 10:04:04 GMT</pubDate>
+            <title><![CDATA[市场消息：印尼将于4月1日宣布电动汽车激励措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0212894.d.html</link>
+            <guid>3034388</guid>
+            <pubDate>Mon, 20 Mar 2023 10:50:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【习近平乘专机抵达俄罗斯首都莫斯科】当地时间3月20日下午，国家主席习近平乘专机抵达俄罗斯首都莫斯科。应俄罗斯联邦总统普京邀请，国家主席习近平于3月20日至22日对俄罗斯进行国事访问。（央视新闻）]]></title>
-            <guid>3034328</guid>
-            <pubDate>Mon, 20 Mar 2023 10:01:36 GMT</pubDate>
+            <title><![CDATA[瑞银股价下跌4.4%，此前一度下跌16%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0212521.d.html</link>
+            <guid>3034387</guid>
+            <pubDate>Mon, 20 Mar 2023 10:50:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧洲监管机构重申CET1先于AT1债券承担损失。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivu3400084.d.html</link>
-            <guid>3034327</guid>
-            <pubDate>Mon, 20 Mar 2023 10:01:15 GMT</pubDate>
+            <title><![CDATA[摩根大通首席经济学家Bruce Kasman：信贷紧缩“可能会持续几个月”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0211250.d.html</link>
+            <guid>3034386</guid>
+            <pubDate>Mon, 20 Mar 2023 10:47:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧元区1月季调后贸易帐 -113亿欧元，为2022年1月以来最小贸易逆差，前值-181亿欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0175965.d.html</link>
-            <guid>3034326</guid>
-            <pubDate>Mon, 20 Mar 2023 10:00:11 GMT</pubDate>
+            <title><![CDATA[欧洲央行管委斯图纳拉斯：希腊银行业状况稳健，对瑞信的风险敞口几乎为零。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0210865.d.html</link>
+            <guid>3034384</guid>
+            <pubDate>Mon, 20 Mar 2023 10:47:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【天康生物：2023年2月份生猪销售收入同比增256.67%】天康生物公告，2023年2月份销售生猪19.89万头，销量环比增长25.02%，同比增长147.7%；销售收入3.21亿元，销售收入环比增长27.89%，同比增长256.67%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivu3397379.d.html</link>
-            <guid>3034325</guid>
-            <pubDate>Mon, 20 Mar 2023 09:58:42 GMT</pubDate>
+            <title><![CDATA[欧洲央行管委斯图纳拉斯：希腊银行业对瑞信的AT1债券没有敞口。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivu3433648.d.html</link>
+            <guid>3034383</guid>
+            <pubDate>Mon, 20 Mar 2023 10:47:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[现货黄金日内再次转跌，较日高回落20美元，此前一度涨超1%，现报1987.13美元/盎司。]]></title>
-            <guid>3034324</guid>
-            <pubDate>Mon, 20 Mar 2023 09:56:15 GMT</pubDate>
+            <title><![CDATA[【中基协：2月企业资产证券化业务新增备案规模环比减少17.10%】据中国证券投资基金业协会消息，2023年2月，企业资产证券化产品共备案确认84只，新增备案规模合计881.76亿元。2月新增备案规模环比减少17.10%，同比增长24.15%。截至2023年2月底，存续企业资产证券化产品2,234只，存续规模19,699.34亿元，存续规模较上月增长0.81%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivu3433471.d.html</link>
+            <guid>3034382</guid>
+            <pubDate>Mon, 20 Mar 2023 10:46:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【药明康德：2022年度净利润同比增长72.91% 拟10股派8.9元】药明康德公告，2022年度净利润88.14亿元，同比增长72.91%；拟10股派8.9元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivu3394379.d.html</link>
-            <guid>3034323</guid>
-            <pubDate>Mon, 20 Mar 2023 09:55:54 GMT</pubDate>
+            <title><![CDATA[英国20年期和30年期国债收益率在盘中早些时候下跌约10个基点后，日内几乎没有变化。]]></title>
+            <guid>3034381</guid>
+            <pubDate>Mon, 20 Mar 2023 10:44:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【冬海集团创办人向员工喊话：最糟时刻已经过去】 据彭博消息，新加坡冬海集团（Sea）创办人李小冬表示，已做出一项实现长期获利所需的改变，并向目睹冬海过去数月大裁员的在职员工保证，最糟的时刻已经过去。李小冬告诉员工，集团做出痛苦的决定，以求迅速适应环境和确立更稳固的基础，并降低效率欠佳的情况。他说：“我想跟各位保证，冬海大刀阔斧的整顿工作已经大功告成，除非外部环境再有重大变化。而我们目前并未预见进一步的重大变化。”（界面新闻）]]></title>
-            <guid>3034322</guid>
-            <pubDate>Mon, 20 Mar 2023 09:55:36 GMT</pubDate>
+            <title><![CDATA[日本首相岸田文雄：我们向世界银行行长也发出了参加G7广岛峰会的邀请。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0208960.d.html</link>
+            <guid>3034380</guid>
+            <pubDate>Mon, 20 Mar 2023 10:44:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[标普全球市场财智称，瑞银五年期信用违约互换进一步扩大至175个基点，为十多年来最高水平。]]></title>
-            <guid>3034321</guid>
-            <pubDate>Mon, 20 Mar 2023 09:54:16 GMT</pubDate>
+            <title><![CDATA[【万华化学：2022年净利润同比下降34.14% 拟10派16元】万华化学公告，2022年净利润162.3亿元，同比下降34.14%，拟10派16元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivu3431755.d.html</link>
+            <guid>3034379</guid>
+            <pubDate>Mon, 20 Mar 2023 10:43:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【多个欧股指数转涨，银行股跌幅收窄、瑞信仍跌60%】德国DAX30指数、意大利富时MIB指数转涨，此前均一度跌超2%。欧洲斯托克50指数、法国CAC指数、英国富时100指数亦转涨。银行股跌幅收窄，德意志银行跌4%，此前一度跌超10%，德国商业银行、渣打银行跌幅收窄至4%以内。不过，瑞士信贷仍跌超60%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivu3391883.d.html</link>
-            <guid>3034320</guid>
-            <pubDate>Mon, 20 Mar 2023 09:53:51 GMT</pubDate>
+            <title><![CDATA[【瀚川智能：与悦享雄安签订战略合作框架协议】瀚川智能公告，与悦享雄安签订战略合作框架协议，在纯电动重卡换电设备领域达成市场端深度合作；在包括但不限于电力交易、电力管理、智能微网、光伏发电、储能等方面达成战略合作，共同开展相关业务。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0207016.d.html</link>
+            <guid>3034377</guid>
+            <pubDate>Mon, 20 Mar 2023 10:42:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【上金所：近期影响市场运行的不确定性因素较多 市场风险明显加剧】上金所公告，近期影响市场运行的不确定性因素较多，市场风险明显加剧，价格波动显著增大。请各会员单位提高风险防范意识，做细做好风险应急预案，提示投资者做好风险防范工作，合理控制仓位，理性投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivu3390766.d.html</link>
-            <guid>3034319</guid>
-            <pubDate>Mon, 20 Mar 2023 09:52:58 GMT</pubDate>
+            <title><![CDATA[摩根大通首席经济学家Bruce Kasman：预计美联储本周三将加息25个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivu3429806.d.html</link>
+            <guid>3034376</guid>
+            <pubDate>Mon, 20 Mar 2023 10:42:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧洲银行业管理局对瑞士昨日采取的行动表示欢迎，称欧洲银行业具有韧性。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivu3387843.d.html</link>
-            <guid>3034318</guid>
-            <pubDate>Mon, 20 Mar 2023 09:51:20 GMT</pubDate>
+            <title><![CDATA[【沙特国家银行在瑞信的投资上损失超过10亿美元】据报道，在瑞士信贷的破产危机后，沙特国家银行正遭受重大损失。沙特国家银行为瑞信最大的股东，它周一向CNBC证实，其投资损失了约80%。该行持有瑞信约10%的股份，去年11月它以每股3.82瑞郎的价格向这家瑞士银行投资了14亿瑞郎(合15亿美元)。而根据救助协议的条款，瑞银将向瑞信股东支付每股0.76瑞郎。这一大幅折价发生在监管机构试图支撑全球银行体系之际。不过尽管损失惨重，沙特国家银行表示，其更广泛的战略将保持不变。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivu3428765.d.html</link>
+            <guid>3034375</guid>
+            <pubDate>Mon, 20 Mar 2023 10:40:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【航宇科技：竞拍取得贵州黎阳国际制造有限公司5.84%股权】航宇科技公告，公司已竞拍取得中国航发贵州黎阳航空动力有限公司在北京产权交易所挂牌转让其持有的贵州黎阳国际制造有限公司5.84%股权，最终成交价格为3563.39万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0163374.d.html</link>
-            <guid>3034317</guid>
-            <pubDate>Mon, 20 Mar 2023 09:49:53 GMT</pubDate>
+            <title><![CDATA[【创维数字：2022年净利润同比增长95% 拟10派2元】创维数字(000810)3月20日晚间披露年报，2022年公司实现营业收入120.09亿元，同比增长10.71%；归母净利润8.23亿元，同比增长95.13%；基本每股收益0.7466元。公司拟向全体股东每10股派发现金红利2元（含税）。营收增长主要系智能终端业务规模增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0205304.d.html</link>
+            <guid>3034374</guid>
+            <pubDate>Mon, 20 Mar 2023 10:40:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【今年2月民航完成旅客运输量4320万人次，同比增长38%】3月20日，中国民航局官网发布了中国民航2023年2月份主要生产指标统计：2月，民航完成旅客运输量4320万人次，同比增长38%，其中国内航线完成旅客运输量4249.5万人次，同比增长36.1%，国际航线完成旅客运输量70.6万人次，同比增长756%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0162663.d.html</link>
-            <guid>3034316</guid>
-            <pubDate>Mon, 20 Mar 2023 09:48:46 GMT</pubDate>
+            <title><![CDATA[拼多多(PDD.O)：2022年全年营收1305.576亿元，同比增长39%；净利润315.381亿元，同比增长306%；摊薄每ADS盈利21.93元。]]></title>
+            <guid>3034373</guid>
+            <pubDate>Mon, 20 Mar 2023 10:39:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[法国资产管理公司东方汇理（Amundi）：在过去3个月里，我们的总敞口“大幅减少”，截至3月9日，我们对瑞信的风险敞口占资产管理规模的0.03%。]]></title>
-            <guid>3034315</guid>
-            <pubDate>Mon, 20 Mar 2023 09:48:10 GMT</pubDate>
+            <title><![CDATA[【兴发集团：2022年净利同比增长36.67% 拟10派10元】兴发集团公告，2022年净利润58.5亿元，同比增长36.67%，拟10派10元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0204153.d.html</link>
+            <guid>3034372</guid>
+            <pubDate>Mon, 20 Mar 2023 10:38:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【金智科技：中标3064万元东南大学电子信息采购项目】金智科技公告，子公司成功中标东南大学人文社科科研楼项目电子信息设备采购（招标编号：NJHW-210200-2）、江苏高淳经济开发区教育发展中心项目智能化设备采购及相关服务（初中部）（招标编号：NJHW-220017-3），中标金额合计3063.95万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivu3384376.d.html</link>
-            <guid>3034314</guid>
-            <pubDate>Mon, 20 Mar 2023 09:47:04 GMT</pubDate>
+            <title><![CDATA[【大商所：希望与山东省港口集团进一步深化在铁矿石等期货品种交割管理与服务等领域合作】大商所党委书记、理事长冉华一行赴山东省港口集团（简称山东港口）走访调研，与山东港口党委书记、董事长霍高原进行座谈，双方就大宗商品及运输等价格指数数据采集、期货交割、仓单登记与服务等领域合作事宜进行深入交流。冉华表示，山东港口是我国铁矿石等大宗干散货进口的主要港口，能够在提升我国大宗商品价格影响力过程中发挥重要作用。希望双方未来进一步深化在铁矿石等期货品种交割管理与服务、仓单登记中心及场外市场建设、大宗商品及运输等价格指数研发等领域的合作，共同构建期现联动生态，进一步挖掘、延伸服务实体经济功能，打造更加完善的金融服务生态圈，为助力我国经济高质量发展贡献更大力量。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0203884.d.html</link>
+            <guid>3034371</guid>
+            <pubDate>Mon, 20 Mar 2023 10:37:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【先正达集团董事会新增独立董事】3月20日，先正达集团股东大会召开之后，集团宣布蔡金勇博士被一致推选为公司新的独立董事，自3月20日起生效。蔡金勇还被任命为董事会薪酬委员会和审计委员会的成员。蔡金勇目前担任环球基础设施合伙公司的合伙人，曾任世界银行集团国际金融公司的首席执行官。蔡金勇还担任怡安集团董事，并担任中国石油的独立董事。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivu3384191.d.html</link>
-            <guid>3034313</guid>
-            <pubDate>Mon, 20 Mar 2023 09:46:48 GMT</pubDate>
+            <title><![CDATA[拼多多盘前跌幅扩大至13%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0203685.d.html</link>
+            <guid>3034370</guid>
+            <pubDate>Mon, 20 Mar 2023 10:37:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【成都铁路监督管理局：中铁二十四局等2家公司铁路工程建设中存违规行为被罚】成都铁路监督管理局行政处罚公开信息显示，经调查发现，中铁二十四局集团有限公司在成都铁路监督管理局辖区内的铁路工程建设中存在不按照施工图设计文件和施工技术标准施工的行为，被责令改正，并处罚款370863元。北京现代通号工程咨询有限公司在成都铁路监督管理局辖区内的铁路工程建设中存在将不合格的铁路建设工程按照合格签字的行为，被责令改正，并处罚款520000元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0158596.d.html</link>
-            <guid>3034312</guid>
-            <pubDate>Mon, 20 Mar 2023 09:43:04 GMT</pubDate>
+            <title><![CDATA[【拼多多2022年研发投入超百亿，持续加大投入，助推数实融合】 在2022年，拼多多坚持“重研发”的战略，继续加码技术创新投入。全年总研发费用首次超过100亿元，同比增长15%，其中，第四季度研发费用同比增长19%。自公司战略转向“重研发”至今，拼多多充分发挥数字化平台优势，优化供需两端的大规模、精准、高效匹配，提升前沿科技在农业、制造业转型升级中的支撑能力，助推数实融合。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivu3425882.d.html</link>
+            <guid>3034369</guid>
+            <pubDate>Mon, 20 Mar 2023 10:36:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：沙特国家银行在瑞士信贷投资上亏损超过10亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivu3381108.d.html</link>
-            <guid>3034311</guid>
-            <pubDate>Mon, 20 Mar 2023 09:42:43 GMT</pubDate>
+            <title><![CDATA[【东方精工：股东拟减持公司不超1%股份】 东方精工(002611)3月20日晚间公告，合计持股6.03%的公司股东东圣先行科技产业有限公司及其一致行动人青海普仁智能科技研发中心(有限合伙)拟减持公司股份不超过1241.11万股（即不超过公司当前总股本的1%）。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0202540.d.html</link>
+            <guid>3034368</guid>
+            <pubDate>Mon, 20 Mar 2023 10:35:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【习近平即将抵达俄罗斯首都莫斯科】当地时间3月20日下午，国家主席习近平乘专机即将抵达俄罗斯首都莫斯科。（央视新闻 ）]]></title>
-            <guid>3034310</guid>
-            <pubDate>Mon, 20 Mar 2023 09:41:14 GMT</pubDate>
+            <title><![CDATA[日本首相岸田文雄：我们将邀请库克群岛、科摩罗、巴西和越南领导人参加G7广岛峰会。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0201853.d.html</link>
+            <guid>3034367</guid>
+            <pubDate>Mon, 20 Mar 2023 10:34:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【华友钴业：前景锂矿Arcadia锂矿开发项目全部产线已完成设备安装调试工作】华友钴业公告，近日，前景锂矿Arcadia锂矿开发项目全部产线已完成设备安装调试工作，并投料试生产，成功产出第一批产品]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivu3378407.d.html</link>
-            <guid>3034309</guid>
-            <pubDate>Mon, 20 Mar 2023 09:40:29 GMT</pubDate>
+            <title><![CDATA[拼多多(PDD.O)：第四季度non-GAAP每ADS盈利8.34元，市场预期7.55元。]]></title>
+            <guid>3034366</guid>
+            <pubDate>Mon, 20 Mar 2023 10:34:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【汇宇制药：黄乾益拟减持股份不超过3%】汇宇制药公告，黄乾益拟减持股份不超过3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivu3378016.d.html</link>
-            <guid>3034308</guid>
-            <pubDate>Mon, 20 Mar 2023 09:40:05 GMT</pubDate>
+            <title><![CDATA[【欧盟发布粮农领域优先发展战略】欧盟理事会批准粮农领域优先发展战略。欧盟理事会农业和渔业理事会称，未来欧盟重点将推动向可持续粮食系统发展并实现粮食安全。当天发布的文件说，推进全球向可持续粮食系统过渡，提高风险抵御能力，并确保粮食安全，是应对当今全球挑战的关键。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0201346.d.html</link>
+            <guid>3034365</guid>
+            <pubDate>Mon, 20 Mar 2023 10:33:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【马士基推出欧洲-中国空运服务】3月20日，马士基集团官微宣布，公司开通丹麦比隆和中国杭州之间的定期航班。按照计划，欧亚航线运营于3月20日开始，每周有3个航班，目前执飞货机是马士基航空货运机队中首架新改装的波音767-300货机，所有欧洲-中国的航班都将由马士基自有航空货运公司运营。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0154992.d.html</link>
-            <guid>3034307</guid>
-            <pubDate>Mon, 20 Mar 2023 09:39:55 GMT</pubDate>
+            <title><![CDATA[欧元集团主席多诺霍：我们对欧元区和欧元有信心，相信我们将在更加动荡的世界中找到出路。]]></title>
+            <guid>3034364</guid>
+            <pubDate>Mon, 20 Mar 2023 10:33:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国恒大考虑发行最长12年期无担保债券置换原有债券】从知情人士处获悉，中国恒大将向投资者提供最长12年到期、票面利率最高达9%的新的无担保债券，用来置换目前投资者手中持有的原先的旧债券。据知情人士称，中国恒大目前考虑不支付票息，部分投资者也同意了获得的资金将低于他们持有的债券面值，但具体低多少目前还没有确定。中国恒大不会立刻对投资者进行偿付，但会通过互换操作将债权人手中的债券转成新发行的债券，包括以恒大在香港上市公司（恒大汽车和恒大物业）的股份作为抵押债券。恒大集团董事局主席许家印将以其对恒大汽车提供的贷款转换成持有的股份。（澎湃新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0154484.d.html</link>
-            <guid>3034306</guid>
-            <pubDate>Mon, 20 Mar 2023 09:39:04 GMT</pubDate>
+            <title><![CDATA[德国政府发言人：总理朔尔茨欢迎瑞士当局的行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0199668.d.html</link>
+            <guid>3034363</guid>
+            <pubDate>Mon, 20 Mar 2023 10:32:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【辽宁省1816个新项目集中开工 总投资超4700亿元】据大连发布消息，3月20日上午10时，2023年辽宁省一季度重点项目集中开工动员大会在主会场沈阳亿纬锂能储能与动力电池项目工程现场召开，全省其他各市及沈抚示范区设分会场以视频连线方式同步启幕。本次集中开工的新项目共1816个，总投资超4700亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0152889.d.html</link>
-            <guid>3034305</guid>
-            <pubDate>Mon, 20 Mar 2023 09:36:44 GMT</pubDate>
+            <title><![CDATA[拼多多盘前直线下挫，跌超7％。拼多多第四季度营收398.2亿元人民币，预估419.5亿元人民币。拼多多2022年Q4净利润94.537亿元，去年同期66.2亿元，市场预期97.5亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0199001.d.html</link>
+            <guid>3034362</guid>
+            <pubDate>Mon, 20 Mar 2023 10:31:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【浦东建设：中标23.2亿元普通商品房工程项目】浦东建设3月20日晚间公告，子公司上海市浦东新区建设（集团）有限公司中标临港新片区PDC1-0103单元I08-01、I12-02地块普通商品房项目施工总承包（除桩基）工程，中标价格23.2亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivu3375021.d.html</link>
-            <guid>3034304</guid>
-            <pubDate>Mon, 20 Mar 2023 09:35:50 GMT</pubDate>
+            <title><![CDATA[【TrendForce：三星晶圆代工与DRAM业务销售额差距已降至历史新低】TrendForce数据显示，三星电子去年四季度晶圆代工业务销售额为7万亿韩元（约合54亿美元），同期DRAM业务销售额为7.2万亿韩元，这也是该公司两项业务有史以来最窄的差距。TrendForce预计，2023年全年，三星电子晶圆代工销售额将首次超过内存芯片业务。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0198597.d.html</link>
+            <guid>3034361</guid>
+            <pubDate>Mon, 20 Mar 2023 10:31:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【海油工程：2022年度净利润同比增长294.11% 拟10股派1元】海油工程公布年报，2022年度净利润14.6亿元，同比增长294.11%；拟10股派1元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0151080.d.html</link>
-            <guid>3034303</guid>
-            <pubDate>Mon, 20 Mar 2023 09:34:42 GMT</pubDate>
+            <title><![CDATA[拼多多第四季度营收398.2亿元人民币，预估419.5亿元人民币。拼多多第四季度净利润94.537亿元，去年同期66.2亿元，市场预期97.5亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivu3421160.d.html</link>
+            <guid>3034360</guid>
+            <pubDate>Mon, 20 Mar 2023 10:30:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[纳斯达克100指数期货收复之前近1%的跌幅，现已转涨，道指期货跌幅收窄至0.37%。]]></title>
-            <guid>3034302</guid>
-            <pubDate>Mon, 20 Mar 2023 09:34:11 GMT</pubDate>
+            <title><![CDATA[据日本财务大臣声明，日本支持Ajay Banga担任世界银行行长。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivu3420987.d.html</link>
+            <guid>3034359</guid>
+            <pubDate>Mon, 20 Mar 2023 10:30:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【宝尊与阿里云达成战略合作，国内业务将全面上云】 宝尊电商官微消息，宝尊集团宣布与阿里云达成战略合作。根据协议，宝尊的国内业务将实现全面上云，并借助阿里云在东南亚、欧洲、北美等地区广泛布局的云节点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivu3373504.d.html</link>
-            <guid>3034301</guid>
-            <pubDate>Mon, 20 Mar 2023 09:34:06 GMT</pubDate>
+            <title><![CDATA[【光明乳业：2022年净利润同比下降39%】光明乳业(600597)3月20日晚间披露年报，2022年公司实现营业收入282.15亿元，同比下降3.39%；归母净利润3.61亿元，同比下降39.11%；基本每股收益0.26元。公司拟向全体股东每股派现金红利0.08元（含税）。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-20/detail-imympivw0197347.d.html</link>
+            <guid>3034358</guid>
+            <pubDate>Mon, 20 Mar 2023 10:29:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
