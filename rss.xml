@@ -4,291 +4,289 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Tue, 21 Mar 2023 16:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 17:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[消息人士称，如果融资失败，第一共和银行将考虑缩减规模。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymsiyk3002543.d.html</link>
+            <guid>3036652</guid>
+            <pubDate>Tue, 21 Mar 2023 17:15:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：03月22日00时47分在阿富汗（北纬36.50度，东经70.80度）发生6.9级地震，震源深度230千米。]]></title>
+            <guid>3036651</guid>
+            <pubDate>Tue, 21 Mar 2023 17:14:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[律所Pallas Partners LLP：建立瑞士信贷AT1债券持有人群组。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymsiyk3002444.d.html</link>
+            <guid>3036650</guid>
+            <pubDate>Tue, 21 Mar 2023 17:14:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[律所Pallas Partners LLP：成立群组，采取诉讼策略，旨在寻求减轻AT1持有人遭受的损失，并允许进行赔偿。]]></title>
+            <guid>3036649</guid>
+            <pubDate>Tue, 21 Mar 2023 17:14:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[第一共和银行(FRC.N)短线拉升，现涨超55%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymsiym9779346.d.html</link>
+            <guid>3036648</guid>
+            <pubDate>Tue, 21 Mar 2023 17:14:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国两年期国债收益率上涨26个基点，创2008年以来最大升幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymsiyk2996651.d.html</link>
+            <guid>3036647</guid>
+            <pubDate>Tue, 21 Mar 2023 17:03:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯央行：俄罗斯银行外币流动性水平充足，达到600亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymsiym9773402.d.html</link>
+            <guid>3036646</guid>
+            <pubDate>Tue, 21 Mar 2023 17:02:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯央行：由于经济不确定性和消费者支出的限制，储蓄率仍然很高。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymsiyk2996188.d.html</link>
+            <guid>3036645</guid>
+            <pubDate>Tue, 21 Mar 2023 17:02:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯央行：2月份俄罗斯人的银行账户存款增加2%（1月份下降2.7%）。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymsiyk2996015.d.html</link>
+            <guid>3036644</guid>
+            <pubDate>Tue, 21 Mar 2023 17:02:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部拍卖120亿美元20年期国债，得标利率3.909%，2月15日为3.977%。]]></title>
+            <guid>3036643</guid>
+            <pubDate>Tue, 21 Mar 2023 17:02:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【京杭大运河二通道杭州段贯通】 3月20日，京杭大运河二通道杭州段顺利贯通，位于杭州段和海宁段的交界处，两端的水面已经畅通，具备了800吨船舶的通航条件。京杭大运河二通道全长约23公里，预计今年5月底竣工。全线通航后，大部分货运船舶将不再通过杭州市区，而是改由运河二通道航行。（央视财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymsiyk2995561.d.html</link>
+            <guid>3036642</guid>
+            <pubDate>Tue, 21 Mar 2023 17:02:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际铜夜盘收涨1.10%，沪铜收涨1.07%，沪铝收涨0.25%，沪锌收跌0.47%，沪铅收跌0.13%，沪镍收跌0.37%，沪锡收涨1.01%。不锈钢夜盘收涨0.35%。]]></title>
+            <guid>3036641</guid>
+            <pubDate>Tue, 21 Mar 2023 17:01:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯央行：俄罗斯银行在2月份购买了约2000亿卢布的俄罗斯国债。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymsiym9772273.d.html</link>
+            <guid>3036640</guid>
+            <pubDate>Tue, 21 Mar 2023 17:01:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯央行：2月份逾期企业贷款增加了620亿卢布。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymsiym9772092.d.html</link>
+            <guid>3036639</guid>
+            <pubDate>Tue, 21 Mar 2023 17:01:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯央行：2月份银行外币贷款下降了3630亿卢布。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymsiym9771846.d.html</link>
+            <guid>3036638</guid>
+            <pubDate>Tue, 21 Mar 2023 17:01:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯央行：俄罗斯银行的企业贷款组合在2月份增长了1.5％（1月份下降了0.2％）。]]></title>
+            <guid>3036637</guid>
+            <pubDate>Tue, 21 Mar 2023 17:01:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯央行：俄罗斯银行2月份利润达2930亿卢布（比1月份增长14%）。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymsiym9771520.d.html</link>
+            <guid>3036636</guid>
+            <pubDate>Tue, 21 Mar 2023 17:01:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯央行：2023年1-2月俄罗斯银行获利5510亿卢布。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymsiyk2994327.d.html</link>
+            <guid>3036635</guid>
+            <pubDate>Tue, 21 Mar 2023 17:00:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳新银行：（欧美）银行业危机是重建原油多头仓位的良机。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymsiym9769988.d.html</link>
+            <guid>3036633</guid>
+            <pubDate>Tue, 21 Mar 2023 16:57:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【1月份行业保费与保险金额形成“剪刀差”，意外险保费收入下降是主因】 3月21日，银保监会发布了今年1月份保险业经营情况。数据显示，按可比口径，行业原保险保费收入约10171亿元，按可比口径同比增长3.86%，保险金额同比下降26.78%，原保险赔付支出增长1.23%。从保险机构的不同业务来看，今年1月份行业意外险保费收入为91亿元，同比下降27.2%。其中，财产险公司意外险保费收入为48亿元，同比下降30.4%。中央财经大学中国精算科技实验室主任陈辉表示，意外险具有很高的杠杆属性，保费低、保额高，1月份意外险保费收入的大幅下降是财险公司保额大幅下降的主要原因。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymsiym9769694.d.html</link>
+            <guid>3036632</guid>
+            <pubDate>Tue, 21 Mar 2023 16:56:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[当地人称，巴基斯坦和阿富汗首都感受到强烈的震动。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymsiyk2992076.d.html</link>
+            <guid>3036631</guid>
+            <pubDate>Tue, 21 Mar 2023 16:54:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周二（3月21日）欧市尾盘，ICE英国天然气期货涨6.65%，报100.550便士/千卡，上日曾跌至93.000便士。TTF基准荷兰天然气期货涨5.61%，报41.400欧元/兆瓦时，上日曾跌至38.800欧元。ICE欧盟碳排放交易许可（期货价格）涨2.67%，报87.38欧元/吨，连续第二个交易日上涨，之前连跌五天。]]></title>
+            <guid>3036630</guid>
+            <pubDate>Tue, 21 Mar 2023 16:54:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿富汗附近发生7.2级左右地震】 中国地震台网自动测定：03月22日00时47分在阿富汗附近(北纬36.47度，东经70.90度)发生7.2级左右地震，最终结果以正式速报为准。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymsiym9768659.d.html</link>
+            <guid>3036629</guid>
+            <pubDate>Tue, 21 Mar 2023 16:52:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【银行理财资金连续七周增配债券，“赎回潮”后首周净买入银行资本债】 上周（3月13日至3月17日）银行理财资金净买入债券现券578亿元，这已是连续第七周净买入，七周合计净买入3447亿元。与此前持续增持同业存单和信用债不同的是，上周银行理财资金在“赎回潮”后首次单周净买入银行资本债。受访专家认为，银行理财资金持续增配债市有两大原因：一是从负债端来看，始于去年11月份的“赎回潮”影响逐渐消退，银行理财机构推出的混合估值法等产品稳定了负债端，推动银行理财资金持续回流债市；二是从资产端来看，今年货币政策稳健，市场预期好转，银行理财资金开始加大债券配置力度。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymscsp9894993.d.html</link>
+            <guid>3036628</guid>
+            <pubDate>Tue, 21 Mar 2023 16:43:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞银集团瑞士股价（UBSG.SW）初步收涨12.38%，报19.47瑞郎，最近两个交易日累计涨幅大约13.80%。瑞士信贷集团（CSGN.SW）初步收涨6.78%，报0.879瑞郎，最近两天累涨约27.60%。]]></title>
+            <guid>3036627</guid>
+            <pubDate>Tue, 21 Mar 2023 16:43:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国银行间市场交易商协会：截至2月末共有131家企业发行乡村振兴票据1500多亿元】 3月21日，中国银行间市场交易商协会官方公众号发布消息称，截至2023年2月末，共有131家企业发行乡村振兴票据1500多亿元，发行金额占公司信用类乡村振兴债比重超7成，支持项目覆盖全国27个省（自治区、直辖市），涵盖农民就业增收、农业现代化以及农村基础设施建设等多个领域，形成良好示范带动效应。交易商协会表示，乡村振兴票据推出以来，广大市场机构积极参与，为债券市场支持乡村振兴积累了宝贵的经验。从春耕到秋收，从民生到安全，乡村振兴票据紧扣每年的中央一号文件，不断创新完善支持乡村振兴的切入点、发力点和细分领域，乡村振兴票据覆盖的地区和发行人业态日益丰富多元。（证券日报）]]></title>
+            <guid>3036626</guid>
+            <pubDate>Tue, 21 Mar 2023 16:42:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：从周二开始，主要银行的首席执行官们将在华盛顿举行为期两天的会议，将讨论第一共和银行(FRC.N)的问题。]]></title>
+            <guid>3036625</guid>
+            <pubDate>Tue, 21 Mar 2023 16:42:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其里拉隔夜海外资金成本激增至420%。由于做空土耳其里拉的需求增加，隐含收益率上升。]]></title>
+            <guid>3036624</guid>
+            <pubDate>Tue, 21 Mar 2023 16:42:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧股主要指数收盘普涨】欧股主要指数收盘普涨，德国DAX指数涨1.8%，英国富时100指数涨1.82%，法国CAC40指数涨1.42%，欧洲斯托克50指数涨1.59%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymscsn3116045.d.html</link>
+            <guid>3036623</guid>
+            <pubDate>Tue, 21 Mar 2023 16:40:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行监事会主席恩瑞亚：对于较小的银行，我们的资本要求比美国更严格。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymscsn3115874.d.html</link>
+            <guid>3036622</guid>
+            <pubDate>Tue, 21 Mar 2023 16:40:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国DAX30指数3月21日（周二）收盘上涨264.77点，涨幅1.77%，报15198.15点；英国富时100指数3月21日（周二）收盘上涨134.05点，涨幅1.81%，报7537.90点；法国CAC40指数3月21日（周二）收盘上涨99.77点，涨幅1.42%，报7112.91点；欧洲斯托克50指数3月21日（周二）收盘上涨61.13点，涨幅1.48%，报4180.55点；西班牙IBEX35指数3月21日（周二）收盘上涨218.01点，涨幅2.47%，报9051.11点；意大利富时MIB指数3月21日（周二）收盘上涨661.43点，涨幅2.55%，报26561.00点。]]></title>
+            <guid>3036621</guid>
+            <pubDate>Tue, 21 Mar 2023 16:40:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货钯金日内跌超2.00%，现报1385.13美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymscsn3115225.d.html</link>
+            <guid>3036620</guid>
+            <pubDate>Tue, 21 Mar 2023 16:39:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[有律师事务所表示，瑞士决定清零瑞信AT1债券后，部分持有人正在寻求法律建议。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymscsp9887978.d.html</link>
+            <guid>3036619</guid>
+            <pubDate>Tue, 21 Mar 2023 16:33:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[COMEX白银期货下跌1.5%，报22.31美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymscsn3109958.d.html</link>
+            <guid>3036618</guid>
+            <pubDate>Tue, 21 Mar 2023 16:32:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国DAX 30指数初步收涨1.75%，报15194.04点。法国股指初步收涨1.52%，意大利股指初步收涨2.58%、银行指数大涨5.07%，英国股指初步收涨1.87%。瑞士市场指数初步收涨1.38%，瑞士表现指数涨1.18%。]]></title>
+            <guid>3036617</guid>
+            <pubDate>Tue, 21 Mar 2023 16:32:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲STOXX 600指数初步收涨1.40%，报446.80点。欧元区STOXX 50指数初步收涨1.57%，报4184.21点。富时泛欧绩优300指数初步收涨1.33%，报1765.66点。]]></title>
+            <guid>3036616</guid>
+            <pubDate>Tue, 21 Mar 2023 16:32:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[两只太平洋投资管理公司和Bluebay的基金在瑞士信贷AT1债务减记后出现暴跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymscsp9885390.d.html</link>
+            <guid>3036615</guid>
+            <pubDate>Tue, 21 Mar 2023 16:31:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【媒体：瑞银无意践行瑞信投行梦，更看重后者的优秀银行家】 据知情人士透露，瑞银集团希望从瑞信集团的投资银行部门挑选出佼佼者来增强自己的投行业务，无意支持瑞信首席执行官Michael Klein将投行部门分拆成独立公司的计划。瑞银高管称更倾向于有选择地加强自身投行部门实力，同时抛弃风险较高的业务。在最初的会谈中，瑞银表示出对继续推进瑞士信贷第一波士顿分拆计划兴趣不大，因为这等于是给自己创造一个新的竞争对手。这一切意味着，Klein在第一波士顿品牌下重塑投行业务的梦想变得越来越遥不可及。一些高管已经在为投行部门接洽潜在收购者，包括日本瑞穗金融集团，希望能激起这些机构的收购兴趣，然后他们会再向瑞银推介此事。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymscsn3107698.d.html</link>
+            <guid>3036614</guid>
+            <pubDate>Tue, 21 Mar 2023 16:31:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[维珍轨道(VORB.O)跌幅扩大至17%，消息称维珍轨道仍在努力谈判收购事宜，并酝酿关于申请破产的应急计划。]]></title>
+            <guid>3036613</guid>
+            <pubDate>Tue, 21 Mar 2023 16:27:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：在瑞士信贷股票下跌后，预计瑞士央行资本充足率前景不会改变，并预计其CET1比率在2023年底仍将保持在16%左右。]]></title>
+            <guid>3036612</guid>
+            <pubDate>Tue, 21 Mar 2023 16:26:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[方舟基金创始人Cathie Wood：方舟基金对硅谷银行没有风险敞口。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymscsn3102272.d.html</link>
+            <guid>3036611</guid>
+            <pubDate>Tue, 21 Mar 2023 16:26:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：在利率上升、融资增长强劲、成本协同效应实现的支持下，瑞士央行的内部资本生成将在2023年有所改善。]]></title>
+            <guid>3036610</guid>
+            <pubDate>Tue, 21 Mar 2023 16:26:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：瑞银收购瑞士信贷对沙特国家银行的评级影响中性。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymscsn3100208.d.html</link>
+            <guid>3036609</guid>
+            <pubDate>Tue, 21 Mar 2023 16:24:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[方舟基金创始人Cathie Wood：ARK有20亿美元的税务损失，可抵消未来的收益。]]></title>
+            <guid>3036608</guid>
+            <pubDate>Tue, 21 Mar 2023 16:23:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士政府方面表示，联邦委员会指示联邦财政部就截至2022年及以后的财政年度的可变薪酬提出进一步措施。]]></title>
+            <guid>3036607</guid>
+            <pubDate>Tue, 21 Mar 2023 16:23:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英伟达选择甲骨文云基础架构来提供人工智能服务。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymscsp9873802.d.html</link>
+            <guid>3036606</guid>
+            <pubDate>Tue, 21 Mar 2023 16:21:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士政府方面表示，措施涉及截至2022年财政年度已授予但延期支付的薪酬，例如以股票奖励的形式。]]></title>
+            <guid>3036605</guid>
+            <pubDate>Tue, 21 Mar 2023 16:21:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【因业务“避嫌”需要，中信证券旗下千亿基金王牌经理卸任】 近日，中信证券旗下明星产品中信证券卓越成长公告，自3月21日起，因工作调整，张晓亮不再担任基金经理。张晓亮现任中信证券资产管理业务董事总经理，权益投资部负责人，是中信证券公募权益业务的核心人员，去年底掌管资金规模达1069.24亿元。此次张晓亮卸任公募产品是因为中信资管需要和母公司中信证券进行隔离，未来张晓亮仍将留任中信证券，无法继续兼任资管子公司的基金经理。（券商中国）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymscsp9873054.d.html</link>
+            <guid>3036604</guid>
+            <pubDate>Tue, 21 Mar 2023 16:20:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：比亚迪与英伟达合作，生产基于英伟达drive开发平台的主流软件定义汽车。]]></title>
+            <guid>3036603</guid>
+            <pubDate>Tue, 21 Mar 2023 16:20:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[瑞士政府方面表示，承认财政部正在通过向银行下达命令，暂时停止瑞信员工某些形式的可变薪酬。]]></title>
             <guid>3036602</guid>
             <pubDate>Tue, 21 Mar 2023 16:20:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Amazon Web Services(AWS)和英伟达(NVDA.O)合作开发下一代基础设施，用于训练大型机器学习模型和构建生成性AI应用。]]></title>
-            <guid>3036600</guid>
-            <pubDate>Tue, 21 Mar 2023 16:16:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其总统埃尔多安：土耳其和伊拉克将合作开发公路项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymscsp9867343.d.html</link>
-            <guid>3036599</guid>
-            <pubDate>Tue, 21 Mar 2023 16:15:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“闭眼打新”时代结束，首批主板注册制企业IPO询价今日启动】 3月22日起，首批主板注册制企业IPO询价正式启动。在已披露发行安排的10家主板IPO企业中，中重科技和登康口腔率先开展初步询价，符合条件的网下投资者将在今日交易时间内，提交拟申购价格和拟申购数量。紧接着，3月23日和3月24日两天，中电港、海森药业和中信金属等其他已披露发行安排的8家主板注册制IPO企业，也将陆续开展询价。根据发行安排，该10只主板注册制新股将在3月27日至3月29日网上申购。甬兴证券总裁助理、保荐代表人孙兆院表示，基于主板注册制的相关规则，投资者对主板新股询价和打新都要费思量，“之前主板新股‘闭着眼打新’的时代一去不复返了。”（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymscsn3089346.d.html</link>
-            <guid>3036598</guid>
-            <pubDate>Tue, 21 Mar 2023 16:13:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据国际文传电讯社：俄罗斯副总理诺瓦克表示，俄罗斯天然气工业股份公司已接到指示，确保尽快批准西伯利亚2号电力合同。]]></title>
-            <guid>3036597</guid>
-            <pubDate>Tue, 21 Mar 2023 16:11:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士信贷(CS.N)短线拉升，现涨超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymscsn3087272.d.html</link>
-            <guid>3036596</guid>
-            <pubDate>Tue, 21 Mar 2023 16:11:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯财政部为2029年到期的欧洲债券支付了51亿卢布的票息。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymscsp9864276.d.html</link>
-            <guid>3036595</guid>
-            <pubDate>Tue, 21 Mar 2023 16:10:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【茅台立春酒批量入市，价格翻了近3倍，雨水酒拍卖价超5万】 3月21日，“明媚春分·美自天成”贵州茅台酒二十四节气春系列之春分产品在线上线下同步发布，线下发布会在西安市曲江新区大悦城进行直播。茅台节气酒从发布到市场流通需要一定时间。目前，最先发布的立春酒已批量入市。京东、淘宝等平台可以直接购买到立春酒，整套价格超9000元。雨水酒在拍卖平台可见，500ml的产品近期拍卖落槌价超5万元。京东平台某经销商表示：“茅台节气酒都是限量发行，和生肖酒一样是‘硬通货’，产品刚上新的时候，由于市场供应量本身很少，难免价格会暴涨。”（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymscsn3086985.d.html</link>
-            <guid>3036594</guid>
-            <pubDate>Tue, 21 Mar 2023 16:10:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国食品药品管理局（FDA）接受Eat Just Inc.针对细胞培养鸡肉的安全性评估结果，意味着Eat Just扫清了监管方面的第一道障碍。]]></title>
-            <guid>3036593</guid>
-            <pubDate>Tue, 21 Mar 2023 16:09:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【多家房企证实：“三道红线”政策未取消 各项指标均没有变化】针对日前市场传出“三道红线”政策已取消的消息，从多家房企处获悉，目前“三道红线”政策并未取消，各房企仍在如期报送，所需填报表格中各项指标也均没有变化。(界面新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymscsn3086681.d.html</link>
-            <guid>3036592</guid>
-            <pubDate>Tue, 21 Mar 2023 16:09:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟向德国提出一份路线图建议，希望德国能停止阻挠一份关于内燃机禁令的计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymscsp9862635.d.html</link>
-            <guid>3036591</guid>
-            <pubDate>Tue, 21 Mar 2023 16:06:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本黄金零售价格近日涨至历史新高】 受欧美金融系统震荡影响，市场避险情绪升温，日本市场上黄金价格创下了新高。上面写着在本月20日，日本黄金零售价格上涨到了每克9303日元（约合人民币484元），创下历史新高，与去年3月相比，上涨了四分之一左右。不仅是现货价格，黄金期货价格近日也持续上涨。截止到昨天，大阪交易所的黄金期货主力合约价格，一度上涨到每克8411日元（约合人民币437元），连续5个交易日创下盘中新高。受欧美金融系统震荡影响，黄金作为避险资产受到投资者的青睐，并可能进一步推高日本国内的黄金价格。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymscsp9862545.d.html</link>
-            <guid>3036590</guid>
-            <pubDate>Tue, 21 Mar 2023 16:06:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普：预计监管资本成本将面临压力，这可能导致整个欧洲银行部门的监管资本灵活性降低。]]></title>
-            <guid>3036589</guid>
-            <pubDate>Tue, 21 Mar 2023 16:06:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行监事会主席恩瑞亚：我们的储户对处于有利地位的欧洲银行有很强的信任。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymscsp9862379.d.html</link>
-            <guid>3036588</guid>
-            <pubDate>Tue, 21 Mar 2023 16:06:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普：其他欧洲银行的AT1债券不会自动比普通股权股东承受更大的损失，但仍然具备可被纳入银行内部重整计划的特点。]]></title>
-            <guid>3036587</guid>
-            <pubDate>Tue, 21 Mar 2023 16:06:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普：预计欧洲银行将使用AT1混合工具来吸收损失，同时保持其作为持续经营机构的地位。]]></title>
-            <guid>3036586</guid>
-            <pubDate>Tue, 21 Mar 2023 16:05:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI和微软将与人工智能初创企业加速计划机构NEO合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymscsn3085076.d.html</link>
-            <guid>3036585</guid>
-            <pubDate>Tue, 21 Mar 2023 16:05:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据国际文传电讯社：俄罗斯国防部长表示，英国向乌克兰提供贫铀弹，俄罗斯将做出回应。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymscsp9861988.d.html</link>
-            <guid>3036584</guid>
-            <pubDate>Tue, 21 Mar 2023 16:05:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普：瑞信的AT1混合资本债券将被全部减记的公告突显了AT1投资者作为纾困的一部分面临巨大损失的风险。]]></title>
-            <guid>3036583</guid>
-            <pubDate>Tue, 21 Mar 2023 16:01:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普：对下行风险的增加关注可能会提高欧洲银行的资本成本，并使新的AT1发行更加困难和昂贵。]]></title>
-            <guid>3036582</guid>
-            <pubDate>Tue, 21 Mar 2023 16:01:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI和微软将向初创企业提供AI工具和软件。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-22/detail-imymscsn3081723.d.html</link>
-            <guid>3036581</guid>
-            <pubDate>Tue, 21 Mar 2023 16:01:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本民众集会反对福岛核污染水排海】 来自日本各地近5000名民众21日下午在东京举行集会，抗议东京电力公司（简称东电）福岛第一核电站核污染水排放入海计划，反对日本政府的核能政策等。抗议人群手举“不要忘了福岛”“不要把放射性污染水排放入海”等标语聚集到东京代代木公园。集会结束后，现场民众还进行了抗议游行。福岛诊疗所建设委员会事务局长渡边馨说，政府为应对核污染水排放对海产品造成“风评被害”（即声誉受影响）准备了数百亿日元资金，但这不是什么“风评被害”，而是实际损害，因为排放的是放射性物质。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-21/detail-imymscsn3077350.d.html</link>
-            <guid>3036580</guid>
-            <pubDate>Tue, 21 Mar 2023 15:57:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据相关文件，上周硅谷银行金融集团在过渡银行的账户大约有20亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-21/detail-imymscsn3076668.d.html</link>
-            <guid>3036579</guid>
-            <pubDate>Tue, 21 Mar 2023 15:56:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据相关文件，硅谷银行金融集团的过渡银行账户余额为0。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-21/detail-imymscsp9853648.d.html</link>
-            <guid>3036578</guid>
-            <pubDate>Tue, 21 Mar 2023 15:56:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据相关文件，硅谷银行金融集团在过渡银行的现金被送到了美国联邦存款保险公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-21/detail-imymscsn3075191.d.html</link>
-            <guid>3036577</guid>
-            <pubDate>Tue, 21 Mar 2023 15:54:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[石油贸易商摩科瑞（Mercuria）CEO：我们可能会重新审视我们在运输俄罗斯石油方面的立场，但这不是我们的天然优势。]]></title>
-            <guid>3036576</guid>
-            <pubDate>Tue, 21 Mar 2023 15:54:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据俄罗斯天然气工业股份公司，2022年俄罗斯天然气储量增加了5292亿立方米。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-21/detail-imymscsp9850258.d.html</link>
-            <guid>3036575</guid>
-            <pubDate>Tue, 21 Mar 2023 15:52:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中俄元首签署联合声明，强调通过和谈解决乌克兰危机】 当地时间3月21日下午，国家主席习近平在莫斯科克里姆林宫同俄罗斯总统普京共同签署并发表《中华人民共和国和俄罗斯联邦关于深化新时代全面战略协作伙伴关系的联合声明》。关于乌克兰问题，双方认为，联合国宪章宗旨和原则必须得到遵守，国际法必须得到尊重。俄方积极评价中方在乌克兰问题上的客观公正立场。双方反对任何国家或国家集团为谋求军事、政治和其他优势而损害别国的合理安全利益。俄方重申致力于尽快重启和谈，中方对此表示赞赏。俄方欢迎中方愿为通过政治外交途径解决乌克兰危机发挥积极作用，欢迎《关于政治解决乌克兰危机的中国立场》文件中阐述的建设性主张。双方指出，解决乌克兰危机必须尊重各国合理安全关切并防止形成阵营对抗，拱火浇油。双方强调，负责任的对话是稳步解决问题的最佳途径。为此，国际社会应支持相关建设性努力。双方呼吁停止一切促使局势紧张、战事延宕的举动，避免危机进一步恶化甚至失控。双方反对任何未经联合国安理会授权的单边制裁。（央视新闻）]]></title>
-            <guid>3036574</guid>
-            <pubDate>Tue, 21 Mar 2023 15:51:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲天然气期货价格上涨10%，至43.26欧元/兆瓦时。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-21/detail-imymscsn3071131.d.html</link>
-            <guid>3036573</guid>
-            <pubDate>Tue, 21 Mar 2023 15:51:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中俄元首签署联合声明，强调通过和谈解决乌克兰危机。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-21/detail-imymscsp9846999.d.html</link>
-            <guid>3036572</guid>
-            <pubDate>Tue, 21 Mar 2023 15:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：FTX旗下衍生品交易平台LedgerX吸引了包括迈阿密交易所在内的公司投标。]]></title>
-            <guid>3036571</guid>
-            <pubDate>Tue, 21 Mar 2023 15:47:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股太阳能板块涨幅居前，阿特斯太阳能(CSIQ.O)涨13.7%，Sunrun(RUN.O)涨9.45%，晶科能源(JKS.N)涨8.4%，Enphase Energy(ENPH.O)、SunPower(SPWR.O)涨7.4%。]]></title>
-            <guid>3036570</guid>
-            <pubDate>Tue, 21 Mar 2023 15:45:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行监事会主席恩瑞亚：融资和流动性头寸并未受到瑞信危机的实质性影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-21/detail-imymscsn3067804.d.html</link>
-            <guid>3036569</guid>
-            <pubDate>Tue, 21 Mar 2023 15:43:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行监事会主席恩瑞亚：现有的高流动性资产缓冲中，超过一半是由现金和央行储备构成的。]]></title>
-            <guid>3036568</guid>
-            <pubDate>Tue, 21 Mar 2023 15:43:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行监事会主席恩瑞亚：我们的银行在运营时客户基础普遍更为多样化。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-21/detail-imymscsp9844705.d.html</link>
-            <guid>3036567</guid>
-            <pubDate>Tue, 21 Mar 2023 15:43:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行监事会主席恩瑞亚：美国（银行业）的事件并没有直接影响到欧元区的重要银行。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-21/detail-imymscsn3067520.d.html</link>
-            <guid>3036566</guid>
-            <pubDate>Tue, 21 Mar 2023 15:43:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家主席习近平和俄罗斯总统普京共同签署联合声明】 当地时间3月21日傍晚，国家主席习近平和俄罗斯总统普京共同签署《中华人民共和国和俄罗斯联邦关于深化新时代全面战略协作伙伴关系的联合声明》和《中华人民共和国主席和俄罗斯联邦总统关于2030年前中俄经济合作重点方向发展规划的联合声明》。（央视新闻）]]></title>
-            <guid>3036565</guid>
-            <pubDate>Tue, 21 Mar 2023 15:41:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行监事会主席恩瑞亚：瑞信并未对欧盟银行融资产生实质影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-21/detail-imymscsn3063901.d.html</link>
-            <guid>3036564</guid>
-            <pubDate>Tue, 21 Mar 2023 15:38:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【平均每月6000亿，地方债早发“早出力”】 Wind数据显示，截至3月21日，一季度已发行和计划将发行的地方债规模达18856.96亿元，平均每月发行约6000亿元；其中，新增专项债规模已超万亿元，早发快发特征明显，将有力支持扩投资稳经济。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-21/detail-imymscsp9840856.d.html</link>
-            <guid>3036563</guid>
-            <pubDate>Tue, 21 Mar 2023 15:38:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英镑兑美元GBP/USD回落至1.22下方，日内跌0.63%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-21/detail-imymscsn3063577.d.html</link>
-            <guid>3036562</guid>
-            <pubDate>Tue, 21 Mar 2023 15:37:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[当地时间3月21日傍晚，国家主席习近平将同俄罗斯总统普京出席中俄签字仪式并共见记者。（央视新闻）]]></title>
-            <guid>3036561</guid>
-            <pubDate>Tue, 21 Mar 2023 15:36:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【量化私募“抄底”一年后大赚，自购2亿可获2000-4000万浮盈】 2022年3月至4月，A股市场陷入低迷行情，不少机构投资者曾自发自购，其中，多家头部量化私募宣布“大手笔”自购。头部量化私募近一年来股票多头产品平均收益率基本都超过了10%，部分业绩较好的产品近一年收益率接近20%。以自购2亿元计算，就已收获2000万元至4000万元的浮盈，按上限计算，能买两套上海大平层！不过，越来越多的头部私募更青睐于常态化跟投或定投，以此来对抗波动，并长期陪伴投资者，真正演绎长期主义。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-21/detail-imymscsp9839378.d.html</link>
-            <guid>3036560</guid>
-            <pubDate>Tue, 21 Mar 2023 15:35:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国官员表示，2023-2024年英国国家医疗服务系统（NHS）薪酬协议花费了13亿英镑。]]></title>
-            <guid>3036559</guid>
-            <pubDate>Tue, 21 Mar 2023 15:34:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部拍卖52周期国债，得标利率4.390%（2月21日报4.795%），投标倍数2.85（前次为2.89）。]]></title>
-            <guid>3036558</guid>
-            <pubDate>Tue, 21 Mar 2023 15:33:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【随着抵押贷款利率下降，美国2月房屋销售激增】美国2月成屋销售飙升至六个月来最快增速，因购房者抓住抵押贷款利率小幅下降和房价小幅回落的机会。周二公布的数据显示，美国2月成屋销售总数年化为458万户，较1月份跃升14.5%。NAR首席经济学家Lawrence Yun表示，购房者意识到抵押贷款利率的变化，正在利用利率下降的机会。此外，他们看到，在房价下跌和当地经济增加就业岗位的地区，销售增长更为强劲。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-21/detail-imymscsn3061128.d.html</link>
-            <guid>3036557</guid>
-            <pubDate>Tue, 21 Mar 2023 15:33:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[安哥拉央行降息100个基点，至17.00%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-21/detail-imymscsp9836977.d.html</link>
-            <guid>3036556</guid>
-            <pubDate>Tue, 21 Mar 2023 15:32:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【企业年金成绩单出炉：规模首破2.8万亿创历史新高】 企业年金2022年度成绩单出炉！规模达2.87万亿元，创历史新高，同比增长超8%；2022年投资收益率为-1.83%，其中固收类组合均取得正收益。从企业年金投资管理机构来看，共有10家机构的管理规模超千亿元。泰康资产拔得头筹，国寿养老保险位居第二，较2021年末跃升一位，平安养老保险排名第三。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-21/detail-imymscsp9836659.d.html</link>
-            <guid>3036555</guid>
-            <pubDate>Tue, 21 Mar 2023 15:31:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯交易系统现金指数RTS（美元计价）初步收涨0.58%，报985.61点。莫斯科交易所（MOEX）指数初步收涨0.24%，报2403.01点。希腊股指初步收涨2.16%，报1049.70点。]]></title>
-            <guid>3036554</guid>
-            <pubDate>Tue, 21 Mar 2023 15:31:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国财政部发布对伊朗最新制裁名单】据央视新闻，当地时间21日，美国财政部海外资产控制办公室（OFAC）宣布，将包括总部位于伊朗的国防技术和科学研究中心（DTSRC）在内的4个实体和3名个人加入制裁名单。最新制裁名单主要针对伊朗的无人机和武器计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-21/detail-imymscsp9836183.d.html</link>
-            <guid>3036553</guid>
-            <pubDate>Tue, 21 Mar 2023 15:31:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉股价上涨近6％，为三周以来最大单日涨幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-21/detail-imymscsn3057125.d.html</link>
-            <guid>3036552</guid>
-            <pubDate>Tue, 21 Mar 2023 15:27:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
