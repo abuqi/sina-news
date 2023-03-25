@@ -4,11 +4,22 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 25 Mar 2023 16:22:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 17:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：03月26日00时39分在新疆喀什地区塔什库尔干县（北纬36.35度，东经75.99度）发生3.1级地震，震源深度10千米。]]></title>
+            <guid>3042264</guid>
+            <pubDate>Sat, 25 Mar 2023 16:52:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄称多方向打击乌军 乌称击退俄多次进攻】俄罗斯国防部当地时间3月25日发布战报称，俄军在库皮扬斯克、红利曼、顿涅茨克等多个方向打击乌军人员，击毁7辆装甲战车和其他若干乌军装备。俄防空部队拦截了6枚“海马斯”火箭弹，击落11架无人机。乌克兰武装部队总参谋部25日说，乌军击退俄军在红利曼、巴赫穆特等方向的多次攻击。乌军对俄军人员和军事装备集中区、弹药库、火炮系统等实施打击，击落俄军1架米-24直升机和6架各型无人机。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-26/detail-imynckkt9234477.d.html</link>
+            <guid>3042263</guid>
+            <pubDate>Sat, 25 Mar 2023 16:33:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【亿万富翁Chris Rokos在亏损后降低其对冲基金风险敞口】针对本月出现的两位数亏损，Chris Rokos已经降低其宏观对冲基金的风险敞口，这可能成为该基金成立以来历史第二差表现。Rokos位于伦敦的投资公司周六对客户致信称，“我们已经降低了风险，损益波动率因此大幅下降”。]]></title>
             <link>https://finance.sina.cn/7x24/2023-03-26/detail-imynceau2564878.d.html</link>
@@ -276,17 +287,6 @@
             <link>https://finance.sina.cn/7x24/2023-03-25/detail-imynaxuw2520450.d.html</link>
             <guid>3042069</guid>
             <pubDate>Sat, 25 Mar 2023 11:51:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士财长：然而，包括我们自己在内的每个人都清楚，如果瑞士信贷破产重组或清算，将引发金融市场的重大国际动荡。]]></title>
-            <guid>3042065</guid>
-            <pubDate>Sat, 25 Mar 2023 11:44:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士财长驳斥了美国向瑞士施压以拯救瑞士信贷的说法。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-25/detail-imynatnz9423384.d.html</link>
-            <guid>3042064</guid>
-            <pubDate>Sat, 25 Mar 2023 11:42:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
