@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 26 Mar 2023 18:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 19:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【巴西前总统罗塞夫当选金砖国家新开发银行行长】3月24日，金砖国家新开发银行（NDB）在其网站上发布声明表示，巴西前总统迪尔玛·罗塞夫当选为该银行行长。NDB在其声明中表示：“2023年3月24日，NDB理事会一致选举罗塞夫担任本行行长，立即生效，（这一程序）完全按照NDB的协议条款和行长选举程序进行。”按照计划，NDB前行长马可（Marcos Troyjo）于2023年3月24日卸任。根据《成立新开发银行的协议》，NDB行长从创始成员国中选举产生并轮流担任。NDB理事会将选出由巴西提名的新行长，履行将于2025年7月6日届满的现任巴西轮值任期。选举结束后，新行长就职。NDB在声明中表示，马可自2020年7月起担任NDB行长，对NDB的成功发挥了重要作用。（第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-27/detail-imynftrq2016813.d.html</link>
+            <guid>3042680</guid>
+            <pubDate>Sun, 26 Mar 2023 18:54:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【意大利兰佩杜萨岛单日迎来逾2000名移民】意大利官员当地时间3月25日表示，2000多名难民及非法移民过去24小时乘船抵达兰佩杜萨岛，刷新同期最高纪录。另据意大利内政部数据，今年1至2月，乘船抵达意大利的难民及非法移民人数已达到去年同期的3倍多。兰佩杜萨岛位于意大利最南端，是非洲和中东战乱地区难民及非法移民前往意大利本土和欧洲其他国家的主要中转地之一。近年来，大量偷渡者选择乘船横渡地中海，不时发生船只倾覆等悲剧事件。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-27/detail-imynftrq2006885.d.html</link>
+            <guid>3042679</guid>
+            <pubDate>Sun, 26 Mar 2023 18:31:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【招商局集团总经理：ChatGPT将对产业带来革命性转变，带来商业机会】新技术对产业的影响如何？正在进行的中国发展高层论坛2023年年会上，这一议题受到与会代表讨论。“ChatGPT将对产业带来革命性的转变。”3月25日，招商局集团有限公司总经理胡建华在论坛会场对澎湃新闻记者表示，ChatGPT可能会为未来的发展带来很多商业机会，也使产业链、供应链在冲突的过程中，虽然遇到了挑战，但是新产品、新产业、新业态永远都会在压力之下爆发出新的生机。胡建华还提到，当前，我国产业链、供应链的压力主要来自外部打压，要通过努力破解困局。（澎湃）]]></title>
             <guid>3042678</guid>
@@ -280,18 +292,6 @@
             <link>https://finance.sina.cn/7x24/2023-03-26/detail-imynfhzv8856932.d.html</link>
             <guid>3042630</guid>
             <pubDate>Sun, 26 Mar 2023 13:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北新建材与中建八局东北公司签署战略合作协议】 近日，北新建材与中国建筑第八工程局有限公司东北公司战略合作签约仪式在北新建材总部举行。根据协议，双方将坚持优势互补，拓展合作范围，结成长期、全面的战略伙伴关系，实现共同发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-26/detail-imynfhzv8842186.d.html</link>
-            <guid>3042629</guid>
-            <pubDate>Sun, 26 Mar 2023 13:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【招商局集团总经理：ChatGPT将对产业带来革命性转变，带来商业机会】 据澎湃，3月25日，招商局集团有限公司总经理胡建华在中国发展高层论坛2023年年会会场表示，“ChatGPT将对产业带来革命性的转变”，ChatGPT可能会为未来的发展带来很多商业机会，也使产业链、供应链在冲突的过程中，虽然遇到了挑战，但是新产品、新产业、新业态永远都会在压力之下爆发出新的生机。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-26/detail-imynfhzu2064483.d.html</link>
-            <guid>3042628</guid>
-            <pubDate>Sun, 26 Mar 2023 13:22:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
