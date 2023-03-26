@@ -4,22 +4,74 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 26 Mar 2023 21:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 22:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[美股期货亚市盘初小幅走高，标普500指数期货涨近0.4%，道指和纳指期货涨0.3%。]]></title>
+            <guid>3042707</guid>
+            <pubDate>Sun, 26 Mar 2023 22:13:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：推特法律文件显示，其源代码在网上泄露。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-27/detail-imynhefk1852251.d.html</link>
+            <guid>3042701</guid>
+            <pubDate>Sun, 26 Mar 2023 22:12:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金短线下挫8美元，失守1970美元/盎司，日内跌幅0.43%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-27/detail-imynhefk1851312.d.html</link>
+            <guid>3042697</guid>
+            <pubDate>Sun, 26 Mar 2023 22:11:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美联储5月加息25个基点的概率降至21.4%】CME“美联储观察”：美联储5月维持利率不变的概率大幅上升至78.6%，加息25个基点至5.00%-5.25%区间的概率为21.4%；到6月降息25个基点的概率为29.7%，维持利率不变的概率为56.9%，累计加息25个基点的概率为13.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-27/detail-imynhefm8626554.d.html</link>
+            <guid>3042696</guid>
+            <pubDate>Sun, 26 Mar 2023 22:06:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股股指期货高开，纳指期货涨0.2%，标普500指数期货涨0.19%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-27/detail-imynhefk1847850.d.html</link>
+            <guid>3042695</guid>
+            <pubDate>Sun, 26 Mar 2023 22:02:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特拉华河支流遭化学品泄露污染】据美国广播公司ABC，美国费城居民收到通知，在邻近的巴克斯县发生化学品泄漏，特拉华河遭到污染，建议他们饮用瓶装水。巴克斯县卫生官员周日称，周五晚间，位于布里斯托尔镇的盛禧奥（Trinseo）Altuglas化学设施发生泄漏，有8100至12000加仑用于乳胶表面处理的化学物质溢入河中。官员们说，这种溶液对人体无毒，在该县没有收到已知的不良健康影响报告。费城交通、基础设施和可持续发展办公室副总经理迈克·卡罗尔说，到目前为止还没有检测到污染物。卡罗尔说，健康风险“如果存在的话，也是非常低的”，该市发布这一建议是出于谨慎，建议居民从周日下午2点开始使用瓶装水。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-27/detail-imynhefk1847278.d.html</link>
+            <guid>3042694</guid>
+            <pubDate>Sun, 26 Mar 2023 22:01:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国天然气期货日内跌超3.00%，现报2.288美元/百万英热。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-27/detail-imynhefk1846632.d.html</link>
+            <guid>3042693</guid>
+            <pubDate>Sun, 26 Mar 2023 22:01:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油开盘涨0.7%，报69.7美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-27/detail-imynhefk1846585.d.html</link>
+            <guid>3042692</guid>
+            <pubDate>Sun, 26 Mar 2023 22:00:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【分析：通胀担忧或令澳洲联储暂停加息的预期破灭】覆盖澳洲联储7月会议的掉期合约目前显示，该行降息的可能性约为50%，与两周前相比大转弯，当时仍预计澳洲联储会再次加息。Robeco Group分析师Philip McNicholas表示，市场已经在推动宽松政策预期方面过于激进了，至少是针对澳洲联储的预期。考虑到银行业危机对澳大利亚银行的直接溢出效应有限，以及澳洲联储更关注通胀目标，似乎很难推断他们也会在政策措辞上做出如此激进的转变。机构对经济学家的调查显示，澳大利亚2月份通胀率可能连续第四个月保持在7%以上。而截至2021年底的五年内，平均失业率仅为1.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-27/detail-imynfxxp8741124.d.html</link>
+            <guid>3042691</guid>
+            <pubDate>Sun, 26 Mar 2023 21:41:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列与阿联酋自贸协定生效】以色列政府新闻办公室26日发表声明说，以色列与阿联酋当天签署一项关税协议，标志着两国去年签署的自由贸易协定正式生效。声明说，自贸协定生效后，以阿双边贸易中96%的商品将免除或降低关税，以色列公司将获准参与阿联酋政府的招标。双边贸易范围预计将大幅扩大，并为以色列市场带来额外就业机会，降低以色列的生活成本。]]></title>
+            <guid>3042690</guid>
+            <pubDate>Sun, 26 Mar 2023 21:32:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[新西兰联储：随着洪水风险的增加，金融系统可能同时面临更广泛的气候相关风险。]]></title>
             <link>https://finance.sina.cn/7x24/2023-03-27/detail-imynfxxp8725778.d.html</link>
             <guid>3042689</guid>
             <pubDate>Sun, 26 Mar 2023 21:10:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以色列与阿联酋自贸协定生效】以色列政府新闻办公室26日发表声明说，以色列与阿联酋当天签署一项关税协议，标志着两国去年签署的自由贸易协定正式生效。声明说，自贸协定生效后，以阿双边贸易中96%的商品将免除或降低关税，以色列公司将获准参与阿联酋政府的招标。双边贸易范围预计将大幅扩大，并为以色列市场带来额外就业机会，降低以色列的生活成本。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-27/detail-imynfxxp8723062.d.html</link>
-            <guid>3042688</guid>
-            <pubDate>Sun, 26 Mar 2023 21:03:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[市场消息：国际原子能机构总干事格罗西正在前往扎波罗热核电站，以评估该核电站的安全状况。]]></title>
@@ -240,56 +292,6 @@
             <link>https://finance.sina.cn/7x24/2023-03-26/detail-imynfhzu2108504.d.html</link>
             <guid>3042649</guid>
             <pubDate>Sun, 26 Mar 2023 14:06:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行执委施纳贝尔：核心通胀率被证明是具有粘性的。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-26/detail-imynfhzu2108442.d.html</link>
-            <guid>3042648</guid>
-            <pubDate>Sun, 26 Mar 2023 14:06:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行执委施纳贝尔：总体通胀已开始下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-26/detail-imynfhzu2108393.d.html</link>
-            <guid>3042647</guid>
-            <pubDate>Sun, 26 Mar 2023 14:06:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【调查：日本36%的休闲设施门票涨价】 据帝国数据库的调查结果，日本国内总计190个休闲设施（游乐园、水族馆、动物园）中，相当于36.8%的70个设施的门票等与去年4月1日相比涨价。门票涨价率平均为5%，主要原因是电费和饲料费上涨。70个设施中，有62个设施门票涨价，8个设施需要另外购买的无限畅游券等涨价。也有一些设施门票和无限畅游券等价格不变，但上调了停车费和设施内餐饮的价格。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-26/detail-imynfhzv8882265.d.html</link>
-            <guid>3042646</guid>
-            <pubDate>Sun, 26 Mar 2023 14:00:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴克莱：总体而言，我们对2023年和2024年全球经济增长的预测分别为2.7%和2.4%。]]></title>
-            <guid>3042645</guid>
-            <pubDate>Sun, 26 Mar 2023 13:59:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴克莱：然而，最近的银行业动荡，可以被视为货币政策传导颠簸的一部分，因为在10多年的超宽松立场之后进行大幅加息，银行收紧贷款条件，可能会导致下半年增长放缓。]]></title>
-            <guid>3042644</guid>
-            <pubDate>Sun, 26 Mar 2023 13:59:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴克莱：这些因素已推动第一季度经济增长走高，在美国和欧洲强劲的劳动力市场（尤其是服务业消费）的推动下，第二季度应会继续保持增长势头。]]></title>
-            <guid>3042643</guid>
-            <pubDate>Sun, 26 Mar 2023 13:59:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴克莱：到目前为止，2023年的全球增长动态在很大程度上受到中国强劲的前期反弹和欧洲能源（天然气）价格大幅下跌的影响。]]></title>
-            <guid>3042642</guid>
-            <pubDate>Sun, 26 Mar 2023 13:59:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全国首个半导体领域知识产权运营中心在江苏无锡启动】全国半导体领域首个实体化的知识产权运营平台——半导体产业知识产权运营中心，在江苏无锡启动。这个半导体产业知识产权运营中心位于无锡国家数字电影产业园内，由半导体企业、金融机构、产业投资基金等多方主体共同参与。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-26/detail-imynfhzv8881510.d.html</link>
-            <guid>3042641</guid>
-            <pubDate>Sun, 26 Mar 2023 13:58:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国选手包揽上合昆明马拉松男女半马冠军】 2022上合昆明马拉松赛3月26日在春城昆明举行，来自18个国家和地区的上万名选手参加了比赛，其中肯尼亚和埃塞俄比亚的选手分获男、女全程马拉松冠军，中国选手贺应兵、罗霞分获男、女半程马拉松冠军。自2016年以来，上合昆明马拉松已连续举办7届，赛事规模不断提升，累计线上、线下参赛人数已达到196万人次。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-26/detail-imynfhzu2097874.d.html</link>
-            <guid>3042639</guid>
-            <pubDate>Sun, 26 Mar 2023 13:52:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
