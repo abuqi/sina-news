@@ -6,6 +6,81 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 3051103,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-04-01/detail-imynviqq4147950.d.html",
+            "title": "惠誉确认德国评级在AAA，前景展望稳定。",
+            "date_modified": "2023-03-31T21:05:00.000Z"
+        },
+        {
+            "id": 3051102,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-04-01/detail-imynviqq4144889.d.html",
+            "title": "【联合国粮农组织：土耳其强震致该国粮食产量损失20%】土耳其阿纳多卢通讯社援引联合国粮农组织发布的报告称，2月6日发生在土耳其南部的强震使该国农业生产遭受重创，产量损失达20%。",
+            "date_modified": "2023-03-31T20:59:53.000Z"
+        },
+        {
+            "id": 3051101,
+            "content_html": "",
+            "title": "纽交所ARCA钢铁指数收涨1.11%，报1900.89点，本周累计上涨5.71%，3月份累跌4.02%，一季度累涨9.81%。",
+            "date_modified": "2023-03-31T20:52:03.000Z"
+        },
+        {
+            "id": 3051100,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-04-01/detail-imynviqq4141967.d.html",
+            "title": "【美国的银行存款连续第二周大幅下降】在几家银行倒闭引发的金融动荡中，美国的银行存款连续第二周急剧下降。美联储周五公布的数据显示，在截至3月22日当周，该国商业银行存款减少1257亿美元，录得连续第九个星期下降。其中25家最大机构的存款减少，而小银行吸储却出现增加。",
+            "date_modified": "2023-03-31T20:51:53.000Z"
+        },
+        {
+            "id": 3051099,
+            "content_html": "",
+            "title": "阿根廷MERVAL指数收跌2.18%，报24.6万点，本周累涨12.26%，3月份累跌0.72%，一季度累涨21.81%。",
+            "date_modified": "2023-03-31T20:50:58.000Z"
+        },
+        {
+            "id": 3051098,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-04-01/detail-imynviqq4139775.d.html",
+            "title": "标普下调土耳其评级的前景展望至负面，之前持稳定展望。",
+            "date_modified": "2023-03-31T20:45:44.000Z"
+        },
+        {
+            "id": 3051097,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-04-01/detail-imynviqn7359116.d.html",
+            "title": "【3月31日美股成交前20：ChatGPT概念股C3.ai一季度大涨200%】周五美股成交额第15名人工智能软件开发商C3.ai收高21.5%，成交19.5亿美元。周五美股ChatGPT概念股普涨。C3.ai在3月份上涨48.7%，一季度涨幅高达200%。http://t.cn/A6NPOMev",
+            "date_modified": "2023-03-31T20:36:36.000Z"
+        },
+        {
+            "id": 3051096,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-04-01/detail-imynviqq4132714.d.html",
+            "title": "标普：下调土耳其评级的前景展望至负面，之前持稳定展望。",
+            "date_modified": "2023-03-31T20:29:05.000Z"
+        },
+        {
+            "id": 3051095,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-04-01/detail-imynviqn7355042.d.html",
+            "title": "【欧洲央行公布对四家银行资产质量的审查报告】当地时间3月31日，欧洲央行公布了对比利时新农业银行（Crelan）、拉脱维亚Citadele银行、高盛欧洲分行和摩根士丹利银行欧洲分行的资产质量审查报告。报告显示这四家银行的一级资本充足率都高于8%的警戒线，没有资产不足的风险。其中高盛银行欧洲分行的资本充足率最高，达到22.05%；摩根士丹利银行欧洲分行的资本充足率最低，为15.65%；比利时新农业银行的资本充足率为15.67%；拉脱维亚Citadele银行的资本充足率则为16.03%。（央视新闻）",
+            "date_modified": "2023-03-31T20:26:31.000Z"
+        },
+        {
+            "id": 3051094,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-04-01/detail-imynviqq4129679.d.html",
+            "title": "曾担任硅谷银行顾问的九人加盟Cerity Partners。",
+            "date_modified": "2023-03-31T20:21:01.000Z"
+        },
+        {
+            "id": 3051093,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-04-01/detail-imynvchq7482358.d.html",
+            "title": "美国银行业存款3月22日当周减少1257亿美元，至17.3万亿美元。",
+            "date_modified": "2023-03-31T20:17:41.000Z"
+        },
+        {
             "id": 3051092,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2023-04-01/detail-imynvchq7482163.d.html",
@@ -266,82 +341,6 @@
             "url": "https://finance.sina.cn/7x24/2023-04-01/detail-imynvchs4228992.d.html",
             "title": "【市场研究公司CFRA：特斯拉一季度交付量或超预期 受益于库存和供应链缓解】市场研究公司CFRA表示，特斯拉第一季度交付量更有可能超过预期的43.2万辆，而非低于预期。分析师Garrett Nelson指出，马斯克在1月25日的电话会议上表示，在降价之后，特斯拉的汽车订单几乎是产量的两倍。Nelson表示：“由于特斯拉过去三个季度的季度产量都超过了交付量，我们认为特斯拉在年初拥有大量库存，这可能会推动第一季度交付量强于预期。”Nelson还认为，芯片短缺的缓解以及奥斯汀和柏林工厂的持续扩建可能会使生产受益。他将特斯拉的目标价从250美元上调至275美元，评级从“买入”上调至“强烈买入”。",
             "date_modified": "2023-03-31T19:15:36.000Z"
-        },
-        {
-            "id": 3051053,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-04-01/detail-imynvchq7451538.d.html",
-            "title": "【期货交易所管理办法5月1日起施行，明确期货交易可实行做市商制度】证监会网站3月31日发布消息显示，为进一步贯彻落实期货和衍生品法，证监会修订发布了《期货交易所管理办法》，自2023年5月1日起施行。修订后的《办法》明确期货交易可以实行做市商制度，期货交易所应设立风险管理委员会和品种上市审核委员会，并储备充足的风险准备资源，以及建立健全交易者适当性管理制度、财务管理制度等。",
-            "date_modified": "2023-03-31T19:14:41.000Z"
-        },
-        {
-            "id": 3051052,
-            "content_html": "",
-            "title": "周五（3月31日）欧市尾盘，法国巴黎泛欧交易所（EuroNext）“制粉小麦”期货跌0.47%，报263.00欧元/吨，3月份累计下跌3.75%，一季度累跌9.23%。油菜籽期货涨1.61%，报474.50欧元/吨，3月份累跌10.18%，一季度累跌19.30%。",
-            "date_modified": "2023-03-31T19:12:45.000Z"
-        },
-        {
-            "id": 3051051,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-04-01/detail-imynvchs4226102.d.html",
-            "title": "【美股三大指数均涨超1%】美股持续走高，三大指数均涨超1%。道指涨幅扩大至1%，纳指涨1.44%，标普500指数涨1.12%。",
-            "date_modified": "2023-03-31T19:10:41.000Z"
-        },
-        {
-            "id": 3051050,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-04-01/detail-imynvchq7448755.d.html",
-            "title": "市场资讯：币安加拿大子公司向监管机构提交预注册承诺。",
-            "date_modified": "2023-03-31T19:10:04.000Z"
-        },
-        {
-            "id": 3051049,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-04-01/detail-imynvchq7448665.d.html",
-            "title": "美联储威廉姆斯：长期通胀预期仍然稳固。",
-            "date_modified": "2023-03-31T19:09:51.000Z"
-        },
-        {
-            "id": 3051048,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-04-01/detail-imynvchq7448620.d.html",
-            "title": "美联储威廉姆斯：对金融环境的观察将在货币政策考量中发挥关键作用。",
-            "date_modified": "2023-03-31T19:09:44.000Z"
-        },
-        {
-            "id": 3051047,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-04-01/detail-imynvchs4224734.d.html",
-            "title": "美联储威廉姆斯：经济前景不确定，经济数据将推动货币政策前景。",
-            "date_modified": "2023-03-31T19:07:06.000Z"
-        },
-        {
-            "id": 3051046,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-04-01/detail-imynvchs4224690.d.html",
-            "title": "美联储威廉姆斯：预计失业率将上升至约4.5%。",
-            "date_modified": "2023-03-31T19:07:00.000Z"
-        },
-        {
-            "id": 3051045,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-04-01/detail-imynvchs4224608.d.html",
-            "title": "美联储威廉姆斯：预计2023年实际GDP将温和增长，2024年将有所提高。",
-            "date_modified": "2023-03-31T19:06:52.000Z"
-        },
-        {
-            "id": 3051044,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-04-01/detail-imynvchq7447306.d.html",
-            "title": "美联储威廉姆斯：银行动荡影响的规模和持续时间不确定。",
-            "date_modified": "2023-03-31T19:06:15.000Z"
-        },
-        {
-            "id": 3051043,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-04-01/detail-imynvchs4224352.d.html",
-            "title": "美联储威廉姆斯：银行动荡可能导致信贷收紧。",
-            "date_modified": "2023-03-31T19:06:07.000Z"
         }
     ]
 }
