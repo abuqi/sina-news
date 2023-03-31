@@ -4,288 +4,289 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Fri, 31 Mar 2023 15:18:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 16:21:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[布伦特原油日内涨幅达1.5%，报79.78美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-01/detail-imynuwyu4264735.d.html</link>
+            <guid>3050966</guid>
+            <pubDate>Fri, 31 Mar 2023 16:20:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股航空公司板块集体上扬，夏威夷控股(HA.O)涨近5%，捷蓝航空(JBLU.O)涨2.8%，达美航空(DAL.N)涨2.3%，美国航空集团(AAL.O)、西南航空(LUV.N)涨1.4%。]]></title>
+            <guid>3050965</guid>
+            <pubDate>Fri, 31 Mar 2023 16:19:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国加州总检察长表示，亚马逊未能驳回加州一项指控其遏制价格竞争的诉讼。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-01/detail-imynuwyu4263619.d.html</link>
+            <guid>3050964</guid>
+            <pubDate>Fri, 31 Mar 2023 16:18:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：美国参议院民主党人就银行规则向美国财长耶伦致信，寻求有关银行风险的评估报告。]]></title>
+            <guid>3050963</guid>
+            <pubDate>Fri, 31 Mar 2023 16:17:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行完成对四家银行机构的资产质量评估。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-01/detail-imynuwyu4260107.d.html</link>
+            <guid>3050962</guid>
+            <pubDate>Fri, 31 Mar 2023 16:15:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【小摩固收CIO笃信美国2023年将发生经济衰退，警告投资者对近期风险回暖保持谨慎】摩根大通资产管理固定收益首席投资官、“华尔街老兵”Bob Michele：预计风险资产将在二季度反弹。投资者可能会对此感觉良好。预计垃圾债（收益率较可比美债的收益率）溢价将升穿800个基点。预计美联储将在9月份开始降息。但包括我自己在内，许多投资者现在都在给投资组合“消毒”，仅剩那些能够抵御、或能在（美国）经济衰退情况下成长的资产。我们认为，到2023年年底，经济衰退将是不可避免的。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-01/detail-imynuwys7482861.d.html</link>
+            <guid>3050961</guid>
+            <pubDate>Fri, 31 Mar 2023 16:14:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【REITs扩募开闸，首批四家公募REIT变更注册获批】3月31日晚间，证监会发布，华安张江光大REIT、中金普洛斯REIT、博时蛇口产园REIT、红土盐田港REIT作为首批扩募公募REITs获证监会变更注册的批复，意味着公募REITs市场迈出重要一步。业内人士表示，基础设施REITs作为资产上市的平台，具备收并购的功能，通过持续扩募融资收购新资产是基础设施REITs作为收并购平台的价值体现，也是基础设施REITs成长性的重要体现。近期发改委和证监会双双发布关于REITs业务的通知，进一步推进REITs常态化发行。而REITs扩募项目的落地，是进一步推动REITs常态化发行和市场规范健康发展的关键举措，有利于加快形成存量资产和新增投资的良性循环，合理扩大有效投资，推动基础设施高质量发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-01/detail-imynuwyu4259531.d.html</link>
+            <guid>3050960</guid>
+            <pubDate>Fri, 31 Mar 2023 16:14:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国能源信息署（EIA）：1月份新墨西哥州原油产量增长1.1%，达到179万桶/日，创历史最高水平。]]></title>
+            <guid>3050959</guid>
+            <pubDate>Fri, 31 Mar 2023 16:10:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国能源信息署（EIA）：北达科他州1月石油产量环比增加9.7万桶/日，得州增加7.6万桶/日，墨西哥湾离岸增加12.5万桶/日。]]></title>
+            <guid>3050958</guid>
+            <pubDate>Fri, 31 Mar 2023 16:10:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国能源信息署（EIA）：1月份，美国墨西哥湾天然气日产量环比增长8.0％，达到22.6亿立方英尺/日；得州增长1.1％，达到32.02亿立方英尺/日；俄克拉荷马州增长2.0％，达到77.9亿立方英尺/日；宾夕法尼亚州增长3.0％，达到203.1亿立方英尺/日。]]></title>
+            <guid>3050957</guid>
+            <pubDate>Fri, 31 Mar 2023 16:09:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2022年券商分仓佣金数据出炉：全市场收入182亿元，中信证券仍高居榜首】随着公募基金年报的陆续出台，2022年分仓佣金数据出台。在近24万亿分仓佣金的“蛋糕”中，2022年全市场券商全年共获得分仓佣金收入182亿元，同比也减少了31个亿，下降幅度接近15%。从行业排名上来看，近年来头部研究所的“江湖地位”已相当稳定。“券商一哥”中信证券仍高居榜首，长江证券和中信建投在亚军争夺战上战况激烈，国泰君安成为去年“黑马”，成为前十强中唯一一家分仓佣金逆向增长的机构。此外，还有民生证券等多家中小券商“弯道超车”，在这一业务比拼中出现了明显增量。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-01/detail-imynuwyu4256495.d.html</link>
+            <guid>3050956</guid>
+            <pubDate>Fri, 31 Mar 2023 16:09:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚特兰大联储GDPNow模型预计美国第一季度GDP为2.5%，此前预计为2.7%。]]></title>
+            <guid>3050955</guid>
+            <pubDate>Fri, 31 Mar 2023 16:08:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股充电桩板块齐涨，EVGO(EVGO.O)涨近15%，Beam Global(BEEM.O)涨超9%，Blink Charging(BLNK.O)涨近8%，Chargepoint(CHPT.N)涨超5%。]]></title>
+            <guid>3050954</guid>
+            <pubDate>Fri, 31 Mar 2023 16:07:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国能源信息署（EIA）：1月份得州原油产量增长1.5%至524万桶/日，为2020年3月以来最高水平。]]></title>
+            <guid>3050953</guid>
+            <pubDate>Fri, 31 Mar 2023 16:07:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货白银日内涨幅达1.0%，报24.15美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-01/detail-imynuwyu4255336.d.html</link>
+            <guid>3050952</guid>
+            <pubDate>Fri, 31 Mar 2023 16:06:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据安永（EY）调查：大约44%的美国CEO们计划在2023年变卖部分资产——市值至少超过10亿美元，以便削减债务。]]></title>
+            <guid>3050951</guid>
+            <pubDate>Fri, 31 Mar 2023 16:05:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行完成了对高盛、摩根士丹利等银行的资产质量审核，称未发现资本短缺问题，并预计银行将解决发现的问题。]]></title>
+            <guid>3050950</guid>
+            <pubDate>Fri, 31 Mar 2023 16:04:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国能源信息署（EIA）：12月份美国下48州天然气产量修正为1093.9亿立方英尺/日，此前为1091.9亿立方英尺/日。]]></title>
+            <guid>3050949</guid>
+            <pubDate>Fri, 31 Mar 2023 16:03:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国EIA：1月份美国下48州天然气产量同比增长6.6%，环比增长2.7%，达到1123.2亿立方英尺/日。]]></title>
+            <guid>3050948</guid>
+            <pubDate>Fri, 31 Mar 2023 16:02:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国农业部（USDA）：预计美国季度高粱库存1.09亿蒲式耳，USDA之前预计1.60亿蒲式耳。]]></title>
+            <guid>3050947</guid>
+            <pubDate>Fri, 31 Mar 2023 16:02:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国农业部（USDA）：预计美国季度所有小麦库存9.46亿蒲式耳。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-01/detail-imynuwys7475289.d.html</link>
+            <guid>3050946</guid>
+            <pubDate>Fri, 31 Mar 2023 16:01:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国农业部（USDA）：预计美国季度玉米库存74.01亿蒲式耳，分析师预期74.7362亿蒲式耳，USDA之前预计为108.09亿蒲式耳。]]></title>
+            <guid>3050945</guid>
+            <pubDate>Fri, 31 Mar 2023 16:01:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国农业部（USDA）：预计美国季度大豆库存16.85亿蒲式耳，分析师预期17.2812亿蒲式耳，USDA之前预计30.22亿蒲式耳。]]></title>
+            <guid>3050944</guid>
+            <pubDate>Fri, 31 Mar 2023 16:01:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行行长拉加德：通胀预期基本稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynuwyu4250788.d.html</link>
+            <guid>3050943</guid>
+            <pubDate>Fri, 31 Mar 2023 15:59:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货白银日内涨幅扩大至1.00%，现报24.12美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynuwyu4250586.d.html</link>
+            <guid>3050942</guid>
+            <pubDate>Fri, 31 Mar 2023 15:59:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲STOXX 600银行指数周五收跌0.38%，报1459.2点，本周累计上涨大约5.13%，3月份累跌约13.39%，3月20日曾跌至132.57点，一季度累涨约3.17%。]]></title>
+            <guid>3050941</guid>
+            <pubDate>Fri, 31 Mar 2023 15:57:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【波罗的海干散货运价指数录得六周以来最差表现】波罗的海干散货运价指数录得六周以来首次周线下跌，因海岬型船需求疲软。波罗的海干散货运价指数下跌14点或1%，至1389点，为3月9日以来最低水平；周线下跌6.7%，为2月17日以来最大单周跌幅；月线录得上涨128.4%，连续第二个月上涨。海岬型船运价指数下跌11点至1665点；周线跌11.5%，为连续第二周下跌；月线涨128.4%。海岬型船日均获利减少95美元，至13806美元。巴拿马型船运价指数上涨10点至1635点；周线涨4%，月线涨15.1%。巴拿马型船日均获利增加96美元，至14718美元。超灵便型散货船运价指数下跌39点或3.2%，至1198点；周线跌10.1%，结束了连续六周的上涨；月线涨8.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynuwyu4249371.d.html</link>
+            <guid>3050940</guid>
+            <pubDate>Fri, 31 Mar 2023 15:57:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【摩根士丹利：下调蒙牛乳业(02319.HK)目标价至43港元 评级增持】摩根士丹利发表研究报告指，蒙牛专注于通过数字化和持续的产品创新实现可持续的销售和利润率增长。集团对消费前景持乐观态度，并对近期的复苏步伐保持理性。该行提到，公司将有计划地重新投入线下营销和渠道拓展，估计这些措施可能导致经常性营业利润率增长30至50个基点，又认为已经过了资本支出周期顶峰，料今年及以后的资本支出将减少。该行预期，今年公司的有机销售增长为8%，经常性营运利润率提升40个基点至6.3%，2022至24年的经常性盈利复合年增长率为14%。该行将目标价由45港元下调至43港元，维持增持评级。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynuwys7470842.d.html</link>
+            <guid>3050939</guid>
+            <pubDate>Fri, 31 Mar 2023 15:56:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行行长拉加德：我不会把瑞信和德意志银行的问题归为一类。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynuwys7470434.d.html</link>
+            <guid>3050938</guid>
+            <pubDate>Fri, 31 Mar 2023 15:55:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【前意大利总理蒙蒂：欧洲央行曾失去信誉意味着现在不能软化立场】前意大利总理马里奥·蒙蒂说，欧洲央行过去的失败意味着该央行现在不能让自己在对抗通胀方面显得软弱。“欧洲央行以及全球主要央行在走出因没有及早发现通胀上升而失去了相当一部分可信度的时期”。蒙蒂在意大利召开的安博思论坛上表示，如果不是因为央行此前在通胀方面失误，本来通胀率下降可能导致欧洲央行决策层在加息350个基点后暂停行动。他称，若央行格外谨慎是可以理解的。蒙蒂表示，虽然与其他南欧国家相比，意大利和德国国债之间的收益率差“不合理地高”，但目前没有理由“惊慌”，他相信欧洲央行的应急工具将在必要时启动。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynuwys7464967.d.html</link>
+            <guid>3050937</guid>
+            <pubDate>Fri, 31 Mar 2023 15:50:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行行长拉加德：我们必须将通胀率恢复到2%的目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynuwyu4241162.d.html</link>
+            <guid>3050936</guid>
+            <pubDate>Fri, 31 Mar 2023 15:48:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行行长拉加德：我们在利率方面仍有需要继续努力的地方。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynuwyu4241140.d.html</link>
+            <guid>3050935</guid>
+            <pubDate>Fri, 31 Mar 2023 15:48:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行行长拉加德：核心通胀仍然明显过高。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynuwyu4240621.d.html</link>
+            <guid>3050934</guid>
+            <pubDate>Fri, 31 Mar 2023 15:46:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行行长拉加德：我们的加息活动正开始发挥作用。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynuwyu4240192.d.html</link>
+            <guid>3050933</guid>
+            <pubDate>Fri, 31 Mar 2023 15:45:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【网传乌克兰股票指数暴涨？】今日网上流传乌克兰股票指数UX暴涨拉升的行情截图，乌克兰交易所官网历史数据显示该行情为3月30日产生的波动：开盘价1451.37，收盘价2138.56，约为47%的涨幅，成交量为523351，是前一交易日的近10倍。且目前未发现有主流媒体对此事作出相关报道。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynuwys7463018.d.html</link>
+            <guid>3050932</guid>
+            <pubDate>Fri, 31 Mar 2023 15:45:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【农行业绩发布会：今年前2个月贷款投放再创历史新高】3月31日，农业银行召开2022年度业绩发布会。整体来看，农业银行去年实现了信贷与融资增量的“双创”，以及资产质量持续向好等的良好成果。展望今年发展，农业银行行长付万军表示，将积极把握市场和消费的回暖机遇，从量价协同、增收补短、清收挖潜、精细化管理等方面多措并举，全力拓宽增收渠道，保持盈利总体健康。同时，在信贷投放上也将会持续平稳增长，以满足实体经济的融资需求。据该行透露，“从今年2月份来看，该行项目储备环比增长6%，甚至零售还会增长更快一些，特别是今年前2个月，贷款投放又创历史新高，2月末，该行人民币各项贷款增加8912亿元，增速4.6%。”]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussu7592819.d.html</link>
+            <guid>3050931</guid>
+            <pubDate>Fri, 31 Mar 2023 15:42:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伦镍日内涨幅达2.00%，现报23695.00美元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussw4369331.d.html</link>
+            <guid>3050930</guid>
+            <pubDate>Fri, 31 Mar 2023 15:42:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：IMF执行委员会批准了向乌克兰提供156亿美元的财务援助方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussu7589763.d.html</link>
+            <guid>3050929</guid>
+            <pubDate>Fri, 31 Mar 2023 15:37:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高盛策略师：将欧洲科技股评级上调为增持。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussu7588975.d.html</link>
+            <guid>3050928</guid>
+            <pubDate>Fri, 31 Mar 2023 15:35:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国DAX 30指数初步收涨0.84%，报15652.09点，3月份累涨约1.75%，一季度累涨约11.57%。法国股指初步收涨1.00%，意大利股指初步收涨0.52%，英国股指初步收涨0.28%。]]></title>
+            <guid>3050927</guid>
+            <pubDate>Fri, 31 Mar 2023 15:35:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲STOXX 600指数初步收涨0.79%，报458.44点，3月份累跌约0.69%，一季度累涨约6.50%。欧元区STOXX 50指数初步收涨0.87%，报4322.53点。富时泛欧绩优300指数初步收涨0.79%，报1812.94点。]]></title>
+            <guid>3050926</guid>
+            <pubDate>Fri, 31 Mar 2023 15:35:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其伊斯坦布尔证交所全国100指数收跌1.70%，报4812.93点，本周累跌4.35%，3月份累跌约8.10%，一季度累跌约11.97%。]]></title>
+            <guid>3050925</guid>
+            <pubDate>Fri, 31 Mar 2023 15:29:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳指涨超1.0%，成分股YMAB涨73.5%领跑，INPX涨44.6%，TORO涨32.9%，BCLI涨28.0%，VORB、CSSE、GMVD至多跌约42.8%，GRRR跌66.2%表现最差。标普500指数目前涨0.83%，道指上涨250点涨幅0.77%，纳斯达克100指数涨0.87%。]]></title>
+            <guid>3050924</guid>
+            <pubDate>Fri, 31 Mar 2023 15:28:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【心泰医疗(02291)斥3700万美元购买理财产品】心泰医疗(02291)发布公告，于2022年11月14日，公司与GVF(代表New Economics Fund SP)订立了一份认购协议，以3700万美元的款项购买理财产品。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussu7583488.d.html</link>
+            <guid>3050923</guid>
+            <pubDate>Fri, 31 Mar 2023 15:25:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果(AAPL.O)在英国反垄断监管机构决定对其手机浏览器展开调查的上诉中获胜。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussu7582915.d.html</link>
+            <guid>3050922</guid>
+            <pubDate>Fri, 31 Mar 2023 15:24:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股走高，纳指涨幅扩大至1%，道指涨0.7%，标普500指数涨0.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussu7582425.d.html</link>
+            <guid>3050921</guid>
+            <pubDate>Fri, 31 Mar 2023 15:23:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利10年期国债收益率下降10.2个基点，至4.120%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussw4357496.d.html</link>
+            <guid>3050920</guid>
+            <pubDate>Fri, 31 Mar 2023 15:21:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[融创中国(01918.HK)：预期本公司股份将于2023年4月份恢复交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussu7579997.d.html</link>
+            <guid>3050919</guid>
+            <pubDate>Fri, 31 Mar 2023 15:20:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：拜登将批准加州关于电动卡车的相关规定。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussu7578981.d.html</link>
+            <guid>3050918</guid>
+            <pubDate>Fri, 31 Mar 2023 15:18:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[惠誉：除非银行业冲击蔓延到更广泛的经济领域，否则大宗商品面临的价格压力可能是短暂的。]]></title>
             <guid>3050915</guid>
             <pubDate>Fri, 31 Mar 2023 15:11:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：预计欧盟能够在2023年平衡其天然气需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussw4351292.d.html</link>
-            <guid>3050914</guid>
-            <pubDate>Fri, 31 Mar 2023 15:11:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：俄罗斯3月份石油产量数据显示，几乎没有俄罗斯履行减产承诺的迹象。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussu7574158.d.html</link>
-            <guid>3050913</guid>
-            <pubDate>Fri, 31 Mar 2023 15:10:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全国铁路4月1日实行新的货物列车运行图】中国国家铁路集团有限公司3月31日透露，4月1日零时起，全国铁路实行新的货物列车运行图。调图后，全国铁路货运能力结构进一步优化，国内高附加值快运货物、煤炭等大宗货物和国际联运货物运输能力进一步增强。国铁集团运输部负责人介绍，此次新图仅对货物列车运行图进行调整，铁路货运能力供给将呈现以下新变化。一是铁路快运货物服务能力和范围进一步扩大；二是大宗货物运输保障能力进一步提升；三是服务高水平对外开放能力进一步增强。（新华社）]]></title>
-            <guid>3050912</guid>
-            <pubDate>Fri, 31 Mar 2023 15:08:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：一旦对欧美银行业的担忧缓解，大宗商品基本面将占上风。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussu7572154.d.html</link>
-            <guid>3050911</guid>
-            <pubDate>Fri, 31 Mar 2023 15:06:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国要求众多航司将下周二进出巴黎奥利机场的航班规模压缩20%，以应对罢工抗议。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussw4347219.d.html</link>
-            <guid>3050910</guid>
-            <pubDate>Fri, 31 Mar 2023 15:03:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【富力地产：2022年亏损人民币157.37亿元，本金总额289.87亿元的若干银行及其他借款成为违约或交叉违约】富力地产联交所公告，截至2022年12月31日止年度，本集团录得本公司所有者应占亏损人民币157.37亿元。于12月31日，本集团的银行借款、境内债券、优先票据及其他借款（包括在预提费用及其他应付款项）合共人民币1351.10亿元，其中人民币513.34亿元将于未来十二个月内到期偿还，而本集团的现金总额（包括受限制现金）为人民币123.01亿元。于12月31日，本集团未按预定还款日期偿还若干银行及其他借款人民币155.90亿元，且于12月31日之后，本集团未偿还自1月起及直至本公告获批准当日止到期的若干银行及其他借款人民币19.63亿元。因此，本金总额为人民币289.87亿元的若干银行及其他借款成为违约或交叉违约。此外，本集团因各种原因遭多方起诉。该等情况显示存在重大不确定性，可能对本集团持续经营能力构成重大疑虑。]]></title>
-            <guid>3050909</guid>
-            <pubDate>Fri, 31 Mar 2023 15:02:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国内期货主力合约涨多跌少 PTA涨超2%】国内期货主力合约涨多跌少，PTA涨超2%，白糖、淀粉、菜粕、乙二醇（EG）涨超1%。跌幅方面，液化石油气（LPG）跌超2%，纸浆、棉纱跌超1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussu7568503.d.html</link>
-            <guid>3050908</guid>
-            <pubDate>Fri, 31 Mar 2023 15:01:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源信息署（EIA）：美国原油和石油产品供应量在1月份上升至1954万桶/日，为2022年11月以来的最高水平。]]></title>
-            <guid>3050907</guid>
-            <pubDate>Fri, 31 Mar 2023 14:59:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国总理朔尔茨：与2008年相比，这次德国的金融市场准备得更好。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussw4344311.d.html</link>
-            <guid>3050906</guid>
-            <pubDate>Fri, 31 Mar 2023 14:59:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据港交所文件，十月稻田集团股份有限公司向港交所提交上市申请书。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussu7567098.d.html</link>
-            <guid>3050905</guid>
-            <pubDate>Fri, 31 Mar 2023 14:59:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【报告显示我国主要农产品碳排放强度呈下降趋势】中国农科院31日在北京发布的《2023中国农业农村低碳发展报告》显示，目前我国主要农产品碳排放强度呈下降趋势。为了发展农业农村低碳生产，我国采取了一系列的稳定粮食生产政策措施和专项行动，其中每年投入1000亿元左右的资金支持高标准农田建设。高标准农田建设既能提高节水灌溉等新技术采纳率，又可以抑制碳排放强度，具有显著的粮食增产与碳减排协同作用。多年数据分析表明，我国大豆、马铃薯、甘蔗等单位农产品的碳排放强度呈下降趋势。近年来，我国农业碳排放强度较低，以1/16的碳排放创造1/10的GDP，保障谷物自给率95%以上。我国农业以较低的碳排放强度，支撑稳产保供和粮食安全战略。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussw4343745.d.html</link>
-            <guid>3050904</guid>
-            <pubDate>Fri, 31 Mar 2023 14:58:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元兑美元EUR/USD短线走低27点，现报1.0864，英镑兑美元GBP/USD短线走低36点，现报1.2347。]]></title>
-            <guid>3050903</guid>
-            <pubDate>Fri, 31 Mar 2023 14:56:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数DXY短线走高超20点，现报102.52。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussu7565478.d.html</link>
-            <guid>3050902</guid>
-            <pubDate>Fri, 31 Mar 2023 14:55:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[旭辉控股联交所公告，延迟刊发2022年年度业绩，延期举行董事会会议，继续暂停买卖。]]></title>
-            <guid>3050901</guid>
-            <pubDate>Fri, 31 Mar 2023 14:55:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源信息署（EIA）：美国1月液化天然气产量增加33.6万桶/日，至585万桶/日（12月为551.4万桶/日）。]]></title>
-            <guid>3050899</guid>
-            <pubDate>Fri, 31 Mar 2023 14:51:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【跨国医药公司看好中国市场，多家龙头企业拟参展第六届进博会】3月31日，第六届中国国际进口博览会医疗展区药品板块宣介会暨药品专委会年度第一次会议在沪举行。目前，参展企业签约面积已超过23万平方米，多位跨国企业CEO已确认现场出席。“进博会医疗展区药品板块行业聚集度高、企业代表性强。”国家会展中心(上海)总裁助理章伟民介绍，本届进博会将聚焦全球医药行业发展最新趋势和共性话题，集中展示国际领先的创新药品、尖端技术和服务，“期待各跨国药企发挥行业标杆和引领作用，用实际行动助力健康中国建设，作出更大贡献。”当下，医疗展区药品板块企业报名积极踊跃，多家头部跨国医药公司对中国市场充满信心，承诺加大在华投资。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussw4339191.d.html</link>
-            <guid>3050898</guid>
-            <pubDate>Fri, 31 Mar 2023 14:51:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【余承东亲自下达：问界门店即将拆除华为字样的标识】问界门店将于明天开始拆除所有相关华为字样的宣传物料。对此，华为方面表示消息属实，该决定是由汽车BU CEO余承东亲自下达。同日，在华为年报会上华为轮值董事长徐直军提到，“有些部门和合作伙伴在滥用华为品牌。在任总发布的最新文件里，华为明确要求，严禁华为品牌出现在汽车品牌前面，或作为汽车品牌。”]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussu7561656.d.html</link>
-            <guid>3050897</guid>
-            <pubDate>Fri, 31 Mar 2023 14:50:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国奥园：本公司欣然宣布，已与若干境外私募票据持有人订立境外私募票据暂缓偿还债务协议，该协议的生效日期为2023年3月31日。]]></title>
-            <guid>3050896</guid>
-            <pubDate>Fri, 31 Mar 2023 14:48:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天合光能：淮安基地TOPCon电池技术N型组件量产下线】记者从天合光能获悉，公司淮安基地一期10GW至尊210+N型首块组件于3月31日下线。据公司人士介绍，此次下线的至尊N型695W组件采用N型i-TOPCon电池技术，更适应国内大基地，应用场景涵盖山地、水面、沙漠、戈壁等。在实地项目中，至尊N型66片版型组件较182尺寸的72片版型N型组件的BOS成本可减少0.0553元/瓦。（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussw4337703.d.html</link>
-            <guid>3050895</guid>
-            <pubDate>Fri, 31 Mar 2023 14:48:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【深圳数据交易所完成增资引战 注册资本金增资至10亿】近日，深圳数据交易所成功引入深圳市投资控股有限公司、中国电子信息产业集团有限公司、前海金融控股有限公司等战略投资者，注册资本金由1亿增加至10亿人民币。增资后，深圳数据交易所股东单位分别是深圳交易集团有限公司、深投控、深圳市福田新一代产业投资服务有限公司、中国电子、前海金控。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussw4337477.d.html</link>
-            <guid>3050894</guid>
-            <pubDate>Fri, 31 Mar 2023 14:47:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国明年交付的基础电力价格上涨5%，至217.5欧元/兆瓦时。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussu7557337.d.html</link>
-            <guid>3050893</guid>
-            <pubDate>Fri, 31 Mar 2023 14:42:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【浙江数字人民币试点启动一周年，交易规模达1548亿元】人民银行杭州中心支行于3月31日透露，截至目前，浙江省数字人民币钱包开立数量达到2650万，支持受理数字人民币商户数量157万个，交易笔数7542万笔，交易金额1548亿元，核心指标处在国内试点地区前列。下一步，浙江省金融系统将持续抓好杭州2022年亚运会、政府侧场景、民生领域增量扩面等重点工作领域，推进数字人民币试点的提质增效、创新升级。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussw4332530.d.html</link>
-            <guid>3050892</guid>
-            <pubDate>Fri, 31 Mar 2023 14:40:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度将毛棕榈油基准进口价格定为984美元/吨，将精制漂白脱臭棕榈油（RBD PALM OIL）基准进口价格定为1009美元/吨，将精制软质棕榈油（RBD PALM OLEIN）基准进口价格定为1020美元/吨。]]></title>
-            <guid>3050891</guid>
-            <pubDate>Fri, 31 Mar 2023 14:39:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国自主研制速度可达600km/h的高温超导电动悬浮交通系统实现首次悬浮运行】据新华社，记者3月31日从中车长春轨道客车股份有限公司获悉，由这家企业自主研制的高温超导电动悬浮全要素试验系统完成首次悬浮运行，为下一步工程化应用奠定基础。据中车长客副总工程师兼磁浮研究所所长于青松介绍，超导电动悬浮交通系统由车辆、轨道、牵引供电、运行通信等系统构成，适用于高速、超高速和低真空管道等运用场景，运行速度可达600km/h及以上，具有高速、安全、绿色、智能、舒适及环境适应性强等优势。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussu7554502.d.html</link>
-            <guid>3050890</guid>
-            <pubDate>Fri, 31 Mar 2023 14:38:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海市长龚正会见英国力拓集团首席执行官，力拓将积极参加第六届中国国际进口博览会】据上海发布，上海市市长龚正3月31日会见了英国力拓集团首席执行官石道成一行。龚正说，上海坚持把发展经济的着力点放在实体经济上，正加快打造包括精品钢材、高温合金、先进陶瓷等具有国际竞争力的高端制造产业集群，持续深化绿色低碳转型发展，积极稳妥推进碳达峰碳中和。上海的发展，将为包括力拓集团在内的各类企业创造更多的机遇。石道成说，力拓将深化与中国伙伴的合作，将上海作为在华发展重点，不断扩大在华业务，加大在沪投入，并将积极参加第六届中国国际进口博览会。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussu7553969.d.html</link>
-            <guid>3050889</guid>
-            <pubDate>Fri, 31 Mar 2023 14:37:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【杭州立法优化营商环境 建立健全市场主体应急救济机制】浙江省首个以优化营商环境为题的专门立法——《杭州市优化营商环境条例》，3月31日经浙江省十四届人大常委会第二次会议批准，自2023年7月1日起实施。条例指出，杭州市建立健全市场主体应急援助救济机制。发生突发事件时，各级人民政府应当统筹突发事件应对和经济社会发展工作。采取的应对措施，应当与突发事件可能造成的社会危害的性质、程度和范围相适应；对因突发事件等原因造成经营困难的市场主体，应当结合实际情况及时采取纾困帮扶措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussw4331004.d.html</link>
-            <guid>3050888</guid>
-            <pubDate>Fri, 31 Mar 2023 14:36:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  合景泰富集团2022年营收134.5亿元人民币；净利润92.4亿元人民币。]]></title>
-            <guid>3050887</guid>
-            <pubDate>Fri, 31 Mar 2023 14:36:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度政府：将黄金基准进口价格定为每10克633美元，将白银基准进口价格定为每公斤770美元。]]></title>
-            <guid>3050886</guid>
-            <pubDate>Fri, 31 Mar 2023 14:36:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源信息署（EIA）：1月美国原油出口量降至351.4万桶/日（12月为385.3万桶/日）。]]></title>
-            <guid>3050885</guid>
-            <pubDate>Fri, 31 Mar 2023 14:34:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【王毅会见日本前首相福田康夫】2023年3月31日，中共中央政治局委员、中央外办主任王毅在北京会见日本前首相、博鳌亚洲论坛前理事长福田康夫。王毅说，今天我们有理由对日本对华政策可能的倒退感到忧虑，对日本是否继续坚持和平发展方向提出疑问。希望日方重归包括条约在内中日四个政治文件的初心，排除各方面干扰，为中日关系走上健康发展轨道、重焕生机活力发出积极正面信息，为全面重启疫后各领域交往创造条件。（外交部）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussu7552624.d.html</link>
-            <guid>3050884</guid>
-            <pubDate>Fri, 31 Mar 2023 14:34:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【提价顺畅叠加出口向好 特种纸景气度回暖】今年一季度特种纸需求复苏，有行业公司近日受访表示，出口业务向好，2月出货量创新高。业内认为，随着欧洲天然气价格波动、海运成本高企、海运周期较长等不利因素的减弱，纸业出口，尤其是出口占比较高的特种纸赛道迎来机遇。在需求支撑下，部分特种纸产品已启动新一轮提价，业内预计，相比白卡纸、生活纸等大宗纸品，特种纸提价的落地将更为顺畅。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussu7551455.d.html</link>
-            <guid>3050883</guid>
-            <pubDate>Fri, 31 Mar 2023 14:32:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[融创中国：截至2022年6月30日，本集团收入约为485.4亿元，同比下降约49.3%；本公司拥有人应占亏损约为187.6亿元，同比下降约256.5%；核心净亏损为110.6亿元，同比下降184.1%。]]></title>
-            <guid>3050882</guid>
-            <pubDate>Fri, 31 Mar 2023 14:30:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【融创中国：2022年集团收入约为人民币967.5亿元 同比减少约51.2%】融创中国在港交所公告，2022年集团收入约为人民币967.5亿元，较去年减少约51.2%；公司拥有人应占亏损约为人民币276.7亿元， 亏损较去年减少约人民币105.9亿元，减少约27.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussu7548771.d.html</link>
-            <guid>3050881</guid>
-            <pubDate>Fri, 31 Mar 2023 14:28:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【交通运输部科技司岑晏青：计划继续在自动驾驶方向组织开展第二批智能交通先导应用试点工程】交通运输部科技司司长岑晏青31日在中国电动汽车百人会论坛（2023）上透露，计划继续在自动驾驶方向组织开展第二批智能交通先导应用试点工程，将更加注重应用的系统性和经济性。]]></title>
-            <guid>3050880</guid>
-            <pubDate>Fri, 31 Mar 2023 14:27:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中期协：3月全国期市成交量同比增长9.2%】中国期货业协会发布的统计数据显示，以单边计算，3月全国期货交易市场成交量为7.24亿手，成交额为49.9万亿元，同比分别增长9.2%和下降12.33%，环比分别增长33.94%和21.84%。1-3月全国期货市场累计成交量为16.63亿手，累计成交额为120.9万亿元，同比分别增长8.47%和下降6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussu7547871.d.html</link>
-            <guid>3050879</guid>
-            <pubDate>Fri, 31 Mar 2023 14:26:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：通用汽车计划在电动汽车上逐步淘汰苹果CarPlay服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussw4324885.d.html</link>
-            <guid>3050878</guid>
-            <pubDate>Fri, 31 Mar 2023 14:25:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：我们不会就对前总统特朗普的起诉发表评论。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussu7545330.d.html</link>
-            <guid>3050877</guid>
-            <pubDate>Fri, 31 Mar 2023 14:21:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[融信中国：2022年营收300.59亿元，同比减少9.69%；净亏损为112.3亿元，同比减少967%；每股亏损6.67元。]]></title>
-            <guid>3050876</guid>
-            <pubDate>Fri, 31 Mar 2023 14:21:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【北京汽车集团有限公司原党委书记、董事长徐和谊接受审查调查】据北京市纪委监委消息：北京汽车集团有限公司原党委书记、董事长徐和谊，目前正接受纪律审查和监察调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussw4321534.d.html</link>
-            <guid>3050875</guid>
-            <pubDate>Fri, 31 Mar 2023 14:20:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【天通股份：公司进行了第三代半导体化合物碳化硅衬底材料的布局】天通股份在互动平台表示，公司继磁性材料、蓝宝石晶体材料、压电晶体材料之后，又进行了第三代半导体化合物碳化硅衬底材料的布局，主要面向电力电子领域，目前还处于研发阶段，尚未形成销售。因后续市场环境、技术突破、产业化落地等方面的风险，该业务的顺利实施尚存在一定的不确定性。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussu7543543.d.html</link>
-            <guid>3050874</guid>
-            <pubDate>Fri, 31 Mar 2023 14:19:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【普京批准《俄罗斯联邦对外政策构想》最新修订】当地时间3月31日，俄罗斯总统普京批准了《俄罗斯联邦对外政策构想》最新修订。文件显示，俄罗斯没有将自己视为西方的敌人，不会孤立于西方，对西方没有敌意。俄罗斯希望西方国家能够意识到与俄罗斯的冲突是徒劳的并逐步在主权平等和尊重彼此利益的基础上恢复合作。文件指出，俄罗斯计划同亚太地区国家开展多边合作，以平衡某些国家所奉行的企图割裂亚太的政策。另外，俄方支持将苏联地区发展成为和平、睦邻友好和繁荣的地区。俄方还表示，俄罗斯会支持并提高上合组织、金砖国家、独联体和集安组织在全球的地位。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussu7543448.d.html</link>
-            <guid>3050873</guid>
-            <pubDate>Fri, 31 Mar 2023 14:18:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[智利国家铜业公司（Codelco）：2022年是运营“错综复杂的”一年。公司2022年营收170亿美元，之前一年为210亿美元；2022年成本较上年增长25%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussw4318667.d.html</link>
-            <guid>3050872</guid>
-            <pubDate>Fri, 31 Mar 2023 14:13:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美亚柏科：2022年净利1.48亿元 同比降52.41%】美亚柏科公告，公司2022年实现营业收入22.8亿元，同比下经10.08%；净利润1.48亿元，同比下降52.41%；基本每股收益0.18元；公司拟每10股派发红利0.45元（含税）。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussw4318483.d.html</link>
-            <guid>3050871</guid>
-            <pubDate>Fri, 31 Mar 2023 14:13:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【上海人工智能研究院宋海涛：计划在生物制药、转化医学领域推出国产大模型】上海人工智能研究院执行院长宋海涛在沪港创新发展主题论坛上表示，chatGPT的产生不是一个偶然事件，在技术层面有点类似计算机的Windows系统推出的时刻，对整个技术创新是全面的赋能。去年，中国商飞上海飞机设计研究院联合华为发布了业界首个工业级流体仿真大模型“东方.御风”，解决C919流体风动设计的安全效率问题。“今年，我们计划在生物制药、转化医学等领域，利用国产化训练框架推出国产大模型。希望AI领域的头部企业做出示范带动效应，推动整个产业持续安全发展。”]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussu7541019.d.html</link>
-            <guid>3050870</guid>
-            <pubDate>Fri, 31 Mar 2023 14:12:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【台积电一季度法说会将于4月20日召开】台积电发布公告称，公司2023年第一季度法人说明会将于4月20日召开。原先市场预期台积电会在4月13日召开法说会，此次公布召开时间比预期晚约一周。台积电说明，预定以线上方式召开，届时公布公司2023年第一季度财务报告及2023年第二季度业绩展望。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussu7540504.d.html</link>
-            <guid>3050869</guid>
-            <pubDate>Fri, 31 Mar 2023 14:12:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  正荣地产2022年全年营收259.0亿元，全年净亏损128.8亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussw4317339.d.html</link>
-            <guid>3050868</guid>
-            <pubDate>Fri, 31 Mar 2023 14:12:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源信息署（EIA）：美国1月原油产量增加34.7万桶/日，至1246.2万桶/日。]]></title>
-            <guid>3050867</guid>
-            <pubDate>Fri, 31 Mar 2023 14:10:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深交所发布ETF发展白皮书：全市场总规模达1.34万亿】3月30日，深交所基金管理部联合华夏基金、易方达基金、华安基金、天弘基金和景顺长城基金共同编制的ETF市场发展白皮书(2022年)发布。白皮书数据显示，截至2022年底，深沪两市共上市734只非货币ETF 产品，资产规模已达1.34万亿元，仅2022年涨幅就超20%。2022年ETF市场呈现出“百花齐放”的态势，宽基ETF、行业主题ETF、策略ETF、跨境ETF、债券ETF、商品ETF等全面发展。展望2023年，ETF市场产品创新研究有六大方向：深市宽基ETF、REITs ETF、商品期货ETF、主动管理型ETF、FOFETF、多倍及反向ETF等。（21财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-31/detail-imynussw4315347.d.html</link>
-            <guid>3050866</guid>
-            <pubDate>Fri, 31 Mar 2023 14:09:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
