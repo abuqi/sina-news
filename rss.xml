@@ -4,11 +4,29 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 08 Apr 2023 20:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Apr 2023 21:13:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国房产所有者面临1.5万亿美元的债务墙】近1.5万亿美元的美国商业房地产债务将在2025年底前需要到期偿还。摩根士丹利分析师估计，美国写字楼和零售地产的估值可能从峰值下降到低谷，降幅高达40%，增加了违约风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-09/detail-imyptkkt8164843.d.html</link>
+            <guid>3063069</guid>
+            <pubDate>Sat, 08 Apr 2023 20:45:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【布基纳法索两座村庄遭武装袭击 致44人丧生】当地时间4月8日，布基纳法索官员表示，身份不明的袭击者于当地时间4月6日夜间袭击了布基纳法索东北部两座村庄，导致44人丧生。目前袭击者身份不详。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-09/detail-imyptkkv4937600.d.html</link>
+            <guid>3063068</guid>
+            <pubDate>Sat, 08 Apr 2023 20:33:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 【以色列遭3枚来自叙利亚境内武装组织的火箭弹袭击】根据以色列国防军消息，当地时间8日晚间，叙利亚境内武装组织向以色列占领的戈兰高地发射3枚火箭弹。其中1枚落入戈兰高地开阔地带，另外2枚落在叙利亚境内。袭击未造成人员伤亡。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-09/detail-imyptkkt8154746.d.html</link>
+            <guid>3063067</guid>
+            <pubDate>Sat, 08 Apr 2023 20:20:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【一刻钟“圈”出美好生活！各地加快15分钟便民生活圈建设】近日，商务部表示，将结合试点经验，在全国范围内开展一刻钟便民生活圈建设三年行动，努力把居民的“需求清单”，转化为一刻钟便民生活圈的“满意清单”。让城市生活更便利宜居，多地已经在进行积极实践。]]></title>
             <link>https://finance.sina.cn/7x24/2023-04-09/detail-imyptkkt8135093.d.html</link>
@@ -283,18 +301,6 @@
             <link>https://finance.sina.cn/7x24/2023-04-08/detail-imypspfc8407396.d.html</link>
             <guid>3063018</guid>
             <pubDate>Sat, 08 Apr 2023 12:36:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【利用内幕 水利部一副局长加杠杆交易“三峡水利”被查】据券商中国，近日，证监会公布的2份行政处罚决定书显示，时任水利部综合事业局副局长的滕某军，因工作原因，接触到了三峡水利发布的重组方案等内幕信息。内幕信息敏感期内，滕某军与妻子加杠杆交易“三峡水利”，交易时间与内幕信息形成过程高度吻合，交易行为明显异常，被认定为内幕交易。滕某军内幕交易被没收违法所得52.73万元，并被处以105.46万元罚款。滕某军之妻内幕交易被没收违法所得31万元，并被处以62万元罚款。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-08/detail-imypspff5180966.d.html</link>
-            <guid>3063017</guid>
-            <pubDate>Sat, 08 Apr 2023 12:30:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【春耕有序推进 春播粮食面积已达1亿亩】在我国，春播粮食面积占全年粮食面积一半以上。截至目前，全国已春播粮食1亿亩，完成意向面积的10.5%。眼下，各地多措并举，助力春耕生产，夯实丰收基础。农业农村部最新农情调度显示，全国早稻育秧已过八成，湖南、江西、四川等地即将进入大面积早稻移栽。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-08/detail-imypspfc8403591.d.html</link>
-            <guid>3063016</guid>
-            <pubDate>Sat, 08 Apr 2023 12:30:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
