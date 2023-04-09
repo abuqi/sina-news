@@ -4,11 +4,22 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 09 Apr 2023 20:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Apr 2023 21:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[加密货币交易所FTX CEO：公司继续努力为债权人挽回价值。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-10/detail-imypvtry4700757.d.html</link>
+            <guid>3063722</guid>
+            <pubDate>Sun, 09 Apr 2023 21:04:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【平衡科技创新与隐私保护 多国计划加强对ChatGPT监管】4月3日，德国联邦数据保护专员乌尔里希·凯尔伯称，出于对数据安全保护的考量，德国可能会效仿意大利，暂时禁用ChatGPT。他透露，禁用该软件的行为将属于德国联邦数据保护机构的职权范围。此外，德国联邦数据保护机构要求意大利监管机构提供有关其阻止ChatGPT的更多信息。专家指出，推出两个月即拥有1亿活跃用户，ChatGPT成为历史上增长最快的消费者应用程序。固然ChatGPT在实际使用中表现惊艳，然而囿于大规模语言模型自身、数据原因等局限，仍存在成本高昂、信息泄露等劣势。如何平衡科技创新与隐私保护仍需各方不断探索。（法治日报）]]></title>
+            <guid>3063721</guid>
+            <pubDate>Sun, 09 Apr 2023 20:45:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【也门胡塞武装“最高政治委员会”主席同沙特及阿曼代表团举行会谈】据也门胡塞武装方面消息，胡塞武装“最高政治委员会”主席迈赫迪·穆沙特在当地时间4月9日，同沙特代表团和阿曼代表团在其控制下的也门首都萨那举行了会谈。胡塞武装方面消息称，胡塞武装和沙特方面都对阿曼在也门问题上做出的劝和促谈努力表示感谢，但并未透露具体谈判内容。当地时间4月8日，作为中间调停人的阿曼代表团和沙特代表团先后抵达萨那。媒体分析认为，此次和谈的焦点问题仍旧是实现全面停火，解除针对也门胡塞武装的封锁，胡塞武装控制区政府人员工资发放等议题。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2023-04-10/detail-imypvpka4809181.d.html</link>
@@ -275,18 +286,6 @@
             <link>https://finance.sina.cn/7x24/2023-04-09/detail-imypuwnh8131749.d.html</link>
             <guid>3063417</guid>
             <pubDate>Sun, 09 Apr 2023 11:54:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【4天3板久远银海：控股股东的实控人拟变更事项存不确定性，4月27日将披露一季报】 公司4月6日和4月7日连续二个交易日收盘价格涨幅偏离值累计达到20.09%，达成4天3板，根据《深圳证券交易所交易规则》的有关规定，属于股票交易异常波动的情况。公司控股股东的实际控制人拟变更事项可能会导致公司实际控制人的变更，但该事项还涉及国资审批等相关流程，存在一定的不确定性。公司将根据事项进展情况，严格按照有关法律法规的规定和要求履行信息披露义务。公司2023年一季度报告将在4月27日对外披露，公司将按照深交所相关规定及时予以披露。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-09/detail-imypuwnk4902779.d.html</link>
-            <guid>3063416</guid>
-            <pubDate>Sun, 09 Apr 2023 11:50:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【空气污染严重清迈发居家办公令 清迈游客因空气污染减少20%】当地时间7日，由于空气质量达到严重污染程度，当地政府发布“居家办公令”，呼吁民众减少外出。据泰国政府监测的数据，清迈当天的空气的可吸入细颗粒物(PM 2.5)浓度超出了泰国政府设定的安全标准5倍还多。泰国清迈旅游商业协会副会长表示：近期清迈旅游的游客数量下降了20%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-09/detail-imypuwnk4902106.d.html</link>
-            <guid>3063415</guid>
-            <pubDate>Sun, 09 Apr 2023 11:48:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
