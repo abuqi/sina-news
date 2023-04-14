@@ -4,11 +4,81 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Fri, 14 Apr 2023 21:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 22:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国众议院议长麦卡锡周日（4月16日）将向众议院共和党成员们介绍债务上限问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-15/detail-imyqmchv2663554.d.html</link>
+            <guid>3070413</guid>
+            <pubDate>Fri, 14 Apr 2023 22:09:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克旗下太空探索公司SpaceX：公司发射StarShip火箭的计划获得美国政府批准，预计最快将于4月17日进行首次试飞。]]></title>
+            <guid>3070412</guid>
+            <pubDate>Fri, 14 Apr 2023 21:59:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本烟草国际未来三年将围绕加热棒投资20亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-15/detail-imyqmchz0166779.d.html</link>
+            <guid>3070411</guid>
+            <pubDate>Fri, 14 Apr 2023 21:53:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【 又是“X”！马斯克成立人工智能公司X.AI 】根据美国内达华州的备案文件，马斯克在该州新成立了一家名为X.AI的人工智能公司。近期，马斯克创建了一家叫做“X”的空壳公司，将自己拥有的推特、SpaceX、特斯拉、Neuralink等所有公司打包加入其中。如今，“X”公司再添新丁X.AI，并且剑指OpenAI。]]></title>
+            <guid>3070410</guid>
+            <pubDate>Fri, 14 Apr 2023 21:51:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英伟达顶级人工智能芯片在eBay上的售价超过4万美元】英伟达最先进的GPU芯片在eBay上的售价超过4万美元，当前训练和部署人工智能软件所需的芯片需求飙升。有人注意到，周五至少有8枚H100芯片在eBay上售卖，价格从39995-46000美元不等。一些零售商过去曾以3.6万美元左右的价格出售这款产品。据悉，去年发布的H100是英伟达最新的人工智能旗舰芯片，接替了A100。A100是一款被称为人工智能应用“主力”的芯片，售价约为1万美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-15/detail-imyqmchv2652666.d.html</link>
+            <guid>3070409</guid>
+            <pubDate>Fri, 14 Apr 2023 21:50:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【拉夫罗夫：“去美元化”的趋势今后肯定会加速，且不可逆转】据塔斯社14日报道，俄罗斯外长拉夫罗夫在新闻发布会上表示，在世界贸易中放弃使用美元，转而使用本国货币的趋势是不可逆转的。“对美元的背离已经开始，目前还不是很快，但肯定会加速。这种趋势是不可逆转的。美国人利用美元的主导地位来管理国际金融和整个世界经济，这已经严重地危及到他们的地位。”拉夫罗夫说。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-15/detail-imyqmchv2645152.d.html</link>
+            <guid>3070408</guid>
+            <pubDate>Fri, 14 Apr 2023 21:35:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【IMF第一副总裁：美联储应该调整其政策框架】国际货币基金组织(IMF)第一副总裁Gita Gopinath表示，美联储应该调整货币政策框架来适应供应冲击更频繁和通胀高级风险更大的局面。“我们将更多地受到供应冲击，因此货币政策面临更严峻的权衡取舍，”Gopinath说，“必须完善我们的货币政策框架。”Gopinath建议美联储更为警惕经济过热，并且更主动的提前预防通胀过快风险。在经历了多年通胀率在多数时候低于2%目标的情况后，美联储于2020年8月调整了货币政策策略。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-15/detail-imyqmchz0153900.d.html</link>
+            <guid>3070407</guid>
+            <pubDate>Fri, 14 Apr 2023 21:32:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富时A50期指连续夜盘收跌0.27%，报13099.000点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-15/detail-imyqmchv2641618.d.html</link>
+            <guid>3070406</guid>
+            <pubDate>Fri, 14 Apr 2023 21:29:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国副财长敦促国会尽快提高债务上限 否则将引发“人为制造”的危机】美国财政部副部长阿德耶莫周五表示，国会如果不能提高美国债务上限，就可能引发一场“人为制造”的危机，使经济发展脱轨。他还表示，继续推迟提高31.4万亿美元债务上限将威胁到国际社会对美国经济的信心。“国会提高债务上限至关重要，我们国家最不需要的就是一场人为制造的危机，”阿德耶莫说道。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-15/detail-imyqmchz0150870.d.html</link>
+            <guid>3070405</guid>
+            <pubDate>Fri, 14 Apr 2023 21:26:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：下调西太平洋银行评级至垃圾级。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-15/detail-imyqmchz0150151.d.html</link>
+            <guid>3070404</guid>
+            <pubDate>Fri, 14 Apr 2023 21:25:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[香港金管局在市场买入9.03亿港元，因港元汇价触及弱方兑换保证。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-15/detail-imyqmchz0146027.d.html</link>
+            <guid>3070403</guid>
+            <pubDate>Fri, 14 Apr 2023 21:16:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【ICE美元指数周五涨超0.5%，脱离2月初以来最低位】 周五（4月14日）纽约尾盘，ICE美元指数涨0.56%，报101.581点，日内交投区间为100.788-101.747点，亚太早盘刷新2月2日以来最低位，本周累计下跌0.50%。美元指数涨0.42%，报1221.76点，日内交投区间为1214.06-1223.60点，本周累跌0.37%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-15/detail-imyqmchv2635957.d.html</link>
+            <guid>3070402</guid>
+            <pubDate>Fri, 14 Apr 2023 21:16:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【离岸人民币兑美元较周四纽约尾盘跌11点】离岸人民币（CNH）兑美元北京时间05:59报6.8729元，较周四纽约尾盘跌11点，盘中整体交投于6.8302-6.8761元区间。]]></title>
             <link>https://finance.sina.cn/7x24/2023-04-15/detail-imyqmchz0145051.d.html</link>
@@ -130,7 +200,7 @@
             <pubDate>Fri, 14 Apr 2023 20:20:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国4月5日当周银行存款增加606亿美元，银行贷款和租赁增加102亿美元。]]></title>
+            <title><![CDATA[【美国的银行存贷款额4月首周上升】美国的银行贷款发放三周来首次增加，存款增长，表明继上个月一系列银行倒闭后，信贷状况正在企稳。根据美联储周五公布的按季节性因素调整后数据，截至4月5日当周，商业银行贷款增加了102亿美元。银行存款金额攀升近610亿美元。未经季节性因素调整的存款规模增加752亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2023-04-15/detail-imyqkwzc0250010.d.html</link>
             <guid>3070380</guid>
             <pubDate>Fri, 14 Apr 2023 20:17:41 GMT</pubDate>
@@ -221,70 +291,6 @@
             <title><![CDATA[贝莱德：相对于年初预期，本季度业绩令人失望。]]></title>
             <guid>3070364</guid>
             <pubDate>Fri, 14 Apr 2023 19:44:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商品期货交易委员会(CFTC)：截至4月11日当周，投机者将CBOT美国2年期国债期货净空头持仓减少5214手至496841手，美国5年期国债期货净空头持仓削减19258手至761981手，美国10年期国债期货净空头持仓减少18006手至639037手，超长期国债期货净空头持仓减少8480手至399278手。]]></title>
-            <guid>3070363</guid>
-            <pubDate>Fri, 14 Apr 2023 19:42:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[贝莱德：相对于年初预期，本季度业绩令人失望。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-15/detail-imyqkwzc0231023.d.html</link>
-            <guid>3070362</guid>
-            <pubDate>Fri, 14 Apr 2023 19:41:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【芝加哥玉米和小麦期货周五涨超2%】周五（4月14日）纽约尾盘，谷物分类指数上涨1.32%，报46.7720点，本周累计上涨1.50%。CBOT玉米期货涨2.26%，报6.67-3/4美元/蒲式耳，本周累涨3.77%。CBOT小麦期货涨2.66%，报6.85美元/蒲式耳，本周累涨1.41%。CBOT大豆期货跌0.27%，报14.99美元/蒲式耳，本周累涨0.44%；周五当天，豆粕期货跌0.63%，豆油期货涨0.26%。ICE原糖期货涨0.37%，本周累涨2.20%；ICE白糖期货跌2.01%，本周累涨1.87%。ICE阿拉比卡咖啡期货跌0.61%，本周累涨6.15%。ICE棉花期货跌0.46%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-15/detail-imyqkwzc0229133.d.html</link>
-            <guid>3070361</guid>
-            <pubDate>Fri, 14 Apr 2023 19:36:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[贝莱德集团CEO Larry Fink的2022年薪酬下滑30%，至2520万美元。]]></title>
-            <guid>3070360</guid>
-            <pubDate>Fri, 14 Apr 2023 19:35:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至4月11日当周，NYMEX、ICE市场的天然气期货净空头寸减少5069手至5778手。]]></title>
-            <guid>3070359</guid>
-            <pubDate>Fri, 14 Apr 2023 19:35:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至4月11日当周，COMEX铜期货投机性净多头头寸增加1864手至5982手。]]></title>
-            <guid>3070358</guid>
-            <pubDate>Fri, 14 Apr 2023 19:35:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至4月11日当周，证券基金经理将标普500指数CME净多头持仓增加8492手至104861手，投机者将标普500指数CME净空头持仓削减6936手至101752手。]]></title>
-            <guid>3070357</guid>
-            <pubDate>Fri, 14 Apr 2023 19:33:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至4月11日当周，COMEX白银期货投机性净多头头寸减少262手至19231手。]]></title>
-            <guid>3070356</guid>
-            <pubDate>Fri, 14 Apr 2023 19:33:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国检察官：上周遇害的硅谷精英Bob Lee死于谋杀】一份法庭文件中表示，硅谷科技业高管Bob Lee上周在旧金山市中心被厨刀刺死一事是有计划有预谋的。检察官呼吁加利福尼亚州法院法官不要批准嫌疑人Nima Momeni取保候审。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-15/detail-imyqkwyx2717732.d.html</link>
-            <guid>3070355</guid>
-            <pubDate>Fri, 14 Apr 2023 19:33:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商品期货交易委员会（CFTC）：4月11日当周，投机者所持COMEX黄金净多头头寸减少7,423手合约，至137,563手合约。]]></title>
-            <guid>3070354</guid>
-            <pubDate>Fri, 14 Apr 2023 19:31:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商品期货交易委员会（CFTC）：4月11日当周，投机者所持NYMEX WTI原油净多头头寸增加22,079手合约，至198,493手合约，创最近大约五个月新高。]]></title>
-            <guid>3070353</guid>
-            <pubDate>Fri, 14 Apr 2023 19:30:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟计划对俄罗斯实施第11轮制裁】欧盟委员会负责金融事务的委员玛丽德·麦吉尼斯13日接受美国媒体采访时表示，欧盟正在酝酿对俄罗斯实施第11轮制裁，重点将针对俄罗斯回避现行制裁采取的措施。对此，俄罗斯常驻维也纳国际组织代表乌里扬诺夫通过社交媒体发文回应称，制裁对俄罗斯造成的影响并不严重，相反，欧盟遭到的反噬效应却远高于预期。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-15/detail-imyqkwzc0225221.d.html</link>
-            <guid>3070352</guid>
-            <pubDate>Fri, 14 Apr 2023 19:28:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
