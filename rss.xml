@@ -4,11 +4,242 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Fri, 21 Apr 2023 19:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 20:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国最近一周银行存款减少762亿美元，至17.2万亿美元，之前一周为17.3万亿美元。]]></title>
+            <guid>3080152</guid>
+            <pubDate>Fri, 21 Apr 2023 20:17:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国大类资产ETF收盘涨跌互现】美国布伦特油价基金涨0.96%领跑，美国高收益债ETF涨0.31%，欧元作多涨0.23%；而恐慌指数做多跌1.88%，大豆基金跌1.15%，黄金ETF-SPDR跌0.99%，新兴市场ETF跌0.94%，农产品基金跌0.66%，人民币做多跌0.57%，美国国债20+年ETF跌0.54%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreuwc5801376.d.html</link>
+            <guid>3080151</guid>
+            <pubDate>Fri, 21 Apr 2023 20:17:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国电话电报公司收涨3.23%，周四当天跌超10.4%创2000年12月份以来最大单日跌幅——迫使汇丰转而看空该公司。分析师Adam Fox-Rumble认为，T-Mobile出现抛售机会，但市场对该公司业绩报告反应过度。]]></title>
+            <guid>3080150</guid>
+            <pubDate>Fri, 21 Apr 2023 20:17:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普：确认埃及B/B评级，前景展望修正为负面。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreuwc5801097.d.html</link>
+            <guid>3080149</guid>
+            <pubDate>Fri, 21 Apr 2023 20:16:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股行业ETF收盘涨跌参半】生物科技指数涨1.15%领跑，可选消费ETF涨1.10%，日常消费品ETF涨0.72%，医疗业ETF涨0.67%，网络股指数涨0.55%；而区域银行业ETF继续表现垫底，下跌1.26%，银行业ETF下跌1.21%，能源业ETF跌0.62%，全球航空业ETF跌0.41%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreuwc5798415.d.html</link>
+            <guid>3080142</guid>
+            <pubDate>Fri, 21 Apr 2023 20:09:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[宝洁（PG）收涨3.5%，创2022年3月份以来最大单日涨幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreuwc5797221.d.html</link>
+            <guid>3080135</guid>
+            <pubDate>Fri, 21 Apr 2023 20:05:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[道琼斯指数4月21日（周五）收盘上涨22.41点，涨幅0.07%，报33809.03点；标普500指数4月21日（周五）收盘上涨4.01点，涨幅0.10%，报4133.80点；纳斯达克综合指数4月21日（周五）收盘上涨12.90点，涨幅0.11%，报12072.46点。]]></title>
+            <guid>3080130</guid>
+            <pubDate>Fri, 21 Apr 2023 20:03:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【热门中概股普跌 腾讯音乐跌超3%】热门中概股普跌，腾讯音乐、爱奇艺跌超3%，百度、阿里巴巴、京东、网易、唯品会跌超1%，理想汽车、小鹏汽车小幅下跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreuvz4548375.d.html</link>
+            <guid>3080129</guid>
+            <pubDate>Fri, 21 Apr 2023 20:03:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国政府高级官员：拜登将于下周与韩国领导人举行峰会。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreuwc5796287.d.html</link>
+            <guid>3080128</guid>
+            <pubDate>Fri, 21 Apr 2023 20:02:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国三大股指初步微幅收涨约0.1%。标普可选消费板块涨1.2%，涨幅和成分股特斯拉相当；能源板块跌0.5%，原材料板块跌0.9%。CSX涨3.1%，亚马逊初步收涨3.0%，领跑纳斯达克100指数的成分股，拉姆研究、英特尔、AMD、Zoom视频通讯、爱彼迎则至多跌2.6%表现最差。宝洁初步收涨3.5%，迪士尼涨1.6%，领跑道指成分股，英特尔则跌1.8%，波音跌1.0%，苹果跌约1%。]]></title>
+            <guid>3080127</guid>
+            <pubDate>Fri, 21 Apr 2023 20:02:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[截至发稿，道指成交量报2.774亿股（上一交易日为3.097亿股），纳指成交量报43.145亿股（上一交易日为40.253亿股），标普500指数成交量报21.617亿股（上一交易日为24.541亿股）。]]></title>
+            <guid>3080119</guid>
+            <pubDate>Fri, 21 Apr 2023 20:02:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国雅保化工收跌10%，创最近14个月最大单日跌幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreuwc5795421.d.html</link>
+            <guid>3080118</guid>
+            <pubDate>Fri, 21 Apr 2023 20:01:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳斯达克金龙指数初步收跌1.7%，成分股比特数字涨4.7%，蔚来汽车涨0.6%，陆控跌5.9%，金山云跌9.6%，美华国际跌9.7%。]]></title>
+            <guid>3080117</guid>
+            <pubDate>Fri, 21 Apr 2023 20:00:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股窄幅震荡，三大指数小幅收涨。道指涨0.07%，纳指涨0.11%，标普500指数涨0.09%。优品车跌超81%，昨日上市首日涨约620%。]]></title>
+            <guid>3080116</guid>
+            <pubDate>Fri, 21 Apr 2023 20:00:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周五（4月21日）纽约尾盘，美国10年期基准国债收益率上涨3.62个基点，报3.5680%，盘中交投于3.4977%-3.5776%区间，本周累计上涨5.52个基点。]]></title>
+            <guid>3080115</guid>
+            <pubDate>Fri, 21 Apr 2023 20:00:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国众议院一个委员会4月25日将开会讨论共和党的债务上限立法草案。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreuwc5794609.d.html</link>
+            <guid>3080114</guid>
+            <pubDate>Fri, 21 Apr 2023 19:59:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周五（4月21日）纽约尾盘，美国10年期基准国债收益率上涨3.62个基点，报3.5680%，盘中交投于3.4977%-3.5776%区间，本周累计上涨5.52个基点。]]></title>
+            <guid>3080111</guid>
+            <pubDate>Fri, 21 Apr 2023 19:55:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北上资金交投活跃，重点加仓央企国企】本周，北上资金先扬后抑，前半周稳步加仓，不过周五受行情深度调整影响，大幅净卖出76.19亿元，创年内最大单日净卖出，全周合计小幅净买入3.39亿元。北上资金交投大幅增加，全周合计成交6607亿元，创一年半来新高。电气设备、采掘、交通运输3行业获得超20亿元的净买入，银行、有色金属、建筑装饰、食品饮料4行业获得超10亿元净买入。此前大红大紫的人工智能概念被大幅减仓，所处电子行业被净卖出逾30亿元，几乎与其他净卖出行业总和持平，计算机行业被净卖出8.65亿元紧随其后。央国企本周受到北上资金重点关注，大量相关个股处于净买入榜前列。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreuwc5793525.d.html</link>
+            <guid>3080110</guid>
+            <pubDate>Fri, 21 Apr 2023 19:53:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一季度国内旅游总人次同比增长46.5%】文化和旅游部4月21日公布2023年一季度国内旅游数据情况。根据国内旅游抽样调查统计结果，2023年一季度，国内旅游总人次12.16亿，比上年同期增加3.86亿，同比增长46.5%。其中，城镇居民国内旅游人次9.44亿，同比增长52.0%；农村居民国内旅游人次2.72亿，同比增长30.1%。国内旅游收入（旅游总花费）1.30万亿元，比上年增加0.53万亿元，增长69.5%。其中，城镇居民出游花费1.12万亿元，同比增长79.5%；农村居民出游花费0.18万亿元，同比增长26.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreuvz4542190.d.html</link>
+            <guid>3080106</guid>
+            <pubDate>Fri, 21 Apr 2023 19:50:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【4月份12家公司自曝重要股东短线交易，专家称“误操作”不是挡箭牌】4月份以来，沪深两市有12家公司公告称董监高或其家属、持股5%以上的股东出现短线交易。对于造成短线交易的原因，这些公司的公告中多解释是因为“误操作”。对此，上海明伦律师事务所王智斌律师介绍：“短线交易屡屡出现，一方面反映出部分上市公司董监高的合规意识淡漠，对于规则缺乏应该有的敬畏之心，而且，由于当前正处在两市公司年报披露的窗口期，短线交易很容易让投资者对公司相关董监高减持的真实目的产生怀疑。”专家还表示，“误操作”并不能成为短线交易相关责任人的挡箭牌。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreuwc5790403.d.html</link>
+            <guid>3080105</guid>
+            <pubDate>Fri, 21 Apr 2023 19:50:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行副行长拉姆斯登：高通胀是比过度紧缩更大的风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreuwc5789848.d.html</link>
+            <guid>3080104</guid>
+            <pubDate>Fri, 21 Apr 2023 19:49:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行副行长拉姆斯登：专注于坚持货币紧缩政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreuwc5789794.d.html</link>
+            <guid>3080103</guid>
+            <pubDate>Fri, 21 Apr 2023 19:49:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[谷歌拟议的位于San Jose占地面积80英亩的超级园区暂时停工。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreuwc5786540.d.html</link>
+            <guid>3080098</guid>
+            <pubDate>Fri, 21 Apr 2023 19:46:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【332家公司去年四季度获社保基金重仓，三类机构投资者瞄准12只绩优股】截至4月21日收盘，在已披露2022年年报的2470家A股上市公司中，332家公司截至去年底的前十大流通股股东名单出现了社保基金身影；从持股变动情况来看，截至去年底，社保基金新进重仓持有71家公司，增持137家公司。值得关注的是，有12家公司前十大流通股股东名单中同时出现社保基金、QFII、险资机构的身影，分别为山东高速、苏垦农发、中国重汽、杭氧股份、中国神华、宏发股份、北新建材、中材科技、金力永磁、健康元、濮阳惠成、斯达半导。这12家公司去年均实现盈利，其中9家公司归母净利润同比增长。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreuwc5784653.d.html</link>
+            <guid>3080097</guid>
+            <pubDate>Fri, 21 Apr 2023 19:43:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周五（4月21日）纽约尾盘，谷物分类指数跌1.28%，报45.5733点，本周累计下跌2.56%。]]></title>
+            <guid>3080091</guid>
+            <pubDate>Fri, 21 Apr 2023 19:41:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至4月18日当周，投机者持有比特币净多头头寸-489手。]]></title>
+            <guid>3080087</guid>
+            <pubDate>Fri, 21 Apr 2023 19:40:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至4月18日当周，投机者将CBOT美国5年期国债期货净空头持仓减少7479手至754502手。]]></title>
+            <guid>3080085</guid>
+            <pubDate>Fri, 21 Apr 2023 19:39:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至4月18日当周，投机者将CBOT美国10年期国债期货净空头持仓增加41044手至680081手。]]></title>
+            <guid>3080084</guid>
+            <pubDate>Fri, 21 Apr 2023 19:38:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至4月18日当周，投机者将CBOT美国2年期国债期货净空头持仓增加78073手至574914手。]]></title>
+            <guid>3080082</guid>
+            <pubDate>Fri, 21 Apr 2023 19:38:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至4月18日当周，投机者将CBOT美国超长期国债期货净空头持仓减少277手至399001手。]]></title>
+            <guid>3080081</guid>
+            <pubDate>Fri, 21 Apr 2023 19:37:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至4月18日当周，COMEX铜期货投机性净多头头寸增加13786手至19768手。]]></title>
+            <guid>3080080</guid>
+            <pubDate>Fri, 21 Apr 2023 19:37:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至4月18日当周，证券基金经理将标普500指数CME净多头持仓增加11,809手至116,670手，投机者将标普500指数CME净空头持仓增加4,216手至105,969手。]]></title>
+            <guid>3080079</guid>
+            <pubDate>Fri, 21 Apr 2023 19:37:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【409份一季报亮相，三大行业上市公司业绩表现亮眼】截至4月21日收盘，A股市场总计有409家上市公司披露了2023年一季度报告。有263家一季度营业收入实现同比增长，占比为64.3%。有213家公司一季度营业收入和归母净利润均实现同比增长，占比为52.08%。从行业来看，上述213家营业收入和净利润同比双增长的公司主要集中在医药生物、电力设备、计算机等三大行业，分别有40家、17家和17家。川财证券首席经济学家、研究所所长陈雳对记者表示，从产业规模上看，上述三大行业更新迭代需求较快，规模不断增长；此外，国家政策也给予这些行业一定支持。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreuwc5781346.d.html</link>
+            <guid>3080078</guid>
+            <pubDate>Fri, 21 Apr 2023 19:36:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全面注册制落地满两个交易周：首批主板注册制新股表现平稳】4月10日，首批10只主板注册制新股正式上市。目前，10只新股无一破发，股价趋于平稳，交投情绪活跃，符合市场预期。同花顺iFinD数据显示，截至4月21日收盘，相较于发行价，10只新股的平均涨幅为28.71%。10只新股的日均成交额为9.10亿元、日均换手率为30.73%，远超同期A股平均水平（2.21亿元、2.95%）。申万宏源证券首席市场专家桂浩明表示：总体上，前两周首批主板注册制新股的股价走势较为平稳，逐渐向市场的平均水平过渡，较快向市场价格中枢回归。这反映出市场对于全面注册制的制度规则总体认同。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreuwc5780356.d.html</link>
+            <guid>3080073</guid>
+            <pubDate>Fri, 21 Apr 2023 19:33:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：4月18日当周，投机者所持WTI原油净多头头寸增加13,948手合约，至212,441手合约，创最近逾五个月新高。]]></title>
+            <guid>3080072</guid>
+            <pubDate>Fri, 21 Apr 2023 19:31:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：4月18日当周，投机者所持COMEX黄金净多头头寸下降3,310手合约，至134,253手合约，创三周新低。]]></title>
+            <guid>3080071</guid>
+            <pubDate>Fri, 21 Apr 2023 19:30:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【玻利维亚总统访问委内瑞拉 两国签署13项合作协议】当地时间20日，玻利维亚总统阿尔塞访问委内瑞拉，出席“第三届委内瑞拉-玻利维亚共同一体化委员会”大会，在他与委内瑞拉总统马杜罗的共同见证下，两国签署了13项各领域的合作协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreuwc5777850.d.html</link>
+            <guid>3080069</guid>
+            <pubDate>Fri, 21 Apr 2023 19:28:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒生指数主连夜盘收跌0.10%，报20009.00点。恒生科技指数主连夜盘收跌0.38%，报3958.00点。]]></title>
+            <guid>3080068</guid>
+            <pubDate>Fri, 21 Apr 2023 19:22:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【已有83家北交所公司披露年报，超九成拟现金分红】随着北交所上市公司2022年年报陆续发布，各公司的分红预案也相继出炉。截至4月21日，在已披露年报的83家公司中，75家发布了现金分红预案，占比超过九成，拟分红金额合计达23.61亿元。对此，北京利物投资管理有限公司创始人、合伙人常春林表示，这一方面说明多数北交所上市公司具备良好的盈利能力和充沛的现金流，对公司财务稳健有信心，能与股东共享公司发展的经营成果，积极回报股东；另一方面，通过分红可以增强投资者对公司发展的信心，吸引投资者长期持有公司股票。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreuvz4525113.d.html</link>
+            <guid>3080067</guid>
+            <pubDate>Fri, 21 Apr 2023 19:19:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【双柜台模式有吸引力，已有15家港股公司申请增设人民币柜台】4月21日，中国移动、新鸿基地产发布公告称，已提交“港币-人民币”双柜台模式下公司股份增设人民币柜台的申请，为公司股东及潜在投资者提供更多、更灵活的投资选择和交易渠道。据不完全统计，截至4月21日，已有15家港股公司申请增设人民币柜台。中央财经大学证券期货研究所研究员、内蒙古银行研究发展部总经理杨海平表示，“港币-人民币”双柜台模式为内地投资者提供更大范围的构建投资组合的便利性，将改善港股上市公司股票的流动性，促进其估值优化。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreuvz4524744.d.html</link>
+            <guid>3080065</guid>
+            <pubDate>Fri, 21 Apr 2023 19:18:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【蒙特利尔银行：将IBM(IBM.N)目标价从155美元下调至145美元 维持与大市同步评级】蒙特利尔银行分析师Keith Bachman将对IBM的目标价从155美元下调至145美元，并保持对该股的与大市同步评级。该分析师在研报中表示，鉴于预期较低，该公司第一季度的业绩“好坏参半，但很合理”。然而，该行“仍然怀疑”IBM能否实现软件业务增长，并认为利润率挑战将持续存在。]]></title>
+            <guid>3080062</guid>
+            <pubDate>Fri, 21 Apr 2023 19:17:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以太坊日内跌幅达5.00%，现报1838美元/枚。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreuvz4523278.d.html</link>
+            <guid>3080057</guid>
+            <pubDate>Fri, 21 Apr 2023 19:13:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【蒙特利尔银行：将摩根士丹利(MS.N)目标价从108美元下调至104美元 维持跑赢大市评级】蒙特利尔银行分析师James Fotheringham在大摩公布第一季度财报后，将对大摩的目标价从108美元下调至104美元，但保持对该股的跑赢大市评级。该分析师在研报中表示，大摩在机构证券和财富管理部门的收入趋势是稳健的，但投资管理业务继续遭受长期资金外流，这给营业利润率带来压力。然而，蒙特利尔补充，大摩对今年晚些时候的资本市场复苏持乐观态度，并指出下半年将出现支持交易活动恢复的“萌芽”。]]></title>
             <guid>3080042</guid>
@@ -42,252 +273,6 @@
             <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreqqf5886871.d.html</link>
             <guid>3080020</guid>
             <pubDate>Fri, 21 Apr 2023 18:37:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI 5月原油期货收涨0.58美元，涨幅0.75%，报77.87美元/桶。NYMEX 5月天然气期货收跌0.71%，报2.2330美元/百万英热单位。]]></title>
-            <guid>3080017</guid>
-            <pubDate>Fri, 21 Apr 2023 18:35:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[截至2:30收盘，沪金主力合约收跌0.82%，报441元/克，沪银主力合约收跌0.67%，报5614元/千克，SC原油主力合约收涨0.79%，报563元/桶。]]></title>
-            <guid>3080013</guid>
-            <pubDate>Fri, 21 Apr 2023 18:31:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[蒙特利尔：将标普全球(SPGI.N)目标价从417美元下调至404美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreqqf5883189.d.html</link>
-            <guid>3080012</guid>
-            <pubDate>Fri, 21 Apr 2023 18:30:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国际原子能机构总干事：扎波罗热核电站仍面临安全风险】国际原子能机构总干事格罗西21日表示，过去一周，常驻扎波罗热核电站的国际原子能机构专家几乎每天都听到炮击声，由于该地区持续的军事活动造成的潜在危险，他们一度被告知在现场避难。格罗西说，国际原子能机构团队最近向维也纳总部提交的报告进一步强调了扎波罗热核电站在军事冲突期间面临的严重核安全和安保风险。他会继续与乌克兰和俄罗斯进行谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreqqf5881476.d.html</link>
-            <guid>3080011</guid>
-            <pubDate>Fri, 21 Apr 2023 18:24:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【秘鲁前总统托莱多在美国自首】据法新社报道，当地时间4月21日，秘鲁前总统亚历杭德罗·托莱多在美国加州圣何塞联邦法院自首。据悉，他将被引渡回国接受所涉腐败案审判。（央视新闻）]]></title>
-            <guid>3080009</guid>
-            <pubDate>Fri, 21 Apr 2023 18:17:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行副行长拉姆斯登：英国央行必须继续加息，来维持其控制物价的路线。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreqqc4628772.d.html</link>
-            <guid>3080008</guid>
-            <pubDate>Fri, 21 Apr 2023 18:16:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瑞杰金融：将雅培(ABT.N)目标价从116美元上调至123美元 维持跑赢大市评级】瑞杰金融将雅培的目标价从116美元上调至123美元，并保持对该股的跑赢大市评级。分析师在一份研究报告中告诉投资者，雅培公布了“稳健”的第一季度业绩，四个部门中的三个季度增长超过10%，同时基本业务利润率也有所提高。然而，这一市盈率可能会使股票在短期内保持区间波动，但瑞杰对雅培6%-7%的营收和10%以上的增长算法更有信心。]]></title>
-            <guid>3080007</guid>
-            <pubDate>Fri, 21 Apr 2023 18:12:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大TC能源公司：Keystone输油管的泄漏是由于材料疲劳产生裂缝而导致的。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreqqf5874257.d.html</link>
-            <guid>3080006</guid>
-            <pubDate>Fri, 21 Apr 2023 18:09:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Truist：将阿莱恩斯西部银行(WAL.N)目标价从50美元上调至65美元 维持买入评级】Truist分析师Brandon King将阿莱恩斯西部银行的目标价从50美元提高到65美元，并保持对该股的买入评级。该分析师引述了该公司此前报告的较高的净利息收入和抵押贷款银行业务收入，同时指出，管理层的重组努力使该行在可持续的核心银行关系增长方面处于更有利的地位。Truist补充，该行的信贷质量是其未来最大的风险，但到2024年损失水平应低于同行。]]></title>
-            <guid>3080005</guid>
-            <pubDate>Fri, 21 Apr 2023 18:07:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【明码标价、不欺骗消费者，多地发告诫书规范五一市场价格】作为2023年春节后首个长假，今年五一假期旅游市场热度急速蹿升。酒店、餐饮、景区等的价格也成为外出游行者关注的焦点。北京青年报记者注意到，目前，包括长沙、大理、泉州等多地均已对五一期间的价格秩序提出专门要求，要求明码标价、不欺骗消费者。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreqqf5873657.d.html</link>
-            <guid>3080004</guid>
-            <pubDate>Fri, 21 Apr 2023 18:07:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行副行长拉姆斯登：通胀可能会变得更加持久。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreqqf5873566.d.html</link>
-            <guid>3080003</guid>
-            <pubDate>Fri, 21 Apr 2023 18:07:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SQM：希望智利的锂矿战略会有助于提高产量。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreqqf5869388.d.html</link>
-            <guid>3080002</guid>
-            <pubDate>Fri, 21 Apr 2023 17:54:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫新闻发言人Jean-Pierre：白宫将继续对共和党人提出的债务上限相关提案进行分析。]]></title>
-            <guid>3080001</guid>
-            <pubDate>Fri, 21 Apr 2023 17:52:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[优品车日内跌超80%，报8.55美元/股。昨日上市首日涨逾600%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreqqc4617455.d.html</link>
-            <guid>3080000</guid>
-            <pubDate>Fri, 21 Apr 2023 17:44:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【纽约期金周五收跌1.4%，主力合约跌穿2000美元整数位心理关口，下探1990美元】COMEX 6月黄金期货收跌1.41%，报1990.50美元/盎司，跌穿4月3日收盘位2000.40美元，本周累计下跌大约1.25%。COMEX 8月黄金期货收跌1.41%，报2009.20美元/盎司，本周累跌约1.24%。]]></title>
-            <guid>3079999</guid>
-            <pubDate>Fri, 21 Apr 2023 17:42:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[洲际交易所（ICE）：截至4月18日当周，白糖期货投机性净多头头寸减少2626手合约，至25671手合约。]]></title>
-            <guid>3079998</guid>
-            <pubDate>Fri, 21 Apr 2023 17:36:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[洲际交易所（ICE）：截至4月18日当周，布伦特原油期货投机性净多头头寸增加7946手合约，至241987手合约。]]></title>
-            <guid>3079997</guid>
-            <pubDate>Fri, 21 Apr 2023 17:35:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苏丹冲突双方宣布停火后 喀土穆市区仍不时传出枪炮声】据苏丹媒体报道，当地时间21日晚，尽管苏丹快速支援部队和苏丹武装部队已于当天先后宣布停火3天，但进入停火时间后，首都喀土穆市区仍然不时传出枪炮声。此外，当晚，快速支援部队表示，该部队仍控制着位于总统府和武装部队总部附近的据点，以及位于马苏迪亚的据点，除了必要的自卫行动外，该部队将遵守停火约定。苏丹武装部队对此尚未做出回应。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreqqf5862214.d.html</link>
-            <guid>3079996</guid>
-            <pubDate>Fri, 21 Apr 2023 17:34:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【30年期国债期货上市首日运行平稳】4月21日，30年期国债期货在中国金融期货交易所成功挂牌上市。上市首日，市场运行平稳，截至当日收盘，30年期国债期货总成交13472手，总持仓5907手。此次上市的30年期国债期货，是我国国债期货产品体系的第四个产品，也是我国金融期货产品家族的第十一个成员。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreqqf5857091.d.html</link>
-            <guid>3079995</guid>
-            <pubDate>Fri, 21 Apr 2023 17:27:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【法国制粉小麦期货周五跌约1.5%，欧洲油菜籽本周涨幅收窄至不足4%】周五（4月21日）欧市尾盘，法国巴黎泛欧交易所（EuroNext）“制粉小麦”期货跌1.49%，报248.50欧元/吨，本周累计下跌2.17%。油菜籽期货跌0.49%，报458.25欧元/吨，本周累涨3.97%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreqqf5853720.d.html</link>
-            <guid>3079994</guid>
-            <pubDate>Fri, 21 Apr 2023 17:23:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国诚通党委书记、董事长朱碧新：全面打造国资央企高质量发展的“改革工具箱”】4月21日，中国诚通党委书记、董事长朱碧新表示，作为国有资本运营公司，中国诚通坚决贯彻落实党中央、国务院的决策部署，聚焦“提高国有资本配置和运行效率”新使命，立足“国有资本流动重组、布局调整的有效平台”新定位，锚定“服务国家战略、服务国资央企”主方向，构建形成基金投资、股权管理、资产管理、金融服务和战略性新兴产业培育的“4+1”业务格局，全面打造国资央企高质量发展的“改革工具箱”。（中证报）]]></title>
-            <guid>3079993</guid>
-            <pubDate>Fri, 21 Apr 2023 17:23:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[交易员信息显示，阿根廷比索兑美元在黑市下跌2.92%，跌至1美元兑445比索的历史低点，与银行间市场的汇率差距扩大至103.65%。]]></title>
-            <guid>3079992</guid>
-            <pubDate>Fri, 21 Apr 2023 17:22:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯炼油厂加工量略微下降，设备养护季拉开序幕】俄罗斯4月1-19日炼油厂平均加工石油567万桶/日，较3月份下降大约0.3%。4月19日当周，俄罗斯炼油556万桶/日，较4月份头12天低3%。此前，俄罗斯曾在3月份表示，将减产石油50万桶/日，以反击美西方针对俄罗斯制定的石油出口价格上限。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreqqc4601186.d.html</link>
-            <guid>3079991</guid>
-            <pubDate>Fri, 21 Apr 2023 17:19:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周五美联储逆回购工具使用规模为2.29万亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreqqf5849410.d.html</link>
-            <guid>3079990</guid>
-            <pubDate>Fri, 21 Apr 2023 17:18:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【夜盘主力合约收盘】截至1:00收盘，沪铜主力合约跌0.77%，沪铝主力合约跌0.29%，沪锌主力合约跌0.80%，沪镍主力合约跌2.23%，沪锡主力合约跌0.76%，沪铅主力合约跌0.20%，不锈钢主力合约跌1.60%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreqqc4595228.d.html</link>
-            <guid>3079989</guid>
-            <pubDate>Fri, 21 Apr 2023 17:08:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美媒：今年内美国几乎每周发生一起大规模袭击事件】据美联社当地时间4月21日报道，今年至今为止，美国几乎每周发生一起大规模袭击事件。报道称，美联社和《今日美国》与美国东北大学合作维护的数据库资料显示，美国在过去的111天内发生了17起大规模袭击事件，88人因此死亡。（央视新闻）]]></title>
-            <guid>3079988</guid>
-            <pubDate>Fri, 21 Apr 2023 17:04:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国钻井公司贝克休斯：美国石油和天然气钻井设备数量连续四周下降后首次增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreqqc4592922.d.html</link>
-            <guid>3079987</guid>
-            <pubDate>Fri, 21 Apr 2023 17:03:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至4月21日当周总钻井总数 753口，前值748口。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreqqc4592209.d.html</link>
-            <guid>3079986</guid>
-            <pubDate>Fri, 21 Apr 2023 17:02:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至4月21日当周天然气钻井总数 159口，前值157口。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreqqc4592145.d.html</link>
-            <guid>3079985</guid>
-            <pubDate>Fri, 21 Apr 2023 17:02:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲天然气价格连续第三周下跌 需求信号喜忧参半】因市场考虑到需求前景喜忧参半，欧洲天然气价格连续第三周下跌，而挪威天然气设施的维护可能会减少近期供应。近几个月来，随着欧洲从一场历史性的能源危机中复苏，工业需求便一直低迷。液化天然气的大量涌入也帮助库存平均保持在57%左右，远高于一年中的正常水平，并推动基准天然气价格走低。盛宝银行大宗商品策略主管Ole Hansen表示：“这些进展加在一起，让市场怀疑欧盟的储存地点能否在9月之前被填满，这可能会进一步压低现货价格。”与此同时，预计北欧天气将变冷，这可能会提振供暖需求。与亚洲争夺关键液化天然气货物的竞争也仍是焦点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreqqf5840304.d.html</link>
-            <guid>3079984</guid>
-            <pubDate>Fri, 21 Apr 2023 17:01:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至4月21日当周石油钻井总数 591口，前值588口。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreqqf5839597.d.html</link>
-            <guid>3079983</guid>
-            <pubDate>Fri, 21 Apr 2023 17:01:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际铜夜盘收跌0.93%，沪铜收跌0.77%，沪铝收跌0.29%，沪锌收跌0.80%，沪铅收跌0.20%，沪镍收跌2.23%，沪锡收跌0.76%。不锈钢夜盘收跌1.60%。]]></title>
-            <guid>3079982</guid>
-            <pubDate>Fri, 21 Apr 2023 17:00:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲天然气价格连跌三周，需求信号喜忧参半】周五（4月21日）欧市尾盘，ICE英国天然气期货涨1.99%，报97.500便士/千卡，本周累计下跌0.98%。TTF基准荷兰天然气期货涨0.18%，报40.800欧元/兆瓦时，本周累跌0.49%。ICE欧盟碳排放交易许可（期货价格）跌2.00%，报88.25欧元/吨，本周累跌3.99%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyreqqf5839347.d.html</link>
-            <guid>3079981</guid>
-            <pubDate>Fri, 21 Apr 2023 17:00:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：新的担保贷款凭证（CLO）活动在2023年第一季度保持稳定，但高利差和令人担忧的银行业事件抑制了活动，使再融资活动受到影响，预计近期美国地区银行倒闭对担保贷款凭证（CLO）的信贷影响非常有限，因为它们对银行和金融业的敞口很小。]]></title>
-            <guid>3079980</guid>
-            <pubDate>Fri, 21 Apr 2023 16:54:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通：将美国运通(AXP.N)目标价从167美元上调至170美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyrekhf4719537.d.html</link>
-            <guid>3079979</guid>
-            <pubDate>Fri, 21 Apr 2023 16:53:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LME期铜收跌86美元，报8794美元/吨。LME期铝收跌24美元，报2396美元/吨。LME期锌收跌51美元，报2719美元/吨。LME期铅收涨8美元，报2161美元/吨。LME期镍收跌584美元，报24477美元/吨。LME期锡收跌346美元，报26594美元/吨。]]></title>
-            <guid>3079978</guid>
-            <pubDate>Fri, 21 Apr 2023 16:53:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普全球市场情报显示，美国5年期信贷违约掉期（CDS）升至51个基点，为2012年以来最高水平。]]></title>
-            <guid>3079977</guid>
-            <pubDate>Fri, 21 Apr 2023 16:45:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ESAI Energy：预计美国石油出口产能到2026年将达到1000万桶/日。]]></title>
-            <guid>3079976</guid>
-            <pubDate>Fri, 21 Apr 2023 16:43:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广交会“新”意满满，用“中国智造”品质，“种草”国际市场】4月15日起，广交会时隔三年全面恢复线下举办，今年的广交会展览面积、参展企业数量均创历史新高。新增设工业自动化和智能制造、新能源及智能网联汽车、智慧生活等展区，新参展企业超过9000家，同时还将举办新品首发活动300多场。本届广交会的参展企业中，优质特色企业数量创历史新高，既有行业头部企业也有专精特新“小巨人”企业、国家级高新技术企业等共计约5700家优质企业。中国智造的新品，给海外采购商带来了一连串的惊喜。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyrekhf4709851.d.html</link>
-            <guid>3079975</guid>
-            <pubDate>Fri, 21 Apr 2023 16:38:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【索尼互娱宣布收购游戏工作室Firewalk】索尼互动娱乐官网4月21日宣布，已与ProbablyMonsters Inc.达成协议，收购游戏工作室Firewalk Studios，为PS5主机和PC端开发原创3A多人游戏。Firewalk将成为加入PlayStation Studios的第20个工作室。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyrekhi5956788.d.html</link>
-            <guid>3079974</guid>
-            <pubDate>Fri, 21 Apr 2023 16:36:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苏丹军队表示，同意从当地时间周五开始，实行为期72小时的停火。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyrekhi5952412.d.html</link>
-            <guid>3079973</guid>
-            <pubDate>Fri, 21 Apr 2023 16:32:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【格罗斯买入WAL等美国地区性银行股】 4月21日披露的最新投资前景报告显示：“债券天王”比尔·格罗斯已经“抄底”包括阿莱恩斯西部银行（WAL）、Synovus Financial Corp（SNV）、西太平洋银行（PACW）、以及SPDR标普地区银行ETF（KRE）在内的地区银行类股，兜售通胀挂钩债券。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyrekhf4703673.d.html</link>
-            <guid>3079972</guid>
-            <pubDate>Fri, 21 Apr 2023 16:32:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Uber(UBER.N)短线走低，现跌超4%，此前出行公司Lyft(LYFT.O)宣布裁员至少1200人。]]></title>
-            <guid>3079971</guid>
-            <pubDate>Fri, 21 Apr 2023 16:29:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国雅宝化工已经得到保证：智利将遵守现有合同。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-22/detail-imyrekhf4694902.d.html</link>
-            <guid>3079970</guid>
-            <pubDate>Fri, 21 Apr 2023 16:24:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
