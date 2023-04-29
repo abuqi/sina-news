@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 29 Apr 2023 18:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Apr 2023 19:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场资讯：公民金融集团也在考虑收购第一共和银行。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-30/detail-imysavsc2080266.d.html</link>
+            <guid>3091232</guid>
+            <pubDate>Sat, 29 Apr 2023 18:38:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【中部6省一季报：河南领衔4省GDP超万亿 湖北增速领跑】在全国经济增长好于预期之下，中部六省份一季报如何？梳理发现，总量上，河南、安徽、湖南、湖北4省GDP过万亿元，河南最高；增速方面，湖北、河南、山西、安徽4省跑赢全国，湖北为4省最快。]]></title>
             <link>https://finance.sina.cn/7x24/2023-04-30/detail-imysarkf2200664.d.html</link>
@@ -292,11 +298,6 @@
             <link>https://finance.sina.cn/7x24/2023-04-29/detail-imysaeur9540477.d.html</link>
             <guid>3091079</guid>
             <pubDate>Sat, 29 Apr 2023 12:26:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伽马数据：1-3月中国游戏市场实际销售收入675.09亿元 环比上升15.61% 同比下降15.06%】4月29日，伽马数据发布《2023年1-3月游戏产业报告》。数据显示，2023年1-3月，中国游戏市场实际销售收入675.09亿元，环比上升15.61%，同比下降15.06%，春节假期与新品表现共同带动。2023年1-3月，中国移动游戏市场实际销售收入486.94亿元，环比上升18.94%，同比下降19.42%。2023年1-3月，中国客户端游戏市场实际销售收入达165.26亿元，环比增长9.67%，同比增长6.66%，多款头部产品运营活动效果较好。2023年1-3月，网易-S(09999)旗下的《蛋仔派对》流水表现较佳，成带动休闲类产品流水份额同比增长主力产品。]]></title>
-            <guid>3091078</guid>
-            <pubDate>Sat, 29 Apr 2023 12:26:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
