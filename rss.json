@@ -6,6 +6,184 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 3093154,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysiiwm4798275.d.html",
+            "title": "【美国监管部门考虑上调企业存款账户保额上限】在最近数起银行倒闭事件导致存款保险基金部分外流后，美国联邦存款保险公司(FDIC)希望全面改革存款保险计划。目前FDIC对大多数存款账户的最高保额为25万美元，该机构周一列出了三个选项，强调改革的原因是技术变革以及银行体系中未保险客户高度集中。FDIC在报告中表示，考虑转向“定向覆盖”方式，即企业帐户获得比当前上限更多的保额，其认为这将是确保金融稳定的最佳选择。然而，这种改革需要国会立法。FDIC表示其他选项包括维持现有保额上限不变，或转向覆盖所有存款。",
+            "date_modified": "2023-05-01T19:12:53.000Z"
+        },
+        {
+            "id": 3093153,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysiiwm4797018.d.html",
+            "title": "美国民主党参议员曼钦：美国不会出现国债违约。",
+            "date_modified": "2023-05-01T19:11:35.000Z"
+        },
+        {
+            "id": 3093152,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysiiwf8173674.d.html",
+            "title": "美国5年期国债收益率上涨15个基点，至日高3.635%。",
+            "date_modified": "2023-05-01T19:06:44.000Z"
+        },
+        {
+            "id": 3093151,
+            "content_html": "",
+            "title": "美国财政部：在2023年1月至3月发行了6570亿美元的净债务，季度末现金余额为1780亿美元。",
+            "date_modified": "2023-05-01T19:03:53.000Z"
+        },
+        {
+            "id": 3093150,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysiiwf8172659.d.html",
+            "title": "埃克森美孚CEO：从空气中直接捕捉二氧化碳的技术有着巨大的应用潜力。",
+            "date_modified": "2023-05-01T19:03:40.000Z"
+        },
+        {
+            "id": 3093149,
+            "content_html": "",
+            "title": "美国财政部：预计在2023年7月至9月期间发行净市场债务7330亿美元，预计截至9月底的现金余额为6000亿美元。",
+            "date_modified": "2023-05-01T19:03:01.000Z"
+        },
+        {
+            "id": 3093148,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysiiwf8171857.d.html",
+            "title": "美国财政部：估计国会将解决债务上限问题。",
+            "date_modified": "2023-05-01T19:02:27.000Z"
+        },
+        {
+            "id": 3093147,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysiiwm4793045.d.html",
+            "title": "美国财政部：预计6月底现金余额将达到5500亿美元。",
+            "date_modified": "2023-05-01T19:02:19.000Z"
+        },
+        {
+            "id": 3093146,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysiiwf8170653.d.html",
+            "title": "美国财政部将4月至6月借款预估上调至7260亿美元。",
+            "date_modified": "2023-05-01T19:01:01.000Z"
+        },
+        {
+            "id": 3093145,
+            "content_html": "",
+            "title": "中国地震台网正式测定：05月02日02时49分在新疆阿克苏地区库车市（北纬42.13度，东经83.28度）发生3.1级地震，震源深度20千米。",
+            "date_modified": "2023-05-01T19:00:03.000Z"
+        },
+        {
+            "id": 3093144,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysiiwm4791459.d.html",
+            "title": "特许另类投资分析师（CAIA）协会主席鲍曼：新的经济模式正在私人股权市场中逐渐成型，而私人股权公司寻求IPO的浪潮正在消退。",
+            "date_modified": "2023-05-01T18:59:25.000Z"
+        },
+        {
+            "id": 3093143,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysiiwm4791095.d.html",
+            "title": "美联储理事鲍曼：新经济正在私人市场中建立。",
+            "date_modified": "2023-05-01T18:58:17.000Z"
+        },
+        {
+            "id": 3093142,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysiiwf8166089.d.html",
+            "title": "美国10年期国债收益率日内上涨15个基点，至3.574%。",
+            "date_modified": "2023-05-01T18:49:54.000Z"
+        },
+        {
+            "id": 3093141,
+            "content_html": "",
+            "title": "市场消息：美国民主党参议员曼钦表示愿意废除增加美国债务的《通胀削减法案》内的部分内容。",
+            "date_modified": "2023-05-01T18:48:36.000Z"
+        },
+        {
+            "id": 3093140,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysiiwm4786208.d.html",
+            "title": "离岸人民币兑美元下跌0.5％至6.9606。",
+            "date_modified": "2023-05-01T18:45:19.000Z"
+        },
+        {
+            "id": 3093139,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysiiwf8164377.d.html",
+            "title": "贝莱德另类投资业务主管：私募股权资金现在面临退出困难。",
+            "date_modified": "2023-05-01T18:43:13.000Z"
+        },
+        {
+            "id": 3093138,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysiiwm4783998.d.html",
+            "title": "【美国联邦存款保险公司公布存款保险改革方案】美国联邦存款保险公司(FDIC)今天发布了一份关于存款保险制度和改革方案的全面概述，以解决近期银行倒闭引发的金融稳定问题。报告研究了存款保险在促进金融稳定和防止银行挤兑方面的作用，以及可能补充存款保险覆盖面变化的政策和工具。FDIC主席表示，最近硅谷银行和签名银行的倒闭，以及批准“系统性风险”例外条款以保护这些机构中未投保储户的决定，引发了关于存款保险在美国银行体系中的作用的根本性问题。作为分析的一部分，FDIC概述了存款保险改革的三种选择：1.有限保险。即维持当前的存款保险框架，根据所有权和能力向存款人提供最高限额(可能高于当前的25万美元限额)的保险。2.无限保险。即将存款保险范围扩大到所有存款人。3.有针对性的承保范围。即针对不同的账户类型提供不同的存款保险限额，其中商业支付账户的承保范围明显高于其他账户。三种选择中，FDIC认为，相对于成本而言，有针对性的覆盖最符合存款保险的金融稳定和存款人保护目标。这些拟议的选项将需要国会采取行动，不过报告的某些方面属于FDIC规则制定权的范围。",
+            "date_modified": "2023-05-01T18:40:48.000Z"
+        },
+        {
+            "id": 3093137,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysiiwm4783447.d.html",
+            "title": "WTI 6月原油期货收跌1.12美元，跌幅1.48%，报75.66美元/桶。NYMEX 6月天然气期货收跌3.81%，报2.3180美元/百万英热单位。布伦特7月原油期货收报79.31美元/桶。",
+            "date_modified": "2023-05-01T18:38:13.000Z"
+        },
+        {
+            "id": 3093136,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysiiwm4782691.d.html",
+            "title": "【滞胀将令美联储骑虎难下，股债市场面临定价错误】美国经济放缓叠加持续的通胀或将扑灭美联储扭转紧缩政策的希望，并导致一系列资产被错误定价，扭转今年美股、信用市场及其他风险资产的涨势。这便是一些经济学家所说的美国经济“轻度滞胀”，对于还没有完全从2022年股债双杀阴影中走出来的基金经理而言，这样的宏观经济环境令人不安。尽管近期银行业压力导致信贷状况收紧，但挥之不去的通胀压力意味着美联储决策者可能会在5月3日再次加息。 市场基线预测是美联储在本周加息后将在一段时间内维持利率不变，但分析人士警告说美联储需要采取更多行动的可能性正在越来越大。这凸显出短期利率市场存在定价错误的风险，该市场当前预期到今年年底前美联储将降息一到两次。",
+            "date_modified": "2023-05-01T18:35:07.000Z"
+        },
+        {
+            "id": 3093135,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysiiwf8159354.d.html",
+            "title": "Global Payments股价跌超7%，该公司首席执行官离职。",
+            "date_modified": "2023-05-01T18:31:35.000Z"
+        },
+        {
+            "id": 3093134,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysiiwf8158956.d.html",
+            "title": "SoFi股价跌超10%，因为上调的预期并没有完全反映出该公司最新的乐观收益。",
+            "date_modified": "2023-05-01T18:30:32.000Z"
+        },
+        {
+            "id": 3093133,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysiiwm4779738.d.html",
+            "title": "资产管理公司Nuveen CIO：预计美联储将不会在今年晚些时候降息。",
+            "date_modified": "2023-05-01T18:27:55.000Z"
+        },
+        {
+            "id": 3093132,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysiiwm4779729.d.html",
+            "title": "资产管理公司Nuveen CIO：预计美联储将在周三加息，然后会暂停。",
+            "date_modified": "2023-05-01T18:27:50.000Z"
+        },
+        {
+            "id": 3093131,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysiiwm4779690.d.html",
+            "title": "国际货币基金组织表示，全球金融体系的韧性仍在考验，许多机构和市场的压力显而易见。",
+            "date_modified": "2023-05-01T18:27:40.000Z"
+        },
+        {
+            "id": 3093130,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysiiwf8158314.d.html",
+            "title": "资产管理公司Nuveen CIO：美国债务上限问题尚未定价。",
+            "date_modified": "2023-05-01T18:27:30.000Z"
+        },
+        {
+            "id": 3093129,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysiiwf8156737.d.html",
+            "title": "【“新美联储通讯社”：本周加息25基点几无悬念，将开始讨论何时暂停加息】被视为“美联储喉舌”、有“新美联储通讯社”之称的记者Nick Timiraos认为，在本周的FOMC会议上，美联储距离终端利率还有多远，将成为内部辩论的焦点。面对美联储内部明显的分歧，Timiraos认为，本周发布的美联储政策声明将体现双方妥协的结果，即：美联储依然会在声明中维持未来继续加息的倾向，而不是发出坚定的暂停信号。",
+            "date_modified": "2023-05-01T18:22:04.000Z"
+        },
+        {
             "id": 3093128,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysiiwf8154323.d.html",
@@ -160,183 +338,6 @@
             "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysicqi8271976.d.html",
             "title": "美国国防部发言人柯比：美国已“几乎100%”满足了乌克兰的要求。",
             "date_modified": "2023-05-01T17:36:40.000Z"
-        },
-        {
-            "id": 3093104,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysicqi8271957.d.html",
-            "title": "美国国防部发言人柯比：我们很快会有更多的军事援助提供给乌克兰。",
-            "date_modified": "2023-05-01T17:36:36.000Z"
-        },
-        {
-            "id": 3093103,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysicqi8271928.d.html",
-            "title": "美国国防部发言人柯比：俄罗斯在顿巴斯地区的进攻已经停滞并失败。",
-            "date_modified": "2023-05-01T17:36:32.000Z"
-        },
-        {
-            "id": 3093102,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysicqi8271892.d.html",
-            "title": "美国国防部发言人柯比：苏丹情况仍然“不稳定”。",
-            "date_modified": "2023-05-01T17:36:25.000Z"
-        },
-        {
-            "id": 3093101,
-            "content_html": "",
-            "title": "花旗集团CEO：我们正在就与墨西哥国家银行（Banamex）的交易进行非常积极的对话。",
-            "date_modified": "2023-05-01T17:36:12.000Z"
-        },
-        {
-            "id": 3093100,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysicqp4892960.d.html",
-            "title": "美国国防部发言人柯比：美国估计俄罗斯在军事行动中总伤亡人数为10万人。",
-            "date_modified": "2023-05-01T17:35:41.000Z"
-        },
-        {
-            "id": 3093099,
-            "content_html": "",
-            "title": "花旗集团CEO：企业客户中存在着被积压的需求，我们在投资银行的人员配置上是长期的。",
-            "date_modified": "2023-05-01T17:28:08.000Z"
-        },
-        {
-            "id": 3093098,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysicqp4888615.d.html",
-            "title": "花旗集团CEO：我们预计，2023年年底将会很艰难，2024年将会出现复苏。",
-            "date_modified": "2023-05-01T17:27:31.000Z"
-        },
-        {
-            "id": 3093097,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysicqi8265970.d.html",
-            "title": "花旗集团CEO：不提高债务上限可能会造成非常严重的后果。",
-            "date_modified": "2023-05-01T17:26:05.000Z"
-        },
-        {
-            "id": 3093096,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysicqi8265459.d.html",
-            "title": "花旗集团CEO：信用评分较低的消费者将感受到更多痛苦。",
-            "date_modified": "2023-05-01T17:25:35.000Z"
-        },
-        {
-            "id": 3093095,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysicqi8262992.d.html",
-            "title": "花旗集团CEO：宏观经济背景在2023年下半年可能不会得到改善。",
-            "date_modified": "2023-05-01T17:23:00.000Z"
-        },
-        {
-            "id": 3093094,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysicqi8261475.d.html",
-            "title": "花旗集团CEO：预计并购和资本市场在2023年下半年不会复苏。",
-            "date_modified": "2023-05-01T17:22:02.000Z"
-        },
-        {
-            "id": 3093093,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysicqp4882372.d.html",
-            "title": "花旗集团CEO：300亿美元的存款的目的是为了给第一共和银行更多时间。",
-            "date_modified": "2023-05-01T17:21:44.000Z"
-        },
-        {
-            "id": 3093092,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysicqp4879536.d.html",
-            "title": "美联储在固定利率逆回购操作中总计接纳了103个对手方的2.24万亿美元。",
-            "date_modified": "2023-05-01T17:16:45.000Z"
-        },
-        {
-            "id": 3093091,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysicqi8258140.d.html",
-            "title": "【节日 我们在战位 新疆军区某陆航旅开展多机型跨昼夜飞行训练】节日假期，坚守战位，枕戈待旦，是军人特有的过节方式。新疆军区某陆航旅组织开展多机型、跨昼夜飞行演练，进一步强化部队节日期间战备意识，锤炼随时能战的打赢能力。（央视新闻 ）",
-            "date_modified": "2023-05-01T17:16:33.000Z"
-        },
-        {
-            "id": 3093090,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysicqi8253109.d.html",
-            "title": "【德意志银行：美国财政部可以每月回购约150亿美元的债券】德意志银行策略师Steven Zeng在4月28日的报告中表示，美国财政部在设计一项回购部分债务以改善市场流动性的项目时，对于将在一年以上期限内到期的债券，应计划回购其月发行总额的5%-8%（目前相当于约150亿美元）。 对于将在12个月或更短期限内到期的美债来说，每月300亿美元、每季度至多1000亿美元的回购计划是合理的，以便降低票据发行的波动性。",
-            "date_modified": "2023-05-01T17:05:59.000Z"
-        },
-        {
-            "id": 3093089,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysicqp4866887.d.html",
-            "title": "美国总统拜登：债务违约将导致利率上升，并使抵押贷款利率飙升。",
-            "date_modified": "2023-05-01T16:50:54.000Z"
-        },
-        {
-            "id": 3093088,
-            "content_html": "",
-            "title": "美国国会民主党众议员Waters：众议院委员会应该要求破产银行的CEO前来接受听证。",
-            "date_modified": "2023-05-01T16:49:57.000Z"
-        },
-        {
-            "id": 3093087,
-            "content_html": "",
-            "title": "美国联邦航空管理局（FAA）遭到环保集团与印第安人原住民部落起诉，被指批准SpaceX的星舰发射行动操之过急，并被要求在下次发射前应进行环境影响评估。",
-            "date_modified": "2023-05-01T16:42:56.000Z"
-        },
-        {
-            "id": 3093086,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysicqi8241141.d.html",
-            "title": "美国总统拜登：在第一共和银行上的行动确保了银行系统的安全。",
-            "date_modified": "2023-05-01T16:40:35.000Z"
-        },
-        {
-            "id": 3093085,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysicqi8240895.d.html",
-            "title": "美国总统拜登：我们必须确保共和党对美国违约的威胁不在讨论范围之内。",
-            "date_modified": "2023-05-01T16:39:56.000Z"
-        },
-        {
-            "id": 3093084,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysicqi8240628.d.html",
-            "title": "美国总统拜登：我们在稳定银行体系的道路上进展顺利。",
-            "date_modified": "2023-05-01T16:39:01.000Z"
-        },
-        {
-            "id": 3093083,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysicqp4861821.d.html",
-            "title": "美国总统拜登：美国不是会拖欠债务的国家。",
-            "date_modified": "2023-05-01T16:38:35.000Z"
-        },
-        {
-            "id": 3093082,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysicqp4861025.d.html",
-            "title": "美国总统拜登强调了加强银行监管的必要性。",
-            "date_modified": "2023-05-01T16:35:54.000Z"
-        },
-        {
-            "id": 3093081,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysicqi8239360.d.html",
-            "title": "美国总统拜登：纳税人不需要承担责任。",
-            "date_modified": "2023-05-01T16:34:55.000Z"
-        },
-        {
-            "id": 3093080,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-05-02/detail-imysicqi8239284.d.html",
-            "title": "美国总统拜登：第一共和银行的所有存款人都得到了保护。",
-            "date_modified": "2023-05-01T16:34:37.000Z"
-        },
-        {
-            "id": 3093079,
-            "content_html": "",
-            "title": "桥水联席首席投资官Karniol-Tambour：在没有严重的经济衰退的情况下，很难想象美联储会降低利率。",
-            "date_modified": "2023-05-01T16:34:29.000Z"
         }
     ]
 }
