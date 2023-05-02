@@ -4,11 +4,62 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Tue, 02 May 2023 19:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 20:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美股行业ETF近乎全线收跌，银行相关基金重挫】 仅可选消费ETF微涨0.10%。而区域银行ETF则重挫6.32%再度表现垫底，银行业ETF跌5.19%，能源业ETF跌4.30%，金融业ETF跌2.30%，网络股指数ETF跌1.97%，生物科技指数跌1.32%，公用事业ETF跌1.22%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmtci4145470.d.html</link>
+            <guid>3093827</guid>
+            <pubDate>Tue, 02 May 2023 20:12:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[福特汽车(F.N)：第一季度调整后每股收益为63美分，市场预测为42美分。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmtci4145303.d.html</link>
+            <guid>3093826</guid>
+            <pubDate>Tue, 02 May 2023 20:11:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[星巴克(SBUX.O)：第二季度同店销售增长11％，市场预测增长7.33％。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmtcc7522299.d.html</link>
+            <guid>3093825</guid>
+            <pubDate>Tue, 02 May 2023 20:06:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KBW地区性银行指数下跌5.5%，创2020年11月以来新低，阿莱恩斯西部银行收跌15%，西太平洋合众银行收跌近28%。]]></title>
+            <guid>3093824</guid>
+            <pubDate>Tue, 02 May 2023 20:06:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[道指成交量报2.66亿股（上一交易日为3.58亿股），纳指成交量报46.5亿股（上一交易日为48亿股），标普500指数成交量报23亿股（上一交易日为22.4亿股）。]]></title>
+            <guid>3093823</guid>
+            <pubDate>Tue, 02 May 2023 20:01:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股三大指数集体收跌 热门科技股多数下跌】美股三大指数集体收跌，道指跌1.08%，纳指跌1.08%，标普500指数跌1.16%，地区性银行股、石油股跌幅居前，热门科技股多数下跌。热门中概股普跌，纳斯达克金龙指数收跌3.6%，每日优鲜跌超26%，哔哩哔哩收跌超7%，爱奇艺、拼多多跌超6%，蔚来跌超4%，百度、京东、阿里巴巴跌超3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmtci4140941.d.html</link>
+            <guid>3093822</guid>
+            <pubDate>Tue, 02 May 2023 20:00:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国地区银行风险再发酵，避险美债受捧收益率跳跌】周一（5月2日）纽约尾盘，美国10年期基准国债收益率跌14.43个基点，报3.4239%，盘中交投于3.4220%-3.5662%区间。20年期美债收益率跌11.71个基点，30年期美债收益率跌9.80个基点。两年期美债收益率跌16.70个基点，报3.9737%，盘中交投于3.9263%-4.1493%区间。三年期美债收益率跌17.50个基点，五年期美债收益率跌17.92个基点，七年期美债收益率跌16.52个基点。三个月期国库券/10年期美债收益率利差跌28.104个基点，报-174.501个基点。02/10年期美债收益率利差涨2.656个基点，报-55.223个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmtcc7518715.d.html</link>
+            <guid>3093821</guid>
+            <pubDate>Tue, 02 May 2023 19:56:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院银行委员会将于5月4日（星期四）就最近银行破产事件举行听证会。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmtcc7517816.d.html</link>
+            <guid>3093820</guid>
+            <pubDate>Tue, 02 May 2023 19:52:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周一（5月2日）纽约尾盘，谷物分类指数跌1.20%，报42.9587点。CBOT玉米期货跌0.98%，报5.78-3/4美元/蒲式耳。CBOT小麦期货跌1.29%，报6.10-1/4美元/蒲式耳。CBOT大豆期货跌跌1.28%，报14.09-1/4美元/蒲式耳。]]></title>
+            <guid>3093819</guid>
+            <pubDate>Tue, 02 May 2023 19:35:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【以色列南部遭火箭弹袭击 至少12名平民受伤】据以色列国防军当地时间5月2日统计，当天有至少33枚火箭弹和迫击炮弹从加沙地带射向以色列南部，其中两枚火箭弹击中了南部城镇斯代罗特，一枚火箭弹击中了基苏菲姆，共造成至少12名平民受伤。巴勒斯坦伊斯兰抵抗运动（哈马斯）和巴勒斯坦伊斯兰圣战组织（杰哈德）宣称对火箭弹袭击负责。另据巴勒斯坦媒体报道，当晚，以军坦克炮击了加沙地带，造成5名巴勒斯坦人受伤。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmtcc7495991.d.html</link>
@@ -99,7 +150,8 @@
             <pubDate>Tue, 02 May 2023 18:14:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯铁路表示，一列火车和20节货车在俄罗斯布良斯克地区脱轨。事故发生后，线路交通暂停，没有人员伤亡报告。]]></title>
+            <title><![CDATA[【俄罗斯布良斯克州再次发生货运列车脱轨事件】 俄罗斯布良斯克州2日晚再次发生货运列车脱轨事件，暂无人员伤亡报告。俄罗斯铁路公司当天在社交媒体发布消息说，当地时间19时47分，因无关人员非法干扰铁路运输，一台机车和20节车厢在布良斯克州一铁路路段脱轨。初步信息显示，没有人员伤亡。事发路段已经封闭，消防人员和救援人员正在现场抢修。布良斯克州州长博戈马兹在社交媒体证实这一消息。他说，事发原因是一个不明爆炸装置在斯涅热季火车站附近发生爆炸。此前一天，布良斯克州一段铁轨曾发生爆炸，导致一列货运列车的一台机车和7节车厢脱轨，没有人员伤亡。博戈马兹当时说，列车脱轨由一个不明爆炸装置爆炸引发。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmnvm4220230.d.html</link>
             <guid>3093802</guid>
             <pubDate>Tue, 02 May 2023 18:00:45 GMT</pubDate>
         </item>
@@ -235,58 +287,6 @@
             <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmhpi7680481.d.html</link>
             <guid>3093778</guid>
             <pubDate>Tue, 02 May 2023 16:17:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【云南保山5.2级地震】当地网友反馈的照片，位于瓦窑镇。（中国地震台网速报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmhpp4301702.d.html</link>
-            <guid>3093777</guid>
-            <pubDate>Tue, 02 May 2023 16:17:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：在美国证交会（SEC）推进加强对私人基金行业监管的计划之际，SEC主席Gary Gensler再次抨击对冲基金和私人股本公司向投资者收取的费用。]]></title>
-            <guid>3093776</guid>
-            <pubDate>Tue, 02 May 2023 16:15:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际原油期货大幅下挫，WTI原油期货跌幅扩大至5%，报71.87美元/桶；布伦特原油期货跌4.5%，报75.77美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmhpi7678157.d.html</link>
-            <guid>3093775</guid>
-            <pubDate>Tue, 02 May 2023 16:12:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【交易员放弃了对美联储将连续两次加息的押注】美联储会期对应的隔夜指数互换(OIS)合约利率大跌，此前发布的JOLTS职位空缺数和工厂订单数据弱于预期。市场体现的美联储5月政策会议加息幅度在美国前市时段下跌约4个基点，并且显示6月政策会议不会加息。与美联储会期挂钩的5月OIS合约的利率一度跌至5.04%左右，对应加息仅21个基点，也就是周三会议升息25个基点的概率为84%；该利率周一收于5.08%左右，完全消化了加息25个基点的预期。与此同时，自纽约时间上午10点以来，6月OIS合约的利率下跌约15个基点，一度跌破5%，反映出6月加息的可能性为零；周一收盘价对应在5月升息25个基点的情况下6月的加息幅度约为7个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmhpp4298198.d.html</link>
-            <guid>3093774</guid>
-            <pubDate>Tue, 02 May 2023 16:10:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COMEX期银日内涨超2.00%，现报25.74美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmhpi7676040.d.html</link>
-            <guid>3093773</guid>
-            <pubDate>Tue, 02 May 2023 16:09:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【土耳其东部发现新油田 可日产10万桶】土耳其总统埃尔多安当地时间5月2日宣布，土耳其在该国东部舍尔纳克省（Sirnak）附近发现新油田，通过在该地区钻探100口油井，其生产能力可达到日产10万桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmhpp4297233.d.html</link>
-            <guid>3093772</guid>
-            <pubDate>Tue, 02 May 2023 16:09:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：3M以7000万美元的价格将部分资产出售给法国制药和医学护肤品集团皮尔法伯。]]></title>
-            <guid>3093771</guid>
-            <pubDate>Tue, 02 May 2023 16:09:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根士丹利将第三季度布伦特原油预测下调12.50美元至77.50美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmhpp4296648.d.html</link>
-            <guid>3093770</guid>
-            <pubDate>Tue, 02 May 2023 16:08:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯外交部召见波兰驻俄大使馆临时代办】当地时间5月2日，波兰外交部发言人亚希纳证实，俄罗斯外交部当天召见波驻俄大使馆临时代办，抗议波兰政府接管俄驻波大使馆学校所在建筑。4月29日上午，波兰华沙警方强行进入隶属于俄罗斯驻波兰大使馆的一所学校，封锁该建筑，并要求学校所有工作人员在当天晚间前离开校园。随后，波兰外交部称，华沙市政府依据法院判决接管了该学校。俄罗斯外交部指责波方此举是敌对行动，违反了《维也纳外交关系公约》，俄方将作出严厉回应。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmhpp4293081.d.html</link>
-            <guid>3093769</guid>
-            <pubDate>Tue, 02 May 2023 16:04:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
