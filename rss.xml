@@ -4,11 +4,192 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Thu, 04 May 2023 21:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 22:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【我科学家首次实现在原子尺度上研究同位素界面】北京大学物理学院高鹏、陈基、王恩哥院士课题组等与材料科学与工程学院刘磊等课题组合作，首次实现了在原子尺度上对同位素界面的研究。该研究成果以《同位素界面上的声子转变》为题于日前在国际学术期刊《自然·通讯》发表。]]></title>
+            <guid>3096102</guid>
+            <pubDate>Thu, 04 May 2023 22:15:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳新银行CEO：大多数人仍然在按时偿还房屋贷款。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssmrh3563015.d.html</link>
+            <guid>3096101</guid>
+            <pubDate>Thu, 04 May 2023 22:14:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中央气象台5月5日06时继续发布强对流天气蓝色预警。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssmrh3560151.d.html</link>
+            <guid>3096100</guid>
+            <pubDate>Thu, 04 May 2023 22:09:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美联储6月降息25个基点的概率为20.5%】据CME“美联储观察”：美联储6月维持利率不变的概率为79.5%，降息25个基点的概率为20.5%；到7月维持利率在当前水平的概率为42%，累计降息25个基点的概率为48.3%。]]></title>
+            <guid>3096099</guid>
+            <pubDate>Thu, 04 May 2023 22:06:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【提振消费，多方合力点燃数字引擎】中国电商与中国大市场的共同发展，成为促消费扩内需的重要力量，这从近期国家相关部门和地方政府的一系列促消费举措中可见一斑。4月28日至5月12日，商务部等多个国家部门共同组织电子商务等相关企业举办的第五届“双品网购节”正在全国进行。地方层面，刚刚启动的第四届上海“五五购物节”上也屡见拼多多等电商平台身影。业内专家指出，政府和相关电商企业等多方合力，点燃了我国消费市场的数字引擎，并形成以补促消、以销带供的良性循环，更充分地激发内需活力。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssmrh3558380.d.html</link>
+            <guid>3096098</guid>
+            <pubDate>Thu, 04 May 2023 22:04:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【聚焦风电、光伏等清洁能源方向，上市险企持续加码绿色投资】随着上市险企陆续发布2022年报与企业社会责任报告，险企在绿色投资等方向的布局也逐渐清晰。作为长线资金代表之一，保险资金布局方向包括风电、光伏等多个领域。进入2023年以后，险企仍在布局相关方向，助力绿色金融发展。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssmrc3068651.d.html</link>
+            <guid>3096097</guid>
+            <pubDate>Thu, 04 May 2023 22:00:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯在莫斯科红场举行胜利日阅兵第二次夜间彩排】当地时间5月4日晚间，俄罗斯在莫斯科红场举行纪念卫国战争胜利78周年阅兵的第二次夜间彩排。这也是继4月27日首次排练后，再次进行夜间彩排。俄罗斯国防部长谢尔盖·绍伊古此前曾表示，共有1万余名军人、125件武器装备参加今年的红场胜利日阅兵。据悉，5月7日将进行阅兵总彩排，并将于5月9日第78个胜利日当天正式举行红场阅兵。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssmrc3067487.d.html</link>
+            <guid>3096096</guid>
+            <pubDate>Thu, 04 May 2023 21:56:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上市公司分红预案屡遭监管关注，利益输送、内幕交易及股价操纵等成为盯防重点】最新数据显示，2022年A股公司年报现金分红金额创历史年度新高，合计现金分红达1.89万亿元。但与此同时，不少上市公司在业绩下滑的情况下仍坚持进行大手笔高比例现金分红，并因此收到交易所关注函。专家指出，分红展现了公司的盈利能力和实力，但高比例的短期分红并不一定意味着上市公司的竞争力和价值的提升，背后可能存在利益输送或市场操纵等行为，所以要防止操纵式分红。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssmrh3554972.d.html</link>
+            <guid>3096095</guid>
+            <pubDate>Thu, 04 May 2023 21:56:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[全球最大黄金ETF--SPDR Gold Trust持仓较上日增加1.74吨，当前持仓量为930.04吨。全球最大白银ETF--iShares Silver Trust持仓较上日减少11.43吨，当前持仓量为14521.49吨。]]></title>
+            <guid>3096094</guid>
+            <pubDate>Thu, 04 May 2023 21:54:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行问及后付费和近期宣布的储蓄账户业务。苹果：我们正在尝试的支付工作类似Apple Watch，我们正帮助人们拥有一个更好的财务健康。]]></title>
+            <guid>3096093</guid>
+            <pubDate>Thu, 04 May 2023 21:41:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果CEO库克：人工智能具有巨大潜力。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssmrh3541769.d.html</link>
+            <guid>3096091</guid>
+            <pubDate>Thu, 04 May 2023 21:38:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果CEO库克：将继续有序地将人工智能融入设备中。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssmrh3540694.d.html</link>
+            <guid>3096090</guid>
+            <pubDate>Thu, 04 May 2023 21:35:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果在财报电话会议中称，iPhone活跃设备数量已经超过10亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssmrc3053123.d.html</link>
+            <guid>3096089</guid>
+            <pubDate>Thu, 04 May 2023 21:35:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果CFO：预计第三财季营业费用在136-138亿美元之间。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssmrc3052234.d.html</link>
+            <guid>3096088</guid>
+            <pubDate>Thu, 04 May 2023 21:33:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登提名空军上将Charles Q. Brown, Jr. 担任美军参谋长联席会议主席。]]></title>
+            <guid>3096087</guid>
+            <pubDate>Thu, 04 May 2023 21:33:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果CFO：经济环境好转，预计第二季度同比增速将与一季度相似。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssmrc3052142.d.html</link>
+            <guid>3096086</guid>
+            <pubDate>Thu, 04 May 2023 21:33:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富时A50期指连续夜盘收跌0.12%，报13236.000点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssmrh3538134.d.html</link>
+            <guid>3096085</guid>
+            <pubDate>Thu, 04 May 2023 21:31:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果公司发布第三财季业绩指引后，盘后上涨2.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssmrh3537767.d.html</link>
+            <guid>3096084</guid>
+            <pubDate>Thu, 04 May 2023 21:31:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果CFO：预计毛利率将在44%至44.5%之间。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssmrc3048893.d.html</link>
+            <guid>3096083</guid>
+            <pubDate>Thu, 04 May 2023 21:28:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果CFO：苹果继续执行增加年度分红的计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssmrh3536119.d.html</link>
+            <guid>3096082</guid>
+            <pubDate>Thu, 04 May 2023 21:26:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国方面称今年俄罗斯无力在乌克兰发动大规模进攻】美国国家情报总监海恩斯表示，由于缺乏弹药和部队，今年俄罗斯不太可能在乌克兰发动“大规模进攻行动”，并补充说，这并不取决于乌克兰反攻的结果。海恩斯称，事实上，如果俄罗斯不启动强制性动员，并确保除了现有的弹药供应之外的大量第三方弹药供应，那么即使他们维持适度的进攻行动也会面临越来越大的挑战。然而，海恩斯认为，除非政治因素改变俄罗斯总统普京的想法，否则他今年不太可能同意暂停军事行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssmrh3536085.d.html</link>
+            <guid>3096081</guid>
+            <pubDate>Thu, 04 May 2023 21:26:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[普华永道：启动销售和征询流程，目的是征求购买部分或所有硅谷银行加拿大分行资产、业务和运营的提案。]]></title>
+            <guid>3096080</guid>
+            <pubDate>Thu, 04 May 2023 21:26:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果CFO：数字广告以及手机游戏深受当前宏观经济下行的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssmrc3048457.d.html</link>
+            <guid>3096079</guid>
+            <pubDate>Thu, 04 May 2023 21:26:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[离岸人民币（CNH）兑美元北京时间05:59报6.9153元，较周三纽约尾盘涨70点，盘中整体交投于6.9282-6.8963元区间。]]></title>
+            <guid>3096078</guid>
+            <pubDate>Thu, 04 May 2023 21:22:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果CFO：从去年Q2开始iPhone在印度、印尼、阿联酋和土耳其的销量翻倍。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssmrc3046825.d.html</link>
+            <guid>3096077</guid>
+            <pubDate>Thu, 04 May 2023 21:22:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周四（5月4日）纽约尾盘，ICE美元指数涨0.08%，报101.427点，日内交投区间为101.027-101.635点。]]></title>
+            <guid>3096076</guid>
+            <pubDate>Thu, 04 May 2023 21:20:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国众议院民主党成员Houlahan：如果债务上限磋商失败，我建议将债务上限冻结六个月时间。]]></title>
+            <guid>3096075</guid>
+            <pubDate>Thu, 04 May 2023 21:19:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果公司：汇率压力和经济造成公司一季度营收下滑。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssmrc3043645.d.html</link>
+            <guid>3096074</guid>
+            <pubDate>Thu, 04 May 2023 21:19:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果公司CFO Luca Maestri：在2023年一季度，澳大利亚、加拿大、西班牙、瑞士（业绩）创纪录。]]></title>
+            <guid>3096073</guid>
+            <pubDate>Thu, 04 May 2023 21:18:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【OpenAI在2022年的亏损翻番至5.4亿美元 开发和人工成本高昂】据三位了解OpenAI财务状况的人士透露，该公司去年开发了ChatGPT，并从谷歌招聘了关键员工，致使亏损大约翻了一番，达到5.4亿美元左右。这一此前未公布的数字反映出，在该公司开始出售聊天机器人的使用权限之前，其机器学习模型的训练成本高昂。尽管在OpenAI于2月推出付费版聊天机器人后，公司收入有所增长，但随着越来越多的客户使用其人工智能技术，以及该公司对该软件未来版本进行培训，这些成本可能会继续上升。OpenAI首席执行官Sam Altman私下暗示，公司可能会在未来几年筹集至多1000亿美元资金，以进一步开发人工智能的能力。]]></title>
+            <guid>3096072</guid>
+            <pubDate>Thu, 04 May 2023 21:17:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【比特币期货周四涨超2%，重返2.9万美元上方】周四（5月4日）纽约尾盘，CME比特币期货BTC主力合约报29015.00美元，较周三纽约尾盘涨2.11%，盘中交投于28775.00-29525.00美元区间。CME以太币期货DCR主力合约报1883.50美元，较周三涨0.40%，盘中交投于1870.50-1925.00美元区间。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssmrc3042350.d.html</link>
+            <guid>3096071</guid>
+            <pubDate>Thu, 04 May 2023 21:16:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国官员或正在评估银行股是否存在市场操纵】美国联邦和州政府官员正在评估近几天银行股大幅波动背后存在“市场操纵”的可能性，白宫方面也表示将监控“健康银行面临的做空压力”。美股地区银行股本周大幅下跌，西太平洋合众银行累跌近70%。根据分析公司Ortex的数据，做空者仅在周四就通过做空某些地区银行获利3.789亿美元。消息人士称，鉴于地区银行基本面强劲且资本充足，近几日，做空活动增加和股市波动已引起官员及监管机构越来越多的关注。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssmrc3041726.d.html</link>
+            <guid>3096070</guid>
+            <pubDate>Thu, 04 May 2023 21:15:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[饮料公司Monster（MNST）于2023年将在部分国际市场涨价。]]></title>
             <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssfif3171766.d.html</link>
@@ -106,185 +287,6 @@
             <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssfik3641780.d.html</link>
             <guid>3096053</guid>
             <pubDate>Thu, 04 May 2023 20:33:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果(AAPL.O)：2023财年第二季度iPad收入为66.7亿美元，Mac收入为71.7亿美元。]]></title>
-            <guid>3096052</guid>
-            <pubDate>Thu, 04 May 2023 20:33:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果(AAPL.O)：2023财年Q2大中华地区营收178.1亿美元，市场预估171.6亿美元。]]></title>
-            <guid>3096051</guid>
-            <pubDate>Thu, 04 May 2023 20:31:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果(AAPL.O)：将回购高达900亿美元的股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssfif3152601.d.html</link>
-            <guid>3096050</guid>
-            <pubDate>Thu, 04 May 2023 20:31:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果2023财年Q2大中华地区营收178.1亿美元，市场预估171.6亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssfik3640010.d.html</link>
-            <guid>3096049</guid>
-            <pubDate>Thu, 04 May 2023 20:31:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果2023财年Q2营收为948.4亿美元，市场预期为929.81亿美元，去年同期为973亿美元。iPhone营收513.3亿美元，预期489.7亿美元。苹果美股盘后涨2.86%。]]></title>
-            <guid>3096048</guid>
-            <pubDate>Thu, 04 May 2023 20:30:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国众议院小组将于5月10日就硅谷银行和签名银行举行听证会。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssfik3639114.d.html</link>
-            <guid>3096047</guid>
-            <pubDate>Thu, 04 May 2023 20:27:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿根廷MERVAL指数收跌2.34%，报28.2万点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssfif3151505.d.html</link>
-            <guid>3096046</guid>
-            <pubDate>Thu, 04 May 2023 20:26:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[微芯科技(MCHP.O)：预计下一季度净销售额将环比增长1%至4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssfik3638756.d.html</link>
-            <guid>3096045</guid>
-            <pubDate>Thu, 04 May 2023 20:25:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[微芯科技(MCHP.O)：第四季度毛利率68%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssfik3638686.d.html</link>
-            <guid>3096044</guid>
-            <pubDate>Thu, 04 May 2023 20:25:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Block(SQ.N)：预计2023年经调整的运营亏损为1.15亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssfik3636357.d.html</link>
-            <guid>3096042</guid>
-            <pubDate>Thu, 04 May 2023 20:21:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Block(SQ.N)：第一季度总支付额（GPV）为511.2亿美元，同比增长17%。]]></title>
-            <guid>3096041</guid>
-            <pubDate>Thu, 04 May 2023 20:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI在2022年的亏损翻了一倍，达到了5.4亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssfif3148212.d.html</link>
-            <guid>3096040</guid>
-            <pubDate>Thu, 04 May 2023 20:18:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Draftkings预计全年营收31.4亿-32.4亿美元，公司原本预计28.5亿-30.5亿美元。]]></title>
-            <guid>3096039</guid>
-            <pubDate>Thu, 04 May 2023 20:17:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AIG一季度调整后EPS为1.63美元，分析师预期1.43美元；提高季度分红金额。]]></title>
-            <guid>3096038</guid>
-            <pubDate>Thu, 04 May 2023 20:16:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【标普500指数的11个板块普遍收跌】周四（5月4日），标普金融板块收跌1.29%，电信服务板块跌1.26%，能源板块跌1.11%，工业板块跌1.09%，原材料板块跌0.64%，信息技术/科技板块跌0.49%，公用事业和房地产板块则至多涨0.92%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssfik3635115.d.html</link>
-            <guid>3096037</guid>
-            <pubDate>Thu, 04 May 2023 20:15:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Carvana美股盘后涨27%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssfif3145927.d.html</link>
-            <guid>3096036</guid>
-            <pubDate>Thu, 04 May 2023 20:12:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase第一季度交易收入为3.747亿美元，市场预计为3.185亿美元。Coinbase股价盘后上涨4％。]]></title>
-            <guid>3096035</guid>
-            <pubDate>Thu, 04 May 2023 20:11:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase第一季度收入为7.725亿美元，市场预计为6.538亿美元。Coinbase第一季度交易量为1450亿美元，市场预测为1473.5亿美元。]]></title>
-            <guid>3096034</guid>
-            <pubDate>Thu, 04 May 2023 20:11:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bumble一季度营收2.43亿美元，分析师预期2.411亿美元。一季度付费用户数346万，分析师预期344万。维持全年营收增长16%-19%不变，分析师预期增长17.5%。预计二季度营收2.54亿-2.58亿美元，分析师预期2.567亿美元。]]></title>
-            <guid>3096033</guid>
-            <pubDate>Thu, 04 May 2023 20:09:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lyft(LYFT.O)：第一季度调整后净利润为2770万美元，市场预计亏损3020万美元。]]></title>
-            <guid>3096032</guid>
-            <pubDate>Thu, 04 May 2023 20:09:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase一季度营收7.725亿美元，分析师预期6.538亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssfif3144674.d.html</link>
-            <guid>3096031</guid>
-            <pubDate>Thu, 04 May 2023 20:09:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国大类资产ETF涨跌互现】恐慌指数做多涨4.89%，美国房地产ETF涨0.83%，新兴市场ETF涨0.80%，美国布伦特油价基金、黄金ETF分别涨0.70%，日元做多涨0.68%，农产品基金涨0.49%；而罗素2000指数ETF跌1.10%表现垫底，美国国债20+年ETF跌0.99%，标普500价值指数跌0.79%，标普500 ETF跌0.71%，大豆基金跌0.60%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssfik3632097.d.html</link>
-            <guid>3096030</guid>
-            <pubDate>Thu, 04 May 2023 20:08:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DoorDash(DASH.N)：第一季度订单为5.12亿美元，市场预测为4.8亿美元。]]></title>
-            <guid>3096029</guid>
-            <pubDate>Thu, 04 May 2023 20:07:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lyft美股盘后下跌11%，该公司二季度调整后EBITDA指引逊于预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssfif3144409.d.html</link>
-            <guid>3096028</guid>
-            <pubDate>Thu, 04 May 2023 20:07:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Doordash预计二季度营收10亿-10.2亿美元，分析师预期10.8亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssfik3631426.d.html</link>
-            <guid>3096027</guid>
-            <pubDate>Thu, 04 May 2023 20:05:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿莱恩斯西部银行（WAL）收跌38.54%，连续九个交易日下跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssfif3143727.d.html</link>
-            <guid>3096026</guid>
-            <pubDate>Thu, 04 May 2023 20:04:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[道琼斯指数5月4日（周四）收盘下跌286.30点，跌幅0.86%，报33127.94点；标普500指数5月4日（周四）收盘下跌30.15点，跌幅0.74%，报4060.60点；纳斯达克综合指数5月4日（周四）收盘下跌58.93点，跌幅0.49%，报11966.40点。]]></title>
-            <guid>3096025</guid>
-            <pubDate>Thu, 04 May 2023 20:04:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[派拉蒙全球收跌28%，创该公司美国IPO以来最大单日跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssfik3631068.d.html</link>
-            <guid>3096024</guid>
-            <pubDate>Thu, 04 May 2023 20:04:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股行业ETF多数收跌】仅公用事业ETF涨0.76%，网络股指数涨0.28%；而区域银行ETF继续重挫5.45%，银行业ETF跌4.55%，全球航空业ETF跌2.94%，金融业ETF跌1.30%，能源业ETF跌1.11%，医疗业ETF跌0.79%，可选消费ETF跌0.77%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssfif3143479.d.html</link>
-            <guid>3096023</guid>
-            <pubDate>Thu, 04 May 2023 20:03:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[强生公司Kenvue美国IPO首日收涨22%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssfif3143457.d.html</link>
-            <guid>3096022</guid>
-            <pubDate>Thu, 04 May 2023 20:03:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股收评：美股地区性银行股价下挫 道指今年累积的升幅全部蒸发】美国地区银行股价下挫，抵消市场对美联储暗示可能暂停加息的乐观情绪，美股周四延续跌势，道指踏入中段续下试盘中低位，跌幅超过400点或1%，今年以来累积的升幅全部蒸发。道指初步收跌286点，纳指收跌0.49%，标普500指数收跌0.72%。盘面上，热门中概股、黄金、邮轮表现强劲，银行、航空、百货商店板块表现疲弱。个股方面，Shopify(SHOP.N)绩后收涨24%，法拉第未来(FFIE.O)收涨28%，Moderna(MRNA.O)绩后收涨3%；阿莱恩斯西部银行(WAL.N)收跌39%，西太平洋合众银行(PACW.O)收跌50%，第一地平线国家银行(FHN.N)收跌33%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imyssfik3630936.d.html</link>
-            <guid>3096021</guid>
-            <pubDate>Thu, 04 May 2023 20:03:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cirrus Logic第四财季净销售3.728亿美元，分析师预期3.674亿美元。]]></title>
-            <guid>3096020</guid>
-            <pubDate>Thu, 04 May 2023 20:02:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
