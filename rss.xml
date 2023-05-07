@@ -4,11 +4,35 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 07 May 2023 15:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2023 16:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【今日重点关注的财经数据与事件】
+① 14:00 德国3月季调后工业产出月率
+② 16:30 欧元区5月Sentix投资者信心指数
+③ 22:00 美国3月批发销售月率
+④ 次日02:00 美联储公布高级贷款专员意见调查报告
+⑤ 次日04:00 美联储公布2023年金融稳定报告
+⑥ 次日04:45 美联储卡什卡利主持关于最低工资的讨论]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-08/detail-imysysek2266337.d.html</link>
+            <guid>3099626</guid>
+            <pubDate>Sun, 07 May 2023 16:04:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【斯洛伐克总统将任命卢多维特·欧多尔担任新总理】当地时间5月7日，斯洛伐克总统恰普托娃表示，她将在5月15日之后任命现国家银行副行长卢多维特·欧多尔（Ľudovít Ódor）担任看守政府总理。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-07/detail-imysysep8872923.d.html</link>
+            <guid>3099617</guid>
+            <pubDate>Sun, 07 May 2023 15:46:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国财长耶伦：除了提高债务上限，别无选择】美国财政部长耶伦表示，除了国会提高债务上限外，解决华盛顿债务上限僵局"根本没有好的选择"，并警告称诉诸第14修正案将引发宪法危机。如果无法延长债务上限，这将是美国历史上第一次出现我们无法支付到期债务的情况。美国可能早在6月1日就会违约。如果国会不采取行动，美国可能会看到金融市场出现混乱。债务上限谈判不应该以“威胁美国人民”的方式进行。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-07/detail-imysysep8864349.d.html</link>
+            <guid>3099602</guid>
+            <pubDate>Sun, 07 May 2023 15:29:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【周日重要新闻汇总】
 国内新闻：
@@ -301,24 +325,6 @@
             <title><![CDATA[【平安证券：A股市场仍有业绩估值共同向上的空间】平安证券5月7日研报认为，展望后续，一季度A股盈利底部基本是共识，后续在经济持续修复预期下，A股市场仍有业绩估值共同向上的空间，但波动也较大。结构上，全年TMT和“中特估”的投资主线不变，短期关注高景气延续且政策支持加码的先进制造以及TMT领域中的相关细分板块。]]></title>
             <guid>3099441</guid>
             <pubDate>Sun, 07 May 2023 11:32:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中闽能源：永泰抽水蓄能电站四台机组已全部投产发电】中闽能源近期接受投资者调研时称，永泰抽水蓄能电站装机规模120万千瓦，截至目前四台机组已全部投产发电。抽水蓄能电站按照与福建省电网公司签订的电网调度协议运行。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-07/detail-imysyfqq2364026.d.html</link>
-            <guid>3099428</guid>
-            <pubDate>Sun, 07 May 2023 11:22:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿拉伯国家联盟同意叙利亚重返阿盟】阿拉伯国家联盟（阿盟）当天在埃及首都开罗举行外长级紧急会议，讨论苏丹危机及叙利亚重返阿盟问题，会上同意叙利亚重返阿盟。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-07/detail-imysyfqq2363336.d.html</link>
-            <guid>3099425</guid>
-            <pubDate>Sun, 07 May 2023 11:21:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【土外长：美国建议土耳其向乌克兰提供S-400防空导弹系统 但遭土方拒绝】土耳其外交部长查武什奥卢表示，美国建议土耳其向乌克兰提供S-400防空导弹系统，但遭到安卡拉拒绝。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-07/detail-imysyfqt8982239.d.html</link>
-            <guid>3099422</guid>
-            <pubDate>Sun, 07 May 2023 11:17:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
