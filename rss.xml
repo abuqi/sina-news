@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 07 May 2023 17:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2023 18:19:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【一边催生一边刺激楼市 10城现金补贴多孩家庭购房】日前，一线城市上海给“多子女家庭”发放了一项重大福利——凡是符合规定条件的家庭购买首套住房，最高公积金贷款限额可上浮20%，如果缴交补充住房公积金，最高贷款限额可增加24万元。实际上，早在上海之前，多地已宣布以真金白银的方式补贴多孩家庭购房，其中浙江绍兴市上虞区最“土豪”，对符合条件的三孩购房家庭补贴30万元，按照当地房价，相当于政府给三孩家庭赠送了18平方米住房。江苏扬州则对多孩家庭最高补贴16万元购房款，相当于补贴11平方米的住房面积。据不完全统计，目前至少有10城（含下属区县）出台类似政策来达到鼓励生育并刺激购房需求的目的，其中大部分城市的购房补贴在1万元至5万元的区间内。（第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-08/detail-imysywnm8811263.d.html</link>
+            <guid>3099706</guid>
+            <pubDate>Sun, 07 May 2023 17:42:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【力推电车下乡充电设施先行 充电桩市场规模或超千亿】新能源汽车行业再次迎来政策利好。5月5日召开的国务院常务会议部署加快建设充电基础设施，更好支持新能源汽车下乡和乡村振兴。会议指出，农村新能源汽车市场空间广阔，加快推进充电基础设施建设，不仅有利于促进新能源汽车购买使用、释放农村消费潜力，而且有利于发展乡村旅游等新业态，为乡村振兴增添新动力。针对制约新能源汽车下乡的突出瓶颈，国常会强调，适度超前建设充电基础设施，创新充电基础设施建设、运营、维护模式，确保“有人建、有人管、能持续”。机构分析，新能源汽车在农村地区渗透率低，新能源汽车下乡激发的市场空间巨大，充电桩的需求也可能会爆发式增长。预计2025年全国新增充电桩需求量或超过700万根，对应充电桩市场空间有望超1600亿元。（第一财经）]]></title>
             <link>https://finance.sina.cn/7x24/2023-05-08/detail-imysysek2302981.d.html</link>
@@ -320,12 +326,6 @@
             <link>https://finance.sina.cn/7x24/2023-05-07/detail-imysyfqq2377695.d.html</link>
             <guid>3099455</guid>
             <pubDate>Sun, 07 May 2023 11:47:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华安证券：预计市场仍将维持震荡格局不变】华安证券指出，五一节后两个交易日结构性行情延续节前惯性，极致演绎，“中特估”相关金融股涨幅扩大、传媒继续大涨，同时TMT延续分化调整、新能源持续探底。展望后市，内部经济复苏斜率有所放缓，但长端利率新一轮下行背景下流动性宽裕偏积极，同时外部非农超预期带来美国经济短期衰退担忧减弱，又不会导致市场加息预期产生质变，因此整体环境下，预计仍将维持震荡格局不变，优选结构性投资机会为主。配置上建议关注两条主线及中特估主题。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-07/detail-imysyfqq2377482.d.html</link>
-            <guid>3099450</guid>
-            <pubDate>Sun, 07 May 2023 11:47:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
