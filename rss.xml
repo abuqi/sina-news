@@ -4,298 +4,290 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Thu, 18 May 2023 09:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 10:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[日本首相岸田文雄：美光科技在广岛的计划是芯片合作的典范，日本政府会支持美光的计划。]]></title>
-            <guid>3113310</guid>
-            <pubDate>Thu, 18 May 2023 09:15:42 GMT</pubDate>
+            <title><![CDATA[  宝兰德：股东张东晖拟减持不超过168万股，即不超过公司总股本的3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpy5076428.d.html</link>
+            <guid>3113379</guid>
+            <pubDate>Thu, 18 May 2023 10:16:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【丰田与合作伙伴将于2024年3月开始销售电动微型货车】周四丰田汽车(TM.N)和两家联盟汽车制造商推出一款针对日本快递业的微型电动货车。公司在一份联合声明中表示，这款小型电动商用货车将使用电池电动系统，丰田正与微型汽车专业公司大发和铃木汽车公司共同开发该系统。这款车型预计每次充电的续航里程约为200公里(124英里)，将在截至2024年3月31日的本财政年度末发布。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpy5044616.d.html</link>
-            <guid>3113309</guid>
-            <pubDate>Thu, 18 May 2023 09:15:32 GMT</pubDate>
+            <title><![CDATA[英国央行行长贝利：量化紧缩政策有助于使得担保和回购市场的利差恢复正常。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpv2262772.d.html</link>
+            <guid>3113378</guid>
+            <pubDate>Thu, 18 May 2023 10:16:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【六氟磷酸锂价格持续攀升 较上周上涨超45%】本周六氟磷酸锂市场活跃度增强。截至到本周四，六氟磷酸锂市场均价升至148000元/吨，较上周同期均价上涨46000元/吨，涨幅45.10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpw8267230.d.html</link>
-            <guid>3113308</guid>
-            <pubDate>Thu, 18 May 2023 09:15:15 GMT</pubDate>
+            <title><![CDATA[  【友邦保险：斥资约1.32亿港元回购165.84万股】友邦保险(01299.HK)发布公告，当日斥资约1.32亿港元回购165.84万股，回购价为每股78.7港元至80.85港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpv2262500.d.html</link>
+            <guid>3113377</guid>
+            <pubDate>Thu, 18 May 2023 10:14:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【华海诚科：公司存储类芯片相关EMG-700系列产品可用于BGA并已实现批量销售】华海诚科在互动平台上称，存储类芯片多采用BGA类封装形式，公司的相关产品EMG-700系列可以用于BGA并已经实现批量销售。目前全球的AI算力主要以GPU芯片为主。公司有产品可以应用于GPU的芯片封装。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpv2234694.d.html</link>
-            <guid>3113307</guid>
-            <pubDate>Thu, 18 May 2023 09:15:08 GMT</pubDate>
+            <title><![CDATA[【松下计划到2030年在北美新建两家或更多的电池厂】日本松下公司周四表示，该公司计划到2030年通过在北美新建两家或更多工厂来提高4680电池的产能，以满足不断增长的电动汽车市场需求。松下为特斯拉的电池供应商之一，据其网站上一份报告显示，该公司计划到2031年3月将其汽车电池产能提高到每年200千兆瓦时，约为3月底水平的四倍。松下集团CEO表示，公司尚未决定在北美的哪个地区增加产能，可能是内华达州，可能是堪萨斯州，也可能是其他地方。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexqc1834246.d.html</link>
+            <guid>3113376</guid>
+            <pubDate>Thu, 18 May 2023 10:14:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【2022年国内智能手机出货量达2.64亿部，其中2.6亿部手机支持北斗功能】5月18日，中国卫星导航定位协会在京发布《2023中国卫星导航与位置服务产业发展白皮书》，白皮书显示，2022年国内智能手机出货量达2.64亿部，其中2.6亿部手机支持北斗功能，占比约98.5％。2022年，我国卫星导航与位置服务产业总体产值达到5007亿元，较2021年增长6.76％。其中，由卫星导航应用和服务所衍生带动形成的关联产值同比增长7.54％，达3480亿元。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpy5043346.d.html</link>
-            <guid>3113306</guid>
-            <pubDate>Thu, 18 May 2023 09:13:35 GMT</pubDate>
+            <title><![CDATA[【LG化学：2030年电池材料销售额将增长六倍】据界面新闻，5月18日，据LG化学消息，近日，LG化学CEO辛学喆表示，计划将电池材料销售额从2022年的4.7万亿韩元，提升至2030年的30万亿韩元，增幅将达六倍。与此同时，LG化学电池材料、环保材料、创新新药的销售比重也将从2022年的21%（6.6万亿韩元）提升至2030年的57%（40万亿韩元）。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexqc1834200.d.html</link>
+            <guid>3113375</guid>
+            <pubDate>Thu, 18 May 2023 10:14:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【中国电子董事长曾毅：算力底座是下一阶段最需要解决的一个重大问题】第七届世界智能大会18日在天津开幕，中国电子董事长曾毅在演讲中表示，人工智能不管是以ChatGPT为代表的也好，还是若干其他方案也好，离不开三个东西（算力、算法、模型）。“我的观点是算法的问题应该会得到比较妥善的解决；模型的问题有难度，从全球资源来看，英文为主体的数据资源仍然占80%、90%以上，但我们也能解决。现在我觉得最卡脖子、最难受的是算力底座的问题，算力底座可能是我们下一阶段最需要解决的一个重大问题。”曾毅表示。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpy5042909.d.html</link>
-            <guid>3113305</guid>
-            <pubDate>Thu, 18 May 2023 09:13:04 GMT</pubDate>
+            <title><![CDATA[贝壳首席执行官彭永东：很高兴看见中国房地产市场随着宏观经济情况改善而出现明显反弹。在第一季度市场复苏期间，我们的存量房及新房业务的总交易额增幅大幅跑赢市场。]]></title>
+            <guid>3113374</guid>
+            <pubDate>Thu, 18 May 2023 10:11:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【国瓷材料：全资孙公司拟1350万欧元受让德国DEKEMA74.9%股权】国瓷材料公告，全资孙公司国瓷新加坡拟以自有或自筹资金1350.42万欧元（约合1.02亿元人民币）对德国DEKEMA进行投资。5月16日全资孙公司国瓷新加坡与目标公司的母公司DEBROS签署了一系列协议。根据相关协议约定，国瓷新加坡将受让DEBROS持有的目标公司74.9%股权。DEKEMA产品主要涵盖牙科陶瓷烧结炉、烤铸一体炉、烤瓷炉等牙科烧结设备以及牙科3D打印机等。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpw8265557.d.html</link>
-            <guid>3113304</guid>
-            <pubDate>Thu, 18 May 2023 09:12:49 GMT</pubDate>
+            <title><![CDATA[  【慧聪集团：北京兆信已通过北京监管局的辅导验收】慧聪集团(02280.HK)在港交所发布有关建议北京兆信于北京证券交易所上市的最新消息。北京兆信于当日收到北京监管局的函件，北京兆信已通过北京监管局的辅导验收。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpv2260243.d.html</link>
+            <guid>3113373</guid>
+            <pubDate>Thu, 18 May 2023 10:09:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【梅德韦杰夫：若基辅被北约接纳并想收回土地 俄罗斯将不得不坚决回应】俄安全会议副主席梅德韦杰夫认为，如果乌克兰被接纳加入北约，基辅政权不会放弃收回土地的企图，而俄罗斯将不得不以一切可能的手段坚决予以回应。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpw8264415.d.html</link>
-            <guid>3113303</guid>
-            <pubDate>Thu, 18 May 2023 09:11:17 GMT</pubDate>
+            <title><![CDATA[【三全食品：4月新品、次新品市场反馈良好，餐饮市场快速增长趋势明显】三全食品近日在投资者接待日活动中表示，四月份公司整体销售情况正常。新品、次新品市场反馈良好；零售市场继续稳步增长，餐饮市场快速增长趋势明显。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpw8295465.d.html</link>
+            <guid>3113372</guid>
+            <pubDate>Thu, 18 May 2023 10:08:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本首相岸田文雄：我们会展现七国集团维护国际法治的决心。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpy5041414.d.html</link>
-            <guid>3113302</guid>
-            <pubDate>Thu, 18 May 2023 09:11:04 GMT</pubDate>
+            <title><![CDATA[国际能源论坛（IEF）：全球石油需求在3月份达到了创纪录的水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpw8295411.d.html</link>
+            <guid>3113371</guid>
+            <pubDate>Thu, 18 May 2023 10:08:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【国家发改委与吉尔吉斯斯坦总统下属国家投资署签署关于共同推动产业与投资合作的谅解备忘录】为积极推进中吉产业与投资合作，5月18日，国家发展改革委主任郑栅洁与吉尔吉斯斯坦总统下属国家投资署署长捷米拉利耶夫签署了《中华人民共和国国家发展和改革委员会与吉尔吉斯斯坦总统下属国家投资署关于共同推动产业与投资合作的谅解备忘录》。下一步，双方将充分发挥机制作用，共同推动重点领域务实合作项目。]]></title>
-            <guid>3113301</guid>
-            <pubDate>Thu, 18 May 2023 09:10:09 GMT</pubDate>
+            <title><![CDATA[贝壳：截至2023年3月31日，代理商数量为435,780家，比一年前增长了2.0%。截至2023年3月31日，活跃代理商数量为411,526，比一年前增加了7.8%。]]></title>
+            <guid>3113370</guid>
+            <pubDate>Thu, 18 May 2023 10:08:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【润和软件：公司AI业务布局进展顺利 目前已基于1+6+N的AI战略推出了4款行业应用内测产品】润和软件在互动平台表示，公司AI业务布局进展顺利，目前已基于1+6+N的AI战略，推出了4款行业应用内测产品，分别面向电力、金融测试、医疗、智能制造等行业领域。有关AI白皮书的相关情况请您关注公司后续的官方信息。]]></title>
-            <guid>3113300</guid>
-            <pubDate>Thu, 18 May 2023 09:09:51 GMT</pubDate>
+            <title><![CDATA[贝壳：截至2023年3月31日，门店数量为41275家，比一年前减少9.8%。截至2023年3月31日，活跃门店的数量为39,622家，比一年前减少了7.8%。]]></title>
+            <guid>3113369</guid>
+            <pubDate>Thu, 18 May 2023 10:08:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[克里姆林宫：冻结芬兰驻俄外交机构银行账户的决定是对西方不友好行为的回应。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpy5040231.d.html</link>
-            <guid>3113299</guid>
-            <pubDate>Thu, 18 May 2023 09:09:40 GMT</pubDate>
+            <title><![CDATA[国际能源论坛（IEF）援引联合石油数据库JODI数据显示，3月沙特原油库存减少了450万桶，产品库存增加了470万桶。]]></title>
+            <guid>3113368</guid>
+            <pubDate>Thu, 18 May 2023 10:07:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[克里姆林宫：莫斯科准备听取任何有助于解决冲突的建议。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexqc1803470.d.html</link>
-            <guid>3113298</guid>
-            <pubDate>Thu, 18 May 2023 09:09:32 GMT</pubDate>
+            <title><![CDATA[贝壳：第一季度交易总额为9715亿元，同比增长65.8%。现房交易总额为6643亿元，同比增长77.6%。新房交易总额为2779亿元，同比增长44.2%。]]></title>
+            <guid>3113367</guid>
+            <pubDate>Thu, 18 May 2023 10:07:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国总统拜登：致力于加强日美企业之间的合作伙伴关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpy5040027.d.html</link>
-            <guid>3113297</guid>
-            <pubDate>Thu, 18 May 2023 09:09:26 GMT</pubDate>
+            <title><![CDATA[【周鸿祎：预计未来每个城市、每个政府部门都会有自己的专有大模型】据国是直通车，18日，第七届世界智能大会在天津开幕，360集团创始人周鸿祎在大会上表示，预计未来中国不会只有一个大模型，每个城市、每个政府部门都会有自己的专有大模型。城市、政府专有大模型不仅能为领导和政府决策提供支持，还能成为办公人员强大的助手。当大模型和政府的业务系统融合，还会变成政府各个业务板块的“副驾驶”，甚至成为智慧政府、智慧城市的总调度室。未来数字化的高峰一定是大模型推动下的智能化，人工智能的指数级跃变将带来巨大发展机遇。GPT是通用人工智能，在很多维度上已经超越了人类，其最大的意义是人类第一次把所有知识进行了重新编码和存储，代表着超级人工智能时代的到来，将对人类社会的发展产生深远影响。在当天的演讲中，周鸿祎还展示了两款大模型产品“360智脑”以及AI生图工具“360鸿图”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpw8294732.d.html</link>
+            <guid>3113366</guid>
+            <pubDate>Thu, 18 May 2023 10:07:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[克里姆林宫：非洲代表团将访问莫斯科。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpy5039959.d.html</link>
-            <guid>3113296</guid>
-            <pubDate>Thu, 18 May 2023 09:09:21 GMT</pubDate>
+            <title><![CDATA[  【美登科技：已对接微软Azure云开通OpenAI商用账号权限 探索和融合更多细分领域AI技术】美登科技接受机构调研时表示，公司目前已经对接微软Azure云开通了OpenAI商用账号权限，希望通过相关的研发，探索和融合更多细分领域AI技术。]]></title>
+            <guid>3113365</guid>
+            <pubDate>Thu, 18 May 2023 10:06:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[克里姆林宫证实非洲国家提出的乌克兰和平倡议。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpv2231574.d.html</link>
-            <guid>3113295</guid>
-            <pubDate>Thu, 18 May 2023 09:09:15 GMT</pubDate>
+            <title><![CDATA[国际能源论坛（IEF）援引联合石油数据库JODI数据显示，沙特3月原油产量增加1.4万桶/日，达到1046万桶/日。]]></title>
+            <guid>3113363</guid>
+            <pubDate>Thu, 18 May 2023 10:05:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【润和软件：公司AI中枢平台及相关产品落地正在有序推进中】润和软件在互动平台上称，公司AI中枢平台及相关产品的落地正在有序推进中。大模型推出插件的目的主要在于利用第三方专业领域插件解决生成式AI回答中缺乏相关专业背景信息的问题，这些插件可以提供更具体的背景信息，以帮助用户更好地理解AI生成的回答。公司的AI中枢平台将通过Prompt工程的方式对接多个商用大模型，配合可插拔的具有行业特性的小模型，在动态领域模型切换功能的支持下，利用公司在行业中的专业经验，快速形成智能化商业解决方案。同时，公司AI中枢平台是服务于企业用户的私有部署平台，可以解决企业保护自身数据安全的需求。因此，商用大模型推出插件将有利于促进公司AI中枢平台技术能力的进一步提升。]]></title>
-            <guid>3113294</guid>
-            <pubDate>Thu, 18 May 2023 09:08:56 GMT</pubDate>
+            <title><![CDATA[国际能源论坛（IEF）援引联合石油数据库JODI数据显示，沙特3月原油出口量增加6.8万桶/日，至752万桶/日。]]></title>
+            <guid>3113362</guid>
+            <pubDate>Thu, 18 May 2023 10:04:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[克里姆林宫：粮食协议的命运取决于联合国需要与哪些国家就粮食协议的俄罗斯部分达成一致。]]></title>
-            <guid>3113293</guid>
-            <pubDate>Thu, 18 May 2023 09:08:17 GMT</pubDate>
+            <title><![CDATA[  【波兰总统办公室：欧盟担心乌克兰“冲突停滞”】波兰总统办公室国际政策局局长马尔钦•普日达奇在波兰ZET电台的节目中表示，波兰和整个欧盟都担心乌克兰的“冲突停滞”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpv2259253.d.html</link>
+            <guid>3113361</guid>
+            <pubDate>Thu, 18 May 2023 10:04:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[克里姆林宫：有一定的希望，正在制定不同的方案来放松对俄罗斯农业银行的限制。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpy5039220.d.html</link>
-            <guid>3113292</guid>
-            <pubDate>Thu, 18 May 2023 09:08:09 GMT</pubDate>
+            <title><![CDATA[【中央气象台5月18日18时继续发布大雾黄色预警】18日夜间至19日上午，渤海中部海域、渤海海峡、辽东半岛沿岸海域将有能见度不足1公里的大雾，18日夜间至19日白天，黄海北部和中部海域、山东半岛东部沿岸海域将有能见度不足1公里的大雾，另外，18日夜间至19日上午，辽宁东部、山东东部、江苏中北部、浙江中部和南部、江西中部、福建中部、贵州中东部等地的部分地区有大雾，局地有能见度不足200米的强浓雾。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpy5070324.d.html</link>
+            <guid>3113360</guid>
+            <pubDate>Thu, 18 May 2023 10:03:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国总统拜登：我们致力于核不扩散的工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexqc1802796.d.html</link>
-            <guid>3113291</guid>
-            <pubDate>Thu, 18 May 2023 09:07:30 GMT</pubDate>
+            <title><![CDATA[  贝壳一季度营收203亿元，同比增加61.6%；一季度NON-GAAP净利润35.6亿元。]]></title>
+            <guid>3113359</guid>
+            <pubDate>Thu, 18 May 2023 10:03:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[克里姆林宫：粮食协议谈判取得了“合格的结果”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpy5038322.d.html</link>
-            <guid>3113290</guid>
-            <pubDate>Thu, 18 May 2023 09:06:32 GMT</pubDate>
+            <title><![CDATA[巴基斯坦KSE-100指数下跌1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpy5068696.d.html</link>
+            <guid>3113358</guid>
+            <pubDate>Thu, 18 May 2023 10:00:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[克里姆林宫确认将黑海谷物协议延长两个月。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexqc1802330.d.html</link>
-            <guid>3113289</guid>
-            <pubDate>Thu, 18 May 2023 09:06:14 GMT</pubDate>
+            <title><![CDATA[广发基金：截至5月18日，广发央企红利50(515453)ETF累计有效认购申请总额已超过本次募集上限20亿元人民币，基金管理人将对有效认购申请采用“全程比例确认”的原则予以部分确认。]]></title>
+            <guid>3113357</guid>
+            <pubDate>Thu, 18 May 2023 10:00:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【联想集团杨元庆：天津工厂将于2023年10月全部交付使用】第七届世界智能大会在天津开幕。联想集团董事长兼CEO杨元庆透露，2022年联想集团在天津营业额近230亿元，同比增长17%。按照计划，联想（天津）智慧创新服务产业园将于2023年10月全部交付使用，园区定位为联想集团北方、乃至东北亚唯一的笔记本、台式机、服务器和工作站等的生产制造、研发基地，智能制造灯塔工厂及展示中心，ICT行业“零碳工厂”标杆样板；预计2024年实现年产量300万台。（每经）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpy5038042.d.html</link>
-            <guid>3113288</guid>
-            <pubDate>Thu, 18 May 2023 09:06:04 GMT</pubDate>
+            <title><![CDATA[英国央行副行长布罗德班特：量化宽松对通胀的贡献微乎其微。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpv2257003.d.html</link>
+            <guid>3113356</guid>
+            <pubDate>Thu, 18 May 2023 09:58:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本首相岸田文雄：欢迎美日合作取得重大进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpy5037801.d.html</link>
-            <guid>3113287</guid>
-            <pubDate>Thu, 18 May 2023 09:05:39 GMT</pubDate>
+            <title><![CDATA[  【东方铁塔：老挝开元溴化钠项目预计可于6月份启动运营】东方铁塔在互动平台表示，老挝开元溴化钠项目预计可于6月份启动运营，该项目主要目标是溴元素的开发利用。]]></title>
+            <guid>3113355</guid>
+            <pubDate>Thu, 18 May 2023 09:57:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【余伟文：本次计划为将来可能推出数码港元作好准备】金管局总裁余伟文表示：虽然金管局未决定会否或何时推出数码港元，但我们很高兴能启动数码港元先导计划。这是金管局与业界联手探索创新用例的良机，也为将来可能推出数码港元作好准备。我们感谢业界积极参与试验，并期待试验成果。我们亦乐见多位学术界专家参与CBDC研究。透过促成政府、业界及学术界合作，我们希望研究和发展工作能与时俱进，并能将其所得转化成切实的商机。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexqc1802056.d.html</link>
-            <guid>3113286</guid>
-            <pubDate>Thu, 18 May 2023 09:05:29 GMT</pubDate>
+            <title><![CDATA[  富途控股美股盘前跌超2.3%，摩根士丹利下调其评级至“减持”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpy5067457.d.html</link>
+            <guid>3113354</guid>
+            <pubDate>Thu, 18 May 2023 09:57:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：美国总统拜登与日本首相岸田文雄在广岛举行的七国集团峰会上会面。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpw8260320.d.html</link>
-            <guid>3113285</guid>
-            <pubDate>Thu, 18 May 2023 09:05:12 GMT</pubDate>
+            <title><![CDATA[【欧菲光：光学镜头、影像模组、光机模组和整机组装等环节目前已有部分产品实现量产】欧菲光近期接受投资者调研时表示，公司凭借优势的光学技术和生产制造自动化能力，布局智能门锁、VR/AR、机器视觉、运动相机、工业及医疗相关产品等领域的光学镜头、影像模组、光机模组和整机组装等环节，目前已有部分产品实现量产。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpv2256751.d.html</link>
+            <guid>3113353</guid>
+            <pubDate>Thu, 18 May 2023 09:57:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【苏州科达：很早就开始在人工智能领域研发投入 AI已成为公司产品和解决方案竞争力重要组成部分】苏州科达在业绩说明会上表示，公司很早就开始了在人工智能领域的研发投入，从2014年推出第一代感知型摄像机到2017年正式提出AI战略，公司持续探索人工智能相关技术，主要将其应用于对音视频数据的采集、分析、提取和应用等方面，并取得了一定的成果，AI已成为公司产品和解决方案竞争力的重要组成部分。以GPT为代表的大模型时代的来临和语音、文字、图像与视频等多模态AI技术快速崛起，将带来更广泛的数据形态、更丰富的应用场景和更深入的应用体验。在音视频数据训练、小样本行为识别、垂直行业知识应用等领域，大模型和多模态将进一步拓宽人工智能技术的应用广度和深度，各细分行业的不同场景也将涌现出越来越多的AIGC类应用。公司认为，人工智能技术作为驱动数据经济的技术底层，有望迎来新的发展机遇，在数字时代赋能生产力与创造力进一步解放和革新。]]></title>
-            <guid>3113284</guid>
-            <pubDate>Thu, 18 May 2023 09:05:03 GMT</pubDate>
+            <title><![CDATA[英国央行副行长拉姆斯登：在2021年的早些时候结束量化宽松政策可能会使通胀降低0.2-0.3个百分点。]]></title>
+            <guid>3113352</guid>
+            <pubDate>Thu, 18 May 2023 09:56:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【香港金管局：数码港元先导计划启动】香港金融管理局（金管局）今日（5月18日）宣布启动数码港元先导计划。16间来自金融、支付和科技界的入选公司将于今年内进行首轮试验，深入研究数码港元在六个范畴的潜在用例，包括全面支付、可编程支付、离线支付、代币化存款、第三代互联网（Web3）交易结算和代币化资产结算。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpv2229819.d.html</link>
-            <guid>3113283</guid>
-            <pubDate>Thu, 18 May 2023 09:04:03 GMT</pubDate>
+            <title><![CDATA[【恒拓开源：AI在行业应用是大势所趋，专门团队在研究落地场景】恒拓开源近日在业绩说明会上表示，AI的应用在行业的应用是大势所趋，很多企业，譬如百度、阿里等都推出自己的通用大模型，公司也在积极关注和跟踪研究，在探索能否基于公司的行业KnowＨow和数据积累，打造基于行业的垂直大模型。公司安排专门团队在研究行业应用的落地场景。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpv2255459.d.html</link>
+            <guid>3113351</guid>
+            <pubDate>Thu, 18 May 2023 09:54:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【欧股反弹，机构对欧股前景看法存分歧】因投资者对美国债务上限谈判取得突破持乐观态度，继周三美国股市上涨后，欧洲股市在连续两天下跌后反弹。德国DAX指数表现强势，距离历史高点不到1%。道富环球宏观策略主管Michael Metcalfe表示：“美国地区银行股的反弹，加上拜登对达成预算协议重燃信心，抑制了股市当前面临的两大阻力。滞胀和盈利风险依然存在，但就目前而言，尾部风险降低是个好消息。”Sanford C. Bernstein策略师Sarah McCarthy称，在经济增长放缓和通胀温和上升的背景下，预计今年剩余时间将暂停加息。该行增持欧洲股票，因欧洲企业获利预估上调，这应会为市场提供支撑。不过，花旗集团的Beata Manthey等策略师表示，最近对欧洲企业收益的上调是不可持续的，信贷环境收紧和美国经济预期衰退将继续给企业利润带来压力。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpv2229750.d.html</link>
-            <guid>3113282</guid>
-            <pubDate>Thu, 18 May 2023 09:03:52 GMT</pubDate>
+            <title><![CDATA[  【盛天网络：AI创新实验室正在攻关和测试阶段 预计年底将有AI应用成果公布】盛天网络正在游戏及社交场景尝试应用AI技术，包括智能NPC、AI语音陪伴、AI自制音乐等。盛天网络董事长兼CEO赖春临透露，公司AI创新实验室正在攻关和测试阶段，预计到年底会有AI相关应用成果公布。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpv2252457.d.html</link>
+            <guid>3113350</guid>
+            <pubDate>Thu, 18 May 2023 09:52:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【去哪儿：“520”酒店提前预订量超2019年4倍，95后消费力提升1倍】去哪儿大数据显示，截至5月17日，今年“520”酒店提前预订量同比2019年增长4倍，已达到2019年“520”酒店预订量同期水平。在“520”订单中，“95后”预订酒店平均支付价格最高，达430元。与2019年相比，“95后”酒店消费力同比增长1倍，“00后”酒店消费力同比增长五成。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexqc1801195.d.html</link>
-            <guid>3113281</guid>
-            <pubDate>Thu, 18 May 2023 09:03:29 GMT</pubDate>
+            <title><![CDATA[【投资100亿，宝马第六代动力电池项目在沈阳动工】宝马集团在5月18日宣布，将于2026年起在沈阳投产纯电动BMW新世代车型，并在当天举办了宝马第六代动力电池项目奠基仪式。第六代动力电池项目匹配的是宝马新世代车型，总投资100亿元人民币，规划面积24万平方米，是现有动力电池项目生产面积的5倍。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpv2250840.d.html</link>
+            <guid>3113349</guid>
+            <pubDate>Thu, 18 May 2023 09:50:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【4月啤酒产量同比增长超20%】从国家统计局官方网站获悉，今年前4月，啤酒产量快速增长，白酒、葡萄酒产量收缩。其中，4月啤酒产量同比增幅超20%，白酒、葡萄酒产量则出现两位数下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexqc1800221.d.html</link>
-            <guid>3113280</guid>
-            <pubDate>Thu, 18 May 2023 09:02:29 GMT</pubDate>
+            <title><![CDATA[  【永创智能：拟定增募资不超过3亿元】永创智能公告，拟定增募资不超过3亿元，用于广东轻工机械二厂智能设备有限公司年产6万吨包装设备配套材料生产项目。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpw8286273.d.html</link>
+            <guid>3113348</guid>
+            <pubDate>Thu, 18 May 2023 09:49:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【惠誉：预计今年中国新能源汽车增长将超过30%】惠誉评级亚太区企业研究董事杨菁表示，今年首季中国汽车市场从低迷中复苏，第二季销量回暖。该行预期，新能源汽车仍为市场主要增长驱动力，全年增速料将超过30%，现阶段智能车趋于同质化竞争，高阶自动辅助驾驶为下一阶段突围重点，中国新能源汽车产业链具有竞争优势。在“油电同价”提前实现政策，惠誉预期主流合资燃油车面临空前压力，短期内插电混动及增程混动为新能源车渗透率上升主要推动力，而新一轮汽车下乡政策及电池新材料，或将推动小微车型销售重拾增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpv2228145.d.html</link>
-            <guid>3113279</guid>
-            <pubDate>Thu, 18 May 2023 09:02:13 GMT</pubDate>
+            <title><![CDATA[俄罗斯农业部长：俄罗斯将在新季节前调整粮食出口关税。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpv2247932.d.html</link>
+            <guid>3113347</guid>
+            <pubDate>Thu, 18 May 2023 09:46:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[惠誉：信贷状况正在逐渐恢复，越南银行业的长期前景仍然积极。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpy5035734.d.html</link>
-            <guid>3113278</guid>
-            <pubDate>Thu, 18 May 2023 09:01:53 GMT</pubDate>
+            <title><![CDATA[  【意华股份：公司光模块产品市占率较小 美国工厂初步预计6月份可以开始正常生产】意华股份接受机构调研时表示，美国本土的光伏补贴政策会影响美国本土光伏项目的建设需求，若补贴政策能持续实施，预计会给公司业绩带来正面影响。公司美国基地生产的光伏支架产品主要为给美国客户代工。美国工厂现正处于设备安装调试阶段，初步预计6月份可以开始正常生产。美国工厂原材料需采购自美国本土。公司光模块产品市占率较小。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexqc1819703.d.html</link>
+            <guid>3113346</guid>
+            <pubDate>Thu, 18 May 2023 09:46:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[惠誉：越南银行业流动性危机得到缓解。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpw8258489.d.html</link>
-            <guid>3113277</guid>
-            <pubDate>Thu, 18 May 2023 09:01:47 GMT</pubDate>
+            <title><![CDATA[【智利国家锂业公司法案将于下半年提交国会，推进新提锂技术】当地时间5月17日，智利矿业部长马赛拉·赫尔南多表示，创建新的国家锂业公司的法案将在今年下半年提交给国会。智利铜业委员会将评估和管理国家锂业公司的投资。智利矿业部发布的公告称，新组建的委员会将在智利矿业部、经济部、外交部、财政部、环境部、科技部和生产促进局派员组建的“战略理事会”领导下，协同地方政府机构共同管理该国锂矿开发与相关合作项目。（澎湃新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexqc1819443.d.html</link>
+            <guid>3113345</guid>
+            <pubDate>Thu, 18 May 2023 09:45:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【2022年国内智能手机出货量达2.64亿部 其中2.6亿部手机支持北斗功能】5月18日，中国卫星导航定位协会在京发布《2023中国卫星导航与位置服务产业发展白皮书》。白皮书显示，2022年北斗系统进一步融入百姓的日常生活，形成了更多应用场景，有力拓展了北斗大众市场的应用规模。2022年国内智能手机出货量达2.64亿部，其中2.6亿部手机支持北斗功能，占比约98.5%。白皮书还显示，2022年，我国卫星导航与位置服务产业总体产值达到5007亿元，较2021年增长6.76%。其中，由卫星导航应用和服务所衍生带动形成的关联产值同比增长7.54%，达3480亿元。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpv2226523.d.html</link>
-            <guid>3113276</guid>
-            <pubDate>Thu, 18 May 2023 08:57:23 GMT</pubDate>
+            <title><![CDATA[俄罗斯农业部长：2023/2024年度谷物出口预计在5000-5500万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpv2247442.d.html</link>
+            <guid>3113344</guid>
+            <pubDate>Thu, 18 May 2023 09:44:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国瓷材料：全资孙公司对外投资购买境外股权】国瓷材料公告，全资孙公司 SINOCERA (SINGAPORE) PTE.LTD.（简称“国瓷新加坡”）拟以自有或自筹资金1350.4217 万欧元（约合10,210 万 元 人 民 币 ） 对 德 国 DEKEMA Dental-Keramik fen GmbH （ 简 称“DEKEMA”）进行投资。2023 年 5 月 16 日（北京时间），国瓷新加坡与目标公司的母公司 DEBROS GmbH（简称“DEBROS”）签署了一系列协议。根据相关协议约定，国瓷新加坡将受让 DEBROS 持有的目标公司 74.9%股权。本次股权转让完成后，国瓷新加坡将持有目标公司 74.9%的股权。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpw8255363.d.html</link>
-            <guid>3113275</guid>
-            <pubDate>Thu, 18 May 2023 08:56:34 GMT</pubDate>
+            <title><![CDATA[  【美国一州宣布全面封杀TikTok：违者每天罚7万】据多家美国媒体报道，美国的蒙大拿州政府于北京时间今天凌晨宣布，该州将全面封杀由中国科技公司“字节跳动”开发的热门短视频社交平台TikTok，违反者会被重罚。这也令蒙大拿州成为了全美第一个全面封杀TikTok的州。违者不仅将被按照违反该法律的【次数】，以每次1万美元的金额进行处罚，还将被按照违规的【天数】，处以每天1万美元的处罚——换算成人民币约为7万元。 (环球时报)]]></title>
+            <guid>3113343</guid>
+            <pubDate>Thu, 18 May 2023 09:44:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德国30年期国债收益率上涨6.6个基点至2.578％，为自3月9日以来的最高水平。]]></title>
-            <guid>3113274</guid>
-            <pubDate>Thu, 18 May 2023 08:56:24 GMT</pubDate>
+            <title><![CDATA[俄罗斯农业部长：2023年小麦产量预计为7800万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexqc1818820.d.html</link>
+            <guid>3113342</guid>
+            <pubDate>Thu, 18 May 2023 09:43:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【汇丰首席亚洲经济学家范力民：毋须担忧人民币对美元汇率再度破“7” 未来几个月有望回升至6.7至6.8】汇丰银行环球研究首席亚洲经济学家兼亚洲联席主管范力民（Frederick Neumann）表示，市场毋须过度担忧近期人民币对美元汇率再度破“7”。范力民认为，一方面美国债务上限等问题给全球金融市场带来的不确定性和避险情绪，令投资者更倾向于持有美元，推动美元走强。另一方面，中国4月份的经济数据显示复苏基础仍待巩固。他认为，随着债务上限问题得到解决和中国经济进一步复苏，人民币对美元汇率在接下来几个月内仍将小幅升值，预计可以回到6.7至6.8区间。（财联社）]]></title>
-            <guid>3113273</guid>
-            <pubDate>Thu, 18 May 2023 08:56:16 GMT</pubDate>
+            <title><![CDATA[俄罗斯农业部长：确认粮食收成至少为1.23亿吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpv2246955.d.html</link>
+            <guid>3113341</guid>
+            <pubDate>Thu, 18 May 2023 09:43:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧元兑英镑EUR/GBP站上0.87，日内涨0.23%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexqc1797567.d.html</link>
-            <guid>3113272</guid>
-            <pubDate>Thu, 18 May 2023 08:54:43 GMT</pubDate>
+            <title><![CDATA[【艾融软件：提出信创中文大语言模型金融解决方案，目前与多家银行交流和推进中】艾融软件近日接受机构调研时表示，基于金融信创的要求和生成式大语言模型的特点，公司结合银行各种业务场景，正式提出了信创中文大语言模型金融解决方案。目前处于与多家银行的交流和推进过程中，公司对相关合作充满信心。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexqc1818684.d.html</link>
+            <guid>3113340</guid>
+            <pubDate>Thu, 18 May 2023 09:43:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【支付宝辟谣：“朋友圈出租”为骗局，请勿信】据支付宝消息，近日，支付宝开放平台接到多位用户反馈，在朋友圈等处看到号称通过 “朋友圈出租”做推广任务的赚钱活动，这些活动打着 “蚂蚁推广”或“支付宝推广”等旗号。支付宝官方辟谣：此类活动均为诈骗，请勿信。支付宝没有“蚂蚁推广”“支付宝推广”等项目，也没有“朋友圈出租”等赚钱活动。此类活动均为诈骗。]]></title>
-            <guid>3113271</guid>
-            <pubDate>Thu, 18 May 2023 08:54:35 GMT</pubDate>
+            <title><![CDATA[英国央行副行长拉姆斯登：量化紧缩可能还需要几年的时间。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexqc1818058.d.html</link>
+            <guid>3113339</guid>
+            <pubDate>Thu, 18 May 2023 09:42:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧洲地中海地震中心：多米尼加共和国发生5.0级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpv2225673.d.html</link>
-            <guid>3113270</guid>
-            <pubDate>Thu, 18 May 2023 08:54:20 GMT</pubDate>
+            <title><![CDATA[俄罗斯农业部长：93%的冬粮在正常条件下过冬。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexqc1817939.d.html</link>
+            <guid>3113338</guid>
+            <pubDate>Thu, 18 May 2023 09:42:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中粮集团与哈萨克斯坦农业部签署合作协议】据中粮集团官网消息，5月18日，中国—中亚峰会召开期间，“哈萨克斯坦—中国投资圆桌会议”在陕西西安举行。在哈萨克斯坦总统托卡耶夫的见证下，中粮集团与哈萨克斯坦农业部签署合作协议，双方将在提升中哈农产品贸易规模等方面深化合作。中粮集团董事长吕军在圆桌会议发言中表示，中粮集团将与哈方一道，持续扩大农产品贸易规模，着力推动物流运输及基础设施建设，广泛开展农业技术交流合作，提升哈萨克斯坦输华小麦品质和供应稳定性，同时持续加强小麦、大麦、油籽等农产品供应链关键环节的投资合作，坚持“走出去”“引进来”并重，扩大人员和信息交流，实现互鉴共进。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexqc1797293.d.html</link>
-            <guid>3113269</guid>
-            <pubDate>Thu, 18 May 2023 08:53:45 GMT</pubDate>
+            <title><![CDATA[  摩根士丹利上调腾讯音乐目标价至10.5美元，评级增持。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpy5058065.d.html</link>
+            <guid>3113336</guid>
+            <pubDate>Thu, 18 May 2023 09:38:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美的集团现1.05亿元平价大宗交易】美的集团今日出现1.05亿元平价大宗交易，成交价为55元/股，买卖方均为机构专用席位。]]></title>
-            <guid>3113268</guid>
-            <pubDate>Thu, 18 May 2023 08:53:41 GMT</pubDate>
+            <title><![CDATA[【杭州新增3个街道放宽住房限购：萧山区宁围街道部分区域放宽至9月30日】5月18日，澎湃新闻分别从杭州市余杭区住房和城乡建设局和萧山区不动产登记服务中心确认，余杭区的瓶窑镇、中泰街道及萧山宁围街道放松限购。余杭区住房和城乡建设局工作人员表示，外地居民社保满一个月即可购买1套住房，落户杭州不用满5年即可购买第2套。记者咨询萧山区不动产登记服务中心后获悉，沪昆铁路以东区域限购放松的政策暂定持续到9月30日。（澎湃新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpy5057713.d.html</link>
+            <guid>3113335</guid>
+            <pubDate>Thu, 18 May 2023 09:37:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【宁德时代现3.44亿元平价大宗交易】宁德时代今日出现3.44亿元平价大宗交易，成交价为232.40元/股，买卖方均为机构专用席位。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpw8253423.d.html</link>
-            <guid>3113267</guid>
-            <pubDate>Thu, 18 May 2023 08:53:31 GMT</pubDate>
+            <title><![CDATA[  【华宇软件：法律大语言模型预计下半年会陆续交付客户运行】华宇软件在互动平台表示，公司即将推出垂直法律专业领域的法律大语言模型，定位是面向行业垂直领域的场景和用户，目前处于小范围客户内测阶段，预计今年下半年会陆续交付客户运行。]]></title>
+            <guid>3113334</guid>
+            <pubDate>Thu, 18 May 2023 09:35:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[2023年5月17日，财政部副部长王东伟与法国副财长穆兰举行视频会谈，双方就第九次中法高级别经济财金对话筹备工作相关问题交换意见。（财政部）]]></title>
-            <guid>3113266</guid>
-            <pubDate>Thu, 18 May 2023 08:53:27 GMT</pubDate>
+            <title><![CDATA[俄罗斯总统普京：2022/2023年俄罗斯谷物出口预计在5500-6000万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexqc1815705.d.html</link>
+            <guid>3113333</guid>
+            <pubDate>Thu, 18 May 2023 09:35:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[瑞穗银行CEO：将通过有机和非有机方式在美国建立业务，我们不认为有必要与美国的银行合作以扩张。可能在资产管理和投行领域寻求收购。]]></title>
-            <guid>3113265</guid>
-            <pubDate>Thu, 18 May 2023 08:53:21 GMT</pubDate>
+            <title><![CDATA[俄罗斯总统普京：俄罗斯去年成功增加了食品出口。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpy5056688.d.html</link>
+            <guid>3113332</guid>
+            <pubDate>Thu, 18 May 2023 09:35:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美的集团现1.05亿元平价大宗交易】美的集团今日出现1.05亿元平价大宗交易，成交价为55元/股，买卖方均为机构专用席位。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpy5029975.d.html</link>
-            <guid>3113262</guid>
-            <pubDate>Thu, 18 May 2023 08:52:43 GMT</pubDate>
+            <title><![CDATA[市场消息：叙利亚总统阿萨德在阿拉伯联盟峰会前前往沙特阿拉伯。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpv2243851.d.html</link>
+            <guid>3113331</guid>
+            <pubDate>Thu, 18 May 2023 09:35:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【金富科技：正在广西桂林加快投建金属瓶盖生产基地，预计将于今年内投产】金富科技近日接受机构调研时表示，针对新型拉环盖的战略布局，公司正在广西桂林加快投建“金属瓶盖生产基地”，预计将于今年内投产。公司通过扩大生产规模，提升生产基地的专业化和品质化的生产配套设施，提升在该行业的市场竞争力和产能，将为公司带来更多的营业收入和利润。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpv2223988.d.html</link>
-            <guid>3113261</guid>
-            <pubDate>Thu, 18 May 2023 08:51:56 GMT</pubDate>
+            <title><![CDATA[【真视通：终止收购恒隆通信的控制权】真视通公告，终止收购恒隆通信技术有限公司的控制权。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexqc1815202.d.html</link>
+            <guid>3113330</guid>
+            <pubDate>Thu, 18 May 2023 09:34:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中远海控：控股股东增持完毕，累计以29.91亿元增持1.9%公司股份】2022年5月21日，控股股东中远海运集团通过公司披露了中远海运集团及其附属公司增持公司股份的计划，增持总金额不低于15亿元，且不超过30亿元。自本次增持计划实施起始日至2023年5月18日，中远海运集团及其全资附属公司合计增持公司3.05亿股股份，约占公司截至2023年4月30日总股本的1.9%，增持金额合计约为29.91亿元。本次增持计划实施完毕。本次增持计划实施完毕后，中远海运集团及其全资附属公司持有本公司股份共计70.09亿股，约占公司截至2023年4月30日总股本的43.55%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexqc1794414.d.html</link>
-            <guid>3113260</guid>
-            <pubDate>Thu, 18 May 2023 08:47:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【藏格矿业：4月底起对一季度库存碳酸锂产品实现对外正常销售】藏格矿业近期接待调研时表示，公司2023年1-4月份碳酸锂产量2447吨。一季度碳酸锂销售534吨，价格低位时销售量低，只维护下游老客户原材料供给。4月底、5月初，公司根据市场行情对一季度库存碳酸锂产品对外实现了正常销售。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpv2222496.d.html</link>
-            <guid>3113259</guid>
-            <pubDate>Thu, 18 May 2023 08:46:52 GMT</pubDate>
+            <title><![CDATA[  【中材国际：签订南方省水泥公司吉赞厂三号线工程总承包合同】中材国际公告，与沙特阿拉伯南方省水泥公司签订《南方省水泥公司吉赞厂三号线工程总承包合同》，合同金额为3.3亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-18/detail-imyuexpv2243361.d.html</link>
+            <guid>3113329</guid>
+            <pubDate>Thu, 18 May 2023 09:34:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
