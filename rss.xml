@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 20 May 2023 16:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 17:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【农业农村部：中国农村卫生厕所普及率超过73%】20日，农业农村部、国家乡村振兴局召开全国农村厕所革命现场会，农业农村部党组成员，国家乡村振兴局党组书记、局长刘焕鑫出席会议时表示，2018年以来，农业农村部、国家乡村振兴局会同各地区各有关部门分类稳步推进农村户厕改造，开展问题厕所摸排整改及“回头看”，取得积极成效。目前，全国农村卫生厕所普及率超过73%，有效改善了农村人居环境，促进了农村居民生活品质提升和卫生观念普及。（中国新闻网）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-21/detail-imyunarq2827493.d.html</link>
+            <guid>3115782</guid>
+            <pubDate>Sat, 20 May 2023 16:50:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京提前6天入夏今年入夏时间为5月14日】从北京市气象台获悉，2023年北京观象台（北京地区气象观测代表站）入夏时间为5月14日，常年（1991-2020年平均）入夏时间为5月20日。也就是说今年北京的入夏时间提前了6天。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-21/detail-imyunarq2823748.d.html</link>
+            <guid>3115748</guid>
+            <pubDate>Sat, 20 May 2023 16:30:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【伊朗革命卫队：美国军舰在霍尔木兹海峡航行】当地时间20日，伊朗革命卫队证实，在19日晚，一艘载有美、英、法三国高级海军将领的美国军舰在霍尔木兹海峡穿行。伊朗革命卫队表示，该军舰航行期间遭到卫队派出的无人机和巡逻艇严密监视。报道称，该军舰进入霍尔木兹海峡时，就被卫队的海军巡逻艇和控制中心发现，并完全处于伊方的观察和监控之下。]]></title>
             <link>https://finance.sina.cn/7x24/2023-05-21/detail-imyunarn6042687.d.html</link>
@@ -290,17 +302,6 @@
             <link>https://finance.sina.cn/7x24/2023-05-20/detail-imyumrzr0605412.d.html</link>
             <guid>3115582</guid>
             <pubDate>Sat, 20 May 2023 11:37:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【俄副外长：西方国家向乌克兰提供F-16战机将为其自身带来巨大风险】俄罗斯副外长格鲁什科当地时间5月20日表示，俄罗斯认为西方向乌克兰提供F-16战机意味着西方国家正在沿着使乌克兰冲突升级的道路前进，这会给西方国家自身带来巨大风险，俄罗斯可以采取所有必要手段，来实现俄罗斯既定目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-20/detail-imyumrzu3029407.d.html</link>
-            <guid>3115580</guid>
-            <pubDate>Sat, 20 May 2023 11:34:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港科技大学（广州）协理副校长熊辉：人工智能的竞争，本质上是数据创造权、数据所有权的竞争】据上证报，香港科技大学（广州）协理副校长熊辉在“2023年粤港澳大湾区风投创投高峰论坛”表示，人工智能的竞争，本质上是数据创造权、数据所有权的竞争。“中国擅长从1到N到技术转化，对于人工智能这一具有潜力的赛道，未来中国的发展不会走得太慢。”人的智慧的最高境界就是“无中生有”，创造出整个理论框架。在“无中生有”方面，机器目前比人类还差很远。在熊辉看来，智能化时代，机器的判断能力会非常精准，社会将进入到“赢者通吃”的时代，我们要试图重新理解整个投资的逻辑。“在这样一个时代，如果你不懂得如何做风控，这个投资是要出大风险的。现在，我们要把投资变成量化的模式，靠收集数据、建立模型来做智能化的快速判断。”]]></title>
-            <guid>3115579</guid>
-            <pubDate>Sat, 20 May 2023 11:34:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
