@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 20 May 2023 18:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 19:12:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【广东成国内创投集聚地 管理基金规模居全国前列】“2023年粤港澳大湾区风投创投高峰论坛”20日在广州粤科金融大厦举办。广东省推进粤港澳大湾区建设领导小组办公室专职副主任祝永辉表示，广东省已成为国内创业投资发展的主要集聚地之一，截至2022年底该省在中国证券投资基金业协会登记的私募股权创业投资基金管理人达3027家，管理基金数量1.14万支，管理基金规模2.44万亿元，均居全国前列。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-21/detail-imyunhxi0393953.d.html</link>
+            <guid>3115925</guid>
+            <pubDate>Sat, 20 May 2023 18:50:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国民主党人：债务上限谈判走向了错误的方向。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-21/detail-imyunhxi0390471.d.html</link>
+            <guid>3115923</guid>
+            <pubDate>Sat, 20 May 2023 18:37:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国联邦调查局被曝滥用私人通信数据库】据美联社报道，美国国家情报总监办公室19日公布的一份文件显示，美国联邦调查局利用一项备受争议的涉外情报监视法律，在调查反种族歧视抗议示威等国内事件时，大肆滥用一个包含美国公民私人通信信息的监控数据库。（环球网）]]></title>
             <guid>3115909</guid>
@@ -284,17 +296,6 @@
             <link>https://finance.sina.cn/7x24/2023-05-20/detail-imyumrzs6256575.d.html</link>
             <guid>3115598</guid>
             <pubDate>Sat, 20 May 2023 11:58:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据InfoLink的数据，2022年，全球储能电池出货量总计142.7 GWh，同比2021年出货量46.9 GWh大幅增长204.3%，而且还在快速增长中。（券商中国）]]></title>
-            <guid>3115597</guid>
-            <pubDate>Sat, 20 May 2023 11:56:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：南太平洋忠诚岛东南部发生5.3级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-20/detail-imyumrzx3428693.d.html</link>
-            <guid>3115596</guid>
-            <pubDate>Sat, 20 May 2023 11:55:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
