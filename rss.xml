@@ -4,11 +4,50 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 21 May 2023 20:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 May 2023 21:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[以太坊失守1800美元/枚，日内跌幅0.72%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-22/detail-imyuqwnm2285815.d.html</link>
+            <guid>3116760</guid>
+            <pubDate>Sun, 21 May 2023 21:05:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[第76届世界卫生大会21日在瑞士日内瓦开幕，本届大会的主题是“世卫组织成立75年：拯救生命，推动人人健康”。]]></title>
+            <guid>3116759</guid>
+            <pubDate>Sun, 21 May 2023 20:59:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯外交部：七国集团是加剧全球问题的主要因素】俄罗斯外交部5月21日发布声明说，七国集团如今已不可逆转地退化为破坏全球稳定的非建设性倡议的“孵化器”。近些年发生的国际事件表明，七国集团在政治和外交领域也无法提供任何有建设性的内容。声明说，七国集团是加剧全球问题的主要因素，无法反映亚太、南亚、中东、非洲和拉美地区国家的利益。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-22/detail-imyuqwnq8536357.d.html</link>
+            <guid>3116750</guid>
+            <pubDate>Sun, 21 May 2023 20:48:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中东股市周日多数收涨，埃及股指涨约0.7%】周日（5月21日），沙特证交所全股指数收跌0.02%，报11341.82点。埃及证交所EGX 30指数收涨0.69%，科威特证交所超级市场价格回报指数收涨0.45%，卡塔尔证交所指数收涨0.07%。以色列特拉维夫交易所35指数收跌0.60%，（南亚国家）孟加拉DSE广义指数收跌0.14%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-22/detail-imyuqwnp3351949.d.html</link>
+            <guid>3116736</guid>
+            <pubDate>Sun, 21 May 2023 20:41:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊拉克石油部：伊拉克能源部长委员会批准在南部修建海上原油出口输送管道，项目旨在将南部港口的出口能力提高大约50万桶/日。]]></title>
+            <guid>3116728</guid>
+            <pubDate>Sun, 21 May 2023 20:41:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【拜登和麦卡锡将于周一会面，双方代表恢复债务上限谈判】在美国债务违约的时间临近之际，美国总统拜登和美国众议院议长麦卡锡将于周一（5月22日）会面，在此之前，债务上限谈判代表将在华盛顿恢复讨论。根据白宫的一份声明，双方谈判代表计划于当地时间周日下午6点（北京时间今晨6点）恢复谈判。麦卡锡强调，双方尚未达成协议，但在与拜登讨论了弥合分歧的解决方案后，他对达成协议更有希望。此外，据两位知情人士透露，共和党人已将削减支出的要求从10年降至6年，但白宫希望的期限2年。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-22/detail-imyuqwnp3351634.d.html</link>
+            <guid>3116727</guid>
+            <pubDate>Sun, 21 May 2023 20:39:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高盛经济学家：美国财政部恐怕会在6月8-9日跌穿300亿美元所谓“满足联邦义务（政府部门运作、债务利息支付等）”的现金门槛。]]></title>
+            <guid>3116706</guid>
+            <pubDate>Sun, 21 May 2023 20:20:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[中国地震台网自动测定：05月22日03时56分在四川宜宾市长宁县附近（北纬28.42度，东经104.86度）发生4.6级左右地震，最终结果以正式速报为准。]]></title>
             <guid>3116688</guid>
@@ -290,48 +329,6 @@
             <link>https://finance.sina.cn/7x24/2023-05-21/detail-imyupzhx3707253.d.html</link>
             <guid>3116448</guid>
             <pubDate>Sun, 21 May 2023 13:38:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中关村国际前沿大赛吸引海内外2500余个项目参与】2023中关村论坛将于5月25日至30日在京举行，届时将举办中关村国际前沿科技创新大赛(下称中关村国际前沿大赛)总决赛。大赛吸引了海内外2500余个创新项目报名参加，涵盖人工智能、生物医药等15个领域的127个细分赛道，是历年项目数最多、赛道最广、创新最活跃的一届。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-21/detail-imyupzia5762506.d.html</link>
-            <guid>3116445</guid>
-            <pubDate>Sun, 21 May 2023 13:37:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【多国学者呼吁推进RCEP进程 为经济复苏注入更多“正能量”】《区域全面经济伙伴关系协定》(RCEP)正式生效实施一年多来，其促进区域贸易投资增长与经济复苏的红利不断释放。21日在海口举办的2023RCEP区域发展媒体智库论坛上，多国学者呼吁各成员国加快开放，积极推进RCEP进程，为亚洲以及全球经济复苏注入更多“正能量”。（中国新闻网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-21/detail-imyupzhy8985143.d.html</link>
-            <guid>3116444</guid>
-            <pubDate>Sun, 21 May 2023 13:36:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦表示，债务上限的最后期限目前仍在六月初，6月份是债务上限的“硬性期限”，如果不提高债务上限，将面临艰难的选择。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-21/detail-imyupzhy8983288.d.html</link>
-            <guid>3116425</guid>
-            <pubDate>Sun, 21 May 2023 13:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿富汗临时政府空军一直升机坠毁 两名飞行员死亡】当地时间21日，阿富汗临时政府国防部确认，当天上午9时左右，该国空军的一架军用直升机（MD-530）从马扎里沙里夫机场飞往萨曼甘省巡逻时撞到电线后坠毁，这架飞机的两名飞行员死亡。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-21/detail-imyupzia5760162.d.html</link>
-            <guid>3116422</guid>
-            <pubDate>Sun, 21 May 2023 13:26:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【钱江水利：前4月净利润同比增长约57.13%】钱江水利(600283)5月21日晚间披露，公司2023年1至4月经营状况良好，供水、污水处理量稳步增长。经初步核算，公司2023年1至4月营业收入同比增加比例约为4.21%；营业利润同比增加比例约为28.82%；归属于上市公司股东的净利润同比增加比例约为57.13%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-21/detail-imyupzia5757674.d.html</link>
-            <guid>3116397</guid>
-            <pubDate>Sun, 21 May 2023 13:13:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中衡设计：签订苏州当代美术馆设计咨询总包项目合同】中衡设计(603017)5月21日晚间公告，公司与苏州工业园区文体旅游局签订《建筑工程设计合同》，由公司承接苏州工业园区文体旅游局发包的“苏州当代美术馆设计咨询总包项目”，签约合同价为3162.74万元。苏州当代美术馆系苏州市2023年重点项目，建成后将成为苏州工业园区金鸡湖畔又一文化新地标。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-21/detail-imyupzhy8980421.d.html</link>
-            <guid>3116396</guid>
-            <pubDate>Sun, 21 May 2023 13:13:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中办、国办：各地新建城区、新建居住区要按标准和要求配套建设养老服务设施】中共中央办公厅、国务院办公厅印发《关于推进基本养老服务体系建设的意见》，意见提出，提高基本养老服务供给能力。设区的市级以上地方政府应当将养老服务设施（含光荣院）建设纳入相关规划，结合当地经济社会发展水平、老年人口状况和发展趋势、环境条件等因素，分级编制推动养老服务设施发展的整体方案，合理确定设施种类、数量、规模以及布局，形成结构科学、功能完备、布局合理的养老服务设施网络。各地新建城区、新建居住区要按标准和要求配套建设养老服务设施；老城区和已建成居住区要结合城镇老旧小区改造、居住区建设补短板行动等，通过补建等方式完善养老服务设施。政府投入资源或者出资建设的养老服务设施要优先用于基本养老服务。提升国有经济对养老服务体系的支持能力，强化国有经济在基本养老服务领域有效供给。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-21/detail-imyupzia5756621.d.html</link>
-            <guid>3116387</guid>
-            <pubDate>Sun, 21 May 2023 13:07:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
