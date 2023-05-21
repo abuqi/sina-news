@@ -4,11 +4,22 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 21 May 2023 19:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 May 2023 20:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[中国地震台网自动测定：05月22日03时56分在四川宜宾市长宁县附近（北纬28.42度，东经104.86度）发生4.6级左右地震，最终结果以正式速报为准。]]></title>
+            <guid>3116688</guid>
+            <pubDate>Sun, 21 May 2023 20:02:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2023版“沪惠保” 参保人数突破300万 保费达3.87亿元】自5月9日正式开启后，2023版“沪惠保”的投保数据一路高歌猛进。第一财经从“沪惠保”首席承保方中国太保了解到，截至5月18日，“沪惠保”参保人数已突破300万人。按照保费129元/人计算，那2023版“沪惠保”保费已突破3.87亿元。而依照上海基本医疗保险约1900万人的参与基数来看，目前2023版“沪惠保”参保率在15.8%左右。事实上，第一财经记者发现，2023版“沪惠保”在上线初期参保数据就直线上升，不到2小时参保人数突破50万，8小时破100万，这较2021年“沪惠保”亮相首年的上线12小时参保人数突破100万的速度更快。（第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-22/detail-imyuqseu5433749.d.html</link>
+            <guid>3116674</guid>
+            <pubDate>Sun, 21 May 2023 19:35:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美联储立场雾里看花 美股波动性或加剧】过去一周，市场的焦点无疑被国会债务上限谈判的进程所吸引。随着6月1日潜在违约日临近，最终达成协议的曙光已经出现，美股也重新回到了近期交易区间的上轨，为新一轮突破行情做准备。道琼斯市场统计显示，板块上强者恒强，科技行业上周大涨4.2%，通信服务业和非必需消费品业分别以3.1%和2.6%的涨幅紧随其后，这也是今年以来表现最好的三大板块。美国国会有关债务上限谈判的乐观预期成为上周市场风险偏好改善的主要动力，纳指和标普500指数分别刷新了年内高位，衡量市场波动性的恐慌指数VIX继续徘徊于低位。嘉信理财认为，投资者需要对未来一周的波动性提前防范，一方面，债务上限无论结果如何都可能引发市场剧烈反应；另一方面，个人消费支出（PCE）数据将影响市场对6月政策的定价，低波动性下利率预期变动或加剧市场的振幅。（第一财经）]]></title>
             <link>https://finance.sina.cn/7x24/2023-05-22/detail-imyuqser3440550.d.html</link>
@@ -321,18 +332,6 @@
             <link>https://finance.sina.cn/7x24/2023-05-21/detail-imyupzia5756621.d.html</link>
             <guid>3116387</guid>
             <pubDate>Sun, 21 May 2023 13:07:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【62个外资项目签约 中国—中东欧国家博览会取得多项成果】据新华社杭州5月21日电 国内外采购商到会超过1.5万名，促成中东欧商品采购意向订单超100亿元，签约外资项目62个……第三届中国—中东欧国家博览会暨国际消费品博览会在浙江宁波成功举办，充分展现了中国愿与中东欧国家分享机遇的诚意，收获了务实合作的成果。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-21/detail-imyupzhy8978435.d.html</link>
-            <guid>3116380</guid>
-            <pubDate>Sun, 21 May 2023 13:02:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【法兰泰克：前4月净利润3142.83万元 同比增45.41%】法兰泰克(603966)5月21日晚间披露，公司聚焦主业，为下游客户提供物料搬运系统解决方案。今年1至4月，公司经营情况持续向好，累计实现营业收入5.86亿元，同比增长33.49%；累计实现净利润3142.83万元，同比增长45.41%；扣非净利润2385.28万元，同比增长65.25%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-21/detail-imyupzhy8978355.d.html</link>
-            <guid>3116379</guid>
-            <pubDate>Sun, 21 May 2023 13:02:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
