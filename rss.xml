@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 21 May 2023 18:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 May 2023 19:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美联储立场雾里看花 美股波动性或加剧】过去一周，市场的焦点无疑被国会债务上限谈判的进程所吸引。随着6月1日潜在违约日临近，最终达成协议的曙光已经出现，美股也重新回到了近期交易区间的上轨，为新一轮突破行情做准备。道琼斯市场统计显示，板块上强者恒强，科技行业上周大涨4.2%，通信服务业和非必需消费品业分别以3.1%和2.6%的涨幅紧随其后，这也是今年以来表现最好的三大板块。美国国会有关债务上限谈判的乐观预期成为上周市场风险偏好改善的主要动力，纳指和标普500指数分别刷新了年内高位，衡量市场波动性的恐慌指数VIX继续徘徊于低位。嘉信理财认为，投资者需要对未来一周的波动性提前防范，一方面，债务上限无论结果如何都可能引发市场剧烈反应；另一方面，个人消费支出（PCE）数据将影响市场对6月政策的定价，低波动性下利率预期变动或加剧市场的振幅。（第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-22/detail-imyuqser3440550.d.html</link>
+            <guid>3116643</guid>
+            <pubDate>Sun, 21 May 2023 18:42:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【欧盟将开征充满争议的碳关税，全球影响巨大】4月18日欧洲议会通过了一项旨在应对气候变化，减低碳排放的议案，它是欧盟提出的在2050年之前达到碳中和的“绿色协议”的核心部分。该议案的措施就是人们俗称的碳关税，其正式名称为“碳边界调整机制”（CBAM）。欧盟此举对全球影响巨大，既创新了国际贸易规则，又借助贸易政策工具推动全球气候政策的调整。了解欧盟碳关税对认知和实现中国“碳中和”的重要性有直接意义。（第一财经）]]></title>
             <link>https://finance.sina.cn/7x24/2023-05-22/detail-imyuqseu5422547.d.html</link>
@@ -327,12 +333,6 @@
             <link>https://finance.sina.cn/7x24/2023-05-21/detail-imyupzhy8978355.d.html</link>
             <guid>3116379</guid>
             <pubDate>Sun, 21 May 2023 13:02:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【报告显示确保粮食安全需从增产和减损发力】 中国农业科学院21日发布的《中国农业产业发展报告2023》显示，从粮食产能提升和全产业链减损两端发力，不断夯实粮食安全根基，是新时期确保粮食安全的关键之举。报告显示，当前中国三大主粮稻谷、小麦和玉米的全产业链存在浪费和损失现象。预计到2035年通过科技进步、农技推广、全民节粮减损行动等措施，粮食收获、储藏、加工和消费环节损失率若能分别减少1至3个百分点，可共实现粮食减损超过千亿斤。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-21/detail-imyupzia5754811.d.html</link>
-            <guid>3116376</guid>
-            <pubDate>Sun, 21 May 2023 12:58:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
