@@ -4,11 +4,22 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 21 May 2023 17:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 May 2023 18:19:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【欧盟将开征充满争议的碳关税，全球影响巨大】4月18日欧洲议会通过了一项旨在应对气候变化，减低碳排放的议案，它是欧盟提出的在2050年之前达到碳中和的“绿色协议”的核心部分。该议案的措施就是人们俗称的碳关税，其正式名称为“碳边界调整机制”（CBAM）。欧盟此举对全球影响巨大，既创新了国际贸易规则，又借助贸易政策工具推动全球气候政策的调整。了解欧盟碳关税对认知和实现中国“碳中和”的重要性有直接意义。（第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-22/detail-imyuqseu5422547.d.html</link>
+            <guid>3116642</guid>
+            <pubDate>Sun, 21 May 2023 18:16:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加拿大山火失控 产油区岌岌可危】加拿大西部艾伯塔省的野火已经肆虐了近一个月，影响依然在继续。因为加拿大是世界第四大原油生产国，其中约八成石油产自艾伯塔省。目前这一重要产油区多家企业被迫暂停生产，石油和天然气的供应也不得不中断。另一方面，野火的烟雾还导致加拿大西部的空气质量变差，数万居民被疏散。（北京商报）]]></title>
+            <guid>3116641</guid>
+            <pubDate>Sun, 21 May 2023 17:39:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[白宫确认拜登和麦卡锡周一会面，谈判代表将于当地时间周日下午六点举行会议。]]></title>
             <link>https://finance.sina.cn/7x24/2023-05-22/detail-imyuqmww5541365.d.html</link>
@@ -322,18 +333,6 @@
             <link>https://finance.sina.cn/7x24/2023-05-21/detail-imyupzia5754811.d.html</link>
             <guid>3116376</guid>
             <pubDate>Sun, 21 May 2023 12:58:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【谈美债务上限问题被记者打断，拜登“恼怒”：“嘘，好吗？”】美国债务危机阴云，持续笼罩在总统拜登头上。据美国福克斯新闻网、《纽约邮报》20日报道，当天在日本参加G7广岛峰会的拜登再次被记者问及债务上限有关问题，但由于回答时被记者多次插嘴打断，“恼怒”的拜登立刻回击请前者闭嘴，喊出“嘘”的声音。对此，有澳媒节目称之为“有趣且尴尬的时刻”。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-21/detail-imyupzhy8976547.d.html</link>
-            <guid>3116375</guid>
-            <pubDate>Sun, 21 May 2023 12:52:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中金公司：A股仍处于投资机遇期，投资风格可更为均衡】 “展望后市，总的来说A股当前资产价格已经反映较多谨慎预期，结合政策逆周期调节及内外部环境，对后市不必过于谨慎。A股仍处于投资机遇期，市场机会大于风险。”中金公司5月21日发布的最新研报指出。从近期的经济层面来看，4月主要经济部门的复苏斜率呈现出了不同程度的放缓，在本轮“非典型”复苏的背景下，前期部分需求在一季度脉冲式修复后，增长的整体回稳，特别是内生动能的改善可能尚需时日。 “另一方面，在当前环境下，政策可能尚未具备‘由松转稳’的条件。”配置方面，中金公司建议投资者风格更均衡，关注三条主线：一是基本面修复空间和弹性大，且政策继续支持的泛消费领域，如食品饮料等；二是成长领域的高端制造、科技软硬件；三是国企改革等主题机会。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-21/detail-imyupzia5752148.d.html</link>
-            <guid>3116372</guid>
-            <pubDate>Sun, 21 May 2023 12:45:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
