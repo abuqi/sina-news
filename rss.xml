@@ -4,279 +4,296 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Thu, 25 May 2023 14:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 15:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【振华重工：拟定增募资不超50亿元】振华重工公告，拟定增募资不超50亿元，用于船舶购置项目、门机总装线项目、信息化建设项目、智能制造升级改造项目和补充流动资金及偿还债务。]]></title>
-            <guid>3121980</guid>
-            <pubDate>Thu, 25 May 2023 14:16:19 GMT</pubDate>
+            <title><![CDATA[市场消息：谷歌开始开放搜索实验室访问权限。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyv7051880.d.html</link>
+            <guid>3122047</guid>
+            <pubDate>Thu, 25 May 2023 15:09:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【多个国际科技组织落地北京】记者从2023中关村论坛获悉，国际氢能燃料电池协会、世界机器人合作组织、国际智能制造联盟、国际介科学组织、亚洲仿真联盟等国际科技组织陆续落地北京。北京将在朝阳区建设国际科技组织总部集聚区，吸引更多国际组织落地，为国际科技创新中心进一步融入全球创新网络赋能助力。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyv7031649.d.html</link>
-            <guid>3121979</guid>
-            <pubDate>Thu, 25 May 2023 14:16:08 GMT</pubDate>
+            <title><![CDATA[穆迪：预计发达国家货币将进一步贬值，其央行将动用过多的外汇储备，蚕食美元的份额，但这个进程将是缓慢的。]]></title>
+            <guid>3122046</guid>
+            <pubDate>Thu, 25 May 2023 15:08:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储巴尔金：美联储加息也有助于减少需求，银行倒闭导致的信贷紧缩也有同样作用。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyr0997777.d.html</link>
-            <guid>3121978</guid>
-            <pubDate>Thu, 25 May 2023 14:15:47 GMT</pubDate>
+            <title><![CDATA[美联储柯林斯：不提高债务上限可能会造成很大的损害。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2027663.d.html</link>
+            <guid>3122045</guid>
+            <pubDate>Thu, 25 May 2023 15:07:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【新一代256核区块链加速芯片问世】据新京报，5月25日晚，2023中关村论坛开幕式举行，由北京微芯区块链与边缘计算研究院研发的新一代256核高性能区块链专用加速芯片正式亮相。该芯片可应用于超大规模区块链算力集群，全面支持建成后的国家区块链算力网络开展运行。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfys5236929.d.html</link>
-            <guid>3121976</guid>
-            <pubDate>Thu, 25 May 2023 14:13:20 GMT</pubDate>
+            <title><![CDATA[【Stellantis投资美国初创公司利腾 开发锂硫电池】欧洲汽车制造商Stellantis集团5月25日宣布，已通过旗下风险投资部门投资美国初创电池材料公司利腾（Lyten），推动开发锂硫电动车电池、轻质复合材料和车载感应解决方案。两家公司在声明中说，与传统的锂离子电池不同，利腾公司开发的锂硫电池不使用镍、钴或锰，从而使碳足迹比目前的电池低60%。此外，锂硫电池的原材料有可能在北美或欧洲当地采购和生产。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2026698.d.html</link>
+            <guid>3122044</guid>
+            <pubDate>Thu, 25 May 2023 15:03:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[BI资深行业分析师Henik Fung：市场需求转向可再生能源或促使欧佩克+考虑其资本支出投资和市场份额的长期战略。]]></title>
-            <guid>3121975</guid>
-            <pubDate>Thu, 25 May 2023 14:12:05 GMT</pubDate>
+            <title><![CDATA[美国财政部将拍卖500亿美元161天期国库券、630亿美元三个月期国库券和560亿美元六个月期国库券。]]></title>
+            <guid>3122043</guid>
+            <pubDate>Thu, 25 May 2023 15:03:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【申昊科技：公司没有自建大模型】申昊科技近期接受投资者调研时称，公司本身没有自建大模型，但公司有在布局通过外部人工智能大模型对机器人进行专业知识的增量训练，提升机器人的专业水准，也在布局机器人的人机交互相关的技术，提升机器人人机交互与协同水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2013575.d.html</link>
-            <guid>3121974</guid>
-            <pubDate>Thu, 25 May 2023 14:11:38 GMT</pubDate>
+            <title><![CDATA[TD Cowen：将Snowflake(SNOW.N)目标价从205美元下调至185美元。]]></title>
+            <guid>3122042</guid>
+            <pubDate>Thu, 25 May 2023 15:03:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储巴尔金：对熟练工种的劳动力需求仍然“十分旺盛”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2013512.d.html</link>
-            <guid>3121973</guid>
-            <pubDate>Thu, 25 May 2023 14:11:25 GMT</pubDate>
+            <title><![CDATA[美联储柯林斯：失业率小幅上升是正常现象。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2026509.d.html</link>
+            <guid>3122041</guid>
+            <pubDate>Thu, 25 May 2023 15:03:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国地质勘探局：菲律宾巴斯科北72公里发生5.2级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2013491.d.html</link>
-            <guid>3121972</guid>
-            <pubDate>Thu, 25 May 2023 14:11:21 GMT</pubDate>
+            <title><![CDATA[富国银行：将Snowflake(SNOW.N)目标价从200美元下调至185美元。]]></title>
+            <guid>3122040</guid>
+            <pubDate>Thu, 25 May 2023 15:03:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国众议院议长麦卡锡：我认为6月1日是债务上限的最后期限。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2013457.d.html</link>
-            <guid>3121971</guid>
-            <pubDate>Thu, 25 May 2023 14:11:08 GMT</pubDate>
+            <title><![CDATA[欧盟市场专员Breton：那些针对人工智能（AI）的制度“不容讨价还价”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2026084.d.html</link>
+            <guid>3122039</guid>
+            <pubDate>Thu, 25 May 2023 15:01:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国众议院议长麦卡锡：（被问及惠誉的警告时）我不担心评级问题，我更担心是否能达成一个有益于美国人的债务上限协议。]]></title>
-            <guid>3121970</guid>
-            <pubDate>Thu, 25 May 2023 14:10:58 GMT</pubDate>
+            <title><![CDATA[英国20年期国债收益率日内上涨14个基点至4.657％，为去年10月17日以来的最高水平。]]></title>
+            <guid>3122038</guid>
+            <pubDate>Thu, 25 May 2023 15:01:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[惠誉：相信欧洲在2023年能够满足其增加的液化天然气需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfys5236199.d.html</link>
-            <guid>3121969</guid>
-            <pubDate>Thu, 25 May 2023 14:10:42 GMT</pubDate>
+            <title><![CDATA[美国5月堪萨斯联储制造业产出指数 -2，预期-11，前值-21。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2025919.d.html</link>
+            <guid>3122037</guid>
+            <pubDate>Thu, 25 May 2023 15:00:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[惠誉：欧洲液化天然气进口预计将继续增加，到2023年将达到1550亿立方米。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2013339.d.html</link>
-            <guid>3121968</guid>
-            <pubDate>Thu, 25 May 2023 14:10:36 GMT</pubDate>
+            <title><![CDATA[【大商所、郑商所夜盘收盘 焦炭跌超4%】大商所、郑商所夜盘收盘，黑色系跌幅居前。焦煤、焦炭跌超4%，甲醇跌逾3%，豆一、玻璃等跌超1%，PP、豆粕等小幅下跌；豆油、棕榈油等涨超2%，淀粉、玉米涨逾1%，豆二、纯碱等小幅上涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfys5248550.d.html</link>
+            <guid>3122036</guid>
+            <pubDate>Thu, 25 May 2023 15:00:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[相关调查显示，23名交易员和分析师中，有17人预计欧佩克+6月开会时将保持产量水平不变。]]></title>
-            <guid>3121967</guid>
-            <pubDate>Thu, 25 May 2023 14:10:29 GMT</pubDate>
+            <title><![CDATA[【千亿级母基金涌现，重点投向科技创新与先进制造业】2023年以来，多只千亿元级别的地方产业母基金宣布成立。地方“基金矩阵”概念正在兴起，各地服务于科技创新和实体经济的先进制造业成为这些产业母基金的重点投资方向。在业内人士看来，地方产业母基金对地方资金起到成倍放大效应，为当地新兴产业的发展提供了充足的资金“弹药”。在这个过程中，地方政府在持续完善“投行思维”，充分运作人才、产业、资本等要素，逐渐提高对子基金的出资比例，降低返投要求，在招商引资上向专业化、市场化方向的转变。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2025694.d.html</link>
+            <guid>3122035</guid>
+            <pubDate>Thu, 25 May 2023 15:00:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储巴尔金：美国在培训技术工人方面已“落后多年”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2012908.d.html</link>
-            <guid>3121966</guid>
-            <pubDate>Thu, 25 May 2023 14:09:00 GMT</pubDate>
+            <title><![CDATA[穆迪：美元头寸近期面临的危险来自于美国自身政策失误的风险，比如美国债务违约。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfys5248498.d.html</link>
+            <guid>3122034</guid>
+            <pubDate>Thu, 25 May 2023 15:00:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[石油经纪商PVM分析师Tamas Varga：尽管沙特发表了相关言论，但我相信欧佩克将坚持4月份的计划，不会进一步削减产量。欧佩克此前的估计显示，下半年将出现相当大的供应短缺。所以实际产量的进一步下降将进一步加剧消费者和生产商之间的紧张关系。]]></title>
-            <guid>3121965</guid>
-            <pubDate>Thu, 25 May 2023 14:08:52 GMT</pubDate>
+            <title><![CDATA[【英国5年期国债收益率日内上涨18个基点至4.318】英国5年期国债收益率日内上涨18个基点至4.318％，为去年10月17日以来最高水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2025608.d.html</link>
+            <guid>3122033</guid>
+            <pubDate>Thu, 25 May 2023 15:00:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【住建部：将逐一入户摸排调查燃气橡胶软管安全隐患】近日，住建部下发通知，要求地方加快排查整改燃气橡胶软管安全隐患，切实维护人民群众生命财产安全。住建部明确各地要逐一入户摸排调查，全面摸清城镇燃气用户使用橡胶软管以及橡胶软管存在老化、不合格等安全隐患情况。根据摸排调查结果，各地要抓紧研究制定本地区燃气橡胶软管更换工作计划，作为城市燃气管道老化更新改造和城镇燃气安全专项整治重要内容，全面更换存在安全隐患的橡胶软管。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyv7028463.d.html</link>
-            <guid>3121964</guid>
-            <pubDate>Thu, 25 May 2023 14:08:26 GMT</pubDate>
+            <title><![CDATA[【欧盟批准瑞信收购瑞信称不存在重大竞争问题】欧盟委员会批准瑞士政府撮合的瑞银收购瑞信的交易，称这笔交易不存在重大的竞争问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2025502.d.html</link>
+            <guid>3122032</guid>
+            <pubDate>Thu, 25 May 2023 14:59:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国房产经纪协会NAR首席经济学家Lawrence Yun：住房库存不足是制约成屋销售增长的主要因素，同时成屋销售也面临着负担能力不足的问题。负担能力不足的挑战仍然存在，并将继续阻碍房屋销售合同的签署，但房屋库存的大幅增加对让更多美国人搬家至关重要。]]></title>
-            <guid>3121962</guid>
-            <pubDate>Thu, 25 May 2023 14:07:27 GMT</pubDate>
+            <title><![CDATA[【俄外交部：美西方放弃破坏俄白安全 俄方才考虑从白俄罗斯撤出核武器】俄罗斯外交部副部长加卢津当地时间5月25日在回答记者有关俄罗斯是否永久在白俄罗斯部署战术核武器时表示，只要不违背现有的国际承诺，俄罗斯和白俄罗斯在过去、现在和将来都一贯以自己认为合适的方式来确保国家安全。加卢津强调，在目前的情况下，只有在美国和北约放弃其蓄意破坏俄罗斯和白俄罗斯安全的恶意路线的情况下，才可能讨论从白俄罗斯撤出战术核武器。他说，应确保美国首先将所有核武器完全撤回美国领土并销毁在欧洲的相关基础设施。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2025435.d.html</link>
+            <guid>3122031</guid>
+            <pubDate>Thu, 25 May 2023 14:59:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储巴尔金：劳动力市场“相当紧张”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2012395.d.html</link>
-            <guid>3121961</guid>
-            <pubDate>Thu, 25 May 2023 14:07:05 GMT</pubDate>
+            <title><![CDATA[美联储柯林斯：美国不会爆发经济衰退。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2025419.d.html</link>
+            <guid>3122030</guid>
+            <pubDate>Thu, 25 May 2023 14:58:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储巴尔金：一些企业仍表示需要提高价格。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2011750.d.html</link>
-            <guid>3121960</guid>
-            <pubDate>Thu, 25 May 2023 14:05:17 GMT</pubDate>
+            <title><![CDATA[美国5月堪萨斯联储制造业综合指数为-1，预期-12，前值-10。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfys5248235.d.html</link>
+            <guid>3122029</guid>
+            <pubDate>Thu, 25 May 2023 14:58:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：美国白宫和共和党讨论将债务上限延长至2024年。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyr0993832.d.html</link>
-            <guid>3121959</guid>
-            <pubDate>Thu, 25 May 2023 14:05:07 GMT</pubDate>
+            <title><![CDATA[【赢合科技：去年新签订单中海外订单占比首次突破10%】赢合科技在业绩说明会上表示，公司近年在海外市场的拓展取得较大进展，去年全年新签订单中海外订单占比首次突破10%，今年目标是希望海外订单占比可以继续提升。客户方面，公司与LG新能源，三星、松下、ACC、宝马、大众等都有不同程度的合作。对公司来说，目前海外市场最大的增长空间来自欧洲，公司已在德国成立了孙公司并设有常驻团队。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2024935.d.html</link>
+            <guid>3122028</guid>
+            <pubDate>Thu, 25 May 2023 14:55:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  花旗表示，多个迹象表明，全球石油需求增长不太可能达到今年早些时候的预测。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2011446.d.html</link>
-            <guid>3121958</guid>
-            <pubDate>Thu, 25 May 2023 14:04:26 GMT</pubDate>
+            <title><![CDATA[  意大利同意将该国ITA 航空公司的股权出售给德国汉莎航空。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2024347.d.html</link>
+            <guid>3122027</guid>
+            <pubDate>Thu, 25 May 2023 14:53:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国众议院议长麦卡锡被问及依赖政府支付的美国人是否应该制定备用计划时告诉记者：不用担心这个问题。]]></title>
-            <guid>3121957</guid>
-            <pubDate>Thu, 25 May 2023 14:04:01 GMT</pubDate>
+            <title><![CDATA[英国2年期国债收益率日内上涨15个基点至4.517％，为去年9月29日以来最高。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfys5246582.d.html</link>
+            <guid>3122026</guid>
+            <pubDate>Thu, 25 May 2023 14:51:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧盟反垄断机构：瑞银和瑞信的合并不会引发竞争问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2011269.d.html</link>
-            <guid>3121956</guid>
-            <pubDate>Thu, 25 May 2023 14:03:48 GMT</pubDate>
+            <title><![CDATA[  【美参议员Mike Lee：将出手阻碍缺少实质性支出改革的债务上限协议】美国共和党参议员Mike Lee表示，如果两党谈判代表达成的债务上限协议中缺乏支出方面的实质性改革，则其在“参议院不会顺利得到通过”。Lee在一条推文中表示，“我将使用全部可用的程序工具来阻止一项未涵盖显著支出和预算改革的债务上限协议。我担心事情正在朝着这个方向发展”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfys5246514.d.html</link>
+            <guid>3122025</guid>
+            <pubDate>Thu, 25 May 2023 14:51:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[花旗：多个迹象表明，全球石油需求增长不太可能达到今年早些时候的预测。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfys5234056.d.html</link>
-            <guid>3121955</guid>
-            <pubDate>Thu, 25 May 2023 14:03:39 GMT</pubDate>
+            <title><![CDATA[美国天然气期货日内跌幅达3.00%，现报2.489美元/百万英热。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfys5245736.d.html</link>
+            <guid>3122024</guid>
+            <pubDate>Thu, 25 May 2023 14:47:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：瑞银集团对瑞信的收购获得欧盟反垄断机构批准。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfys5233984.d.html</link>
-            <guid>3121954</guid>
-            <pubDate>Thu, 25 May 2023 14:03:31 GMT</pubDate>
+            <title><![CDATA[英国卫生安全局：自年初以来，英国的猴痘病例总数为20例。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2022130.d.html</link>
+            <guid>3122022</guid>
+            <pubDate>Thu, 25 May 2023 14:44:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[辉瑞短线小幅拉升，跌幅收窄至1.4%。美国食品药品监督管理局（FDA）批准Paxlovid用于针对成人的抗新冠治疗。]]></title>
-            <guid>3121953</guid>
-            <pubDate>Thu, 25 May 2023 14:02:17 GMT</pubDate>
+            <title><![CDATA[美国财政部副部长Adeyemo：去风险化将成为我们未来工作的重要组成部分。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2022087.d.html</link>
+            <guid>3122021</guid>
+            <pubDate>Thu, 25 May 2023 14:44:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国家发改委部署加快重点领域节能降碳步伐】国家发展改革委产业发展司司长卢卫生25日在全国重点领域节能降碳工作现场会上表示，要加快重点领域节能降碳步伐，促进制造业绿色化发展。卢卫生说，下一步，要准确把握重点领域节能降碳的重点任务：一是聚焦重点领域，优化完善清单方案。二是严格能效管理，加快实施分类改造。三是加快先进技术推广应用，构建绿色低碳技术体系。四是加强政策协同，有效激发内生动力。强化能效监督考核，有效发挥政策激励作用，完善标准规范体系。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfys5233552.d.html</link>
-            <guid>3121952</guid>
-            <pubDate>Thu, 25 May 2023 14:02:02 GMT</pubDate>
+            <title><![CDATA[伦镍日内大涨4.00%，现报21595.00美元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2022047.d.html</link>
+            <guid>3122020</guid>
+            <pubDate>Thu, 25 May 2023 14:44:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[云软件供应商祖睿（ZUO）一度涨约23.62%，报10.52美元，该公司一季报好于分析师预期。]]></title>
-            <guid>3121951</guid>
-            <pubDate>Thu, 25 May 2023 14:01:26 GMT</pubDate>
+            <title><![CDATA[英国卫生安全局：自5月4日流行病学更新以来，英国又有10例猴痘病例被诊断出来。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2021634.d.html</link>
+            <guid>3122019</guid>
+            <pubDate>Thu, 25 May 2023 14:42:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国4月成屋签约销售指数年率 -22.6%，预期-20.10%，前值-23.30%。]]></title>
-            <guid>3121950</guid>
-            <pubDate>Thu, 25 May 2023 14:01:05 GMT</pubDate>
+            <title><![CDATA[【美国财政部副部长Adeyemo：债务上限谈判取得进展】美国财政部副部长Adeyemo周四表示，拜登政府与国会共和党人就提高美国债务上限达成协议的谈判正在取得进展，但这种僵局已经让美国纳税人付出了代价。Adeyemo在华盛顿举行的一个投资行业会议上表示，没有达成协议已经给美国借贷成本带来了上行压力，由于不确定性，最近发行的债券增加了数百万美元的利息支出。在其他方面，美国经济状况仍然良好，但Adeyemo说，“我们现在最不需要的是一场人为制造的危机。”]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2021132.d.html</link>
+            <guid>3122018</guid>
+            <pubDate>Thu, 25 May 2023 14:40:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国4月成屋签约销售指数 78.9，前值78.9。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfys5233291.d.html</link>
-            <guid>3121949</guid>
-            <pubDate>Thu, 25 May 2023 14:01:00 GMT</pubDate>
+            <title><![CDATA[美国共和党债务上限谈判代表格雷夫斯：在6月1日前达成协议对我们来说是最优先事项。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyv7038773.d.html</link>
+            <guid>3122017</guid>
+            <pubDate>Thu, 25 May 2023 14:36:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国4月成屋签约销售指数月率 0%，预期1.00%，前值-5.20%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2010419.d.html</link>
-            <guid>3121947</guid>
-            <pubDate>Thu, 25 May 2023 14:00:48 GMT</pubDate>
+            <title><![CDATA[【无人机袭击克宫或为乌特别部门策划】据美国《纽约时报》24日报道，美国官员称，本月早些时候对克里姆林宫的无人机袭击很可能是由乌克兰的某个特种军事或情报部门精心策划的。但美国情报机构不知道是乌克兰哪个单位实施了这次袭击，也不清楚乌克兰总统泽连斯基或他的高级官员是否知道这次行动。 针对美国媒体的爆料，俄总统新闻秘书佩斯科夫25日表示，他们在克里姆林宫遭袭后就已经指出乌克兰是幕后黑手。乌克兰方面暂时没有对此次报道予以回应。（CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2020169.d.html</link>
+            <guid>3122016</guid>
+            <pubDate>Thu, 25 May 2023 14:36:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[快手：5月25日耗资2838.48万港元回购52.6万股，每股价格为53.35-54.85港元。]]></title>
-            <guid>3121946</guid>
-            <pubDate>Thu, 25 May 2023 14:00:37 GMT</pubDate>
+            <title><![CDATA[美国共和党债务上限谈判代表格雷夫斯：今天没有计划让债务上限谈判代表会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfys5242882.d.html</link>
+            <guid>3122015</guid>
+            <pubDate>Thu, 25 May 2023 14:35:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德意志银行：将英伟达目标价从220美元上调至390美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfys5233148.d.html</link>
-            <guid>3121945</guid>
-            <pubDate>Thu, 25 May 2023 14:00:28 GMT</pubDate>
+            <title><![CDATA[美国财政部副部长Adeyemo：银行系统仍然充满韧性。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2019607.d.html</link>
+            <guid>3122014</guid>
+            <pubDate>Thu, 25 May 2023 14:34:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【凯投宏观：预计5月非农就业数据将放缓】凯投宏观分析师Andrew Hunter在一份报告中表示，预计5月份非农就业将放缓，非农就业岗位净增加20万个，低于4月份的25.3万。“尽管失业率仍处于极低水平，但该报告应该也会提供进一步的证据，证明工资增长仍在放缓。”Hunter预计，失业率将稳定在3.4%的50年低点，平均时薪将增长0.1%。他认为，将有证据表明，劳动力市场正在放松，且美国可以在失业率不显著上升的情况下，实现更可持续的工资增长率。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2010281.d.html</link>
-            <guid>3121944</guid>
-            <pubDate>Thu, 25 May 2023 14:00:17 GMT</pubDate>
+            <title><![CDATA[美国共和党众议员赫恩：债务上限协议“可能”在当地时间明天下午之前达成。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfys5242371.d.html</link>
+            <guid>3122013</guid>
+            <pubDate>Thu, 25 May 2023 14:34:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【18省区市将有大范围降雨，局地大暴雨】据中央气象台消息，今天起至5月28日（本周日），我国中东部地区将出现一次大范围较强降雨过程。预计西南地区东部、江南西北部、江汉、江淮、西北地区东部、黄淮、华北、东北地区南部等地自西向东将先后有中到大雨，部分地区有暴雨，局地大暴雨；最强降雨时段将出现在26日至27日。其中，内蒙古中东部、河北北部、北京、东北地区等地部分地区将有小到中雨或雷阵雨，局地伴有雷暴大风等强对流天气。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfys5232977.d.html</link>
-            <guid>3121943</guid>
-            <pubDate>Thu, 25 May 2023 13:59:49 GMT</pubDate>
+            <title><![CDATA[【科翔股份：目前公司有产品应用于人工智能领域】科翔股份5月25日在互动平台回答投资者提问时表示，人工智能是多领域、多学科的融合，公司的业务会紧跟时代潮流和社会需求，积极关注人工智能的发展趋势和机会。目前公司有产品应用于人工智能领域。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfys5242262.d.html</link>
+            <guid>3122012</guid>
+            <pubDate>Thu, 25 May 2023 14:33:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[南非股指日内上涨1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2009772.d.html</link>
-            <guid>3121942</guid>
-            <pubDate>Thu, 25 May 2023 13:58:21 GMT</pubDate>
+            <title><![CDATA[美联储柯林斯：在审议下一步利率调整时，我们将关注广泛的数据。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfys5242183.d.html</link>
+            <guid>3122011</guid>
+            <pubDate>Thu, 25 May 2023 14:33:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【丰立智能收关注函：要求说明未来在机器人相关领域的战略规划】丰立智能收关注函：要求说明公司未来在机器人相关领域的战略规划、具体的实施计划，“机器人对齿轮及精密减速器要求的行业特性”“各项指标要求不同”的具体内容，公司目前的产品是否达到要求。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2009735.d.html</link>
-            <guid>3121941</guid>
-            <pubDate>Thu, 25 May 2023 13:58:12 GMT</pubDate>
+            <title><![CDATA[美联储柯林斯：银行业的压力可能会对需求造成影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2019331.d.html</link>
+            <guid>3122010</guid>
+            <pubDate>Thu, 25 May 2023 14:33:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[埃及供应部长表示，政府推迟了部分小麦付款，以免增加央行的压力。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2009662.d.html</link>
-            <guid>3121940</guid>
-            <pubDate>Thu, 25 May 2023 13:57:54 GMT</pubDate>
+            <title><![CDATA[美联储柯林斯：暂停加息给了我们评估现有政策的空间。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2019294.d.html</link>
+            <guid>3122009</guid>
+            <pubDate>Thu, 25 May 2023 14:33:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【去哪儿：淡季低价将持续至六月初 适宜短途游、错峰出行】去哪儿25日发布的数据显示，5月5日-5月23日，国内热门城市机票平均支付价格较五一期间降低三成，较4月同期降低近一成，五一期间热门目的地中，大多进入旅游淡季，成都、北京、深圳、上海、重庆、广州则以公商务为主。酒店方面，去哪儿平台上，国内酒店平均支付价格较五一期间降低四成。去哪儿大数据研究院研究员肖鹏表示，从数据来看，五一假期后，旅游市场经历了一周左右的低谷，随后缓缓恢复。从目前预订来看，直到6月初高考结束前，旅客量将不会有明显增长，机票、酒店价格也较便宜，适合周末短途游，或错峰出行。（国是直通车）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfys5232396.d.html</link>
-            <guid>3121939</guid>
-            <pubDate>Thu, 25 May 2023 13:57:39 GMT</pubDate>
+            <title><![CDATA[美联储柯林斯：美联储可能已经到达或接近暂停加息的时间点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfys5242110.d.html</link>
+            <guid>3122008</guid>
+            <pubDate>Thu, 25 May 2023 14:32:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国众议院议长麦卡锡：昨天与美国参议院少数党领袖麦康奈尔进行了交谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2009466.d.html</link>
-            <guid>3121938</guid>
-            <pubDate>Thu, 25 May 2023 13:57:01 GMT</pubDate>
+            <title><![CDATA[EIA天然气报告：截至5月19日当周，美国天然气库存总量为23360亿立方英尺，较此前一周增加960亿立方英尺，较去年同期增加5290亿立方英尺，同比增幅29.3%，同时较5年均值高3400亿立方英尺，增幅17.0%。]]></title>
+            <guid>3122007</guid>
+            <pubDate>Thu, 25 May 2023 14:31:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ICE原糖期货下跌3.0%，报24.72美分/磅，追随WTI原油期货下跌超过3%的表现。]]></title>
-            <guid>3121937</guid>
-            <pubDate>Thu, 25 May 2023 13:56:41 GMT</pubDate>
+            <title><![CDATA[美联储柯林斯：美国通胀率过高，但显示出缓解的迹象。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2018802.d.html</link>
+            <guid>3122006</guid>
+            <pubDate>Thu, 25 May 2023 14:31:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国地震台网自动测定：05月25日21时48分在中国台湾地区附近发生4.6级左右地震，最终结果以正式速报为准。]]></title>
-            <guid>3121936</guid>
-            <pubDate>Thu, 25 May 2023 13:54:23 GMT</pubDate>
+            <title><![CDATA[美国天然气期货小幅下挫，现报2.51美元/百万英热。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2018756.d.html</link>
+            <guid>3122005</guid>
+            <pubDate>Thu, 25 May 2023 14:31:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[摩根大通：OPEC+在削减石油供应方面很好地履行承诺。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2008791.d.html</link>
-            <guid>3121935</guid>
-            <pubDate>Thu, 25 May 2023 13:54:09 GMT</pubDate>
+            <title><![CDATA[美联储巴尔金：美联储正处于“测试和学习”的状态，以确定需求放缓将如何降低通胀。]]></title>
+            <guid>3122004</guid>
+            <pubDate>Thu, 25 May 2023 14:30:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【常熟农商银行与华为签署全面深化合作协议】据证券时报，5月25日，江苏常熟农商银行股份有限公司与华为技术有限公司在华为总部签署全面深化合作协议，双方将基于各自在产业资源、产品服务、行业经验等方面的优势，进一步扩大合作深度和广度，实现资源共享、优势互补、互利共赢，持续提升金融科技能力，为客户创造感知更佳的普惠金融服务体验。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyv7021570.d.html</link>
-            <guid>3121934</guid>
-            <pubDate>Thu, 25 May 2023 13:53:55 GMT</pubDate>
+            <title><![CDATA[美国至5月19日当周EIA天然气库存 960亿立方英尺，预期1000亿立方英尺，前值990亿立方英尺。]]></title>
+            <guid>3122003</guid>
+            <pubDate>Thu, 25 May 2023 14:30:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【旅游淡季低价将持续至六月初，部分机票价格低于高铁】据澎湃新闻，近期，旅游市场进入淡季。受旅客减少影响，机票、酒店价格有明显下降。去哪儿数据显示，5月5日-5月23日，国内热门城市机票平均支付价格较“五一”期间降低三成，较4月同期降低近一成。“五一”期间的热门目的地中，大多进入旅游淡季。成都、北京、深圳、上海、重庆、广州则以公商务为主。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfys5231537.d.html</link>
-            <guid>3121933</guid>
-            <pubDate>Thu, 25 May 2023 13:53:38 GMT</pubDate>
+            <title><![CDATA[【五角大楼：美国及盟国承诺向基辅提供650亿美元军援】美国国防部长劳埃德·奥斯汀表示，美国及盟国向乌克兰提供的以及今后计划提供的军援总价值将达650亿美元。奥斯汀表示，陆基防空系统是军事援助中“最重要的”部分，他也提到，将提供装甲车，并对九个摩托化旅和机械化旅进行训练，并计划在未来几周内开始培训乌军飞行员驾驶美国F-16战机。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2018242.d.html</link>
+            <guid>3122002</guid>
+            <pubDate>Thu, 25 May 2023 14:29:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美国财政部发言人：美国两党应迅速解决债务上限问题，并避免一场人为经济危机】在惠誉警告美国的AAA评级受到达成协议的政治僵局的影响后，围绕美国债务上限谈判的紧张局势逐渐升级。惠誉将美国的评级调至“负面观察”。与此同时，DBRS晨星将美国的AAA评级置于“负面影响”的观察名单中。市场对僵局的紧张情绪日益加剧，定于下月初到期的美国国债收益率飙升至7%以上，而标准普尔500指数已连续两天下跌。经济学家预测，美国债务违约可能引发经济衰退，导致大量失业和借贷成本飙升。财政部发言人亚当斯表示，惠誉的警告“强调了国会两党迅速采取行动提高或暂停债务上限的必要性，并避免一场人为制造的经济危机。”]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2008586.d.html</link>
-            <guid>3121932</guid>
-            <pubDate>Thu, 25 May 2023 13:53:03 GMT</pubDate>
+            <title><![CDATA[巴西现货市场交易中，美元兑巴西雷亚尔USD/BRL日内上涨1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2018084.d.html</link>
+            <guid>3122001</guid>
+            <pubDate>Thu, 25 May 2023 14:28:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[WTI原油日内跌3%，现报71.98美元/桶；布伦特原油跌2.85%，现报76.02美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2008110.d.html</link>
-            <guid>3121931</guid>
-            <pubDate>Thu, 25 May 2023 13:51:20 GMT</pubDate>
+            <title><![CDATA[【亚美尼亚总理：亚方已与阿塞拜疆就互相承认领土主权完整达成一致】据央视新闻，当地时间25日，亚美尼亚总理帕希尼扬在俄罗斯首都莫斯科表示，亚美尼亚已和阿塞拜疆就互相承认领土主权完整达成一致，双方会在此基础上解决两国关系正常化的问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyu2017589.d.html</link>
+            <guid>3122000</guid>
+            <pubDate>Thu, 25 May 2023 14:26:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部副部长Adeyemo：我们需要对金融稳定面临的风险保持警惕。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfyr1001336.d.html</link>
+            <guid>3121999</guid>
+            <pubDate>Thu, 25 May 2023 14:26:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【摩根大通：欧佩克+5月兑现了减产承诺】摩根大通分析师在报告中表示，五月份迄今为止，欧佩克+石油出口总量较上月下降140万桶/日。参与减产的八个欧佩克+国家出口量减少150万桶/日，其中俄罗斯的石油出口量减少了40万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-25/detail-imyuzfys5240316.d.html</link>
+            <guid>3121998</guid>
+            <pubDate>Thu, 25 May 2023 14:26:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
