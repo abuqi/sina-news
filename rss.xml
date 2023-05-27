@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 27 May 2023 16:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 May 2023 17:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【越南计划大幅削减大米出口】越南政府表示将削减大米出口。预计到2030年时每年的大米出口量将从2022年的710万吨减少至400万吨，降幅约为44%。越南政府5月26日的一份文件显示，此举意在“促进优质大米出口，确保国内粮食安全，保护环境和适应气候变化”。这份文件还显示，到2030年越南大米的出口收入将从2022年的34.5亿美元降至26.2亿美元。据悉，越南目前是世界第三大大米出口国，仅次于印度和泰国。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-28/detail-imyvfynv0203338.d.html</link>
+            <guid>3124210</guid>
+            <pubDate>Sat, 27 May 2023 17:01:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国多地考虑用童工缓解劳工短缺】为缓解劳工短缺，美国多个州的议会打起未成年人的主意，考虑放宽与童工相关的多项法律限制。报道称，由于退休人口猛增、合法外来移民减少等因素，美国多地面临劳工短缺。威斯康星州、俄亥俄州和艾奥瓦州的州议员正在“积极考虑”以放宽童工法律限制的方式解决这一问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-28/detail-imyvfynr5461994.d.html</link>
+            <guid>3124209</guid>
+            <pubDate>Sat, 27 May 2023 16:50:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【下月起，这里放生小龙虾，或被罚款15万元】从6月1日起，日本将把小龙虾和彩龟列为“附条件特定外来生物”，禁止出售或放生，违者将面临最高3年监禁或最高300万日元（约合人民币15万元）的罚款。]]></title>
             <link>https://finance.sina.cn/7x24/2023-05-28/detail-imyvfynt6525378.d.html</link>
@@ -287,18 +299,6 @@
             <link>https://finance.sina.cn/7x24/2023-05-27/detail-imyvfpxa7184845.d.html</link>
             <guid>3123677</guid>
             <pubDate>Sat, 27 May 2023 11:56:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【财政部下达水利救灾资金7.28亿元】 近日，财政部会同水利部下达水利救灾资金7.28亿元，其中，5亿元用于水毁水利工程修复，2.28亿元用于白蚁等害堤动物灾损整治，支持湖北、浙江等28省（区、市）及新疆生产建设兵团利用汛前时机，及时开展水毁灾损水利工程设施修复，保障水利工程安全度汛。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-27/detail-imyvfpwz0407207.d.html</link>
-            <guid>3123676</guid>
-            <pubDate>Sat, 27 May 2023 11:54:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国际足联前副主席雷纳尔德·特马里因涉嫌贪腐被起诉】当地时间5月27日，法国国家金融检察官办公室（PNF）表示，国际足联前副主席雷纳尔德·特马里因在卡塔尔获得2022年世界杯举办权的事件中涉嫌腐败而被起诉。负责此案的调查法官于5月22日向雷纳尔德·特马里送达了第一份起诉书。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-27/detail-imyvfpwx6669004.d.html</link>
-            <guid>3123675</guid>
-            <pubDate>Sat, 27 May 2023 11:44:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
