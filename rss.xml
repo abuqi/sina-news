@@ -4,11 +4,76 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 27 May 2023 13:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 May 2023 14:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【中汽协发布车用操作系统开源计划中首个微内核开源项目】中国汽车工业协会今日正式发布中国车用操作系统开源计划中首个微内核开源项目。据悉，此次开源微内核项目将采用木兰公共许可证（第2版），已通过开放原子开源基金会代码托管平台公开发布包括初始化代码、核心功能源代码、芯驰G9X适配代码等共计122个文件，14883行源代码。计划将于2023年底启动POSIX PSE51 OEM预研项目，实现功能验证，并于2024年实现功能安全验证，2025年实现量产验证。（科创板日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-27/detail-imyvfuey7081972.d.html</link>
+            <guid>3123877</guid>
+            <pubDate>Sat, 27 May 2023 14:13:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【基金又“滞销”了：新基发行遭遇近8年来最“冷”时刻】 今年市场震荡、风格快速轮动的背景下，基金发行市场也陷入了冰点。5月以来，仅有24只基金开启了认购，募集金额也只有191.66亿元，双双创出年内新低。（21世纪经济报道）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-27/detail-imyvfuey7079511.d.html</link>
+            <guid>3123832</guid>
+            <pubDate>Sat, 27 May 2023 14:01:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行管委温施：我们现在已经做好了应对通胀的准备。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-27/detail-imyvfuex0299439.d.html</link>
+            <guid>3123793</guid>
+            <pubDate>Sat, 27 May 2023 13:47:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行管委温施：需要财政支持，以将通胀率拉回2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-27/detail-imyvfuey7076686.d.html</link>
+            <guid>3123792</guid>
+            <pubDate>Sat, 27 May 2023 13:47:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国泰君安证券调整高管分工：王松分管投行，李俊杰分管财富管理】国泰君安昨日发布了高管分工调整的内部通知，公司总裁王松分管投行业务；副总裁李俊杰分管财富管理业务，不再分管投行业务。（财联社）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-27/detail-imyvfuet5515288.d.html</link>
+            <guid>3123768</guid>
+            <pubDate>Sat, 27 May 2023 13:40:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高瓴创始合伙人：生命科学领域正经历技术及产业创新的网络化趋势】生命科学产业有何新趋势？对此，在第七届高瓴HCare全球健康产业峰会暨妙佑医疗国际（Mayo Clinic）医疗峰会的会前高峰论坛上，高瓴创始合伙人、联席首席投资官易诺青分享了他的观点，表示“生命科学领域正在发生两个变化：一是技术及产业创新的网络化趋势；二是关注产业及创新网络中的关键节点价值，围绕这些重要节点，补足创新链条，形成完整闭环，是未来创新生态建设的关键。”]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-27/detail-imyvfuev6590109.d.html</link>
+            <guid>3123763</guid>
+            <pubDate>Sat, 27 May 2023 13:39:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行管委马赫鲁夫：欧洲央行在加息方面已经接近终点了。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-27/detail-imyvfuex0296326.d.html</link>
+            <guid>3123732</guid>
+            <pubDate>Sat, 27 May 2023 13:31:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行管委马赫鲁夫表示，放缓加息步伐至标准加息幅度（25个基点）是合适的。必须及时使通胀回落至目标值。欧洲央行看到紧缩政策的效果正在显现。欧洲央行的政策决定必须依赖于数据。公共债务的可持续性不能被视为是理所当然的。]]></title>
+            <guid>3123731</guid>
+            <pubDate>Sat, 27 May 2023 13:30:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美共和党谈判代表：债务谈判仍存在“棘手问题”没有解决】美国众议院金融服务委员会主席、共和党谈判代表McHenry表示，众议院共和党人与白宫的债务上限谈判仍旧存在“棘手问题”。“可能要几小时或几天才能达成协议，我不知道会是什么时候，”McHenry在国会大厦说。他补充说，两党还剩下为数不多的分歧。麦卡锡和总统乔·拜登的谈判代表工作到深夜，以期消除违约的威胁。但在美财长耶伦所说的大限日（6月5日）之前达成协议并通过法案是“严峻的挑战”。麦卡锡已承诺，会按照规定给议员们72小时来评估文本，随后表决。这个规定，再加上参议院程序上的障碍，有可能会令法案的通过拖到6月5日这一最后期限。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-27/detail-imyvfuex0295898.d.html</link>
+            <guid>3123726</guid>
+            <pubDate>Sat, 27 May 2023 13:29:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国将从俄罗斯撤回逾百名政府工作人员】 当地时间5月27日对媒体证实，将于近日从俄罗斯撤回逾百名政府工作人员，其中包括外交官、文化事务协调人、德语教师等。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-27/detail-imyvfuey7073107.d.html</link>
+            <guid>3123725</guid>
+            <pubDate>Sat, 27 May 2023 13:29:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【应对干旱威胁，德国企业开发浅吃水船保障内河航运】 当地时间26日，在位于莱茵河畔的德国西南部城市路德维希港，“思多而特路德维希港”号浅吃水船正式开航。它由德国化工巨头巴斯夫公司与挪威化学品船东思多而特联合开发，专为干旱和低水位等恶劣条件而设计建造，以保障巴斯夫路德维希港工厂的原材料运输。据介绍，为适应浅水域作业，这艘船在设计中从电气设备、起居区到驾驶室等各方面都尽可能减重。它的最大载重可以达到5100吨。即使在莱茵河关键航点考布段水位仅为30厘米，即水深约1.6米的情况下，它也能够携带800吨货物通过，比以往货轮要多得多。去年夏季，受干旱影响，莱茵河航运量大幅减少，威胁德国工业供应，波及化工、钢铁等行业。（央视财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-27/detail-imyvfuex0293555.d.html</link>
+            <guid>3123709</guid>
+            <pubDate>Sat, 27 May 2023 13:18:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【沙特大量进口俄罗斯成品油，从而将本国产油品出口至欧美】 大宗商品数据服务商Kpler的数据显示，俄罗斯柴油和汽油在4月份大量运抵沙特的拉斯坦努拉港和吉赞港，俄罗斯平均每天向沙特出口17.4万桶。在同一个月，沙特从该国的朱拜尔港和延布港将本国产的燃油销往欧洲和非洲。因为俄乌冲突导致的一系列国际形势变化，从2月开始，沙特就超越俄罗斯成为了欧洲燃油的最大供应商，并从4月超过美国成为全球第二大柴油和汽油出口国。不过报道也强调，沙特不会将从俄罗斯进口的燃料直接倒卖给欧洲，因为此举违反了这些国家对俄罗斯化石燃料的禁令。目前，沙特国内正大量使用从俄罗斯采购的燃油，而将本国开采的石油加工后销往海外。（环球时报）]]></title>
             <link>https://finance.sina.cn/7x24/2023-05-27/detail-imyvfuex0293012.d.html</link>
@@ -235,70 +300,6 @@
             <link>https://finance.sina.cn/7x24/2023-05-27/detail-imyvfiqx5689804.d.html</link>
             <guid>3123653</guid>
             <pubDate>Sat, 27 May 2023 10:13:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家卫健委发言人：截至目前共举办219场国务院联防联控机制新闻发布会】国家卫健委新闻发言人米锋表示，截至目前，国家卫生健康委组织并主持了219场国务院联防联控机制的新闻发布会，共有400位嘉宾走上发布台，这个数字是非常准确的。这400位嘉宾中就来自在座的各个部门、来自我们有关的地方，他们在发布会上回答了中外媒体2832人次提出的问题。我们在最吃劲的关键的阶段，曾经连续114天召开新闻发布会，全程都是通过电视和网络向全球进行直播。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-27/detail-imyvfirc0517792.d.html</link>
-            <guid>3123652</guid>
-            <pubDate>Sat, 27 May 2023 10:10:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯特维尔州政府称一架无人机在该州坠毁】 当地时间27日，俄罗斯特维尔州政府新闻处称，当日中午一架无人机在特维尔州坠毁，没有造成人员伤亡。具体情况正在调查中。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-27/detail-imyvfire7294846.d.html</link>
-            <guid>3123651</guid>
-            <pubDate>Sat, 27 May 2023 10:10:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国监管机构称Meta已提议限制自身对其他企业广告数据的使用】英国竞争和市场管理局5月26日表示，Meta已提出关于不将竞争对手的广告数据用于其Facebook Marketplace分类广告服务的承诺。该公司还将采取措施，对于使用广告数据来开发在英国提供的与其他广告客户存在竞争的其他Meta产品进行限制。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-27/detail-imyvfiqx5686970.d.html</link>
-            <guid>3123650</guid>
-            <pubDate>Sat, 27 May 2023 10:06:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外交部发言人：我们不做沉默的羔羊 中国声音更多地为外界听见】今天（27日）由国务院新闻办公室和清华大学主办的第三届中国新闻发言人论坛在北京举行。外交部发言人毛宁在论坛演讲中表示，要积极主动发声，不说是没有话语权的。去年我们一共举行了241场，例行回答了3600多个问题，有问必答，受到外国记者的高度肯定。通过我们的不懈坚持和努力，国际社会对中国外交部记者会的关注和报道不断增多。去年国际媒体对外交部例行记者会的英文报道量同比增长了32%，中国声音更多地为外界听见。面对反华敌对势力掀起的一波又一波的舆论抹黑浪潮，我们不做沉默的羔羊，不做绅士，要做战士，在尖锐激烈的国际舆论斗争中，确保话语阵地不丢，坚决维护国家的利益、形象和尊严。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-27/detail-imyvfire7293431.d.html</link>
-            <guid>3123649</guid>
-            <pubDate>Sat, 27 May 2023 10:03:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯西北部一石油管道公司大楼发生爆炸】 俄罗斯普斯科夫州州长韦杰尔尼科夫27日说，该州一石油管道公司大楼当天发生爆炸，但未造成人员伤亡。韦杰尔尼科夫在社交媒体上发布消息说，该州涅韦尔区利特维诺沃村附近一石油管道公司的行政大楼当天早晨发生爆炸，建筑受损，但没有人员伤亡。初步信息显示，爆炸由两架无人机袭击引起，进一步调查正在进行。普斯科夫州属俄罗斯西北联邦区，与白俄罗斯、爱沙尼亚和拉脱维亚接壤。事发地涅韦尔区毗邻白俄罗斯。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-27/detail-imyvfiqz6760688.d.html</link>
-            <guid>3123648</guid>
-            <pubDate>Sat, 27 May 2023 10:02:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【电影《小美人鱼》内地总票房突破1000万】5月27日，猫眼专业版数据显示，电影《小美人鱼》上映2天，内地总票房突破1000万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-27/detail-imyvfirc0512276.d.html</link>
-            <guid>3123647</guid>
-            <pubDate>Sat, 27 May 2023 09:44:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海市经信委副主任张宏韬：上海正构建一批新增长引擎 推动数字经济和实体经济深度融合】据证券时报，上海国创中心举办的第二届长三角科技产业创新论坛暨AI大模型产业应用高峰论坛在上海徐汇区举行。上海市经信委副主任张宏韬在致辞时表示，超大规模预训练模型是走向通用智能的关键技术。上海将持续优化营商环境，推进创新链、产业链、资金链、人才链的深度融合，更好服务科创企业在沪壮大，参与全球产业合作发展。据介绍，当前，上海积极落实国家战略，构建一批新的增长引擎，推动数字产业化、产业数字化，推动数字经济和实体经济深度融合，形成“2+（3+6）+（4+5）”的完整产业体系。]]></title>
-            <guid>3123646</guid>
-            <pubDate>Sat, 27 May 2023 09:38:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【丰田首次将液氢动力汽车投入24小时耐力赛】据报道，丰田汽车公司周六将一辆以液态氢为动力的赛车投入到日本中部的24小时耐力赛中，这使其成为全球首辆参加正式比赛的液氢动力汽车。在静冈县富士国际赛车场举行的比赛将持续到周日。通过让液氢动力汽车参加耐力赛，丰田打算改进这项新生技术的性能，并解决一些挑战，包括如何将液态氢保持在极低的温度下。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-27/detail-imyvfiqx5670253.d.html</link>
-            <guid>3123645</guid>
-            <pubDate>Sat, 27 May 2023 09:34:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌媒：乌国安局局长承认克里米亚大桥爆炸事件与乌方有关】乌克兰国家安全局局长瓦西里·马柳克在接受乌媒体采访时承认，乌国家安全局在去年10月克里米亚大桥爆炸事件中采取了“某些措施”，但拒绝透露更多细节。马柳克称，按照“国际法和战时惯常做法”，克里米亚大桥属于“不得不”切断的敌方后勤补给线，因此乌方相应地采取了“某些措施”。马柳克同时承认，去年10月位于塞瓦斯托波尔俄黑海舰队基地的一艘舰船遭无人艇袭击也是乌国家安全局的“一次有计划的特别行动”。 (北京日报)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-27/detail-imyvfire7287218.d.html</link>
-            <guid>3123644</guid>
-            <pubDate>Sat, 27 May 2023 09:33:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞典大瀑布电力公司（Vattenfall）：瑞典核反应堆Formark Block2因出现故障，产能降至0兆瓦，而装机产能为1121兆瓦。]]></title>
-            <guid>3123643</guid>
-            <pubDate>Sat, 27 May 2023 09:22:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国海军陆战队司令：暂无在日本部署中程导弹的计划】 美国海军陆战队司令大卫·伯杰日前在华盛顿表示，称海军陆战队将和日本自卫队一起“形成牢固的统一战线”。伯杰表示现阶段并无部署中程导弹的计划，同时称假设在日本部署中程导弹，则需要美日政府间进行磋商。 (澎湃新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-27/detail-imyvfire7283237.d.html</link>
-            <guid>3123642</guid>
-            <pubDate>Sat, 27 May 2023 09:13:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
