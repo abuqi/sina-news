@@ -4,11 +4,80 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 28 May 2023 19:12:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 May 2023 20:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场资讯：沙特国王萨勒曼祝贺埃尔多安当选土耳其总统。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-29/detail-imyvkpzq8932670.d.html</link>
+            <guid>3125261</guid>
+            <pubDate>Sun, 28 May 2023 20:16:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：我有信心债务上限法案将被提交到我的办公桌上（在两院通过）。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-29/detail-imyvkpzq8932638.d.html</link>
+            <guid>3125260</guid>
+            <pubDate>Sun, 28 May 2023 20:15:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院多数党领袖舒默邀请参议员们参加美东时间今日下午6点30分（北京时间今晨06:30）与白宫官员一道的简报会。]]></title>
+            <guid>3125259</guid>
+            <pubDate>Sun, 28 May 2023 20:15:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院多数党领袖舒默：参议员们应该为可能在本周五或周末的债务上限投票做准备。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-29/detail-imyvkpzq8932610.d.html</link>
+            <guid>3125258</guid>
+            <pubDate>Sun, 28 May 2023 20:15:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【土耳其最高选举委员会：初步结果显示埃尔多安赢得总统选举】当地时间5月28日晚，土耳其最高选举委员会表示，根据选举初步结果，现任总统埃尔多安在土耳其总统选举第二轮投票中获胜。土耳其最高选举委员会称，截至目前，已完成99.59%的选票统计，现任总统埃尔多安获得51.91%选票，6个反对党组成的“民族联盟”阵营候选人克勒奇达尓奥卢获得48.09%选票。根据这一初步结果，埃尔多安在选举中获胜。最高选举委员会预计于6月1日公布选举正式结果。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-29/detail-imyvkpzs5708132.d.html</link>
+            <guid>3125257</guid>
+            <pubDate>Sun, 28 May 2023 20:04:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【产能过剩 光伏行业“狼真的要来了”】“今天这个Party（展会），在接下来的三四年时间里是很难被超越的。”最热光伏展正式开展前夕，一家头部光伏厂商负责人在SNEC（上海新能源大会）论坛上的判断，给行业浇了一盆冷水。事实上，几乎所有从业者都意识到了行业正进入新的拐点，并试图避免因产能过剩可能引发的惨烈竞争。]]></title>
+            <guid>3125256</guid>
+            <pubDate>Sun, 28 May 2023 19:56:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其初步计票结果显示，埃尔多安获得52.14%的选票。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-29/detail-imyvkpzp5612669.d.html</link>
+            <guid>3125255</guid>
+            <pubDate>Sun, 28 May 2023 19:42:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其非官方结果显示埃尔多安赢得选举。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-29/detail-imyvkpzq8926739.d.html</link>
+            <guid>3125254</guid>
+            <pubDate>Sun, 28 May 2023 19:41:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【丫丫回到北京动物园】从国家林草局获悉，大熊猫“丫丫”顺利通过隔离检疫，乘坐包机平安抵达北京，于5月29日0时43分回到北京动物园大熊猫馆。目前，“丫丫”健康状况稳定。因“丫丫”已进入老年，回京后需静养、适应新的环境，现不对外展出。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-29/detail-imyvkpzu1645336.d.html</link>
+            <guid>3125253</guid>
+            <pubDate>Sun, 28 May 2023 19:37:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【教育部发布预防学生溺水工作预警】近期，全国各地气温迅速回升，汛期即将来临，溺水事故进入高发期，多地先后发生学生溺亡事件。教育部基础教育司发布预防学生溺水工作预警，提醒各地教育行政部门和学校要高度重视，进一步强化预防学生溺水工作，切实保障学生生命安全。]]></title>
+            <guid>3125252</guid>
+            <pubDate>Sun, 28 May 2023 19:36:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【网络“黑兼职”诱发犯罪问题突出 日本暴力犯罪案件呈增多态势】近日，发生在日本东京都银座的蒙面人抢劫劳力士名表店视频在网络媒体上广泛传播，加重了民众对日本社会治安恶化的担忧。视频中，3名身着黑衣的蒙面人手持尖刀威胁店员，挥舞着撬棍，在众目睽睽之下接连砸碎高档手表店内的玻璃展柜，大肆洗劫一气之后，携带两提包高档手表乘车疾驰而去。被抢劫的表店位于银座的繁华街边，门前行人车辆如织，由于抢劫现场酷似电影中的场景，在场民众错愕不已。（中国新闻网）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-29/detail-imyvkpzs5701323.d.html</link>
+            <guid>3125251</guid>
+            <pubDate>Sun, 28 May 2023 19:24:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[在美国达成债务协议后，美元兑多数十国集团货币下跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-29/detail-imyvkpzp5605372.d.html</link>
+            <guid>3125250</guid>
+            <pubDate>Sun, 28 May 2023 19:20:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[中国地震台网正式测定：05月29日02时51分在西藏山南市措美县（北纬28.58度，东经91.43度）发生3.9级地震，震源深度10千米。]]></title>
             <guid>3125249</guid>
@@ -223,73 +292,6 @@
             <link>https://finance.sina.cn/7x24/2023-05-28/detail-imyvkcmu9133154.d.html</link>
             <guid>3124841</guid>
             <pubDate>Sun, 28 May 2023 14:20:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华润水泥控股：封开水泥与德庆燃气订立供气合同】华润水泥控股(01313)发布公告，2023年5月25日，公司全资附属公司封开水泥与德庆燃气订立供气合同，自2023年5月25日起至2025年12月31日止的固定期限内，封开水泥将向德庆燃气采购天然气。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-28/detail-imyvkcmu9131194.d.html</link>
-            <guid>3124833</guid>
-            <pubDate>Sun, 28 May 2023 14:10:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国众议院少数党领袖Jeffries：白宫将于下午5点（北京时间次日凌晨5点）向民主党通报债务上限协议。]]></title>
-            <guid>3124830</guid>
-            <pubDate>Sun, 28 May 2023 14:05:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【土耳其总统选举第二轮投票结束 计票工作开始】当地时间5月28日17时（北京时间22时），土耳其总统选举第二轮投票结束，计票工作开始。外界预计，初步计票结果最快将于当晚对外公布。28日8时，土耳其总统选举第二轮投票开始。土耳其最高选举委员会公布的数据显示，此次选举，土耳其注册选民约6410万，投票站超19万个。其中首次获得投票资格的选民人数超600万。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-28/detail-imyvixcy6037946.d.html</link>
-            <guid>3124829</guid>
-            <pubDate>Sun, 28 May 2023 14:04:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【下周资本市场大事提醒：持续关注美国债务上限进展 聚焦非农和中国PMI】1、下周持续关注美国债务上限进展，美国债务僵局取得突破性进展，债务协议已初步商定，周三将草案提交参众两院进行表决。2、下周五将公布美国非农就业数据。3、5月31日，国家统计局将发布5月份中国采购经理指数月度报告。4、按照中国现行成品油调整机制，在5月30日24时，国内第11轮油价调整窗口将开启。5、下周(5月29日-6月4日)，A股共有57只股票限售股迎来解禁，解禁股数量合计约为2.42亿股，解禁总市值达668.60亿元。6、下周将有5只新股申购，5月29日，双元科技、天键股份进行申购；5月30日，豪江智能进行申购；5月31日，南王科技、阿特斯进行申购。阿特斯是全球主要的光伏组件制造商之一，核心业务为晶硅光伏组件的研发、生产和销售，本初始公开发行股票5.41亿股。7、下周央行公开市场将有180亿元逆回购到期，其中周一至周五(5月29日-6月2日)分别到期20亿元、20亿元、20亿元、70亿元、50亿元。8、5月31日盘后，调整后的MSCI中国指数、MSCI中国A股在岸指数、MSCI中国全股指数等将生效。9、6月1日起，香港《适用于虚拟资产交易平台营运者的指引》正式生效。10、欧佩克+代表们表示，欧佩克+正按计划于6月3日至4日在维也纳举行面对面会议。欧佩克将于6月3日召开会议，随后欧佩克+将于6月4日召开会议，欧佩克+联合部长级监督委员会也将于6月4日举行会议。11、脑机接口创新发展论坛将于5月29日下午召开。12、北京时间5月29日上午 11:00，英伟达创始人兼首席执行官黄仁勋将在 COMPUTEX 2023 大会带来主题演讲。13、2023中关村论坛将于5月30日在北京闭幕。14、6月1日上午9时起，中国内地将接受合资格的香港私家车申请“港车北上”，并于7月1日零时起开始让已获批的香港私家车经港珠澳大桥口岸往来香港与广东省。15、6月2日，万事达卡公司前首席执行官彭安杰将正式接任世界银行行长一职。16、贾跃亭旗下Faraday Future(FF)将于美国洛杉矶时间5月30日(北京时间31日)举行FF 91 & Faraday Future2.0终极发布。17、5月29日为美国阵亡将士纪念日，美股休市一天，5月30日恢复正常交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-28/detail-imyvixcy6037802.d.html</link>
-            <guid>3124828</guid>
-            <pubDate>Sun, 28 May 2023 14:04:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国工程院院士戴琼海：算法大模型成本日趋高昂 GPT系列研究投入累计超过30亿美元】今日中国工程院院士、中国人工智能学会理事长戴琼海在中关村论坛上表示，算法大模型成本日趋高昂， GPT-3训练成本单次约500万美元， GPT系列研究投入累计超过30亿美元。并且模型日趋庞大，5年提升两万倍。任务日趋多样，一个模型开源处理多个任务。GPT-3训练数据约为人民日报45万年文字量。]]></title>
-            <guid>3124827</guid>
-            <pubDate>Sun, 28 May 2023 13:56:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国工程院院士戴琼海：大模型预计5年左右将成为人工智能应用中的关键基础平台】今日中国工程院院士、中国人工智能学会理事长戴琼海在中关村论坛上表示，大模型研究代表成果完全由美国主导，我国阿里、百度、清华等单位及时跟进，大模型预计5年左右将成为人工智能应用中的关键基础平台，类似PC时代操作系统，由美主导的大模型生态对我国形成严峻挑战。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-28/detail-imyvixcw9259132.d.html</link>
-            <guid>3124826</guid>
-            <pubDate>Sun, 28 May 2023 13:55:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【招商证券：A股“N“型最后一个拐点或将出现】 招商证券研报指出，4月中下旬以来，A股在经济数据修复环比动能不及预期、美元走强和热门板块回调活跃资金暂时停止流入三重作用的影响下，出现明显调整。我们认为近期三个原因都迎来了转机，此前提出的“N“型最后一个拐点或将出现。这一轮行情结构分化将会较大，推荐围绕业绩增速最高和改善斜率最大的方向进行布局。从大的产业趋势来看，围绕AI+/数字经济/先进制造/自主可控等领域机会仍将层出不穷。]]></title>
-            <guid>3124825</guid>
-            <pubDate>Sun, 28 May 2023 13:53:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据中国海事局网站消息，防城港海事局发布航行警告，5月29日0时至5月31日24时，北部湾部分海域进行实弹射击演练，禁止驶入。]]></title>
-            <guid>3124824</guid>
-            <pubDate>Sun, 28 May 2023 13:53:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登将于当地时间周日下午2点（北京时间29日凌晨2点）与众议院议长麦卡锡讨论债务上限协议问题。]]></title>
-            <guid>3124823</guid>
-            <pubDate>Sun, 28 May 2023 13:49:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【谢展寰：香港与国家渔业发展方向一致 促进渔业可持续是大势所趋】香港特区政府环境及生态局局长谢展寰28日表示，促进渔业可持续发展是大势所趋，与国家渔业发展方向一致，特区政府会继续推动及协助渔民转型至现代化和可持续作业模式，加强人才培训，并同时保护海洋资源。（中国新闻网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-28/detail-imyvixcy6034471.d.html</link>
-            <guid>3124815</guid>
-            <pubDate>Sun, 28 May 2023 13:44:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中金公司：四大指标初步提示A股偏底部特征 当前位置不必悲观】中金公司发布的最新研报称，综合来看，目前指数的快速回落，已经引至部分指标初步提示A股偏底部特征。首先，沪深300指数前向市盈率处于历史偏低位，股权风险溢价上升至均值上方0.8倍标准差的位置，表明当前投资者风险偏好较低。其次，十年期国债利率已经接近去年10月底股市阶段底部时期位置。“再次，近期两市日成交额跌至8000亿元以下，按自由流通市值对应换手率跌至2%以下，已经进入A股历史换手率偏底部区域。最后，近期新基金发行遇冷，IPO也再度出现破发，以上往往也是A股历史常见的一些偏底部特征。”中金公司进一步指出。中金公司判断，虽然结合当前的国内经济环境及外部扰动，在没有出现明显利好因素催化之前，短期投资者风险偏好的回落可能会继续影响资产价格表现，但中国内需市场潜力大，政策空间足，当前位置对A股市场不必悲观，中期市场机会大于风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-28/detail-imyvixcw9255452.d.html</link>
-            <guid>3124799</guid>
-            <pubDate>Sun, 28 May 2023 13:35:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【粤港澳大湾区轨道交通运营和在建里程逾5400公里】经过多年发展，粤港澳大湾区轨道交通逐渐形成“国铁干线、城际铁路、城市轨道交通”三级网络。记者28日从广州地铁集团获悉，大湾区内运营和在建的轨道交通里程超5400公里，远期规划总里程将逾1万公里。（中国新闻网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-28/detail-imyvixcw9254929.d.html</link>
-            <guid>3124795</guid>
-            <pubDate>Sun, 28 May 2023 13:32:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
