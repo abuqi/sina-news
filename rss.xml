@@ -4,11 +4,28 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 28 May 2023 16:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 May 2023 17:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【外媒热议C919商业首飞：中国自力更生“里程碑”】5月28日，中国东方航空使用中国商飞交付的C919大型客机，执行MU9191航班，从上海虹桥机场飞往北京首都国际机场，开启这一机型全球首次商业载客飞行。中国国产大飞机C919圆满完成商业首航，吸引了全球目光。世界两大客运飞机制造商波音、空客公司均发文祝贺。多家外媒认为，C919商业首飞是一个“里程碑”事件。（中国新闻网）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-29/detail-imyvkits9031968.d.html</link>
+            <guid>3125069</guid>
+            <pubDate>Sun, 28 May 2023 17:04:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一天涌入超15万人！实探最“热”光伏展 电池厂商battle技术 头部企业掘金第二赛道】5月26日结束的上海新能源大会（SNEC）光伏展，毫无疑问是过去一周较为吸睛的行业大事件。在本次展会现场看到，电池技术效率是各家光伏厂商比拼的核心，且已有清晰的提效路径规划，TOPCon（隧穿氧化层钝化接触）、HJT（异质结）、ABC（全背接触电池）等新型高效技术同台竞技，厂商们也赋予光伏产品超低碳、尺寸多样化等新的属性。同时，由于越来越多的参与者涌入光伏赛道，多数头部光伏厂商已经在寻找第二增长极，BIPV（光伏建筑一体化）、储能、氢能等是业内的普遍选择。]]></title>
+            <guid>3125041</guid>
+            <pubDate>Sun, 28 May 2023 16:47:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全球城市创业孵化指数：北京综合得分排名第四】28日发布的“全球城市创业孵化指数”显示，纽约、伦敦、旧金山、北京、波士顿、深圳、上海、东京、洛杉矶和芝加哥的创业孵化指数综合得分排名前十。其中，排名前四的纽约、伦敦、旧金山和北京优势较为明显。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-29/detail-imyvkits9027194.d.html</link>
+            <guid>3125030</guid>
+            <pubDate>Sun, 28 May 2023 16:40:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[中国地震台网正式测定：05月28日23时45分在哥伦比亚（北纬7.10度，西经73.10度）发生5.2级地震，震源深度160千米。]]></title>
             <guid>3124998</guid>
@@ -274,23 +291,6 @@
             <link>https://finance.sina.cn/7x24/2023-05-28/detail-imyvixcw9249552.d.html</link>
             <guid>3124767</guid>
             <pubDate>Sun, 28 May 2023 13:06:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【西南地区首个40米预制箱梁用于成达万高铁】 5月28日，成都至达州至万州高速铁路（简称成达万高铁）在四川资阳中和制梁场浇筑首孔40米预制箱梁。40米预制箱梁是中国高铁重大科研创新成果的工程化应用，首次应用于西南地区高铁建设。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-28/detail-imyvixcw9248990.d.html</link>
-            <guid>3124766</guid>
-            <pubDate>Sun, 28 May 2023 13:03:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【温氏股份：猪周期仍然存在 行业一定会给予优秀者合理的回报】 温氏股份在披露的投资者关系活动记录表中表示，在我国，猪肉市场是完全竞争市场，猪价长期主要受市场供需关系影响，目前行业从业者均无法控制猪价。尽管猪价已持续低迷较长时间，但公司并不担心。猪周期仍然存在，行业一定会给予优秀者合理的回报。目前公司资金较为充裕，不会过分顾虑资金而影响正常的生产经营工作。对公司而言，关键问题在于做好成本控制，保持竞争优势。接下来，公司将继续按照既定规划，持续做好母猪配种、仔猪投苗和肉猪育肥等基础管理工作，确保大生产稳定。待后续猪价反转，公司自然能获得合理的收益。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-28/detail-imyvixcw9248893.d.html</link>
-            <guid>3124764</guid>
-            <pubDate>Sun, 28 May 2023 13:03:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【赵志耘：目前已有超过半数大模型实现开源 北京、广东、上海三地开源数量和开源影响力均居国内前三】今日中关村论坛上，中国科学技术信息研究所所长赵志耘表示，中国大模型研发团队积极推进大模型开源发展，目前已有超过半数大模型实现开源，北京、广东、上海三地开源数量和开源影响力均居国内前三。高校/科研机构是开源主力。清华大学、复旦、百度的大模型开源影响力最高。]]></title>
-            <guid>3124762</guid>
-            <pubDate>Sun, 28 May 2023 12:51:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
