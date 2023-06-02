@@ -4,301 +4,293 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Fri, 02 Jun 2023 12:35:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 13:22:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【华友钴业国内首个电池级锂盐项目竣工，年产5万吨】5月31日上午，广西华友锂业有限公司年产5万吨电池级锂盐项目竣工仪式在玉林龙潭产业园区锂电新能源材料一体化智能制造基地举行，标志着华友钴业在国内首条锂盐生产线由项目建设阶段如期进入生产调试阶段。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhut8206604.d.html</link>
+            <guid>3131607</guid>
+            <pubDate>Fri, 02 Jun 2023 13:20:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚马逊(AMZN.O)盘前上涨1.8%，据报道该公司正在与电信公司洽谈低成本服务。]]></title>
+            <guid>3131606</guid>
+            <pubDate>Fri, 02 Jun 2023 13:20:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[福特汽车(F.N)：5月美国总销量为170,933辆，同比增加10.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhuy8255615.d.html</link>
+            <guid>3131605</guid>
+            <pubDate>Fri, 02 Jun 2023 13:19:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【良品铺子现3581.19万元折价大宗交易，折价率9.86%】良品铺子6月2日大宗交易成交139.4万股，成交额3581.19万元，占当日总成交额的38.14%，成交价25.69元，较市场收盘价28.5元折价9.86%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhux1477877.d.html</link>
+            <guid>3131603</guid>
+            <pubDate>Fri, 02 Jun 2023 13:18:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2023中国量化科技白皮书：量化交易监管框架仍需完善】在上海举行的2023·量化科技嘉年华上，发布了《2023中国量化科技白皮书》。白皮书指出，面对高频率的创新迭代，业务革新大潮带来的新业务新品种增加，量化科技背后的整个生态体系面临巨大挑战，一方面，量化交易监管框架仍需完善，策略算法多处于黑盒或者灰盒状态，具有一定的隐蔽性，有必要对程序化交易进一步细化和辨析，如增加频率、策略、算法等方面的相关分类和说明，包括在代码及策略算法层面的数据使用上加强监管，以推动量化科技行业健康持续发展；同时，行业技术标准建设有待加强，目前量化科技领域的团体标准、行业标准比较缺乏，将不利于量化数据质量与交换效率的提升，以及量化交易系统与平台软件质量的保证，将影响量化科技的长期发展。白皮书建议，量化科技行业应在制度体系、机构发展、生态建设等多层面发展与提高量化科技，以进一步拓展其在专业投资、资产管理、投顾业务等方面的应用场景。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhuv9280830.d.html</link>
+            <guid>3131602</guid>
+            <pubDate>Fri, 02 Jun 2023 13:17:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家开发银行上海市分行原党委书记、行长茆君才接受审查调查】据中央纪委国家监委驻国家开发银行纪检监察组、辽宁省纪委监委消息：国家开发银行上海市分行原党委书记、行长茆君才涉嫌严重违纪违法，目前正接受中央纪委国家监委驻国家开发银行纪检监察组纪律审查和辽宁省盘锦市监委监察调查。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhuy8254580.d.html</link>
+            <guid>3131601</guid>
+            <pubDate>Fri, 02 Jun 2023 13:16:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根士丹利将苹果(AAPL.O)的目标股价从185.00美元上调至190.00美元。]]></title>
+            <guid>3131600</guid>
+            <pubDate>Fri, 02 Jun 2023 13:14:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京将发布新一轮消费券 每人最多可领1600元】 从北京市商务局获悉，为加快释放绿色消费潜力，扩大端午节及暑期等重要节点的服务供给，北京将于6月3日至7月16日发放新一轮“京彩·绿色”消费券，在京消费者每人最多可领取五张共1600元的消费券。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhuv9279075.d.html</link>
+            <guid>3131599</guid>
+            <pubDate>Fri, 02 Jun 2023 13:13:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑墨西哥比索在美国5月就业数据公布后延续跌势，创今年以来新低。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhux1476144.d.html</link>
+            <guid>3131598</guid>
+            <pubDate>Fri, 02 Jun 2023 13:11:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西汽车销售商联合会（Fenabrave）：巴西5月汽车销量为176491辆。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhux1475728.d.html</link>
+            <guid>3131597</guid>
+            <pubDate>Fri, 02 Jun 2023 13:09:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【香港：今年前5个月访港旅客总人数突破1000万人次】自香港与内地恢复全面通关以来，访港旅客数逐步回升。香港旅发局今日（2日）公布，今年前5个月访港旅客数已突破1000万人次。据了解，目前访港旅客数呈逐月上升趋势，4月及5月日均旅客人次达约为9万人次，“五一”假期日均旅客数更超过14万人次。香港旅发局总干事程鼎一表示，预计全年访港旅客数目有望达到2600万人次。（大湾区之声）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhuy8253004.d.html</link>
+            <guid>3131596</guid>
+            <pubDate>Fri, 02 Jun 2023 13:09:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中央气象台：对台风“玛娃”停止编号】台风“玛娃”今晚20时在日本以南洋面变性为温带气旋，中央气象台20时对其停止编号，但其对日本的风雨影响仍在持续。受“玛娃”带来的持续强降雨影响，日本静冈县、爱知县、三重县、和歌山县、神奈川县、埼玉县、茨城县等地多条河流超过泛滥警戒水位，多处发生山体滑坡等灾害。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhuv9275265.d.html</link>
+            <guid>3131595</guid>
+            <pubDate>Fri, 02 Jun 2023 13:08:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【微软对测试Office AI功能加收40%的费用，美银沃尔玛等600多家大客户参与】据知情人士透露，微软对测试Office AI功能收取额外费用。据悉，美银、沃尔玛、福特、埃森哲等600多家微软大客户一直在测试Office 365中的AI功能，微软向至多1000名用户收取10万美元的固定费用，为期一年。这意味着，这些参与测试的企业要比经典版用户多支付至少40%的费用，但可以自动完成在Word文档中编写文本和制作PowerPoint幻灯片等任务。（新浪科技）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhut8199312.d.html</link>
+            <guid>3131594</guid>
+            <pubDate>Fri, 02 Jun 2023 13:07:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西现货市场交易中，美元兑巴西雷亚尔USD/BRL日内上涨1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhux1474117.d.html</link>
+            <guid>3131593</guid>
+            <pubDate>Fri, 02 Jun 2023 13:03:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中科信息：目前没有从事脑机接口技术与设备研发】中科信息回复深交所关注函称，公司目前没有从事脑机接口技术与设备研发，“脑认知与智慧医疗创新应用”实验室是使用引进的脑机接口设备进行医疗康复产品升级研发。目前，公司智慧医疗相关产品包括智能麻醉辅助系统（智能麻醉机器人）等正处于研发阶段，暂未形成业务收入。数据智能业务是公司在智慧政务领域推出的初创业务，处于应用推广初期，未形成稳定的订单量。目前在手订单额约400万元左右，还处于项目实施阶段，尚未验收形成营业收入，预计对今年的财务报表不会产生较大影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhut8195585.d.html</link>
+            <guid>3131592</guid>
+            <pubDate>Fri, 02 Jun 2023 13:03:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[夜盘开盘，国内期货主力合约多数上涨，玻璃涨超4%，燃料油涨超3%，SC原油、低硫燃料油（LU）涨超2%。跌幅方面， 菜籽粕跌超1%。]]></title>
+            <guid>3131591</guid>
+            <pubDate>Fri, 02 Jun 2023 13:00:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【雪天盐业：11亿元定增申请获证监会同意注册批复】雪天盐业公告，公司向特定对象发行股票申请获得中国证监会同意注册批复。此前雪天盐业披露拟向特定对象发行股票募资不超过11.06亿元（含本数），用于湘渝盐化煤气化节能升级改造项目、九二盐业热电联产（一期）项目、重庆索特热电系统优化节能改造（二期）项目、仓储物流基地项目以及补充流动资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhuy8250251.d.html</link>
+            <guid>3131590</guid>
+            <pubDate>Fri, 02 Jun 2023 12:59:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国就业人数连续29个月增长】美国5月新增就业33.9万人，在利率和通胀上升的背景下，就业市场显示出韧性。最近几个月，美国就业市场新增岗位均高于预期。5月就业增长为就业人数连续第29个月增长。 虽然失业率升至3.7%，但仍接近历史低点。低失业率给工资带来了压力，因为雇主们在争夺稀缺的工人。5月份工资较上年同期稳健增长4.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhuy8250223.d.html</link>
+            <guid>3131589</guid>
+            <pubDate>Fri, 02 Jun 2023 12:59:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【易天股份：签订3.12亿元厂房定制服务协议】易天股份公告，为满足公司在深圳地区的厂房使用需求，公司与嘉霖房地产有限公司签订《厂房定制服务协议》。经初步核算，厂房定制总价金额为3.12亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhut8192954.d.html</link>
+            <guid>3131588</guid>
+            <pubDate>Fri, 02 Jun 2023 12:59:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波音(BA.N)CEO：供应链的稳定性可能会影响2025-2026年期间100亿美元的自由现金流预测。]]></title>
+            <guid>3131587</guid>
+            <pubDate>Fri, 02 Jun 2023 12:58:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波音(BA.N)CEO：固定价格防御计划是“资金流失”，波音永远不会再这样做。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhuy8249697.d.html</link>
+            <guid>3131586</guid>
+            <pubDate>Fri, 02 Jun 2023 12:57:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dish Network盘前上涨8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhux1471874.d.html</link>
+            <guid>3131585</guid>
+            <pubDate>Fri, 02 Jun 2023 12:55:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海南机场：股东供销大集拟减持不超0.39%股份】海南机场公告，股东供销大集集团股份有限公司拟减持不超0.39%股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhux1471324.d.html</link>
+            <guid>3131584</guid>
+            <pubDate>Fri, 02 Jun 2023 12:53:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金向下触及1970美元/盎司，日内跌0.39%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhuv9266159.d.html</link>
+            <guid>3131583</guid>
+            <pubDate>Fri, 02 Jun 2023 12:53:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国电信股盘前下跌，AT&T(T.N)下跌5.8％，VVerizon(VZ.N)下跌5.1％，T-Mobile US(TMUS.O)下跌7.2％，此前报告亚马逊正在洽谈向美国主要会员提供移动服务。]]></title>
+            <guid>3131582</guid>
+            <pubDate>Fri, 02 Jun 2023 12:52:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【台风“玛娃”造成日本多地河流泛滥】据日本广播协会当地时间6月2日报道，受台风“玛娃”带来的持续强降雨影响，日本静冈县、爱知县、三重县、和歌山县、神奈川县、埼玉县、茨城县等地多条河流超过泛滥警戒水位，多处发生山体滑坡等灾害。截至当天21时，日本各地有约17.8万人收到避难指示。另据日本《每日新闻》报道，当天18时左右，流经静冈县磐田市内的一条河流决堤泛滥。该市正在确认受灾情况，并已向市内部分地区下令实施最高警戒级别的“紧急安全保障”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhuy8247970.d.html</link>
+            <guid>3131581</guid>
+            <pubDate>Fri, 02 Jun 2023 12:50:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【快手大家电行业迎618开门红，单日GMV同比增长超40倍】快手大家电行业迎618购物节开门红。6月1日当天，快手大家电行业单日GMV破亿，同比去年增长42倍。其中，单日GMV破百万商家数达15家，冰箱、洗衣机、空调类产品GMV同比增长73倍，电视机类产品风控后GMV同比增长40倍。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhuy8247941.d.html</link>
+            <guid>3131580</guid>
+            <pubDate>Fri, 02 Jun 2023 12:50:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【非农公布后：美联储6月维持利率不变的概率暂与公布前基本一致】据CME“美联储观察”：美联储6月维持利率不变的概率为72.5%，加息25个基点的概率为27.5%；到7月维持利率在当前水平的概率为36.6%，累计加息25个基点的概率为48.9%，累计加息50个基点的概率为14.5%。]]></title>
+            <guid>3131579</guid>
+            <pubDate>Fri, 02 Jun 2023 12:50:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【拓维信息：公司目前在长沙、贵州等地都设有生产基地】拓维信息近期在接受调研时表示，公司目前在长沙、贵州等地都设有生产基地。产线满产的情况下，服务器年产能达20万台。并且，公司在各地的生产基地都有做产线预留，以备满足未来订单的加速需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhux1470253.d.html</link>
+            <guid>3131578</guid>
+            <pubDate>Fri, 02 Jun 2023 12:49:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【深交所全球投资者大会“引流” 国际长期资本积极看多A股】6月1日-2日，由深交所主办的2023全球投资者大会在深圳召开。该大会自2020年起已连续举办4年，为境内外市场交流互鉴架起桥梁，今年大会恢复线下举办，境外投资者参与热情高涨。多位受访的国际投资机构负责人表示，近年来，中国资本市场持续推进包括全面注册制改革在内的一系列改革，推动制度与全球市场接轨，进一步促进中国资本市场对外开放，引起全球资产管理机构和投资者的广泛关注与欢迎。国际长期资本非常重视中国资本市场，中国的经济复苏将成为未来投资的重点。从数据上看，外资正在用“真金白银”做多A股。今年以来，外资保持流入A股态势，1-5月份通过沪深股通净流入达1700亿元。近五年外资通过QFII/RQFII及深股通持有创业板股票市值增长超过11倍。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhux1470100.d.html</link>
+            <guid>3131577</guid>
+            <pubDate>Fri, 02 Jun 2023 12:49:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据消息人士称，由于担心无人机袭击，俄罗斯黑海港口塔曼将暂停液化石油气出口。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhux1469995.d.html</link>
+            <guid>3131576</guid>
+            <pubDate>Fri, 02 Jun 2023 12:48:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[申昊科技：新型智能机器人研发及产业化基地建设项目计划于2024年完成建设并陆续投入使用。]]></title>
+            <guid>3131575</guid>
+            <pubDate>Fri, 02 Jun 2023 12:48:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【*ST庞大及时任董事长等被上交所通报批评】*ST庞大6月2日收到上交所对公司及有关责任人予以通报批评的决定，决定对公司及时任董事长黄继宏、时任总经理赵铁流、时任董事会秘书刘湘华予以通报批评。对于上述纪律处分，上交所将通报中国证监会，并记入上市公司诚信档案。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhuy8246831.d.html</link>
+            <guid>3131574</guid>
+            <pubDate>Fri, 02 Jun 2023 12:46:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国2年期国债收益率上涨6个基点至2.80％。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhut8187988.d.html</link>
+            <guid>3131573</guid>
+            <pubDate>Fri, 02 Jun 2023 12:46:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【非农数据公布后美联储加息概率升高】据外媒报道，掉期交易员将美联储在本月政策会议上加息的可能性略微提高至40%左右。他们还将7月会议加息25个基点的可能性提高至88%左右。]]></title>
+            <guid>3131572</guid>
+            <pubDate>Fri, 02 Jun 2023 12:46:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【深交所拟修订GDR上市交易暂行办法 明确GDR境内新增基础股票上市条件】深交所拟修订《深圳证券交易所与境外证券交易所互联互通存托凭证上市交易暂行办法》，现向社会公开征求意见。深交所在《暂行办法》中增加了GDR境内新增基础股票上市条件及发行审核相关安排，并明确了上市公司在筹划及境外发行GDR阶段的信息披露要求。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhuy8246474.d.html</link>
+            <guid>3131571</guid>
+            <pubDate>Fri, 02 Jun 2023 12:45:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高德红外与杭州市余杭区政府达成战略合作】5月31日，高德红外与杭州市余杭区政府在武汉签署战略合作协议。根据双方战略合作意向，高德红外将成为余杭区政府在智能物联领域产业发展和项目建设的“智能物联产业城市合伙人”。双方共同探索多维感知智能物联终端、云边端一体化数智平台、天地一体化全域感知系统在智慧城市、工业制造、数字乡村等领域的创新应用，为杭州市余杭区打造数字经济产业新的增长极。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhut8186996.d.html</link>
+            <guid>3131570</guid>
+            <pubDate>Fri, 02 Jun 2023 12:43:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【深交所：宜华健康医疗股份有限公司股票终止上市】深交所公告，宜华健康医疗股份有限公司股票在2023年3月30日至2023年4月27日期间，通过本所交易系统连续二十个交易日的每日股票收盘价均低于1元，本所决定公司股票终止上市。同时，公司股票因触及交易类强制退市情形被本所作出终止上市决定，不进入退市整理期，公司股票将于本所作出终止上市决定后十五个交易日内摘牌。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhuy8245860.d.html</link>
+            <guid>3131569</guid>
+            <pubDate>Fri, 02 Jun 2023 12:43:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【兴业科技：全资子公司在越南共同投资设立兴业吉丰贸易实业有限公司】兴业科技公告，全资子公司兴业投资国际有限公司与刘里焱先生签署《投资合作协议》，在越南共同投资设立兴业吉丰贸易实业有限公司，兴业吉丰注册资本为50亿越南盾。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhut8185738.d.html</link>
+            <guid>3131568</guid>
+            <pubDate>Fri, 02 Jun 2023 12:41:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股盘前消息速递】①债务上限协议通过国会最后一道障碍后，三大股指期货集体走高。5月失业率及非农数据均创纪录。②5月失业率3.7%，为2022年10月以来新高，预期3.5%，前值3.4%；季调后非农就业人口录得增加33.9万人，为2023年1月以来最大增幅。③截至发稿，道指期货涨0.47%，标普500期指涨0.99%，纳指期货涨1.28%。④德国DAX指数涨0.99%，英国富时100指数涨0.91%，法国CAC40指数涨1.12%，欧洲斯托克50指数涨0.99%。⑤美东时间6月1日，美国国会参议院投票通过债务上限法案。按照程序，该法案将在美国总统拜登签字后生效。⑥美银表示，受到AI热的强势推动，科技股上周基金资金流入规模达85亿美元，创历史新高。⑦台积电盘前涨3%，为英伟达H100芯片独家代工。⑧MongoDB盘前大涨26%，Q1业绩及Q2指引均胜预期。⑨Lululemon盘前涨超14%，Q1业绩超预期，上调全财年业绩指引。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhux1467970.d.html</link>
+            <guid>3131567</guid>
+            <pubDate>Fri, 02 Jun 2023 12:40:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[布伦特原油日内涨幅达2.00%，现报75.81美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhut8184317.d.html</link>
+            <guid>3131566</guid>
+            <pubDate>Fri, 02 Jun 2023 12:36:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储掉期交易增加了市场对美联储到7月加息的预期，加息定价达到22个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhuy8243999.d.html</link>
+            <guid>3131565</guid>
+            <pubDate>Fri, 02 Jun 2023 12:36:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[就业数据公布后，美国短期利率期货小幅下挫，交易员仍然押注美联储6月将维持利率不变。]]></title>
+            <guid>3131564</guid>
+            <pubDate>Fri, 02 Jun 2023 12:36:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国劳工统计局：5月非农就业总人数增加33.9万人，与过去12个月平均每月增加34.1万人的水平一致。]]></title>
+            <guid>3131563</guid>
+            <pubDate>Fri, 02 Jun 2023 12:35:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元指数DXY短线上扬逾20点后回落，现报103.69。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhuy8243757.d.html</link>
+            <guid>3131562</guid>
+            <pubDate>Fri, 02 Jun 2023 12:35:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国就业数据公布后，欧元区债券延续跌势。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhux1466406.d.html</link>
+            <guid>3131561</guid>
+            <pubDate>Fri, 02 Jun 2023 12:35:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国2年期国债收益率上涨至4.418%，5年期国债收益率上涨至3.760%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhuy8243669.d.html</link>
+            <guid>3131560</guid>
+            <pubDate>Fri, 02 Jun 2023 12:35:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国劳工统计局：3月份非农新增就业人数从16.5万人上修至21.7万人；4月份非农新增就业人数从25.3万人上修至25.4万人。修正后，3月和4月新增就业人数合计较修正前高9.3万人。]]></title>
+            <guid>3131559</guid>
+            <pubDate>Fri, 02 Jun 2023 12:35:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【九芝堂：子公司缺血性脑卒中临床试验进入第二阶段】九芝堂公告，2021年1月，公司控股子公司北京美科缺血耐受人同种异体骨髓间充质干细胞《临床试验通知书》开展的缺血性脑卒中的临床试验正式启动。该项目Ⅰ期临床试验（即临床试验第一阶段）已完成全部参与者入组，试验结果初步表明缺血耐受人同种异体骨髓间充质干细胞治疗慢性缺血性卒中患者的安全性。基于当前Ⅰ期临床试验数据，经国家药监局药品审评中心评估，同意该项目进入Ⅱa期（即第二阶段）的临床试验。]]></title>
             <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhut8183650.d.html</link>
             <guid>3131558</guid>
             <pubDate>Fri, 02 Jun 2023 12:34:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[非美货币集体跳水后快速回升，英镑兑美元GBP/USD一度下挫超30点，现报1.2514，欧元兑美元EUR/USD一度下挫近30点，现报1.0750，美元兑日元USD/JPY短线一度走高超60点。]]></title>
-            <guid>3131557</guid>
-            <pubDate>Fri, 02 Jun 2023 12:33:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国债在就业数据公布后扩大跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhux1465369.d.html</link>
-            <guid>3131556</guid>
-            <pubDate>Fri, 02 Jun 2023 12:33:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[非美货币集体跳水后快速回升，英镑兑美元GBP/USD一度下挫超30点，现报1.2514，欧元兑美元EUR/USD一度下挫近30点，现报1.0750，美元兑日元USD/JPY短线一度走高超60点。]]></title>
-            <guid>3131555</guid>
-            <pubDate>Fri, 02 Jun 2023 12:33:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【铭普光磁：公司400G光模块已经批量交付 800G高速光模块正在研发当中】铭普光磁在互动平台表示，公司400G光模块已经批量交付，800G高速光模块正在研发当中。近年来公司紧贴行业的技术发展趋势，围绕客户未来需求进行前瞻性技术储备。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhuv9256770.d.html</link>
-            <guid>3131554</guid>
-            <pubDate>Fri, 02 Jun 2023 12:31:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[非农数据远超预期，美股股指期货短线拉升，道指期货现涨0.47%，标普500指数期货涨0.5%，纳指期货涨0.48%。]]></title>
-            <guid>3131553</guid>
-            <pubDate>Fri, 02 Jun 2023 12:31:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国5月失业率录得3.7%，为2022年10月以来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhux1464896.d.html</link>
-            <guid>3131552</guid>
-            <pubDate>Fri, 02 Jun 2023 12:31:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[非农数据公布后，现货黄金短线跳水8美元，现报1975.83美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhux1464854.d.html</link>
-            <guid>3131551</guid>
-            <pubDate>Fri, 02 Jun 2023 12:31:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国5月季调后非农就业人口录得增加33.9万人，为2023年1月以来最大增幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhux1464683.d.html</link>
-            <guid>3131550</guid>
-            <pubDate>Fri, 02 Jun 2023 12:30:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国5月失业率为3.7％，预期3.50％，前值3.40％。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhuy8241943.d.html</link>
-            <guid>3131549</guid>
-            <pubDate>Fri, 02 Jun 2023 12:30:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国5月季调后非农就业人口 33.9万人，预期19.0万人，前值25.3万人。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhuy8241842.d.html</link>
-            <guid>3131548</guid>
-            <pubDate>Fri, 02 Jun 2023 12:30:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【知名基金经理苗宇加盟东方红 任旗下两只产品基金经理】今日晚间，东方红资产管理发布公告称，2023年6月3日起，知名基金经理苗宇将担任旗下东方红睿满沪港深、东方红睿泽三年定开基金经理。苗宇是东方红资产管理“二次创业”阶段从外部引入的核心投研人才，他此前曾在广发基金担任基金经理，后于2022年11月份加入东方红资产管理，开启其职业生涯的第二站，如今静默期已过。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhuy8241607.d.html</link>
-            <guid>3131547</guid>
-            <pubDate>Fri, 02 Jun 2023 12:29:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印度卫生部针对流媒体平台推反烟草新规 Netflix、亚马逊等巨头酝酿发起法律挑战】知情人士称，当地时间周五，流媒体巨头Netflix、亚马逊和迪士尼私下讨论通过潜在法律挑战等方式阻止印度有关烟草警告的新规生效。作为印度反烟草运动的一部分，该国卫生部本周给流媒体平台三个月内在吸烟场景中插入静态健康警告。此外，印度方面希望在每个节目开始和中间至少有50秒的反烟草免责声明。据悉，上述三家流媒体巨头与印度广播公司Viacom18的高管举行闭门会议，表示印度卫生部的新规将破坏用户体验，并导致制作公司在印度封锁其内容。此外，高管们还讨论了可能的法律挑战方式，主张电子和信息技术部与信息和广播部等其他部门才有权对流媒体巨头施加权力，而不是卫生部。]]></title>
-            <guid>3131546</guid>
-            <pubDate>Fri, 02 Jun 2023 12:28:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：亚马逊(AMZN.O)正在就向美国Prime会员提供移动服务进行谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxhuy8241061.d.html</link>
-            <guid>3131545</guid>
-            <pubDate>Fri, 02 Jun 2023 12:27:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音(BA.N)CEO：发动机锻件和铸件的供应链方面已经取得了进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxapa8370536.d.html</link>
-            <guid>3131544</guid>
-            <pubDate>Fri, 02 Jun 2023 12:23:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国银行：股市资金流入恢复，债市资金流出增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxapa8370402.d.html</link>
-            <guid>3131543</guid>
-            <pubDate>Fri, 02 Jun 2023 12:23:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【非农公布前：美联储6月维持利率不变的概率为73.8%】据CME“美联储观察”：美联储6月维持利率不变的概率为73.8%，加息25个基点的概率为26.2%；到7月维持利率在当前水平的概率为42.7%，累计加息25个基点的概率为46.3%，累计加息50个基点的概率为11%。]]></title>
-            <guid>3131542</guid>
-            <pubDate>Fri, 02 Jun 2023 12:22:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货钯金日内涨幅达2.00%，现报1424.97美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxanv8309117.d.html</link>
-            <guid>3131541</guid>
-            <pubDate>Fri, 02 Jun 2023 12:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音(BA.N)CEO：737 Max支架问题导致服役飞机比计划减少了25架。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxapa8370084.d.html</link>
-            <guid>3131540</guid>
-            <pubDate>Fri, 02 Jun 2023 12:21:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[良品铺子：股东珠海高瓴天达投资中心（有限合伙）及其一致人拟减持不超过1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxanz1592043.d.html</link>
-            <guid>3131539</guid>
-            <pubDate>Fri, 02 Jun 2023 12:18:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【冠农股份：子公司以不超3210万元参与竞拍万通包装房地产】冠农股份公告，董事会同意公司控股子公司以不超过3210万元参与竞拍天津市宁河县潘庄工业园区天津万通包装有限公司的房地产。同意授权控股子公司经理层负责办理本次竞拍资产的全部相关事宜。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxanz1591792.d.html</link>
-            <guid>3131538</guid>
-            <pubDate>Fri, 02 Jun 2023 12:17:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音(BA.N)CEO：787梦想客机（787 Dreamliner）将销售到2026年。]]></title>
-            <guid>3131537</guid>
-            <pubDate>Fri, 02 Jun 2023 12:17:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【实丰文化：控股股东及其一致行动人质押18.67%公司股份】实丰文化公告，公司近日接到公司控股股东蔡俊权及其一致行动人蔡俊淞函告，获悉其所持有公司的部分股份被质押。本次质押股份合计2240万股，占公司总股本的18.67%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxapa8368872.d.html</link>
-            <guid>3131536</guid>
-            <pubDate>Fri, 02 Jun 2023 12:16:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【赛微电子：子公司聚能创芯将获2.8亿元增资】赛微电子公告，根据公司氮化镓（GaN）业务发展的实际情况，为增强控股子公司青岛聚能创芯微电子有限公司（简称“聚能创芯”）的资本实力，拟由中金启合、湖州人才基金、中金启阳、鸢飞基金、传感基金、康博电子对聚能创芯进行增资2.8亿元。增资完成后，公司持有聚能创芯股权的比例由32.02%变更为25.02%，聚能创芯不再是公司控股子公司，不再纳入公司合并报表范围。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxanz1591543.d.html</link>
-            <guid>3131535</guid>
-            <pubDate>Fri, 02 Jun 2023 12:16:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音(BA.N)CEO：很难预测777X最终的生产率。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxanz1591487.d.html</link>
-            <guid>3131534</guid>
-            <pubDate>Fri, 02 Jun 2023 12:16:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音(BA.N)CEO：由于航空公司的需求，飞机制造商在未来五年仍将受到限制。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxanz1591212.d.html</link>
-            <guid>3131533</guid>
-            <pubDate>Fri, 02 Jun 2023 12:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音(BA.N)CEO：解决供应链限制的过程“令人沮丧地缓慢”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxapa8368466.d.html</link>
-            <guid>3131532</guid>
-            <pubDate>Fri, 02 Jun 2023 12:15:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深交所：本周对75起证券异常交易行为采取了自律监管措施】深交所公告，5月29日至6月2日，深交所共对75起证券异常交易行为采取了自律监管措施，涉及盘中拉抬打压、虚假申报等异常交易情形；共对8起上市公司重大事项进行核查，并上报证监会1起涉嫌违法违规案件线索。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxanx9380448.d.html</link>
-            <guid>3131531</guid>
-            <pubDate>Fri, 02 Jun 2023 12:11:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美油、布油均涨超2%，现分别报71.55美元/桶和75.78美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxanx9379771.d.html</link>
-            <guid>3131530</guid>
-            <pubDate>Fri, 02 Jun 2023 12:09:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【李辉大使介绍赴乌克兰等五国访问情况】今天，中国政府欧亚事务特别代表李辉举行吹风会，向驻华使节介绍日前就政治解决乌克兰危机访问乌克兰、波兰、法国、德国、欧盟总部和俄罗斯情况。李辉通报了访问期间同有关国家领导人和外交等部门负责人沟通交流情况，表示各方均积极评价中方劝和促谈努力，赞赏中方推动和平解决危机的真诚愿望和所做贡献。当前乌克兰危机形势仍充满不确定性。中方认为，只要和平有一线希望，就应积极作出努力。只要是有利于缓和局势、推动谈判的事，中方都愿意去做。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxapa8365333.d.html</link>
-            <guid>3131529</guid>
-            <pubDate>Fri, 02 Jun 2023 12:04:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据美联社，美国希望与俄罗斯就核武器控制进行接触。]]></title>
-            <guid>3131528</guid>
-            <pubDate>Fri, 02 Jun 2023 12:02:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【歌力思：拟在深圳共同投资设立合资经营企业“诺北斯（深圳）服饰有限公司”】歌力思公告，与NobisInc.签署了合资经营协议，拟在深圳共同投资设立合资经营企业“诺北斯（深圳）服饰有限公司”，合资经营企业负责在中国境内（包括香港、澳门，但不包括台湾地区）发展和运营“Nobis”品牌业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxapa8363999.d.html</link>
-            <guid>3131527</guid>
-            <pubDate>Fri, 02 Jun 2023 12:00:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海南自贸港“零关税”政策享惠货值超170亿元】据海南日报，“零关税”三张清单持续扩容增效。6月2日从海口海关获悉，自政策实施以来，截至今年5月31日，海口海关共监管“零关税”政策项下进口货物共172.7亿元。下一步，海口海关将积极发挥改革创新“试验田”作用，大力推动“一线放开、二线管住”扩大试点，持续推动“零关税”三张清单、加工增值等政策扩大体量，为封关运作开展更高水平压力测试。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxapa8363473.d.html</link>
-            <guid>3131526</guid>
-            <pubDate>Fri, 02 Jun 2023 11:58:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【振华科技：董事及高管人员拟减持0.0043%公司股份】振华科技公告，公司常务副总经理潘文章拟减持不超过2.7万股（占公司总股本的0.0052%）；董事长陈刚拟减持不超过2.25万股（占公司总股本的0.0043%）。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxapa8363256.d.html</link>
-            <guid>3131525</guid>
-            <pubDate>Fri, 02 Jun 2023 11:57:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【延华智能：因涉嫌信息披露违法违规，证监会决定对公司立案】延华智能公告，因涉嫌信息披露违法违规，证监会决定对公司立案。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxanz1585066.d.html</link>
-            <guid>3131524</guid>
-            <pubDate>Fri, 02 Jun 2023 11:54:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【博晖创新：全自动核酸检测分析系统获医疗器械注册证】博晖创新公告，全自动核酸检测分析系统获得由国家药品监督管理局颁发的《中华人民共和国医疗器械注册证》。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxanz1584998.d.html</link>
-            <guid>3131523</guid>
-            <pubDate>Fri, 02 Jun 2023 11:54:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中孚信息：实控人之一致行动人拟减持不超0.27%股份】中孚信息公告，公司控股股东、实控人魏东晓的一致行动人魏冬青拟以集中竞价方式，减持公司股份不超过60万股（占公司总股本的0.27%）。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxanz1584953.d.html</link>
-            <guid>3131522</guid>
-            <pubDate>Fri, 02 Jun 2023 11:54:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【6月2日《新闻联播》主要内容】今天《新闻联播》主要内容有：1.习近平在文化传承发展座谈会上强调 担负起新的文化使命 努力建设中华民族现代文明； 2.李强主持召开国务院常务会议； 3.赵乐际会见阿根廷众议长； 4.航天员乘组完成在轨交接 东风着陆场准备就绪迎接航天员回家； 5.1-4月我国服务贸易总体保持增长态势； 6.RCEP进入全面实施新阶段； 7.全国人大常委会启动科学技术进步法执法检查； 8.国内联播快讯： （1）首个区块链技术领域国家标准发布； （2）前5月西部陆海新通道班列运输货物35万标箱； （3）六项婴童用品国家标准发布； （4）两部委联合开展“商渔共治2023”专项行动； （5）我国完全自主产权2万吨重载列车自动驾驶试验成功； （6）大型文化节目《中国书法大会》今晚开播； （7）《高端访谈》今晚播出刚果（金）总统齐塞克迪独家专访； 9.俄称击退乌在俄境内发起的袭击 乌称拦截多枚俄军导弹 国际人士称美拱火冲突 为军工复合体牟利； 10.国际联播快讯： （1）报告称中国可再生能源产能增长继续领先； （2）英国铁路工人再罢工 数千车次取消。]]></title>
-            <guid>3131521</guid>
-            <pubDate>Fri, 02 Jun 2023 11:53:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【万科企业：5月份实现合同销售金额329.4亿元】万科企业在港交所公告，2023年5月份公司实现合同销售面积213.1万平方米，合同销售金额329.4亿元，2023年1月至5月份本公司累计实现合同销售面积1,045.1万平方米，合同销售金额1,677.9亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxanz1583739.d.html</link>
-            <guid>3131520</guid>
-            <pubDate>Fri, 02 Jun 2023 11:50:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【嘉化能源：拟3693.23万元转让子公司嘉化美福新材料100%股权】嘉化能源公告，拟向浙江美福石油化工有限责任公司以3693.23万元价格转让全资子公司嘉化美福新材料100%股权。本次股权转让价格以相关评估报告为基础，双方最终协商确定。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxapa8360734.d.html</link>
-            <guid>3131519</guid>
-            <pubDate>Fri, 02 Jun 2023 11:49:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本存储芯片生产商铠侠与西部数据深入协调合并事宜，交易完成后闪存业务或跃居全球之首】据日本共同社，日本存储芯片生产商铠侠与合作方美国西部数据公司（WD）就经营合并进入收尾阶段协调，半导体存储器业务将达到全球最大规模。报道称，由于面向智能手机等的半导体行情恶化、业绩低迷，双方此举意在提升经营效率提高竞争力。合并有可能影响到对铠侠出资四成的东芝公司的经营重组计划。英国调查公司Omdia称，如果合并，该业务销售额将达2.5万亿日元规模（约合人民币1300亿元），匹敌全球龙头企业韩国三星电子。]]></title>
-            <guid>3131518</guid>
-            <pubDate>Fri, 02 Jun 2023 11:49:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天合光能：占公司总股本38.88%的限售股将于6月12日起解禁上市】天合光能公告，本次上市流通的首次公开发行限售股数量为8.45亿股，占公司总股本的38.88%，限售期为自公司股票上市之日起36个月。限售股上市流通日期为6月12日(因6月10日为非交易日，故顺延至下一交易日)。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxapa8360338.d.html</link>
-            <guid>3131517</guid>
-            <pubDate>Fri, 02 Jun 2023 11:47:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【迈赫股份：2350万股限售股将于6月7日起解禁上市】迈赫股份公告，本次解除限售的股份数量为2350万股，占总股本的比例为17.62%。本次解除限售的股份上市流通日期为6月7日(星期三)。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxanz1582833.d.html</link>
-            <guid>3131516</guid>
-            <pubDate>Fri, 02 Jun 2023 11:47:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新加坡铁矿石指数期货涨幅扩大，日内涨超2%，报104.15美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxapa8360001.d.html</link>
-            <guid>3131515</guid>
-            <pubDate>Fri, 02 Jun 2023 11:46:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以太坊突破1900美元/枚，日内涨1.63%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxapa8359939.d.html</link>
-            <guid>3131514</guid>
-            <pubDate>Fri, 02 Jun 2023 11:46:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【智己汽车：5月智己LS7销售1922台】据智己汽车官博消息，2023年5月，智己LS7销售1922台。根据此前公告，2023年4月，智己汽车共计销售2009台，其中智己LS7销售1930台。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxanz1582424.d.html</link>
-            <guid>3131513</guid>
-            <pubDate>Fri, 02 Jun 2023 11:46:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宁波舟山港再迎全球最大集装箱船开启首航】6月2日，我国自主研制的超大型集装箱船“地中海米歇尔卡佩里尼”轮首航首站靠泊宁波舟山港穿山港区集装箱码头4号泊位，从此开启其航运之旅。这已是穿山港区78天内迎来的第3艘“全球最大集装箱姊妹船”首航。“地中海米歇尔卡佩里尼”轮是我国自主设计建造，拥有完全自主知识产权，于5月24日建成交付。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxapa8359577.d.html</link>
-            <guid>3131512</guid>
-            <pubDate>Fri, 02 Jun 2023 11:45:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【翰博高新：业务推进不及预期 拟转让安徽鸿岸60%股权】翰博高新公告，公司于2021年7月投资安徽鸿岸电子科技有限公司（简称“安徽鸿岸”），成为安徽鸿岸控股股东，旨在进入灯条打件相关领域，增加利润增长点。因2022年受各种叠加因素影响，显示行业出现下滑状况，国内外消费疲软，公司灯条打件相关业务推进不及预期，公司拟将所持的安徽鸿岸60%股权全部转让给深圳鸿岸，成交金额3256.77万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxanz1581842.d.html</link>
-            <guid>3131511</guid>
-            <pubDate>Fri, 02 Jun 2023 11:44:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国与阿根廷签署共建“一带一路”合作规划】中国和阿根廷两国政府代表在北京签署了《中华人民共和国政府与阿根廷共和国政府关于共同推进“一带一路”建设的合作规划》。《合作规划》全面落实中阿两国领导人关于高质量共建“一带一路”的重要共识，遵循共商、共建、共享原则，坚持开放、绿色、廉洁理念，以高标准、可持续、惠民生为目标，围绕政策沟通、设施联通、贸易畅通、资金融通、民心相通，深化双方在基础设施、能源、经贸、金融、人文等领域互利合作。《合作规划》的签署对于深化两国政治互信和战略对接具有重要意义，有利于促进中阿各领域务实合作，进一步推进两国共建“一带一路”走深走实，为双方企业创造更多合作机遇，更好增进两国人民福祉。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxapa8359015.d.html</link>
-            <guid>3131510</guid>
-            <pubDate>Fri, 02 Jun 2023 11:44:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宁水集团：控股股东等拟合计减持不超2.03%公司股份】宁水集团公告，控股股东之一张世豪、王宗辉、徐云、王开拓、赵绍满、张蕾、控股股东一致行动人王菟莹因资产规划及个人资金需求，计划通过集中竞价及大宗交易方式合计减持公司股份不超过2.03%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvxapa8358516.d.html</link>
-            <guid>3131509</guid>
-            <pubDate>Fri, 02 Jun 2023 11:42:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
