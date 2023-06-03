@@ -4,11 +4,29 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 03 Jun 2023 21:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jun 2023 22:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【神十五乘组踏上回家路】神舟十五号载人飞船轨道舱与返回舱成功分离，神十五航天员费俊龙、邓清明、张陆踏上回家之路。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-04/detail-imywahxq6769711.d.html</link>
+            <guid>3132315</guid>
+            <pubDate>Sat, 03 Jun 2023 21:47:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际能源署将在年底前设定矿产进口基准。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-04/detail-imywahxn9991069.d.html</link>
+            <guid>3132314</guid>
+            <pubDate>Sat, 03 Jun 2023 21:32:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧佩克就可能的减产问题争论不休。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-04/detail-imywahxm8204946.d.html</link>
+            <guid>3132313</guid>
+            <pubDate>Sat, 03 Jun 2023 21:14:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【神舟十五号航天员乘组今日返回东风着陆场】据中国载人航天工程办公室消息，神舟十五号航天员乘组已完成全部既定任务，将于今日乘坐神舟十五号载人飞船返回东风着陆场。着陆场及各参试系统已做好迎接航天员回家的各项准备。]]></title>
             <link>https://finance.sina.cn/7x24/2023-06-04/detail-imywahxs4230165.d.html</link>
@@ -278,24 +296,6 @@
             <link>https://finance.sina.cn/7x24/2023-06-03/detail-imyvzmtx0435814.d.html</link>
             <guid>3132147</guid>
             <pubDate>Sat, 03 Jun 2023 12:53:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【意大利金融专家：美债危机影响他国金融稳定 去美元化加速】当地时间6月1日，美国参议院投票通过债务上限和预算的法案，美国此次债务违约危机暂时告一段落。不过，意大利金融专家表示，与以往一样，美国再次利用自身美元霸权来应对不断膨胀的债务问题，却给包括欧洲在内的其他国家带来金融风险。意大利金融专家贾凯认为，自20世纪40年代以来，美国政府已上百次提高债务上限，而美国之所以能够不断扩大债务，就是因为美元是世界主要的储备货币。而自去年以来，美联储为了对抗国内高通胀不断激进加息，给欧洲的金融稳定带来了潜在风险。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-03/detail-imyvzmty7212836.d.html</link>
-            <guid>3132146</guid>
-            <pubDate>Sat, 03 Jun 2023 12:52:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【机构：5月锂电产业整体排产恢复，碳酸锂价格趋稳】高工锂电报告认为，二季度以来，锂电产业整体排产恢复。5月车市表现上，新能源汽车终端价格相比于年初大规模的降价潮有所改善。据了解，整体5月份排产环比都有明显提升，增速普遍接近10-20%。随着下游需求在产业链的渐次传导，也将进一步带动锂电产业排产恢复。亿纬锂能方面表示，2023年一季度投放节奏略有放缓，二季度会逐步加快。从材料价格上看，碳酸锂价格在经历低点反弹后，近期维系在30万元/吨价格左右。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-03/detail-imyvzmty7211948.d.html</link>
-            <guid>3132145</guid>
-            <pubDate>Sat, 03 Jun 2023 12:47:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【肯尼亚一警察安全部队遭袭击 2名警察死亡】肯尼亚曼德拉郡政府当地时间6月3日称，2日，一支警察安全部队疑似遭到索马里“青年党”袭击。当时，这支部队正在执行巡逻任务。袭击者向警察安全部队乘坐的车辆发射火箭弹，造成2人死亡，5人受伤。目前，当地政府联合警方和军方正在搜寻袭击者。曼德拉郡毗邻索马里，近年来经常遭到索马里“青年党”的越境袭击。索马里“青年党”是与“基地”组织有关联的极端组织。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-03/detail-imyvzmty7211411.d.html</link>
-            <guid>3132144</guid>
-            <pubDate>Sat, 03 Jun 2023 12:43:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
