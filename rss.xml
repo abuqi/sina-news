@@ -4,13 +4,98 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Tue, 06 Jun 2023 19:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jun 2023 20:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[市场消息：社交媒体Reddit将解雇5%左右的员工。]]></title>
+            <title><![CDATA[国际原子能机构：卡霍夫卡水电站大坝被破坏不会对扎波罗热核电站造成短期风险，冷却池的水足够用几个月。]]></title>
+            <guid>3135083</guid>
+            <pubDate>Tue, 06 Jun 2023 20:14:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【标普500指数的11个板块多数收涨】 周二（6月6日），标普金融板块收涨1.33%，可选消费板块涨0.99%，能源板块涨0.69%，信息技术/科技板块则跌0.12%，医疗保健板块跌0.88%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywkyat4084902.d.html</link>
+            <guid>3135082</guid>
+            <pubDate>Tue, 06 Jun 2023 20:14:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国大类资产ETF多数上涨】 罗素2000指数ETF涨2.63%，美国房地产ETF、新兴市场ETF、农产品基金、美国国债20+年ETF、标普500价值指数ETF，巴克莱美国可转债ETF各涨0.5-1%不等；而恐慌指数做多跌5.98%，美国布伦特油价基金跌0.43%，人民币做多跌0.41%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywkyav0862012.d.html</link>
+            <guid>3135081</guid>
+            <pubDate>Tue, 06 Jun 2023 20:14:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股行业ETF涨跌互现】 区域银行ETF涨4.96%领跑，银行业ETF涨4.33%，全球航空业ETF涨1.71%，金融业ETF涨1.26%，可选消费ETF涨1.04%，能源业ETF涨0.81%。，网络股指数ETF涨0.69%；医疗业ETF跌0.83%，日常消费品ETF跌0.50%，生物科技指数ETF跌0.30%。]]></title>
+            <guid>3135080</guid>
+            <pubDate>Tue, 06 Jun 2023 20:06:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  道琼斯指数6月6日（周二）收盘上涨10.42点，涨幅0.03%，报33573.28点；
+标普500指数6月6日（周二）收盘上涨9.14点，涨幅0.21%，报4282.93点；
+纳斯达克综合指数6月6日（周二）收盘上涨46.99点，涨幅0.36%，报13276.42点。]]></title>
+            <guid>3135079</guid>
+            <pubDate>Tue, 06 Jun 2023 20:04:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部现金余额在周一（6月5日）大幅增加至712亿美元，上周五（6月2日）为234亿美元。单日增幅为479亿美元，创4月18日以来新高。]]></title>
+            <guid>3135078</guid>
+            <pubDate>Tue, 06 Jun 2023 20:02:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【热门中概股普涨 爱奇艺涨超7%】热门中概股普涨，爱奇艺涨超7%，理想汽车涨超6%，哔哩哔哩、网易涨超5%，京东、百度、唯品会涨超3%，富途控股、腾讯音乐、阿里巴巴、蔚来、小鹏汽车涨超2%，微博涨超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywkyat4082939.d.html</link>
+            <guid>3135077</guid>
+            <pubDate>Tue, 06 Jun 2023 20:01:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股三大指数集体收涨 热门科技股多数上涨】美股三大指数集体收涨，道指涨0.03%，纳指涨0.36%，标普500指数涨0.23%，热门科技股多数上涨，AMD涨超5%，英特尔涨超3%，特斯拉、亚马逊、谷歌涨超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywkyav0859979.d.html</link>
+            <guid>3135076</guid>
+            <pubDate>Tue, 06 Jun 2023 20:01:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【800V平台有望破解电动车续航焦虑，车企争相抢滩高压超快充赛道】 随着SiC（碳化硅）产能的持续扩张以及全球首个800V高压平台车型保时捷Taycan正式推出，高压快充路线受到越来越多主机厂的青睐。从现代、起亚等国际车企巨头到比亚迪、长城、广汽、小鹏等国内主机厂，已经相继推出或计划推出800V平台。公开资料显示，目前全球已推出或确定推出800V系统的汽车品牌多达20多家。“众多车企都在抓紧布局，剑指电动车最后一个痛点，行业超级快充趋势已经确立。类比手机补能发展历程，超级快充或将成为电动车补能主流解决方案。”在中国新能源汽车产业创新联盟理事高云鹏看来，高电压和高电流路线只是在某一时间段内相对的概念，两种模式的本质都是为了增大充电功率。高电压模式相较高电流模式，具有高效充电区间更大、充电功率天花板较高、技术难度更低等优势，有望成为现阶段快充主流路线。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywkyat4082161.d.html</link>
+            <guid>3135075</guid>
+            <pubDate>Tue, 06 Jun 2023 19:56:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国政府将对境内所有主要铁路线路进行安全状况评估。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywkyav0858754.d.html</link>
+            <guid>3135074</guid>
+            <pubDate>Tue, 06 Jun 2023 19:52:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比特币/美元日内涨幅达5.0%，报26959美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywkyat4081580.d.html</link>
+            <guid>3135073</guid>
+            <pubDate>Tue, 06 Jun 2023 19:52:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【两年期美债收益率涨约6个基点，前美联储副主席克拉里达称鲍威尔2024年之前不可能降息】 周二（6月6日）纽约尾盘，美国10年期基准国债收益率上涨0.97个基点，报3.6928%，盘中交投于3.6525%-3.7313%区间。两年期美债收益率涨5.87个基点，报4.5204%，盘中交投于4.4286%-4.5413%区间，彭博数据显示，前美联储副主席克拉里达称“美联储可能会在本轮加息周期内再次加息、 在2024年之前不可能开始降息”之后，刷新日高。三个月期国库券/10年期美债收益率利差涨1.436个基点，报-160.880个基点。02/10年期美债收益率利差下跌5.130个基点，刷新日低至-83.392个基点。]]></title>
+            <guid>3135072</guid>
+            <pubDate>Tue, 06 Jun 2023 19:52:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【芝加哥大豆油期货周二上涨3.9%，玉米期货也涨将近1.7%】 周二（6月6日）纽约尾盘，谷物分类指数涨0.77%，报43.7189点。CBOT玉米期货涨1.67%，报6.07-1/2美元/蒲式耳。CBOT小麦期货涨0.48%，报6.27-1/4美元/蒲式耳。CBOT大豆期货涨0.30%，报13.53美元/蒲式耳，豆粕期货跌1.20%，豆油期货涨3.95%。ICE原糖期货涨1.11%，ICE白糖期货跌0.49%。ICE阿拉比卡咖啡期货涨0.52%，咖啡“C”期货涨0.63%。ICE棉花期货涨0.80%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywkyat4080412.d.html</link>
+            <guid>3135071</guid>
+            <pubDate>Tue, 06 Jun 2023 19:43:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[私募阿波罗（Apolo Global Management）的CEO Marc Rowan：美国遭受一场“非衰退式经济衰退”，金融市场遭受某些痛楚、而整体经济形势仍然强劲。]]></title>
+            <guid>3135070</guid>
+            <pubDate>Tue, 06 Jun 2023 19:35:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加密货币持续反弹，比特币日内大涨5.00%，现报26934美元/枚，以太坊涨超4%，报1882美元/枚。]]></title>
+            <guid>3135069</guid>
+            <pubDate>Tue, 06 Jun 2023 19:26:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：社交媒体公司Reddit将裁员5%，并在2023年内缩减招聘规模。]]></title>
             <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywkyat4076097.d.html</link>
             <guid>3135068</guid>
             <pubDate>Tue, 06 Jun 2023 19:11:27 GMT</pubDate>
@@ -199,106 +284,6 @@
             <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywktus2076151.d.html</link>
             <guid>3135033</guid>
             <pubDate>Tue, 06 Jun 2023 17:12:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【库克：苹果正密切关注ChatGPT等】苹果公司CEO库克表示，新品混合现实（MR）头显Vision Pro是本公司一个转折点。人工智能（AI）构成严肃的风险，其中就包括偏见和虚假信息。ChatGPT等（机器人聊天工具）拥有“光明的前途……我们苹果公司正密切关注它们。”]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywktuu3150825.d.html</link>
-            <guid>3135032</guid>
-            <pubDate>Tue, 06 Jun 2023 17:11:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通CEO戴蒙：如果美联储加息25个基点，对市场影响将不会特别显著。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywktuv4184814.d.html</link>
-            <guid>3135031</guid>
-            <pubDate>Tue, 06 Jun 2023 17:06:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加密货币交易所Coinbase CEO：美国证交会和美国商品期货交易委员会（CFTC）发表了相互矛盾的声明。美国证券交易委员会（SEC）的执法方式正在损害美国经济。]]></title>
-            <guid>3135030</guid>
-            <pubDate>Tue, 06 Jun 2023 17:03:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际铜夜盘收涨0.54%，沪铜收涨0.42%，沪铝收跌0.22%，沪锌收涨1.09%，沪铅收涨0.46%，沪镍收涨0.93%，沪锡收涨0.23%。不锈钢夜盘收涨0.36%。]]></title>
-            <guid>3135029</guid>
-            <pubDate>Tue, 06 Jun 2023 17:02:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【债券回报潜力达到14年来最佳 美联储或推迟到明年再降息】一家全球大型债券投资管理公司认为，对于公开交易债券投资，当前是十多年来最佳时机，因为美联储可能会把降息时间推迟到明年。Pimco(品浩)高管们在接受采访时表示，投资短期公开交易债券可以获得类似于股票的回报率，这些债券的收益率在6%至8%之间。“14年来我们都没见过债券有这样的回报潜力，”Pimco负责全球信用的首席投资官Mark Kiesel表示，“我们认为未来一年收益率不会在这一水平。”Pimco首席投资官Dan Ivascyn表示，机构抵押贷款支持证券尤其提供了最佳机会，即使美联储停止加息，也能提供稳定的回报。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywktuv4182694.d.html</link>
-            <guid>3135028</guid>
-            <pubDate>Tue, 06 Jun 2023 16:55:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：阿联酋和埃及签署了一项价值超过100亿美元的风电项目协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywktuv4182544.d.html</link>
-            <guid>3135027</guid>
-            <pubDate>Tue, 06 Jun 2023 16:54:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LME期铜收涨4美元，报8339美元/吨；LME期铝收跌34美元，报2210美元/吨；LME期锌收涨30美元，报2319美元/吨；LME期铅收跌2美元，报2026美元/吨；LME期镍收涨70美元，报20968美元/吨；LME期锡收涨美元，报25618美元/吨。]]></title>
-            <guid>3135026</guid>
-            <pubDate>Tue, 06 Jun 2023 16:54:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【卡霍夫卡水电站大坝被毁影响持续 阿廖什基市几乎完全被淹】赫尔松地区政府负责人发布消息称，因受卡霍夫卡水电站大坝被毁影响，该地区的阿廖什基市目前几乎完全被淹，而当地因乌军炮击导致的森林大火加剧了局势的复杂性。目前当地政府已派出了所有空闲的具有高通过性的卡车前往阿廖什基市。该地区安全的居民点目前已准备了约5000个位置用于安置被疏散的居民。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywktux0959125.d.html</link>
-            <guid>3135025</guid>
-            <pubDate>Tue, 06 Jun 2023 16:51:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：反对国会众议院提出的拟限制燃气炉灶使用的法案。此类法案将损害消费者权益。]]></title>
-            <guid>3135024</guid>
-            <pubDate>Tue, 06 Jun 2023 16:49:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本实际工资连续13个月同比减少】 日本厚生劳动省6日公布的初步统计结果显示，由于通货膨胀持续，扣除物价上涨因素后4月日本实际工资收入同比下降3.0%，连续13个月同比减少。统计结果显示，4月日本劳动者人均名义现金工资为28.52万日元，同比增长1.0%。媒体和专家指出，虽然日本名义工资目前呈现增加势头，但与物价上涨幅度相比力度不足，工资涨幅远不及物价涨幅。实际工资水平持续下降会令家庭购买力受到抑制，或导致消费停滞，拖累日本经济复苏。（新华社）]]></title>
-            <guid>3135023</guid>
-            <pubDate>Tue, 06 Jun 2023 16:46:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【白糖期货主力合约持续回落，近远月合约价格倒挂现象凸显】 6月5日晚，中国糖业协会发布统计数据，本年度白糖生产期结束，减产59万吨。业内预计，今年白糖供应缺口约为700万吨，然而郑州商品期货交易所挂牌交易的白糖期货主力合约自5月25日见顶后持续回落，各合约存在较显著的近远月合约价格倒挂现象，表明市场看淡白糖后市。为何今年白糖供应缺口约为700万吨，却出现近远月合约价格明显倒挂？据了解，近年来，国内多家上市公司大力发展多种代糖产品，已形成替代效应，在弥补白糖供应缺口的同时，还大量出口海外。分析人士预计，随着国内代糖产能加速释放，国际国内白糖后市价格均将震荡回落。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywktux0958034.d.html</link>
-            <guid>3135022</guid>
-            <pubDate>Tue, 06 Jun 2023 16:44:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度孟买证券交易所将阿达尼集团旗下四家公司的每日涨跌幅限制提高。将阿达尼电力的日涨跌幅限制从5%调整为20%。将阿达尼绿色能源的日涨跌幅限制从5%提高至10%，将阿达尼输电公司的日涨跌幅限制从5%调整为10%，将Adani Wilmar的日涨跌幅限制从5%调整为10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywktuu3141590.d.html</link>
-            <guid>3135021</guid>
-            <pubDate>Tue, 06 Jun 2023 16:43:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瑞银预计6月7日前就瑞信损失担保与瑞士政府达成协议】瑞银集团在6月6日提交给美国证券交易委员会（SEC）的一份监管文件中表示，预计将在6月7日前完成与瑞士政府的协议，以弥补其紧急收购瑞士信贷所造成的高达90亿瑞士法郎（约合99.2亿美元）的损失。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywkpnw3268489.d.html</link>
-            <guid>3135020</guid>
-            <pubDate>Tue, 06 Jun 2023 16:33:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯财政部：1月至5月预算赤字为3.41万亿卢布。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywkpnx4306909.d.html</link>
-            <guid>3135019</guid>
-            <pubDate>Tue, 06 Jun 2023 16:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今日重点关注的财经数据与事件】
-① 待定 美国财长耶伦出席听证会
-② 04:30 美国至6月2日当周API原油库存
-③ 09:30 澳大利亚第一季度GDP年率
-④ 10:00 中国5月贸易帐
-⑤ 11:00 中国5月以美元计算贸易帐
-⑥ 13:45 瑞士5月季调后失业率
-⑦ 14:00 德国4月季调后工业产出月率
-⑧ 14:00 英国5月Halifax季调后房价指数月率
-⑨ 14:45 法国4月贸易帐
-⑩ 15:00 经合组织公布经济前景展望报告
-⑪ 16:00 中国5月外汇储备
-⑫ 20:30 美国4月贸易帐
-⑬ 22:00 加拿大央行公布利率决议
-⑭ 22:30 美国至6月2日当周EIA原油库存
-⑮ 22:30 美国至6月2日当周EIA战略石油储备库存]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywkpnz1081513.d.html</link>
-            <guid>3135018</guid>
-            <pubDate>Tue, 06 Jun 2023 16:10:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
