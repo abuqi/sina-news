@@ -4,11 +4,100 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Tue, 06 Jun 2023 18:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jun 2023 19:13:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：社交媒体Reddit将解雇5%左右的员工。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywkyat4076097.d.html</link>
+            <guid>3135068</guid>
+            <pubDate>Tue, 06 Jun 2023 19:11:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦选举监管机构文件显示，前新泽西州州长克里斯·克里斯蒂将寻求2024年共和党总统提名。]]></title>
+            <guid>3135067</guid>
+            <pubDate>Tue, 06 Jun 2023 19:07:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[在岸人民币兑美元北京时间03:00收报7.1180，较上一交易日夜盘收盘跌171点。成交量452.55亿美元。]]></title>
+            <guid>3135066</guid>
+            <pubDate>Tue, 06 Jun 2023 19:03:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒生指数主连夜盘收涨1.91%，报19351.00点。恒生科技指数主连夜盘收涨3.02%，报3952.00点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywkyat4074939.d.html</link>
+            <guid>3135065</guid>
+            <pubDate>Tue, 06 Jun 2023 19:03:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：由于保守派的反对，美国众议院否决了共和党保护燃气灶的投票。美国保守派共和党人称，他们对议长麦卡锡与美国总统拜登达成协议提高债务上限的做法感到愤怒，所以今天投了反对票。]]></title>
+            <guid>3135064</guid>
+            <pubDate>Tue, 06 Jun 2023 19:00:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【横琴粤澳深度合作区再添一联合实验室】 珠海澳大科技研究院——珠海一微半导体股份有限公司联合实验室6日揭牌。据了解，该联合实验室基于合作双方优势，聚焦集成电路与机器人技术研究与应用，将打造粤澳产学研交流合作的示范基地及技术创新与转化中心，促进粤港澳大湾区集成电路、微电子产业链的发展。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywktuu3184479.d.html</link>
+            <guid>3135063</guid>
+            <pubDate>Tue, 06 Jun 2023 18:49:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苹果收购AR头显初创公司Mira】苹果已经收购了AR头显初创公司Mira，这是一家总部位于洛杉矶的增强现实初创公司，为其他公司和美国军方生产耳机。苹果已经证实了此次收购。目前尚不清楚苹果为Mira支付了多少资金，该公司迄今已融资约1700万美元。苹果前设计总监Jony Ive曾是苹果公司的顾问。就在该收购消息发布的前一天，苹果公司刚刚发布了一款名为Vision Pro的混合现实头显，售价3499美元，该公司称其为新的“空间”计算平台。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywktuv4203508.d.html</link>
+            <guid>3135062</guid>
+            <pubDate>Tue, 06 Jun 2023 18:48:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：苹果公司收购了一家名为Mira的AR头显初创公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywktuv4202283.d.html</link>
+            <guid>3135061</guid>
+            <pubDate>Tue, 06 Jun 2023 18:39:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI 7月原油期货收跌0.41美元，跌幅0.57%，报71.74美元/桶。NYMEX 7月天然气期货收涨0.76%，报2.2620美元/百万英热单位。]]></title>
+            <guid>3135060</guid>
+            <pubDate>Tue, 06 Jun 2023 18:34:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[通用汽车将在加拿大Oshawa市投资2.8亿加元生产新款卡车产品。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywktuv4201666.d.html</link>
+            <guid>3135059</guid>
+            <pubDate>Tue, 06 Jun 2023 18:34:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海黄金交易所黄金T+D 6月7日（周三）晚盘收盘上涨0.45%报450.65元/克；上海黄金交易所白银T+D 6月7日（周三）晚盘收盘上涨0.57%报5495.0元/千克。]]></title>
+            <guid>3135058</guid>
+            <pubDate>Tue, 06 Jun 2023 18:31:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“2023暑期档”电影已达72部，动漫票房暂时领跑】 据证券日报，截至6月6日17时，灯塔专业版数据显示，今年暑期档（6月1日至8月31日）定档影片已达72部，票房近5.3亿元（含预售)。其中，6月2日上映的漫威电影《蜘蛛侠：纵横宇宙》以首周末票房破亿元的速度暂居暑期档票房榜首，截至发稿，其票房已近1.5亿元。IMAX China相关负责人表示，在IMAX银幕占总银幕数1%的情况下，《蜘蛛侠：平行宇宙》IMAX票房占比高达16.5%。根据映前媒体票房预测，该电影最终票房或在3.5亿元。除此之外，动画电影《天空之城》与《哆啦A梦：大雄与天空的理想乡》分别位列第二和第三。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywktuv4201272.d.html</link>
+            <guid>3135057</guid>
+            <pubDate>Tue, 06 Jun 2023 18:31:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上期所原油期货2307合约夜盘收跌0.44%，报525.60元人民币/桶。沪金夜盘收涨0.57%，沪银收涨0.35%。]]></title>
+            <guid>3135056</guid>
+            <pubDate>Tue, 06 Jun 2023 18:31:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【文旅市场“暑期档”即将开启，亲子游或成出行“主力军”】 今年以来，我国文旅市场复苏势头强劲。随着2023年全国高考今日开启，即将到来的以毕业旅行为开场的“暑期档”或将再次掀起一波文旅消费高潮。北京社科院研究员王鹏表示，即将到来的文旅市场“暑期档”或将再次迎来爆发期，随着暑假到来创造的“天时”，叠加青年人出于增加见识等考量，其或成为“暑期档”出行的“主力军”。基于此情况，各地也适时上新旅游产品和服务，以满足青年人的消费习惯。（证券日报）]]></title>
+            <guid>3135055</guid>
+            <pubDate>Tue, 06 Jun 2023 18:25:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【证券日报头版：公募基金请为市场注入更多信心】 证券日报文章称，公募基金既是重要的机构投资者，也是居民理财的重要渠道，在资本市场稳健发展中发挥着重要作用。近年来，国内经济金融环境不断优化，资本市场改革持续推进，公募基金行业呈现良好发展态势。在新形势下，公募基金应该主动创新求变，开发出契合经济转型升级需要、适配资本市场发展的产品，为投资者提供更多优质标的，吸纳更多资金进场，为市场注入更多信心。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywktuu3177690.d.html</link>
+            <guid>3135054</guid>
+            <pubDate>Tue, 06 Jun 2023 18:23:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【十家市值已达母公司50%以上，战略性新兴产业为重要支撑】 证券日报根据同花顺iFinD数据统计，自2019年12月份上市公司分拆所属子公司境内上市试点启动以来，A股市场上已有23家上市公司分拆子公司实现IPO上市，累计募资逾470亿元。这些公司主要集中在2021年下半年至2022年年末上市，上市首日平均涨幅达88%，其中3家涨超200%。自上市至今，23家公司股价平均上涨约50%。截至6月6日收盘，23家子公司中，锐捷网络、瑞泰新材、凯盛新材、铖昌科技、厦钨新能等10家的市值已达到母公司市值的50%以上。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywktux0976776.d.html</link>
+            <guid>3135053</guid>
+            <pubDate>Tue, 06 Jun 2023 18:22:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【5月份全球制造业PMI为48.3%，专家：表现最亮眼者仍是亚洲国家】 据中国物流与采购联合会6月6日发布数据，2023年5月份全球制造业PMI为48.3%，较上月下降0.3个百分点，连续3个月环比下降，连续8个月低于50%，创出自2020年6月份以来的新低。中国物流信息中心分析师武威表示，全球制造业PMI持续在50%以下，并创出阶段新低，意味着全球经济波动下行趋势没有改变。地缘政治冲突、通胀压力等因素使得全球需求增长动力持续不足，全球经济保持弱复苏态势。（证券日报）]]></title>
             <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywktuv4197731.d.html</link>
@@ -210,98 +299,6 @@
             <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywkpnz1081513.d.html</link>
             <guid>3135018</guid>
             <pubDate>Tue, 06 Jun 2023 16:10:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳斯达克金龙指数涨超4%，刷新5月16日以来盘中高位至6645.17点。迅雷目前涨超25%，爱奇艺和途牛涨超10%，达达、看准网、360数科、B站涨超7%，拼多多和理想汽车涨超6%，百度涨超5%，阿里巴巴涨超2%。其他中概股里，一起教育目前涨超29.7%，乐居涨12.5%，人人涨11.5%，微美全息涨11.0%，小i机器人则跌5.6%，优品车跌7.6%，闹再生科技跌8.2%，开心汽车跌13.4%，元宇宙控股跌20.4%，CJET跌28.5%。]]></title>
-            <guid>3135017</guid>
-            <pubDate>Tue, 06 Jun 2023 16:09:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[第一地平线银行：5月净存款增长约15亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-07/detail-imywkpnx4303791.d.html</link>
-            <guid>3135016</guid>
-            <pubDate>Tue, 06 Jun 2023 16:08:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA短期能源展望报告：预计2023年WTI原油价格为74.60美元/桶，此前预期为73.62美元/桶。预计2024年WTI原油价格为78.51美元/桶，此前预期为69.47美元/桶。]]></title>
-            <guid>3135015</guid>
-            <pubDate>Tue, 06 Jun 2023 16:06:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA短期能源展望报告：预计2023年美国原油需求增速为15.00万桶/日，此前为19.00万桶/日，预计2024年美国原油需求增速为26.00万桶/日，此前为33.00万桶/日。]]></title>
-            <guid>3135014</guid>
-            <pubDate>Tue, 06 Jun 2023 16:05:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA短期能源展望报告：预计2023年美国天然气消费量为886.40亿立方英尺/日，此前预期为875.40亿立方英尺/日。预计2024年美国天然气消费量为865.90亿立方英尺/日，此前预期为860.50亿立方英尺/日。]]></title>
-            <guid>3135013</guid>
-            <pubDate>Tue, 06 Jun 2023 16:04:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA短期能源展望报告：预计2023年布伦特价格为79.54美元/桶，此前预期为78.65美元/桶，预计2024年布伦特价格为83.51美元/桶，此前预期为74.47美元/桶。]]></title>
-            <guid>3135012</guid>
-            <pubDate>Tue, 06 Jun 2023 16:02:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA短期能源展望报告：将2023年全球原油需求增速预期上调30万桶/日至159万桶/日，此前预计为156万桶/日。将2024年全球原油需求增速预期下调2万桶/日至170万桶/日，此前预计为172万桶/日。]]></title>
-            <guid>3135011</guid>
-            <pubDate>Tue, 06 Jun 2023 16:02:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【推特新CEO亚卡里诺正式上任】推特新任首席执行官琳达·亚卡里诺当地时间6月5日晚发布推文称，她已经开始在这家社交平台任职。亚卡里诺曾任NBC环球的广告主管。马斯克此前表示，亚卡里诺将帮助建立一个“万能的应用程序”。前NBC环球公司高管乔·贝纳罗克也于5日加入推特，职责是业务运营。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-06/detail-imywkpnx4301346.d.html</link>
-            <guid>3135010</guid>
-            <pubDate>Tue, 06 Jun 2023 15:59:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【债务上限暂停后 美国财政部加大国库券招标以快速补充现金】在债务上限暂停后，为了快速增加手头的现金，美国财政部周二宣布提高最短期限国库券招标的规模。财政部表示，计划周四发行600亿美元的4周期国库券，比上次同期限国库券的发行规模高出250亿美元。8周期国库券发行规模从350亿美元提高至500亿美元。17周期国库券发行规模增加20亿美元，达到460亿美元。暂停债务上限使得财政部可以通过加大国库券发行来补充国库。自上个月以来，财政部一直在扩大3、4、6和12个月期国库券的发行规模，因为这些国库券被认为面临的与潜在违约相关疑问的风险最小。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-06/detail-imywkpnz1078476.d.html</link>
-            <guid>3135009</guid>
-            <pubDate>Tue, 06 Jun 2023 15:59:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【两年期德债收益率跌超4个基点】 周二（6月6日）欧市尾盘，德国10年期国债收益率下跌1.3个基点，报3.367%，盘中交投于2.408%-2.308%区间。两年期德债收益率跌4.2个基点，报2.847%，盘中交投于2.911%-2.798%区间；30年期德债收益率涨0.6个基点，报2.551%。2/10年期德债收益率利差涨2.979个基点，报-48.484个基点。英国10年期国债收益率跌0.5个基点，报4.023%。两年期英债收益率涨2.9个基点，报4.474%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-06/detail-imywkpnz1077767.d.html</link>
-            <guid>3135008</guid>
-            <pubDate>Tue, 06 Jun 2023 15:54:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲天然气期货周二跌10%】 周二（6月6日）欧市尾盘，ICE英国天然气期货下跌10.79%，报59.970便士/千卡，一度跌至58.770便士，逼近5月30日的底部52.640便士，周一涨超23.00%。TTF基准荷兰天然气期货跌13.36%，报25.300欧元/兆瓦时，周一涨超22.00%。ICE欧盟碳排放交易许可（期货价格）跌1.59%，报79.59欧元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-06/detail-imywkpnz1076886.d.html</link>
-            <guid>3135007</guid>
-            <pubDate>Tue, 06 Jun 2023 15:49:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  德国DAX30指数6月6日（周二）收盘上涨29.36点，涨幅0.18%，报15993.25点；
-英国富时100指数6月6日（周二）收盘上涨29.12点，涨幅0.38%，报7629.11点；
-法国CAC40指数6月6日（周二）收盘上涨8.09点，涨幅0.11%，报7209.00点；
-欧洲斯托克50指数6月6日（周二）收盘上涨2.01点，涨幅0.05%，报4295.25点；
-西班牙IBEX35指数6月6日（周二）收盘上涨22.19点，涨幅0.24%，报9311.29点；
-意大利富时MIB指数6月6日（周二）收盘上涨169.15点，涨幅0.63%，报27026.00点。]]></title>
-            <guid>3135006</guid>
-            <pubDate>Tue, 06 Jun 2023 15:41:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧股主要指数收盘普涨】欧股主要指数收盘普涨，德国DAX30指数涨0.26%，英国富时100指数涨0.44%，法国CAC40指数涨0.11%，欧洲斯托克50指数涨0.12%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-06/detail-imywkpnx4298234.d.html</link>
-            <guid>3135005</guid>
-            <pubDate>Tue, 06 Jun 2023 15:41:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯称5月份原油产量保持稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-06/detail-imywkpnu2165326.d.html</link>
-            <guid>3135004</guid>
-            <pubDate>Tue, 06 Jun 2023 15:38:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士：拜登政府将在本月晚些时候公布的最终生物燃料配额规则中剔除有关电动汽车的提案，还将取消电动汽车预计在未来两年产生的至多18亿美元的信用额度。]]></title>
-            <guid>3135003</guid>
-            <pubDate>Tue, 06 Jun 2023 15:38:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国特拉华州一位法官去年已驳回了针对马斯克收购太阳能发电公司SolarCity一事发起的诉讼。]]></title>
-            <guid>3135002</guid>
-            <pubDate>Tue, 06 Jun 2023 15:36:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
