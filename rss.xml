@@ -4,11 +4,35 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 10 Jun 2023 19:12:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jun 2023 20:17:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场资讯：美国银行存款从上周的17.236万亿美元增至17.283万亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-11/detail-imywvynr3678556.d.html</link>
+            <guid>3139394</guid>
+            <pubDate>Sat, 10 Jun 2023 20:00:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄外交部：将对冰岛降低两国外交关系级别的决定采取回应措施】当地时间6月10日，俄罗斯外交部发表声明表示，俄方将采取措施回应冰岛降低与俄罗斯外交关系级别的不友好决定，冰岛方面应对两国关系恶化负全责。此前冰岛外交部宣布，冰岛驻俄罗斯大使馆将于8月1日起暂停办公。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-11/detail-imywvynv7248285.d.html</link>
+            <guid>3139393</guid>
+            <pubDate>Sat, 10 Jun 2023 19:56:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【泽连斯基称乌克兰正在采取反攻和防御行动】当地时间6月10日，乌克兰总统泽连斯基在其官方社交账户上发布消息称，他与到访的加拿大总理特鲁多举行了会谈。乌克兰国家通讯社报道称，在与特鲁多举行的联合发布会上，泽连斯基表示，乌克兰正在采取反攻和防御行动。但他没有透露目前所处的具体阶段。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-11/detail-imywvynv7246409.d.html</link>
+            <guid>3139392</guid>
+            <pubDate>Sat, 10 Jun 2023 19:43:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【泰国榴莲重要产地开摘榴莲 办榴莲节庆祝】当地时间6月10日，泰国春蓬府府尹Wisa砍下了榴莲第一刀，开启了2023年榴莲收获季。（中国新闻网）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-11/detail-imywvynx4022251.d.html</link>
+            <guid>3139391</guid>
+            <pubDate>Sat, 10 Jun 2023 19:32:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场资讯：西雅图港的货运业务因劳工行动而关闭。]]></title>
             <link>https://finance.sina.cn/7x24/2023-06-11/detail-imywvynv7242138.d.html</link>
@@ -277,29 +301,6 @@
             <link>https://finance.sina.cn/7x24/2023-06-10/detail-imywvirc7576949.d.html</link>
             <guid>3139345</guid>
             <pubDate>Sat, 10 Jun 2023 13:25:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据一位知情人士透露，英国对冲基金公司Odey Asset Management已将其创始人Crispin Odey从公司合伙人名单中除名。]]></title>
-            <guid>3139344</guid>
-            <pubDate>Sat, 10 Jun 2023 13:21:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广州发布地质灾害气象风险预警】广州预警发布中心6月10日16时40分发布地质灾害气象风险预警，经广州市规划和自然资源局与市气象局联合会商，预计未来24小时，黄埔区萝岗街道、永和街道、新龙镇，增城区永宁街道、新塘镇、中新镇地质灾害气象风险预警等级为3级，请有关单位做好防御。3级预警表示气象因素致地质灾害的风险较高，监测人员应加强监测预警，及时防御。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-10/detail-imywvirf4352933.d.html</link>
-            <guid>3139343</guid>
-            <pubDate>Sat, 10 Jun 2023 13:20:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华西证券：6月上下游对锂盐价格的博弈或将延续 关注上下游一体化企业】华西证券发布研究报告称，锂盐价格在上涨到30万元/吨左右时涨幅放缓，且市场进行多次拍卖并未加速锂盐价格上涨，主要系伴随锂价上涨，锂盐成本在材料端占比提升，前驱体涨幅不及锂盐，市场存在成本倒挂现象，材料厂难以接受高价锂盐，6月上下游对锂盐价格的博弈或将延续，拥有上游资源保障的一体化企业竞争力凸显，推荐关注上下游一体化企业，提前实现锂精矿收入，阿坝州李家沟锂辉石矿即将投产的川能动力，锂云母原料自给率100%的永兴材料。受益标的有Bikita矿山扩产进行中、锂盐自给率有望持续提高的中矿资源。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-10/detail-imywvirc7573677.d.html</link>
-            <guid>3139341</guid>
-            <pubDate>Sat, 10 Jun 2023 13:10:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【券商再融资“降温”】 过去两年，上市券商通过再融资募资规模超2600亿元。但年初至今，既没有定增落地，也没有配股预案发布，近几年火热的券商再融资，在年内却逐渐“降温”。与此同时，在监管持续加码之下，年内已有多家上市券商调整再融资投向。多位业内人士表示，随着行业再融资更加谨慎，券商资本金扩张节奏或趋缓，倒逼券商加速转型，未来通过提升资金使用效率、合理配置存量资产实现降本增效。（中国基金报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-10/detail-imywvirc7573357.d.html</link>
-            <guid>3139340</guid>
-            <pubDate>Sat, 10 Jun 2023 13:09:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
