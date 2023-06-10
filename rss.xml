@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 10 Jun 2023 20:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jun 2023 21:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[埃及外交部：对苏丹实施入境签证是监管性的，而不是限制性的。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-11/detail-imywweuv3902885.d.html</link>
+            <guid>3139396</guid>
+            <pubDate>Sat, 10 Jun 2023 20:58:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 【美联储或将暂停加息并评估加息效果】美联储的政策制定者们或将从15个月前开始的加息运动中第一次休息，尽管他们面临着美国经济的弹性和持续的通货膨胀。预计美国联邦公开市场委员会(FOMC)周三将维持基准贷款利率在5%-5.25%的区间不变，这是自去年3月以来连续10次加息后的首次上调。尽管官员们的努力有助于减轻美国经济中的价格压力，但通胀仍远高于他们的目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-11/detail-imywvynv7251799.d.html</link>
+            <guid>3139395</guid>
+            <pubDate>Sat, 10 Jun 2023 20:24:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场资讯：美国银行存款从上周的17.236万亿美元增至17.283万亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2023-06-11/detail-imywvynr3678556.d.html</link>
@@ -289,18 +301,6 @@
             <title><![CDATA[【日本多地渔业组织重申反对福岛核污染水排海计划】据日本媒体报道，6月10日，日本经济产业相西村康稔在同宫城、福岛和茨城三县的渔业相关人员会面期间，多地渔业组织负责人再次表达对福岛核污染水排海计划的反对。日本福岛县渔业协会联合会会长野崎哲当面向西村康稔表示，将继续坚持一直以来反对排海的立场。茨城沿海地区渔业协会联合会会长飞田正美则在会谈中表达反对立场时表示，排海计划将持续数十年，增加了渔民对未来的不安，引发当地对渔业能否存续的担忧。此前日媒报道称，福岛第一核电站所在地区的相马双叶渔协负责人今野智光在同西村康稔会面时，也再度对核污染水排海计划表示反对。（人民日报）]]></title>
             <guid>3139347</guid>
             <pubDate>Sat, 10 Jun 2023 13:42:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【重阳投资汤进喜：私募基金应坚持投资者利益优先】6月10日，以“中国特色现代资本市场法治建设”为主题的首届中国资本市场法治论坛在上海召开。重阳投资总裁汤进喜在“分论坛三：基金期货衍生品专题 基金期货市场时代机遇与法治保障”上表示，近年来基金行业的高速发展得益于行业市场化、法治化、国际化的特点，未来私募基金需坚持以投资者为中心的发展理念，让投资者拥有获得感，从而实现健康、可持续发展。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-10/detail-imywvirc7577136.d.html</link>
-            <guid>3139346</guid>
-            <pubDate>Sat, 10 Jun 2023 13:26:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【申万宏源：下周MLF利率是否调整将影响短期汇率走势】申万宏源研报称，下周公布的MLF利率或将短期影响汇率走势。申万宏源认为，下周MLF利率下调概率较低，源于商业银行净息差扭转仍需时日，汇率尚未完全稳定、居民购房偏好仍不稳，并非好的降息时间窗口。若央行选择降息，短期可提振市场信心，但目前居民部门加杠杆动机偏弱并非源于利率，而是购房偏好磨底，目前降息对于稳定实体经济的必要性和效果可能并不直接，不过汇率的短期压力也可以通过如逆周期因子等方式对冲，汇率暂时贬值后将回升趋稳。展望至年底，随着居民收入的持续改善，以及今年上半年“保交楼”对地产竣工的推动，将带动消费尤其是可选商品消费的改善在三季度启动，全年“N型”复苏可期。这将带动经济预期展望恢复，中美利差收窄令资本和金融项下趋于回流，预计人民币对美元年底可回到6.9-7.0的区间范围内。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-10/detail-imywvirc7576949.d.html</link>
-            <guid>3139345</guid>
-            <pubDate>Sat, 10 Jun 2023 13:25:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
