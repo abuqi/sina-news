@@ -4,11 +4,29 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 10 Jun 2023 16:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jun 2023 17:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[乌克兰副外长：加拿大总理特鲁多突访乌克兰。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-11/detail-imywvuex7352542.d.html</link>
+            <guid>3139380</guid>
+            <pubDate>Sat, 10 Jun 2023 16:52:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【姚捷追平男子撑杆跳高全国纪录并达标世锦赛】10日进行的2023中国田径街头巡回赛杭州站比赛中，全运会冠军姚捷以5米82的成绩追平男子撑杆跳高全国纪录，同时也达到了布达佩斯世锦赛参赛标准。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-11/detail-imywvuez4128897.d.html</link>
+            <guid>3139379</guid>
+            <pubDate>Sat, 10 Jun 2023 16:47:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【币安创始人赵长鹏：过去24小时币安资产净流出约为3.92亿美元】币安创始人赵长鹏于社交平台发文表示，过去24小时币安平台资产净流出约为3.92亿美元。我们的平台钱包地址是公开的。一些第三方分析将以美元计价衡量AUM(资产管理规模)的变化视为流出，这其中还包括因加密货币价格下跌(资产管理规模减少)而导致的流出。它们是两个不同的概念。有些甚至只衡量流出，而不衡量流入。像今天这样价格剧烈波动的日子里，许多套利交易者在各个交易平台之间转移大量资金，量级通常要比平时多出几倍。而作为参考，币安曾在去年11月的某一天内处理达70亿美元的净流出。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-11/detail-imywvuex7348491.d.html</link>
+            <guid>3139378</guid>
+            <pubDate>Sat, 10 Jun 2023 16:30:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ 中国地震台网正式测定：06月11日00时12分在新疆和田地区和田县（北纬35.84度，东经79.77度）发生3.3级地震，震源深度10千米。]]></title>
             <guid>3139377</guid>
@@ -282,24 +300,6 @@
             <link>https://finance.sina.cn/7x24/2023-06-10/detail-imywvirf4340865.d.html</link>
             <guid>3139330</guid>
             <pubDate>Sat, 10 Jun 2023 12:27:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【5月中国汽车经销商库存系数为1.74，同比上升1.2%】 中国汽车流通协会10日发布2023年5月份“汽车经销商库存”调查结果：5月汽车经销商综合库存系数为1.74，环比上升15.2%，同比上升1.2%，库存水平在警戒线以上。 中国汽车流通协会介绍，5月，受各地车展与终端补贴刺激以及多款换代或全新车型发布的影响，消费者对车市的关注度提升，车市景气度回升。5月前四周经销商库存水平持续下降，进入最后一周，为应对半年任务考核节点，经销商补库动力较强，库存水平回升。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-10/detail-imywvirc7563545.d.html</link>
-            <guid>3139329</guid>
-            <pubDate>Sat, 10 Jun 2023 12:27:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【合肥市委书记虞爱华与华为轮值董事长胡厚崑商谈深化合作】“合肥发布”微信公众号消息，6月8日下午，安徽省委常委、合肥市委书记虞爱华与华为副董事长、轮值董事长胡厚崑商谈深化合作。双方商定，加快推进安徽区域总部等已有项目，深化拓展人工智能等领域合作，推动更多新技术新产品新模式，在合肥试点示范推广。据悉，此前，华为已与合肥市签署全面战略合作协议，华为安徽区域总部已完成初步设计，计划今年底前开工建设。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-10/detail-imywvirc7563117.d.html</link>
-            <guid>3139328</guid>
-            <pubDate>Sat, 10 Jun 2023 12:25:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“国家质量基础设施助推动力电池高质量发展”特色活动在宜宾举行】 6月10日上午，2023世界动力电池大会“国家质量基础设施助推动力电池高质量发展” 特色活动在四川宜宾举行。活动以“线上+线下”方式同步进行，政府部门、产业链企业代表等300余名嘉宾齐聚一堂，聚焦夯实动力电池与新能源质量技术基础，提升产品质量与安全性能，促进产业绿色安全、高质量发展。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-10/detail-imywvirc7561801.d.html</link>
-            <guid>3139327</guid>
-            <pubDate>Sat, 10 Jun 2023 12:19:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
