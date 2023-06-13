@@ -4,11 +4,116 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Tue, 13 Jun 2023 20:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 21:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：一名美国众议院议员称，众议院委员会将在未来几周内就加密货币法案进行投票。]]></title>
+            <guid>3142360</guid>
+            <pubDate>Tue, 13 Jun 2023 21:05:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽交所ARCA钢铁指数收涨2.31%，报1853.88点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-14/detail-imyxevxr4116038.d.html</link>
+            <guid>3142359</guid>
+            <pubDate>Tue, 13 Jun 2023 21:01:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国5月进口物价指数录得自2020年5月以来最大年降幅，5月出口物价指数出现自2010年3月以来最大年降幅。]]></title>
+            <guid>3142358</guid>
+            <pubDate>Tue, 13 Jun 2023 21:01:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿根廷MERVAL指数收涨0.13%，报38.2万点，创收盘历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-14/detail-imyxevxt8341379.d.html</link>
+            <guid>3142357</guid>
+            <pubDate>Tue, 13 Jun 2023 21:01:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国5月出口物价指数年率下降11.2%，前值下降7.50%；韩国5月进口物价指数年率下降12%，前值下降5.80%。]]></title>
+            <guid>3142356</guid>
+            <pubDate>Tue, 13 Jun 2023 21:01:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国多个州的检察官们表示：联邦政府层面的人工智能（AI）监管指导意见应当以风险为依据。]]></title>
+            <guid>3142354</guid>
+            <pubDate>Tue, 13 Jun 2023 20:59:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【三十年期国债期货开局平稳，市场运行质量不断提升】 中国金融期货交易所近日透露，30年期国债期货（TL）上市以来，持仓量稳步增长，期现联动紧密，投资者参与有序，实现了平稳开局。截至目前，国债期货产品体系持续完善，市场运行质量不断提升。随着功能逐步发挥，国债期货在促进债券市场发展、服务实体企业融资、维护宏观金融稳定、助力资本市场高质量发展等方面发挥了积极作用。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-14/detail-imyxevxr4115484.d.html</link>
+            <guid>3142353</guid>
+            <pubDate>Tue, 13 Jun 2023 20:58:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：币安和美国证券交易委员会（SEC）在避免币安美国资产被全面冻结方面的意见分歧“并不是十分突出”。]]></title>
+            <guid>3142352</guid>
+            <pubDate>Tue, 13 Jun 2023 20:58:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院共和党人致信美国总统拜登，敦促其选出新的美国联邦航空管理局（FAA）局长提名人，称延迟提名会危及飞行公众安全。]]></title>
+            <guid>3142351</guid>
+            <pubDate>Tue, 13 Jun 2023 20:47:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【公募行业“新陈代谢”加速，今年以来逾百只基金清盘】 伴随着市场震荡，公募基金行业“新陈代谢”有所加速。Wind数据显示，截至记者发稿，今年以来公募基金清盘数量已有118只，多数为规模不足5000万元的“迷你基”。但与此同时，今年以来有454只产品成立，还有205只基金提前结束募集，市场表现“冷热不均”。分析人士认为，不论是上新还是清盘，都属于正常现象，优胜劣汰可以推动公募行业高质量发展、优化基金投资者的资源配置。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-14/detail-imyxevxr4113967.d.html</link>
+            <guid>3142350</guid>
+            <pubDate>Tue, 13 Jun 2023 20:47:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“密件风波”听证会结束，特朗普出庭全程沉默】 当地时间6月13日15时48分，据美国有线电视新闻网报道，美国前总统特朗普在迈阿密一家联邦法院出席的听证会结束。特朗普出庭全程沉默，没有回答检方的任何问题，在听证会结束后离开法庭。据美联社报道，特朗普将在无需支付保释金的情况下获释，他也不需要交出护照或限制个人旅行。（央视新闻）]]></title>
+            <guid>3142349</guid>
+            <pubDate>Tue, 13 Jun 2023 20:47:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海国际再保险中心建设实施细则落地】 国家金融监督管理总局、上海市人民政府近日宣布上海再保险“国际板”正式启动。《关于加快推进上海国际再保险中心建设的实施细则》同步落地，在上海开设面向全球的再保险分入业务交易市场，标志着上海国际再保险中心建设迈出重要一步。业内人士指出，上海再保险“国际板”全面开启服务再保险高水平对外开放和高质量“双循环”新篇章，助力我国再保险市场由“单向开放”向“双向开放”转型升级。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-14/detail-imyxevxr4113814.d.html</link>
+            <guid>3142348</guid>
+            <pubDate>Tue, 13 Jun 2023 20:46:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【6月13日美股成交额前20：特斯拉连涨13日，英伟达市值超1万亿美元】周二美股成交额第1名特斯拉收高3.55%，成交408.1亿美元。特斯拉股价录得连续第13个交易日上涨，创IPO以来的最长连续上涨纪录。汽车生产商斯特兰蒂斯周二表示，将继续评估特斯拉的充电标准，并期待在未来进行更多讨论。在此之前，美国汽车巨头通用和福特均决定采纳该充电接口。通用汽车表示，为了支持特斯拉的充电技术成为行业标准，未来的电动汽车将使用与特斯拉相同的充电硬件。今日成交额第2名英伟达收高3.9%，成交246.2亿美元。该股今日创历史最高收盘纪录，市值站上1万亿美元。http://t.cn/A6pSlIBD]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-14/detail-imyxevxr4113750.d.html</link>
+            <guid>3142347</guid>
+            <pubDate>Tue, 13 Jun 2023 20:46:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至6月9日当周API原油库存增加102.4万桶，前值减少171万桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-14/detail-imyxevxt0889812.d.html</link>
+            <guid>3142346</guid>
+            <pubDate>Tue, 13 Jun 2023 20:38:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美东地区亚马逊云服务(AWS)多个服务出现故障】亚马逊云服务(AWS)表示，美国东部1号地区多个AWS服务的错误率和延迟持续增加，该地区来电者可能无法连接，聊天可能无法启动。AWS表示还观察到从AWS安全令牌服务获取临时凭据的错误增加，并且正在并行工作以解决错误。AWS状态页面显示，AWS CloudFormation、AWS Lambda、Amazon API Gateway、Amazon Connect受持续问题影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-14/detail-imyxevxr4110623.d.html</link>
+            <guid>3142345</guid>
+            <pubDate>Tue, 13 Jun 2023 20:26:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：谷歌公司推迟在欧盟市场首发机器人聊天工具Bard，因该公司对欧洲隐私监管力度感到忧心忡忡。]]></title>
+            <guid>3142344</guid>
+            <pubDate>Tue, 13 Jun 2023 20:25:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网自动测定：6月14日04时17分在新疆阿克苏地区温宿县附近（北纬41.69度，东经80.82度）发生4.2级左右地震，最终结果以正式速报为准。]]></title>
+            <guid>3142343</guid>
+            <pubDate>Tue, 13 Jun 2023 20:25:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CVR能源决定，不再追求剥离氮肥业务。公司将继续侧重于可再生能源机会。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-14/detail-imyxevxr4110043.d.html</link>
+            <guid>3142342</guid>
+            <pubDate>Tue, 13 Jun 2023 20:24:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【标普500指数的11个板块普遍收涨】 1、周二（6月13日），标普500指数高开后高位震荡，原材料板块收涨2.33%，工业板块涨1.16%，可选消费板块涨1.0%，信息技术/科技板块涨0.71%，能源板块涨0.47%，电信板块涨0.27%，公用事业板块则收跌0.07%，是唯一收跌的板块。2、在原材料板块，Steel Dynamics收涨5.99%领跑，自由港涨5.29%，锂矿公司美国雅宝涨超4.7%，纽柯钢铁涨约4.0%，陶氏化学涨约2.6%，化肥巨头CF工业涨约2.0%，农业科学公司FMC涨0.68%表现最差。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-14/detail-imyxevxr4110013.d.html</link>
+            <guid>3142341</guid>
+            <pubDate>Tue, 13 Jun 2023 20:24:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国大类资产ETF涨跌互现】 美国布伦特油价基金涨3.14%，大豆基金涨2.17%，罗素2000指数ETF涨1.15%，新兴市场ETF涨1.00%，纳指100 ETF、标普500价值指数ETF、巴克莱美国可转债ETF、美国房地产ETF各涨逾0.5%。而美国国债20+年ETF跌0.99%，黄金台ETF-SPDR跌0.75%，美国国债7-20年ETF跌0.71%，通胀债券指数ETF跌0.51%。美国投资级公司债ETF、日元做多、做多美元指数ETF，恐慌数指数做多各跌0.2-0.5%。]]></title>
             <link>https://finance.sina.cn/7x24/2023-06-14/detail-imyxevxr4107584.d.html</link>
@@ -194,119 +299,6 @@ ICE棉花期货跌0.96%。]]></title>
             <title><![CDATA[OpenAI：API中的ChatGPT-4和ChatGPT-3.5 Turbo模型现在允许模型使用人们为它而设计的那些工具。]]></title>
             <guid>3142311</guid>
             <pubDate>Tue, 13 Jun 2023 18:57:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美媒：特朗普在迈阿密的联邦法院出庭期间被逮捕】据报道，当地时间6月13日14时，美国前总统特朗普已经抵达迈阿密的联邦法院，他在出庭期间被逮捕。法警将在今天的诉讼程序中某个时刻对特朗普进行登记，并采集他的电子指纹。鉴于特朗普的可辨认性，法警预计不会给他拍照。特朗普的前助手和共同被告沃尔特·诺塔也将被拘留，被采集指纹并接受处理。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-14/detail-imyxerrt4225484.d.html</link>
-            <guid>3142310</guid>
-            <pubDate>Tue, 13 Jun 2023 18:47:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元/日元日内涨幅达0.5%，报140.273。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-14/detail-imyxerrv1002709.d.html</link>
-            <guid>3142309</guid>
-            <pubDate>Tue, 13 Jun 2023 18:47:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI 7月原油期货收涨3.42%，报69.42美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-14/detail-imyxerrt4225242.d.html</link>
-            <guid>3142308</guid>
-            <pubDate>Tue, 13 Jun 2023 18:46:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【退市名单不断加长，不良企业快速出清】 全面注册制的改革背景下，A股市场加速劣质企业出清，优胜劣汰机制愈加稳固，财务类退市指标精准出清“壳公司”和“僵尸企业”。今年以来，已有5家A股公司因触发“1元退市”指标告别A股，还有13家公司已基本锁定“1元退市”。至此，年内触及和锁定“1元退市”的公司多达18家。清华大学五道口金融学院副院长田轩表示，退市新规实施后，我国退市企业数量大幅增长，退市效率进一步提升、进程进一步加快。从退市公司情况来看，多数企业触及了交易类、财务类退市指标，关键原因不仅在于退市标准有了更为严格的要求，退市审查、执行力度也明显加大。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-14/detail-imyxerrt4225125.d.html</link>
-            <guid>3142307</guid>
-            <pubDate>Tue, 13 Jun 2023 18:46:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国初创公司Mistral AI进行第一轮融资，募集到1.05亿欧元（折合1.13亿美元），自称将成为人工智能（AI）领域“一个新的全球玩家”。该公司称，其将于2024年前期发布第一个模型。该公司由DeepMind和Meta Platforms的前研究员们创立。]]></title>
-            <guid>3142306</guid>
-            <pubDate>Tue, 13 Jun 2023 18:45:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AMD(AMD.O)跌超3%，盘初一度涨超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-14/detail-imyxerrt4225052.d.html</link>
-            <guid>3142305</guid>
-            <pubDate>Tue, 13 Jun 2023 18:45:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【LPR下调概率提升，房贷成本有望降低】 6月13日，央行公开市场操作7天期逆回购利率下调10个基点。多位专家认为，本月15日的中期借贷便利（MLF）操作利率和20日的贷款市场报价利率（LPR）有望跟随下调，从而进一步推动降低实体经济融资成本，助力稳增长。“5月国内居民消费和楼市销售扩张动能偏弱一些，但保持复苏态势，预计本月LPR下调可能性较大。”光大银行金融场部宏观研究员周茂华表示，伴随国内宏观政策力度适度加大，国内信贷、社会融资有望逐步改善。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-14/detail-imyxerrt4224734.d.html</link>
-            <guid>3142304</guid>
-            <pubDate>Tue, 13 Jun 2023 18:44:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[International Data Corp.报告显示：四大会计师事务所（德勤、安永、毕马威、普华永道）在全球顶级AI服务供应商中名列前茅。]]></title>
-            <guid>3142303</guid>
-            <pubDate>Tue, 13 Jun 2023 18:43:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国5年期国债收益率上升至4.019％，为3月10日以来最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-14/detail-imyxerrv1000349.d.html</link>
-            <guid>3142302</guid>
-            <pubDate>Tue, 13 Jun 2023 18:33:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上期所原油期货2307合约夜盘收涨2.61%，报519.60元人民币/桶。沪金夜盘收跌0.40%，沪银收跌0.72%。]]></title>
-            <guid>3142301</guid>
-            <pubDate>Tue, 13 Jun 2023 18:32:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果公司（AAPL）一度下跌约0.7%，刷新日低至182.46美元，6月5日曾涨至历史最高位184.95美元。在苹果股价接近创历史新高之际，投资者担忧iPhone需求降温，瑞银集团将苹果评级从买入下调至中性，意味着华尔街还剩67%的分析师对苹果持买入评级，这样的比例创2020年后期以来新低。]]></title>
-            <guid>3142298</guid>
-            <pubDate>Tue, 13 Jun 2023 18:27:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【AMD宣布新款GPU专用的MI300X AI加速器】AMD宣布新款GPU专用的MI300X AI加速器；MI300A芯片正在小批量出货，将用于美国的"El Capitan"超级计算机；GPU加速器拥有行业领先的存储能力；新款芯片意味着，生成式AI模型不再需要数目那么众多的GPS。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-14/detail-imyxerrv8442557.d.html</link>
-            <guid>3142297</guid>
-            <pubDate>Tue, 13 Jun 2023 18:25:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【央行超预期“降息”释放逆周期调节强信号】据上证报，首先，5月CPI和PPI环比数据双双负增长，CPI数据同比略有回升，但PPI同比、环比均继续下行，在没有通胀掣肘的背景下，维持宽松的货币政策存在合理性。其次，5月房地产销售金额环比下降14.3%，相较于2021年5月下降56.6%，房地产转弱的形势下，需要低利率的货币环境托底。最后，6月以来，国有大行、股份行、城农商行陆续下调存款端利率，先降存款利率后降贷款利率，对银行息差压力也不会太大。光大银行金融市场部宏观研究员周茂华表示，回顾近期商业银行和央行的一系列举措，更多的是在有效降低银行负债成本缓解部分银行净息差收窄压力，拓展银行进一步合理让利实体经济空间，为加强逆周期调节进行铺垫。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-14/detail-imyxerry7698446.d.html</link>
-            <guid>3142296</guid>
-            <pubDate>Tue, 13 Jun 2023 18:23:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【投顾数量无法匹配需求监管从严盯防“无证荐股”】据上证报，监管层从严盯防券商“无证荐股”行为。时至今日，“无证荐股”仍是券商营业部从业人员违规的高发地带。据上海证券报记者不完全统计，2021年以来，涉及“无证荐股”的人员监管措施已有16起。单就2023年以来，就已有4起涉及“无证荐股”的监管措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-14/detail-imyxerrv0998557.d.html</link>
-            <guid>3142295</guid>
-            <pubDate>Tue, 13 Jun 2023 18:23:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stellantis(STLA.N)：将继续评估特斯拉的充电标准，并期待在未来进行更多讨论。]]></title>
-            <guid>3142294</guid>
-            <pubDate>Tue, 13 Jun 2023 18:22:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[福特汽车将在阿根廷投资6.6亿美元生产新车。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-14/detail-imyxerrt4220836.d.html</link>
-            <guid>3142293</guid>
-            <pubDate>Tue, 13 Jun 2023 18:19:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【6家房企定增获交易所审核通过，涉及资金超400亿元】 自去年11月底“第三支箭”政策颁布后，共有30余家上市涉房企业公告了增发事宜。截至6月13日，已有6家房企定增获交易所审核通过，涉及资金超400亿元。中指研究院企业研究总监刘水表示，“全面注册制下定增程序得到简化。优化发行审核注册程序，取消发审委审核机制，由交易所负责审核上市公司的定增申请。”尽管最终能否获得证监会同意注册的决定及其时间上仍存在不确定性，但在刘水看来，获得交易所审批通过，意味着最难的环节已经过去，备受瞩目的房企定增事项只剩“临门一脚”。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-14/detail-imyxerrv8440980.d.html</link>
-            <guid>3142292</guid>
-            <pubDate>Tue, 13 Jun 2023 18:19:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国劳工部代理部长Julie Su前往加州，将与西海岸港口行业和码头工人工会谈判，以期打破劳资双方在旷日持久的合同谈判方面的僵局。]]></title>
-            <guid>3142291</guid>
-            <pubDate>Tue, 13 Jun 2023 18:17:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周二（6月13日）欧市尾盘，法国巴黎泛欧交易所（EuroNext）“制粉小麦”期货涨0.41%，报244.75欧元/吨。油菜籽期货涨1.76%，报447.75欧元/吨。]]></title>
-            <guid>3142290</guid>
-            <pubDate>Tue, 13 Jun 2023 18:14:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【常态化退市机制见成效，年内强制退市公司已锁定43家】 今年，强制退市数量将再创新高。截至6月13日，今年以来，锁定强制退市的公司已达43家，超过去年全年（42家），创历史新高，常态化退市机制落地见效。川财证券首席经济学家、研究所所长陈雳表示，常态化退市机制的形成，将促使上市公司越来越注重聚焦主业，脚踏实地合法经营，做好更长远的战略规划。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-14/detail-imyxerrv0995912.d.html</link>
-            <guid>3142289</guid>
-            <pubDate>Tue, 13 Jun 2023 18:09:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
