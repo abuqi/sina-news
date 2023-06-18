@@ -4,13 +4,73 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 18 Jun 2023 21:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jun 2023 22:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[市场消息：英国金融行为监管局（FCA）限制Odey对冲基金的资产流动。]]></title>
+            <title><![CDATA[欧洲地中海地震中心（EMSC）：非洲南部发生6.0级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-19/detail-imyxumwn1687203.d.html</link>
+            <guid>3147298</guid>
+            <pubDate>Sun, 18 Jun 2023 22:15:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经济日报评论：“内卷式”招商引资要不得】文章指出，招商引资成为多地稳经济的重要抓手。在调研中发现，一些地方出现急功近利苗头，采取超常规优惠方式“挖墙脚”，甚至推出不规范税收等优惠政策，引发恶性竞争。“内卷式”招商引资，往往来自于部分地方政府冲动投资，在没有充足论证的情况下，相互攀比、盲目投资，时而会出现项目烂尾、产能过剩等情况。还要看到，个别地方政府“重许诺、轻兑现”，受限于资金或资源，可能会出现信用危机，最终两败俱伤。“内卷式”招商引资折射出一些地方政府的畸形政绩观，暴露出部分地方官员急于求成和好大喜功的短视心态。要想根治“内卷式”招商引资乱象，除了健全相关考核机制，还应在招商引资科学评估方面多做文章，加强专项治理和抽查，避免因政绩冲动造成盲目招引、无效投入。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-19/detail-imyxumwr2655996.d.html</link>
+            <guid>3147297</guid>
+            <pubDate>Sun, 18 Jun 2023 22:12:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经济日报金观平：确保就业形势总体稳定】文章指出，当前经济运行不断企稳回升，但劳动力市场的恢复程度低于预期。就业总量压力和结构性问题仍不容忽视，青年人就业压力依然较大，高技能人才短缺，“求职难”和“招工难”并存。尤其是当前正值毕业季，青年失业率处于高位，促就业稳就业任务十分艰巨繁重。要突出做好三件事情：其一，发展经济稳住经营主体；其二，靠前服务提供就业帮扶；其三，下大力气破解结构性就业矛盾。必须深刻认识到，民营经营主体不仅提供了80%以上的城镇就业，还创造了90%以上的新增就业，特别是吸纳高校毕业生、农民工等重点群体就业的主渠道都在民营经济。因此，必须坚持“两个毫不动摇”，不断优化和完善营商环境，着力解决部分民营企业盈利水平下降、投资动力不强、长期融资需求较弱、信心不足等问题。要优化劳动力资源在区域之间、城乡之间的合理流动，增强广大中小微企业和个体工商户的生命力，强化其吸收劳动力能力。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-19/detail-imyxumwr2655242.d.html</link>
+            <guid>3147296</guid>
+            <pubDate>Sun, 18 Jun 2023 22:07:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美联储7月加息25个基点的概率为74.4%】CME“美联储观察”：美联储7月维持利率在5.00%-5.25%不变的概率为25.6%，加息25个基点至5.25%-5.50%区间的概率为74.4%；到9月维持利率不变的概率为22.5%，累计加息25个基点的概率为68.5%，累计加息50个基点的概率为8.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-19/detail-imyxufqu9562956.d.html</link>
+            <guid>3147295</guid>
+            <pubDate>Sun, 18 Jun 2023 22:05:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股期货小幅高开，纳斯达克100指数期货涨0.3%，标普500指数期货涨0.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-19/detail-imyxufqq1816835.d.html</link>
+            <guid>3147294</guid>
+            <pubDate>Sun, 18 Jun 2023 22:01:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金周一平开，报1957.86美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-19/detail-imyxufqu9562160.d.html</link>
+            <guid>3147293</guid>
+            <pubDate>Sun, 18 Jun 2023 22:01:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油周一平开，报71.68美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-19/detail-imyxufqu9562117.d.html</link>
+            <guid>3147292</guid>
+            <pubDate>Sun, 18 Jun 2023 22:00:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【长江防总启动防汛Ⅳ级应急响应】 鉴于当前防汛形势，按照《长江流域防汛抗旱应急预案》有关规定，长江防总决定自6月18日18时起启动防汛Ⅳ级应急响应。同时要求湖北、湖南、江西、安徽、江苏、上海、广西、贵州省（自治区、直辖市）防汛抗旱指挥部进一步贯彻落实国务院领导重要批示精神，全面落实国家防总、水利部工作要求，压实各方责任，强化监测预报预警、水工程科学调度、水利工程巡查防守，特别要重视中小河流洪水和山洪灾害防御，全力做好应急抢险、转移安置、隐患排查整治等工作，切实保障人民群众生命财产安全。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-19/detail-imyxufqu9561683.d.html</link>
+            <guid>3147291</guid>
+            <pubDate>Sun, 18 Jun 2023 21:54:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄石油公司：俄罗斯石油出口正输给其他一些欧佩克+国家】俄罗斯石油公司Rosneft总裁谢钦表示，由于俄罗斯石油产量的出口份额较小，俄罗斯正在输给其他欧佩克+国家。此前一些专家和分析人士指出，尽管实施了减产，俄罗斯的石油出口量仍然相对较高。谢钦在一个经济论坛上表示，一些欧佩克+国家的出口量高达其产量的90%，而俄罗斯仅以其产量的一半供应全球市场。在目前评估影响和进入关键市场的机制下，这使俄罗斯处于不那么有利的地位。在这方面，考虑到国内市场的不同规模，似乎不仅要监测生产配额，还要监测石油出口量。此外他还表示，在未来几年，人们将面临生产能力的问题，欧佩克国家将不再能够满足日益增长的需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-19/detail-imyxufqt2784182.d.html</link>
+            <guid>3147290</guid>
+            <pubDate>Sun, 18 Jun 2023 21:49:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【SVB旗下投行部门将物归原主】据报道，硅谷银行金融集团已同意将其投资银行部门出售给一个由SVB证券负责人Jeff Leerink领导、由包普斯特财务管理集团管理的基金所支持的团队。该投行部门是在硅谷银行金融集团收购Jeff Leerink专注于医疗保健领域的投资银行后创建的。此后Jeff Leerink一直担任该投行的CEO。据悉Jeff Leerink的团队将以现金、偿还公司间票据和5%的股权工具回购公司。回购后该投行将更名为Leerink Partners(被收购前的名称)。有关这笔拟议交易的法庭听证会定于6月29日举行。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-19/detail-imyxufqv6444567.d.html</link>
+            <guid>3147289</guid>
+            <pubDate>Sun, 18 Jun 2023 21:17:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英媒：英国金融行为监管局限制了Odey对冲基金的资产流动】据报道，英国金融行为监管局（FCA）限制了Odey Asset Management的现金和资产流动（赎回申请），以求恢复这家对冲基金的秩序。此前，该公司创始人Crispin Odey因不当行为的指控被撤职。两位知情人士表示，FCA将于周一公布与Odey达成的自愿限制的细节。相关公司Odey Wealth Management也同意了这些限制，这些限制将要求两者为其业务的正常运行保存现金和资产。其中一位知情人士称，FCA将要求对超过一定水平的交易进行预先批准。]]></title>
             <link>https://finance.sina.cn/7x24/2023-06-19/detail-imyxufqt2781689.d.html</link>
             <guid>3147288</guid>
             <pubDate>Sun, 18 Jun 2023 21:06:07 GMT</pubDate>
@@ -262,65 +322,6 @@
             <title><![CDATA[【中泰证券：需求逐步改善 煤价反弹延续】 中泰证券研报指出，由于产地发运价格倒挂，港口煤源收紧，叠加神华上调外购煤价影响，京唐港5500大卡动力煤价格上涨至800元/吨。展望后市，近期下游日耗逐步攀升，但终端库存仍维持高水平，电厂多维持刚需采购，短期内价格反弹高度或有限。我们认为需求端逐步改善，煤价中枢有望逐步稳定，价格波动趋向平稳。原因有一是煤价高位崩盘下，促使贸易商加速甩货离场，市场煤规模缩减，长协煤市场地位加强，煤价波动性减弱。二是国务院总理李强6月16日主持召开国务院常务会议，此次会议围绕加大宏观政策调控力度、着力扩大有效需求、做强做优实体经济、防范化解重点领域风险等四个方面，研究提出了一批政策措施。三是国家气候中心预计，今江南和出厂价中下游地区进入梅雨时间较往年偏晚，且梅雨期偏短，这意味着水电或将继续受限。板块调整之后，煤炭股高现金流、高分红、低估值以及需求复苏下的高弹性，攻守兼备，配置价值更加突出。]]></title>
             <guid>3147248</guid>
             <pubDate>Sun, 18 Jun 2023 13:51:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【青岛市北区一地发生燃气闪爆事故，致1人被困3人受伤】据青岛市北区延安路街道办事处微博，6月18日下午15时50分许，兴安路14号602户发生燃气闪爆。事故发生后，公安、消防、应急、街道等部门第一时间赶赴现场进行处置。现场有一人被困，正在全力救援中，三人受伤，伤者均已送往医院救治。事故原因正在调查中。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-18/detail-imyxtqtc6796930.d.html</link>
-            <guid>3147247</guid>
-            <pubDate>Sun, 18 Jun 2023 13:51:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【存款利率走低 5月人身险保费大增】存款利率走低的背景下，5月上市寿险公司保费实现了两位数的同比增长。统计发现，六大上市寿险公司5月单月保费收入达1305.34亿元，同比增幅达13.6%。保费收入两位数增幅的背后，一方面是存款利率下降背景下3.5%预定利率的储蓄型险种吸引力大增，另一方面则是人身险预定利率即将下调的预期形成的需求集中释放。（第一财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-18/detail-imyxtqta9880956.d.html</link>
-            <guid>3147246</guid>
-            <pubDate>Sun, 18 Jun 2023 13:49:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【淡水河谷：与河港集团深化曹妃甸港区和唐山京唐港区业务合作】 全球铁矿石巨头巴西淡水河谷（Vale）宣布，公司与河北港口集团签署战略合作备忘录，以期深化在河港集团旗下各港口的业务合作，尤其是在唐山曹妃甸港区和唐山京唐港区的业务合作。该战略合作备忘录在2023年中国·廊坊国际经济贸易洽谈会上签署。根据备忘录议定，淡水河谷与河港集团拟加强在唐山曹妃甸港区和唐山京唐港区铁矿石混矿以及混矿和选矿原料、产品仓储等业务领域合作。淡水河谷与河港集团还有意共同探索新的商业合作机会，并合作研究多种低碳技术在港口的场景化应用。（澎湃新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-18/detail-imyxtqta9880852.d.html</link>
-            <guid>3147245</guid>
-            <pubDate>Sun, 18 Jun 2023 13:49:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【航行警告：南海海域军事演习】据中国海事局网站消息，广东海事局发布航行警告，6月19日至21日每天8时至16时，南海部分海域进行射击训练，禁止驶入。]]></title>
-            <guid>3147244</guid>
-            <pubDate>Sun, 18 Jun 2023 13:43:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：汤加南部发生5.7级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-18/detail-imyxtqsz3101531.d.html</link>
-            <guid>3147243</guid>
-            <pubDate>Sun, 18 Jun 2023 13:38:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苏州创投日，千亿基金群落地签约】 6月18日，中国（苏州）创新投资产业对接会暨苏州创投日活动盛大开幕。大会发布了苏州千亿基金集群，多个千亿级母基金选择苏州、投资苏州、重仓苏州。其中，战略性基金4支，产业创新集群2支，产业基金18支，子基金17支，总规模达960亿元，未来将赋能两千亿规模企业，汇聚三千亿创投资本。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-18/detail-imyxtqta9878186.d.html</link>
-            <guid>3147242</guid>
-            <pubDate>Sun, 18 Jun 2023 13:35:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：伊拉克对其国内11个天然气区块投标发出邀请。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-18/detail-imyxtqta9876792.d.html</link>
-            <guid>3147241</guid>
-            <pubDate>Sun, 18 Jun 2023 13:27:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南非总统府就非洲和平代表团访问俄乌发表声明】 当地时间6月18日，南非总统府发表声明称，总统拉马福萨当日结束了对乌克兰和俄罗斯为期两天的访问，非洲领导人在访问中提出了一条和平之路以解决俄乌两国之间的冲突。声明内容包括缓和冲突、确保向有需要的人提供人道主义支持以及战后重建等。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-18/detail-imyxtqsw2163195.d.html</link>
-            <guid>3147240</guid>
-            <pubDate>Sun, 18 Jun 2023 13:21:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英特尔拟投250亿美元在以色列建厂】以色列总理内塔尼亚胡周日表示，美国芯片巨头英特尔将斥资250亿美元在以色列新建一家工厂，并称这是以色列有史以来吸引的最大的一笔国际投资。这家位于Kiryat Gat的工厂将于2027年投产，至少运营到2035年，并将雇佣数千名员工。以色列财政部表示，根据协议，英特尔将支付7.5%的税率，高于目前的5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-18/detail-imyxtqsz3098314.d.html</link>
-            <guid>3147239</guid>
-            <pubDate>Sun, 18 Jun 2023 13:20:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 【RCEP新一轮红利释放，江苏外贸韧性更强】《区域全面经济伙伴关系协定》（RCEP）对15个签署国全面生效，近期走访江苏多家外贸企业发现，RCEP新一轮政策红利，为外贸发展注入澎湃动能，企业用好、用活、用足优惠政策的意愿更强。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-18/detail-imyxtqsz3097479.d.html</link>
-            <guid>3147238</guid>
-            <pubDate>Sun, 18 Jun 2023 13:16:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
