@@ -4,11 +4,22 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 18 Jun 2023 16:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jun 2023 17:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国国会提议缩减五角大楼向基辅提供导弹所需开支】据报道，美国共和党议员在众议院拨款委员会提议，将五角大楼计划向基辅提供的制造导弹所需开支缩减25亿美元。报道指出，美国会希望在国防开支采购导弹方面减少拨款。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-19/detail-imyxtuyx3007297.d.html</link>
+            <guid>3147276</guid>
+            <pubDate>Sun, 18 Jun 2023 16:57:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国陷入衰退 欧洲经济“火车头”失速】素有欧洲经济“火车头”之称的德国，最近经济增长遇到了“路障”。根据德国官方近期披露的数据，德国GDP连续出现两个季度环比负增长。在外界看来，这已初步呈现经济上的“技术性衰退”迹象。另一方面，德国是欧盟最大的经济体，占欧盟国内生产总值的近30%。巨人的停滞对其他国家来说无疑是个坏消息，因为“一个疲软的德国就意味着一个疲软的欧元区”。（北京商报）]]></title>
+            <guid>3147275</guid>
+            <pubDate>Sun, 18 Jun 2023 16:34:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美股周一因“六月节”假日休市一天】美国股市周一（6月19日）休市一天，以纪念“六月节”。纳斯达克和纽约证券交易所将于美东时间周二（6月20日）上午9点30分（北京时间周二晚21点30分）恢复正常交易。美国债券市场周一也将因假期休市。“六月节”是为了纪念美国奴隶制的终结，是美国10个官方股市假日之一。]]></title>
             <link>https://finance.sina.cn/7x24/2023-06-19/detail-imyxtuyu2052400.d.html</link>
@@ -313,18 +324,6 @@
             <link>https://finance.sina.cn/7x24/2023-06-18/detail-imyxtkmc3218129.d.html</link>
             <guid>3147227</guid>
             <pubDate>Sun, 18 Jun 2023 12:22:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩总统尹锡悦将访越南：聚焦经贸合作，陪访经济使节阵容创本届政府之最】在对越南进行国事访问期间，尹锡悦将同越南国家主席武文赏举行首脑会谈，并同越共中央总书记阮富仲、总理范明政、国会主席王庭惠一一面谈。总统室表示，越南是韩国第三大贸易伙伴，此访聚焦经贸合作。因此陪同访问的经济使节多达205人，创下本届政府之最。三星电子会长李在镕、SK集团会长崔泰源、现代汽车集团会展郑义宣、LG集团会长具光谟、韩华集团副会长金东官等各大企业集团老总将陪同访问。（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-18/detail-imyxtkmc3216715.d.html</link>
-            <guid>3147226</guid>
-            <pubDate>Sun, 18 Jun 2023 12:14:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音防务首席执行官表示，波音第二季度的防务业务利润率将与第一季度相似。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-18/detail-imyxtkme9993520.d.html</link>
-            <guid>3147225</guid>
-            <pubDate>Sun, 18 Jun 2023 12:12:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
