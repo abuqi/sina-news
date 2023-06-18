@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 18 Jun 2023 17:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jun 2023 18:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【密集试水冰淇淋、咖啡 茅台五粮液们在担忧什么？】在尝试小包装、低度化、时尚化等策略之后，白酒企业似乎在跨界合作上找到了年轻的感觉。最近一年来，各种白酒冰淇淋、酒心巧克力、白酒咖啡等“白酒+”产品不断涌现。近日，贵州茅台还特别为旗下冰淇淋产品举办了一场上市周年庆，会上透露茅台冰淇淋累计销售近1000万杯。在业内专家看来，茅台、五粮液等头部酒企希望通过与热门品类的跨界合作，打造与年轻人对话的新平台，这背后反映出对于失去年轻消费者的担忧——随着消费代际的更替，国内酒水消费正在快速多元化，而白酒已经不再是新一代消费者的“心头所好”。传统的白酒产品能否借助这些外力真正吸引年轻消费者，目前还很难说。（第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-19/detail-imyxtzhv2884136.d.html</link>
+            <guid>3147277</guid>
+            <pubDate>Sun, 18 Jun 2023 17:39:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国国会提议缩减五角大楼向基辅提供导弹所需开支】据报道，美国共和党议员在众议院拨款委员会提议，将五角大楼计划向基辅提供的制造导弹所需开支缩减25亿美元。报道指出，美国会希望在国防开支采购导弹方面减少拨款。]]></title>
             <link>https://finance.sina.cn/7x24/2023-06-19/detail-imyxtuyx3007297.d.html</link>
@@ -318,12 +324,6 @@
             <link>https://finance.sina.cn/7x24/2023-06-18/detail-imyxtkmc3219014.d.html</link>
             <guid>3147228</guid>
             <pubDate>Sun, 18 Jun 2023 12:27:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【引汉济渭工程通过通水阶段验收】 从水利部了解到，国家172项节水供水重大水利工程之一——引汉济渭工程日前通过通水阶段验收，标志着这项工程已具备通水条件。据水利部相关负责人介绍，引汉济渭工程是破解陕西省水资源瓶颈制约、实现水资源配置空间均衡的一项重大水利基础设施建设项目，也是陕西历史上规模最大的水利民生工程。工程地跨长江、黄河两大流域，从陕南汉江流域调水至关中渭河流域，受水区域总面积1.4万平方公里，受益人口1411万人。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-18/detail-imyxtkmc3218129.d.html</link>
-            <guid>3147227</guid>
-            <pubDate>Sun, 18 Jun 2023 12:22:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
