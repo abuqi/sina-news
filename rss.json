@@ -6,6 +6,107 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 3152104,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-06-23/detail-imyyffyz0639466.d.html",
+            "title": "【阿达尼声明招致美国监管机构审查】在此前兴登堡发布了对阿达尼集团的做空报告，指控该集团利用离岸公司秘密操纵其股价后，美国当局正在就阿达尼集团对美国投资者所做的陈述进行调查。一位知情人士表示，近几个月来，美国检察署已向持有阿达尼集团大量股份的机构投资者发出了质询，主要重点是阿达尼对这些投资者说了些什么。另外两人称，美国证交会也在进行类似的调查。要求提供信息并不一定意味着会提起刑事或民事诉讼。阿达尼集团的一位发言人表示，不知道有任何传唤投资者的情况。该发言人称，他们的各发行人集团仍然相信，相关的披露是全面和完整的。",
+            "date_modified": "2023-06-22T21:12:54.000Z"
+        },
+        {
+            "id": 3152103,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-06-23/detail-imyyffyz0638928.d.html",
+            "title": "市场消息：花旗将对违反返工规定的员工进行训诫。",
+            "date_modified": "2023-06-22T21:10:26.000Z"
+        },
+        {
+            "id": 3152102,
+            "content_html": "",
+            "title": "据消息人士，3M公司已就其全氟及多氟烷基化合物（PFAS）污染水源引发的诉讼达成和解，将在13年时间跨度内支付103亿美元的赔偿金。3M股价盘后上涨3%。",
+            "date_modified": "2023-06-22T21:04:40.000Z"
+        },
+        {
+            "id": 3152101,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-06-23/detail-imyyffyz0636073.d.html",
+            "title": "美联储巴尔金：如果通胀不朝着目标前进，我将对进一步加息的做法感到满意。",
+            "date_modified": "2023-06-22T20:55:09.000Z"
+        },
+        {
+            "id": 3152100,
+            "content_html": "",
+            "title": "市场消息：阿达尼集团向投资者发表的（关于兴登堡做空报告的）声明引起了美国监管机构的关注。",
+            "date_modified": "2023-06-22T20:54:51.000Z"
+        },
+        {
+            "id": 3152099,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-06-23/detail-imyyffyx3708499.d.html",
+            "title": "【6月22日美股成交额前20：亚马逊云推出生成式AI创新中心迎战微软谷歌】周四美股成交额第3名亚马逊收高4.26%，成交113亿美元。美东时间6月22日周四，亚马逊宣布，旗下云业务Amazon Web Services（AWS）推出名为“AWS生成式AI创新中心”的新项目，投入1亿美元，目前已在和两家客户Highspot和Twilio合作。亚马逊称，上述中心名为中心，却并非现实世界的实体，而是一个项目。它要将AWS附属的数据科学家、策略师、工程师和解决方案设计师同客户及合作伙伴联系起来，帮助企业客户运用生成式AI技术，加快他们创新和成功的速度。亚马逊云CEO周四表示，人工智能将支撑亚马逊的云服务领先地位。没有一家公司能成为客户的唯一人工智能解决方案，亚马逊在人工智能竞争中并不落后。http://t.cn/A6pTyC50",
+            "date_modified": "2023-06-22T20:47:54.000Z"
+        },
+        {
+            "id": 3152098,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-06-23/detail-imyyffza7410943.d.html",
+            "title": "市场消息：美国国务卿布林肯将率领美国代表团参加美洲国家组织大会。",
+            "date_modified": "2023-06-22T20:42:45.000Z"
+        },
+        {
+            "id": 3152097,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-06-23/detail-imyyffyz0633795.d.html",
+            "title": "【美国成屋销售回升，房价同比跌幅十年最大，库存创1999年来同期最低】美国5月成屋销售是2022年1月以来的十多个月中，第二次实现销售环比正增长。成屋售价的中位数为39.61万美元，同比下降3.1%，这是十多年来最大的价格跌幅。",
+            "date_modified": "2023-06-22T20:42:39.000Z"
+        },
+        {
+            "id": 3152096,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-06-23/detail-imyyffza7410897.d.html",
+            "title": "现货白银日内跌幅达2.00%，现报22.20美元/盎司。",
+            "date_modified": "2023-06-22T20:42:24.000Z"
+        },
+        {
+            "id": 3152095,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-06-23/detail-imyyffza7410872.d.html",
+            "title": "美联储巴尔金：我们尚未确信经济疲软对通胀产生影响。",
+            "date_modified": "2023-06-22T20:42:13.000Z"
+        },
+        {
+            "id": 3152093,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-06-23/detail-imyyffza7409560.d.html",
+            "title": "美联储巴尔金：尽管通胀率从峰值有所下降，但美国的通胀率仍然过高。",
+            "date_modified": "2023-06-22T20:35:31.000Z"
+        },
+        {
+            "id": 3152092,
+            "content_html": "",
+            "title": "美国至6月17日当周外国央行持有美国国债 149.62亿美元，前值45.69亿美元。",
+            "date_modified": "2023-06-22T20:35:25.000Z"
+        },
+        {
+            "id": 3152091,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-06-23/detail-imyyffza7409023.d.html",
+            "title": "华纳兄弟正在与潜在买家进行洽谈，以出售价值5亿美元的电影与音乐版权。",
+            "date_modified": "2023-06-22T20:32:51.000Z"
+        },
+        {
+            "id": 3152090,
+            "content_html": "",
+            "title": "截至6月21日当周，美联储提供的贴现窗口贷款规模从一周前的36.2亿美元降至32.1亿美元；新工具（BTFP）的融资贷款从一周前的1020亿美元升至1027亿美元。",
+            "date_modified": "2023-06-22T20:32:39.000Z"
+        },
+        {
+            "id": 3152089,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-06-23/detail-imyyffyz0630190.d.html",
+            "title": "【美国大类资产ETF多数收跌】仅纳指100 ETF涨1.18%，标普500 ETF与做多美元指数各涨0.36%；而美国布伦特油价基金重挫3.87%，恐慌指数做多下跌2.39%，大豆基金跌1.79%，美国房地产ETF跌1.43%，美国国债20+年ETF跌1.21%，黄金ETF-SPDR、日元做多、农产品基金、罗素2000指数ETF、美国国债7-20年ETF、美国投资级公司债ETF也各跌逾0.5%。",
+            "date_modified": "2023-06-22T20:23:55.000Z"
+        },
+        {
             "id": 3152088,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2023-06-23/detail-imyyffyz0628828.d.html",
@@ -58,6 +159,12 @@
             "content_html": "",
             "title": "美股主要指数多数上涨，道指跌0.01%，纳指涨0.95%，标普500指数涨0.37%，热门科技股普遍上涨，亚马逊涨超4%，谷歌涨超2%，特斯拉、苹果、微软涨超1%。",
             "date_modified": "2023-06-22T20:02:09.000Z"
+        },
+        {
+            "id": 3152079,
+            "content_html": "",
+            "title": "【李强会见欧洲理事会主席米歇尔】当地时间6月22日晚，国务院总理李强在巴黎会见欧洲理事会主席米歇尔。李强表示，今年是中国和欧盟建立全面战略伙伴关系20周年。中方愿同欧方一道，办好新一次中欧领导人会晤，加强绿色、经贸、数字等领域合作，为中欧关系发展打开新空间。中国发展给世界带来的是机遇而不是风险，给全球产业链供应链带来的是稳定而不是冲击。希望欧方客观理性看待对华合作，同中方共同维护中欧务实合作的良好局面。中方愿同欧方共同努力，增强中欧经贸关系的可靠性、稳定性，更好实现互利共赢。（新华社）",
+            "date_modified": "2023-06-22T19:59:16.000Z"
         },
         {
             "id": 3152078,
@@ -218,120 +325,6 @@
             "content_html": "",
             "title": "美国参议院压倒性支持与智利的税收协定，白宫表示美国总统拜登支持批准协议，投票仍在继续。",
             "date_modified": "2023-06-22T18:11:36.000Z"
-        },
-        {
-            "id": 3152053,
-            "content_html": "",
-            "title": "布宜诺斯艾利斯证券交易所：预计阿根廷2023/24年度小麦种植面积为610万公顷，而先前估计为630万公顷。",
-            "date_modified": "2023-06-22T18:09:30.000Z"
-        },
-        {
-            "id": 3152052,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-06-23/detail-imyyezte7510133.d.html",
-            "title": "美国总统拜登：气候变化对人类构成了生存威胁。",
-            "date_modified": "2023-06-22T18:07:02.000Z"
-        },
-        {
-            "id": 3152051,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-06-23/detail-imyyezte7508826.d.html",
-            "title": "尼日利亚金融科技公司Flutterwave宣布与微软达成为期五年的战略技术协议。",
-            "date_modified": "2023-06-22T18:03:13.000Z"
-        },
-        {
-            "id": 3152050,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-06-23/detail-imyyeztc0731508.d.html",
-            "title": "法国官员：赞比亚债权人同意给予3年的宽限期。",
-            "date_modified": "2023-06-22T18:02:52.000Z"
-        },
-        {
-            "id": 3152049,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-06-23/detail-imyyezsz3819414.d.html",
-            "title": "法国官员：赞比亚及其官方债权人达成协议重组63亿美元债务。",
-            "date_modified": "2023-06-22T18:01:19.000Z"
-        },
-        {
-            "id": 3152048,
-            "content_html": "",
-            "title": "COMEX 8月黄金期货收跌1.09%，报1923.70美元/盎司。COMEX 10月黄金期货收跌1.09%，报1943.00美元/盎司。",
-            "date_modified": "2023-06-22T17:57:36.000Z"
-        },
-        {
-            "id": 3152047,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-06-23/detail-imyyeztc0729358.d.html",
-            "title": "印度总理莫迪：加入《阿尔忒弥斯协定》的决定将被证明是明智之举。",
-            "date_modified": "2023-06-22T17:56:18.000Z"
-        },
-        {
-            "id": 3152046,
-            "content_html": "",
-            "title": "美国国家飓风中心表示：热带风暴布雷特位于圣卢西亚东南偏东约140英里（225公里）处，最大持续风速为65英里/小时（100公里/小时）。",
-            "date_modified": "2023-06-22T17:55:15.000Z"
-        },
-        {
-            "id": 3152045,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-06-23/detail-imyyezte7505976.d.html",
-            "title": "印度总理莫迪：与通用电气达成的协议是一项具有里程碑意义的协议。",
-            "date_modified": "2023-06-22T17:54:54.000Z"
-        },
-        {
-            "id": 3152044,
-            "content_html": "",
-            "title": "美国国家飓风中心表示：风暴布雷特非常接近巴巴多斯，预计今天晚些时候和今晚将在小安的列斯群岛部分地区出现大雨和强风。",
-            "date_modified": "2023-06-22T17:54:05.000Z"
-        },
-        {
-            "id": 3152043,
-            "content_html": "",
-            "title": "印度总理莫迪：美光、谷歌和应用材料公司决定在印度投资，这显示了印度与美国合作伙伴关系的未来。",
-            "date_modified": "2023-06-22T17:52:14.000Z"
-        },
-        {
-            "id": 3152042,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-06-23/detail-imyyeztc0727507.d.html",
-            "title": "印度总理莫迪：新兴技术、半导体和人工智能将推动强大的（美印）合作关系。",
-            "date_modified": "2023-06-22T17:51:38.000Z"
-        },
-        {
-            "id": 3152041,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-06-23/detail-imyyezte7503660.d.html",
-            "title": "Stability AI 首席执行官：需要更好的数据来训练人工智能。",
-            "date_modified": "2023-06-22T17:49:22.000Z"
-        },
-        {
-            "id": 3152040,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-06-23/detail-imyyeztc0726217.d.html",
-            "title": "Stability AI 首席执行官：尚未确定人工智能伦理是什么。",
-            "date_modified": "2023-06-22T17:48:44.000Z"
-        },
-        {
-            "id": 3152039,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-06-23/detail-imyyezte7503153.d.html",
-            "title": "Stability AI 首席执行官表示，该初创公司目前并未进行筹资。",
-            "date_modified": "2023-06-22T17:48:14.000Z"
-        },
-        {
-            "id": 3152038,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-06-23/detail-imyyezte7502011.d.html",
-            "title": "美国总统拜登：印度公司宣布在美国投资超过20亿美元。",
-            "date_modified": "2023-06-22T17:45:24.000Z"
-        },
-        {
-            "id": 3152037,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-06-23/detail-imyyezte7501667.d.html",
-            "title": "美国总统拜登：美国和印度将加倍努力确保半导体供应链的安全。",
-            "date_modified": "2023-06-22T17:44:35.000Z"
         }
     ]
 }
