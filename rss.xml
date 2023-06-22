@@ -4,11 +4,82 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Thu, 22 Jun 2023 18:21:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 19:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[纳斯达克100指数一度涨超1%，现涨幅收窄至0.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyezte7523319.d.html</link>
+            <guid>3152070</guid>
+            <pubDate>Thu, 22 Jun 2023 19:04:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥央行：为了实现总体通胀有序且持续地趋同于3%的目标，有必要在较长一段时间内将指标利率维持在当前水平。]]></title>
+            <guid>3152068</guid>
+            <pubDate>Thu, 22 Jun 2023 19:03:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【OceanGate：泰坦尼克潜艇五名乘客已不幸去世】据推出泰坦尼克号残骸观光业务公司OceanGate声明称，我们认为泰坦尼克潜艇乘客已经不幸去世。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyezte7523023.d.html</link>
+            <guid>3152067</guid>
+            <pubDate>Thu, 22 Jun 2023 19:02:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒指期货夜盘收跌0.04%，报19243点，高水25点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyezte7522940.d.html</link>
+            <guid>3152066</guid>
+            <pubDate>Thu, 22 Jun 2023 19:02:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥央行维持基准利率在11.25%不变，符合预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyeztc0745782.d.html</link>
+            <guid>3152065</guid>
+            <pubDate>Thu, 22 Jun 2023 19:02:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【用ChatGPT捏造法庭简报的律师被处以罚款5000美元】美国联邦法官表示，Levidow, Levidow&Oberman律师事务用ChatGPT撰写一份由虚假案例引证的法庭简报，行为恶劣，对其处以罚款5000美元。法官表示，该事务所的两名律师有意识地避免表明这些引文是虚假的，并“向法庭做出误导性陈述”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyezte7519857.d.html</link>
+            <guid>3152064</guid>
+            <pubDate>Thu, 22 Jun 2023 18:46:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【泽连斯基解除乌克兰驻白俄罗斯大使职务】乌克兰总统泽连斯基解除了乌克兰驻白俄罗斯大使伊戈尔·基济姆的职务。基济姆自2017年2月以来一直担任乌克兰驻白俄罗斯大使的职务。今年4月，顿涅茨克地区领导人到访白俄罗斯，乌克兰外交部将基济姆从明斯克召回进行磋商。目前新的乌克兰驻白俄罗斯大使还没有被任命。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyeztc0742634.d.html</link>
+            <guid>3152063</guid>
+            <pubDate>Thu, 22 Jun 2023 18:46:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士表示，泰坦尼克号残骸附近的残骸被评估为来自失踪潜艇的外部结构。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyeztc0740294.d.html</link>
+            <guid>3152062</guid>
+            <pubDate>Thu, 22 Jun 2023 18:33:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NYMEX 8月美油期货收于每桶69.51美元，下跌3.02美元或4.16%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyeztc0740178.d.html</link>
+            <guid>3152061</guid>
+            <pubDate>Thu, 22 Jun 2023 18:32:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[埃及央行将贷款利率维持在19.25%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyezte7517298.d.html</link>
+            <guid>3152060</guid>
+            <pubDate>Thu, 22 Jun 2023 18:32:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[埃及央行维持隔夜存款利率不变，为18.25%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyeztc0740138.d.html</link>
+            <guid>3152059</guid>
+            <pubDate>Thu, 22 Jun 2023 18:32:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 欧盟委员会副主席兼“外长”博雷利将于下周一就科索沃和塞尔维亚的进展进行报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyezte7517236.d.html</link>
+            <guid>3152058</guid>
+            <pubDate>Thu, 22 Jun 2023 18:32:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[阿根廷布宜诺斯艾利斯谷物交易所：阿根廷小麦播种面积预计为610万公顷，之前预估为630万公顷。小麦种植完成度58.1%。大豆采收完成度99.4%。大豆产量预期2100万吨，与之前预估持平。玉米采收完成度43.6%，玉米产量预计为3400万吨，之前预估为3600万吨。]]></title>
             <guid>3152057</guid>
@@ -225,71 +296,6 @@
             <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyevmm0054467.d.html</link>
             <guid>3152020</guid>
             <pubDate>Thu, 22 Jun 2023 17:02:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高通CEO：我相信AI将变得无处不在，尤其是当你看到这些大型模型如何与它们进行对话，如何获取上下文信息等。这对高通来说是一个巨大的机会。]]></title>
-            <guid>3152019</guid>
-            <pubDate>Thu, 22 Jun 2023 17:01:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高通CEO：AI的发展对于半导体行业来说，实际上是在庆祝算力，因为AI需要进行大量的计算。我们现在所能看到的大型语言模型、图像和视频模型等，都展示了AI的巨大潜力。]]></title>
-            <guid>3152018</guid>
-            <pubDate>Thu, 22 Jun 2023 17:01:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI原油跌破69美元/桶，日内跌4.65%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyevmh7613882.d.html</link>
-            <guid>3152017</guid>
-            <pubDate>Thu, 22 Jun 2023 17:01:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高通CEO：很难预测人工智能的成功应用。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyevmc3938280.d.html</link>
-            <guid>3152016</guid>
-            <pubDate>Thu, 22 Jun 2023 17:01:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑日元USD/JPY突破143，续创去年11月以来新高，日内涨0.78%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyevmf0836634.d.html</link>
-            <guid>3152015</guid>
-            <pubDate>Thu, 22 Jun 2023 17:01:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【土乌防长通电话 讨论黑海港口农产品外运协议问题】土耳其国防部当地时间6月22日表示，土耳其国防部长亚萨尔·居莱尔当天与乌克兰国防部长列兹尼科夫通电话。双方在电话中讨论了黑海港口农产品外运协议的最新情况，并认同延长该协议对全球粮食问题的重要性。亚萨尔·居莱尔表示，土耳其将一如既往地为延长该协议作出努力。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyevmh7613704.d.html</link>
-            <guid>3152014</guid>
-            <pubDate>Thu, 22 Jun 2023 17:01:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高通CEO Amon：当前很难预测人工智能技术在哪些方面的应用会成为最终的真正赢家。]]></title>
-            <guid>3152013</guid>
-            <pubDate>Thu, 22 Jun 2023 17:00:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LME期铜收跌28美元，报8574美元/吨。LME期铝收跌22美元，报2201美元/吨。LME期锌收涨40美元，报2456美元/吨。LME期铅收跌8美元，报2164美元/吨。LME期镍收跌56美元，报21182美元/吨。LME期锡收跌232美元，报27079美元/吨。]]></title>
-            <guid>3152012</guid>
-            <pubDate>Thu, 22 Jun 2023 17:00:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[亚马逊云CEO：我们正在对生成式AI进行快速改进，真正将Alexa转变为个性化助手。]]></title>
-            <guid>3152011</guid>
-            <pubDate>Thu, 22 Jun 2023 16:54:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[亚马逊云CEO：亚马逊的卫星项目Kuiper对于迎接未来的机会具有重要意义，全球有数十亿人无法接触互联网服务，希望通过该项目解决这个问题。AWS已经启动了一项价值1亿美元的生成式AI创新中心。]]></title>
-            <guid>3152010</guid>
-            <pubDate>Thu, 22 Jun 2023 16:54:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[布伦特原油跌破74美元/桶，为6月15日以来首次，日内跌3.82%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyevmh7609749.d.html</link>
-            <guid>3152009</guid>
-            <pubDate>Thu, 22 Jun 2023 16:52:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[亚马逊云CEO：Alexa已经在大部分方面由LLM技术驱动，并预计在LLM技术扩展和改进的过程中，Alexa将变得更加聪明，更好，更具个性化。]]></title>
-            <guid>3152008</guid>
-            <pubDate>Thu, 22 Jun 2023 16:47:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
