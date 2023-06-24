@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 24 Jun 2023 18:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jun 2023 19:14:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[一图｜瓦格纳武装反戈俄国防部的24小时。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-25/detail-imyympxa5504585.d.html</link>
+            <guid>3153268</guid>
+            <pubDate>Sat, 24 Jun 2023 18:46:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【卢卡申科同普京通电话，介绍与瓦格纳集团负责人普里戈任谈判情况】据CCTV国际时讯消息，据白通社报道，当地时间24日晚9点（北京时间今天凌晨2点），白俄罗斯总统卢卡申科同俄罗斯总统普京通电话。卢卡申科向普京介绍了与瓦格纳集团负责人普里戈任谈判的情况。普京对卢卡申科表示支持和感谢。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-25/detail-imyympwy8725081.d.html</link>
+            <guid>3153267</guid>
+            <pubDate>Sat, 24 Jun 2023 18:32:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【德国将加强对乌克兰的防空坦克建设】德国计划今年扩大向乌克兰交付“猎豹”式防空坦克，增加已交付或正在交付的30辆至约50辆。]]></title>
             <link>https://finance.sina.cn/7x24/2023-06-25/detail-imyympxe7721776.d.html</link>
@@ -273,18 +285,6 @@
             <title><![CDATA[市场资讯：在距离莫斯科仅400公里的俄罗斯利佩茨克州Krasnoe村附近出现了瓦格纳雇佣兵集团的一支车队。]]></title>
             <guid>3153218</guid>
             <pubDate>Sat, 24 Jun 2023 14:37:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【莫斯科多家博物馆和购物中心收到“炸弹”报告】塔斯社援引俄罗斯紧急情况部门消息报道称，在收到多起匿名“炸弹”报告后，莫斯科的多家博物馆和购物中心正在接受检查，其中包括普希金造型艺术博物馆和特列季亚科夫美术馆。目前，上述两馆内的游客已被疏散。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-24/detail-imyymcih5701285.d.html</link>
-            <guid>3153217</guid>
-            <pubDate>Sat, 24 Jun 2023 14:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拉脱维亚对俄罗斯关闭边境】拉脱维亚候任总统周六表示，波罗的海国家已加强边境安全，以应对俄罗斯发生的叛乱，并且不会接纳俄罗斯人。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-24/detail-imyymcih5701196.d.html</link>
-            <guid>3153216</guid>
-            <pubDate>Sat, 24 Jun 2023 14:32:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
