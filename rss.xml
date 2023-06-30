@@ -4,11 +4,67 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Fri, 30 Jun 2023 18:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 19:14:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[在岸人民币兑美元（CNY）北京时间03:00收报7.2510元，较周四夜盘收盘跌30点。成交量387.56亿美元。]]></title>
+            <guid>3160756</guid>
+            <pubDate>Fri, 30 Jun 2023 19:10:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿根廷首次使用人民币支付到期外债】当地时间6月30日，据当地媒体报道，阿根廷已经使用国际货币基金组织特别提款权和人民币结算的方式，向国际货币基金组织偿还了于当天到期的27亿美元外债。这是阿根廷首次使用人民币偿还外债。阿根廷总统府发言人塞鲁蒂日前表示，上述两种偿还债务的方式，让阿方与国际货币基金组织达成的协议得到履行的同时，还将降低阿根廷国家外汇储备面临的风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-01/detail-imyzchvc9111510.d.html</link>
+            <guid>3160755</guid>
+            <pubDate>Fri, 30 Jun 2023 19:09:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[著名投资人索罗斯名下的开放社会基金会将裁员至少40%。]]></title>
+            <guid>3160754</guid>
+            <pubDate>Fri, 30 Jun 2023 19:08:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国将在下周征求进行更多的战略石油储备采购。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-01/detail-imyzchuy7301993.d.html</link>
+            <guid>3160753</guid>
+            <pubDate>Fri, 30 Jun 2023 18:42:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI 8月原油期货收涨0.78美元，涨幅1.12%，报70.64美元/桶。NYMEX 8月天然气期货收涨3.59%，报2.7980美元/百万英热单位。]]></title>
+            <guid>3160752</guid>
+            <pubDate>Fri, 30 Jun 2023 18:34:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【夜盘主力合约收盘】截至2:30收盘，沪金主力合约收涨0.66%，报451元/克，沪银主力合约收涨1.16%，报5495元/千克，SC原油主力合约收涨1.45%，报553元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-01/detail-imyzcapa7430717.d.html</link>
+            <guid>3160751</guid>
+            <pubDate>Fri, 30 Jun 2023 18:31:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海黄金交易所黄金T+D 7月1日（周六）晚盘收盘上涨0.51%报450.28元/克；上海黄金交易所白银T+D 7月1日（周六）晚盘收盘上涨1.05%报5479.0元/千克。]]></title>
+            <guid>3160750</guid>
+            <pubDate>Fri, 30 Jun 2023 18:30:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[哥伦比亚央行将隔夜利率维持在13.25%不变。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-01/detail-imyzcanx2131436.d.html</link>
+            <guid>3160749</guid>
+            <pubDate>Fri, 30 Jun 2023 18:28:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mandy Cohen据悉将自7月9日起正式继任美国疾控中心（CDC）主任。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-01/detail-imyzcapa7430052.d.html</link>
+            <guid>3160748</guid>
+            <pubDate>Fri, 30 Jun 2023 18:27:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国监管机构考虑限制大型银行从联邦住房贷款银行（FHLBs）借款。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-01/detail-imyzcanz0652142.d.html</link>
+            <guid>3160747</guid>
+            <pubDate>Fri, 30 Jun 2023 18:23:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[尼日利亚将七月份QUA IBOE原油官方售价设定为较即期布伦特原油价格贴水0.02美元/桶。]]></title>
             <guid>3160746</guid>
@@ -239,56 +295,6 @@
             <link>https://finance.sina.cn/7x24/2023-07-01/detail-imyzcape8240537.d.html</link>
             <guid>3160707</guid>
             <pubDate>Fri, 30 Jun 2023 16:40:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西雷亚尔兑美元在现货市场交易中涨1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-01/detail-imyzcapa7409928.d.html</link>
-            <guid>3160706</guid>
-            <pubDate>Fri, 30 Jun 2023 16:40:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦提到了拜登政府的经济增长战略，力求实现从下往上及由里往外的增长，同时强调了智能经济和现代供给侧经济学的重要性。]]></title>
-            <guid>3160705</guid>
-            <pubDate>Fri, 30 Jun 2023 16:40:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：清洁能源产业是近代历史上最具转型经济机遇的领域之一，财政部致力于确保清洁能源转型能够惠及全国各地的社区；在整个清洁能源供应链上，已经看到规模数以亿计的投资。]]></title>
-            <guid>3160704</guid>
-            <pubDate>Fri, 30 Jun 2023 16:38:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：财政部本月采取了重要举措，通过制定清洁投资法案为制造商提供投资保证，吸引投资者来美国投资。]]></title>
-            <guid>3160703</guid>
-            <pubDate>Fri, 30 Jun 2023 16:37:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：美国正在建设一个国家半导体生态系统，这个生态系统已经在不断发展；制造业建设的繁荣主要是由计算机、电子和电气制造业推动的，自去年开始以来增长迅速。]]></title>
-            <guid>3160702</guid>
-            <pubDate>Fri, 30 Jun 2023 16:37:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国去年资本外逃创纪录 欧洲最大经济体或已开启去工业化进程】德国去年资本外逃创纪录，这与2021年德国成FDI（国际直接投资）第一大目的国，甚至超越了美国的情况形成鲜明反差。德国顶级经济研究机构警告，在最坏情况下，FDI创纪录外流将是欧洲火车头去工业化的开始。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-01/detail-imyzcapa7409259.d.html</link>
-            <guid>3160701</guid>
-            <pubDate>Fri, 30 Jun 2023 16:37:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储古尔斯比：在下一次美联储会议之前的几周，我们将获得大量数据。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-01/detail-imyzcanz0631592.d.html</link>
-            <guid>3160699</guid>
-            <pubDate>Fri, 30 Jun 2023 16:35:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美联储官员古尔斯比：还没有拿定主意7月份会议应如何行动】美联储官员古尔斯比表示，还没有拿定主意7月份会议应如何行动；如果就业市场太热，我们遏制通胀会很艰难；通胀有所下降，但仍远高于美联储的目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-01/detail-imyzcanz0631570.d.html</link>
-            <guid>3160698</guid>
-            <pubDate>Fri, 30 Jun 2023 16:34:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储古尔斯比：我们正在努力弄清楚加息是否已经足够，或者是否需要进一步提高。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-01/detail-imyzcanz0631557.d.html</link>
-            <guid>3160697</guid>
-            <pubDate>Fri, 30 Jun 2023 16:34:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
