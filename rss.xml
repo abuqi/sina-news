@@ -4,11 +4,29 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 01 Jul 2023 19:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jul 2023 20:18:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【上海证券报叶国标：发挥专业优势 助力长三角大学生财富素养教育和金融人才培养】第二届长三角高校金融教育论坛7月1日在上海对外经贸大学举行。上海证券报党委书记、董事长叶国标在致辞时表示，投资者教育是保护投资者合法权益的重要手段，是构建规范、透明、开放、有活力、有韧性的资本市场的重要组成部分。上证报将发挥专业优势、资源优势，联手包括上海对外经贸大学在内的长三角高校，推进投资者教育进校园，普及证券期货知识，提升大学生的金融素养和财富素养，培养更多专业化、复合型的金融人才，助力上海国际金融中心建设和长三角一体化发展。（上海证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-02/detail-imyzfsaf3292610.d.html</link>
+            <guid>3161121</guid>
+            <pubDate>Sat, 01 Jul 2023 20:12:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【委内瑞拉强烈反对美国干涉其内政】针对美国国务院日前对委内瑞拉2024年大选提出批评的做法，委内瑞拉外交部当地时间7月1日在一份声明中指出，美国的行为是在干涉委内瑞拉内政，委内瑞拉政府对美国的行为表示强烈反对。委内瑞拉是主权和独立国家，美国无权对委政治进程妄加评论。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-02/detail-imyzfsac6510164.d.html</link>
+            <guid>3161120</guid>
+            <pubDate>Sat, 01 Jul 2023 19:44:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现代汽车美国第二季度销量210164辆，同比增长14%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-02/detail-imyzfmui3413373.d.html</link>
+            <guid>3161119</guid>
+            <pubDate>Sat, 01 Jul 2023 19:17:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[现代汽车美国6月份总销量69351辆，同比增长10%。]]></title>
             <link>https://finance.sina.cn/7x24/2023-07-02/detail-imyzfmuc7968831.d.html</link>
@@ -292,24 +310,6 @@
             <link>https://finance.sina.cn/7x24/2023-07-01/detail-imyzezee6491496.d.html</link>
             <guid>3161072</guid>
             <pubDate>Sat, 01 Jul 2023 12:57:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰总统泽连斯基：扎波罗热核电站的严重威胁仍然存在。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-01/detail-imyzezea9714349.d.html</link>
-            <guid>3161071</guid>
-            <pubDate>Sat, 01 Jul 2023 12:57:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【法国多地骚乱持续 超过1300人被捕】当地时间6月30日晚，法国巴黎、马赛、里昂以及楠泰尔等多个城市继续出现暴力袭击、抢劫及纵火事件。法国内政部7月1日表示，6月30日晚至7月1日凌晨，法国有超过1300人被捕。法国总理府宣布取消全国所有大型活动。另据比利时媒体报道，6月29日至6月30日，比利时警方在布鲁塞尔逮捕了100多人。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-01/detail-imyzezee6489742.d.html</link>
-            <guid>3161070</guid>
-            <pubDate>Sat, 01 Jul 2023 12:50:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中贝通信6G研究院等举办揭牌仪式】据证券时报，6月30日，中贝通信举办中贝通信大厦落成典礼，并正式搬迁至大厦之中。早在2019年11月，中贝通信发布《关于投资建设武汉市信息增值服务产业化基地的公告》，公告内容显示，为适应公司业务规模的不断扩大，提升公司整体形象，改善办公环境及提升工作效率，公司决定以自筹资金在武汉投资新建办公楼（中贝通信大厦），用于总部日常办公，项目总投资约为2.6亿元。同时，在典礼上公司还为中贝通信6G研究院及中贝云网数智科技有限公司、中贝光电科技有限公司举办揭牌仪式。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-01/detail-imyzeuwh6618051.d.html</link>
-            <guid>3161069</guid>
-            <pubDate>Sat, 01 Jul 2023 12:38:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
