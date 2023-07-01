@@ -4,11 +4,22 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 01 Jul 2023 18:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jul 2023 19:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[现代汽车美国6月份总销量69351辆，同比增长10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-02/detail-imyzfmuc7968831.d.html</link>
+            <guid>3161118</guid>
+            <pubDate>Sat, 01 Jul 2023 19:11:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【两部门加强非常规水源配置利用】从水利部了解到，水利部、国家发展改革委近日联合印发了《关于加强非常规水源配置利用的指导意见》，提出到2025年全国非常规水源利用量超过170亿立方米，地级及以上缺水城市再生水利用率达到25%以上。指导意见指出，坚持将非常规水源纳入水资源统一配置，着力扩大非常规水源利用领域和规模，为缓解水资源供需矛盾、提升水安全保障能力提供有力支撑。]]></title>
+            <guid>3161117</guid>
+            <pubDate>Sat, 01 Jul 2023 19:00:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【推特临时阅读限制 未经验证新账户只能看300个帖子 马斯克称想要解决数据抓取和系统操纵问题】当地时间周六，马斯克在社交媒体平台上发帖称，推特已实施临时阅读限制，以解决“极端水平”的数据抓取和系统操纵问题。马斯克表示，经过验证的帐户每天只能阅读6000个帖子，并补充说，未经验证的帐户和新的未经验证的帐户每天只能阅读600个帖子和300个帖子。]]></title>
             <guid>3161116</guid>
@@ -299,18 +310,6 @@
             <link>https://finance.sina.cn/7x24/2023-07-01/detail-imyzeuwh6618051.d.html</link>
             <guid>3161069</guid>
             <pubDate>Sat, 01 Jul 2023 12:38:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  德国总统发言人表示，法国总统马克龙要求推迟对德国的国事访问。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-01/detail-imyzeuwh6617988.d.html</link>
-            <guid>3161068</guid>
-            <pubDate>Sat, 01 Jul 2023 12:38:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总统马克龙取消对德国的访问。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-01/detail-imyzeuwh6617435.d.html</link>
-            <guid>3161067</guid>
-            <pubDate>Sat, 01 Jul 2023 12:35:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
