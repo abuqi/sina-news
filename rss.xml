@@ -4,11 +4,21 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 01 Jul 2023 17:15:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jul 2023 18:21:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【推特临时阅读限制 未经验证新账户只能看300个帖子 马斯克称想要解决数据抓取和系统操纵问题】当地时间周六，马斯克在社交媒体平台上发帖称，推特已实施临时阅读限制，以解决“极端水平”的数据抓取和系统操纵问题。马斯克表示，经过验证的帐户每天只能阅读6000个帖子，并补充说，未经验证的帐户和新的未经验证的帐户每天只能阅读600个帖子和300个帖子。]]></title>
+            <guid>3161116</guid>
+            <pubDate>Sat, 01 Jul 2023 18:19:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广东实现跨省异地就医医保直接结算全覆盖】目前，广东已实现跨省异地就医医保直接结算的县域全覆盖，住院、普通门诊、门诊慢特病均支持跨省异地就医医保直接结算。省内更实现跨市就医“基本医保、大病保险和医疗救助”的一站式直接结算，生育保险的生育医疗费用也能够省内跨市异地直接结算。]]></title>
+            <guid>3161115</guid>
+            <pubDate>Sat, 01 Jul 2023 17:50:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【春节档后时隔146天 电影单日票房再破4亿 暑期档“燃”起来了？】7月的第一天，电影大盘迎来火热开局。春节档后，时隔146天，单日电影大盘票房再破4亿。同时，贡献今日主要票房的头部影片《消失的她》总票房破20亿，成为2023年总票房第三位的影片。6月末的端午档与横跨三个月份的暑期档有机衔接，创造了影史第二高的端午档票房，也开启了2023年火热的暑期档。]]></title>
             <link>https://finance.sina.cn/7x24/2023-07-02/detail-imyzffmy9635007.d.html</link>
@@ -301,17 +311,6 @@
             <link>https://finance.sina.cn/7x24/2023-07-01/detail-imyzeuwh6617435.d.html</link>
             <guid>3161067</guid>
             <pubDate>Sat, 01 Jul 2023 12:35:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【AITO问界销服联合工作组成立 华为与赛力斯跨界合作再深化】据悉，6月30日AITO问界发布了致全体合作伙伴的一封内部信。信中强调AITO问界在15个月达成10万辆量产车下线的里程碑后，已经迈入从1到N跃迁的新阶段。为支持赛力斯汽车与华为联合业务更加深入、紧密发展，双方决定成立“AITO问界销服联合工作组”，负责营销、销售、交付、服务等业务的端到端闭环管理。(第一财经)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-01/detail-imyzeuwe9839545.d.html</link>
-            <guid>3161066</guid>
-            <pubDate>Sat, 01 Jul 2023 12:32:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊拉克石油部：6月份原油出口量达到333.5万桶/日（5月份为330.5万桶/日）。]]></title>
-            <guid>3161065</guid>
-            <pubDate>Sat, 01 Jul 2023 12:31:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
