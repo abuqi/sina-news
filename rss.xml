@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 02 Jul 2023 18:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jul 2023 19:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【代糖股大涨背后 阿斯巴甜陷入争议】碳酸饮料配料表中最常见的阿斯巴甜，近期卷入了“可能致癌”风波。阿斯巴甜是常见的人工合成甜味剂之一。市面上主打“无糖”的食品饮料，有不少使用了阿斯巴甜，包括无糖汽水、口香糖等。不过需要注意的是，中国作为世界最大的甜味剂生产国，阿斯巴甜的产量在逐年下滑。与此同时，天然甜味剂在代糖产品的应用占比在快速增加。（21世纪经济报道）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-03/detail-imyziuzc5509888.d.html</link>
+            <guid>3161479</guid>
+            <pubDate>Sun, 02 Jul 2023 18:51:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【人人都为AIGC狂，似2000年互联网泡沫重演？】硅谷投资人和纽交所交易员如何看待本轮AI繁荣与2000年科技繁荣的异同？2023年上半年，ChatGPT成为席卷全球的现象级应用，各路资金争相涌入AIGC（人工智能生成内容）：概念股的涨势迅猛，初创项目遍地开花，相关话题持续霸屏……以上种种，无一不让投资者联想起美国史上最大的金融泡沫之一——千禧年的那场互联网泡沫危机。“如果要说时隔20年的两次繁荣有何共同点，那就是无论资金还是人才都在涌入相关领域，场面热火朝天。”六禾创投合伙人陈璧葵在接受采访时表示。（第一财经）]]></title>
             <link>https://finance.sina.cn/7x24/2023-07-03/detail-imyziqtf5630855.d.html</link>
@@ -345,12 +351,6 @@
             <link>https://finance.sina.cn/7x24/2023-07-02/detail-imyziecm5822554.d.html</link>
             <guid>3161428</guid>
             <pubDate>Sun, 02 Jul 2023 13:00:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【看好资产长期投资价值 原始权益人增持中金湖北科投光谷REIT】中金湖北科投光谷产业园封闭式基础设施证券投资基金（下称“中金湖北科投光谷REIT”）近日发布“中金湖北科投光谷产业园封闭式基础设施证券投资基金关于原始权益人及其一致行动人基金份额增持计划及实施进展”的公告。 根据公告，自2023年6月30日起不超过12个自然月（含法律、法规及上海证券交易所业务规则等有关规定不准增持的期间），原始权益人湖北科投及其一致行动人武汉光谷产业投资有限公司和武汉光谷健康产业投资有限公司（下称“原始权益人及其一致行动人”）将通过二级市场买入或交易所认可的其他方式增持本基金份额，累计增持基金份额不超过5400万份，占本基金已发行基金总份额的9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-02/detail-imyziecp2599631.d.html</link>
-            <guid>3161427</guid>
-            <pubDate>Sun, 02 Jul 2023 13:00:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
