@@ -6,6 +6,199 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 3168715,
+            "content_html": "",
+            "title": "西南航空(LUV.N)：实现了超过99%的航班完成率，在七月四日假期期间运营了超过2万个航班。",
+            "date_modified": "2023-07-07T17:16:32.000Z"
+        },
+        {
+            "id": 3168714,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-07-08/detail-imyzwyki4633497.d.html",
+            "title": "美联储在固定利率逆回购操作中总计接纳了99个对手方的1.822万亿美元。",
+            "date_modified": "2023-07-07T17:16:24.000Z"
+        },
+        {
+            "id": 3168713,
+            "content_html": "",
+            "title": "【国内首个校对垂直领域大模型“蜜度文修”重磅发布，科大讯飞与蜜度进行合作签约】7月7日，在世界人工智能大会（WAIC）开幕的第二天，由语言智能科技企业蜜度主办的“语言智能与内容生成高峰论坛”，在上海浦东世博展览馆拉开帷幕。论坛现场，蜜度发布了自研的国内首个专为智能校对领域打造的垂直大语言模型——蜜度文修。在语言智能与内容生成高峰论坛上，蜜度文修正式发布。唐宋八大家之一的欧阳修曾任馆阁校勘，校对亦有修文之意，“蜜度文修”便取名于此。蜜度文修专为校对这一垂直专业领域打造，在中文拼写勘误、语法纠正任务上的表现显著优于通用大模型ChatGPT。（央广网）",
+            "date_modified": "2023-07-07T17:14:03.000Z"
+        },
+        {
+            "id": 3168712,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-07-08/detail-imyzwyki4632940.d.html",
+            "title": "【德国事前掌握瓦格纳可能在俄境内行动的信息】德国公共广播公司WDR最新报道称，有关俄罗斯私营军事实体瓦格纳在俄境内行动事件，德国联邦情报局（BND）被怀疑监听了该组织创始人叶夫根尼·普里戈任和白俄罗斯总统卢卡申科的对话。德国联邦情报局在大约一周前就已经模糊地掌握了一些信息。虽然他们最初在进行信息验证的工作，但是这一过程相当艰难，似乎并没有将必要的信息上报给德国总理办公室。据了解，德国联邦情报局向德国政府发送的第一个警告实际上是在6月23日晚上事件发生之后。部分报道指出，由于报告政府的时间在是在事件发生后，因此在危机管理方面也受到了批评。",
+            "date_modified": "2023-07-07T17:13:35.000Z"
+        },
+        {
+            "id": 3168711,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-07-08/detail-imyzwykf7855408.d.html",
+            "title": "摩根大通：OPEC+需要进一步减产石油70万桶/日，以重夺油市话语权。",
+            "date_modified": "2023-07-07T17:11:34.000Z"
+        },
+        {
+            "id": 3168710,
+            "content_html": "",
+            "title": "特斯拉向美国环境保护署提交的文件显示，特斯拉敦促美国总统拜登政府完成更严格的车辆排放提案。",
+            "date_modified": "2023-07-07T17:06:29.000Z"
+        },
+        {
+            "id": 3168709,
+            "content_html": "",
+            "title": "CBOT玉米日内跌幅达2.0%，报496.25美分/蒲式耳。CBOT大豆日内跌幅达1.5%，报1318美分/蒲式耳。",
+            "date_modified": "2023-07-07T17:05:27.000Z"
+        },
+        {
+            "id": 3168707,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-07-08/detail-imyzwykf7853766.d.html",
+            "title": "美国钻井公司贝克休斯：美国石油和天然气钻井设备数量10周以来首次增加。",
+            "date_modified": "2023-07-07T17:04:17.000Z"
+        },
+        {
+            "id": 3168706,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-07-08/detail-imyzwyki4630870.d.html",
+            "title": "美国至7月7日当周石油钻井总数 540口，前值545口。",
+            "date_modified": "2023-07-07T17:04:11.000Z"
+        },
+        {
+            "id": 3168705,
+            "content_html": "",
+            "title": "LME期铜收涨109美元，报8370美元/吨。LME期铝收涨16美元，报2146美元/吨。LME期锌收跌2美元，报2362美元/吨。LME期铅收涨2美元，报2052美元/吨。LME期镍收跌405美元，报20804美元/吨。LME期锡收跌188美元，报28342美元/吨。",
+            "date_modified": "2023-07-07T17:04:00.000Z"
+        },
+        {
+            "id": 3168704,
+            "content_html": "",
+            "title": "国际铜夜盘收涨0.37%，沪铜收涨0.32%，沪铝收涨0.50%，沪锌收跌0.55%，沪铅收跌0.23%，沪镍收跌1.10%，沪锡收跌0.34%。氧化铝夜盘收跌0.71%。不锈钢夜盘收涨0.07%。",
+            "date_modified": "2023-07-07T17:03:35.000Z"
+        },
+        {
+            "id": 3168703,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-07-08/detail-imyzwyki4630713.d.html",
+            "title": "荷兰国际集团（ING）：预计加拿大央行至少还将加息一次，加元料将走强。",
+            "date_modified": "2023-07-07T17:03:23.000Z"
+        },
+        {
+            "id": 3168702,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-07-08/detail-imyzwyki4628458.d.html",
+            "title": "【古特雷斯：黑海粮食协议有必要继续执行】联合国秘书长古特雷斯当地时间7月7日通过秘书长发言人办公室就黑海粮食协议及谅解备忘录发表声明，强调协议有必要继续全面得到执行。在声明中，古特雷斯称俄罗斯和乌克兰的化肥及粮食出口在全球安全方面持续发挥了不可或缺的作用，全面、持续执行2022年7月在伊斯坦布尔签署的两份协议是非常必要的。古特雷斯表示，联合国正在继续努力，与各方进行接触，推动协议执行，并呼吁各方优先考虑全球粮食安全。",
+            "date_modified": "2023-07-07T16:51:25.000Z"
+        },
+        {
+            "id": 3168701,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-07-08/detail-imyzwyki4628431.d.html",
+            "title": "纽元兑美元NZD/USD日内涨幅扩大至1.00%，现报0.6219。",
+            "date_modified": "2023-07-07T16:51:18.000Z"
+        },
+        {
+            "id": 3168700,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-07-08/detail-imyzwykf7850478.d.html",
+            "title": "WTI原油期货涨幅扩大至将近2.1%，刷新6月5日以来盘中高位至73.29美元/桶。",
+            "date_modified": "2023-07-07T16:47:19.000Z"
+        },
+        {
+            "id": 3168699,
+            "content_html": "",
+            "title": "联合国负责人道主义事务的副秘书长兼紧急救援协调员Martin Griffiths：防范气候变化对受灾社区的影响的工作仍在进行中，相应的气候资金未按照承诺的速度到位；对贫困社区提供的援助应为赠款，而非贷款。",
+            "date_modified": "2023-07-07T16:46:56.000Z"
+        },
+        {
+            "id": 3168698,
+            "content_html": "",
+            "title": "联合国负责人道主义事务的副秘书长兼紧急救援协调员Martin Griffiths：日益增加的需求导致人道主义援助短缺，气候变化是需求急剧增长的一个重要因素，全球数个相对较小的会员国提供的人道主义援助资金相对稳定。",
+            "date_modified": "2023-07-07T16:46:45.000Z"
+        },
+        {
+            "id": 3168697,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-07-08/detail-imyzwykf7849484.d.html",
+            "title": "联合国援助主管：联合国已提出派遣技术评估团队前往乌克兰检查氨管道的损坏情况。",
+            "date_modified": "2023-07-07T16:42:33.000Z"
+        },
+        {
+            "id": 3168696,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-07-08/detail-imyzwykf7849202.d.html",
+            "title": "联合国援助主管表示希望下周在伊斯坦布尔与黑海谷物交易各方进行会谈。",
+            "date_modified": "2023-07-07T16:41:20.000Z"
+        },
+        {
+            "id": 3168695,
+            "content_html": "",
+            "title": "标普500日内涨幅达0.5%，报4433.43点。恐慌指数VIX波动率日内跌幅达6.5%，报14.43。",
+            "date_modified": "2023-07-07T16:39:08.000Z"
+        },
+        {
+            "id": 3168694,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-07-08/detail-imyzwuam4756379.d.html",
+            "title": "美元指数下跌0.7%，创自2月1日以来最大日内跌幅。",
+            "date_modified": "2023-07-07T16:37:40.000Z"
+        },
+        {
+            "id": 3168693,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-07-08/detail-imyzwuam4755765.d.html",
+            "title": "欧洲央行行长拉加德将于十分钟后参与一场小组讨论。",
+            "date_modified": "2023-07-07T16:35:05.000Z"
+        },
+        {
+            "id": 3168692,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-07-08/detail-imyzwuaf8034217.d.html",
+            "title": "巴西众议院将于周五结束对新财政规则的投票。",
+            "date_modified": "2023-07-07T16:34:48.000Z"
+        },
+        {
+            "id": 3168691,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-07-08/detail-imyzwuai7978549.d.html",
+            "title": "美国共和党人巴雷特宣布竞选密歇根州众议院席位。",
+            "date_modified": "2023-07-07T16:34:43.000Z"
+        },
+        {
+            "id": 3168690,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-07-08/detail-imyzwuam4755655.d.html",
+            "title": "高盛：我们预计镍市场在今年和明年将继续供应过剩。",
+            "date_modified": "2023-07-07T16:34:32.000Z"
+        },
+        {
+            "id": 3168689,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-07-08/detail-imyzwuam4755132.d.html",
+            "title": "【道明证券调整预期：预计美联储将在7月会议再加息25个基点】道明证券如今预计，美联储将在7月政策会议上再加息25个基点，将联邦基金利率目标区间上调至5.25%-5.50%。此前道明证券在联邦公开市场委员会（FOMC）的6月会议后一度认为紧缩周期或已结束。策略师Oscar Munoz和Gennadiy Goldberg在7月7日（“非农就业报告发布日”）的报告中写道，这种预期调整是因为“过去几周整体强于预期的经济活动越来越多，而且美联储显然倾向于再次加息”，预计美联储将在2024年3月首次降息。虽然美联储可能依然倾向于进一步的政策紧缩，但“我们认为基本通胀的明显软化叠加劳动力市场环境的逐步放松将使美联储能够在9月之后继续暂停加息”。",
+            "date_modified": "2023-07-07T16:32:02.000Z"
+        },
+        {
+            "id": 3168688,
+            "content_html": "",
+            "title": "澳元兑美元AUD/USD日内涨超1.00%，现报0.6693。",
+            "date_modified": "2023-07-07T16:28:59.000Z"
+        },
+        {
+            "id": 3168687,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-07-08/detail-imyzwuai7977104.d.html",
+            "title": "高盛：尽管当前工业金属的宏观环境仍然压抑，但铜经济继续显示出需求趋势的显著优势。",
+            "date_modified": "2023-07-07T16:28:51.000Z"
+        },
+        {
+            "id": 3168686,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-07-08/detail-imyzwuai7977080.d.html",
+            "title": "澳元兑美元AUD/USD日内涨超1.00%，现报0.6693。",
+            "date_modified": "2023-07-07T16:28:44.000Z"
+        },
+        {
             "id": 3168685,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2023-07-08/detail-imyzwuam4752671.d.html",
@@ -133,202 +326,6 @@
             "content_html": "",
             "title": "美联储古尔斯比：尚未看到利率敏感行业出现问题的迹象，所以我认为加息仍有很大的可能性对其产生较大影响。",
             "date_modified": "2023-07-07T15:50:10.000Z"
-        },
-        {
-            "id": 3168665,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-07-07/detail-imyzwuam4745525.d.html",
-            "title": "法国欧盟事务部长布恩：法国经济“增长非常强劲”。",
-            "date_modified": "2023-07-07T15:48:54.000Z"
-        },
-        {
-            "id": 3168664,
-            "content_html": "",
-            "title": "Meta Platforms CEO扎克伯格：Threads已拥有7000万注册用户。",
-            "date_modified": "2023-07-07T15:47:33.000Z"
-        },
-        {
-            "id": 3168663,
-            "content_html": "",
-            "title": "阿里巴巴涨约7.2%，在纳斯达克金龙指数中涨幅第四大，嘉楠科技涨9.8%，悦刻电子烟涨约7.9%，京东和蔚来汽车涨约3.7%。其他中概股里，腾讯粉单市场涨2.6%。",
-            "date_modified": "2023-07-07T15:47:09.000Z"
-        },
-        {
-            "id": 3168662,
-            "content_html": "",
-            "title": "美联储古尔斯比：目标是降低通货膨胀率和最大化就业率；无论实际利率是多少，只要能实现这一目标，就是合理的利率。",
-            "date_modified": "2023-07-07T15:46:53.000Z"
-        },
-        {
-            "id": 3168661,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-07-07/detail-imyzwuam4745180.d.html",
-            "title": "美国参议员沃伦呼吁制定更强有力的银行合并审查指导方针。",
-            "date_modified": "2023-07-07T15:45:56.000Z"
-        },
-        {
-            "id": 3168660,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-07-07/detail-imyzwuam4745167.d.html",
-            "title": "英国央行政策委员会委员曼恩：食品价格对通胀预期的影响正变得更大。",
-            "date_modified": "2023-07-07T15:45:47.000Z"
-        },
-        {
-            "id": 3168659,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-07-07/detail-imyzwuam4745137.d.html",
-            "title": "美联储古尔斯比：预计进一步收紧政策的可能性较大。",
-            "date_modified": "2023-07-07T15:45:34.000Z"
-        },
-        {
-            "id": 3168658,
-            "content_html": "",
-            "title": "关于服务业通胀和商品通胀的平衡，美联储古尔斯比表示，可以接受服务业通胀水平较高，只要商品通胀水平能够抵消，目标即可实现。",
-            "date_modified": "2023-07-07T15:45:29.000Z"
-        },
-        {
-            "id": 3168657,
-            "content_html": "",
-            "title": "美联储古尔斯比：如果没有出现衰退，美联储将取得重大胜利，这可能意味着今年7月、9月和12月会进行一到两次加息。",
-            "date_modified": "2023-07-07T15:45:21.000Z"
-        },
-        {
-            "id": 3168656,
-            "content_html": "",
-            "title": "美联储古尔斯比：金融政策正在迈向正确的轨道，旨在将通胀降到目标水平而不引发经济衰退。",
-            "date_modified": "2023-07-07T15:45:14.000Z"
-        },
-        {
-            "id": 3168655,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-07-07/detail-imyzwuai7967671.d.html",
-            "title": "美联储古尔斯比：住房价格一直在上涨，但预计将在秋季开始下降。",
-            "date_modified": "2023-07-07T15:42:59.000Z"
-        },
-        {
-            "id": 3168654,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-07-07/detail-imyzwuam4744799.d.html",
-            "title": "【英国和荷兰天然气本周累跌约10%】周五（7月7日）欧市尾盘，ICE英国天然气期货涨2.66%，报81.360便士/千卡，本周累计下跌10.81%。TTF基准荷兰天然气期货涨1.88%，报33.110欧元/兆瓦时，本周累跌9.78%。ICE欧盟碳排放交易许可（期货价格）涨0.35%，报85.35欧元/吨。",
-            "date_modified": "2023-07-07T15:42:44.000Z"
-        },
-        {
-            "id": 3168653,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-07-07/detail-imyzwuam4744755.d.html",
-            "title": "美联储古尔斯比：在接下来的两到三个月里，重点关注商品的价格走势。",
-            "date_modified": "2023-07-07T15:42:16.000Z"
-        },
-        {
-            "id": 3168652,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-07-07/detail-imyzwuam4744745.d.html",
-            "title": "美联储古尔斯比：仍希望看到通胀数据后再做决定。",
-            "date_modified": "2023-07-07T15:42:10.000Z"
-        },
-        {
-            "id": 3168651,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-07-07/detail-imyzwuai7967572.d.html",
-            "title": "美联储古尔斯比：仍未决定7月份美联储应该采取何种利率政策。",
-            "date_modified": "2023-07-07T15:42:03.000Z"
-        },
-        {
-            "id": 3168650,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-07-07/detail-imyzwuap4145249.d.html",
-            "title": "美联储古尔斯比：未来会适度加息，加息时机是一个问题。",
-            "date_modified": "2023-07-07T15:41:58.000Z"
-        },
-        {
-            "id": 3168649,
-            "content_html": "",
-            "title": "美联储古尔斯比：住房市场的供需也受到利率变化的影响，目前供应量有限，因为人们不愿放弃低利率的抵押贷款。",
-            "date_modified": "2023-07-07T15:41:52.000Z"
-        },
-        {
-            "id": 3168648,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-07-07/detail-imyzwuaf8029288.d.html",
-            "title": "美联储古尔斯比：今年我们可以再加息1-2次。",
-            "date_modified": "2023-07-07T15:41:42.000Z"
-        },
-        {
-            "id": 3168647,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-07-07/detail-imyzwuaf8029277.d.html",
-            "title": "美联储古尔斯比：还没有看到任何迹象表明今年再加息一两次是错误的。",
-            "date_modified": "2023-07-07T15:41:37.000Z"
-        },
-        {
-            "id": 3168645,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-07-07/detail-imyzwuaf8029248.d.html",
-            "title": "美联储古尔斯比：商品通胀下降的幅度没有预期的那么大。",
-            "date_modified": "2023-07-07T15:41:23.000Z"
-        },
-        {
-            "id": 3168644,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-07-07/detail-imyzwuai7967440.d.html",
-            "title": "美联储古尔斯比：商品通胀是导致总体通胀更持久的主要原因。",
-            "date_modified": "2023-07-07T15:41:17.000Z"
-        },
-        {
-            "id": 3168643,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-07-07/detail-imyzwuai7967151.d.html",
-            "title": "【美国银行：预计下周数据将显示通胀放缓，但仍处于较高水平】随着6月就业报告出炉，下周三的CPI数据将是美联储7月利率决定之前发布的下一个关键数据。美国银行经济学家预计，核心通胀率将从5月的0.4%降至0.3%，年化通胀率将从5.3%降至5%，但仍远高于美联储2%的目标。美银表示，他们预计，6月份的CPI报告将表明，尽管“通胀回落的车轮似乎正在转动”，通胀水平仍然过高，美联储将继续加息。",
-            "date_modified": "2023-07-07T15:39:42.000Z"
-        },
-        {
-            "id": 3168642,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-07-07/detail-imyzwuaf8028941.d.html",
-            "title": "【推动充电桩“进村”，支持新能源汽车下乡！天津推出16项措施】据天津发布7月7日消息，为贯彻落实国家发展改革委、国家能源局《关于加快推进充电基础设施建设更好支持新能源汽车下乡和乡村振兴的实施意见》（发改综合〔2023〕545号），日前，天津市发展改革委会同有关部门印发了《关于加快推进充电基础设施建设更好支持新能源汽车下乡和乡村振兴若干举措》。《若干举措》按照因地制宜、适度超前布局的原则，提出了3方面16项措施，第一部分为加快推进农村地区充电基础设施建设运维。立足天津市实际，结合商务部举办“百城千县”汽车节暨新能源汽车惠农盛宴部署，举办天津品质消费农村行暨新能源汽车惠民巡回展，促进农村新能源汽车消费。",
-            "date_modified": "2023-07-07T15:38:20.000Z"
-        },
-        {
-            "id": 3168641,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-07-07/detail-imyzwuam4744057.d.html",
-            "title": "美联储古尔斯比：货币政策存在滞后效应。",
-            "date_modified": "2023-07-07T15:37:55.000Z"
-        },
-        {
-            "id": 3168640,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-07-07/detail-imyzwuai7966897.d.html",
-            "title": "美联储古尔斯比：通胀有所下降，但还需要进一步下降。",
-            "date_modified": "2023-07-07T15:37:46.000Z"
-        },
-        {
-            "id": 3168639,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-07-07/detail-imyzwuai7966707.d.html",
-            "title": "国际货币基金组织将乌克兰2023年的通胀预测从20%下调至15.5%。",
-            "date_modified": "2023-07-07T15:36:52.000Z"
-        },
-        {
-            "id": 3168638,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-07-07/detail-imyzwuai7966649.d.html",
-            "title": "美联储古尔斯比：通胀仍然过高。",
-            "date_modified": "2023-07-07T15:36:37.000Z"
-        },
-        {
-            "id": 3168637,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-07-07/detail-imyzwuai7966637.d.html",
-            "title": "美联储古尔斯比：我们可以将失业率升至不至于导致衰退的水平，同时降低物价。",
-            "date_modified": "2023-07-07T15:36:32.000Z"
-        },
-        {
-            "id": 3168636,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-07-07/detail-imyzwuai7966374.d.html",
-            "title": "美联储古尔斯比：我觉得我们正处于避免经济衰退的道路上。",
-            "date_modified": "2023-07-07T15:35:20.000Z"
         }
     ]
 }
