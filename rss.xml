@@ -4,11 +4,28 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 08 Jul 2023 20:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jul 2023 21:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【乌克兰与土耳其签署在乌发展无人机产业的备忘录】乌克兰战略工业部部长卡梅申当地时间8日表示，乌克兰战略工业部与土耳其工业和技术部签署了有关在乌克兰发展无人机产业的备忘录。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-09/detail-imyzzpxc3365045.d.html</link>
+            <guid>3169115</guid>
+            <pubDate>Sat, 08 Jul 2023 21:10:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国得州发生枪击事件 至少8名青少年受伤】据美国有线电视新闻网当地时间8日报道，美国得克萨斯州埃尔帕索市警方表示，有两群人在当地的一次家庭聚会上出现争执，随后发生枪击事件，造成至少8名15岁至18岁的青少年受伤。]]></title>
+            <guid>3169114</guid>
+            <pubDate>Sat, 08 Jul 2023 20:57:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2025年四分之一用电量来自绿电】光伏发电、地源热泵、氢能交通……未来市民使用的能源，将越来越多来自可再生能源。近日，北京市发改委发布《北京市可再生能源替代行动方案（2023—2025年）》，提出了27项重要任务。按照方案，北京新增能源消费量将优先由可再生能源提供。到2025年，北京可再生能源开发利用总量占能源消费总量的比重将达到14.4%以上，力争达到15%以上；可再生能源电力比重力争达到25%左右。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-09/detail-imyzzpwz6586826.d.html</link>
+            <guid>3169113</guid>
+            <pubDate>Sat, 08 Jul 2023 20:47:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【珠峰顶部积雪厚度最新数据发布】我国第二次青藏科考队利用雷达剖面测量方法，测得珠峰顶部最新积雪厚度为9.5±1.2米。该成果7月7日发表于《冰冻圈》，为研究极高海拔冰冻圈及珠峰顶部岩石圈动态变化提供宝贵的参考数据。第二次青藏科考队队长、中国科学院青藏高原研究所名誉所长姚檀栋表示，这一发现不仅揭示了珠峰峰顶的积雪厚度，还为更深入理解极高海拔气候变化开辟了新方向。]]></title>
             <link>https://finance.sina.cn/7x24/2023-07-09/detail-imyzzpwz6585322.d.html</link>
@@ -279,24 +296,6 @@
             <link>https://finance.sina.cn/7x24/2023-07-08/detail-imyzystm7037055.d.html</link>
             <guid>3169065</guid>
             <pubDate>Sat, 08 Jul 2023 12:52:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【益生股份：公司7月份父母代肉种鸡苗报价70多元/套】益生股份在互动平台表示，公司7月份父母代肉种鸡苗报价70多元/套，公司根据市场的供需情况和公司的订单量，和客户确定最终成交价格。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-08/detail-imyzystp3812787.d.html</link>
-            <guid>3169064</guid>
-            <pubDate>Sat, 08 Jul 2023 12:44:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【荷兰政府集体辞职 首相吕特与国王会面】当天中午，荷兰首相吕特与荷兰国王威廉-亚历山大会面，通报内阁垮台的消息。因执政联盟内部在移民政策上存在分歧，吕特已于7日早些时候宣布，他和他所领导的联合政府将集体辞职。荷兰本届政府于2022年1月宣誓就职，这是吕特2010年出任首相以来第4次组建政府。据当地媒体报道，联合政府辞职后，预计将在今年11月举行议会选举。在此之前，现政府将作为看守政府继续履职。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-08/detail-imyzystp3812086.d.html</link>
-            <guid>3169063</guid>
-            <pubDate>Sat, 08 Jul 2023 12:40:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：伊朗总统莱希将于周二开始非洲之行。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-08/detail-imyzystm7034677.d.html</link>
-            <guid>3169062</guid>
-            <pubDate>Sat, 08 Jul 2023 12:38:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
