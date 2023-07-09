@@ -4,11 +4,85 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 09 Jul 2023 10:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jul 2023 11:14:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【阿里巴巴：蚂蚁拟进行约5671亿元股份回购，阿里正考虑是否参与】阿里巴巴联交所公告，蚂蚁集团将召开股东大会，以批准（除其他事项外）蚂蚁集团向其全体股东回购不超过7.6%股份的议案。拟议股份回购价格代表蚂蚁集团估值金额约为5,671亿元人民币（约784.8亿美元）。据了解，此次回购的股份将转入蚂蚁集团公司员工激励计划。阿里巴巴集团正在考虑是否参与拟议的股份回购。]]></title>
+            <guid>3169370</guid>
+            <pubDate>Sun, 09 Jul 2023 11:08:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长耶伦：现阶段排除美国经济衰退的可能性仍为时过早。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-09/detail-imzaavsp2741257.d.html</link>
+            <guid>3169369</guid>
+            <pubDate>Sun, 09 Jul 2023 11:00:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长耶伦：美国通胀仍然过高。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-09/detail-imzaavsp2741218.d.html</link>
+            <guid>3169368</guid>
+            <pubDate>Sun, 09 Jul 2023 11:00:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国财长勒梅尔：问题是我们是否希望进口这些金属，还是在国内按照我们的环境标准进行生产，我支持第二个选项。]]></title>
+            <guid>3169367</guid>
+            <pubDate>Sun, 09 Jul 2023 10:58:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国财长勒梅尔：将要求欧盟委员会将锗和镓列入欧洲必须独立的原材料清单。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-09/detail-imzaavsm5962498.d.html</link>
+            <guid>3169366</guid>
+            <pubDate>Sun, 09 Jul 2023 10:52:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【俄罗斯叶卡捷琳堡发现15例球菌性脑膜炎病例 已有2人死亡】俄罗斯联邦消费者权益保护和公益监督局9日表示，俄罗斯叶卡捷琳堡发现15例球菌性脑膜炎病例，其中2人死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-09/detail-imzaavsm5961937.d.html</link>
+            <guid>3169365</guid>
+            <pubDate>Sun, 09 Jul 2023 10:50:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国财长勒梅尔：我对特斯拉在法国进行投资抱有很大希望，目前有几个选项正在讨论中。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-09/detail-imzaavsm5959535.d.html</link>
+            <guid>3169364</guid>
+            <pubDate>Sun, 09 Jul 2023 10:41:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  药明合联生物技术有限公司向港交所提交上市申请，联席保荐人为摩根士丹利、高盛、摩根大通。]]></title>
+            <guid>3169363</guid>
+            <pubDate>Sun, 09 Jul 2023 10:40:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【乌克兰总统泽连斯基就沃伦州安全局势等召开协调会议】据乌克兰国家通讯社报道，乌总统泽连斯基当地时间7月9日在沃伦州首府卢茨克就该州的安全和社会局势召开协调会议。会议中特别讨论了乌克兰与白俄罗斯接壤地区的局势，乌部队如何更好加强周边地区的国防和安全问题，以及整个边境北部地区问题。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-09/detail-imzaavsm5959246.d.html</link>
+            <guid>3169362</guid>
+            <pubDate>Sun, 09 Jul 2023 10:40:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国化学：全球首套常温常压有机液体储氢加注一体化示范项目已具备商用条件】据中证报，7月6日，中国化学工程集团有限公司研制的全球首套常温常压有机液体储氢加注一体化示范项目在上海金山实现全流程贯通，各项指标均达到了可以商业化的预期目标。近年来，中国化学联合氢阳科技研发有机液体储氢技术（简称LOHC），创新采用特殊有机液体对氢气进行储存，形成“氢油”，相较于德国的二苄基甲苯和日本的甲基环己烷液体，其在稳定性、安全性、纯度、成本等方面具有明显优势。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-09/detail-imzaavsm5958820.d.html</link>
+            <guid>3169361</guid>
+            <pubDate>Sun, 09 Jul 2023 10:38:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2023年下半年进口铁矿石价格或将先跌后涨】展望下半年，铁矿石基本面或将呈现出供强需弱的格局。从近几年季节性走势来看，下半年的供应情况整体会好于上半年；需求方面，随着近期局部区域再现限产政策，加上往年七八月份是传统的需求淡季以及11-12月的采暖季限产，下半年铁水产量也就是铁矿石需求预计会有明显的回落。最终在边际需求下降，供给回升的情况下，港口库存或逐步进入累库模式。价格走势方面，三季度铁矿石供需同处高位，钢厂利润或将成为进口矿价走势的重要因素，其价格走势预计会伴随利润的走势波动。进入四季度，市场或将关注新一年的宏观政策以及聚焦钢厂冬季补库行为，届时矿价可能会迎来反弹。（我的钢铁网）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-09/detail-imzaavsm5956540.d.html</link>
+            <guid>3169360</guid>
+            <pubDate>Sun, 09 Jul 2023 10:29:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【朝鲜谴责国际原子能机构偏袒日本】据朝中社9日报道，朝鲜国土环境保护省对外事业局局长当天发表谈话称，国际原子能机构庇护、偏袒和助长日本核污染水排海计划令人毛骨悚然。国际原子能机构不是环境评价机构，国际法没有任何条例和文本规定该机构可以允许特定国家和地区排放核污染水。美国和韩国对理应遭到谴责和痛斥的日本核污染水排海计划公开表示“欢迎立场”，这也引起了世人的惊讶与愤怒。这证明一小撮势力为实现其地缘政治目的，置人类的生命安全和生态环境不顾，使地球生态环境遭到严重威胁。国际社会不能对此坐视不管，要团结起来对此坚决加以制止。（环球网）]]></title>
+            <guid>3169359</guid>
+            <pubDate>Sun, 09 Jul 2023 10:26:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中央气象台7月9日18时发布强对流天气蓝色预警】中央气象台7月9日18时发布强对流天气蓝色预警：预计7月9日20时至10日20时，黑龙江东北部、辽宁北部、河北东南部、山东北部、安徽中北部、江苏北部和南部、上海、浙江北部等地的部分地区将有8-10级雷暴大风或冰雹天气；内蒙古东南部、黑龙江中东部和西南部、吉林、辽宁北部、天津南部、山东中北部、安徽东部、江苏、上海、浙江北部、湖北西南部、贵州西南部、湖南西北部、云南南部和西部等地的部分地区将有短时强降水天气，小时雨量30-50毫米，局地可达60毫米以上。预计，强对流的主要影响时段为今天前半夜和明天午后至傍晚。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-09/detail-imzaavsp2731744.d.html</link>
+            <guid>3169358</guid>
+            <pubDate>Sun, 09 Jul 2023 10:22:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【鹏辉能源：10兆瓦时级工商业液冷储能项目已正式投入运营】鹏辉能源接受机构调研时表示，公司有专业的液冷产品研发生产团队，并建设有液冷储能产品产线，公司与深圳电网智慧能源技术有限公司合作的10兆瓦时级工商业液冷储能项目在珠海顺利实现高压侧并网，日前项目已正式投入运营。液冷系统通过对电池温度精准管理，解决了风冷系统内部散热控制不均问题，可实现对每个电芯精准温度管理，是更安全、高效的温控系统，同时，更适应户外各种复杂的运维环境。]]></title>
             <link>https://finance.sina.cn/7x24/2023-07-09/detail-imzaavsi5809274.d.html</link>
@@ -205,71 +279,6 @@
             <title><![CDATA[欧洲央行管委埃尔南德斯德科斯：对于财政政策，我们已经讨论了很多年，财政政策有其必要性，对欧洲货币联盟的稳定非常重要。]]></title>
             <guid>3169320</guid>
             <pubDate>Sun, 09 Jul 2023 08:59:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委埃尔南德斯德科斯：除了货币政策，我们还可以利用其他工具，特别是财政政策和宏观审慎政策。]]></title>
-            <guid>3169319</guid>
-            <pubDate>Sun, 09 Jul 2023 08:59:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委埃尔南德斯德科斯：尽管货币政策和中央银行在过去15年间已成功应对了各种危机，但我们应该通过更好地平衡和组合政策来对抗危机，而不仅仅依赖货币政策。]]></title>
-            <guid>3169318</guid>
-            <pubDate>Sun, 09 Jul 2023 08:59:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【鹏辉能源：下半年公司工商业储能产品预计会有大批量销售】鹏辉能源接受机构调研时表示，由于锂价下跌，储能成本下降，再加上很多省市电价峰谷差价拉大并设有储能补贴，目前工商业储能市场需求开始兴起，下半年公司工商业储能产品预计会有大批量销售。估计工商业储能市场需求明年大概率会爆发。]]></title>
-            <guid>3169317</guid>
-            <pubDate>Sun, 09 Jul 2023 08:58:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【证监会：将重点完善部门规章、规范性文件和自律规则】司法部、证监会负责人就《私募投资基金监督管理条例》答记者问时表示，下一步，证监会将重点完善部门规章、规范性文件和自律规则。根据《条例》修订《私募投资基金监督管理暂行办法》，进一步细化相关要求，逐步完善私募基金资金募集、投资运作、信息披露等相关制度，根据私募基金管理人业务类型、管理资产规模、持续合规情况、风险控制情况和服务投资者能力等实施差异化监管，完善规则体系。同时指导基金业协会按照《条例》和证监会行政监管规则，配套完善登记备案、合同指引、信息报送等自律规则。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-09/detail-imzaarkp6066530.d.html</link>
-            <guid>3169316</guid>
-            <pubDate>Sun, 09 Jul 2023 08:57:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【诚邦股份：上半年预亏1600万元到1900万元 同比转亏】诚邦股份公告，公司预计2023年半年度实现归属于上市公司股东的净利润为-1600万元到-1900万元，上年同期盈利671.78万元。2023年半年度，公司受宏观经济环境、行业环境以等因素影响，新增订单减少，营业收入下降，成本费用占比增加，导致公司2023年半年度业绩预计亏损。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-09/detail-imzaarkp6066435.d.html</link>
-            <guid>3169315</guid>
-            <pubDate>Sun, 09 Jul 2023 08:56:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【三超新材：子公司金刚线扩产项目计划7月中旬逐步投产】三超新材在互动平台表示，子公司江苏三泓金刚线扩产项目，计划于7月中旬逐步投产。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-09/detail-imzaarkp6066415.d.html</link>
-            <guid>3169314</guid>
-            <pubDate>Sun, 09 Jul 2023 08:56:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【上海市副市长张小宏：上海将加快布局航船氢级燃料供应链 稳妥推进上海港、洛杉矶港绿色走廊建设】临港新片区举行首届滴水湖高能级航运服务业创新大会。上海市副市长张小宏在会上致辞时表示，上海将加快布局航船氢级燃料供应链，稳妥推进上海港、洛杉矶港绿色走廊建设，推动交通运输设施的绿色走廊建设，积极应对行业脱碳、船舶排放控制区等全球航运业重大治理问题。此外，上海将围绕技术创新、应用合作、标准体系等重点领域加强与全球顶级船运机构的合作共建，加强港航领域基础设施和重点装备的智能化改造，推动5G、大数据、区块链、人工智能等新技术与航运业的深度融合。]]></title>
-            <guid>3169313</guid>
-            <pubDate>Sun, 09 Jul 2023 08:54:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【左蓝微电子完成近亿元B轮融资 润科基金领投】日前，国内射频前端器件供应商左蓝微电子完成B轮近亿元的融资，由华润旗下润科基金领投。此前左蓝微电子已获得深圳鹏晨讯达、无锡国联基金、深创投、正轩投资、易合资本等知名机构投资。据介绍，左蓝微电子射频前端产品系列包括SAW、TC-SAW到PESAW、PEBAW，丰富射频前端模组，应用领域从智能手机向基站、汽车电子、物联网等拓展。本轮融资将用于新产品研发投入、市场占有率提升和团队建设等，进一步提升滤波器产品的竞争力和品牌价值。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-09/detail-imzaarkr2842723.d.html</link>
-            <guid>3169311</guid>
-            <pubDate>Sun, 09 Jul 2023 08:51:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行行长贝利：当前世界正在经历多重冲击，英国央行需要评估并对这些冲击做出反应。]]></title>
-            <guid>3169310</guid>
-            <pubDate>Sun, 09 Jul 2023 08:51:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行行长贝利强调，央行不应在解决这些问题的公共政策中起主导作用。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-09/detail-imzaarkr2842680.d.html</link>
-            <guid>3169309</guid>
-            <pubDate>Sun, 09 Jul 2023 08:51:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行行长贝利：尽管央行不能直接解决所有问题，但需要对这些问题进行考虑，因为这些问题会影响到核心目标，即价格稳定和金融稳定。]]></title>
-            <guid>3169308</guid>
-            <pubDate>Sun, 09 Jul 2023 08:51:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行行长贝利：央行也有自己的特定目标，不能解决所有的问题。对英国央行而言，两个目标是维持货币稳定、低通胀（价格稳定）以及金融稳定。]]></title>
-            <guid>3169307</guid>
-            <pubDate>Sun, 09 Jul 2023 08:51:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
