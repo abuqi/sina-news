@@ -4,11 +4,16 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 15 Jul 2023 16:23:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jul 2023 17:15:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国西南部高温不退 多地或将打破纪录】美国西南部连日遭遇高温炙烤，气温预计还将继续升高。气象部门预计，15日至16日，内华达州、亚利桑那州和加利福尼亚州的高温热浪将愈演愈烈，多地可能打破高温纪录。美国国家气象局先前说，此次“异常高温天气”主要由“热穹顶”现象引起，一个持续的“热穹顶”正笼罩美国西南部。这一机构14日说：“我们已经讨论了一个星期的热浪，现在最强烈的时期已经开始。”]]></title>
+            <guid>3177482</guid>
+            <pubDate>Sat, 15 Jul 2023 16:58:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【辉瑞430亿美元收购Seagen面临欧盟调查】随着欧盟继续审查大型生物技术交易，辉瑞公司拟以 430亿美元收购Seagen的提议将面临欧盟并购执法机构的调查。Seagen在周五晚间提交的一份监管文件中披露，两家公司将向欧盟委员会通报该交易，欧盟执行部门已接受调查拟议合并的管辖权。 文件称，欧盟的批准是交易完成的条件。（环球市场播报）]]></title>
             <link>https://finance.sina.cn/7x24/2023-07-16/detail-imzauzei1596510.d.html</link>
@@ -294,12 +299,6 @@
             <link>https://finance.sina.cn/7x24/2023-07-15/detail-imzauqqp1834851.d.html</link>
             <guid>3177433</guid>
             <pubDate>Sat, 15 Jul 2023 12:48:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【驻外使（领）馆经济商务工作会议在京召开】7月15日，驻外使（领）馆经济商务工作会议在京召开。会议要求，驻外经商机构要围绕高水平对外开放，加快建设贸易强国，提升双向投资水平，高质量共建“一带一路”，深化多双边经贸合作，助力扩大高标准自贸区网络等，扎实做好驻外经济商务工作，为全面建成社会主义现代化强国、以中国式现代化全面推进中华民族伟大复兴作出更大贡献。（商务部）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-15/detail-imzauqqp1833919.d.html</link>
-            <guid>3177432</guid>
-            <pubDate>Sat, 15 Jul 2023 12:41:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
