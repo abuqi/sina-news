@@ -4,7 +4,7 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 16 Jul 2023 17:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jul 2023 18:21:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
@@ -324,12 +324,6 @@
             <link>https://finance.sina.cn/7x24/2023-07-16/detail-imzawxvi2623725.d.html</link>
             <guid>3177884</guid>
             <pubDate>Sun, 16 Jul 2023 12:41:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特能源大臣：沙特将继续与日本在清洁氢和再生碳燃料方面合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-16/detail-imzawxvi2622916.d.html</link>
-            <guid>3177882</guid>
-            <pubDate>Sun, 16 Jul 2023 12:36:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
