@@ -4,11 +4,141 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Wed, 19 Jul 2023 21:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 22:15:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国雅宝修订与Mineral Resources Ltd.的Marbl Lithium合资公司协议条款。]]></title>
+            <guid>3181936</guid>
+            <pubDate>Wed, 19 Jul 2023 22:10:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美联储7月加息25个基点的概率为99.2%】CME“美联储观察”：美联储7月维持利率在5.00%-5.25%不变的概率为0.8%，加息25个基点至5.25%-5.50%区间的概率为99.2%；到9月维持利率不变的概率为0.7%，累计加息25个基点的概率为86.4%，累计加息50个基点的概率为12.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzchnec6440542.d.html</link>
+            <guid>3181935</guid>
+            <pubDate>Wed, 19 Jul 2023 22:09:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉CEO马斯克：目前还没有供应商可以生产Optimus所需的执行器，所以现在在内部定制设计。]]></title>
+            <guid>3181934</guid>
+            <pubDate>Wed, 19 Jul 2023 22:02:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉CEO马斯克：特斯拉允许车主“一次性”转让FSD。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzchnef9154580.d.html</link>
+            <guid>3181933</guid>
+            <pubDate>Wed, 19 Jul 2023 22:02:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉CEO马斯克：公司已经制造了10台Optimus机器人，Optimus机器人将能够在明年的某个时候在工厂做一些有用的事情。]]></title>
+            <guid>3181932</guid>
+            <pubDate>Wed, 19 Jul 2023 22:01:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉表示，第二季度从《通胀削减法案》税收优惠中获益1.5至2.5亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzchnec6438962.d.html</link>
+            <guid>3181931</guid>
+            <pubDate>Wed, 19 Jul 2023 21:58:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉(TSLA.O)美股盘后跌幅扩大至近2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzchnec6438085.d.html</link>
+            <guid>3181930</guid>
+            <pubDate>Wed, 19 Jul 2023 21:54:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉能源工程和动力总成高级副总裁Drew Baglino：位于得州的团队专注于（增加）产量和减少废料，正准备推出Cybertruck并将在今年年底量产。]]></title>
+            <guid>3181929</guid>
+            <pubDate>Wed, 19 Jul 2023 21:54:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉表示，第二季度得州4680电池产量环比增长80%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzchncz9660688.d.html</link>
+            <guid>3181928</guid>
+            <pubDate>Wed, 19 Jul 2023 21:50:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉CEO马斯克：特斯拉超级充电网络在5000个地点安装了5万个充电桩。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzchncz9660616.d.html</link>
+            <guid>3181927</guid>
+            <pubDate>Wed, 19 Jul 2023 21:49:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉CFO Zachary Kirkhorn：继续大幅投资全自动驾驶（FSD）、Optimus、以及DOJO等核心技术。]]></title>
+            <guid>3181926</guid>
+            <pubDate>Wed, 19 Jul 2023 21:48:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉表示将增加在人工智能方面的支出。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzchncz9660146.d.html</link>
+            <guid>3181925</guid>
+            <pubDate>Wed, 19 Jul 2023 21:45:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉CEO马斯克：对FSD软件的许可问题持开放态度，并正在与一家主要代工制造商进行初步讨论。]]></title>
+            <guid>3181924</guid>
+            <pubDate>Wed, 19 Jul 2023 21:44:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉CEO马斯克：我们预计将同时使用英伟达GPU和超算Dojo。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzchncz9659963.d.html</link>
+            <guid>3181923</guid>
+            <pubDate>Wed, 19 Jul 2023 21:42:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉CEO马斯克：预计第三季度产量略有下降是由于工厂升级。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzchnec6436836.d.html</link>
+            <guid>3181922</guid>
+            <pubDate>Wed, 19 Jul 2023 21:37:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉CEO马斯克：第三季度产量将略有下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzchnef3697266.d.html</link>
+            <guid>3181921</guid>
+            <pubDate>Wed, 19 Jul 2023 21:35:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富时A50期指连续夜盘收涨0.29%，报12541.000点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzchnef3697009.d.html</link>
+            <guid>3181920</guid>
+            <pubDate>Wed, 19 Jul 2023 21:28:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【摩根大通：市场未反映出“去美元化”，建议减持美元、长期美债、金融类股票】摩根大通认为，去美元化及美元稳定性受冲击，将影响到所有资产，令美元下跌、美股市盈率下降、美债收益率上升。建议对于担心美元下跌的投资者，在投资组合中减持美元、美国市场、金融类股票和长期债券，价值股届时有望跑赢成长股。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzchncz9659140.d.html</link>
+            <guid>3181919</guid>
+            <pubDate>Wed, 19 Jul 2023 21:28:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周三（7月19日）纽约尾盘，CME比特币期货BTC主力合约报30020.00美元，较周二纽约尾盘涨0.79%，盘中交投于29775.00-30275.00美元区间。CME以太币期货DCR主力合约报1903.50美元，较周二涨0.21%，盘中交投于1896.00-1927.50美元区间。]]></title>
+            <guid>3181918</guid>
+            <pubDate>Wed, 19 Jul 2023 21:27:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[离岸人民币（CNH）兑美元北京时间04:59报7.2318元，较周二纽约尾盘跌389点，盘中整体交投于7.1917-7.2368元区间。]]></title>
+            <guid>3181917</guid>
+            <pubDate>Wed, 19 Jul 2023 21:27:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周三（7月19日）纽约尾盘，ICE美元指数涨0.34%，报100.285点，日内交投区间为99.925-100.535点。
+美元指数涨0.29%，报1206.33点，日内交投区间为1202.40-1209.10点。
+美元兑日元涨0.58%，报139.64，美股盘前一度涨至139.99。]]></title>
+            <guid>3181916</guid>
+            <pubDate>Wed, 19 Jul 2023 21:27:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国司法部：亚马逊公司因与其智能助理应用Alexa相关的隐私侵权问题而遭处罚，并同意支付2500万美元民事赔偿金。]]></title>
+            <guid>3181915</guid>
+            <pubDate>Wed, 19 Jul 2023 21:23:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高盛：布伦特原油今年不太可能升至100美元】高盛分析师Callum Bruce在一份报告中表示，过去三周布伦特原油上涨的原因是市场对下半年的预测转向供不应求。该价格可能进一步走高。高盛预计油价将继续迈向该行2023年12月每桶86美元的目标价，但达到100美元的可能性不大，达到这一水平将受到供应而非需求的驱动。当前高盛对下半年供需水平的预测需受到200万桶/日的冲击，才能推动油价达到三位数。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzchnec6435466.d.html</link>
+            <guid>3181914</guid>
+            <pubDate>Wed, 19 Jul 2023 21:19:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国共和党总统提名候选人克里斯蒂：通胀削减法案是一个错误。]]></title>
             <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzchnec6434107.d.html</link>
@@ -205,140 +335,6 @@ IBM二季度营收154.8亿美元，市场预期155.4亿美元。
             <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzchfwf6549017.d.html</link>
             <guid>3181885</guid>
             <pubDate>Wed, 19 Jul 2023 19:38:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【热带风暴“卡尔文”来袭 美国夏威夷宣布进入紧急状态】当地时间7月19日，据《国会山报》报道，热带风暴“卡尔文”夜间袭击美国夏威夷群岛后，该州已宣布进入紧急状态。美国国家气象局表示，热带风暴“卡尔文”的风速约为每小时72.4千米，阵风最高可达每小时88.5千米。预计在19日，飓风将减弱并向西穿过夏威夷的其他岛屿。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzchfwc9770795.d.html</link>
-            <guid>3181884</guid>
-            <pubDate>Wed, 19 Jul 2023 19:32:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【埃尔多安在访问阿联酋期间签署了价值500亿美元的协议】阿联酋和土耳其周三签署了几项协议，估计价值为507亿美元。据阿联酋通讯社报道，埃尔多安和阿联酋总统出席了协议的签字仪式，协议内容包括引渡协议、能源和自然资源开发以及太空和国防合作。而作为一揽子计划的一部分，阿布扎比主权财富基金ADQ表示，它签署了一份谅解备忘录，为土耳其地震救援债券提供高达85亿美元的融资。此外根据与土耳其出口信贷银行签署的谅解备忘录，它还将为土耳其出口提供高达30亿美元的信贷融资。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzchfwf6546151.d.html</link>
-            <guid>3181883</guid>
-            <pubDate>Wed, 19 Jul 2023 19:23:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[政府报告显示，拜登政府计划在本财年购买9500辆电动汽车用于政府车队。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzchfwc9768959.d.html</link>
-            <guid>3181882</guid>
-            <pubDate>Wed, 19 Jul 2023 19:23:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波兰等五国希望延长对乌克兰农产品进口禁令至今年年底】 当地时间7月19日，波兰总理莫拉维茨基和波兰农业与农村发展部长泰卢斯宣布，波兰、保加利亚、匈牙利、斯洛伐克和罗马尼亚五国已签署一项联合立场文件，希望在9月15日之后延长五国对乌克兰四种谷物的进口禁令，直至今年年底。波兰总理莫拉维茨基表示，之后将和欧盟委员会共同制定联合解决方案。4月28日，欧盟委员会与波兰、保加利亚、匈牙利、罗马尼亚和斯洛伐克就进口乌克兰农产品达成协议。5月2日，欧盟宣布暂时限制乌克兰小麦、玉米、油菜籽和葵花籽在五国自由交易，但是可通过这五国运输到其他欧盟成员国或欧盟境外。6月5日，该措施有效期被延长至9月15日。（央视）]]></title>
-            <guid>3181881</guid>
-            <pubDate>Wed, 19 Jul 2023 19:23:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在岸人民币兑美元北京时间03:00收报7.2240，较上一交易日夜盘收盘跌364点。成交量420.20亿美元。]]></title>
-            <guid>3181880</guid>
-            <pubDate>Wed, 19 Jul 2023 19:07:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大金融管理局（OSFI）：将在10月底之前澄清针对ETF市场的流动性规则。
-高息ETF可能会得到批发流动性待遇。]]></title>
-            <guid>3181879</guid>
-            <pubDate>Wed, 19 Jul 2023 19:07:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恒指期货夜盘收涨0.33%，报18970点，高水18点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzchfwf6543035.d.html</link>
-            <guid>3181878</guid>
-            <pubDate>Wed, 19 Jul 2023 19:07:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【景气赛道上奔涌向前 新产品上市贡献力量 科创板公司上半年业绩亮点纷呈】作为“硬科技”公司上市首选地，科创板聚集了众多优秀企业，其近期发布的半年度业绩预告更是亮点多多。数据显示，截至7月19日，共有41家科创板公司披露了上半年业绩预告，其中预增公司27家、预盈4家，合计占比75.6%。31家“预喜”公司中，以预计净利润增幅中值统计，共有10家公司净利润增幅超100%，净利润增幅在50%至100%之间的有11家。(上海证券报)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzchfwf6542992.d.html</link>
-            <guid>3181877</guid>
-            <pubDate>Wed, 19 Jul 2023 19:06:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【猪企上半年大面积预亏 生猪价格扭转尚需时日】生猪价格持续低迷之下，上市猪企上半年“成绩单”堪称惨淡。据上海证券报记者统计，A股已有16家上市猪企披露业绩预告，其中，15家预计亏损，4家预亏超10亿元，牧原股份预亏额最多，为25.5亿元至32.5亿元。尽管业绩陷入亏损，但头部企业产能仍在扩张。据统计，今年上半年，A股17家上市猪企合计出栏生猪9044万头，去年这一数字为8228万头，其中14家企业出栏生猪数量实现了两位数增长。业内人士在接受记者采访时表示，当前行业仍存在高生猪存量、高冻品库存、低需求的“两高一低”问题，在养殖主体降本增效情况下，预计下半年生猪产能去化将缓慢进行，行业产能相对过剩的状况可能会持续到明年。此外，下半年猪价整体将延续底部震荡态势，价格扭转尚需时日。(上海证券报)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzchfwc9765188.d.html</link>
-            <guid>3181876</guid>
-            <pubDate>Wed, 19 Jul 2023 19:03:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【预定利率高于3%的人身险产品7月底前全部下架】上海证券报记者获悉，各保险公司近日均已收到监管窗口指导，要求在7月底前下架预定利率高于3%的人身险产品。预定利率，指人身险产品进行保险产品定价时所采用的利率，实质是保险公司承诺给客户的回报率。不同于银行理财等其他金融产品可随市场调整的投资回报率，人身险产品期限通常长达数年甚至数十年，其预定利率一旦设定便不可调整，具有刚性兑付属性。(上海证券报)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzchfwi9274839.d.html</link>
-            <guid>3181875</guid>
-            <pubDate>Wed, 19 Jul 2023 19:02:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上半年券商共承销114只科创公司债券 金额合计1224.2亿元】中国证券业协会7月19日发布2023年上半年度证券公司债券承销业务专项统计结果。统计结果显示，2023年上半年度作为科技创新公司债券主承销商的证券公司共39家。这39家券商共承销114只债券，金额合计1224.2亿元。(上海证券报)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzchfwi9274653.d.html</link>
-            <guid>3181874</guid>
-            <pubDate>Wed, 19 Jul 2023 19:00:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大金融机构监管局(OSFI)：将在10月前明确ETFs的流动性规则，高息ETF可能获得批发流动性待遇。]]></title>
-            <guid>3181873</guid>
-            <pubDate>Wed, 19 Jul 2023 18:59:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【生态体系日趋完善 应用场景持续丰富 数字人民币迎来“三大跳跃”】深圳用3年左右的时间，实现了数字人民币从尝鲜到常用、从支付到智付、从产品到产业的“三大跳跃”。受理商户超210万家、开立数字人民币钱包超3594万个——这是深圳试点数字人民币近3年来的“成绩单”。数字人民币“钱”景广阔，越来越多的“首单”在全国各地开花，推动数字人民币生态体系建设稳步前行。多地也针对数字人民币出台相应政策，制定的“钱包”数量及金额的目标越来越大。数字人民币生态逐步完善，将给相关产业链及企业带来更多机会。(上海证券报)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzchfwc9764311.d.html</link>
-            <guid>3181872</guid>
-            <pubDate>Wed, 19 Jul 2023 18:58:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：英国为塔塔汽车的新能源电池工厂提供了5亿英镑的补贴。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzchfwi3818401.d.html</link>
-            <guid>3181871</guid>
-            <pubDate>Wed, 19 Jul 2023 18:56:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【二季度份额激增 上半年绩优基金获资金力捧】随着基金二季报逐渐披露，上半年绩优基金的最新情况也渐渐揭晓。包括“半程冠军”在内，上半年多只主动权益绩优产品获得资金力捧，而随着新资金注入，部分产品的重仓股已经“大换血”，尽显小基金的“灵活身段”。基金二季报显示，截至今年二季度末，上半年主动权益基金冠军诺德新生活的总份额，从一季度末的0.45亿份，激增至6.69亿份，环比增幅高达1386.7%；亚军东吴移动互联一季度末的总份额为0.61亿份，二季度末达到2.73亿份，环比增幅为347.5%。此外，还有多只上半年绩优基金受到资金青睐，比如银华体育文化二季度末的总份额达到2.45亿份，环比增幅为308.3%；德邦半导体产业二季度末总份额快速冲至24.79亿份，环比增幅为178.5%。(上海证券报)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzchfwf6540759.d.html</link>
-            <guid>3181870</guid>
-            <pubDate>Wed, 19 Jul 2023 18:55:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳斯达克CEO：纳斯达克一直在努力将受监管的市场引入云端。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzchfwf6540727.d.html</link>
-            <guid>3181869</guid>
-            <pubDate>Wed, 19 Jul 2023 18:55:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【挖掘后发优势券商资管竞逐公募赛道】距离光证资管递交申请仅相隔一个月，安信资管近日正式递交了公募基金管理人资格申请。今年以来，申请公募牌照的券商资管子公司数量已经扩至5家。市场人士认为，公募基金市场广阔，对于一些在资管业务领域发展面临瓶颈的券商而言，布局公募基金业务将会打开利润增长空间。与此同时，随着越来越多的券商资管入局，资管市场竞争格局或面临重塑。(上海证券报)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzchfwf6540686.d.html</link>
-            <guid>3181868</guid>
-            <pubDate>Wed, 19 Jul 2023 18:54:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新一轮国企改革深化提升行动启动】新一轮国企改革深化提升行动的任务部署，也与此前国资委党委的署名文章中，对新一轮改革任务的展望契合。该文章提出，要增强重要能源资源托底作用，其中具体提及推进重要能源、矿产资源国内勘探和增储上产，扩大优质煤炭产能，构建新型电力系统，提升种子自主可控和海外粮源掌控能力。(上海证券报)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzchfwc9763498.d.html</link>
-            <guid>3181867</guid>
-            <pubDate>Wed, 19 Jul 2023 18:54:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉(TSLA.O)一度触及盘中低点，现下跌1.2%，至290.03美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzchfwf6540584.d.html</link>
-            <guid>3181866</guid>
-            <pubDate>Wed, 19 Jul 2023 18:54:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士表示，美国众议院委员会希望重启陷入僵局的自动驾驶立法，美国众议院小组将于7月26日就两项自动驾驶提案草案举行立法听证会。]]></title>
-            <guid>3181865</guid>
-            <pubDate>Wed, 19 Jul 2023 18:47:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【埃及计划在10月前恢复天然气出口】埃及石油部长表示，埃及的目标是在秋季开始的10月份恢复液化天然气出口。他表示，在夏季气温较高时，埃及大部分产量都被国内消费，但冬季有多余的产量可供出口。他补充称，去年夏季出口量增加的原因是，政府将发电站使用的天然气改为Mazut燃料油，如今情况正好相反。早些时候该部长便表示，由于季节性因素，埃及6月份没有出口任何液化天然气，不过预计7月份将有一批出口。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzchfwf6539172.d.html</link>
-            <guid>3181864</guid>
-            <pubDate>Wed, 19 Jul 2023 18:47:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【塔斯社：委内瑞拉2023年石油产量将突破100万桶/日】据塔斯社报道，委内瑞拉石油部长表示，委内瑞拉计划到2023年底将石油产量提高到100万桶/日以上。该部长称，届时预计出口将占产量的约60%，其余为国内消费。欧佩克的数据显示，委内瑞拉6月份的石油产量为76.7万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-20/detail-imzchfwc9759131.d.html</link>
-            <guid>3181863</guid>
-            <pubDate>Wed, 19 Jul 2023 18:33:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI 8月原油期货收跌0.40美元，跌幅0.53%，报75.35美元/桶。
-NYMEX 8月天然气期货收跌0.99%，报2.6030美/百万英热单位。]]></title>
-            <guid>3181862</guid>
-            <pubDate>Wed, 19 Jul 2023 18:33:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
