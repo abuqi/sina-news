@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 22 Jul 2023 19:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jul 2023 20:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国休斯敦市发生枪击事件 致1死4伤】当地时间7月22日，美国得克萨斯州休斯敦市一个公园发生一起枪击案，导致一名孕妇死亡，另有4人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-23/detail-imzcrcih3772700.d.html</link>
+            <guid>3185146</guid>
+            <pubDate>Sat, 22 Jul 2023 19:49:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【墨西哥北部一酒吧发生火灾 造成至少11人死亡】当地时间7月22日，墨西哥北部索诺拉州的圣路易斯-里奥科罗拉多市一家酒吧发生火灾，造成至少11人死亡、4人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-23/detail-imzcrcik0544856.d.html</link>
+            <guid>3185145</guid>
+            <pubDate>Sat, 22 Jul 2023 19:16:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【霍尔果斯公路口岸出入境车辆突破10万辆次】据新疆出入境边防检查总站霍尔果斯出入境边防检查站提供的数据显示，2023年1月1日至7月21日，该口岸出入境车辆突破10万辆次。]]></title>
             <link>https://finance.sina.cn/7x24/2023-07-23/detail-imzcrcik0540624.d.html</link>
@@ -285,18 +297,6 @@
             <link>https://finance.sina.cn/7x24/2023-07-22/detail-imzcqnms0876839.d.html</link>
             <guid>3185095</guid>
             <pubDate>Sat, 22 Jul 2023 13:33:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【二季度贵州茅台蝉联公募头号重仓股】从基金重仓股情况看，贵州茅台蝉联公募头号重仓股，截至二季度末，共有1220只基金重仓持有贵州茅台，持仓市值为843.45亿元。新能源龙头宁德时代紧随其后，位列基金第二大重仓股，被1121只基金重仓持有，持仓市值为751.26亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-22/detail-imzcqnms0876358.d.html</link>
-            <guid>3185094</guid>
-            <pubDate>Sat, 22 Jul 2023 13:31:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度能源部长：G20成员国就绿色氢能的自由和开放贸易达成一致。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-22/detail-imzcqnmq4096342.d.html</link>
-            <guid>3185069</guid>
-            <pubDate>Sat, 22 Jul 2023 13:16:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
