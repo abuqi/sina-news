@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 22 Jul 2023 16:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jul 2023 17:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【莫斯科市长称购物中心热水管爆裂重大事故已造成4死70伤】据今日俄罗斯电视台（RT）网站22日报道，莫斯科市长索比亚宁当天表示，莫斯科市一购物中心发生热水管爆裂的“重大事故”，已造成4人死亡，至少70人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-23/detail-imzcqwzk3876018.d.html</link>
+            <guid>3185140</guid>
+            <pubDate>Sat, 22 Jul 2023 17:00:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国象女子世界冠军赛：居文君卫冕棋后】22日，2023年国际棋联女子世界锦标赛对抗赛（女子世界冠军赛）进行了决定冠军归属的第十二轮。居文君最终战胜雷挺婕，连续第四次摘得棋后桂冠。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-23/detail-imzcqwzp7420947.d.html</link>
+            <guid>3185139</guid>
+            <pubDate>Sat, 22 Jul 2023 16:39:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【我国自主培育白羽肉鸡品种加快走向市场】近期，北京市华都峪口禽业有限责任公司自主培育的1.55万只“京红1号”高产蛋鸡和1000只“沃德188”快大型白羽肉鸡父母代种鸡，经北京海关检疫合格运抵坦桑尼亚。农业农村部有关司局负责人表示，我国自主培育种鸡首次出口坦桑尼亚，意味着国产畜禽品种进入国际市场迈出了关键一步，对进一步增强行业信心、促进畜禽种业高质量发展具有重要意义。]]></title>
             <link>https://finance.sina.cn/7x24/2023-07-23/detail-imzcqwzk3867492.d.html</link>
@@ -38,7 +50,8 @@
             <pubDate>Sat, 22 Jul 2023 15:46:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[法国电力公司重申，去年由于其一些工厂的应力腐蚀问题导致长时间停电，核电产量大幅下降，该公司预计核产量将逐渐恢复。该公司预计今年核发电量为300至330太瓦时，2024年为315至345太瓦时，2025年为335至365太瓦时。]]></title>
+            <title><![CDATA[【法国电力公司预计核发电量将逐渐恢复】法国电力公司重申，去年由于其一些工厂的应力腐蚀问题导致长时间停电，核电产量大幅下降，该公司预计核发电量将逐渐恢复。该公司预计今年核发电量为300至330太瓦时，2024年为315至345太瓦时，2025年为335至365太瓦时。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-22/detail-imzcqstq0768937.d.html</link>
             <guid>3185133</guid>
             <pubDate>Sat, 22 Jul 2023 15:39:42 GMT</pubDate>
         </item>
@@ -284,18 +297,6 @@
             <link>https://finance.sina.cn/7x24/2023-07-22/detail-imzcqnmq4094166.d.html</link>
             <guid>3185052</guid>
             <pubDate>Sat, 22 Jul 2023 13:05:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【台风“杜苏芮”强度逐渐加强，26日起或影响我国东南沿海】今年第5号台风“杜苏芮”（热带风暴级）的中心今天（22日）下午5点钟（北京时）位于菲律宾马尼拉偏东方向约1030公里的西北太平洋洋面上，就是北纬14.4度、东经130.5度，中心附近最大风力有8级（20米/秒），中心最低气压为995百帕，七级风圈半径260-320公里。预计，“杜苏芮”将以每小时10公里左右的速度向西偏北方向移动，24日转向西北方向移动，移速增至每小时15公里左右，强度逐渐加强，向台湾东部海面靠近，26日开始影响我国东南沿海。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-22/detail-imzcqnms0870982.d.html</link>
-            <guid>3185046</guid>
-            <pubDate>Sat, 22 Jul 2023 13:03:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【王毅会见肯尼亚外长穆图阿】当地时间2023年7月22日，中央外办主任王毅在内罗毕会见肯尼亚外长穆图阿。王毅表示，中肯合作成果丰硕，走在中非合作前列，作为肯全面战略合作伙伴，中方对肯政策保持连续性稳定性，始终坚持平等相待、相互信任，坚定支持肯维护国家主权和独立、走符合本国国情的发展道路。中方愿同肯方以庆祝两国建交60周年为契机，进一步深化中肯传统友谊，加强全方位战略对接，密切各领域互利合作，携手应对挑战，实现共同发展。中方支持肯方在地区和国际事务中发挥更大作用，愿同肯方加强协调配合，维护发展中国家共同利益。（外交部网站）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-22/detail-imzcqnmq4093386.d.html</link>
-            <guid>3185043</guid>
-            <pubDate>Sat, 22 Jul 2023 13:00:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
