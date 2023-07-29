@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 29 Jul 2023 18:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jul 2023 19:11:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【加拿大码头工人再次发出罢工威胁并拒绝签订合同】加拿大西海岸的码头工人在本月第二次拒绝谈判合同后，提出该国最繁忙的港口可能再次出现劳动力中断。据BC海事雇主协会周五晚间发表的一份声明称，国际码头和仓库联盟的成员拒绝了一项将在四年内将工资提高19.2%至每年162000加元（123000 美元）的协议。工会领导层建议其成员投赞成票。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-30/detail-imzekuwh3842598.d.html</link>
+            <guid>3192616</guid>
+            <pubDate>Sat, 29 Jul 2023 18:50:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【沙特阿拉伯将主办乌克兰冲突会议】随着欧洲和华盛顿加紧努力巩固对基辅和平要求的支持，沙特阿拉伯将于下月初主办乌克兰、其一些主要支持者以及包括印度和巴西在内的发展中国家之间的会谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-30/detail-imzekuwk0614805.d.html</link>
+            <guid>3192615</guid>
+            <pubDate>Sat, 29 Jul 2023 18:19:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【北京市20余万人参与防汛抢险】昨日(29日)，北京市发布多项防汛预警、提示，同时，全市河湖区域内全面停航，全面封控下河道路。其中，市排水集团启动特级防汛响应，全市共落实防汛抢险队伍3128支203230人。]]></title>
             <guid>3192614</guid>
@@ -320,18 +332,6 @@
             <link>https://finance.sina.cn/7x24/2023-07-29/detail-imzekkhn4044621.d.html</link>
             <guid>3192567</guid>
             <pubDate>Sat, 29 Jul 2023 13:16:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国光伏行业首个供应链金融平台在天合光能上线发布】天合光能消息，7月25日，天合光能供应链金融平台“天合融通”上线发布会在天合光能常州总部顺利举行，此次“天合融通”上线发布标志着中国光伏行业首个供应链金融平台诞生。“天合融通”为核心企业、供应商及金融机构提供统一融资入口，对接各家银行产品，实现融资操作线上管理，融资额度实时掌握、融资进度一目了然，为链上企业提供低成本、高便捷度的融资新通道，可大大节约企业财务成本。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-29/detail-imzekkhq0820413.d.html</link>
-            <guid>3192566</guid>
-            <pubDate>Sat, 29 Jul 2023 13:10:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天津港开通直航南美新航线 可省三分之一时间】今日下午在万海航运“吉春”轮靠泊天津港集装箱码头，标志着天津直航南美新航线正式开通，进一步拓展了天津港全球海运网络布局，强化航线枢纽能级，增强天津港“一带一路”海陆交汇点辐射带动作用。此次开通的天津港直航南美新航线，途经墨西哥、巴拿马、哥伦比亚、厄瓜多尔等多个国家的主要港口，将打通天津与中南美地区的海上贸易运输通道，为京津冀及中国北方地区企业进出口提供新选择。通过该航线，来自南美地区的海鲜冻品、时令蔬果等冷箱货物25天直达天津，较之前节省约1/3时间，有效降低综合物流成本，保障冷链货物品质，极大提高供应链的敏捷性和响应能力。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-29/detail-imzekkhn4043278.d.html</link>
-            <guid>3192565</guid>
-            <pubDate>Sat, 29 Jul 2023 13:10:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
