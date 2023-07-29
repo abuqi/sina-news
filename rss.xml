@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 29 Jul 2023 19:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jul 2023 20:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国资管新规 让华尔街为大规模贷款紧缩头疼】根据对银行家的最新调查，美国和欧洲的信贷紧缩终于来临了。周三美联储宣布新一轮加息后，鲍威尔表示，周一的高级贷款官员民意调查（通常会对80多家贷款机构进行民意调查）将显示贷款标准收紧。下降幅度将受到密切关注。再加上美国新的监管规定，将迫使大型银行将其资本缓冲提高数十亿美元，这可以证明人们期待已久的贷款条件收紧正在上演。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-30/detail-imzekzee3722647.d.html</link>
+            <guid>3192618</guid>
+            <pubDate>Sat, 29 Jul 2023 19:57:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【股市碾压“债券年” 出现自99年以来最大的情绪转变】去年12月份的所有讨论都是2023年将是“债券年”。 在冬天的一两个短暂的时刻，这一呼吁，以及支撑这一呼吁的经济前景看起来是正确的。然而，现在它正被大量的股票需求所冲垮，这种需求在全球范围内引发了猛烈的反弹，这表明涨势可能远未结束，这使得投资者对股票相对于债券的乐观程度比任何时候都高。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-30/detail-imzekzee3716913.d.html</link>
+            <guid>3192617</guid>
+            <pubDate>Sat, 29 Jul 2023 19:21:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【加拿大码头工人再次发出罢工威胁并拒绝签订合同】加拿大西海岸的码头工人在本月第二次拒绝谈判合同后，提出该国最繁忙的港口可能再次出现劳动力中断。据BC海事雇主协会周五晚间发表的一份声明称，国际码头和仓库联盟的成员拒绝了一项将在四年内将工资提高19.2%至每年162000加元（123000 美元）的协议。工会领导层建议其成员投赞成票。]]></title>
             <link>https://finance.sina.cn/7x24/2023-07-30/detail-imzekuwh3842598.d.html</link>
@@ -320,18 +332,6 @@
             <link>https://finance.sina.cn/7x24/2023-07-29/detail-imzekkhn4047665.d.html</link>
             <guid>3192569</guid>
             <pubDate>Sat, 29 Jul 2023 13:29:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中铁建设集团在博鳌发布十大零碳建筑技术应用】 博鳌全球旅游生态大会29日在海南博鳌国际会议中心开幕。开幕式上，中铁建设集团基于博鳌零碳示范区内建筑绿色化改造经验，发布了建筑领域十大零碳技术应用。中铁建设集团机电安装有限公司副总经理贾志强代表集团发布十大应用时介绍：建筑绿色化改造对示范区实现零碳目标具有重要意义。建筑及建造碳排放占全国碳排放量的50%以上，其中公共建筑碳排放量占建筑碳总排放量的40%。因此，对既有公共建筑绿色化改造，是实现节能减排的重要路径。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-29/detail-imzekkhn4046055.d.html</link>
-            <guid>3192568</guid>
-            <pubDate>Sat, 29 Jul 2023 13:22:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京发布最高级别暴雨红色预警】北京市气象台29日17时30分升级发布最高级别的暴雨红色预警信号：7月29日夜间至8月1日夜间，本市将出现大暴雨，西部、南部特大暴雨。主要降雨过程出现在30日2时至31日20时，全市有大暴雨，房山、门头沟、昌平、海淀、石景山、丰台、延庆、大兴、通州、西城、东城、朝阳的部分地区有特大暴雨，城市低洼地区容易出现积水。此外，北京市水务局与市气象局联合发布山洪灾害风险提示：预计7月29日20时至8月1日20时，本市房山区、门头沟区、昌平区、延庆区、怀柔区、密云区、平谷区、海淀区、石景山区、丰台区可能发生山洪灾害，其中房山区大部、门头沟区大部、石景山区西部、昌平区西部、延庆区南部发生可能性很大。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-29/detail-imzekkhn4044621.d.html</link>
-            <guid>3192567</guid>
-            <pubDate>Sat, 29 Jul 2023 13:16:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
