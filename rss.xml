@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 29 Jul 2023 20:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jul 2023 21:12:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【先锋集团经济学家并不相信软着陆的说法】股市上涨、通胀降温以及好于预期的经济数据正在促使更多投资者押注美联储能够实现“软着陆”，即消费者价格正常化而不会引发衰退。先锋集团的经济学家并不买账。他表示，失业率上升了至少30或40个基点，因此明年将超过4%。从历史上看，这100%与经济衰退有关。 现在，不一定是严重程度，但这肯定是衰退。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-30/detail-imzekzeh0507593.d.html</link>
+            <guid>3192620</guid>
+            <pubDate>Sat, 29 Jul 2023 21:00:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[普京：可能会在周三与土耳其总统埃尔多安通电话。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-30/detail-imzekzee3727653.d.html</link>
+            <guid>3192619</guid>
+            <pubDate>Sat, 29 Jul 2023 20:30:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国资管新规 让华尔街为大规模贷款紧缩头疼】根据对银行家的最新调查，美国和欧洲的信贷紧缩终于来临了。周三美联储宣布新一轮加息后，鲍威尔表示，周一的高级贷款官员民意调查（通常会对80多家贷款机构进行民意调查）将显示贷款标准收紧。下降幅度将受到密切关注。再加上美国新的监管规定，将迫使大型银行将其资本缓冲提高数十亿美元，这可以证明人们期待已久的贷款条件收紧正在上演。]]></title>
             <link>https://finance.sina.cn/7x24/2023-07-30/detail-imzekzee3722647.d.html</link>
@@ -321,17 +333,6 @@
             <title><![CDATA[习近平指出，以科技创新开辟发展新领域新赛道、塑造发展新动能新优势，是大势所趋，也是高质量发展的迫切要求，必须依靠创新特别是科技创新实现动力变革和动能转换。四川要发挥高校和科研机构众多、创新人才集聚的优势和产业体系较为完善、产业基础雄厚的优势，在科技创新和科技成果转化上同时发力。要完善科技创新体系，积极对接国家战略科技力量和资源，优化完善创新资源布局，努力攻克一批关键核心技术，着力打造西部地区创新高地。（新华社）]]></title>
             <guid>3192571</guid>
             <pubDate>Sat, 29 Jul 2023 13:44:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【习近平在四川考察时强调 推动新时代治蜀兴川再上新台阶 奋力谱写中国式现代化四川新篇章 返京途中在陕西汉中考察】中共中央总书记、国家主席、中央军委主席习近平近日在四川考察时强调，全面学习贯彻党的二十大精神，要牢牢把握新时代新征程党的中心任务，牢牢把握中国式现代化的科学内涵和本质要求，牢牢把握高质量发展这个首要任务，把贯彻新发展理念、构建新发展格局、促进共同富裕贯穿经济社会发展各方面全过程，深入推进发展方式、发展动力、发展领域、发展质量变革，开创我国高质量发展新局面。四川要进一步从全国大局把握自身的战略地位和战略使命，立足本地实际，明确发展思路和主攻方向，锻长板、补短板，努力在提高科技创新能力、建设现代化产业体系、推进乡村振兴、加强生态环境治理等方面实现新突破，推动新时代治蜀兴川再上新台阶，奋力谱写中国式现代化四川新篇章。（新华社）]]></title>
-            <guid>3192570</guid>
-            <pubDate>Sat, 29 Jul 2023 13:42:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【理想汽车：魔毯空气悬架车型累计交付量突破20万辆】据理想汽车官方微博，理想魔毯空气悬架车型累计交付量突破20万辆！ 理想汽车已成为全球空气悬架车型销量最大的品牌，已交付理想L系列车型中有93%配备了魔毯空悬，理想L8和理想L7用户主动选择空悬版本的比例达到81%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-29/detail-imzekkhn4047665.d.html</link>
-            <guid>3192569</guid>
-            <pubDate>Sat, 29 Jul 2023 13:29:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
