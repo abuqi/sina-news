@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 30 Jul 2023 20:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jul 2023 21:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【澳洲联储政策紧缩周期接近尾声 市场意见分歧】目前澳洲联储政策收紧行动即将进入最后阶段，而货币市场和经济学家对其可能在本周期最后一次加息的时间存在分歧。交易员预计，在季度通胀放缓和零售销售意外下滑之后，澳洲联储将在周二的会议上连续第二次将现金利率维持在4.1%。相比之下，多数经济学家预计加息25个基点将确保紧张的劳动力市场不会推高工资水平，同时物价涨幅徘徊在央行目标水平的两倍。澳大利亚联邦银行高级经济学家贝琳达·艾伦表示，她认为加息25个基点是最不令人后悔的途径，这应该可以抵消通胀和薪资前景中任何挥之不去的风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-31/detail-imzepkmc9332235.d.html</link>
+            <guid>3193018</guid>
+            <pubDate>Sun, 30 Jul 2023 21:03:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美联储卡什卡利：如果需要继续加息 美联储将坚持到底】美联储卡什卡利今日表示，尽管美联储为抑制物价上涨而采取的激进货币紧缩措施可能会导致一些失业和经济增长放缓，但目前美国的通胀前景“相当乐观”。他表示，即使利率如此之高，但消费者仍在继续消费，经济的韧性继续令人惊讶，目前的基本情况似乎是，我们的经济将放缓，但我们可以避免衰退。他说，目前美国失业率继续徘徊在3.6%的历史低点，不过未来几个月可能会升至4%。卡什卡利表示，我仍认为美国经济可以实现软着陆。最后他表示，如果将来我们需要继续加息，我们一定会这么做。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-31/detail-imzepkmc9329880.d.html</link>
+            <guid>3193017</guid>
+            <pubDate>Sun, 30 Jul 2023 20:25:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【上半年私募业绩分化明显】中国证券投资基金业协会日前发布数据显示，截至2023年6月末，存续私募基金管理人22114家，管理基金数量152322只，管理基金规模20.77万亿元。与此同时，据私募排排网数据显示，截至今年6月底，大约有24000只私募产品对外更新了半年度业绩，有57只私募上半年收益率超100%，但同时也有52只产品回撤幅度大于40%。]]></title>
             <guid>3193016</guid>
@@ -314,18 +326,6 @@
             <link>https://finance.sina.cn/7x24/2023-07-30/detail-imzenpfp9763749.d.html</link>
             <guid>3192923</guid>
             <pubDate>Sun, 30 Jul 2023 12:33:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【天齐锂业：目前公司各生产基地正常有序生产运营 各项经营管理工作稳定开展】被问及四川暴雨的影响，天齐锂业7月30日在互动平台表示，目前公司各生产基地正常有序生产运营，各项经营管理工作稳定开展。目前公司各锂化工产品加工基地的锂精矿原料均来源于公司控股的澳大利亚泰利森格林布什锂辉石矿。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-30/detail-imzenpfn2984437.d.html</link>
-            <guid>3192920</guid>
-            <pubDate>Sun, 30 Jul 2023 12:23:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【浙江海事启动海上船舶防台Ⅲ级应急响应】今年第6号台风“卡努”速度快、风力强、影响范围广，极有可能是今年正面登陆影响浙江的第一个台风，又恰逢农历天文大潮，对浙江海上生产安全带来巨大挑战。为确保海上防台平稳有序，浙江海事局于今天启动全省海上船舶防台Ⅲ级应急响应。目前浙江海上客运航线已停航60条，沿海260个涉水工程已全部停工，并停止试航船舶出江进浙试航作业。目前，浙江海事部门已向近1200家浙江籍航运公司发布防台预警，开展点验与避风引导8200余艘次，累计出动执法船艇80艘次、执法人员408人次，现场检查船舶308艘次。已协调专业救助船在浙江省沿海布防，浙江各港口港作拖轮也全部做好应急待命准备。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-30/detail-imzenpfn2983031.d.html</link>
-            <guid>3192910</guid>
-            <pubDate>Sun, 30 Jul 2023 12:15:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
