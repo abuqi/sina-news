@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 30 Jul 2023 17:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jul 2023 18:18:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【轻工业稳增长方案发布 点名六大万亿级规模行业】为进一步稳定工业生产、扩大有效需求，工信部联合国家发改委、商务部研究制定了《轻工业稳增长工作方案（2023~2024年）》。《方案》明确，着力稳住家居产品、塑料制品、造纸、皮革、电池、食品等六大万亿级规模行业，培育壮大老年用品、婴童用品、文体休闲用品、生物制造和预制化食品等市场空间大的新增长点。工信部消费品工业司司长何亚琼表示，总的考虑是把实施扩大内需战略同深化供给侧结构性改革有机结合，着力稳住重点行业，发挥重点区域带动作用，着力优化供给结构，提升产业链整体效率，着力创新消费场景，提振扩大消费需求。（第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-31/detail-imzepeck0354630.d.html</link>
+            <guid>3193006</guid>
+            <pubDate>Sun, 30 Jul 2023 17:51:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【基金经理费时费力写“小作文” 基民们难买账】随着公募基金季报的落幕，除了调仓路径外，基金经理的“小作文”也引发市场关注。随着越来越多投资者关注基金定期报告，不少基金经理重视定期报告的沟通作用，愿意花费时间和精力打磨“小作文”。他们往往洋洋洒洒上千字，其中不仅包含对市场的回顾和最新观点，还有对部分争议话题的见解和反思，以及对投资者的“心理按摩”。不过，也有部分基金经理“惜字如金”，仅用简短的百余字一笔带过。（第一财经）]]></title>
             <link>https://finance.sina.cn/7x24/2023-07-31/detail-imzenxvn0482034.d.html</link>
@@ -317,12 +323,6 @@
             <link>https://finance.sina.cn/7x24/2023-07-30/detail-imzenpfp9747339.d.html</link>
             <guid>3192859</guid>
             <pubDate>Sun, 30 Jul 2023 11:13:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【湖北发布地质灾害气象风险预警 部分区域滑坡风险较大】湖北省自然资源厅和湖北省气象局今天（30日）联合发布地质灾害气象风险预警：2023年7月30日17时—7月31日20时，预计三峡库区（秭归东部、夷陵），黄石地区、宜昌地区，十堰（十堰市城区北部和东部、郧阳中南部、丹江口西部）、襄阳（南漳南部）、恩施（咸丰、来凤、宣恩、鹤峰）、荆门（荆门市城区）、荆州（松滋）、武汉（黄陂北部）、咸宁（咸安区、嘉鱼、崇阳、通城、通山）、黄冈（麻城罗田、浠水局部、蕲春、武穴、黄梅）以及其他强降水区域发生崩塌、滑坡、泥石流的风险较大。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-30/detail-imzenpfn2970157.d.html</link>
-            <guid>3192858</guid>
-            <pubDate>Sun, 30 Jul 2023 11:13:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
