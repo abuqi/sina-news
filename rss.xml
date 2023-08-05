@@ -4,11 +4,44 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 05 Aug 2023 18:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Aug 2023 19:11:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：08月06日03时02分在山东德州市平原县（北纬37.16度，东经116.34度）发生3.0级地震，震源深度9千米。]]></title>
+            <guid>3199754</guid>
+            <pubDate>Sat, 05 Aug 2023 19:09:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯一油轮在刻赤海峡遭袭 俄外交部发言人谴责乌克兰袭击俄民用船只】当地时间8月5日，俄罗斯外交部发言人扎哈罗娃就俄“白鲑鱼”号油轮在刻赤海峡遭袭一事发表评论。扎哈罗娃表示，俄方强烈谴责乌克兰针对民用船只的袭击。这不仅威胁到船员生命，还可能造成大规模生态灾难，其发起人和执行者必将受到惩罚。俄罗斯联邦海洋和河流运输局称，当地时间5日凌晨，该机构收到报告，俄罗斯一艘名为“白鲑鱼”号的油轮在刻赤海峡附近航行时油轮机舱受损，可能是无人艇袭击所致。同一天，乌克兰媒体报道称，乌国家安全局和海军利用无人艇对一艘俄大型油轮实施爆炸。乌国家安全局局长马柳克称，俄罗斯船只或克里米亚大桥发生的任何爆炸事件都是“绝对合理和有效的步骤”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-06/detail-imzfestm4149745.d.html</link>
+            <guid>3199753</guid>
+            <pubDate>Sat, 05 Aug 2023 19:04:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【山东平原5.5级地震】本次地震震中附近的乡镇有王打卦镇、恩城镇、王杲铺镇、郝王庄镇、张华镇、雷集镇、腰站镇、前曹镇和苏留庄镇等。此次震中距平原县城8公里，距德州市区31公里，距济南市区82公里。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-06/detail-imzfesti7371980.d.html</link>
+            <guid>3199752</guid>
+            <pubDate>Sat, 05 Aug 2023 19:00:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：08月06日02时33分在山东德州市平原县（北纬37.16度，东经116.34度）发生5.5级地震，震源深度10千米。]]></title>
+            <guid>3199751</guid>
+            <pubDate>Sat, 05 Aug 2023 18:51:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网自动测定：08月06日02时33分在山东德州市平原县附近（北纬37.18度，东经116.34度）发生5.5级左右地震，最终结果以正式速报为准。]]></title>
+            <guid>3199749</guid>
+            <pubDate>Sat, 05 Aug 2023 18:38:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以科技力量打击金融黑产 全国首个平台试运行】近日，在2023年AIF联盟第一次会议暨系统平台启动仪式上，由西南政法大学指导、马上消费金融股份有限公司牵头研发的全国首个金融黑产打击系统平台开始试运行。平台运用多方隐私计算技术，建设黑产案件线索对碰平台，建立多方黑产线索碰撞机制，以科技的力量防范和打击金融领域黑产，净化行业环境，维护良好金融秩序。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-06/detail-imzfestp3974164.d.html</link>
+            <guid>3199748</guid>
+            <pubDate>Sat, 05 Aug 2023 18:25:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【2023年福田区科技创新创业企业赋能加速营开营】8月5日，2023年福田区科技创新创业企业赋能加速营在清华大学经济管理深圳研究院4楼举行。本次活动由福田区科技创新局、清华x-lab主办，清华大学经济管理深圳研究院协办，旨在为科创企业提供一个培养创新思维和实践能力的平台，解决科创企业在孵化和加速过程中的关键难题。]]></title>
             <link>https://finance.sina.cn/7x24/2023-08-06/detail-imzfesti4961972.d.html</link>
@@ -267,34 +300,6 @@
             <title><![CDATA[【河南迎新一轮强降雨，局部将出现11-12级雷暴大风】 据河南省气象台预报，8月5日10时至6日8时，黄河以北和中东部、西部和西南部部分县市将出现8-10级(局部11-12级)雷暴大风。河南省气象台5日10时发布强对流蓝色预警。郑州市气象台5日15时40分发布暴雨黄色预警信号。针对本轮强降雨过程，河南省防汛抗旱指挥部办公室从加强地下空间管控、密切关注预警信息、居家安全、雨中驾驶、危险区域、防范自然灾害等发布安全提示，提醒民众做好防范措施，避免意外发生。（中新网）]]></title>
             <guid>3199704</guid>
             <pubDate>Sat, 05 Aug 2023 13:09:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国投资者投资泰国热情持续高涨】 8月4日，泰国投资促进委员会发布报告称，2023年上半年泰国新增外商投资项目507个，其中来自中国的投资项目最多，达到132个，投资总额达到615.3亿泰铢(约126亿元人民币)，占外国投资总额的20%。这些来自中国的投资项目主要有：轮胎及橡胶制品生产、机动车及配件制造、钢铁制造、房地产、发电和配电等。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-05/detail-imzfehcp7572454.d.html</link>
-            <guid>3199703</guid>
-            <pubDate>Sat, 05 Aug 2023 13:04:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江苏引入区外“绿电”超6000亿千瓦时】 日前从国网江苏省电力有限公司获悉，三大“西电东送”输电工程——龙泉—政平±500千伏直流输电工程、锦屏—苏南±800千伏特高压直流输电工程、白鹤滩—江苏±800千伏特高压直流输电工程已累计向江苏输送来自西部地区的清洁水电达6134亿千瓦时。江苏近年来对绿电、绿证的需求呈现出蓬勃发展态势。截至目前，江苏省内绿电交易累计成交电量56.89亿千瓦时，绿证成交量100万张，绿证单笔交易量和总成交量均位居国网经营区域首位。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-05/detail-imzfehcr4348475.d.html</link>
-            <guid>3199701</guid>
-            <pubDate>Sat, 05 Aug 2023 12:59:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家防总紧急调拨物资支援重点地区防汛救灾】国家防总办公室、应急管理部8月5日组织防汛防台风专题视频会商调度，与中国气象局、水利部、自然资源部会商研判华北、东北暴雨洪涝灾害和6号台风“卡努”发展趋势，视频连线天津、吉林、黑龙江、河北等省份防办，安排部署重点地区防汛救援工作。(央视新闻)]]></title>
-            <guid>3199700</guid>
-            <pubDate>Sat, 05 Aug 2023 12:47:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国风投公司Bertelsman Investments的CEO Carsten Coesfeld：计划未来3-5年配置7亿美元到中国的初创公司领域。]]></title>
-            <guid>3199699</guid>
-            <pubDate>Sat, 05 Aug 2023 12:46:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海南自贸港推介会在美举行】以推介海南自由贸易港为主题的“2023中国海南之夜”活动4日晚在美国夏威夷州首府火奴鲁鲁举行。海南省副省长陈怀宇在致辞中表示，当前海南正驶入建设世界级自由贸易港的快车道，不仅展示了中国改革开放的卓越成就，也为世界各地企业提供了巨大的市场潜力和发展机遇。海南省和夏威夷州1992年结为友好省州，双方此前在农业、进出口、旅游和文化产业等领域展开了广泛合作，希望双方抓住海南自贸港建设所创造的市场机遇，进一步加强在众多领域，特别是在国际旅游营销和旅游产品开发方面的合作。 (新华社)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-05/detail-imzfehcr4345482.d.html</link>
-            <guid>3199698</guid>
-            <pubDate>Sat, 05 Aug 2023 12:45:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
