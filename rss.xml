@@ -4,11 +4,81 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Mon, 07 Aug 2023 19:12:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 20:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：阿波罗资本将发行10亿美元的可转换优先股。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-08/detail-imzfmmfn2275837.d.html</link>
+            <guid>3201254</guid>
+            <pubDate>Mon, 07 Aug 2023 20:15:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Beyond Meat二季度净营收逊于预期，下调全年业绩指引，股价盘后跌11%】人造肉公司Beyond Meat二季度净营收1.021亿美元，分析师预期1.085亿美元。二季度美国净营收0.613亿美元，分析师预期0.698亿美元。二季度国际净营收0.409亿美元，分析师预期0.365亿美元。二季度调整后EBITDA亏损0.408亿美元，分析师预期亏损0.422亿美元。二季度毛利润率2.2%，分析师预期9.61%预计全年净营收3.60亿-3.80亿美元，公司原本预计3.75亿-4.15亿美元。预计全年运营开支将达到2.45亿美元，分析师预期2.506亿美元，公司原本预计2.50亿美元。预计全年毛利润增长率将处于0%-10%区间的高端。Beyond Meat（BYND）美股盘后跳水8.38%，跌幅随后扩大至11%。]]></title>
+            <guid>3201253</guid>
+            <pubDate>Mon, 07 Aug 2023 20:08:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[派拉蒙全球（Paramount Global）二季度营收76.2亿美元，分析师预期74.3亿美元。]]></title>
+            <guid>3201252</guid>
+            <pubDate>Mon, 07 Aug 2023 20:04:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伯克希尔哈撒韦B类股收涨3.57%，报362.49美元，创收盘历史新高。
+A类股也收涨3.33%，报551348.01美元，在8月3日站上54.0万美元关口的基础上，进一步创收盘历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-08/detail-imzfmmfi1485004.d.html</link>
+            <guid>3201251</guid>
+            <pubDate>Mon, 07 Aug 2023 20:02:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【热门中概股多数下跌】热门中概股多数下跌，腾讯音乐跌超3%，哔哩哔哩跌超2%，富途控股跌超1%，百度、京东、阿里巴巴、网易小幅下跌。小鹏汽车涨近2%，理想汽车涨超1%，蔚来、唯品会小幅上涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-08/detail-imzfmmfn2272815.d.html</link>
+            <guid>3201250</guid>
+            <pubDate>Mon, 07 Aug 2023 20:01:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国消费者信贷上升，受非循环债务激增推动】 美国6月消费者借款超预期增长，因非循环信贷创下8个月来最大升幅。美联储周一（8月7日）公布的数据显示，信贷总额当月增加了178亿美元。前月增量则创下了逾两年来最低纪录。经济学家6月预估中值为增加130亿美元。学费和购车贷款等非循环信贷当月增加了185亿美元。另一项数据显示，6月汽车销售录得了环比上升。包括信用卡在内的循环信贷余额减少6.045亿美元，为两年多来首次下滑。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-08/detail-imzfmmfn2272659.d.html</link>
+            <guid>3201249</guid>
+            <pubDate>Mon, 07 Aug 2023 20:01:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股三大指数集体收涨 伯克希尔创历史收盘新高】美股高开高走，三大指数集体收涨，道指涨1.16%，标普500指数涨0.9%，纳指涨0.61%。伯克希尔涨超3%，创历史收盘新高。大型科技股多数上涨，奈飞、谷歌涨超2%，亚马逊、脸书涨超1%，微软小幅上涨；特斯拉、苹果跌超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-08/detail-imzfmmfp9049571.d.html</link>
+            <guid>3201248</guid>
+            <pubDate>Mon, 07 Aug 2023 20:00:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【供应压力带动美债收益率上涨，收益率曲线趋陡】周一（8月7日）纽约尾盘，美国10年期基准国债收益率上涨5.26个基点，报4.0864%，盘中交投于4.0149%-4.1209%区间。两年期美债收益率涨1.04个基点，报4.7724%，盘中交投于4.7515%-4.8499%区间。三个月期国库券/10年期美债收益率利差涨4.564个基点，报-133.066个基点。02/10年期美债收益率利差涨4.850个基点，报-68.806个基点。05/30年期美债收益率利差涨3.498个基点，报+9.859个基点。三年期美债收益率涨0.57个基点，报4.4531%，脱离欧市早盘涨至的日高4.5363%；五年期美债收益率涨2.45个基点，报4.1564%；七年期美债收益率涨3.91个基点，报4.1246%。20年期美债收益率涨涨5.86个基点，报4.4238%；30年期美债收益率涨6.20个基点，报4.2627%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-08/detail-imzfmmfp9048405.d.html</link>
+            <guid>3201247</guid>
+            <pubDate>Mon, 07 Aug 2023 19:54:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国得州电力可靠性委员会(ERCOT)表示，由于持续预测气温升高、电力需求增加和潜在的低储备情况，天气警报已延长至8月11日。]]></title>
+            <guid>3201246</guid>
+            <pubDate>Mon, 07 Aug 2023 19:41:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高盛集团据悉将在本周四CPI数据发布前发行两种期限的债券，规模27.5亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-08/detail-imzfmmfp9045222.d.html</link>
+            <guid>3201245</guid>
+            <pubDate>Mon, 07 Aug 2023 19:35:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国中央司令部：已派遣3000多名士兵前往红海】 据美国《国会山报》当地时间8月7日报道，美国中央司令部表示，为应对伊朗“骚扰和扣押商船”的行为，美国已派遣3000多名士兵6日搭乘两栖攻击舰“巴丹”号和船坞登陆舰“卡特霍尔”号抵达红海。美国中央司令部称，此次行动是预先宣布的军事部署的一部分。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-08/detail-imzfmmfp9044309.d.html</link>
+            <guid>3201244</guid>
+            <pubDate>Mon, 07 Aug 2023 19:30:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【瑞银留用12名瑞信银行家 以协助领导美洲业务】瑞银集团将继续聘用12名瑞信银行家，以帮助前者领导其在美洲的全球银行业务。瑞银寻求利用其前竞争对手在美国的业务来进行扩张。根据媒体看到的一份发给员工的备忘录，留在瑞银全球银行业务美洲领导团队中的员工包括美洲全球行业团队主管Emre Gunalp，该地区医疗保健联席主管Jason English以及美洲金融保荐人联席主管Diron Jebejian。凭借对瑞信的收购，瑞银进一步在美国站稳脚跟，以求在该市场更好地与华尔街对手展开竞争，并将业务拓展至传统市场以外。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-08/detail-imzfmmfn2265557.d.html</link>
+            <guid>3201243</guid>
+            <pubDate>Mon, 07 Aug 2023 19:21:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[意大利副总理：内阁批准对银行征收40%的暴利税，该措施限于2023年。]]></title>
             <link>https://finance.sina.cn/7x24/2023-08-08/detail-imzfmmfm9579303.d.html</link>
@@ -225,76 +295,6 @@
             <title><![CDATA[智利财政部长：美元最近的走强不会对通胀产生重大影响。美元走强可能只是暂时的，并不会对当地货币政策产生影响。]]></title>
             <guid>3201203</guid>
             <pubDate>Mon, 07 Aug 2023 16:28:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【两融余额连续六个交易日增加，券业“降准”将提振两融业务】据统计，全市场两融余额连续六个交易日增加，截至8月4日达15894.86亿元，较年初增加2.87%。业内人士表示，上周，中国证券登记结算有限公司（简称“中国结算”）宣布的证券业“降准”利好券商开展两融等重资本业务，券商开展此类业务的“资金担保”压力将有所降低，后续两融业务将平稳增长。年初以来，多家券商公布了定增预案，均拟将部分募资投向包括两融在内的资本中介业务。不过，不少券商在修改后的定增方案中，压缩了两融等资本中介业务的募资投向。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-08/detail-imzfkyrs2491417.d.html</link>
-            <guid>3201202</guid>
-            <pubDate>Mon, 07 Aug 2023 16:27:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瑞银重组全球银行部门领导层 宣布了近40项任命】瑞银在推进与前竞争对手瑞信的整合之际，重组投行部门的领导层。瑞银在周一发送给员工的备忘录中宣布了近40项任命，其中有六位是瑞信的银行家，包括David Kostel被任命为行业投行业务全球联席主管，以及Tom Churton被任命为全球幕僚长。据媒体看到的备忘录，全球银行业务的执行主席Michael Santini到本季度末将卸任。瑞银发言人证实了该备忘录。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-08/detail-imzfkyrt9266618.d.html</link>
-            <guid>3201201</guid>
-            <pubDate>Mon, 07 Aug 2023 16:21:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【松花江流域85条河流超警】 国家防总副总指挥、水利部部长李国英7日在主持水利部专题会商会议时说，松花江流域洪水过程仍在发展中，目前已造成85条河流超警，影响范围大，超警河流多。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-08/detail-imzfkyrs2489418.d.html</link>
-            <guid>3201200</guid>
-            <pubDate>Mon, 07 Aug 2023 16:21:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以太坊回落至1800美元/枚下方，日内跌1.16%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-08/detail-imzfkyrs2488394.d.html</link>
-            <guid>3201199</guid>
-            <pubDate>Mon, 07 Aug 2023 16:17:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国天然气期货日内大涨6.00%，现报2.732美元/百万英热。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-08/detail-imzfkyrr9823396.d.html</link>
-            <guid>3201198</guid>
-            <pubDate>Mon, 07 Aug 2023 16:14:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【QDII基金规模创新高，成立数量激增，基金公司积极布局QDII产品线】 Wind数据显示，截至2023年二季度末，QDII基金规模合计3609亿元，创下历史新高。今年以来截至8月7日，全市场共成立35只QDII基金，仅4月便有10只QDII基金成立，为近三年来成立数量最多月份。目前全市场共253只QDII基金，规模占全市场公募基金比例1.18%。此外，共40家公募基金公司（含券商资管）旗下拥有QDII基金，其中既包括易方达基金、广发基金、华夏基金等规模居前的基金公司，也有中信保诚基金等中小型公司。具体来看，易方达基金、广发基金、华夏基金3家头部公司拥有的运作中QDII基金数量累计占比超五成。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-08/detail-imzfkyrt9264356.d.html</link>
-            <guid>3201197</guid>
-            <pubDate>Mon, 07 Aug 2023 16:13:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国央行首席经济学家皮尔：英国通胀率仍然过高】英国央行首席经济学家皮尔表示，英国通胀率仍然过高；多次加息对经济的冲击还有待显现；自5月以来，有许多消息显示通胀仍然顽固。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-08/detail-imzfkyrs2487165.d.html</link>
-            <guid>3201196</guid>
-            <pubDate>Mon, 07 Aug 2023 16:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其总统埃尔多安：土耳其将再次将通胀率降至个位数。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-08/detail-imzfkyrp1724388.d.html</link>
-            <guid>3201195</guid>
-            <pubDate>Mon, 07 Aug 2023 16:10:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[脑机接口公司Neuralink宣布由创始人基金领导的2.8亿美元D轮融资。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-08/detail-imzfkyrp1724304.d.html</link>
-            <guid>3201194</guid>
-            <pubDate>Mon, 07 Aug 2023 16:10:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【普京指示俄国家技术集团增加无人机产量】 当地时间8月7日，俄罗斯总统普京在会见俄罗斯国家技术集团负责人时，指示该公司要进一步增加“立方体”无人机和“柳叶刀”无人机的产量。（央视）]]></title>
-            <guid>3201193</guid>
-            <pubDate>Mon, 07 Aug 2023 16:06:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[道指上涨370点，涨幅扩大至超过1.0%，成分股安进涨超3.6%，波音涨2.7%，陶氏化学和强生涨超2.0%，摩根大通、雪佛龙、耐克、可口可乐、高盛等涨幅不足0.9%，3M跌0.4%，苹果跌1.82%目前表现最差。]]></title>
-            <guid>3201192</guid>
-            <pubDate>Mon, 07 Aug 2023 16:01:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑日元USD/JPY日内涨超0.50%，现报142.47。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-08/detail-imzfkyrs2482979.d.html</link>
-            <guid>3201191</guid>
-            <pubDate>Mon, 07 Aug 2023 16:01:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
