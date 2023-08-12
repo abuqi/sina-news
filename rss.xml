@@ -4,11 +4,16 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 12 Aug 2023 18:18:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Aug 2023 19:11:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【爆火！“最牛投资标的”引百万人蹲守！网友：“心情像坐过山车”】数据显示，最近一周，淘宝搜索金枕榴莲的热度上升了418%。在拼多多、盒马、淘宝直播间等平台，今夏榴莲消费格外火爆。一位营销专家对记者表示，“有网友开出一点点榴莲肉，也有网友开出巨大果肉，这种强烈的反差，自然会引起年轻人的强烈共鸣。”将消费者关注的榴莲出肉率、价格、品质等传统要素，演变成“盲盒游戏”的一部分，这种娱乐性和话题性已经超出了一种水果为消费者提供的价值。]]></title>
+            <guid>3206619</guid>
+            <pubDate>Sat, 12 Aug 2023 18:59:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【法国人由于通货膨胀食品购买量减少11.4%】法国消费者由于价格上涨一年半来购买食品的数量破纪录地减少了11.4%。电视台的资料中显示：“由于通货膨胀法国人改变了消费习惯：首先转向折扣、减价和零售商的品牌。法国国家统计局报告称，虽然 7 月的食品价格的年度增长幅度低于6 月，但肉类、牛奶、谷物、奶酪和鸡蛋、植物油的价格增长幅度仍然很大。]]></title>
             <link>https://finance.sina.cn/7x24/2023-08-13/detail-imzfyqqm2987532.d.html</link>
@@ -314,12 +319,6 @@
             <link>https://finance.sina.cn/7x24/2023-08-12/detail-imzfxxsp7665223.d.html</link>
             <guid>3206476</guid>
             <pubDate>Sat, 12 Aug 2023 12:32:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【澳大利亚新南威尔士州发生飞机坠毁事故致1人死亡】澳大利亚新南威尔士州12日发生一起旋翼机坠毁事故，造成1人死亡、1人重伤。据当地媒体“9news”报道，当天16时30分，位于新南威尔士州纽卡斯尔的雷蒙德露台以北35公里处发生一起旋翼机坠毁事故。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-12/detail-imzfxxsr4442019.d.html</link>
-            <guid>3206475</guid>
-            <pubDate>Sat, 12 Aug 2023 12:30:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
