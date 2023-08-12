@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 12 Aug 2023 16:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Aug 2023 17:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【亚马逊在投诉后退还了部分卖家资金】在许多英国和欧盟卖家抱怨资金被意外扣留后，亚马逊已开始将部分卖家的资金退还给他们。这一政策的改变导致一些卖家的业务几近崩溃。亚马逊告诉一些卖家，现在将把暂时扣款推迟到2024年1月。亚马逊在五月份发布的最初政策更新表示，它将暂时扣留卖家资金以满足客户的退款要求，卖家只能在交货日期加上另外7天后才能提取资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-13/detail-imzfykhv8107449.d.html</link>
+            <guid>3206615</guid>
+            <pubDate>Sat, 12 Aug 2023 16:58:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【沙特任命首位驻巴勒斯坦大使】【沙特任命首位驻巴勒斯坦大使】根据巴勒斯坦官方通讯社消息，当地时间12日，在巴勒斯坦驻约旦首都安曼大使馆，沙特驻约旦大使纳伊夫·苏代里向巴勒斯坦总统阿巴斯的外交事务顾问马吉迪·阿勒哈利迪递交了国书。纳伊夫·苏代里同时将担任沙特驻巴勒斯坦首位非常驻特命大使。这也是沙特首次任命该国驻巴勒斯坦大使。马吉迪·阿勒哈利迪表示，巴方欢迎沙特任命大使，这一行动将有助于加强两国及两国人民的关系。]]></title>
             <link>https://finance.sina.cn/7x24/2023-08-13/detail-imzfykhu1322936.d.html</link>
@@ -314,12 +320,6 @@
             <link>https://finance.sina.cn/7x24/2023-08-12/detail-imzfxxsr4441702.d.html</link>
             <guid>3206472</guid>
             <pubDate>Sat, 12 Aug 2023 12:28:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【辽宁南部地区迎来强降雨过程 大连发布暴雨红色预警】根据中央气象台发布的雷达拼图显示，辽宁中东部和南部地区已陆续出现降水，其中南部地区雷达回波强度较高。8月12日18时41分大连市旅顺口区气象台发布暴雨红色预警信号：过去2小时，旅顺口区的降水量已达到40到80毫米；预计未来1到2小时，旅顺口区还将出现40到80毫米的降水，请广大市民暂停户外作业，注意内涝引起的道路安全。此外，大连市的金州和普兰店也发布了暴雨预警，各相关部门需做好防范应对措施。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-12/detail-imzfxxsp7663474.d.html</link>
-            <guid>3206470</guid>
-            <pubDate>Sat, 12 Aug 2023 12:21:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
