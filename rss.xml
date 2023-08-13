@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 13 Aug 2023 17:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Aug 2023 18:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【7月新增信贷创新低 进一步降准降息可期】国内需求不足、预期不稳等因素影响下，7月信贷与社融增量低于市场预期，出现相对明显的季节性回落。8月11日，央行发布的金融数据显示，7月份社会融资规模增量为5282亿元，比上年同期少2703亿元；7月份人民币贷款增加3459亿元，同比少增3498亿元。其中，住户贷款减少2007亿元。虽然7月新增贷款低于6月符合规律，但与去年同期相比明显减少也引发了市场关注。综合市场分析来看，在稳增长政策持续发力背景下，当月金融数据明显偏低，主要缘于透支效应及有效需求不足、实体经济融资需求仍然较为疲软等因素影响。后续应对可采取降准降息等货币政策手段，稳财政和宽货币组合协同推进，进一步增强经济稳步回升动能。（第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-14/detail-imzhatpp9961758.d.html</link>
+            <guid>3207149</guid>
+            <pubDate>Sun, 13 Aug 2023 17:52:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【7月居民存贷双降 存量房贷利率下调必要性上升】7月金融数据出炉，居民存款、贷款双降引发市场关注。中国人民银行8月11日公布的数据显示，7月新增居民部门贷款减少2007亿元，同比多减3224亿元；其中，以消费为代表的居民短期贷款减少1335亿元，同比多减1066亿元；以个人住房贷款为代表的居民中长期贷款减少672亿元，同比多减2158亿元，这也与6月居民信贷高增形成鲜明对比。与此同时，7月份人民币存款减少1.12万亿元，同比多减1.17万亿元，其中住户存款减少8093亿元。有业内人士指出，居民集中利用前期借贷资金和自身存款进行贷款偿还或是7月居民存款、贷款双降的原因之一。楼市恢复不如预期、居民加杠杆意愿不强，调降存量房贷利率的必要性越来越高。（第一财经）]]></title>
             <link>https://finance.sina.cn/7x24/2023-08-14/detail-imzhatpt6869238.d.html</link>
@@ -331,12 +337,6 @@
             <link>https://finance.sina.cn/7x24/2023-08-13/detail-imzhaarz7209472.d.html</link>
             <guid>3206870</guid>
             <pubDate>Sun, 13 Aug 2023 11:07:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【前7个月北京地区进出口突破2万亿元，同比增长3.8%】北京海关8月13日消息，今年前7个月北京地区进出口2.07万亿元(人民币，下同)，较去年同期增长3.8%，占全国进出口总值的8.8%。前7个月，北京地区进口1.73万亿元，增长2.2%；出口3395.3亿元，增长13%。在一系列进出口帮扶政策下，北京地区高端产业发展再创新格局。前7个月，北京地区进出口医药材及药品769.2亿元，增长12.6%，比重较去年同期提高4.7个百分点；北京地区太阳能电池、电动载人汽车、锂离子蓄电池“新三样”产品分别出口15.9亿元、12.1亿元、9亿元，分别增长59.6%、175.7%、53.6%。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-13/detail-imzhaary0431696.d.html</link>
-            <guid>3206869</guid>
-            <pubDate>Sun, 13 Aug 2023 11:02:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
