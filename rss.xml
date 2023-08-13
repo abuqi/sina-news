@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 13 Aug 2023 19:11:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Aug 2023 20:15:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【7月上市猪企出栏量同比大增 猪价创年内新高后再遭看空】8月以来，国内生猪价格（外三元）连续上涨，突破17元/公斤，环比涨幅达22.62%，创下年内新高。与此同时，A股上市猪企都已发布了7月份销售简报，因当月猪价低迷，全行业仍深陷亏损。多数上市猪企的7月份生猪销售均价同比大幅下降，环比保持微降趋势，部分猪企凭借销量大幅增长，实现收入环比微增。统计销售简报可以发现，在今年猪肉整体供过于求的背景下，1~7月，上市猪企累计出栏量同比增长逾15%，其中7月同比增长超29%，使得下半年猪产业产能去化的压力更重。（第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-14/detail-imzhaxvp9989012.d.html</link>
+            <guid>3207151</guid>
+            <pubDate>Sun, 13 Aug 2023 19:34:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【互联互通交易机制再优化 拟增加大宗交易】沪深港股通交易方式将进一步丰富，增加大宗交易（非自动对盘交易）。8月11日，中国证监会和中国香港证监会发布联合公告，宣布就推动大宗交易（非自动对盘交易）纳入互联互通达成共识。即境外投资者通过沪股通、深股通参与沪深交易所的大宗交易，境内投资者通过港股通参与香港联合交易所有限公司的非自动对盘交易。通过沪股通和深股通进行的大宗交易以及通过港股通进行的非自动对盘交易将同步开通。瑞银全球金融市场部中国主管房东明分析称，对境内外投资者而言，这是一个积极的信号，因为大宗交易是一个市场化的交易机制，可以减少交易成本、提高交易效率、推动市场化进程。同时也期盼沪深港股通中增加市场对冲产品和风险管理机制，使得投资者的交易更为高效。对于下一步，中国证监会、中国香港证监会表示，将指导两地交易所及结算机构做好大宗交易（非自动对盘交易）涉及的业务、技术和监管安排的研究，充分征求市场意见，制定实施方案。（第一财经）]]></title>
             <link>https://finance.sina.cn/7x24/2023-08-14/detail-imzhaxvp9982628.d.html</link>
@@ -331,12 +337,6 @@
             <link>https://finance.sina.cn/7x24/2023-08-13/detail-imzhaary0435682.d.html</link>
             <guid>3206872</guid>
             <pubDate>Sun, 13 Aug 2023 11:29:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中证1000指数规模较去年末大增91%】今年以来，中证1000指增基金无论是规模还是业绩都实现双丰收。在各路资金青睐下，中证1000指增基金规模较去年末大增91%至262亿元，与此同时在超额收益方面，完胜同期沪深300增强、中证500增强产品。多位业内人士表示，因为市场风格偏小票，所以作为小盘代表指数的中证1000能跑赢其他几个大盘和中盘指数。同时提到，在竞争日趋激烈的背景下，要想在产品超额收益和跟踪误差控制上做出更好的成绩，需要不断打磨好策略，才能为投资者创造更加长期稳健的超额回报。（中国基金报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-13/detail-imzhaarz7211481.d.html</link>
-            <guid>3206871</guid>
-            <pubDate>Sun, 13 Aug 2023 11:21:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
