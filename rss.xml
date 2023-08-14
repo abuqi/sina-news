@@ -4,11 +4,68 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Mon, 14 Aug 2023 18:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 19:12:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[在岸人民币兑美元北京时间03:00收报7.2580，较上一交易日夜盘收盘跌192点。成交量404.68亿美元。]]></title>
+            <guid>3208252</guid>
+            <pubDate>Mon, 14 Aug 2023 19:03:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Esmark提议，以每股35美元现金收购美国钢铁。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhfaup9002382.d.html</link>
+            <guid>3208251</guid>
+            <pubDate>Mon, 14 Aug 2023 18:56:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【老虎环球二季度建仓做多礼来制药和诺和诺德】13F报告显示：老虎环球二季度建仓做多礼来制药和诺和诺德；清仓苹果和应用材料等17只股票；增持Meta Platforms、阿波罗全球管理、Take-Two互动软件、英伟达、等10只股票；减持亚马逊、谷歌A、京东、Snowflake等19只股票；重仓Meta Platforms（111万股，持股市值24.6亿美元）、微软（19.3亿美元）、阿波罗（9.479亿美元）、京东（7.193亿美元）、Take-Two互动软件。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhfaur5778973.d.html</link>
+            <guid>3208250</guid>
+            <pubDate>Mon, 14 Aug 2023 18:52:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国能源信息署（EIA）：预计9月份美国主要页岩油产区的石油产量将降至2023年5月以来的最低水平。]]></title>
+            <guid>3208249</guid>
+            <pubDate>Mon, 14 Aug 2023 18:43:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国能源信息署（EIA）：预计美国页岩油产量将在9月份下降2万桶/日至942桶/日，将8月页岩油产量预测从940万/日桶修正至944万桶/日。]]></title>
+            <guid>3208248</guid>
+            <pubDate>Mon, 14 Aug 2023 18:38:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NYMEX 9月天然气期货收涨0.65%，报2.7950美元/百万英热单位。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhfaup8999052.d.html</link>
+            <guid>3208247</guid>
+            <pubDate>Mon, 14 Aug 2023 18:34:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI 9月原油期货收跌0.68美元，跌幅0.82%，报82.51美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhfaur5776142.d.html</link>
+            <guid>3208246</guid>
+            <pubDate>Mon, 14 Aug 2023 18:33:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沪金夜盘收跌0.04%，沪银收跌0.14%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhfaur5776115.d.html</link>
+            <guid>3208245</guid>
+            <pubDate>Mon, 14 Aug 2023 18:33:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上期所原油期货2309合约夜盘收跌0.12%，报656.80元人民币/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhfaur5776102.d.html</link>
+            <guid>3208244</guid>
+            <pubDate>Mon, 14 Aug 2023 18:33:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日本岸田内阁支持率创新低】日本广播协会14日公布的8月民调结果显示，日本首相岸田文雄领导的内阁支持率连续3个月下滑，再创新低。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhfaup8998579.d.html</link>
+            <guid>3208243</guid>
+            <pubDate>Mon, 14 Aug 2023 18:30:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【摩根大通策略师：CPI数据显示美国通胀率将持于3%高位】 摩根大通首席市场策略师Kolanovic周一（8月14日）指出，美国7月CPI数据表明，该国通胀率可能会保持在3%左右，这仍高于美联储设定的2%这一长期价格稳定目标。这位分析师表示，全球工业部门恢复增长，以及大宗商品价格上涨的趋势，将使核心服务业通胀保持顽固，而7月CPI报告强化了他本人之前的观点，即通胀可能徘徊在3%。]]></title>
             <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhfaur5773762.d.html</link>
@@ -257,56 +314,6 @@
             <link>https://finance.sina.cn/7x24/2023-08-14/detail-imzhewnr9098889.d.html</link>
             <guid>3208202</guid>
             <pubDate>Mon, 14 Aug 2023 15:46:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高盛：预计美国零售汽油价格将在2024年前平均为每加仑3.6美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-14/detail-imzhewnt5874902.d.html</link>
-            <guid>3208201</guid>
-            <pubDate>Mon, 14 Aug 2023 15:36:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登要求美国联合汽车工人和汽车公司达成“公平”协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-14/detail-imzhewnp8904862.d.html</link>
-            <guid>3208200</guid>
-            <pubDate>Mon, 14 Aug 2023 15:33:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部拍卖三个月期国库券，得标利率5.295%（前次为5.290%），投标倍数3.12（前次为2.83）。拍卖六个月期国库券，得标利率5.290%（前次为5.265%），投标倍数2.78（前次为2.92）。]]></title>
-            <guid>3208199</guid>
-            <pubDate>Mon, 14 Aug 2023 15:32:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【因巴拿马型船运价创逾三个月新高，波罗的海干散货运价指数上涨】波罗的海干散货运价指数周一小幅上涨，因巴拿马型船运价触及逾三个月高点，抵消了海岬型船运价的下跌。波罗的海干散货运价指数涨6点或0.53%至1135点。海岬型船运价指数下跌22点或1.4%，至1570点，为近三周最低水平。海岬型船日均获利减少183美元，至13017美元。巴拿马型船运价指数上涨28点或2.1%，至1365点。巴拿马型船日均获利增加244美元，至12281美元。超灵便型散货船运价指数上涨17点至745点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-14/detail-imzhewnt5873743.d.html</link>
-            <guid>3208198</guid>
-            <pubDate>Mon, 14 Aug 2023 15:28:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【沙特主权财富基金二季度增持Lucid集团和阿里巴巴ADR】13F报告显示：沙特主权财富基金二季度增持电动汽车生产商Lucid集团和阿里巴巴ADR等三只股票；重仓Lucid集团（持股13.7万股，持仓市值94.7亿美元）、艺电（32.2亿美元）、动视暴雪（32亿美元）、优步（31.4亿美元）。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-14/detail-imzhewnp8903978.d.html</link>
-            <guid>3208197</guid>
-            <pubDate>Mon, 14 Aug 2023 15:28:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国内单跨跨度最大飞机滑行道桥箱梁整体浇筑完成 南宁机场未来将“双跑道”运行】广西南宁吴圩国际机场改扩建工程B线飞机滑行道桥箱梁整体8月14日浇筑完成。该桥成为广西首座飞机滑行道桥，也是国内目前单跨跨度最大的飞机滑行道桥，标志着机场改扩建工程北侧滑行桥箱梁施工已基本进入尾声。改扩建工程项目完成后，南宁机场将开启“双跑道”运行新模式，综合保障能力、整体运行效率和服务水平将得到大幅提升。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-14/detail-imzhewnp8903675.d.html</link>
-            <guid>3208196</guid>
-            <pubDate>Mon, 14 Aug 2023 15:26:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西财长Haddad：我很高兴看到巴西没有遭受投机性攻击，美元兑巴西雷亚尔USD/BRL的汇率低于5。]]></title>
-            <guid>3208195</guid>
-            <pubDate>Mon, 14 Aug 2023 15:25:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[克里夫斯天然资源公司(CLF.N)首席执行官：有信心收购美国钢铁(X.N)会成功，与美国钢铁工人联合会之间没有任何分歧。]]></title>
-            <guid>3208194</guid>
-            <pubDate>Mon, 14 Aug 2023 15:19:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据国际文传电讯社：哈萨克斯坦能源部称，哈萨克斯坦可能会调整2023年的石油产量预测。]]></title>
-            <guid>3208192</guid>
-            <pubDate>Mon, 14 Aug 2023 15:15:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
