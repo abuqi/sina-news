@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 19 Aug 2023 20:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Aug 2023 21:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【西共体代表团与尼日尔在押总统巴祖姆会面】当地时间8月19日，由尼日利亚前总统阿卜杜勒-萨拉米·阿布巴卡尔和西非国家经济共同体（西共体）委员会主席奥马尔·阿利乌·图雷率领的西共体代表团抵达尼日尔首都尼亚美，为与尼日尔军事当局达成和平解决方案进行最后的外交努力。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-20/detail-imzhustp7415357.d.html</link>
+            <guid>3213941</guid>
+            <pubDate>Sat, 19 Aug 2023 20:54:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加拿大不列颠哥伦比亚省火情继续蔓延 1.5万人收到强制疏散令】当地时间19日，加拿大不列颠哥伦比亚省的山火火情仍在继续蔓延。在过去36小时内，该省遭遇强风和干雷暴天气，加剧了火情，同时导致新的起火点出现。18日，不列颠哥伦比亚省宣布启动紧急状态。目前，该省已有1.5万人收到强制疏散令，另有2万人接到准备疏散的警报。该省官员表示，未来几天仍将面临“艰难局面”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-20/detail-imzhustp7415015.d.html</link>
+            <guid>3213940</guid>
+            <pubDate>Sat, 19 Aug 2023 20:37:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【114人死亡 美国致命火灾 重灾区已完全封闭 “警告”范围进一步扩大】根据美国夏威夷州毛伊县政府发布的最新报告，截至当地时间8月18日晚，毛伊岛大火的死亡人数上升至114人。美国媒体报道说，这场大火是一个多世纪以来美国最致命的火灾。]]></title>
             <link>https://finance.sina.cn/7x24/2023-08-20/detail-imzhustp7414430.d.html</link>
@@ -291,18 +303,6 @@
             <link>https://finance.sina.cn/7x24/2023-08-19/detail-imzhtvpz4652926.d.html</link>
             <guid>3213732</guid>
             <pubDate>Sat, 19 Aug 2023 13:04:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度能源部门表示，印度已为绿色氢能产业制定了标准。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-19/detail-imzhtvpz4652166.d.html</link>
-            <guid>3213729</guid>
-            <pubDate>Sat, 19 Aug 2023 12:58:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宜昌又建成一座机场？官方：假的】近日，一则“宜都五眼泉飞机场建成了”的视频在网络传播，经宜昌市宜都警方核实，此消息为虚假信息。（湖北发布）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-19/detail-imzhtvpz4650451.d.html</link>
-            <guid>3213723</guid>
-            <pubDate>Sat, 19 Aug 2023 12:48:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
