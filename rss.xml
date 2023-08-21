@@ -4,11 +4,133 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Mon, 21 Aug 2023 19:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 20:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wedbush给予谷歌母公司Alphabet跑赢大盘的初始评级，目标价160美元。]]></title>
+            <guid>3215672</guid>
+            <pubDate>Mon, 21 Aug 2023 20:15:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国两年期国债收益率继续走高，最高升破5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-22/detail-imzhzexp1986261.d.html</link>
+            <guid>3215671</guid>
+            <pubDate>Mon, 21 Aug 2023 20:12:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zoom第二财季收入11.4亿美元，分析师预期11.1亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-22/detail-imzhzexm5209109.d.html</link>
+            <guid>3215670</guid>
+            <pubDate>Mon, 21 Aug 2023 20:11:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韦德布什：亚马逊(AMZN.O)被加入最佳投资建议名单，因其增长趋势趋于稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-22/detail-imzhzexp1985332.d.html</link>
+            <guid>3215669</guid>
+            <pubDate>Mon, 21 Aug 2023 20:06:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AMC院线收跌23.72%，报3.12美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-22/detail-imzhzexm5207872.d.html</link>
+            <guid>3215668</guid>
+            <pubDate>Mon, 21 Aug 2023 20:03:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国超导（AMSC）收涨4.86%，连续第二个交易日上涨，报9.07美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-22/detail-imzhzexp1984979.d.html</link>
+            <guid>3215667</guid>
+            <pubDate>Mon, 21 Aug 2023 20:03:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉收涨7.3%，创3月21日以来最大单日涨幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-22/detail-imzhzexm5207565.d.html</link>
+            <guid>3215666</guid>
+            <pubDate>Mon, 21 Aug 2023 20:01:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【热门中概股多数上涨 小鹏汽车涨超9%】热门中概股多数上涨，纳斯达克中国金龙指数涨0.82%。小鹏汽车涨超9%，唯品会涨超5%，蔚来、哔哩哔哩、理想汽车、网易、微博涨超2%，拼多多、富途控股涨超1%，阿里巴巴、京东、满帮小幅上涨。爱奇艺、腾讯音乐、百度小幅下跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-22/detail-imzhzexm5207550.d.html</link>
+            <guid>3215665</guid>
+            <pubDate>Mon, 21 Aug 2023 20:01:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英伟达收涨8.5%，创5月份以来最大单日涨幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-22/detail-imzhzexm5207502.d.html</link>
+            <guid>3215664</guid>
+            <pubDate>Mon, 21 Aug 2023 20:01:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股三大指数收盘涨跌不一 英伟达涨超8%创7月20日以来收盘新高】美股三大指数收盘涨跌不一，纳指涨1.56%，标普500指数涨0.69%，道指跌0.11%。大型科技股普涨，英伟达涨超8%，创7月20日以来收盘新高；特斯拉涨超7%，Meta涨逾2%，亚马逊、微软涨超1%，苹果、奈飞、谷歌小幅上涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-22/detail-imzhzexp1984593.d.html</link>
+            <guid>3215663</guid>
+            <pubDate>Mon, 21 Aug 2023 20:00:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【分析人士：本次5年期以上LPR维持不变 反映出部分银行净息差压力较大】贷款市场报价利率（LPR）“降息”如期而至。但令市场意外的是，只有1年期LPR“降息”10个基点，而与个人住房贷款和企业中长期贷款挂钩的5年期以上LPR则“按兵不动”。据中国人民银行8月21日消息，中国人民银行授权全国银行间同业拆借中心公布，2023年8月21日1年期LPR为3.45%，5年期以上LPR为4.2%。这是自6月20日LPR两个期限报价同步下降10个基点后，1年期LPR在年内的第二次下行。分析人士认为，本次5年期以上LPR维持不变，反映出部分银行净息差压力较大。存量个人住房贷款利率调整“箭在弦上”，5年期以上LPR维持不变可以为其预留空间，并增强银行支持服务实体经济的可持续性。1年期LPR下行，有利于为消费贷款、中小微企业贷款等短期限品种提供更多支持。 (上证报)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-22/detail-imzhzexm5206464.d.html</link>
+            <guid>3215662</guid>
+            <pubDate>Mon, 21 Aug 2023 19:54:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【8月LPR“一降一平”，分析师：预留政策调整空间】 证券时报头版文章称，当前房地产市场低迷态势未改，居民住房信贷需求偏弱，为何备受期待的5年期以上LPR “按兵不动”？在多位专家看来，除了稳定商业银行息差水平的考量外，更有可能是为存量房贷利率调整铺路。“未来商业银行存款利率有较大概率下行。”信达证券首席宏观分析师解运亮表示，按照存款利率市场化调整机制，10年期国债收益率和1年期LPR是存款利率定价的重要参考标准，故商业银行存款利率存在调降空间。民生银行首席经济学家温彬认为，存量房贷利率调整已“箭在弦上”，5年期以上LPR报价维持不变应是为其预留空间。存量房贷利率调降，将更好起到稳预期、稳地产、稳信用的作用，且能够通过降低贷款置换行为，减少空转套利风险，规范市场秩序。多数研究机构预测下半年新一轮降准落地的可能性较大。国泰君安研究所宏观首席分析师董琦认为，8月开始MLF到期压力加大，叠加政府债供给压力增大，不排除降准落地的可能。在基准情形下，如果至2023年底广义货币供应量（M2）小幅下降，年度增速为10.8%，降准方面还有普降25个基点的空间。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-22/detail-imzhzexp1983533.d.html</link>
+            <guid>3215661</guid>
+            <pubDate>Mon, 21 Aug 2023 19:54:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中长期美债收益率涨幅突出，收益率曲线趋陡，2024年降息预期继续退烧】周一（8月21日）纽约尾盘，美国10年期基准国债收益率上涨8.13个基点，报4.3359%，盘中交投于4.2507%-4.3518%区间，彭博数据显示，美股早盘一度逼近2007年11月7日顶部4.3745%和4.4%关口。两年期美债收益率涨5.16个基点，报4.9941%，盘中交投于4.9340%-4.9984%区间。20年期美债收益率涨8.41个基点，30年期美债收益率涨7.53个基点。三年期美债收益率涨6.29个基点，五年期美债收益率涨7.54个基点，七年期美债收益率涨8.83个基点。三个月期国库券/10年期美债收益率利差涨8.870个基点，报-110.188个基点，美股早盘一度涨至-108.994个基点，逼近-100个基点整数位心理关口和3月17日顶部-99.867个基点。02/10年期美债收益率利差涨2.956个基点，报-66.279个基点。美国10年期通胀保值国债（TIPS）收益率涨4.87个基点，报1.9890%，美股早盘曾涨至2.0098%，延续7月21日短线跌穿1.4%关口后持续反弹的趋势。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-22/detail-imzhyyrr2113229.d.html</link>
+            <guid>3215660</guid>
+            <pubDate>Mon, 21 Aug 2023 19:47:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒生指数主连夜盘收涨0.36%，报17680.00点。恒生科技指数主连夜盘收涨0.89%，报3967.00点。]]></title>
+            <guid>3215659</guid>
+            <pubDate>Mon, 21 Aug 2023 19:37:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【沪指失守3100点 机构判断“市场底”渐行渐近】沪深两市股指8月21日盘中全线走低，三大股指收盘均跌超1%，其中沪指收盘指数今年以来首次失守3100点，创业板指更是3年多来首次跌破2100点。截至收盘，沪指跌1.24%报3092.98点，深证成指跌1.32%报10320.39点，创业板指跌1.6%报2084.97点。两市成交额萎缩至不足7000亿元，合计成交6783亿元。北向资金尾盘加速流出，全日净卖出超64亿元，已连续11个交易日呈现净卖出。对于昨日A股的调整，国泰君安表示，市场再度走弱，其实是在等待“市场底”的出现。政策底在8月初已经确认。根据过往经验，通常在大家认为市场底出现的时候，市场往往会再次下探，导致出现真正意义上的“市场底”，而这个“市场底”已经渐行渐近。安信证券认为，当前A股市场正在经历这个“最后一跌”的过程，向下空间有限。在目前政策面“暖风阵阵”的背景下，市场正在经历基于政策层面从量变到质变的定价变化，“最后一跌”之后即将迎来背水一战。 (上证报)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-22/detail-imzhyyrp5334158.d.html</link>
+            <guid>3215658</guid>
+            <pubDate>Mon, 21 Aug 2023 19:34:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【芝加哥玉米和小麦期货跌超2%，面临干旱风险之际，投资者预计美国农业部报告将维持农作物生长情况的优良率不变】周一（8月21日）纽约尾盘，谷物分类指数跌0.99%，报43.2117点，盘中交投区间为44.1758-43.1325点。CBOT玉米期货跌2.24%，报4.68-3/4美元/蒲式耳，亚太早盘涨至日高4.94美元，随后震荡下行，在纽约中午跌至日低4.68美元。CBOT小麦期货跌2.56%，报5.99-1/4美元/蒲式耳，盘中交投区间为6.20-3/4美元至5.95-3/4美元。CBOT大豆期货涨0.44%，报13.69-3/4美元/蒲式耳，亚太早盘曾涨至日高13.86-3/4美元，美股开盘后上测这一高位未果；豆粕期货涨1.34%，豆油期货跌0.48%。ICE原糖期货跌1.26%，ICE白糖期货跌0.51%。ICE阿拉比卡咖啡期货跌0.20%，报147.15美分，美股盘前一度涨至151.80美分。ICE棉花期货涨0.07%，报83.68美分，美股盘前一度涨至日高85.16美分。]]></title>
+            <guid>3215657</guid>
+            <pubDate>Mon, 21 Aug 2023 19:33:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【众议院保守派议员提出新条件 美国政府10月停摆风险加剧】美国众议院自由党团周一提出削减政府开支、为乌克兰提供资金的附加条件，以此作为他们支持政府权益支出法案的前提。这势将面临民主党的强烈反对，也将令权宜支出法案面临夭折风险，并导致美国政府在10月1日面临停摆。驴象两党领导人都已经表示，为了避免9月30日财年结束后出现政府部分关门的情况，达成一个权宜支出法案是必要的。这些保守派议员与议长麦卡锡不合，但他们在共和党只占到极微弱多数的众议院拥有巨大影响力。如果法案延续当前的支出水平和保守派反对的政策，他们将对这种“无附加条件的”法案予以反对，并且任何可能被用作向乌克兰提供支持的“空白支票”式的单独拨款都将遭到他们的反对。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-22/detail-imzhyyrr2110852.d.html</link>
+            <guid>3215656</guid>
+            <pubDate>Mon, 21 Aug 2023 19:31:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑瑞郎USD/CHF日内跌幅达0.50%，现报0.8779。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-22/detail-imzhyyrm3326440.d.html</link>
+            <guid>3215655</guid>
+            <pubDate>Mon, 21 Aug 2023 19:31:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【钢贸商破产案例频发 多地钢协警示风险】受下游消费需求偏弱等影响，钢铁企业经营压力较大，部分钢贸商甚至遭遇骗局。近期有一批钢贸企业进入破产清算阶段，多地钢铁协会因此相继发布风险提示。随着国家稳增长政策不断出台落地以及后续天气因素制约减弱，相关刺激政策有望带动钢铁市场企稳回升。近日，四川、江苏、浙江、贵州、天津等地相继传出钢贸商破产清算事件。全国企业破产重整网显示，近期确有一批钢贸企业进入了破产清算阶段。经记者多方采访获悉，部分钢贸商陷入困境的深层原因是钢铁行业再度陷入低谷，钢贸商赚钱难，导致部分企业见到询价或者订单便蜂拥而上，降低了风险意识，甚至遭遇骗局。目前，部分地方钢铁行业协会已对会员企业发布提示，拒绝低价诱惑，不参与长时间垫资服务。 (上证报)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-22/detail-imzhyyrp5332236.d.html</link>
+            <guid>3215654</guid>
+            <pubDate>Mon, 21 Aug 2023 19:20:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国上诉法院维持驳回投资者对波音737 Max零部件供应商Spirit Aerosystems的诉讼。]]></title>
+            <guid>3215653</guid>
+            <pubDate>Mon, 21 Aug 2023 19:17:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【富国银行：现在是购买TIPS的好时机】富国银行策略师AngeloManolatos和MikeSchumacher在周一的一份报告中表示，在基准收益率超过2%之后，现在是购买通胀保值债券（TIPS）的好时机，“在我们看来，美联储要么已经完成加息，要么只会再加息25个基点。”富国银行发现，在美联储最近三次加息周期（2000年、2006年和2018年）的最后一次加息后的三个月内，10年期国债实际收益率平均下降了26个基点，六个月内则下降了39个基点。8月底前国债上涨的潜在催化剂包括本周将公布的非农就业数据修正、周四30年期TIPS标售，以及鲍威尔在杰克逊霍尔年会的讲话。分析师表示，“鲍威尔可能会强调有必要随着通胀回落而降低名义利率，这种强调很可能会让观察人士认为政策正接近鸽派转向。”]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-22/detail-imzhyyrm3325252.d.html</link>
+            <guid>3215652</guid>
+            <pubDate>Mon, 21 Aug 2023 19:14:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国国防部：美国国务院决定批准向波兰出售价值120亿美元的AH-64E“阿帕奇”直升机。]]></title>
             <guid>3215651</guid>
@@ -168,136 +290,6 @@
             <link>https://finance.sina.cn/7x24/2023-08-22/detail-imzhyuir5438622.d.html</link>
             <guid>3215623</guid>
             <pubDate>Mon, 21 Aug 2023 17:01:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：将夏威夷电力实业公司的长期发行人评级从“BBB+”下调至“B”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-22/detail-imzhyuir5438594.d.html</link>
-            <guid>3215622</guid>
-            <pubDate>Mon, 21 Aug 2023 17:01:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际铜夜盘收涨0.23%，沪铜收涨0.09%，沪铝收涨0.33%，沪锌收涨0.17%，沪铅收涨0.68%，沪镍收涨0.44%，沪锡收涨1.61%。氧化铝夜盘收涨0.34%。不锈钢夜盘收涨0.8%。]]></title>
-            <guid>3215621</guid>
-            <pubDate>Mon, 21 Aug 2023 17:00:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【分析师：5年期以上LPR维持不变，为存量房贷利率调整加快落地预留空间】 自LPR改革以来，当月MLF下调后5年期以上LPR却“按兵不动”尚属首次，也出乎市场预料。仲量联行大中华区首席经济学家及研究部总监庞溟认为，5年期以上LPR“按兵不动”，体现了在调整优化房地产信贷政策时，对增量、存量及其他金融产品价格关系的综合考虑，在降低居民购房成本和利息负担的同时，也有助于商业银行在主动灵活下调房贷利率、让利实体经济和稳定资产负债表、做好做细做实风险管理之间取得平衡。民生银行首席经济学家温彬认为，当前，新发放贷款利率已降至历史低位，各地因城施策空间较大，且银行息差持续承压。5年期以上LPR维持不变，有利于银行保持合理利润水平，为存量房贷利率调整加快落地预留空间。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-22/detail-imzhyuit2215083.d.html</link>
-            <guid>3215620</guid>
-            <pubDate>Mon, 21 Aug 2023 16:57:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【分析师：下半年降低存量房贷利率势在必行，预计会降低0.5个至1个百分点左右】 东方金诚首席宏观分析师王青认为，下半年降低存量房贷利率势在必行，关键在于下调幅度。参考2008年的下调比例，以及当前新、老房贷利差，预计大概会在0.5个至1个百分点左右。在1年期LPR下调、以及近期10年期国债收益率持续下行推动下，新一轮存款利率下调或将开启。这将缓解银行净息差收窄压力，并推动银行较快下调存量房贷利率。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-22/detail-imzhyuit2214818.d.html</link>
-            <guid>3215619</guid>
-            <pubDate>Mon, 21 Aug 2023 16:56:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LME期铜收涨34美元，报8274美元/吨。LME期铝收涨7美元，报2144美元/吨。LME期锌收涨18美元，报2318美元/吨。LME期铅收涨16美元，报2165美元/吨。LME期镍收跌112美元，报20119美元/吨。LME期锡收涨442美元，报25702美元/吨。]]></title>
-            <guid>3215618</guid>
-            <pubDate>Mon, 21 Aug 2023 16:54:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【安哥拉石油产量恢复，但老油田仍存在风险】牛津非洲经济研究院表示，安哥拉石油产量延续了7月份的增长势头，达到了自2022年8月以来的最高单月水平，但老油田的产量损失对这个非洲第二大原油生产国构成了风险。7月份，安哥拉的原油日产量比6月份增加了3万桶，达到115万桶/天，但其产量仍远低于欧佩克的配额，7月份的缺口达到31万桶/天。Oxford表示：“新产能的增加大部分被持续的运营困难所抵消，这些困难导致了老油田的产量损失。我们预计今年石油收入将下降，这将导致安哥拉经常帐和财政盈余缩小。”]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-22/detail-imzhyuit2214362.d.html</link>
-            <guid>3215617</guid>
-            <pubDate>Mon, 21 Aug 2023 16:53:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【券商积极开展北交所做市业务 6月份以来新增做市37起】近期，北交所做市业务利好频传。7月28日，证监会发布《证券公司北京证券交易所股票做市交易业务特别规定（征求意见稿）》，在此前科创板做市商资质的基础上对券商参与北交所做市的资质要求进行了下调，专家预计可扩容十几家券商。据了解，几家符合扩容资质的券商均已启动北交所做市业务准备工作，争取赶上首批扩容。已开展北交所做市业务的券商近期展业积极性较高。8月9日，安信证券发布公告，集中加入为吉林碳谷、富士达等11只股票做市。初步统计，6月份以来，不同做市商加入为北交所股票做市共37起，是4、5月份单月加入做市次数的3倍以上。目前北交所做市大户国金证券、安信证券在北交所的做市股票数量均远超其科创板做市股票数量。国金证券共为31只北交所股票做市，安信证券共为26只北交所股票做市。 (证券日报)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-22/detail-imzhyuir5437111.d.html</link>
-            <guid>3215616</guid>
-            <pubDate>Mon, 21 Aug 2023 16:53:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【赛百味正在就出售给Roark Capital进行深入谈判】私募股权公司Roark Capital Group正在就以大约96亿美元收购三明治连锁店赛百味展开深入磋商。知情人士称，赛百味寻求在本周敲定出售交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-22/detail-imzhyuit2210318.d.html</link>
-            <guid>3215615</guid>
-            <pubDate>Mon, 21 Aug 2023 16:33:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货钯金日内走低2.00%，现报1230.89美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-22/detail-imzhyuit2210182.d.html</link>
-            <guid>3215614</guid>
-            <pubDate>Mon, 21 Aug 2023 16:32:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国法官称AI生成的艺术不能获得版权】美国华盛顿一家法院近日裁定，根据美国法律，人工智能在没有任何人类输入的情况下创作的艺术品不受版权保护。美国地区法官Beryl Howell上周五表示，只有与人类作者合作的作品才能获得版权，并确认美国版权局驳回了计算机科学家Stephen Thaler代表其 DABUS（统一感知自主引导设备）提出的申请。Thaler还在英国、南非、澳大利亚和沙特等其他国家申请了由DABUS创造的专利，但并非全部都成功。法官Howell表示：“随着艺术家将人工智能纳入他们的工具箱，我们正在接近版权的新领域，”这将给版权法带来“挑战性问题”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-22/detail-imzhyuit2208970.d.html</link>
-            <guid>3215613</guid>
-            <pubDate>Mon, 21 Aug 2023 16:27:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄国家航天集团：发动机未按时关闭致“月球-25”号探测器坠毁】 当地时间8月21日，俄罗斯国家航天集团总裁尤里·鲍里索夫表示，发动机没有按时关闭是“月球-25”探测器坠毁的原因，发动机一共工作了127秒，按计划是87秒。鲍里索夫说，目前相关调查委员会已经成立，并开始进行调查工作，吸取经验为下次发射任务做准备。“月球-25”号探测器于莫斯科时间8月19日失联。据初步推测，探测器进入了非预先规划的轨道并撞上了月球表面坠毁。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-22/detail-imzhyuit2208506.d.html</link>
-            <guid>3215612</guid>
-            <pubDate>Mon, 21 Aug 2023 16:24:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本福岛各界举行圆桌会 反对核污染水排海】日本福岛当地各界人士当地时间8月21日举行了一场圆桌会，表达反对核污染水排海的声音。此次圆桌会，是福岛当地就核污染水排海问题举行的第三次专题圆桌会。福岛当地的专家、学者等各界人士超过100人通过线上线下方式参加，要求暂停核污染水排海。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-22/detail-imzhyuir5430098.d.html</link>
-            <guid>3215611</guid>
-            <pubDate>Mon, 21 Aug 2023 16:18:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据猫眼专业版数据，电影《孤注一掷》总票房突破28.48亿，超过《我和我的家乡》票房成绩，进入中国影史总票房榜前二十。]]></title>
-            <guid>3215610</guid>
-            <pubDate>Mon, 21 Aug 2023 16:13:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元兑日元日内上涨0.8%至159.28，为自2008年9月以来最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-22/detail-imzhyuir5428426.d.html</link>
-            <guid>3215609</guid>
-            <pubDate>Mon, 21 Aug 2023 16:11:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今日重点关注财经数据与事件】
-① 14:00 瑞士7月贸易帐
-② 16:00 欧元区6月季调后经常帐
-③ 18:00 英国8月CBI工业订单差值
-④ 22:00 美国7月成屋销售总数年化
-⑤ 22:00 美国8月里奇蒙德联储制造业指数
-⑥ 次日02:30 纽约原油9月期货完成场内最后交易
-⑦ 次日02:30 美联储古尔斯比就青年就业发表讲话
-⑧ 次日03:30 美联储古尔斯比和鲍曼参加炉边谈话
-⑨ 次日04:30 美国至8月18日当周API原油库存]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-22/detail-imzhyuit2203202.d.html</link>
-            <guid>3215608</guid>
-            <pubDate>Mon, 21 Aug 2023 16:00:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度和东盟将在2025年前完成对2009年签署的自由贸易协定的审查，将在审查中解决双边贸易不平衡问题。]]></title>
-            <guid>3215607</guid>
-            <pubDate>Mon, 21 Aug 2023 15:57:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲主要股指多数收涨 德国DAX30指数涨0.21%】欧洲主要股指多数收涨，德国DAX30指数涨0.21%，英国富时100指数跌0.01%，法国CAC40指数涨0.47%，欧洲斯托克50指数涨0.29%。欧元区蓝筹股中，汽车生产商Stellantis初步收涨1.9%，裕信银行涨1.6%，开云集团、意大利联合圣保罗银行、赛峰公司、道达尔能源至少涨1.0%，宝马、LVMH集团、爱马仕至少涨0.7%，Flutter娱乐则跌0.6%，科技股Prosus跌0.9%，德国地产公司Vonovia跌2.5%，荷兰支付公司Adyen跌7.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-21/detail-imzhyuir5424993.d.html</link>
-            <guid>3215606</guid>
-            <pubDate>Mon, 21 Aug 2023 15:52:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国天然气期货涨超10%，荷兰天然气期货也涨将近8%】周一（8月21日）欧市尾盘，ICE英国天然气期货涨10.68%，报100.600便士/千卡，欧股开盘后曾涨至日高102.770便士。TTF基准荷兰天然气期货涨7.79%，报40.150欧元/兆瓦时，一度拉升至45.295欧元，逼近6月15日顶部49.000欧元。ICE欧盟碳排放交易许可（期货价格）跌0.53%，报86.61欧元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-21/detail-imzhyuiu5219992.d.html</link>
-            <guid>3215605</guid>
-            <pubDate>Mon, 21 Aug 2023 15:46:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际货币基金组织数据显示，2023年7月，土耳其将黄金持有量减少了10.9吨至658.925吨。]]></title>
-            <guid>3215604</guid>
-            <pubDate>Mon, 21 Aug 2023 15:43:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【多地统计政府对民企欠款】多家民营房企人士透露，郑州、天津等地要求各区县政府统计对民营房企的欠款明细。近一年多来，多家房企通过各种方式要求部分地方政府尽快偿还对其欠款，理由是急需这笔钱缓解流动性压力以及保交楼。多家民营房企的区域负责人告诉经济观察网，其所在城市政府拖欠款项在10亿元-20亿元区间，主要包括承诺返还的土地出让金、土增税退税、安置房建设保证金、土地一级整理垫付款等。一家民营房企郑州区域负责人表示，8月20日，其所在区域收到郑州市多个区县通知，要求填写一份《政府欠款情况统计表》，包含项目名称、欠款单位、欠款总额、已还欠款金额、未还欠款金额、项目公司名称、款项类别等。（经济观察报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-21/detail-imzhyuiu5219432.d.html</link>
-            <guid>3215603</guid>
-            <pubDate>Mon, 21 Aug 2023 15:43:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AMC院线跌幅扩大至20%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-21/detail-imzhyuit2200112.d.html</link>
-            <guid>3215602</guid>
-            <pubDate>Mon, 21 Aug 2023 15:37:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
