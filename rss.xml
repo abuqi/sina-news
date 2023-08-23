@@ -4,11 +4,140 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Wed, 23 Aug 2023 20:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 21:14:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：美国总统拜登计划在9月27日拍卖（墨西哥湾）海湾石油租赁权，内政部将石油拍卖面积削减至6700万英亩。]]></title>
+            <guid>3218166</guid>
+            <pubDate>Wed, 23 Aug 2023 21:12:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【ICE美元指数跌0.2%，欧美PMI数据欠佳所致】周三（8月23日）纽约尾盘，ICE美元指数下跌0.19%，报103.382点，日内交投区间为103.981-103.303点，美国PMI数据发布前，一度逼近104点关口和5月31日顶部104.699。彭博美元指数跌0.29%，报1237.41点，日内交投区间为1243.49-1236.49点。美元兑日元下跌0.71%，报144.85，纽约中午曾跌至144.54，逼近8月11日底部144.42，整体上仍然持稳于8月17日顶部146.56附近。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-24/detail-imziftcs0254239.d.html</link>
+            <guid>3218165</guid>
+            <pubDate>Wed, 23 Aug 2023 21:09:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英伟达称，云供应商对于图形芯片（GPU）的需求正在加速增长，预计从明年开始，每个季度的GPU供应量都将增加。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-24/detail-imziftct7031314.d.html</link>
+            <guid>3218164</guid>
+            <pubDate>Wed, 23 Aug 2023 21:07:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英伟达(NVDA.O)盘后涨幅扩大至10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-24/detail-imziftct7031162.d.html</link>
+            <guid>3218163</guid>
+            <pubDate>Wed, 23 Aug 2023 21:03:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国7月PPI同比下降0.2%，前值下降0.20%；韩国7月PPI环比增长0.3%，前值下降0.2%。]]></title>
+            <guid>3218162</guid>
+            <pubDate>Wed, 23 Aug 2023 21:00:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周三纽约尾盘，美元兑日元下跌0.71%，报144.85，纽约中午曾跌至144.54。]]></title>
+            <guid>3218161</guid>
+            <pubDate>Wed, 23 Aug 2023 21:00:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【央行单日逆回购投放创3月份以来新高 业界预计资金面平稳跨月无虞】中国人民银行8月23日以利率招标方式开展了3010亿元7天期逆回购操作，以维护银行体系流动性合理充裕，操作利率维持1.8%不变。鉴于当日有2990亿元逆回购到期，故央行公开市场实现净投放20亿元。值得一提的是，3010亿元的操作规模也创下3月份以来新高。展望后期，东方金诚高级分析师冯琳表示，结合各地债券发行计划，本月接下来几个交易日政府债券发行缴款还将处于高位，加之当前银行也正在加大信贷投放力度，预计月底前资金面可能还将处于紧平衡状态，央行也会持续通过较大规模的逆回购操作“补水”。考虑到当前监管层会更为重视稳定市场流动性，估计月底前资金面进一步收紧的可能性不大，平稳跨月无虞。 (证券日报)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-24/detail-imziftcs0253085.d.html</link>
+            <guid>3218160</guid>
+            <pubDate>Wed, 23 Aug 2023 20:58:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法庭文件显示，高盛(GS.N)、摩根大通(JPM.N)、摩根士丹利(MS.N)、瑞银(UBS.N)就股票借贷的私人反垄断诉讼达成4.99亿美元的和解协议。]]></title>
+            <guid>3218159</guid>
+            <pubDate>Wed, 23 Aug 2023 20:56:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【标普500指数的11个板块普遍收涨】 周三（8月23日），标普500指数高开高走，于纽约中午涨至日高4443.18点，收盘位于这一水平附近。信息技术/科技板块收涨1.92%，电信服务板块涨1.9%，房地产板块涨1.46%，工业和金融板块涨超0.9%，可选消费板块涨超0.8%，能源板块则跌0.3%，是唯一收跌的板块。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-24/detail-imziftct7030121.d.html</link>
+            <guid>3218158</guid>
+            <pubDate>Wed, 23 Aug 2023 20:54:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“越南特斯拉”VinFast Auto（VFS）收涨0.84%，报37.03美元，守住8月22日收涨超108%的涨幅。23日美股盘后，目前跌5.59%，暂报34.96美元。]]></title>
+            <guid>3218157</guid>
+            <pubDate>Wed, 23 Aug 2023 20:53:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[耐克（NKE）收跌2.67%，报98.75美元，连续第十个交易日下跌，数据显示，期间累计下跌9.97%。]]></title>
+            <guid>3218156</guid>
+            <pubDate>Wed, 23 Aug 2023 20:50:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【8月23日美股成交额前20：大摩称苹果是“最被低估”的大型科技股】第4名苹果收高2.19%，成交92.52亿美元。摩根士丹利周三表示，苹果已经超过微软，成为其追踪的“最被低估”的大型科技股。大摩分析师Erik Woodring领导的一个分析师团队指出，这两只大型科技股的持有量在本季度结束后基本“没有变化”，与标普500指数相比，这一差距为负82个基点，而其他大型科技股为正20个基点。摩根士丹利分析师还称，苹果公司股票被低估的程度达到了该公司有数据记录以来的最高水平，也是自2008年以来最严重的。此外摩根士丹利的一份分析报告显示，预计苹果将于三周后发布iPhone 15系列，并于四周后开始发货。http://t.cn/A6Owz2Me]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-24/detail-imziftct7029885.d.html</link>
+            <guid>3218155</guid>
+            <pubDate>Wed, 23 Aug 2023 20:45:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英伟达业绩全线超预期，盘后大涨8%】英伟达(NVDA.O)24日凌晨公布的2024年财年第二季度财报显示，季度内营收135.1亿美元，市场预期112.24亿美元；数据中心业务收入为103.2亿美元，市场预期为79.8亿美元；净利润61.88亿美元，市场预期42亿美元。同时英伟达预计Q3将获得160亿美元的营收，远高于市场预期的125亿美元，还宣布额外250亿美元的股份回购计划。英伟达美股盘后大涨超8%创下历史新高并带动芯片股走强。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-24/detail-imziftct7029818.d.html</link>
+            <guid>3218154</guid>
+            <pubDate>Wed, 23 Aug 2023 20:43:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【AI热潮下英伟达风光无两 销售增速达到多年来最高水平】随着市场对数据中心人工智能(AI)处理器的需求激增，英伟达公布本季度乐观营收展望。该公司周三发布声明称，截至10月的三个月，销售额将达到160亿美元左右。 根据媒体汇总的数据，分析师的平均预期为125亿美元。该展望凸显出英伟达在AI热潮中的主要受益者地位。面对聊天机器人和其他工具的需求激增，数据中心运营商正在囤积该公司的处理器。英伟达借此迅速摆脱了芯片业下滑的影响，销售增速达到多年来最高水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-24/detail-imziftct7029809.d.html</link>
+            <guid>3218153</guid>
+            <pubDate>Wed, 23 Aug 2023 20:43:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽交所ARCA钢铁指数收涨0.36%，报1947.68点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-24/detail-imziftct7029770.d.html</link>
+            <guid>3218152</guid>
+            <pubDate>Wed, 23 Aug 2023 20:41:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿根廷股指收涨3.5%继续创历史新高，巴西雷亚尔涨1.7%】阿根廷MERVAL指数收涨3.51%，报61.5万点，在国际货币基金组织（IMF）批准拨款75亿美元当天再创收盘历史新高。巴西圣保罗证交所指数收涨1.70%，报11.8万点。巴西雷亚尔兑美元涨1.72%，暂报4.8524雷亚尔，逼近8月10日顶部4.8415雷亚尔。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-24/detail-imziftcs0252647.d.html</link>
+            <guid>3218151</guid>
+            <pubDate>Wed, 23 Aug 2023 20:41:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际文传电讯社援引俄紧急情况部门消息，特维尔州坠机事故10具遗体已全部找到，搜寻行动结束。 (CCTV国际时讯)]]></title>
+            <guid>3218150</guid>
+            <pubDate>Wed, 23 Aug 2023 20:39:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国总统拜登将于下周初公布参与医疗保险价格谈判的最初10款处方药物名单。]]></title>
+            <guid>3218149</guid>
+            <pubDate>Wed, 23 Aug 2023 20:35:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[芯片股迈威尔科技涨3.6%，台积电ADR涨约3%，博通、AMD、纳微半导体涨超2%，美光科技、应用材料、安森美、ASML、科磊等至多涨1.8%，德州仪器、Teradyne、英特尔则至多跌0.68%。]]></title>
+            <guid>3218148</guid>
+            <pubDate>Wed, 23 Aug 2023 20:28:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国大类资产ETF多数收涨】 美国国债20+年ETF涨2.48%，新兴市场ETF涨1.59%，纳指100 ETF与美国房地产ETF各涨1.58%，大豆基金涨1.43%，美国投资级公司债涨1.41%，标普500 ETF涨1.11%，美国国债7-20年ETF涨1.09%，罗素2000指数ETF涨1.07%，农产品基金涨1.04%，黄金ETF-SPDR涨1.02%，而标普500价值指数、巴克莱美国可转债ETF、通胀债券指数ETF，美国高收益债ETF，日元做多以及道指ETF亦各有超过0.5%的涨幅。恐慌指数做多跌3.32%，美国布伦特油价基金跌1.33%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-24/detail-imziftcp8125379.d.html</link>
+            <guid>3218147</guid>
+            <pubDate>Wed, 23 Aug 2023 20:26:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英伟达二季度数据中心营收超100亿美元创纪录新高，受AI热潮驱动，股价盘后涨超8%】英伟达二季度营收135.1亿美元，分析师预期110.4亿美元。二季度数据中心营收103.2亿美元，创历史新高，分析师预期79.8亿美元。二季度游戏营收24.9亿美元，分析师预期23.8亿美元。二季度汽车营收2.53亿美元，分析师预期3.094亿美元。二季度调整后毛利润率71.2%，分析师预期70.1%。预计三季度营收160.0亿美元±2%，分析师预期125亿美元。（公司董事会）批准额外的250亿美元股票回购计划，计划今年继续回购购票。英伟达美股盘后涨0.29%，涨幅随后扩大至8.61%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-24/detail-imziftcs0250052.d.html</link>
+            <guid>3218146</guid>
+            <pubDate>Wed, 23 Aug 2023 20:21:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股行业ETF整体收涨】 半导体ETF涨2.17%领跑，全球科技股ETF涨1.84%，科技行业ETF涨1.80%，网络股指数ETF涨1.59%，银行业ETF涨1.35%，区域银行ETF涨1.30%，此外金融业ETF、可选消费ETF，日上消费品ETF、全球航空业ETF以及生物科技指数ETF各涨逾0.5%。唯一下跌者为能源业ETF，跌幅0.25%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-24/detail-imziftcn2801988.d.html</link>
+            <guid>3218145</guid>
+            <pubDate>Wed, 23 Aug 2023 20:18:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国超导（AMSC）收涨2.43%，报9.27美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-24/detail-imziftcp8124734.d.html</link>
+            <guid>3218144</guid>
+            <pubDate>Wed, 23 Aug 2023 20:17:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【俄联邦航空运输署确认瓦格纳创始人普里戈任在特维尔州失事飞机上】当地时间23日，俄罗斯联邦航空运输署发布特维尔州失事飞机的乘机人员名单，确认俄罗斯私营军事承包商瓦格纳集团创始人普里戈任和瓦格纳创始人之一、指挥官乌特金在失事飞机上。 (央视新闻)]]></title>
             <link>https://finance.sina.cn/7x24/2023-08-24/detail-imziftct7025558.d.html</link>
@@ -162,135 +291,6 @@
             <link>https://finance.sina.cn/7x24/2023-08-24/detail-imzifnvv7141663.d.html</link>
             <guid>3218117</guid>
             <pubDate>Wed, 23 Aug 2023 18:33:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI 10月原油期货收报78.89美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-24/detail-imzifnvv7141636.d.html</link>
-            <guid>3218116</guid>
-            <pubDate>Wed, 23 Aug 2023 18:33:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上期所原油期货2310合约夜盘收跌1.43%，报628.10元人民币/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-24/detail-imzifnvv7140793.d.html</link>
-            <guid>3218115</guid>
-            <pubDate>Wed, 23 Aug 2023 18:30:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯特维尔州飞机坠毁现场已发现8名遇难者遗体】据俄新社当地时间23日报道，在俄罗斯特维尔州飞机坠毁现场已发现8名遇难者遗体。当天稍早前，据塔斯社援引俄罗斯紧急情况部消息称，一架私人飞机23日在俄罗斯特维尔州坠毁，致10人死亡。该失事飞机航线为莫斯科至圣彼得堡。据塔斯社援引俄罗斯航空署消息显示，瓦格纳组织创始人普里戈任在失事飞机的乘客名单上。但普里戈任本人目前是否登机尚无法确认。俄罗斯特维尔州政府新闻部门当天表示，该州州长鲁登尼亚已亲自督查当地局势。目前，执法机构和紧急情况部门人员正在现场开展工作。 (央视新闻)]]></title>
-            <guid>3218114</guid>
-            <pubDate>Wed, 23 Aug 2023 18:30:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周三（8月23日）欧市尾盘，法国巴黎泛欧交易所（EuroNext）“制粉小麦”期货涨1.25%，报243.25欧元/吨。油菜籽期货涨1.07%，报470.25欧元/吨。]]></title>
-            <guid>3218113</guid>
-            <pubDate>Wed, 23 Aug 2023 18:14:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【机构分析：低利率时代不太可能很快回归】交易所交易基金公司WisdomTree固定收益策略主管Kevin Flanagan表示，如果美联储主席鲍威尔在周五杰克逊霍尔的演讲中暗示中性利率已经上升，那么认为利率可能会从目前的5%以上回落到2%左右的投资者将会感到失望。一些经济学家认为，现在的中性利率可能比过去更高，这意味着美联储将无法在不引发消费价格快速上涨的情况下大幅降息。Flanagan表示，如果鲍威尔证实了这一估计，国债收益率可能会走高。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-24/detail-imzifnvv7138409.d.html</link>
-            <guid>3218112</guid>
-            <pubDate>Wed, 23 Aug 2023 18:13:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【纳斯达克金龙指数涨幅扩大至2%】纳斯达克金龙指数涨幅扩大至2%，成分股铜道控股目前涨17.3%，满帮涨12.8%，比特数字涨10.7%，世纪互联涨9.8%，万国数据涨超5.4%，趣店涨超4.8%，嘉楠科技涨超4.4%，金山云、中通快递至多涨超3.8%，阿里巴巴涨2.5%，B站涨2%，拼多多涨1.9%，京东涨1.8%，小鹏汽车涨1.6%，网易涨1.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-24/detail-imzifnvu0360244.d.html</link>
-            <guid>3218111</guid>
-            <pubDate>Wed, 23 Aug 2023 18:08:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美联储货币政策陷入浓雾，鲍威尔周五肩负指路重任】 在周五（8月25日）的杰克逊霍尔全球央行年会上，鲍威尔预计将勾勒出抗通胀行动的最后路线图，同时强调美联储完成稳定物价使命的承诺。随着通胀继续降温，对于接下来的政策路线，决策者内部的分歧正浮出水面。鲍威尔本周可能会利用杰克逊霍尔这个平台来介绍美联储如何判断是否应该加息，以及如何确定降息时机。前美联储副主席Donald Kohn认为， “鲍威尔会告诫不要过早放松政策。我认为这将是个主题。对他而言，比较有用的做法是讲清楚依赖数据是怎么个依赖法，避免市场对单一数据做出非常激烈的反应。”]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-24/detail-imzifnvu0359359.d.html</link>
-            <guid>3218110</guid>
-            <pubDate>Wed, 23 Aug 2023 18:03:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥央行将美元兑比索官方汇率设定为16.8077。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-24/detail-imzifnvv7136165.d.html</link>
-            <guid>3218109</guid>
-            <pubDate>Wed, 23 Aug 2023 18:02:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：飓风“弗兰克林”经过多米尼加共和国的山区地带，海地和多米尼加共和国发生了大雨和威胁生命的山洪暴发。]]></title>
-            <guid>3218108</guid>
-            <pubDate>Wed, 23 Aug 2023 17:59:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：委内瑞拉和美国就可能解除制裁进行谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-24/detail-imzifnvu0358004.d.html</link>
-            <guid>3218107</guid>
-            <pubDate>Wed, 23 Aug 2023 17:53:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰议会通过决议：不允许为停止敌对行动而向俄罗斯做出任何领土让步】乌克兰最高拉达（议会）23日通过决议，不允许为停止敌对行动而向俄罗斯做出任何领土让步。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-24/detail-imzifnvu0357993.d.html</link>
-            <guid>3218106</guid>
-            <pubDate>Wed, 23 Aug 2023 17:53:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【机构分析：鲍威尔本周演讲将保持强硬，关注对中性利率的评论】交易所交易基金公司WisdomTree固定收益策略主管Kevin Flanagan表示，美联储主席鲍威尔很可能在周五杰克逊霍尔年会的演讲中坚持上次会议及其会议纪要中的鹰派信息。他表示，在经历了急剧、快速的加息周期后，美国联邦公开市场委员会（FOMC）“对迄今为止的结果相对满意”。通胀率仍然远高于2%的目标，但他认为，美联储“足够现实，知道这可能需要一点时间。"不过，如果鲍威尔对中性利率发表任何评论，都可能会对市场造成冲击。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-24/detail-imzifnvu0357914.d.html</link>
-            <guid>3218105</guid>
-            <pubDate>Wed, 23 Aug 2023 17:53:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英伟达(NVDA.O)绩前涨幅扩大至3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-24/detail-imzifnvu0357551.d.html</link>
-            <guid>3218104</guid>
-            <pubDate>Wed, 23 Aug 2023 17:50:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据俄新社：俄罗斯紧急情况部门表示，在私人喷气机坠毁现场发现八具遗体。]]></title>
-            <guid>3218103</guid>
-            <pubDate>Wed, 23 Aug 2023 17:49:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国会众议院金融服务委员会主席McHenry敦促美国证券交易委员会（SEC）撤回其新版私募基金管理规定。]]></title>
-            <guid>3218102</guid>
-            <pubDate>Wed, 23 Aug 2023 17:47:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：拜登批准阿拉斯加因洪水进入灾难状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-24/detail-imzifnvu0357062.d.html</link>
-            <guid>3218101</guid>
-            <pubDate>Wed, 23 Aug 2023 17:47:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COMEX 10月白银期货收涨4.00%，报24.495美元/盎司。COMEX 12月白银期货收涨3.98%，报24.710美元/盎司。]]></title>
-            <guid>3218100</guid>
-            <pubDate>Wed, 23 Aug 2023 17:46:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COMEX 10月黄金期货收涨1.14%，报1929.90美元/盎司。COMEX 12月黄金期货收涨1.15%，报1948.10美元/盎司。]]></title>
-            <guid>3218099</guid>
-            <pubDate>Wed, 23 Aug 2023 17:43:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【8月23日夜间，又有十余家A股公司发布股份回购公告，超过20家的股东承诺不减持公司股份】据不完全统计，8月23日21:00以来，至少已有阳光电源、长春高新、欣旺达、斯迪克、可孚医疗、天宜上佳、贝泰妮、中科创达、普瑞眼科、捷佳伟创、彩讯股份等11家A股公司发布回购股份的相关公告。与此同时，新和成、力星股份、欣旺达、北京君正、鼎龙股份、中密控股、泰达股份、德方纳米、杰瑞股份、深信服、当升科技、网宿科技、鲁泰A、天齐锂业、宋城演艺、长川科技、中国铁物、柳工、石基信息、爱尔眼科、天山股份、华侨城A等22家A股公司发布关于相关股东承诺不减持公司股份的公告。]]></title>
-            <guid>3218098</guid>
-            <pubDate>Wed, 23 Aug 2023 17:41:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据消息人士称，软银旗下ARM在没有明确承销费用的情况下聘请了银行进行首次公开募股。]]></title>
-            <guid>3218097</guid>
-            <pubDate>Wed, 23 Aug 2023 17:38:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银日内大涨4.00%，现报24.34美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-24/detail-imzifnvu0354781.d.html</link>
-            <guid>3218096</guid>
-            <pubDate>Wed, 23 Aug 2023 17:34:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【一私人飞机在俄罗斯境内坠毁，瓦格纳创始人普里戈任在乘机名单上】 当地时间23日，据塔斯社援引俄罗斯紧急情况部消息报道，一架私人飞机在俄罗斯特维尔州坠毁，造成10人死亡。塔斯社援引俄罗斯航空署消息报道称，俄罗斯私营军事承包商瓦格纳集团创始人普里戈任在失事飞机的乘客名单上。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-24/detail-imzifnvv7130053.d.html</link>
-            <guid>3218095</guid>
-            <pubDate>Wed, 23 Aug 2023 17:24:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国30年期国债收益率下降10.5个基点至4.30%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-24/detail-imzifnvq2917193.d.html</link>
-            <guid>3218094</guid>
-            <pubDate>Wed, 23 Aug 2023 17:21:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
