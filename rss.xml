@@ -4,11 +4,27 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 26 Aug 2023 21:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Aug 2023 22:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【中央气象台8月27日06时继续发布暴雨黄色预警】预计，8月27日08时至28日08时，河南东部、山东中南部、湖北中东部、苏皖中北部、湖南、江西西北部、广西中北部、云南中南部、西藏东南部等地有大到暴雨，其中，山东南部、河南东南部、安徽北部、江苏北部等地部分地区有大暴雨（100～200毫米）。上述部分地区伴有短时强降水（最大小时降雨量30～50毫米，局地可超过70毫米），局地有雷暴大风或冰雹等强对流天气。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-27/detail-imziqqqp3783702.d.html</link>
+            <guid>3221578</guid>
+            <pubDate>Sat, 26 Aug 2023 22:06:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 【虚拟电厂帮电网“减负”】虚拟电厂通过能源互联网技术，将闲散在终端用户的充电桩、空调、分布式光伏等电力负荷资源聚合起来并加以优化控制，是“互联网+源网荷储”一体化的数字化能源管理系统。在电力供应紧张时段，虚拟电厂可直接调度海量分散的电力负荷资源，通过它们降低用电功率，实现特定时段内的负荷调节，保证电网的安全稳定运行。]]></title>
+            <guid>3221577</guid>
+            <pubDate>Sat, 26 Aug 2023 21:51:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华夏、嘉实、易方达、广发、富国、博时等10家基金公司上报的中证2000ETF集体获批】8月26日，中国证监会网站公开信息显示，华夏、嘉实、易方达、广发、富国、博时等10家基金公司8月11日上报的中证2000ETF于8月25日晚间集体获批，不日就将启动发行。此外，相关人士透露，8月18日7家基金公司上报的信创主题ETF也于8月26日凌晨获批。值得注意的是，17只ETF一夜获批，在公募历史上也极为罕见。]]></title>
+            <guid>3221576</guid>
+            <pubDate>Sat, 26 Aug 2023 21:37:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【日本专家：日本政府应该审慎对待核污染水排海 而非一排了之】福岛核污染水排海程序启动引发日本各界的强烈批评和反对。有日本专家认为：应该通过安全存放直至风险减少的方式处理核污染水。柴崎直明是福岛大学教授，同时也是福岛县废炉退役安全委员会的成员，负责核查和研究东京电力公司发布的有关核污染水，和地下水的数据和资料。核事故发生以后，他曾多次进入福岛第一核电站考察。柴崎教授不赞同核污染水排海，他认为，目前最安全的核污染水处置方式是，在可控的环境内进行储存，直到风险降低再对核污染水进行处理。]]></title>
             <guid>3221575</guid>
@@ -290,24 +306,6 @@
             <link>https://finance.sina.cn/7x24/2023-08-26/detail-imziptkt5178201.d.html</link>
             <guid>3221380</guid>
             <pubDate>Sat, 26 Aug 2023 12:31:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【土耳其伊斯坦布尔发生一起森林火灾】当地时间26日，土耳其伊斯坦布尔市大切克梅杰地区发生森林火灾，当地消防员已赶往现场灭火。截至目前，暂无人员伤亡，火灾原因尚不明确。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-26/detail-imziptkv7454843.d.html</link>
-            <guid>3221379</guid>
-            <pubDate>Sat, 26 Aug 2023 12:23:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【长江六座梯级电站单日发电超14亿千瓦时】据长江电力消息，8月25日，由乌东德、白鹤滩、溪洛渡、向家坝、三峡、葛洲坝六座梯级电站构成的世界最大清洁能源走廊日发电量达14.68亿千瓦时，创历史纪录。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-26/detail-imziptkx4231820.d.html</link>
-            <guid>3221377</guid>
-            <pubDate>Sat, 26 Aug 2023 12:22:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【合肥百大集团与古井贡酒集团签署战略合作协议】8月23日，合肥百大集团党委书记、董事长沈校根率队考察安徽古井集团，双方举行座谈并签订战略合作协议。双方产业互补性强，合作契合度高，希望充分发挥双方品牌市场的协同效应，在健康科技产品、农副产品合作、店中店打造、商品定制、线上运营等方面实现务实合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-26/detail-imziptkt5173658.d.html</link>
-            <guid>3221374</guid>
-            <pubDate>Sat, 26 Aug 2023 12:01:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
