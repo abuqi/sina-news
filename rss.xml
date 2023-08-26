@@ -4,11 +4,16 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 26 Aug 2023 18:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Aug 2023 19:12:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【中蒙策克口岸进口货运量突破1000万吨】从内蒙古阿拉善盟额济纳海关获悉，中蒙策克口岸今年累计进口货运量达到1000.06万吨，出入境车辆157725辆次，单日过货量创近三年来新高，突破10万吨。据介绍，策克口岸作为我国建设向北开放重要桥头堡的前沿阵地，今年以来，海关与边检部门加强协作，指派专人与企业提前进行舱单申报、运输工具管理、健康申报等信息对接，确保车辆进出境“即到即卸”货物“即报即查”。]]></title>
+            <guid>3221570</guid>
+            <pubDate>Sat, 26 Aug 2023 18:59:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【英国央行副行长：利率需要在更长一段时间内保持高位】英国央行副行长Ben Broadbent表示，鉴于通胀回落速度不太可能像物价上涨那样快，所以央行必须把利率在高位保持更长时间。“第二轮效应消退的速度不会像当初出现时那样快，” Broadbent在杰克逊霍尔年会上说。 “因此，货币政策很可能必须在一段时间内保持在限制性水平。”]]></title>
             <link>https://finance.sina.cn/7x24/2023-08-27/detail-imziqcyt4022588.d.html</link>
@@ -303,12 +308,6 @@
             <link>https://finance.sina.cn/7x24/2023-08-26/detail-imziptkx4225685.d.html</link>
             <guid>3221366</guid>
             <pubDate>Sat, 26 Aug 2023 11:40:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苏丹武装部队对穆快速支援部队在首都喀土的多个据点进行轰炸】当地时间26日，根据阿拉伯电视台和《阿拉伯新闻报》消息，苏丹武装部队当天对快速支援部队驻扎在首都喀土穆的指挥部和总统府的据点进行了轰炸，同时还轰炸了喀土穆附近国际机场附近的快速支援部队的武器库及作战人员。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-26/detail-imziptkt5170269.d.html</link>
-            <guid>3221365</guid>
-            <pubDate>Sat, 26 Aug 2023 11:38:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
