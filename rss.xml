@@ -4,11 +4,16 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 26 Aug 2023 20:15:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Aug 2023 21:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【日本专家：日本政府应该审慎对待核污染水排海 而非一排了之】福岛核污染水排海程序启动引发日本各界的强烈批评和反对。有日本专家认为：应该通过安全存放直至风险减少的方式处理核污染水。柴崎直明是福岛大学教授，同时也是福岛县废炉退役安全委员会的成员，负责核查和研究东京电力公司发布的有关核污染水，和地下水的数据和资料。核事故发生以后，他曾多次进入福岛第一核电站考察。柴崎教授不赞同核污染水排海，他认为，目前最安全的核污染水处置方式是，在可控的环境内进行储存，直到风险降低再对核污染水进行处理。]]></title>
+            <guid>3221575</guid>
+            <pubDate>Sat, 26 Aug 2023 20:34:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ 【美国就业增长放缓将支撑美联储的耐心】8月份，美国就业增长可能放缓，工资涨幅放缓，这表明通胀风险进一步缓和，从而降低了美联储再次加息的紧迫性。周五的美国就业报告预计将显示8月份雇主增加了近17万人，而失业率则保持在3.5%的历史低位。过去三个月的就业增长平均增幅将是2021年初以来的最低水平。]]></title>
             <link>https://finance.sina.cn/7x24/2023-08-27/detail-imziqkhp7132688.d.html</link>
@@ -303,12 +308,6 @@
             <link>https://finance.sina.cn/7x24/2023-08-26/detail-imziptkt5173658.d.html</link>
             <guid>3221374</guid>
             <pubDate>Sat, 26 Aug 2023 12:01:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上交所副总经理王泊：继续深化绿色股权融资服务 支持更多符合双碳战略企业上市】2023中国上市公司论坛（上海）今天举行。上海证券交易所副总经理王泊参会并发表题为《健全资本市场生态助力现代产业体系建设》的主题演讲。谈及上交所的下一步改革方向，王泊表示，将继续深化绿色股权融资服务，支持更多符合双碳战略企业上市，发行绿色债券，拓宽拓展绿色投资产品，强化企业ESG信息披露的意识，引导产业体系绿色化发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-26/detail-imziptky6959645.d.html</link>
-            <guid>3221373</guid>
-            <pubDate>Sat, 26 Aug 2023 12:01:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
