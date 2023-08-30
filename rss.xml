@@ -4,11 +4,92 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Wed, 30 Aug 2023 18:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 19:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[恒指期货夜盘收涨0.91%，报18544点，高水61点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-31/detail-imzizkst6925061.d.html</link>
+            <guid>3225909</guid>
+            <pubDate>Wed, 30 Aug 2023 19:02:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[拜登政府针对超过2300名借款人取消总额7200万美元的学生贷款债务。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-31/detail-imzizkss0146907.d.html</link>
+            <guid>3225908</guid>
+            <pubDate>Wed, 30 Aug 2023 18:55:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[布伦特10月原油期货收涨0.37美元，涨幅0.43%，报85.86美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-31/detail-imzizkss0146859.d.html</link>
+            <guid>3225907</guid>
+            <pubDate>Wed, 30 Aug 2023 18:55:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国农产品期货多数收跌】美国农产品期货多数收跌，CBOT大豆跌0.43%，CBOT豆粕跌0.49%，CBOT玉米跌1.23%，CBOT豆油跌1.20%，CBOT小麦涨1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-31/detail-imzizkst6923882.d.html</link>
+            <guid>3225905</guid>
+            <pubDate>Wed, 30 Aug 2023 18:54:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥央行：将2023年的国内生产总值增长预测上调至3.0%，将2024年的GDP增长预测上调至2.1%。]]></title>
+            <guid>3225904</guid>
+            <pubDate>Wed, 30 Aug 2023 18:38:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周三（8月30日）欧市尾盘，法国巴黎泛欧交易所（EuroNext）“制粉小麦”期货涨0.95%，报238.50欧元/吨。油菜籽期货跌0.16%，报464.00欧元/吨。]]></title>
+            <guid>3225903</guid>
+            <pubDate>Wed, 30 Aug 2023 18:37:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NYMEX 10月天然气期货收涨5.03%，报2.7960美元/百万英热单位。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-31/detail-imzizkst6920663.d.html</link>
+            <guid>3225902</guid>
+            <pubDate>Wed, 30 Aug 2023 18:34:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI 10月原油期货收涨0.47美元，涨幅0.58%，报81.16美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-31/detail-imzizksn2231916.d.html</link>
+            <guid>3225901</guid>
+            <pubDate>Wed, 30 Aug 2023 18:34:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2023年非洲气候峰会将于9月在肯尼亚召开】由非洲联盟和肯尼亚政府共同举办的2023年非洲气候峰会将于9月4日至6日在肯尼亚首都内罗毕召开。此次峰会的主题为“推动绿色增长，为非洲和世界提供气候融资解决方案”，旨在使非洲国家能够制定应对气候挑战的详细计划，为国际金融结构改革提供信息并予以推动，并提供一个平台以解决气候变化、非洲发展和增进全球气候行动投资（特别是在非洲）的必要性之间的问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-31/detail-imzizkst6920339.d.html</link>
+            <guid>3225900</guid>
+            <pubDate>Wed, 30 Aug 2023 18:33:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沪金夜盘收涨0.36%，沪银收涨0.29%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-31/detail-imzizkss0143028.d.html</link>
+            <guid>3225899</guid>
+            <pubDate>Wed, 30 Aug 2023 18:32:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上期所原油期货2310合约夜盘收涨1.18%，报644.50元人民币/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-31/detail-imzizkst6920113.d.html</link>
+            <guid>3225898</guid>
+            <pubDate>Wed, 30 Aug 2023 18:32:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上市券商“中考”榜单出炉：仍由中信证券牢牢霸榜，华泰证券本期超越国泰君安】 据中国基金报，华泰证券、中金公司、申万宏源、海通证券、中信建投、中国银河、广发证券等大型券商陆续公布2023年半年报。数据显示，上半年共有10家上市券商总营收超过百亿，归母净利润超过30亿的共有12家，数量均与去年同期持平。排名方面，上半年上市券商净利排名仍由中信证券牢牢霸榜，以113.06亿元的归母净利润冲在首位。华泰证券本期超越国泰君安，以65.56亿元排在第二名；国泰君安排在第三位，为57.42亿元。此外，东方证券上半年归母净利润达到19.01亿元，同比大涨194%，排名显著提升。另据中证协统计的母公司口径数据，2023年上半年证券业实现营业收入2245亿元、净利润850亿元，同比分别上升9%和5%。对比来看，不少大型券商“跑输”行业整体水平，甚至因大笔资产减值准备计提而导致当期业绩下滑。而部分中小型券商则“船小好调头”，在上半年抓住市场机遇，实现超越式增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-31/detail-imzizksp7554308.d.html</link>
+            <guid>3225897</guid>
+            <pubDate>Wed, 30 Aug 2023 18:31:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【四家基金出手，增强策略ETF再扩容】 继10家基金公司上报的中证2000ETF火速获批后，又有多家基金公司申报相关增强策略ETF产品。证监会官网信息显示，截至8月30日下午，已有四家基金公司向证监会申报中证2000增强策略ETF。其中，银华基金、平安基金、工银瑞信基金三家公司于8月25日当天上报了产品，海富通基金则于8月28日提交了申报注册材料。 业内表示，指数增强型ETF结合指数增强基金和ETF双重优势。伴随着中证2000增强策略ETF上报及获批，将进一步丰富股票ETF产品供给，满足投资者多样化投资需求，为资本市场带来增量资金。（中国基金报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-31/detail-imzizkss0142914.d.html</link>
+            <guid>3225896</guid>
+            <pubDate>Wed, 30 Aug 2023 18:31:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利政府考虑出售关键国有企业股份，以改善财政状况。希望按计划出售Monte Paschi银行以获取现金流。]]></title>
+            <guid>3225895</guid>
+            <pubDate>Wed, 30 Aug 2023 18:31:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【上半年持有人数量最多的基金仍是三只明星基金，黑马基金人气旺，公募量化成“新宠”】 据中证报，Chioce数据显示，截至8月30日已披露中报的基金中，上半年持有人数量最多的基金仍是三只明星基金，包括招商中证白酒A、易方达蓝筹精选和景顺长城新兴成长A。截至二季度末，其持有人户数分别高达618.37万户、442.25万户和340.90万户。有8只权益基金的持有人相较于2022年末增长超20万户。其中，安信医药健康A在上半年最受欢迎，持有人户数共增长66.86万户，增幅高达1022.47%；中银主题策略A、泓德优选成长的持有人户数则分别增长52.97万户和47.01万户，位居其后，增幅分别高达3152.63%、1443.7%。公募量化热持续升温。在震荡市仍保持稳健业绩的公募量化产品备受基民关注，吸引投资者纷纷涌入。在上半年AI引领的极致风格化的行情中，游戏ETF涨幅遥遥领先，成为上半年的“当红炸子鸡”，不少投资者通过场外联接基金的方式买入，相关ETF联接基金的持有人数量激增。]]></title>
             <link>https://finance.sina.cn/7x24/2023-08-31/detail-imzizkss0139339.d.html</link>
@@ -207,93 +288,6 @@
             <link>https://finance.sina.cn/7x24/2023-08-31/detail-imzizeku0251688.d.html</link>
             <guid>3225860</guid>
             <pubDate>Wed, 30 Aug 2023 16:24:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【后桥半轴可能断裂 福特汽车在美召回逾4万辆皮卡】据美国国家公路交通安全管理局8月30日披露，福特汽车公司将召回部分配备单后轮和10.5英寸后车轴的2023款Super Duty F250和F350车型，共计41,555辆。召回原因为：左后桥半轴可能在制造过程中热处理不当而断裂，从而导致车辆在停车时失去动力或车辆侧倾。经销商将检查左后桥半轴日期代码，必要时免费更换这一部件。车主通知函预计将于2023年10月16日寄出。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-31/detail-imzizeku0251568.d.html</link>
-            <guid>3225859</guid>
-            <pubDate>Wed, 30 Aug 2023 16:23:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[大麻股Tilray Brands短线上扬将近0.3美元，日内整体上涨15%，报2.75美元。在美上市大麻ETF Advisorshares Pure US Cannabis（MSOS）因波动性过大而触发盘中临时停牌，停牌前上涨20%。稍早美国健康与社会服务部（HHS）呼吁将大麻归类为低风险美国药品品类。]]></title>
-            <guid>3225858</guid>
-            <pubDate>Wed, 30 Aug 2023 16:21:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国卫生与公众服务部：呼吁将大麻分类归为较低风险的药物类别。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-31/detail-imzizeku0250963.d.html</link>
-            <guid>3225857</guid>
-            <pubDate>Wed, 30 Aug 2023 16:20:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[百度(BIDU.O)涨幅收窄至2.5%，此前一度涨近4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-31/detail-imzizeku0249439.d.html</link>
-            <guid>3225855</guid>
-            <pubDate>Wed, 30 Aug 2023 16:13:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【荷兰天然气期货涨超1%】周三（8月30日）欧市尾盘，ICE英国天然气期货跌0.34%，报88.000便士/千卡，全天波动幅度略超5.0便士。TTF基准荷兰天然气期货涨1.22%，报35.275欧元/兆瓦时，全天波动幅度略超4欧元。ICE欧盟碳排放交易许可（期货价格）涨1.42%，报85.07欧元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-31/detail-imzizekv7026321.d.html</link>
-            <guid>3225854</guid>
-            <pubDate>Wed, 30 Aug 2023 16:12:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【百度：文心一言向全社会开放】8月31日，文心一言率先向全社会全面开放。百度创始人、董事长兼首席执行官李彦宏表示，当文心一言向数以亿计互联网用户大规模开放服务后，能够获得大量真实世界中的人工反馈，这将进一步改进基础模型，并以更快速度迭代文心一言，创造更好的用户体验。（百度官方公众号）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-31/detail-imzizekr7669323.d.html</link>
-            <guid>3225853</guid>
-            <pubDate>Wed, 30 Aug 2023 16:12:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【有大行三年期利率将下调20个基点，其他期限利率也将同步下调】据每经，从华东地区某大行人士处获悉，该行三年期存款利率将从2.85%降到2.65%，8月31日落地。至于其他期限的存款情况，该人士表示，利率同样会下降，具体通知暂未下发。记者从另一家大行的客户经理处了解到，该行存款预计9月1日降息，至于调降的幅度，“估计一年期、两年期10bp，三年期、五年期25bp”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-31/detail-imzizekr7668434.d.html</link>
-            <guid>3225852</guid>
-            <pubDate>Wed, 30 Aug 2023 16:06:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯谷物收割已经过半 产量已达1.05亿吨】俄罗斯农业部周三表示，截至8月底，该国谷物收割已经“突破半数大关”，产量已经超过1亿吨。俄罗斯农业部长Patrushev称，目前已经收获谷物1.05亿吨，其他作物的收割也在如期进行，包括油菜籽、土豆和甜菜等。他称，在该国的43个地区，冬播已启动，迄今已播种170万公顷农田，今年冬季播种面积料为2000万公顷。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-31/detail-imzizekq2345482.d.html</link>
-            <guid>3225851</guid>
-            <pubDate>Wed, 30 Aug 2023 16:05:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【丰田今年首次将生产超过1000万辆汽车】丰田今年首次将生产超过1000万辆汽车；丰田汽车计划在8月至12月期间加快生产速度，平均每月生产90万辆汽车；中期计划预计明年生产量约为1070万辆汽车，2025年约为1100万辆。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-31/detail-imzizeku0247338.d.html</link>
-            <guid>3225850</guid>
-            <pubDate>Wed, 30 Aug 2023 16:04:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据猫眼专业版数据，电影奥本海默上映2天，总票房破4000万。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-31/detail-imzizekv7024398.d.html</link>
-            <guid>3225849</guid>
-            <pubDate>Wed, 30 Aug 2023 16:04:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【原Citadel交易员创立的对冲基金的资管规模在1-7月缩水25%】曾在Citadel工作的货币经理Niall O’Keeffe和Tio Charbaghi创立的对冲基金FIFTHDELTA的资产管理规模7月缩水大约13%，使得2023年迄今累计下滑25%——跌幅一度达到29%。两人于2021年在伦敦成立了前述对冲基金FIFTHDELTA，是欧洲最大的对冲基金初创公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-31/detail-imzizeku0247126.d.html</link>
-            <guid>3225848</guid>
-            <pubDate>Wed, 30 Aug 2023 16:03:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美联储加强对地区性银行的监管，要求加强流动性规划】美国监管机构正悄然要求地区贷款机构加强其流动性规划，这是在今年早些时候三家银行倒闭后加强监管工作的一部分。据知情人士透露，美联储已向资产规模在1000亿至2500亿美元之间的贷款机构发出了一系列私人警告，其中包括公民金融集团、Fifth Third Bancorp和M&T银行，通知涉及从贷款机构的资本和流动性到技术和合规性等各个方面。今年早些时候，美联储负责监管的副主席巴尔誓言要“提高监督的速度、力度和灵活性”，此后，各种规模的银行都受到了更广泛的监督，而此次行动也是监督力度加大的一部分。Kilpatrick Townsend & Stockton律师事务所金融服务团队负责人表示：“监管人员将对解决问题施加严格的最后期限。如果银行不能迅速解决这些问题，他们就会采取执法行动。”]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-31/detail-imzizeku0246887.d.html</link>
-            <guid>3225847</guid>
-            <pubDate>Wed, 30 Aug 2023 16:02:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯7月失业率3.0%，预期3.1%。7月商品发货同比下降0.9%。7月零售销售同比增长10.5%，市场预期为9.5%。7月建筑业活动同比增长6.5%。6月薪资同比增长10.5%，市场预期为9.4%。截至8月28日当周CPI环比上升0.03%。开年截至8月28日当周CPI累计上升3.65%。]]></title>
-            <guid>3225846</guid>
-            <pubDate>Wed, 30 Aug 2023 16:02:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[通用云计算平台初创公司CoreWeave寻求基于至多80亿美元的估值出售部分股权。]]></title>
-            <guid>3225845</guid>
-            <pubDate>Wed, 30 Aug 2023 16:02:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四川省人大经济委员会、经济和信息化厅、五粮液集团到茅台考察交流】据贵州茅台官微，8月30日，四川省人大常委会委员、经济委主任委员刘中伯率四川省人大经济委员会、经济和信息化厅、五粮液集团一行到访茅台，与茅台集团党委书记、董事长丁雄军等深入交流座谈。丁雄军对刘中伯一行到访茅台表示欢迎。他说，当前白酒行业正面临“新秩序重塑期、新格局形成期、新消费升级期”三期叠加的发展新形势，茅台将持续走好以茅台美学为价值内涵的五线高质量发展道路，构建五大现代化建设体系，紧紧围绕“双一流、三突破、五跨越”的发展目标，不断推动茅台高质量发展、现代化建设。希望茅台与五粮液不断夯实传统友谊，丰富“‘茅五’与共 各美其美”表达，共同讲好白酒故事，筑牢白酒品质，发出竞合发展好声音，不断满足人们对美好生活的向往和追求，持续引领和推动中国白酒行业高质量发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-31/detail-imzizekv7023712.d.html</link>
-            <guid>3225844</guid>
-            <pubDate>Wed, 30 Aug 2023 16:02:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
