@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 02 Sep 2023 18:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Sep 2023 19:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[马斯克：目标是到年底每月进行10次猎鹰火箭发射。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-03/detail-imzkkhcu4141744.d.html</link>
+            <guid>3229010</guid>
+            <pubDate>Sat, 02 Sep 2023 19:04:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【宠物沟通师能与宠物隔空对话？业内人士：没有科学依据】近日，一段博主花500元找宠物沟通师与狗子“对话”的视频在网上引发关注。在视频评论区，该博主提醒，找宠物沟通师及发视频都是为了好玩，仅供娱乐，不推荐大家找。宠物产业内人士提醒，隔空与宠物沟通没有科学依据，宠物沟通师利用宠物主人的心理对宠物进行拟人化，容易引起共情并获得信任。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-03/detail-imzkkhcu4138786.d.html</link>
+            <guid>3229009</guid>
+            <pubDate>Sat, 02 Sep 2023 18:47:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国工人短缺影响这五个职业】美国许多行业的工作岗位一直面临着工人短缺的问题。受到影响的一些主要行业包括空中交通管制员、教师、公共汽车司机、飞行员和航空机械师以及建筑和制造工人。]]></title>
             <link>https://finance.sina.cn/7x24/2023-09-03/detail-imzkizvw4263063.d.html</link>
@@ -305,18 +317,6 @@
             <link>https://finance.sina.cn/7x24/2023-09-02/detail-imzkirhe1246809.d.html</link>
             <guid>3228902</guid>
             <pubDate>Sat, 02 Sep 2023 12:38:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【商务部部长助理陈春江：积极筹划促进电商发展的政策举措】商务部党组成员、部长助理陈春江表示，商务部将围绕促进数字经济和实体经济深度融合，积极营造良好的政策环境，支持各类电商主体在创新发展、创造就业、国际合作中大显身手。将把恢复和扩大消费摆在优先位置，组织开展“消费提振年”促消费活动，积极筹划促进电商发展的政策举措，持续创新消费场景，围绕绿色智能家居等领域，加大对各地各平台网络促销活动的指导支持力度，努力打造贯穿全年的网络促销矩阵。（澎湃新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-02/detail-imzkirfy1657115.d.html</link>
-            <guid>3228901</guid>
-            <pubDate>Sat, 02 Sep 2023 12:36:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“苏拉”两次登陆，相关各地全力应对】 今天（9月2日），今年第9号台风“苏拉”先后两次在广东登陆，中央气象台继续发布台风红色预警。凌晨3时30分左右，台风“苏拉”在广东珠海市南部沿海登陆，登陆时中心附近最大风力达14级。随后，“苏拉”再次移入珠海市南部近海，并于今天下午1时50分左右，在广东阳江市海陵岛再次登陆，目前已经减弱为热带风暴级。随着“苏拉”登陆后强度减弱，广东多地生产生活秩序逐步恢复。今天，广东将防风应急响应从一级下调为三级。 中央气象台预计，“苏拉”将于明天上午移入北部湾海面，强度逐渐减弱。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-02/detail-imzkirha4468561.d.html</link>
-            <guid>3228900</guid>
-            <pubDate>Sat, 02 Sep 2023 12:31:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
