@@ -4,13 +4,18 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 02 Sep 2023 16:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Sep 2023 17:12:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【这国宣布：派团访华】据法新社等外媒9月2日报道，澳大利亚外交部当天表示，澳方将于下周派遣一个由工业、政府、学术、媒体和艺术代表组成的代表团前往北京，与中国同行进行对话，以稳定与中国的关系。（环球时报）]]></title>
+            <title><![CDATA[【助力入境游复苏 全球旅行商大会亮相天津】9月2日，全球旅行商（天津）大会在国家会展中心（天津）成功举办。本次大会由中国旅游产业博览会组委会主办，携程集团承办，是第十三届中国旅游产业博览会重要活动之一，来自全球50多个国家和地区的160余位旅游业界专家、企业家以及500余位国内旅行商参会。]]></title>
+            <guid>3229006</guid>
+            <pubDate>Sat, 02 Sep 2023 16:51:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【外媒：澳大利亚外交部宣布将于下周派代表团前往北京】据法新社等外媒9月2日报道，澳大利亚外交部当天表示，澳方将于下周派遣一个由工业、政府、学术、媒体和艺术代表组成的代表团前往北京，与中国同行进行对话，以稳定与中国的关系。（新京报）]]></title>
             <guid>3229005</guid>
             <pubDate>Sat, 02 Sep 2023 16:14:44 GMT</pubDate>
         </item>
@@ -312,12 +317,6 @@
             <link>https://finance.sina.cn/7x24/2023-09-02/detail-imzkirhe1244888.d.html</link>
             <guid>3228898</guid>
             <pubDate>Sat, 02 Sep 2023 12:25:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[香港天文台：一号戒备信号在下午8时20分发出，取代三号强风信号。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-02/detail-imzkirha4467411.d.html</link>
-            <guid>3228897</guid>
-            <pubDate>Sat, 02 Sep 2023 12:23:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
