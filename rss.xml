@@ -4,11 +4,16 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 02 Sep 2023 20:15:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Sep 2023 21:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【世界旅游：全面复苏伴随强势增长】2023年世界旅游业迎来新的发展机遇，如何进一步推动旅游消费、拉动经济增长，成为业界关注的焦点。9月2日，2023世界旅游合作与发展大会上，正式发布了《世界旅游城市发展报告2022》，2022 年全球旅游总人次达到95.7亿人次，全球旅游总收入达到4.6万亿美元，分别恢复至2019年的66.1%和79.6%。世界旅游市场正在发生新的变化，加速驶入高质量发展快车道。]]></title>
+            <guid>3229012</guid>
+            <pubDate>Sat, 02 Sep 2023 20:24:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【东盟峰会开幕在即 “经济”话题持续升温】第43届东盟峰会及东亚合作领导人系列会议开幕在即，“经济”话题正在轮值主席国印度尼西亚持续升温。印尼总统佐科表示，此次东盟峰会“议程有很多，但重点是经济”。]]></title>
             <link>https://finance.sina.cn/7x24/2023-09-03/detail-imzkkhcu4144277.d.html</link>
@@ -311,12 +316,6 @@
             <link>https://finance.sina.cn/7x24/2023-09-02/detail-imzkirhe1247730.d.html</link>
             <guid>3228904</guid>
             <pubDate>Sat, 02 Sep 2023 12:43:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【工信部：要扩大5G、工业互联网等规模化应用】 9月1日至2日，工信部党组书记、部长金壮龙到南京航空航天大学、南京理工大学、江苏省通信管理局调研。金壮龙强调，要扩大5G、工业互联网等规模化应用，加强技术手段建设，进一步提升应急通信、网络安全综合保障能力，更好赋能制造业数字化智能化转型，促进数字经济和实体经济深度融合。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-02/detail-imzkirha4469887.d.html</link>
-            <guid>3228903</guid>
-            <pubDate>Sat, 02 Sep 2023 12:38:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
