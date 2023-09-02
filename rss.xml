@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 02 Sep 2023 19:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Sep 2023 20:15:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【东盟峰会开幕在即 “经济”话题持续升温】第43届东盟峰会及东亚合作领导人系列会议开幕在即，“经济”话题正在轮值主席国印度尼西亚持续升温。印尼总统佐科表示，此次东盟峰会“议程有很多，但重点是经济”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-03/detail-imzkkhcu4144277.d.html</link>
+            <guid>3229011</guid>
+            <pubDate>Sat, 02 Sep 2023 19:19:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[马斯克：目标是到年底每月进行10次猎鹰火箭发射。]]></title>
             <link>https://finance.sina.cn/7x24/2023-09-03/detail-imzkkhcu4141744.d.html</link>
@@ -311,12 +317,6 @@
             <link>https://finance.sina.cn/7x24/2023-09-02/detail-imzkirha4469887.d.html</link>
             <guid>3228903</guid>
             <pubDate>Sat, 02 Sep 2023 12:38:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯计划2030年后发射“回旋镖”星际探测器】据塔斯社等媒体报道，隶属于俄罗斯国家航天集团公司的拉沃奇金科研生产联合体的一份材料显示，该公司计划在2030年后发射“回旋镖”星际探测器，主要任务是在失重条件下完成着陆并将采集到的火卫一土壤样本送回地球。（中国新闻网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-02/detail-imzkirhe1246809.d.html</link>
-            <guid>3228902</guid>
-            <pubDate>Sat, 02 Sep 2023 12:38:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
