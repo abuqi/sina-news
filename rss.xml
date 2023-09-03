@@ -4,11 +4,55 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 03 Sep 2023 19:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Sep 2023 20:15:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[尼日利亚总统发言人：应印度总理莫迪的邀请，尼日利亚总统将出席在印度举行的G20峰会。]]></title>
+            <guid>3229544</guid>
+            <pubDate>Sun, 03 Sep 2023 20:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南非总统拉马福萨：调查发现没有证据支持声称俄罗斯货船从南非运送武器前往俄罗斯的说法。南非没有发放武器出口许可证，也没有出口武器。]]></title>
+            <guid>3229543</guid>
+            <pubDate>Sun, 03 Sep 2023 20:12:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基表示与法国总统马克龙进行了会谈，并就在法国进行飞行员培训达成了非常重要的协议。]]></title>
+            <guid>3229542</guid>
+            <pubDate>Sun, 03 Sep 2023 20:07:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[华纳兄弟：电影《芭比》在全球范围内的票房达到13.8亿美元，成为2023年票房最高的电影。]]></title>
+            <guid>3229541</guid>
+            <pubDate>Sun, 03 Sep 2023 20:05:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌克兰总统决定解除列兹尼科夫的国防部长职务】当地时间9月3日，乌克兰总统泽连斯基表示，已决定解除列兹尼科夫的国防部长职务，并建议现任乌克兰国家财产基金负责人乌梅罗夫接任国防部长一职。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-04/detail-imzknrks2952907.d.html</link>
+            <guid>3229540</guid>
+            <pubDate>Sun, 03 Sep 2023 20:03:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克：X平台的视频观看量自去年以来大致翻了一番。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-04/detail-imzknrkn4753758.d.html</link>
+            <guid>3229539</guid>
+            <pubDate>Sun, 03 Sep 2023 20:02:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【硬科技投资挤泡沫 “再持炒作思维将被淘汰出局”】以半导体为代表的硬科技投资风起云涌，繁荣也催生了泡沫，项目估值翻倍是常态，“原来可能5个亿的，现在都要10个亿，甚至喊出20个亿”。不少投资人认为，即便当下面临资本寒冬，估值仍然还未回到合理的水平，下降空间还很大。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-04/detail-imzknrks2952708.d.html</link>
+            <guid>3229538</guid>
+            <pubDate>Sun, 03 Sep 2023 20:01:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【碧桂园首笔债务展期获通过 涉资金39亿】近日，有市场人士向第一财经透露，在经历了两周沟通之后，碧桂园第一个债务展期方案获得债权人通过。碧桂园是8月18日披露该笔债券的展期方案的。资料显示，该债券为碧桂园控股所发行的“16碧园05”熊猫债，发行规模58.3亿元，当前余额为39.04亿元，票面利率5.65%，到期日为2023年9月2日。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-04/detail-imzknrks2950346.d.html</link>
+            <guid>3229537</guid>
+            <pubDate>Sun, 03 Sep 2023 19:45:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【暑期民航运输量创新高 预计国庆热度延续】每年7月到8月的暑期是一年中持续时间最长的运输旺季。今年暑运期间，旅客压抑已久的出游需求得到释放，出行市场异常火爆。航班管家发布的《2023年暑运民航数据总结》测算，暑运全民航共运输旅客约1.26亿人次，同比2019年增长4.2%，暑运运力恢复至2019年的116.8%。“中秋、国庆假期是旅客出游的黄金时段，民航出行需求旺盛。”业内人士表示，从目前订票情况来看，国庆游热度只增不减。截至8月29日，中秋、国庆假期国内机票预订量超过160万，比一周前增长约33%；出入境机票预订量近50万，比一周前增长约17%。]]></title>
             <link>https://finance.sina.cn/7x24/2023-09-04/detail-imzknmav9853580.d.html</link>
@@ -275,53 +319,6 @@
             <link>https://finance.sina.cn/7x24/2023-09-03/detail-imzkmypa0050764.d.html</link>
             <guid>3229367</guid>
             <pubDate>Sun, 03 Sep 2023 12:53:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【翔丰华：正积极接触德国大众、韩国SKI等国际知名锂电池企业】翔丰华近日在机构调研中表示，目前公司正在积极接触德国大众、韩国SKI、日本松下等国际知名锂电池企业，鉴于具体合作进度涉及保密协议，后续公司将按照相关规则及时披露有关重大进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-03/detail-imzkmypa0049277.d.html</link>
-            <guid>3229363</guid>
-            <pubDate>Sun, 03 Sep 2023 12:47:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华为Mate 60 Pro在全国线下门店正式开售 多地现场取机排长队】今日18:08，第一批预定华为Mate 60 Pro的用户可前往门店取机，同时开启全渠道销售。目前，深圳、西安等地门店的首批mate60线下取机现场排起了长队。记者了解到，自今日18:08起，除了深圳首销门店外，华为各地线下门店均可体验并预定Mate 60 Pro手机。 （科创板日报）]]></title>
-            <guid>3229361</guid>
-            <pubDate>Sun, 03 Sep 2023 12:45:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【各粮食主产区分类施策，夯实秋粮丰收基础】秋粮占全年粮食总产量的75%。当前，各粮食主产区针对秋粮作物的不同特点分类施策抓田管，多举措夯实秋粮丰收基础。农业农村部农情调度显示，目前，全国大部地区秋粮作物长势总体正常。针对“三秋”生产期间可能遇到的各种不利天气，近日，农业农村部部署下一阶段农机防灾救灾工作，要求各地充分发挥农机在农业生产和应急救灾中的主力军作用，全力做好“三秋”机械化生产机具与队伍准备工作，为全年粮食丰收到手提供有力保障。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-03/detail-imzkmuey0548040.d.html</link>
-            <guid>3229360</guid>
-            <pubDate>Sun, 03 Sep 2023 12:45:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利经济部长：意大利对银行利润征税的计划是“公平的”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-03/detail-imzkmuew5224783.d.html</link>
-            <guid>3229359</guid>
-            <pubDate>Sun, 03 Sep 2023 12:42:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【消息称2024年上市的OLED款iPadPro顶配型号有望提供4TB容量选项】苹果产品爆料者Revengus（Tech_Reve）在X平台发布贴文，其中表示苹果将在未来的OLED版iPad Pro中提供4TB选项，该存储空间预计将作为顶配方案提供。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-03/detail-imzkmufe0178350.d.html</link>
-            <guid>3229352</guid>
-            <pubDate>Sun, 03 Sep 2023 12:39:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币站上26000美元/枚，日内涨1.00%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-03/detail-imzkmufa3401180.d.html</link>
-            <guid>3229351</guid>
-            <pubDate>Sun, 03 Sep 2023 12:38:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利经济部长确认2024年国内生产总值增长目标为1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-03/detail-imzkmufa3400858.d.html</link>
-            <guid>3229349</guid>
-            <pubDate>Sun, 03 Sep 2023 12:37:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中金：一揽子稳增长、稳预期政策密集出台，在积极信号催化下A股市场初显企稳迹象】中金研报表示，近期与经济增长、房地产、资本市场改革相关的一揽子稳增长、稳预期政策密集出台，直面市场关切，在积极信号催化下，A股市场初显企稳迹象。从资本市场维度，在经历前期调整后，市场成交、估值、各类主体行为表现等均显示当前市场已处于历史偏底部区间，随着稳增长政策陆续实施、上市企业盈利底部逐渐显现，对后市资本市场演绎不必过于悲观，中期市场机会仍大于风险。配置方面，7月政治局会议后，A股市场风格阶段性转向大胜小、价值优于成长。考虑到当前政策环境较为积极且仍在发力过程中，我们认为地产产业链等政策重点支持领域仍有望有相对表现，受益于产业催化的部分科技成长细分领域建议结合景气度预期做自下而上布局。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-03/detail-imzkmufe0176384.d.html</link>
-            <guid>3229347</guid>
-            <pubDate>Sun, 03 Sep 2023 12:30:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
