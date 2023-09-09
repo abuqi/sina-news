@@ -4,11 +4,35 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 09 Sep 2023 13:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 14:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[乌克兰经济部：预计乌克兰2023年GDP增速为4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzmcpca1043651.d.html</link>
+            <guid>3236388</guid>
+            <pubDate>Sat, 09 Sep 2023 13:54:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【日本核污染水预计于11日完成首轮排放 累计排放已超7100吨】8月24日，日本启动核污染水排海以来，现在（9日）已经进入了第17天，截至当地时间今天早上8点，累计排放已超过7100吨。东电称，首轮排放的约7800吨核污染水将于明天下午全部排出，随后将冲洗残留在设备中的核污染水，预计将在11日完成首轮排放，第二轮排放的详情将在9月下旬公布。 (央视财经)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzmcpau5544973.d.html</link>
+            <guid>3236387</guid>
+            <pubDate>Sat, 09 Sep 2023 13:36:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度总理莫迪、意大利总理梅洛尼在G20会议上就贸易、商业和国防进行了讨论。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzmcpca1040047.d.html</link>
+            <guid>3236386</guid>
+            <pubDate>Sat, 09 Sep 2023 13:35:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【日本外相突访乌克兰】日本外相林芳正9日在未事先宣布的情况下突访乌克兰。林芳正在基辅与乌外长库列巴等政府官员会谈，介绍明年初在日本召开“日乌经济重建推进会议”的方针。林芳正还出席用于排除哑弹的吊车交付仪式。 (环球时报)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzmcpca1039185.d.html</link>
+            <guid>3236385</guid>
+            <pubDate>Sat, 09 Sep 2023 13:30:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【佩斯科夫：俄罗斯提出的粮食交易恢复条件众所周知且具可行性】俄罗斯总统新闻秘书佩斯科夫说：“俄罗斯总统曾明确指出，条件众所周知，且有协议在先。现在据说西方貌似准备承诺允许俄罗斯农业银行子行重返环球银行间金融通信协会（SWIFT）。事实上，协议中规定的是应向俄罗斯农业银行、而不是向其子公司开放SWIFT。就是说，要做的是回到最初协议的基础上来，回到很久以前就承诺履行的协议上来。”]]></title>
             <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzmcpca1036805.d.html</link>
@@ -281,30 +305,6 @@
             <title><![CDATA[G20领导人宣言：注意到发展中国家在2030年前需要5.8-5.9万亿美元投资，特别是为了实现其减排目标的需求。]]></title>
             <guid>3236339</guid>
             <pubDate>Sat, 09 Sep 2023 11:09:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[G20领导人宣言：将努力促进低成本融资，支持发展中国家向低碳/低排放转型。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzmchve1148487.d.html</link>
-            <guid>3236338</guid>
-            <pubDate>Sat, 09 Sep 2023 11:09:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[G20领导人宣言：认识到为实现《巴黎协定》的气候目标需要增加全球投资的必要性。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzmchve1147090.d.html</link>
-            <guid>3236337</guid>
-            <pubDate>Sat, 09 Sep 2023 11:00:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家安全顾问沙利文：G20公报对乌克兰问题的措辞“具有重大影响”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzmchve1147057.d.html</link>
-            <guid>3236336</guid>
-            <pubDate>Sat, 09 Sep 2023 10:59:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[G20公报确认2026年峰会将在美国举行。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzmchuw5652574.d.html</link>
-            <guid>3236335</guid>
-            <pubDate>Sat, 09 Sep 2023 10:59:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
