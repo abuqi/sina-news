@@ -4,11 +4,26 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 09 Sep 2023 17:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 18:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【我国绿证核发和交易量明显上升 绿色电力推广速度明显加快】绿证是我国可再生能源电量环境属性的唯一证明，可交易绿证可通过参与绿证绿电交易等方式在发电企业和用户间有偿转让。记者从国家能源局了解到，今年以来，我国绿证核发和交易量明显上升，我国绿色电力推广速度明显加快。]]></title>
+            <guid>3236412</guid>
+            <pubDate>Sat, 09 Sep 2023 18:00:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：09月10日01时13分在云南德宏州盈江县（北纬24.97度，东经97.87度）发生3.4级地震，震源深度10千米。]]></title>
+            <guid>3236411</guid>
+            <pubDate>Sat, 09 Sep 2023 17:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网自动测定：09月10日01时13分在云南德宏州盈江县附近（北纬24.83度，东经97.97度）发生3.7级左右地震，最终结果以正式速报为准。]]></title>
+            <guid>3236410</guid>
+            <pubDate>Sat, 09 Sep 2023 17:17:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【受台风影响日本3人死亡、千余栋房屋被淹】据日本气象厅公布，8日至9日，受13号台风和太平洋高气压边缘湿空气影响，日本千叶、茨城和福岛三县出现大范围强降雨天气。截至9日，已造成3人死亡，超过1500栋房屋被淹。]]></title>
             <link>https://finance.sina.cn/7x24/2023-09-10/detail-imzmcxsw0812600.d.html</link>
@@ -297,24 +312,6 @@
             <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzmchva4378853.d.html</link>
             <guid>3236362</guid>
             <pubDate>Sat, 09 Sep 2023 11:59:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【广州首套房贷突破LPR下限 成为首个突破下限的一线城市】广州首套房贷突破LPR下限，成为首个突破下限的一线城市。据悉最新的政策为，广州无房，首套房首付30%，利率为LPR-10%，即4.1%；广州有一套房无在供或者已经结清，二套房按照首付30%，利率也为LPR-10%；广州有一套房且在供，首付40%，利率为LPR+30BP，即4.5%，广州有2套房及以上者，暂停放发贷款。新政从9月8日起执行，9月8号之前（不含9月8号）已完成买卖合同或房地产买卖合同网签的，按原规定执行。 (21财经)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzmchve1152340.d.html</link>
-            <guid>3236361</guid>
-            <pubDate>Sat, 09 Sep 2023 11:34:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【辽宁储能产业大会启幕 逾百亿元项目助沈阳打造北方储能之都】据中国新闻网，9月9日，2023辽宁储能产业大会在沈阳市沈北新区召开。值得注意的是，此次大会期间，辽宁高端电力智能装备绿色双碳(储能)产业基地第一批产品正式下线，项目由沈阳南源储能科技有限公司投资建设，总投资102亿元，将助力沈阳打造中国北方千亿储能之都。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzmchve1152075.d.html</link>
-            <guid>3236360</guid>
-            <pubDate>Sat, 09 Sep 2023 11:33:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度外长：关于黑海谷物协议正在进行多方讨论。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzmchuw5657499.d.html</link>
-            <guid>3236359</guid>
-            <pubDate>Sat, 09 Sep 2023 11:32:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
