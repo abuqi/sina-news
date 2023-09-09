@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 09 Sep 2023 18:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 19:11:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【摩洛哥强震已致上千人遇难】当地时间9日，摩洛哥国王穆罕默德六世主持会议部署震后救援工作。会议同时决定摩洛哥全国哀悼三天，所有公共建筑均下半旗志哀。（CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-10/detail-imzmcxsq5318495.d.html</link>
+            <guid>3236413</guid>
+            <pubDate>Sat, 09 Sep 2023 18:38:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【我国绿证核发和交易量明显上升 绿色电力推广速度明显加快】绿证是我国可再生能源电量环境属性的唯一证明，可交易绿证可通过参与绿证绿电交易等方式在发电企业和用户间有偿转让。记者从国家能源局了解到，今年以来，我国绿证核发和交易量明显上升，我国绿色电力推广速度明显加快。]]></title>
             <guid>3236412</guid>
@@ -306,12 +312,6 @@
             <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzmchva4379765.d.html</link>
             <guid>3236363</guid>
             <pubDate>Sat, 09 Sep 2023 12:05:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【腾讯云与APUS达成战略合作】9月9日获悉，在2023腾讯全球数字生态大会上，腾讯云与AI大模型企业阿帕斯（APUS）达成战略合作。双方将集中各自优势，在ICT基础设施、大模型生态建设等领域开展广泛、深入合作。据阿帕斯介绍，以千亿级多模态大模型阿帕斯大模型的推出与应用为标志，全面转型人工智能。阿帕斯大模型具备对文本、图像、视频、音频的理解和生成能力，并已通过智能问答大师等7款人工智能产品向C端用户开放使用，同时，并行落地智慧客服、智慧医疗、智慧网信、智慧判案等产业应用场景。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzmchva4378853.d.html</link>
-            <guid>3236362</guid>
-            <pubDate>Sat, 09 Sep 2023 11:59:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
