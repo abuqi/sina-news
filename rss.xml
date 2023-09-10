@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 10 Sep 2023 18:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 19:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【监管层约谈铁矿石期货公司 下阶段铁矿石价格预计震荡趋弱】据国家发改委消息，近日国家发展改革委价格司、证监会期货部组织部分期货公司召开会议，研判铁矿石市场和价格形势，提醒企业全面客观分析市场形势。参会企业分析认为，8月中旬以来，在铁矿石市场供需基本面没有发生较大变化的情况下，铁矿石价格出现过快上涨，后期面临下行压力。将加强内部合规管理、共同维护良好市场秩序，强化投资者风险教育，及时向客户提示市场风险。会议要求，期货公司要依法合规经营，加强研究报告等信息发布合规审核，全面准确客观分析铁矿石市场形势，不得片面解读有关政策，不得选择性引用数据，不得故意渲染涨价氛围；要加强对投资者风险提示，提醒投资者理性交易，不得过度投机炒作。（第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-11/detail-imzmhhxs2843455.d.html</link>
+            <guid>3236739</guid>
+            <pubDate>Sun, 10 Sep 2023 18:47:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【中国成全球最大折叠屏手机市场 头部手机厂商“卡位赛”开启】折叠屏手机赛道正在迎来最为激烈的市场竞争。9月8日，OPPO新一代小折叠机型OPPO Find N3 Flip在全渠道正式开售，官方公布的最新数据显示，OPPO Find N3 Flip首销销售额较上代提升91%。创下行业小折叠首销日销量和销售额的新纪录。根据调研机构Counterpoint统计，OPPO上半年在折叠屏市场份额已达到20%。而在华为和三星的眼皮子下，OPPO上半年更是拿下了小折叠市场31%的份额，位居该细分赛道第一。这样的成绩显然在高端市场对华为造成了压力，从Mate 60系列的官宣到毫无预警的X5折叠屏预售，时间上的完全“撞车”多少掺杂了些火药味，而随着更多折叠屏机型的上市，业内认为，折叠屏手机市场将会进入更为激烈的追逐战。“折叠屏手机的赛道也将逐渐分化，品类定位差异性越发明显。大折叠更加主打商务人群，产品价格维持在高位。而小折叠价格下探速度更快，明年甚至有望大举攻入4000元档位。”Counterpoint分析师Archie Zhang对记者表示，全球折叠屏智能手机出货量预计将在2022~2025年间翻两番达到5500万部，中国市场目前已成为全球最大折叠屏手机市场。（第一财经）]]></title>
             <guid>3236738</guid>
@@ -295,12 +301,6 @@
             <link>https://finance.sina.cn/7x24/2023-09-10/detail-imzmfrzy3169719.d.html</link>
             <guid>3236688</guid>
             <pubDate>Sun, 10 Sep 2023 12:35:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[天风证券给予敷尔佳买进的初始评级，目标价81元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-10/detail-imzmfsac1523163.d.html</link>
-            <guid>3236687</guid>
-            <pubDate>Sun, 10 Sep 2023 12:33:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
