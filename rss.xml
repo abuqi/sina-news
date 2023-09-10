@@ -4,11 +4,16 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 10 Sep 2023 17:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 18:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【中国成全球最大折叠屏手机市场 头部手机厂商“卡位赛”开启】折叠屏手机赛道正在迎来最为激烈的市场竞争。9月8日，OPPO新一代小折叠机型OPPO Find N3 Flip在全渠道正式开售，官方公布的最新数据显示，OPPO Find N3 Flip首销销售额较上代提升91%。创下行业小折叠首销日销量和销售额的新纪录。根据调研机构Counterpoint统计，OPPO上半年在折叠屏市场份额已达到20%。而在华为和三星的眼皮子下，OPPO上半年更是拿下了小折叠市场31%的份额，位居该细分赛道第一。这样的成绩显然在高端市场对华为造成了压力，从Mate 60系列的官宣到毫无预警的X5折叠屏预售，时间上的完全“撞车”多少掺杂了些火药味，而随着更多折叠屏机型的上市，业内认为，折叠屏手机市场将会进入更为激烈的追逐战。“折叠屏手机的赛道也将逐渐分化，品类定位差异性越发明显。大折叠更加主打商务人群，产品价格维持在高位。而小折叠价格下探速度更快，明年甚至有望大举攻入4000元档位。”Counterpoint分析师Archie Zhang对记者表示，全球折叠屏智能手机出货量预计将在2022~2025年间翻两番达到5500万部，中国市场目前已成为全球最大折叠屏手机市场。（第一财经）]]></title>
+            <guid>3236738</guid>
+            <pubDate>Sun, 10 Sep 2023 17:42:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【二十国集团领导人峰会闭幕 承诺加快实现强劲、可持续、平衡和包容增长】二十国集团领导人第十八次峰会10日在印度首都新德里闭幕，峰会通过《二十国集团领导人新德里峰会宣言》，承诺采取切实行动应对全球挑战。
 
@@ -296,12 +301,6 @@
             <link>https://finance.sina.cn/7x24/2023-09-10/detail-imzmfsac1523163.d.html</link>
             <guid>3236687</guid>
             <pubDate>Sun, 10 Sep 2023 12:33:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【第21届中国西部海外高新科技人才洽谈会开幕】9月10日，主题为“共建创新生态ㆍ共享科技未来”的第21届中国西部海外高新科技人才洽谈会在四川成都拉开帷幕。在接下来为期3天的时间里，将举行“开幕式暨天府论坛、四川省委省政府主要领导会见重要嘉宾、主题市活动——南充市专场对接洽谈会”3场主体活动以及第九届“海科杯”全球华侨华人创新创业大赛决赛、第三届川渝数字经济创新发展论坛和第三届全球青年学者论坛等18场专项活动。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-10/detail-imzmfrzy3168725.d.html</link>
-            <guid>3236686</guid>
-            <pubDate>Sun, 10 Sep 2023 12:30:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
