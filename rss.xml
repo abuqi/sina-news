@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 10 Sep 2023 20:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 21:12:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：Meta Platforms正在开发一种更强大的人工智能系统，计划在明年推出新的人工智能模型。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-11/detail-imzmhpfq2726612.d.html</link>
+            <guid>3236745</guid>
+            <pubDate>Sun, 10 Sep 2023 21:04:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【赣州深圳住房公积金异地缴存“互认互贷” 多地公积金政策优化加速】近日，赣州市住房公积金管理委员会发布《关于开展与深圳市住房公积金异地缴存互认互贷业务的通知》，其中提出，在现行“省内+湖南五市（长沙市、株洲市、湘潭市、岳阳市、郴州市）”住房公积金异地缴存互认互贷的基础上，增加与深圳市住房公积金异地缴存互认互贷。住房公积金缴存职工在深圳或赣州购房的，可按购房地贷款政策在购房地公积金中心申请住房公积金贷款，按缴存地提取政策提取个人住房公积金个人账户余额。除深圳、赣州外，今年以来，多地公积金“同城化”加速，京津冀、长三角、成渝、长江中游城市群亦积极推进公积金的“互认互贷”工作。而随着近期房地产利好政策密集落地，各地公积金政策优化也在加速。（第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-11/detail-imzmhpfr9502018.d.html</link>
+            <guid>3236744</guid>
+            <pubDate>Sun, 10 Sep 2023 20:47:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国财长耶伦：重要且良好的劳动力市场情况正有所缓和。]]></title>
             <link>https://finance.sina.cn/7x24/2023-09-11/detail-imzmhpft1054169.d.html</link>
@@ -290,17 +302,6 @@
             <link>https://finance.sina.cn/7x24/2023-09-10/detail-imzmfrzy3172745.d.html</link>
             <guid>3236694</guid>
             <pubDate>Sun, 10 Sep 2023 12:52:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【利雅得资本将对沙特阿美开展做市活动】沙特交易所公司今日宣布，已批准利雅得资本（Riyad Capital）对沙特阿美开展做市活动的申请，自2023年9月12日起生效。（环球市场播报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-10/detail-imzmfsac1525839.d.html</link>
-            <guid>3236693</guid>
-            <pubDate>Sun, 10 Sep 2023 12:49:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“实验6”科考船广州起航 赴东印度洋海域开展科学考察】“实验6”科考船9月10日从广州新洲码头基地起航，赴东印度洋海域执行国家自然科学基金2023年东印度洋综合科学考察共享航次。本次航次由中国科学院南海海洋研究所组织实施，研究员王卫强担任首席科学家。搭载中国科学院南海海洋研究所、中国科学院海洋所、自然资源部第二海洋研究所、华东师范大学、中山大学等13家单位科研团队的28项科研项目，计划海上作业80天，预计航程逾12000海里。（央视新闻）]]></title>
-            <guid>3236692</guid>
-            <pubDate>Sun, 10 Sep 2023 12:47:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
