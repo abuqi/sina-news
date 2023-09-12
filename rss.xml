@@ -4,11 +4,138 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Tue, 12 Sep 2023 19:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 20:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[特斯拉（TSLA）收跌2.23%，报267.48美元，在9月11日上涨10.09%之后略微回吐涨幅，12日盘初一度涨至278.39美元——逼近7月20日顶部280.93美元。]]></title>
+            <guid>3239525</guid>
+            <pubDate>Tue, 12 Sep 2023 20:16:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Workhorse获得美国财政部下辖国税局（IRS）批准，该公司将享受商用清洁车辆信贷政策。]]></title>
+            <guid>3239524</guid>
+            <pubDate>Tue, 12 Sep 2023 20:06:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[甲骨文（ORCL）收跌13.50%，创2002年3月份以来最大单日跌幅，报109.61美元。]]></title>
+            <guid>3239523</guid>
+            <pubDate>Tue, 12 Sep 2023 20:06:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【热门中概股涨跌不一 理想汽车涨超2%】热门中概股涨跌不一，纳斯达克中国金龙指数跌0.01%。理想汽车、蔚来涨超2%，拼多多涨超1%，小鹏汽车、富途控股、哔哩哔哩、网易小幅上涨。爱奇艺、腾讯音乐、满帮跌超1%，京东、阿里巴巴、百度、唯品会小幅下跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnzmq8845991.d.html</link>
+            <guid>3239522</guid>
+            <pubDate>Tue, 12 Sep 2023 20:01:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股三大指数集体收跌 热门科技股普跌】美股三大指数集体收跌，道指跌0.05%，纳指跌1.04%，标普500指数跌0.57%，热门科技股普跌，甲骨文跌超13%，特斯拉跌超2%，苹果、微软、谷歌、亚马逊跌超1%。油气板块涨幅居前，纳伯斯实业涨超5%，西方石油涨超4%，埃克森美孚涨近3%。软件应用、云计算服务商跌幅居前，Adobe跌近4%，Snowflake、赛富时跌近2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnzms4168748.d.html</link>
+            <guid>3239521</guid>
+            <pubDate>Tue, 12 Sep 2023 20:00:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【A股公司并购重组审核突出“三问”：合理否？必要否？业务协同否？ 】 随着IPO与再融资的阶段性收紧，并购重组市场再度升温。据上海证券报记者统计，自8月1日到9月12日，A股共有近700家公司披露了并购重组相关公告。如交建股份、汉商集团、罗博特科等，均于日前抛出重组预案。与此同时，随着上市公司并购重组活跃度的显著提升，监管审核的关注重点也在问询函中得到集中体现：标的估值合理性、并购交易必要性、业务协同性以及关联交易和同业竞争等，均为其核心聚焦的问题。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnzmu7811055.d.html</link>
+            <guid>3239520</guid>
+            <pubDate>Tue, 12 Sep 2023 19:54:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法国要求苹果停售iPhone 12】《巴黎人报》援引法国数字部长巴罗的话报道，在测试显示iPhone 12发射的电磁波太强后，法国国家频率局（ANFR）要求苹果公司停止在法国销售iPhone 12。该报援引巴罗的话说，这家美国公司周二接到通知，有两周时间通过软件更新来解决这个问题。巴罗称，这款手机产生的电磁波“略高于授权水平”。他相信苹果会遵守法国的规定，但他说，如果苹果不遵守法国的规定，他准备下令召回iPhone 12。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnzmw4588133.d.html</link>
+            <guid>3239519</guid>
+            <pubDate>Tue, 12 Sep 2023 19:54:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【银行密集发布“纳贤令” 重点指向数据相关领域人才】“无bug的IT工程师”“跑数据的理财师”“实验室里的信贷员”，这是某银行秋招公告中所期待招揽的人才。截至9月12日，六大国有银行秋季校招公告已全部出齐。综合来看，金融科技复合型人才依然是银行机构争抢的“香饽饽”，银行正对相关数据人才抛出“橄榄枝”。易观分析金融行业高级咨询顾问苏筱芮表示：“银行对金融科技类人才需求处于上升期，科技对传统金融业务的赋能价值持续凸显，这也是银行数字化时代加强自身竞争力的有效手段。同时，银行也期望通过自身科技队伍建设来增厚抵御风险管理的能力。” (证券日报)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnvcw7939956.d.html</link>
+            <guid>3239518</guid>
+            <pubDate>Tue, 12 Sep 2023 19:44:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2023上海百强企业榜单出炉：总营收突破10万亿元】 9月12日举办的2023上海百强企业新闻发布会上，2023上海企业100强、上海制造业企业100强、上海服务业企业100强、上海民营企业100强等系列榜单出炉。数据显示，2023上海百强企业总营收首次超过10万亿元，单家企业营收均超过百亿元，其中中国宝武营业收入突破1万亿元。百强企业中，电商、黑色冶金、集成电路、海运、建筑等行业营业收入增幅较高；金融银行业营业收入表现平稳，略有增长；航空运输行业营业收入继续下行，触底迹象明显；房地产行业营业收入有所下降，但经营稳健的上海万科等公司继续保持营业收入增长态势。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnvcs8974983.d.html</link>
+            <guid>3239517</guid>
+            <pubDate>Tue, 12 Sep 2023 19:44:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大皇家银行首席财务官：预计加拿大利率将在2024年下半年开始下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnvcw7939124.d.html</link>
+            <guid>3239516</guid>
+            <pubDate>Tue, 12 Sep 2023 19:40:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【可转债价格大幅回撤，“双高”风险须警惕】 由于估值过高，近期可转债频现大幅回撤。市场人士表示，此次价格大幅回撤的可转债分为两类：一类是短期过度炒作的新券，另一类是触发提前赎回的高价券。这两类品种兼具了高转股溢价率和高价格的“双高”特征。近期可转债盘中急跌案例较多，核心因素是估值过高，其中新券炒作又占据大半。数据显示，二季度以来，上市首周收盘涨幅超过100%的新券就有5只，不少新券盘中均出现大跌现象。华福证券分析师李清荷表示，近期可转债市场调整迹象明显，呈现估值持续走低态势。后市应警惕高转股溢价率和高价格并存的“双高”可转债的调整风险。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnvcy4715573.d.html</link>
+            <guid>3239515</guid>
+            <pubDate>Tue, 12 Sep 2023 19:36:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士：美国商务部长雷蒙多预计将于周四与美国企业的首席执行官们会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnvcw7938224.d.html</link>
+            <guid>3239514</guid>
+            <pubDate>Tue, 12 Sep 2023 19:35:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周二（9月12日）纽约尾盘，美国10年期基准国债收益率跌2.38个基点，报4.2643%，盘中交投于4.2960%-4.2583%区间。两年期美债收益率涨1.26个基点，报5.0031%，盘中交投于4.9821%-5.0179%区间。三个月期国库券/10年期美债收益率利差跌1.758个基点，报-119.023个基点。02/10年期美债收益率利差跌3.634个基点，报-74.098个基点。美国10年期通胀保值国债（TIPS）收益率跌1.70个基点，报1.9257%。]]></title>
+            <guid>3239513</guid>
+            <pubDate>Tue, 12 Sep 2023 19:34:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒生指数主连夜盘收涨0.33%，报18156.00点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnvcw7937544.d.html</link>
+            <guid>3239512</guid>
+            <pubDate>Tue, 12 Sep 2023 19:30:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“新债王”冈拉克：美联储可能认为明年上半年将进行降息。美联储希望经济迅速放缓并降低利率。]]></title>
+            <guid>3239511</guid>
+            <pubDate>Tue, 12 Sep 2023 19:27:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“新债王”冈拉克：肯定预期明年会出现经济衰退。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnvcy4714037.d.html</link>
+            <guid>3239510</guid>
+            <pubDate>Tue, 12 Sep 2023 19:27:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“新债王”冈拉克：美联储需要核心个人消费支出指数下降至4%以下才能结束加息。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnvcy4713653.d.html</link>
+            <guid>3239509</guid>
+            <pubDate>Tue, 12 Sep 2023 19:25:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【利率市场押注日本央行明年将更早结束负利率政策】 隔夜指数掉期显示，交易员预计日本央行到明年1月底将会升息，时间早于7月份利率会议后预期的2024年9月份。鉴于贷款利率有望升高，Evarch Asset Management预测未来18个月日本的银行股可能上涨一倍。一旦日本央行放弃负利率，对全球将是一个重要里程碑，可以预见会出现一系列连锁反应，包括日元走高，日本资金从海外回流国内。日本是目前世界最后一个保持基准利率为负的国家，过去数年，日本资金流向海外的规模高达数万亿美元之巨，央行改弦易辙将意味着全球流动性收紧。日本农林中金总合研究所的首席经济学家Takeshi Minami表示，“毫无疑问，短期利率市场试图反映明年负利率终结的可能性，预计这种市场趋势会一直保持到下周日本央行行长植田和男发表讲话时”。其预测，日本央行可能在明年6月结束负利率，并在6月或比6月更早一点的时候解除收益率曲线控制措施。市场的这种预期来自于植田和男此前的一番讲话，当时他说如果央行对物价和薪资可持续上升抱有信心，则结束负利率是选项之一。日本央行下一次利率决定公布日是9月22日。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnvcw7935838.d.html</link>
+            <guid>3239508</guid>
+            <pubDate>Tue, 12 Sep 2023 19:21:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华尔街致信美联储等监管机构，要求就美国银行业资本金规定拟定新提案】 代表华尔街公司的多家行业团体向美国监管机构表示，监管机构应该就一揽子银行资本金规则提出新提案。美联储、联邦存款保险公司(FDIC)和货币监理署(OCC) 7月份披露，计划对大银行施以更严格的资本金要求，迫使他们增厚资本缓冲以消化意外损失。但银行政策研究所和美国商会9月12日表示，应该重提一揽子计划，因为据称这些规则有赖于这些机构尚未公开的数据和分析，违反了法律。他们希望这些机构提供所有缺失材料。“这种对非公开信息的依赖违反了《行政程序法》明确规定，根据法律规定，机构必须公开披露其制定规则所依据的数据和分析，”这些组织致信这三家监管机构称。美国银行家协会、金融服务论坛、证券业和金融市场协会(Sifma)以及国际银行家协会也在这封信上签名。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnvcw7935302.d.html</link>
+            <guid>3239507</guid>
+            <pubDate>Tue, 12 Sep 2023 19:17:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国EIA：预计第四季度全球石油市场将供不应求】 尽管原油产量增加且成品油需求依然疲软，但美国预计全球石油市场到2023年底前将收紧。美国能源信息署（EIA）在一份报告中表示，第四季度全球原油日消费量将超过供应量23万桶。美国预测的石油供应缺口远低于石油输出国组织(OPEC)，后者早些时候在一份报告中预测，第四季度将出现每天300万桶的供应缺口，可能是十多年来最大。虽然预计全球产量将增长，但大部分增长料来自非OPEC国家。此外，在美国普查局将人口预测进行调整，以纳入更少的适龄工作人口之后，EIA也下调了对美国汽油需求的预测。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnvcw7935035.d.html</link>
+            <guid>3239506</guid>
+            <pubDate>Tue, 12 Sep 2023 19:16:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【智能驾驶向高阶迈进 超七成概念股上半年实现盈利】 今年以来，国家及地方政府先后出台多项推进智能网联汽车行业发展的政策。7月，工信部、国家标准化管理委员会联合修订并印发《国家车联网产业标准体系建设指南（智能网联汽车）（2023版）》，旨在构建包括智能网联汽车基础、技术、产品、试验标准等在内的智能网联汽车标准体系。中信证券在“智能电动汽车”产业论坛上表示，对于未来投资方向，深耕高阶智驾功能、全栈自研并以此为差异化卖点的车企是新增蛋糕的所有者、分配者；另一方面，自动驾驶芯片、域控、传感器、线控底盘、车载以太网芯片等供应链有望整体受益于高阶智驾渗透率提升。A股38只智能驾驶概念股中，28股今年上半年实现盈利，占比近74%。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnvcw7934817.d.html</link>
+            <guid>3239505</guid>
+            <pubDate>Tue, 12 Sep 2023 19:14:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【芝加哥玉米和大豆期货跌1.8%，小麦期货转涨】 周二（9月12日）纽约尾盘，谷物分类指数跌1.06%，报42.2697点。CBOT玉米期货跌1.80%，报4.77美元/蒲式耳，美国农业部（USDA）农产品库存月报发布后一度跌至4.73-1/2美元。CBOT小麦期货涨0.51%，报5.87-3/4美元/蒲式耳，USDA月报发布时曾跌至日低5.70美元。CBOT大豆期货跌1.84%，报13.44-3/4美元/蒲式耳，USDA月报发布后曾跌至13.40-3/4美元；豆粕期货跌1.78%，豆油期货跌0.48%。ICE原糖期货涨1.40%，ICE白糖期货涨1.57%。ICE棉花期货涨0.59%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnvcw7934731.d.html</link>
+            <guid>3239504</guid>
+            <pubDate>Tue, 12 Sep 2023 19:14:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[在岸人民币兑美元（CNY）北京时间03:00收报7.2911元，较周一夜盘收盘跌27点。成交量220.52亿美元。]]></title>
             <guid>3239503</guid>
@@ -193,127 +320,6 @@
             <title><![CDATA[苹果表示，EarPods耳机（USB-C版）将于今天开始接受预订，售价为19美元。]]></title>
             <guid>3239474</guid>
             <pubDate>Tue, 12 Sep 2023 18:25:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果(AAPL.O)： AirPods Pro（第二代）配备MagSafe充电盒（USB-C）将以249美元的价格上市。]]></title>
-            <guid>3239473</guid>
-            <pubDate>Tue, 12 Sep 2023 18:24:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[所有新型号iPhone本周五都可以预订。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnvcw7923540.d.html</link>
-            <guid>3239472</guid>
-            <pubDate>Tue, 12 Sep 2023 18:23:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【iPhone 15 Pro起售价999美元】iPhone 15 Pro起售价999美元，Pro Max起售价1199美元（Max起售价上调了100美元）。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnvcy4699803.d.html</link>
-            <guid>3239470</guid>
-            <pubDate>Tue, 12 Sep 2023 18:20:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【基金降费范围延展至被动指数基金，费率结构变化推动基金投顾业务发展】 9月份以来，易方达基金和工银瑞信基金这两家头部公募基金公司率先宣布对旗下被动指数型基金降费。这意味着，公募基金降费改革的范围已经从主动权益基金扩延至被动指数型基金产品。多位公募人士近日对记者表示，基金费率结构和水平的调整或催生不同创新业务，其中基金投资顾问业务的未来发展引发业界热议。华南地区一位公募人士表示：“此次基金降费改革对投资者利益、基金公司竞争格局、基金产品收费方式等方面产生不同的影响。基金降费让利于投资者，有利于基金行业高质量发展，管理费下调可能会促使行业进一步优胜劣汰。”（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnvcy4699707.d.html</link>
-            <guid>3239469</guid>
-            <pubDate>Tue, 12 Sep 2023 18:20:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果(AAPL.O)：iPhone 15 Pro将引入日志编码（LOG ENCODING）。]]></title>
-            <guid>3239468</guid>
-            <pubDate>Tue, 12 Sep 2023 18:18:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【看好公募REITs长期投资价值，有机构投资者增持并自愿信息披露】 9月12日，中金基金发布中金普洛斯REIT份额持有人权益变动的提示性公告称，于近日收到首程控股发送的权益变动告知函，就首程控股附属公司及其管理的私募证券投资基金（以下合称“首程方”）持有中金普洛斯REIT的权益变动情况进行说明。据悉，自中金普洛斯REIT获批上市以来，首程方即成为战略机构投资者之一，长期稳定持有基金份额，并在此基础上多次增持。普洛斯（中金普洛斯REIT的原始权益人及外部管理机构）相关人士表示：“此次增持代表了投资者对中金普洛斯REIT为代表的基础设施项目未来发展前景的信心和长期投资价值的认可，同时也是对普洛斯资产品质和运营管理能力的肯定。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnvcw7922152.d.html</link>
-            <guid>3239467</guid>
-            <pubDate>Tue, 12 Sep 2023 18:17:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cirrus Logic Inc.（CRUS）涨幅扩大至超过4.6%，刷新日高至78.30美元。]]></title>
-            <guid>3239466</guid>
-            <pubDate>Tue, 12 Sep 2023 18:17:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果(AAPL.O)：iPhone 15 Pro也支持将Pro Res视频直接录制到外部存储驱动器。]]></title>
-            <guid>3239465</guid>
-            <pubDate>Tue, 12 Sep 2023 18:17:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果(AAPL.O)：A17 Pro芯片为下一代游戏奠定了基础，并向众多游戏开发商宣传了这一升级。]]></title>
-            <guid>3239464</guid>
-            <pubDate>Tue, 12 Sep 2023 18:17:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果(AAPL.O)：iPhone 15 Pro的夜间拍摄性能提高了两倍。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnvcy4698655.d.html</link>
-            <guid>3239463</guid>
-            <pubDate>Tue, 12 Sep 2023 18:15:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果(AAPL.O)：iPhone 15 Pro系列配备了更先进的4800万像素主摄像头。可以在24、28和35毫米焦距下拍摄。iPhone 15 Pro具有5倍光学变焦。]]></title>
-            <guid>3239462</guid>
-            <pubDate>Tue, 12 Sep 2023 18:14:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯经济部将2023年GDP增长预测上调至2.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnvcs8965026.d.html</link>
-            <guid>3239461</guid>
-            <pubDate>Tue, 12 Sep 2023 18:13:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【iPhone 15 Pro系列芯片支持允许电脑游戏】苹果表示，以前只能在Mac、主机或PC上玩的游戏，现在也可以在配备了A17Pro芯片的iPhone 15 Pro系列上玩了。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnvcw7921200.d.html</link>
-            <guid>3239460</guid>
-            <pubDate>Tue, 12 Sep 2023 18:13:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯预计2023年卢布兑美元平均汇率为85.2，之前的预测为76.5。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnvcy4697975.d.html</link>
-            <guid>3239459</guid>
-            <pubDate>Tue, 12 Sep 2023 18:11:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果(AAPL.O)A17 Pro芯片支持光线追踪，这要归功于GPU的重大改进。这对游戏体验来说是一次重大升级。]]></title>
-            <guid>3239458</guid>
-            <pubDate>Tue, 12 Sep 2023 18:11:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯经济部将2023年通胀预测从5.3%上调至7.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnvcy4697852.d.html</link>
-            <guid>3239457</guid>
-            <pubDate>Tue, 12 Sep 2023 18:11:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果称iPhone 15 Pro和iPhone 15 Pro Max的新GPU是迄今为止对GPU最大的重新设计，可提高性能、效率和渲染效果。]]></title>
-            <guid>3239456</guid>
-            <pubDate>Tue, 12 Sep 2023 18:11:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委维勒鲁瓦表示，法国的整体通胀已经过了峰值；欧洲央行将在2025年将通胀率降至2%。]]></title>
-            <guid>3239455</guid>
-            <pubDate>Tue, 12 Sep 2023 18:10:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国际铁矿石价格处偏强态势，机构称上涨行情或按下“暂停键”】 今年以来，国际铁矿石价格整体处于偏强态势。对于8月份以来铁矿石价格的走高，分析人士认为，这是国内市场供需格局短期失衡所致。上海东证期货有限公司黑色资深分析师许惠敏告诉记者，近期铁矿石港口价格走强，一方面是跟随外盘上涨，另一方面是国内宏观利好政策持续释放，叠加下游需求有所提升。分析人士表示，目前铁矿石市场价格对于下游需求情况和宏观层面的因素已经反映较为充分。对于实体企业和交易者来说，未来短期影响铁矿石价格变动的核心因素是要降低对消费端预期，如果下游消费低于市场预期，铁矿石价格下跌风险就不可避免。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnvcy4697269.d.html</link>
-            <guid>3239454</guid>
-            <pubDate>Tue, 12 Sep 2023 18:08:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[iPhone 15 Pro和iPhone 15 Pro Max的USB—C接口允许更快的数据传输速度（USB3和每秒10GB）。]]></title>
-            <guid>3239453</guid>
-            <pubDate>Tue, 12 Sep 2023 18:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲油菜籽期货跌超3%】 周二（9月12日）欧市尾盘，法国巴黎泛欧交易所（EuroNext）“制粉小麦”期货跌0.75%，报232.50欧元/吨。油菜籽期货跌3.32%，报429.75欧元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-13/detail-imzmnvcy4697187.d.html</link>
-            <guid>3239452</guid>
-            <pubDate>Tue, 12 Sep 2023 18:07:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COMEX 10月黄金期货收跌0.62%，报1917.20美元/盎司。COMEX 12月黄金期货收跌0.62%，报1935.10美元/盎司。]]></title>
-            <guid>3239451</guid>
-            <pubDate>Tue, 12 Sep 2023 18:06:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
