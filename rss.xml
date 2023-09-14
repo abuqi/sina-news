@@ -4,11 +4,211 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Thu, 14 Sep 2023 18:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 19:10:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[纳指涨幅扩大至1%，芯片设计公司Arm(ARM.O)现涨14.3%，高通(QCOM.O)涨1.7%，美光科技(MU.O)涨1.69%。]]></title>
+            <guid>3242315</guid>
+            <pubDate>Thu, 14 Sep 2023 19:07:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果股价涨超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiw2788018.d.html</link>
+            <guid>3242314</guid>
+            <pubDate>Thu, 14 Sep 2023 19:07:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果公司计划开发非侵入式血糖监测项目，苹果芯片高管蒂姆·米勒特现在负责监督葡萄糖追踪器项目。]]></title>
+            <guid>3242313</guid>
+            <pubDate>Thu, 14 Sep 2023 19:04:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【波兰总统：波兰没有部署核武器的先决条件】波兰总统杜达在克雷尼察经济论坛上表示，波兰没有部署核武器的先决条件。波兰总理莫拉维茨基此前表示，波兰有意在本土部署美国核武器，从而应对俄罗斯在白俄罗斯部署核武器之举。美国白宫国家安全委员会战略沟通协调员约翰•柯比表示，对于波兰欲在本土部署核武器的想法他无言回应。杜达说：“对于我们而言，最大的威胁显然是拥有核武器的邻国。这不是开玩笑，因为我们没有核武器，我不知道我们是否会拥有它。目前没有人对此作出预测。”]]></title>
+            <guid>3242312</guid>
+            <pubDate>Thu, 14 Sep 2023 19:03:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【《富爸爸穷爸爸》作者发出警告，Airbnb可能引发房地产市场崩盘】《富爸爸穷爸爸》的作者罗伯特·清崎（Robert Kiyosaki）表示，短期租赁平台Airbnb可能会在不久的将来引发房地产市场的崩盘。他最近在社交媒体平台X（以前称为Twitter）上发表帖子，警告称房地产行业可能面临动荡。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiw2787011.d.html</link>
+            <guid>3242311</guid>
+            <pubDate>Thu, 14 Sep 2023 19:02:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒指期货夜盘收涨0.58%，报18171点，高水123点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiu6009771.d.html</link>
+            <guid>3242310</guid>
+            <pubDate>Thu, 14 Sep 2023 19:01:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国财长勒梅尔：法国财政部预计，2024年预算赤字占GDP的比例将从今年的4.9%降至4.4%，与此前的预测持平。]]></title>
+            <guid>3242309</guid>
+            <pubDate>Thu, 14 Sep 2023 19:01:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国财长勒梅尔：2024年预算法案旨在节省160亿欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiu6009747.d.html</link>
+            <guid>3242308</guid>
+            <pubDate>Thu, 14 Sep 2023 19:01:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国财长勒梅尔：将2024年的经济增长预测从1.6%下调至1.4%，而2023年的预测保持不变，仍为1%。]]></title>
+            <guid>3242307</guid>
+            <pubDate>Thu, 14 Sep 2023 19:01:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国财政部的经济预测显示，法国2024年的通胀预期为2.6%，而今年为4.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiu6009714.d.html</link>
+            <guid>3242306</guid>
+            <pubDate>Thu, 14 Sep 2023 19:01:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【证券日报：勿让“乌龙公告”挑战信披严肃性】证券日报头版文章指出，信息披露是资本市场健康发展的基石，具有高度的严肃性和神圣性，来不得丝毫马虎和敷衍。“乌龙公告”的错误虽低级，但挑战的却是信息披露的严肃性。对于A股市场来说，信息披露质量关依然相关上市公司需要时刻敬畏、严把的重要关口。首先，上市公司应严格落实责任，对信息披露审核层层把关。其次，中介机构要切实提高责任意识，自觉做好资本市场的“看门人”。最后，对于“乌龙公告”造成不良影响的，监管机构该出手时就出手，依法予以处罚。总而言之，信息披露无小事。只有常怀敬畏之心，才能真正做到对投资者负责，为市场创造价值。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiw2786801.d.html</link>
+            <guid>3242305</guid>
+            <pubDate>Thu, 14 Sep 2023 19:01:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[基金分析公司理柏（Lipper）：美国贷款基金在最近一周获得3.43亿美元的资金流入。]]></title>
+            <guid>3242304</guid>
+            <pubDate>Thu, 14 Sep 2023 19:01:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴克莱科技投资银行负责人克里斯汀：巴克莱预计2024年4月将是IPO繁忙的一个月。]]></title>
+            <guid>3242303</guid>
+            <pubDate>Thu, 14 Sep 2023 19:01:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[在岸人民币兑美元北京时间03:00收报7.2768，较上一交易日夜盘收盘跌38点。成交量189.51亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiu6009643.d.html</link>
+            <guid>3242302</guid>
+            <pubDate>Thu, 14 Sep 2023 19:00:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰国防部副部长汉娜·马里亚尔修正了有关乌克兰国防军已经解放了巴克穆特前线的安德里夫卡（Andriivka）定居点的声明，称严重和激烈的战斗仍在继续。]]></title>
+            <guid>3242301</guid>
+            <pubDate>Thu, 14 Sep 2023 19:00:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国食品药品监督管理局（FDA）：向15家在线零售商和3家制造商和/或分销商发出警告信，因其销售或分销未经授权的电子烟产品。]]></title>
+            <guid>3242300</guid>
+            <pubDate>Thu, 14 Sep 2023 19:00:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[通用汽车(GM.N)股价下跌0.3％。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiw2786681.d.html</link>
+            <guid>3242299</guid>
+            <pubDate>Thu, 14 Sep 2023 19:00:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[通用汽车(GM.N)：提议将在第一年将时薪工人的工资提高10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiu6009540.d.html</link>
+            <guid>3242298</guid>
+            <pubDate>Thu, 14 Sep 2023 19:00:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国最高法院暂停了限制拜登政府社交媒体联系的命令。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiw2786621.d.html</link>
+            <guid>3242297</guid>
+            <pubDate>Thu, 14 Sep 2023 19:00:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[通用汽车(GM.N)现在向美国汽车工人联合会(UAW)提出加薪20%的提议，此前提议为18%；提出将退休保健计划上调25%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiw2786424.d.html</link>
+            <guid>3242296</guid>
+            <pubDate>Thu, 14 Sep 2023 18:59:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【两电池路线争锋，伏业又行至“岔路口”】继十多年前“单晶、多晶之争”后，中国光伏业再度临近关键技术路线分岔口。9月5日，隆基绿能董事长钟宝申在业绩发布会上表示：“接下来5到6年，BC类电池会是晶硅电池的绝对主流。”而光伏业另一龙头晶科能源11日、13日分别于不同场合表态：“TOPCon是头部企业的主要产能布局路线，是未来主流。当前BC电池技术成熟度仍待提高，成本和经济性与TOPCon相比还存在较大差距。”和泰资产一位光伏研究员表示：“当前产业竞争格局而言，电池技术路径的最终走向非常重要。BC与TOPCon两种技术路线之争，同时也是两大龙头企业之间的竞争。”光伏业如今又一次来到了技术转型、行业洗牌的十字路口。目前看，胜负仍未可料。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiw2786362.d.html</link>
+            <guid>3242295</guid>
+            <pubDate>Thu, 14 Sep 2023 18:59:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【创业板指样本公司业绩增长强劲，机构投资者看好布局机会】当前，创业板指样本公司2023年半年度报告已悉数披露。整体来看，创业板指样本公司上半年业绩增速令人瞩目，重点领域优势突出，绿色低碳领域的新能源、节能环保、新能源汽车产业发展势头迅猛。半年报显示，今年以来，机构投资者纷纷借助创业板ETF等产品进行布局，相较2022年末水平，机构投资者对创业板指样本公司的持有比例大幅提升。多位受访的机构投资者表示，创业板指样本公司业绩增长强劲，盈利能力突出，当前股价走势与基本面背离。在盈利韧性支撑下，创业板或迎来估值修复的机会，板块核心资产或存在超跌反弹机会。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiu6005507.d.html</link>
+            <guid>3242294</guid>
+            <pubDate>Thu, 14 Sep 2023 18:36:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【鲍威尔料避免给出利率见顶信号 “鹰式悬停”才是美联储风格】在下周利率会议上，美联储主席鲍威尔及其同僚可能避免给出加息已经结束的信号。在当前通胀率仍高于美联储2%的目标，而且经济增长较强之际，预计美联储将在9月19-20日的利率会议上维持紧缩货币政策，尽管可能不会升息。摩根大通首席经济学家Bruce Kasman表示，“他们不可能现在暗示加息已经完成”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiu6004915.d.html</link>
+            <guid>3242293</guid>
+            <pubDate>Thu, 14 Sep 2023 18:33:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国能源安全特使Hochstein：利比亚洪灾对当地的石油生产造成了影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiw2781693.d.html</link>
+            <guid>3242292</guid>
+            <pubDate>Thu, 14 Sep 2023 18:32:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上期所原油期货2310合约夜盘收涨3.12%，报739.60元人民币/桶。沪金夜盘收涨1.46%，沪银收涨1.65%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiw2780755.d.html</link>
+            <guid>3242291</guid>
+            <pubDate>Thu, 14 Sep 2023 18:31:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国能源安全特使Hochstein：将继续补充战略石油储备。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiis2120221.d.html</link>
+            <guid>3242290</guid>
+            <pubDate>Thu, 14 Sep 2023 18:30:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[基金分析公司理柏（Lipper）：最近一周市政债券基金流出1.17亿美元的资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiis2120037.d.html</link>
+            <guid>3242289</guid>
+            <pubDate>Thu, 14 Sep 2023 18:28:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马斯克的X平台可能错过广告旺季】尽管马斯克选择琳达·亚卡里诺(Linda Yaccarino)担任X公司的CEO，希望这位前NBC环球的高管能说服已经停止在该平台上投入资金的广告商回心转意，但到目前为止，许多大品牌仍在观望，并已计划在假日季将预算部署到其他地方。此前，马斯克收购X平台的混乱和有争议的政策变化令广告商纷纷逃离，带走了公司一半以上的全年收入。多家负责主要品牌支出的广告商称，X平台今年已经没有时间实现扭亏为盈了。营销公司Tinuiti社交业务负责人称，营销人员通常会在8月份之前锁定假期预算。从历史上看，每年最后三个月一直是X收入最多的时候。一家大型广告公司的代表估计，他们在X上的支出较上年同期减少了60%以上。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiu6003046.d.html</link>
+            <guid>3242288</guid>
+            <pubDate>Thu, 14 Sep 2023 18:28:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【证券时报评论：理性运用超募资金，增强上市公司主业】IPO公司超募源于初始定价过低，或者公司所处的行业被投资者认为具有上涨潜力，因此在询价阶段重新评估，给出更高的价格。超募不仅会增厚投行的承销收入，也能降低公司的资金成本，有利于企业快速扩大自身规模。不过，超募幅度过高的公司，网上发行弃购率也更高，超募公司的股票在上市后表现也不如未超募公司。超募是“福”还是“祸”，这要取决于公司如何合理地运用超募资金。对于上市公司而言，如果超募资金用于主营业务相关的扩产、创新，短期内可能无法在公司的业绩上体现，但随着产能的落地，通常会迎来业绩的反转。如果超募资金用于补充流动性或其他非主营业务，公司业绩或多或少会受到负面影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiu6002968.d.html</link>
+            <guid>3242287</guid>
+            <pubDate>Thu, 14 Sep 2023 18:27:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[基金分析公司理柏（Lipper）：美国高收益基金上周流入8050万美元资金，投资级基金流入2.233亿美元资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiu6002398.d.html</link>
+            <guid>3242286</guid>
+            <pubDate>Thu, 14 Sep 2023 18:24:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【企业债发审过渡期即将结束 实操细则待出】还有一个多月，企业债发行审核职责划转过渡期即将结束。当前，监管部门正密集推出配套细则，企业债审核发行正按部就班地平稳推进。有债市从业人士表示，在过渡期内，除了注册从发改委划转到证监会，其他所有流程均未发生变化，在机构改革的大框架下，监管部门让企业债发行审核职责划转工作有序过渡。随着过渡期接近尾声，市场期待后续审核划转等具体实操类细则出台，企业债市场化程度有望提高。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiw2779470.d.html</link>
+            <guid>3242285</guid>
+            <pubDate>Thu, 14 Sep 2023 18:24:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【超2000家企业参展 打造服务出口新增长点】9月13日~15日，在深圳举行的粤港澳服务贸易展览会暨深圳跨境电商展览会现场，又一次上演“人山人海”，大量展位前都不断有客户上门咨询。服务贸易是国际贸易的重要组成部分和国际经贸合作的重要领域，在构建新发展格局中具有重要作用。据悉，本届粤港澳服贸展吸引了亚马逊、沃尔玛、虾皮、阿里国际站等来自国内外的2000余家企业参展。分析人士指出，粤港澳服贸展或将搭建起立足粤港澳、辐射全球的服务贸易平台，持续深入推动大湾区服务贸易领域全方位交流合作，不断扩大粤港澳大湾区服务贸易全球“朋友圈”，在更多领域培育服务贸易新业态、新模式，打造服务出口新的增长点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiw2779408.d.html</link>
+            <guid>3242284</guid>
+            <pubDate>Thu, 14 Sep 2023 18:24:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【瞄准低位布局时机 新基金加速建仓】8月以来，A股市场反复波动，基金发行市场较为低迷。不过，部分近日成立的新基金净值出现明显波动，表明基金经理正在市场低位加速建仓。在多位基金经理看来，尽管市场当前依然运行在偏左侧区域，但在政策持续发力、基本面有望触底回升的背景下，当前已处于较好的布局期。数据显示，下半年以来全市场共成立270只基金，发行份额为1383.99亿份，其中股票型基金和混合型基金各成立81只、75只，发行份额分别为294.5亿份、107.08亿份。相较于此前月份，近期基金发行市场明显降温。]]></title>
+            <guid>3242283</guid>
+            <pubDate>Thu, 14 Sep 2023 18:23:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国北达科他州7月份石油产量为118.06万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiis2119360.d.html</link>
+            <guid>3242282</guid>
+            <pubDate>Thu, 14 Sep 2023 18:21:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国民主党参议员沃伦呼吁美国财长耶伦保护经济系统免受利率风险的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiw2778704.d.html</link>
+            <guid>3242281</guid>
+            <pubDate>Thu, 14 Sep 2023 18:21:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【迪士尼据悉就将ABC出售给Nexstar进行了初步谈判】迪士尼就将旗下美国广播公司(ABC)网络和电视台出售给当地广播公司Nexstar Media Group Inc.进行了探索性谈判，没有涉及具体的估值。Nexstar现任CEO汤姆•卡特周三在美国银行证券会议上告诉投资者，该公司有意从迪士尼等老牌媒体所有者那里收购资产，这些媒体所有者正在寻求重组。Nexstar(NXST.O)一度涨超5.2%，迪士尼(DIS.N)一度涨超0.7%。]]></title>
             <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiu6001040.d.html</link>
@@ -96,204 +296,6 @@
             <title><![CDATA[英国外交部：作为对伊朗继续不遵守核协议的回应，英法德三国将把联合国制的制裁转化为国内措施；欧盟和英国对伊朗的制裁将延续至核协议规定的10月最后期限之后。]]></title>
             <guid>3242266</guid>
             <pubDate>Thu, 14 Sep 2023 17:45:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【动力电池巨头加速全球化布局，多家公司开启新一轮海外扩产】近年来，中国动力电池企业纷纷推进在海外布局建厂，近期多家企业正开启新一轮海外扩产潮。中国金融智库特邀研究员余丰慧表示：“全球化建厂可以更好地满足当地市场需求。通过与当地企业和机构的合作，企业可以提供更加定制化的产品和服务，推动技术创新和产业升级。”招商证券新能源行业相关研究员表示，“多家动力电池企业海外投资建厂的背后目的是扩大产能及销售。出现这种情况，主要有两个原因：一是国内整体规划产能已能够满足市场需求；二是产能建设存在周期，国外大规模电动化车型集中投放在2025年以后。”]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiu5994412.d.html</link>
-            <guid>3242265</guid>
-            <pubDate>Thu, 14 Sep 2023 17:44:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COMEX 10月黄金期货收平，报1914.40美元/盎司。COMEX 12月黄金期货收涨0.01%，报1932.80美元/盎司。]]></title>
-            <guid>3242264</guid>
-            <pubDate>Thu, 14 Sep 2023 17:43:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗革命卫队扣押两艘走私燃料船只】当地时间9月14日，伊朗伊斯兰革命卫队宣布，卫队近期在波斯湾海域扣押两艘走私燃料船只，共查获150万升走私燃料。卫队表示，两艘船悬挂的是巴拿马国旗，船上有37名来自不同国家的船员。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiu5994305.d.html</link>
-            <guid>3242263</guid>
-            <pubDate>Thu, 14 Sep 2023 17:43:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务院：不担心对土耳其公司实施的制裁会阻碍瑞典加入北约。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiw2771346.d.html</link>
-            <guid>3242262</guid>
-            <pubDate>Thu, 14 Sep 2023 17:43:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务院：俄罗斯继续骚扰美国驻莫斯科大使馆的员工。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiis2115118.d.html</link>
-            <guid>3242261</guid>
-            <pubDate>Thu, 14 Sep 2023 17:41:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务院：俄罗斯选择了对抗和升级，而不是建设性的外交接触。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiis2114992.d.html</link>
-            <guid>3242260</guid>
-            <pubDate>Thu, 14 Sep 2023 17:40:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务院：将对俄罗斯驱逐两名美国外交官做出适当回应。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiq6792175.d.html</link>
-            <guid>3242259</guid>
-            <pubDate>Thu, 14 Sep 2023 17:39:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【多因素推动磷酸铁锂价格持续下行，专家预计“金九银十”销售旺季或形成支撑】数据显示，动力型磷酸铁锂9月14日报价6.6万元/吨，9月1日以来已累计下滑8.33%。磷酸铁锂赛道头部企业龙蟠科技相关负责人表示，目前公司的磷酸铁锂业务生产经营情况正常，产能利用率大致能够达到80%，但与去年相比还是稍差，去年几乎是满产状态，这主要是由于今年以来市场行情较弱。东高科技高级投资顾问胡学表示，成本下降、供求宽松等因素共同造成了磷酸铁锂价格持续走低，未来短期价格走势或受到“金九银十”传统旺季的支撑，长期来看磷酸铁锂价格有望平稳走强。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiw2770585.d.html</link>
-            <guid>3242258</guid>
-            <pubDate>Thu, 14 Sep 2023 17:39:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄媒：俄两架战略轰炸机在巴伦支海和挪威海中立水域完成巡航飞行】当地时间9月14日，俄新社报道称，俄罗斯武装力量的两架图-95MS战略轰炸机完成了在巴伦支海和挪威海中立水域上空的巡航飞行，时长约4个小时。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiw2770550.d.html</link>
-            <guid>3242257</guid>
-            <pubDate>Thu, 14 Sep 2023 17:39:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务院：俄罗斯驱逐两名美国外交官是毫无理由且完全没有根据的。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiu5993358.d.html</link>
-            <guid>3242256</guid>
-            <pubDate>Thu, 14 Sep 2023 17:39:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[挪威1.4万亿美元规模的主权财富基金NBIM：将围绕私募业务考虑若干选项，私募业绩好于公募。]]></title>
-            <guid>3242255</guid>
-            <pubDate>Thu, 14 Sep 2023 17:36:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：币安遵从美国的法律，风险管理人员将离开该加密货币交易所。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiw2769832.d.html</link>
-            <guid>3242254</guid>
-            <pubDate>Thu, 14 Sep 2023 17:35:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周四（9月14日）欧市尾盘，法国巴黎泛欧交易所（EuroNext）“制粉小麦”期货涨1.58%，报241.75欧元/吨。油菜籽期货涨3.01%，报444.25欧元/吨。]]></title>
-            <guid>3242253</guid>
-            <pubDate>Thu, 14 Sep 2023 17:34:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【高管频繁更迭、组织架构持续优化，券商提质增效谋高质量发展】今年以来，43家上市券商中有34家公司的超百位董事、监事、高级管理人员职位出现了调整。而券商“掌舵人”、高管的变动，牵动着公司的战略布局及业务整体的发展变化。盘古智库高级研究员江瀚表示：“一方面，‘掌舵人’变更有望带来新的战略思路和业务机会，从而推动券商业务发展和创新。另一方面，高管变动或将实现更好的组织文化和团队凝聚力的提升，从而提升员工的工作积极性和公司整体的运营效率。高管变动也有望促进公司的战略转型和升级，以适应市场的变化和竞争压力，提升公司的核心竞争力。”（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiw2769406.d.html</link>
-            <guid>3242252</guid>
-            <pubDate>Thu, 14 Sep 2023 17:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【也门胡塞武装称其代表团将在阿曼陪同下与沙特进行磋商】也门胡塞武装“最高政治委员会”主席迈赫迪·穆沙特14日晚发表声明称，他的代表团将在阿曼代表团的陪同下前往沙特首都利雅得，与沙特方面进行磋商。磋商的议题包括：重开由胡塞武装控制的港口和萨那机场、为胡塞武装控制区内的公务员支付工资、释放囚犯、重建等议题。当天早些时候，阿曼代表团抵达胡塞武装控制的也门首都萨那，就延长停火协议、建立互信、解决人道主义危机等议题与胡塞武装进行磋商。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiu5992114.d.html</link>
-            <guid>3242251</guid>
-            <pubDate>Thu, 14 Sep 2023 17:32:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国密歇根州州长敦促美国汽车工人联合会（UAW）和汽车制造商达成合同协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiis2113749.d.html</link>
-            <guid>3242250</guid>
-            <pubDate>Thu, 14 Sep 2023 17:29:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：法庭文件显示，美国总统拜登之子亨特·拜登被起诉，面临三项刑事指控，所有三项与枪支指控有关。]]></title>
-            <guid>3242249</guid>
-            <pubDate>Thu, 14 Sep 2023 17:28:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登表示，他已任命前商务部长潘妮·普利兹克（Penny Pritzker）担任美国新任乌克兰经济复苏特别代表。]]></title>
-            <guid>3242248</guid>
-            <pubDate>Thu, 14 Sep 2023 17:27:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【A股五大上市险企8月份寿险保费环比降14.4%】截至9月14日，A股五大上市险企前8个月保费收入数据全部出炉。根据公开数据计算，5家公司8月份的寿险保费收入总和环比7月份明显下降，仅中国人寿1家实现正增长。8月份，五大上市险企的寿险业务共取得保费收入884.87亿元，环比7月份的1033.6亿元减少了148.73亿元，环比降幅为14.4%。业内人士认为，8月份保费收入环比下降在预期之中。不过，由于很多公司在前7个月已经大幅完成甚至全部完成了年度目标任务，因此，这不会对其完成全年目标产生不利影响。下半年，寿险公司重点会在发展策略、2024年开门红筹划等方面下更大功夫。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiq6790706.d.html</link>
-            <guid>3242247</guid>
-            <pubDate>Thu, 14 Sep 2023 17:26:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列总理内塔尼亚胡办公室表示，以色列总理将在下周的联合国大会上与美国总统拜登会面。]]></title>
-            <guid>3242246</guid>
-            <pubDate>Thu, 14 Sep 2023 17:26:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中介Douglas Elliman和研究机构Miller Samuel的数据显示：美国8月曼哈顿租金中位数维持在7月份4370美元不变，即保持在历史最高位附近。租赁住房供应量偏低，因为缺乏新增租赁住房、那些通常倾向于购房的买家现在也因为利息偏高而选择租房的缘故。]]></title>
-            <guid>3242245</guid>
-            <pubDate>Thu, 14 Sep 2023 17:26:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【投资端改革“再落一子”，公募基金交易结算模式优化】证监会近日向系统内发布《优化公募基金管理人证券交易模式的通知》，提高券商交易模式（俗称“券结模式”）的便利化水平，同时允许各类公募基金管理人根据自身业务发展需要自主选择交易模式，加强交易行为监管。保险、银行等其他各类金融机构及其管理的各类产品，参照适用本次证券交易模式优化方案。业内人士表示，此次优化证券交易模式有三方面意义，一是有利于提升券结模式服务机构投资者能力；二是有利于中小公募基金管理人降本增效，使其能够聚焦投研等核心能力的提升；三是保险、银行等其他各类金融机构亦可根据自身发展和投资需求选择证券交易模式，有助于中长期资金入市。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiw2768148.d.html</link>
-            <guid>3242244</guid>
-            <pubDate>Thu, 14 Sep 2023 17:26:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【超700只个股单日零成交，港股流动性问题待解】截至9月14日收盘，港股全市场当天成交额仅617.61亿港元，其中，735只个股出现零成交，占比超28%。今年前八个月，港股市场日均成交额为1120亿港元，同比下跌12%。另外，从年内区间成交额来看，截至9月14日，51只个股为零成交，850只个股累计成交额在1000万港元以下，占比33%。此前，8月29日，香港特区政府发布新闻公报宣布成立促进股票市场流动性专责小组，全面审视影响股票市场流动性的因素。Co-Found智库秘书长张新原表示，港交所要持续完善交易制度，提高成交效率，缩短交易处理时间，这是改善流动性的重要措施。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiis2113436.d.html</link>
-            <guid>3242243</guid>
-            <pubDate>Thu, 14 Sep 2023 17:26:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周四美联储隔夜逆回购协议（RRP）使用规模为1.492万亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiis2113407.d.html</link>
-            <guid>3242242</guid>
-            <pubDate>Thu, 14 Sep 2023 17:25:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[声明显示，阿根廷央行将基准利率维持在118%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtiiu5990900.d.html</link>
-            <guid>3242241</guid>
-            <pubDate>Thu, 14 Sep 2023 17:25:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际铜夜盘收涨0.65%，沪铜收涨0.46%，沪铝收涨0.55%，沪锌收涨0.78%，沪铅收涨0.53%，沪镍收涨1.12%，沪锡收涨0.86%。氧化铝夜盘收涨0.20%。不锈钢夜盘收涨0.33%。]]></title>
-            <guid>3242240</guid>
-            <pubDate>Thu, 14 Sep 2023 17:00:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳斯达克100指数涨幅扩大至1%，标普500指数涨超0.9%，道指涨超1.0%。特斯拉涨1.4%，苹果涨1.0%。]]></title>
-            <guid>3242239</guid>
-            <pubDate>Thu, 14 Sep 2023 16:59:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：英国石油公司主席海尔格·伦德（HELGE LUND）已经排除了自己成为该石油巨头的下一任首席执行官的可能性。]]></title>
-            <guid>3242238</guid>
-            <pubDate>Thu, 14 Sep 2023 16:58:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【NASA称相信地球外存在生命】9月14日，美国国家航空航天局（NASA）发布关于不明异常现象（UAP）——通常被大众理解为“UFO”的报告。美国国家航空航天局将任命一名UAP研究主管，但考虑到可能存在的人身攻击，没有透露具体姓名。NASA局长比尔·尼尔森在发布会上表示，这是NASA第一次采取具体行动“认真研究UAP现象”。他说，NASA将在宇宙中发现另一颗“像地球一样的”宜居星球。鉴于宇宙中恒星和星系的庞大数量，他相信还有其他生命存在。不过报告强调，目前“没有证据得出”现有的不明飞行物目击事件是外星人造成的。但NASA仍然建议不要抹去这类说法，因为该机构的许多科学任务至少在一定程度上致力于回答地球以外是否存在生命的问题。NASA称，“UAP”的调查就像大海捞针，缺乏高质量数据部分导致了这个谜团，目前的许多目击者描述并不详细或一致。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtazw6115342.d.html</link>
-            <guid>3242237</guid>
-            <pubDate>Thu, 14 Sep 2023 16:58:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【LME金属普遍收涨】LME金属普遍收涨，LME期铜收平，报8418美元/吨；LME期铝收涨7美元，报2224美元/吨；LME期锌收涨44美元，报2570美元/吨；LME期铅收涨28美元，报2245美元/吨；LME期镍收涨274美元，报20343美元/吨；LME期锡收涨207美元，报25895美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtazw6114975.d.html</link>
-            <guid>3242236</guid>
-            <pubDate>Thu, 14 Sep 2023 16:57:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国参议院银行委员会主席Brown就加密货币透明度不足问题致信美国财长耶伦。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtazu2239905.d.html</link>
-            <guid>3242235</guid>
-            <pubDate>Thu, 14 Sep 2023 16:52:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞银CEO：富裕投资者对货币市场基金有很高的需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtazw6113623.d.html</link>
-            <guid>3242234</guid>
-            <pubDate>Thu, 14 Sep 2023 16:52:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰军方：在早上的袭击中击伤了两艘俄罗斯巡逻船。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-15/detail-imzmtazw6113577.d.html</link>
-            <guid>3242233</guid>
-            <pubDate>Thu, 14 Sep 2023 16:51:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：2024年美国总统选举共和党参选人德桑蒂斯将在下周访问得克萨斯州期间详细介绍能源政策。]]></title>
-            <guid>3242232</guid>
-            <pubDate>Thu, 14 Sep 2023 16:50:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑加元USD/CAD回落至1.35下方，为9月1日以来首次，日内跌0.37%。]]></title>
-            <guid>3242231</guid>
-            <pubDate>Thu, 14 Sep 2023 16:44:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
