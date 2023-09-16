@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 16 Sep 2023 21:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Sep 2023 22:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【“77国集团和中国”峰会通过《哈瓦那宣言》】当地时间9月16日，“77国集团和中国”哈瓦那峰会在结束了为期两天的一般性辩论后，与会代表协商一致通过《哈瓦那宣言》。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-17/detail-imzmyhcw7498739.d.html</link>
+            <guid>3244358</guid>
+            <pubDate>Sat, 16 Sep 2023 21:58:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【欧洲央行“有内鬼”泄露消息 行长拉加德出狠招：会前没收委员们手机】两位消息人士表示，欧洲央行行长拉加德在本周的会议上没收了其他政策制定者们的手机，并斥责他们在政策决定前泄露了重要信息。知情人士称，周三，也就是央行会议的第一天，欧洲央行管理委员会的26名成员被告知交出手机，因为即将任命Claudia Buch为欧洲央行单一监事委员会主席。直到会议结束并对外正式宣布此人事任命消息后，委员们才拿回手机。]]></title>
             <link>https://finance.sina.cn/7x24/2023-09-17/detail-imzmxzvx0849943.d.html</link>
@@ -315,12 +321,6 @@
             <link>https://finance.sina.cn/7x24/2023-09-16/detail-imzmxkyh7955804.d.html</link>
             <guid>3244147</guid>
             <pubDate>Sat, 16 Sep 2023 13:34:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天津加快培养高素质技术技能人才，全市技能人才已达273万】天津紧跟产业发展需求，建立健全终身职业技能培训机制，通过设立大师工作室、产教深度融合等方式，加快培养高素质技术技能人才，为高质量发展提供有力支撑。截至目前，天津全市技能人才已达273万，为促进产业升级、推动高质量发展提供了重要支撑。预计“十四五”末，天津技能人才占就业人员的比例将超过40%，高技能人才占技能人才的比例超过35%。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-16/detail-imzmxkyh7953583.d.html</link>
-            <guid>3244137</guid>
-            <pubDate>Sat, 16 Sep 2023 13:23:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
