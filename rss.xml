@@ -4,11 +4,16 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 16 Sep 2023 18:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Sep 2023 19:12:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[欧洲央行管委马迪斯·穆勒：鉴于利率已经达到可能足以控制通胀的水平，欧洲央行应该考虑加快缩减其债券投资组合。]]></title>
+            <guid>3244270</guid>
+            <pubDate>Sat, 16 Sep 2023 18:36:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【杭州亚运会主媒体中心迎媒体及持权转播商】杭州亚运会主媒体中心入驻仪式在浙江杭州举行。杭州亚运会期间，来自中国、马来西亚、新加坡、泰国、日本、韩国、菲律宾等亚洲各国家(地区)的万余名媒体记者将在主媒体中心开展赛事转播报道，共同记录亚洲体育的累累硕果，传播亚洲人民的美好情谊。]]></title>
             <link>https://finance.sina.cn/7x24/2023-09-17/detail-imzmxvqa7738067.d.html</link>
@@ -318,12 +323,6 @@
             <link>https://finance.sina.cn/7x24/2023-09-16/detail-imzmxkyh7950246.d.html</link>
             <guid>3244132</guid>
             <pubDate>Sat, 16 Sep 2023 13:04:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【恒大财富多人被采取刑事强制措施】据“深圳南山公安”微信公众号消息，近期，公安机关依法对恒大金融财富管理（深圳）有限公司杜某等涉嫌犯罪人员采取刑事强制措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-16/detail-imzmxkya7166851.d.html</link>
-            <guid>3244131</guid>
-            <pubDate>Sat, 16 Sep 2023 12:57:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
