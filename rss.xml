@@ -4,13 +4,268 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Thu, 21 Sep 2023 15:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 16:20:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[美元兑日元跌幅扩大至0.7%，刷新一周低点至147.33，美国股市下跌让投资者转向避险日元。]]></title>
+            <title><![CDATA[谷歌公司：与博通的芯片合作关系“不会发生变化”。此前报道称谷歌考虑放弃博通作为人工智能芯片供应商。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-22/detail-imznnywy8560693.d.html</link>
+            <guid>3249819</guid>
+            <pubDate>Thu, 21 Sep 2023 16:19:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【10年期德债收益率涨超3个基点，意债和希债收益率至少涨8个基点】周四（9月21日）欧市尾盘，德国10年期国债收益率涨3.5个基点，报2.737%，英国央行宣布暂停加息时刷新日低至2.725%，随后震荡上行，于美国就业数据发布后、美股开盘之前涨至日高2.779%。两年期德债收益率跌0.3个基点，报3.257%，盘中交投于3.362%-3.255%区间；30年期德债收益率涨2.9个基点，报2.870%。2/10年期德债收益率利差涨3.838个基点，报-52.518个基点。法国10年期国债收益率涨4.1个基点，意大利10年期国债收益率涨9.0个基点，西班牙10年期国债收益率涨4.7个基点，希腊10年期国债收益率涨8.1个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-22/detail-imznnyxc2958581.d.html</link>
+            <guid>3249818</guid>
+            <pubDate>Thu, 21 Sep 2023 16:19:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿波罗联席总裁Zelter：加息效果尚未充分显现 对经济软着陆存疑】阿波罗全球管理联席总裁James Zelter对经济能够实现软着陆持“怀疑”态度，称各国央行收紧货币政策的效果仍未完全显现。“美联储希望看到的让经济放缓的过渡机制需要的时间要长得多，”他表示，“全球成本上升对美国和西欧的实际影响尚未显现，所以当人们说我们将软着陆时，我持怀疑态度。”旗下管理约6170亿美元资金的阿波罗经营着全球最大的私人信贷业务之一。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-22/detail-imznnyxc2958418.d.html</link>
+            <guid>3249817</guid>
+            <pubDate>Thu, 21 Sep 2023 16:18:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【韩正会见塞浦路斯总统赫里斯托祖利季斯】当地时间9月21日，国家副主席韩正在纽约出席联合国大会期间会见塞浦路斯总统赫里斯托祖利季斯。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-22/detail-imznnywz6180060.d.html</link>
+            <guid>3249816</guid>
+            <pubDate>Thu, 21 Sep 2023 16:13:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大总理特鲁多：毫无疑问，印度是一个日益重要的国家；加拿大不会寻求挑衅印度，我们将继续与印度合作。]]></title>
+            <guid>3249815</guid>
+            <pubDate>Thu, 21 Sep 2023 16:12:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿瑞斯资产管理公司CEO：我继续相信我们可以避免经济衰退。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-22/detail-imznnywx3236905.d.html</link>
+            <guid>3249814</guid>
+            <pubDate>Thu, 21 Sep 2023 16:12:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国白宫考虑签署防务条约以支持以色列和沙特达成协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-22/detail-imznnyxc2956860.d.html</link>
+            <guid>3249813</guid>
+            <pubDate>Thu, 21 Sep 2023 16:12:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度政府官员表示，暂时看不到近期的争端对加拿大投资的直接影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-22/detail-imznnyxc2956833.d.html</link>
+            <guid>3249812</guid>
+            <pubDate>Thu, 21 Sep 2023 16:12:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大总理特鲁多：呼吁各方在印度外交争端中保持冷静。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-22/detail-imznnyxc2956820.d.html</link>
+            <guid>3249811</guid>
+            <pubDate>Thu, 21 Sep 2023 16:12:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“老债王”格罗斯警告美债投资者：苦日子还没有结束】前太平洋投资管理公司（PIMCO，品浩）首席执行官比尔·格罗斯表示，即使美联储停止加息，债市投资者的痛苦也还没有结束。格罗斯在最新投资展望中写道，由于粘性通胀和不断扩大的赤字，债市将第三年遭遇创纪录亏损。他把政府的财政刺激比喻为“从直升机上撒钱”。敦促投资者减少持有美国国债和公司债，10年期美国国债价值被高估。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-22/detail-imznnywz6179582.d.html</link>
+            <guid>3249810</guid>
+            <pubDate>Thu, 21 Sep 2023 16:11:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[今日重点关注的财经数据与事件：2023年9月22日 周五
+① 07:01 英国9月Gfk消费者信心指数
+② 07:30 日本8月核心CPI年率
+③ 11:00 日本央行公布利率决议
+④ 14:00 英国8月季调后零售销售月率
+⑤ 14:30 日本央行行长植田和男召开新闻发布会
+⑥ 15:15 法国9月制造业PMI初值
+⑦ 15:30 德国9月制造业PMI初值
+⑧ 16:00 欧元区9月制造业PMI初值
+⑨ 16:30 英国9月制造业及服务业PMI
+⑩ 18:00 英国9月CBI工业订单差值
+⑪ 20:30 加拿大7月零售销售月率
+⑫ 20:50 美联储理事库克发表讲话
+⑬ 21:45 美国9月Markit制造业PMI初值
+⑭ 21:45 美国9月Markit服务业PMI初值
+⑮ 次日01:00 美国至9月22日当周石油钻井总数
+⑯ 次日01:00 美联储戴利发表讲话
+⑰ 次日01:00 美联储卡什卡利发表讲话]]></title>
+            <guid>3249809</guid>
+            <pubDate>Thu, 21 Sep 2023 16:00:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度政府官员：（诚然印度与加拿大政府发生外交摩擦，但那些）加拿大养老基金没理由退出印度市场。]]></title>
+            <guid>3249808</guid>
+            <pubDate>Thu, 21 Sep 2023 16:00:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国汽车行业罢工如果扩大 钢铁行业或遭池鱼之殃】如果美国汽车工人联合会(UAW)扩大罢工规模，不光是底特律三大汽车制造商受影响，本已处境艰难的钢铁制造商可能尤其容易受到冲击。预计罢工每周将减少1,100吨铜需求和9,500吨铝需求。而钢铁制造商已经开始受到冲击，美国钢铁公司已因罢工而暂停了伊利诺伊州的一座高炉。以史为鉴，情况不妙。上一次美国汽车工人针对通用汽车的罢工是在2019年，当时钢价下跌了17%。摩根大通分析师Gregory Shearer表示，“如果罢工针对的是大型SUV和卡车等高利润率车型，这些车型金属强度更高”，那么对金属需求的影响可能会大于2019年针对通用汽车的罢工。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnyxc2953913.d.html</link>
+            <guid>3249807</guid>
+            <pubDate>Thu, 21 Sep 2023 15:59:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英债收益率于英国央行宣布暂停加息时跳水，但美国就业数据巩固市场对美联储加息的预期】周四（9月21日）欧市尾盘，英国10年期国债收益率上涨9.4个基点，报4.309%，英国央行宣布按兵不动时一度跌至将近4.24%，随后反弹，美国就业数据发布后一度涨至4.354%。两年期英债收益率涨2.8个基点，报4.876%，英国央行发布利率决议声明时剧烈波动超过8个基点——从4.94%上方跳水至4.86%下方，美国就业数据发布后涨至日高4.944%，随后刷新日低至4.844%。30年期英债收益率涨7.9个基点，50年期英债收益率涨6.6个基点。2/10年期英债收益率利差涨5.978个基点，报-58.156个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnywx3234453.d.html</link>
+            <guid>3249806</guid>
+            <pubDate>Thu, 21 Sep 2023 15:58:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴基斯坦总理办公室：向力拓(RIO.N)集团首席执行官及其团队发出邀请，访问巴基斯坦并进一步探索投资机会。]]></title>
+            <guid>3249803</guid>
+            <pubDate>Thu, 21 Sep 2023 15:56:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大总理特鲁多：印度应与加拿大就指控问题合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnyxc2952966.d.html</link>
+            <guid>3249802</guid>
+            <pubDate>Thu, 21 Sep 2023 15:52:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国天然气期货涨约4.9%】周四（9月21日）欧市尾盘，ICE英国天然气期货涨4.87%，报100.010便士/千卡。TTF基准荷兰天然气期货涨2.93%，报38.600欧元/兆瓦时。ICE欧盟碳排放交易许可（期货价格）涨1.05%，报82.78欧元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnywy8556573.d.html</link>
+            <guid>3249801</guid>
+            <pubDate>Thu, 21 Sep 2023 15:51:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【长江上游将迎来新一轮大范围强降雨】长江防汛抗旱总指挥部21日发布汛情通报，9月22日至27日，嘉陵江水系、汉江上中游及三峡区间将有中到大雨、局地暴雨，渠江、寸万区间、汉江石泉至白河等地过程累计面雨量将达90至120毫米，汉江石泉以上、白河至皇庄、万宜区间等地过程累计面雨量将达50至90毫米。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnywy8556230.d.html</link>
+            <guid>3249800</guid>
+            <pubDate>Thu, 21 Sep 2023 15:49:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多国领导人在联合国大会呼吁俄乌冲突降级】第78届联合国大会一般性辩论19日在纽约联合国总部拉开帷幕。正在参加联合国大会一般性辩论的多国领导人呼吁俄乌冲突能够降级，战争不是解决方案。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnywy8556075.d.html</link>
+            <guid>3249799</guid>
+            <pubDate>Thu, 21 Sep 2023 15:47:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【飞凯材料：与中芯国际旗下企业有业务往来】飞凯材料在互动平台上称，公司与中芯国际旗下企业有业务往来，订单规模随着客户需求变化而变化。]]></title>
+            <guid>3249798</guid>
+            <pubDate>Thu, 21 Sep 2023 15:44:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新西兰克马德克群岛附近海域发生5.7级地震】据欧洲地中海地震中心消息，当地时间9月22日3点20分，新西兰克马德克群岛附近海域（南纬30.651度，西经178.211度）发生5.7级地震，震源深度10公里。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnywy8555511.d.html</link>
+            <guid>3249797</guid>
+            <pubDate>Thu, 21 Sep 2023 15:42:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【普华永道：超六成消费者未来半年将增加旅行支出】普华永道于9月21日发布《2023年全球消费者洞察调研》报告。报告认为，上半年中国零售市场整体呈现逐步复苏态势，零售业基本保持稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnywz6174387.d.html</link>
+            <guid>3249796</guid>
+            <pubDate>Thu, 21 Sep 2023 15:41:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英镑跌至六个月低点 市场担心英国央行后期恐被迫“更猛烈踩刹车”】英镑跌至六个月低点，英债一并下跌，市场担心英国央行在抗击通胀方面过于保守，可能导致英国资产进一步下跌。市场担心的是，决策层愈发关注经济损害，意味着他们将会太快放弃抗击通胀的努力。8月通胀意外放缓，被认为是央行周四将利率维持在5.25%的关键原因，但能源价格的走高可能会起到反作用。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnywy8555134.d.html</link>
+            <guid>3249795</guid>
+            <pubDate>Thu, 21 Sep 2023 15:40:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[随着美国政府停摆截止日期临近，美国众议院再次拒绝就2024财年国防支出法案展开辩论。]]></title>
+            <guid>3249794</guid>
+            <pubDate>Thu, 21 Sep 2023 15:38:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【意大利兰佩杜萨岛非法移民人数激增 意总理呼吁对人口贩卖“发起全球斗争”】意大利兰佩杜萨岛近日涌入大量移民，当地不堪重负。意大利此前呼吁欧盟其他国家分摊接纳移民，但法国、德国均已表示，不分摊接收进入意大利的移民。面对汹涌的移民潮，当地时间20日，意大利总理焦尔吉娅·梅洛尼在美国纽约出席联合国大会时，呼吁加大打击人口贩卖的力度，敦促联合国对人口贩卖“发起一场全球斗争”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnywz6173882.d.html</link>
+            <guid>3249793</guid>
+            <pubDate>Thu, 21 Sep 2023 15:37:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院少数党领袖麦康奈尔：乌克兰援助是符合美国利益的投资。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnywy8554672.d.html</link>
+            <guid>3249792</guid>
+            <pubDate>Thu, 21 Sep 2023 15:36:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲央行管委Knot预计“极短期内”不会调整利率】欧洲央行管委会委员Klaas Knot表示他预计央行在下次会议上“不会动”利率。Knot接受采访时表示：“我不能排除将来不得不再次加息的可能性，但目前我认为利率水平是恰当的，并且预计极短期内不会有调整”“经济在充分降温”但不可能早于2025年让通胀率降至2%。他表示，“我对目前的货币政策状况感到满意，因为我相信在这个利率水平上，通胀率于2025年回落至2%的前景是可靠的”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnywz6173232.d.html</link>
+            <guid>3249791</guid>
+            <pubDate>Thu, 21 Sep 2023 15:33:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部拍卖四周期国库券，得标利率5.280%（上周为5.285%），投标倍数2.80（前次为2.66）。拍卖八周期国库券，得标利率5.300%（前次为5.295%），投标倍数2.58（前次为2.77）。]]></title>
+            <guid>3249790</guid>
+            <pubDate>Thu, 21 Sep 2023 15:32:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基抵达美国国防部。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnywz6172984.d.html</link>
+            <guid>3249789</guid>
+            <pubDate>Thu, 21 Sep 2023 15:31:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲主要股指集体收跌 德国DAX指数跌1.33%】欧洲主要股指集体收跌，德国DAX指数跌1.33%，法国CAC40指数跌1.59%，英国富时100指数跌0.69%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnywy8554017.d.html</link>
+            <guid>3249788</guid>
+            <pubDate>Thu, 21 Sep 2023 15:31:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波兰总统杜达：波兰可能在未来向乌克兰运送更多的武器。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnywz6172675.d.html</link>
+            <guid>3249787</guid>
+            <pubDate>Thu, 21 Sep 2023 15:30:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波兰总统杜达：乌克兰应对粮食出口禁令表现出更多理解。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnywy8553765.d.html</link>
+            <guid>3249786</guid>
+            <pubDate>Thu, 21 Sep 2023 15:30:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院多数党领袖舒默：美国众议院议长麦卡锡浪费时间增加了政府停摆的可能性。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnyxc2949728.d.html</link>
+            <guid>3249785</guid>
+            <pubDate>Thu, 21 Sep 2023 15:29:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【南非股指收跌将近2.3%，腾讯“大股东”Naspers跌约5.1%跌幅第二大】南非富时/JSE非洲领先40可交易指数收跌2.27%，报67430.92点。成分股英美铂业收跌5.54%领跌，Naspers跌5.09%，Prosus跌4.32%跌幅第三大，大型煤炭和重矿物开采公司爱索资源约翰内斯堡股价（EXX.SJ）收跌3.74%，嘉能可跌3.33%跌幅第九大。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnywx3230454.d.html</link>
+            <guid>3249784</guid>
+            <pubDate>Thu, 21 Sep 2023 15:26:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院多数党领袖舒默：国会不能在对乌克兰援助方面松懈。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnywy8553150.d.html</link>
+            <guid>3249783</guid>
+            <pubDate>Thu, 21 Sep 2023 15:25:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院多数党领袖舒默：必须通过一项包含对乌克兰援助的资金法案。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnywy8553015.d.html</link>
+            <guid>3249782</guid>
+            <pubDate>Thu, 21 Sep 2023 15:24:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院多数党领袖舒默：乌克兰总统泽连斯基表示，如果没有美国的援助，乌克兰将会输掉这场冲突。]]></title>
+            <guid>3249781</guid>
+            <pubDate>Thu, 21 Sep 2023 15:21:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泰国政府声明：在签证豁免政策实施后，预计今年10月份中国游客数量将比9月份增长61%。]]></title>
+            <guid>3249780</guid>
+            <pubDate>Thu, 21 Sep 2023 15:21:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基：与美国参议员进行了良好对话。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnurc6302070.d.html</link>
+            <guid>3249779</guid>
+            <pubDate>Thu, 21 Sep 2023 15:21:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泰国总理赛塔：在纽约会见了特斯拉CEO埃隆·马斯克，并就电动汽车进行了讨论。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnura8682885.d.html</link>
+            <guid>3249778</guid>
+            <pubDate>Thu, 21 Sep 2023 15:18:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【随着大型船舶运价放缓，波罗的海指数结束了连续11个交易日的上涨】最新数据显示，2023年09月21日 波罗的海干散货指数(BDI)报 1569 点，较前值跌0.95%，创2023年09月05日以来最大跌幅。其中，巴拿马型运费指数(BPI)报1696 点，较前值跌0.64%，海岬型运费指数(BCI)报2007 点，跌2.90%，超灵便型船运价指数(BSI)报1350 点，涨1.96%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnurf3078367.d.html</link>
+            <guid>3249777</guid>
+            <pubDate>Thu, 21 Sep 2023 15:16:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【道指跌超200点，标普和纳指跌超1%，投资者转向避险日元】美元兑日元跌幅扩大至0.7%，刷新一周低点至147.33，美国股市下跌让投资者转向避险日元。道指跌超200点，成分股思科跌超4%领跌，卡特彼勒和陶氏化学跌超2%，赛富时、高盛等至少跌约1.7%，微软则涨0.3%，英特尔涨0.8%。标普500指数目前跌超1.1%，成分股亚马逊跌超3%、谷歌C跌2.1%、英伟达跌1.6%；纳指跌约1.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnurf3078266.d.html</link>
             <guid>3249776</guid>
             <pubDate>Thu, 21 Sep 2023 15:15:53 GMT</pubDate>
         </item>
@@ -61,250 +316,6 @@
             <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnurc6300298.d.html</link>
             <guid>3249768</guid>
             <pubDate>Thu, 21 Sep 2023 15:10:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥总统：将不会出席11月在旧金山举行的亚太经合组织峰会。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnurc6300275.d.html</link>
-            <guid>3249767</guid>
-            <pubDate>Thu, 21 Sep 2023 15:10:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥总统：代表团可能在11月访问华盛顿，讨论移民、毒品走私、暴力和贸易问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnurc6300259.d.html</link>
-            <guid>3249766</guid>
-            <pubDate>Thu, 21 Sep 2023 15:10:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【嘉泽新能：前8月合计发电量35.2亿千瓦时，同比增长57.05%】公司2023年7-8月合计发电量78928.38万千瓦时，前8月合计发电量是351966.78万千瓦时，同比增长57.05%。1-8月份公司部分项目所在地区平均风速有所上升；公司将宁夏宁柏产业投资基金纳入合并财务报表范围后，使公司装机容量同比增幅较大，发电量同比上升；1-8月份部分在建项目陆续并网发电。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnura8681711.d.html</link>
-            <guid>3249765</guid>
-            <pubDate>Thu, 21 Sep 2023 15:10:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【山东师大回应网传新闻与传媒学院院长傅某有关问题：成立工作组调查核实】山东师范大学官博发布声明称，9月21日上午，网络上出现我校新闻与传媒学院院长傅某有关问题信息。学校高度重视，第一时间成立工作组进行调查核实，将根据调查结果依法依规处理。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnurc6300102.d.html</link>
-            <guid>3249764</guid>
-            <pubDate>Thu, 21 Sep 2023 15:09:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【双良节能前三季净利润预计增长62.59%~92.70%】双良节能(600481)9月21日发布前三季业绩预增公告，预计实现净利润为13.50亿元~16.00亿元，净利润同比增长62.59%~92.70%。证券时报•数据宝统计显示，双良节能今日收于10.04元，下跌1.08%，日换手率为0.44%，成交额为8334.23万元，近5日下跌2.05%。通过对前三季业绩预增50%以上的个股走势进行统计发现，预告发布后当日股价上涨的占比100.00%。预告发布后5日股价上涨的占比100.00%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnuqz3358752.d.html</link>
-            <guid>3249763</guid>
-            <pubDate>Thu, 21 Sep 2023 15:09:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[微软：新推出的Surface设备今天开始面向个人和企业预订，必应将为OpenAI的最新DALL.E 3模型提供支持。]]></title>
-            <guid>3249762</guid>
-            <pubDate>Thu, 21 Sep 2023 15:08:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Everest时隔一年再次递表港交所IPO，券商人士：SPAC并购目标不好找】 港交所披露易平台显示，时隔一年后，Everest Acquisition Corporation–Z再次向港交所递交了上市申请。招股书显示，Everest是一家SPAC（特殊目的收购公司），注册地在开曼群岛，其发起人为Hony Partners Group（弘毅）和农银国际融资。在Everest之前，港交所SPAC上市已沉寂了一段时间。多位业内人士表示，目前SPAC的并购目标并不好找。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnuqz3358325.d.html</link>
-            <guid>3249761</guid>
-            <pubDate>Thu, 21 Sep 2023 15:06:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[9月21日欧盘美盘重要新闻汇总
-国内新闻：
-1. 商务部：已批准了符合规定的若干镓、锗相关物项的出口申请。
-2. 上海市人民政府办公厅印发《上海市落实〈关于在有条件的自由贸易试验区和自由贸易港试点对接国际高标准推进制度型开放的若干措施〉实施方案》的通知。
-国际新闻：
-1. 日元实际有效汇率跌至53年来最低水平。
-2. 当地时间21日，欧洲《芯片法案》正式生效。
-3. 俄罗斯政府：于9月21日起对汽油、柴油出口实施全面禁令。
-4. 美国至9月16日当周初请失业金人数录得20.1万人，为1月28日当周以来新低。
-5. 雪佛龙(CVX.N)同意澳大利亚监管机构提出的一项协议，以结束关键天然气出口设施的罢工，而工会则继续审查该计划。
-6. 英国央行意外维持基准利率在5.25%不变，市场预期加息25个基点；此前连续14次加息，自2021年12月以来累计加息515个基点。]]></title>
-            <guid>3249760</guid>
-            <pubDate>Thu, 21 Sep 2023 15:06:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国电电力：前8月净利润同比增长20.63%，入炉综合标煤单价同比下降】公司2023年1-8月经营情况良好，发电量、上网电量可比口径稳步增长，入炉综合标煤单价同比下降。经公司初步核算，2023年1-8月，公司营业利润同比增长19.96%，净利润同比增长20.63%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnura8680834.d.html</link>
-            <guid>3249759</guid>
-            <pubDate>Thu, 21 Sep 2023 15:04:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三棵树：前9月营业收入91.39亿元到99.34亿元，同比增长15%到25%】经财务部门初步测算，预计公司2023年1-9月营业收入为913,886.81万元到993,355.23万元，较上年同期增长15%到25%。公司聚焦央国企、城建城投、工业厂房新赛道，逐步发力旧改、学校、医院等小B端应用场景，并下沉县级和乡镇市场，推进艺术漆、马上住、美丽乡村及基辅材配套战略，各品类和渠道发展良好。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnurf3076144.d.html</link>
-            <guid>3249758</guid>
-            <pubDate>Thu, 21 Sep 2023 15:04:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华铁应急：前8月归母净利润约4.56亿元，同比增超29.79%】2023年以来公司业务总体市场需求旺盛，高空作业平台景气度维持较高水平。经公司初步核算，2023年1-8月，公司实现营业收入约27.45亿元，同比增长超过36.49%；实现归母净利润约4.56亿元，同比增长超过29.79%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnurc6298995.d.html</link>
-            <guid>3249757</guid>
-            <pubDate>Thu, 21 Sep 2023 15:03:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[埃及将糖出口禁令延长三个月。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnura8680396.d.html</link>
-            <guid>3249756</guid>
-            <pubDate>Thu, 21 Sep 2023 15:02:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大商所、郑商所夜盘收盘 焦煤跌超2%】大商所、郑商所夜盘收盘，多数下跌。焦煤跌超2%，PVC、甲醇等跌超1%，豆粕、棕榈油等小幅下跌；玻璃涨超1%，淀粉、烧碱等小幅上涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnura8680329.d.html</link>
-            <guid>3249755</guid>
-            <pubDate>Thu, 21 Sep 2023 15:01:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣亨特：减税“几乎不可能”，在秋季声明期间我将面临困难决策。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnurf3075498.d.html</link>
-            <guid>3249754</guid>
-            <pubDate>Thu, 21 Sep 2023 15:00:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube将开始测试“Dream Screen”功能】YouTube 9月21日宣布将开始测试新的实验性功能“Dream Screen”，用户可以通过在提示框中输入一个想法，为短片创建人工智能生成的视频或图像背景。（界面）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnurc6298259.d.html</link>
-            <guid>3249753</guid>
-            <pubDate>Thu, 21 Sep 2023 14:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国二手房销量跌至7个月低点 受高利率和低库存限制】受库存有限和处于历史高位的抵押贷款利率限制，美国8月份二手房销售降至今年年初以来最低水平。全美地产经纪商协会(NAR)周四公布的数据显示，8月份二手房折合年率销量下降0.7%至404万套。融资成本高、库存减少和价格上涨的综合作用使得美国人住房负担能力处于纪录低点。待售住宅数量小幅下降至110万套，为1999年开始有相关数据以来的最低8月水平。按照目前的销售速度，将需要3.3个月售出市场上所有待售住宅。房地产经纪人认为，供应不足五个月就表明市场供应紧张。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnuqz3356934.d.html</link>
-            <guid>3249752</guid>
-            <pubDate>Thu, 21 Sep 2023 14:57:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据国际文传电讯社：俄罗斯副总理诺瓦克与多家公司将于9月22日讨论燃料市场。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnurc6297799.d.html</link>
-            <guid>3249751</guid>
-            <pubDate>Thu, 21 Sep 2023 14:56:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【均胜电子：预计公司前三季度营业收入同比增长约14%】均胜电子(600699)9月21日晚间公告，预计公司2023年前三季度实现营业收入约407亿元，同比增长约14%，其中，2023年第三季度预计实现营业收入约137亿元，同比增长约7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnurf3074457.d.html</link>
-            <guid>3249750</guid>
-            <pubDate>Thu, 21 Sep 2023 14:54:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广州发展：1-8月累计完成发电量151.64亿千瓦时】广州发展9月21日晚间公告，1-8月，公司合并口径发电企业累计完成发电量151.64亿千瓦时，上网电量（含光伏发电售电量）143.7亿千瓦时，与去年同期相比分别上涨16.3%和16.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnurf3074348.d.html</link>
-            <guid>3249749</guid>
-            <pubDate>Thu, 21 Sep 2023 14:53:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国众议院议长麦卡锡表示，众议院共和党成员们9月20日深夜围绕政府融资问题的立法草案上取得突破。]]></title>
-            <guid>3249748</guid>
-            <pubDate>Thu, 21 Sep 2023 14:52:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【川仪股份：重点研发计划项目通过验收】川仪股份公告，近日，公司承担的国家重点研发计划项目“工业仪表制造过程智能标定系统开发及应用示范”顺利通过项目综合绩效评价。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnuqz3355777.d.html</link>
-            <guid>3249747</guid>
-            <pubDate>Thu, 21 Sep 2023 14:50:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国众议院议长麦卡锡：美国总统拜登在资助乌克兰之前需要解决边境问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnuqz3355526.d.html</link>
-            <guid>3249746</guid>
-            <pubDate>Thu, 21 Sep 2023 14:48:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【祥源文旅：2023年暑期（7-8月）营业收入同比增长21.43%】祥源文旅公告，2023年暑期（7-8月）景区交通类业务（含安徽齐云山月华索道、横江竹筏、景交车，张家界黄龙洞游船及增值服务，张家界百龙天梯，湖南凤凰古城沱江游船）共接待游客235.42万人次，实现营业收入10,597.77万元。相较于2022年同期，接待人次同比增长20.82%，营业收入同比增长21.43%；相较于2019年同期，接待人次同比增长13.83%，营业收入同比增长16.82%。公司上述景区交通类业务占公司营业收入总额的50%以上。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnurf3073397.d.html</link>
-            <guid>3249745</guid>
-            <pubDate>Thu, 21 Sep 2023 14:48:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[微软(MSFT.O)推出两款全新的Surface笔记本电脑。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnurf3073269.d.html</link>
-            <guid>3249744</guid>
-            <pubDate>Thu, 21 Sep 2023 14:47:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【内蒙新华：1月-8月净利润同比增加约16.5%左右】内蒙新华9月21日晚间公告，公司2023年1月至8月营业收入同比增加比例约为11.8%左右；营业利润同比增加比例约为25%左右；归属于上市公司股东的净利润同比增加比例约为16.5%左右。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnurf3073233.d.html</link>
-            <guid>3249743</guid>
-            <pubDate>Thu, 21 Sep 2023 14:47:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委诺特表示，利率水平是合理的，但不排除继续加息的可能性。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnuqz3355260.d.html</link>
-            <guid>3249742</guid>
-            <pubDate>Thu, 21 Sep 2023 14:47:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国众议院议长麦卡锡：“非常愿意”考虑乌克兰的援助请求。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnurc6295858.d.html</link>
-            <guid>3249741</guid>
-            <pubDate>Thu, 21 Sep 2023 14:46:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【歌力思：控股股东拟增持1000万元股份】歌力思公告，控股股东深圳市歌力思投资管理有限公司拟自本公告披露之日起3个月内通过上海证券交易所交易系统允许的方式（包括但不限于集中竞价和大宗交易等）增持公司股份，增持金额人民币1,000万元左右。本次增持价格将不设置价格区间。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnurf3072804.d.html</link>
-            <guid>3249740</guid>
-            <pubDate>Thu, 21 Sep 2023 14:45:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【通用股份：预计8月净利同比增235.15％】通用股份公告，2023年1至8月生产经营情况良好。公司持续稳健推进国际化布局，创新产品研发，加速品牌和渠道建设。依托泰国、柬埔寨海外双基地，升级客户服务，不断增强运营能力。经初步测算，公司2023年8月预计实现营业收入约5.23亿元，同比增长约35.70%、归属于上市公司股东的净利润约4,285.30万元，同比增长约235.15％。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnurf3072141.d.html</link>
-            <guid>3249739</guid>
-            <pubDate>Thu, 21 Sep 2023 14:42:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【浩瀚深度：已拥有400G全光传送网络的DPI产品】浩瀚深度近期接受投资者调研时称，公司不断进行产品迭代升级，目前已拥有可用于400G全光传送网络的DPI产品。该产品基于CLOS架构设计，业务处理能力和镜像能力都进行全面升级，能够实现400GE业务接口，并支持串接和并接两种部署方式。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnurf3072113.d.html</link>
-            <guid>3249738</guid>
-            <pubDate>Thu, 21 Sep 2023 14:42:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩国最大在野党共同民主党国会院内领导层集体辞职】9月21日晚，韩国最大在野党共同民主党国会院内领导层集体辞职，该党事务总长也表明辞职意向。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnurc6294579.d.html</link>
-            <guid>3249737</guid>
-            <pubDate>Thu, 21 Sep 2023 14:41:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海天瑞声：境外收入水平将逐步恢复 继续发力智能驾驶大模型】海天瑞声近期接受投资者调研时称，预计随着境外客户人员调整进入尾声，以及出境安全评估逐渐转向常态化，境外收入水平将逐步恢复；同时公司也将持续发力智能驾驶、大模型等新兴战略型业务，并积极探索数据要素市场，力争通过多主线合力，实现未来业绩的稳步回升。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnurf3071348.d.html</link>
-            <guid>3249736</guid>
-            <pubDate>Thu, 21 Sep 2023 14:39:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【鸿合科技：上半年 陆续中标海外大单】鸿合科技9月21日在互动平台上称，2023年，公司陆续中标海外大单，上半年中标美国市场1.4万台单一订单，下半年中标欧洲市场1.6万台单一订单。公司海外事业部将加速开拓北美、欧洲、亚太等地区的教育信息化市场，不断拓展海外市场份额。海运费价格处于历史低位会对公司海外销售业务毛利率产生一定的积极影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnurf3071000.d.html</link>
-            <guid>3249735</guid>
-            <pubDate>Thu, 21 Sep 2023 14:38:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行行长贝利：决心将通胀率降至2%的目标水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnurc6293499.d.html</link>
-            <guid>3249734</guid>
-            <pubDate>Thu, 21 Sep 2023 14:37:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[埃及官方公报：埃及将糖出口禁令延长三个月，超出本地市场需求的剩余数量除外。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnurf3070523.d.html</link>
-            <guid>3249733</guid>
-            <pubDate>Thu, 21 Sep 2023 14:36:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【恒大汽车中期报告：上半年营业额同比增长超540%，毛亏同比增超530%】恒大汽车联交所公告，于报告期内，本集团的营业额为人民币1.5454亿元，相比截至2022年6月30日止六个月经重述的营业额增加540.98%。收入增加主要由于本集团开始销售恒驰5。于报告期内，本集团的毛亏为人民币0.6088亿元，相比截至2022年同期增加531.54%，主要由于电池及芯片等核心零部件价格上涨、缺乏大规模生产使制造成本较高。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnurc6292928.d.html</link>
-            <guid>3249732</guid>
-            <pubDate>Thu, 21 Sep 2023 14:34:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA天然气报告：截至9月15日当周，美国天然气库存总量为32690亿立方英尺，较去年同期高4100亿立方英尺，同时较5年均值高1830亿立方英尺。]]></title>
-            <guid>3249731</guid>
-            <pubDate>Thu, 21 Sep 2023 14:32:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA天然气库存公布后，天然气期货价格短线下跌，报2.91美元/百万英热，日内转跌。]]></title>
-            <guid>3249730</guid>
-            <pubDate>Thu, 21 Sep 2023 14:31:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至9月15日当周EIA天然气库存640亿立方英尺，预期670亿立方英尺，前值570亿立方英尺。]]></title>
-            <guid>3249729</guid>
-            <pubDate>Thu, 21 Sep 2023 14:30:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【向供应商支付数千万准备造车，宝能年底前计划生产2万辆，离职人员认为是“表演”】近日，宝能汽车开始大手笔招人，相关招聘岗位都与汽车岗位相关。不少人开始疑惑，宝能汽车又要开始造车？“宝能恐怕是在‘表演’造车！本质似乎是想要拿钱圈地。”日前，一位不愿透露姓名的前宝能系高管张明（化名）告诉记者，此时宝能汽车招人并非真要造车，只是想要组建团队，进行一场造车的“表演”。为了这场“表演”，从今年春节前后至今，宝能汽车已经陆续向上游供应商支付数千万来做汽车零部件方面的筹备工作，近期更是支付了至少3千万元。不过，宝能汽车启动量产背后，还有众多宝能系员工的工资仍处于欠薪状态。在宝能集团总部，常有宝能系前员工前来讨要说法，甚至有员工采取了极端的维权方式。对于欠薪金额、宝能汽车招人及后续布局相关的内容，记者向宝能汽车方面进行求证，均未能得到回复。（每经网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-21/detail-imznnurf3068506.d.html</link>
-            <guid>3249727</guid>
-            <pubDate>Thu, 21 Sep 2023 14:28:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
