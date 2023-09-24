@@ -4,11 +4,41 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 24 Sep 2023 15:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Sep 2023 16:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【今日重点关注财经数据与事件】
+① 13:30 日本央行行长植田和男会见商界领袖
+② 16:00 德国9月IFO商业景气指数
+③ 18:00 英国9月CBI零售销售差值
+④ 21:00 欧洲央行行长拉加德发表介绍性声明
+⑤ 22:30 美国9月达拉斯联储商业活动指数
+⑥ 次日06:00 美联储卡什卡利发表讲话]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-25/detail-imznvrzy9728376.d.html</link>
+            <guid>3252274</guid>
+            <pubDate>Sun, 24 Sep 2023 16:00:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苹果将把在印度的生产规模扩大5倍，达到400亿美元】印度报政府官员称，苹果公司计划在未来五年内将在印度的产量增加五倍以上。该官员表示，苹果上一财年在印度的产量超过70亿美元，目标是400亿美元。目前，苹果已经在印度生产iPhone，并计划明年开始生产AirPods。苹果首次在本月的全球发布日发布了印度制造的iPhone 15。与此同时，印度技术部副部长Rajeev Chandrasekhar本月早些时候表示，印度正寻求到2026年将其电子产业扩大到3000亿美元。（环球市场播报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-24/detail-imznvrzw5152327.d.html</link>
+            <guid>3252266</guid>
+            <pubDate>Sun, 24 Sep 2023 15:51:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中金公司：美联储首次降息或发生在2024年9月】中金公司表示，美联储加息进入尾声，但官员们暗示利率或将更高更久（high for longer）。在美国经济有韧性、通胀放缓的基准情形下，美联储首次降息或发生在2024年9月，明年累计降息幅度或在50 bp左右。如果在此之前发生重大金融风险，提前降息概率将增加；但如果通胀粘性持续存在，美联储也可能不降息。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-24/detail-imznvrzy9725118.d.html</link>
+            <guid>3252256</guid>
+            <pubDate>Sun, 24 Sep 2023 15:29:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国宇航局：小行星贝努样本舱降落在美国犹他州】根据美国国家航空航天局（NASA）官网显示，美国小行星采样探测器“奥西里斯-REx”于当天将一个样本舱发回地球，舱内装有探测器大约3年前采集的小行星贝努表面样本，该样本舱已于美国东部时间上午10时53分降落在犹他州盐湖城附近一片沙漠里，而探测器“奥西里斯-REx”则将继续进行探测任务。目前，军事搜救队成员已出发前往样本舱的着陆地点，并会尽快将样本舱送往临时洁净室，以保护它免受地球环境的污染。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-24/detail-imznvrzw5149563.d.html</link>
+            <guid>3252255</guid>
+            <pubDate>Sun, 24 Sep 2023 15:25:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【周日重要消息汇总】
 国内新闻：
@@ -292,29 +322,6 @@
             <link>https://finance.sina.cn/7x24/2023-09-24/detail-imznvmtw9924175.d.html</link>
             <guid>3251980</guid>
             <pubDate>Sun, 24 Sep 2023 11:43:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泰国总理预计特斯拉、谷歌、微软将在泰投资50亿美元】泰国总理赛塔·他威信9月24日表示，泰国预计将从特斯拉、谷歌和微软获得至少50亿美元的投资。“特斯拉将考虑（设立）电动汽车制造设施，微软和谷歌正在考虑数据中心。”但他没有说明这50亿美元预计是联合投资还是各公司分别投资。9月21日，赛塔在社交媒体平台X发文称，他在纽约会见特斯拉CEO马斯克与该公司团队，讨论特斯拉、SpaceX和“星链”相关议题。此外，赛塔还分别同微软与谷歌公司代表会面。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-24/detail-imznvmua9817982.d.html</link>
-            <guid>3251979</guid>
-            <pubDate>Sun, 24 Sep 2023 11:42:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【传闻“监管审查量化策略”？券商着手五大方面落实程序化交易报告 并不涉及量化策略细节】据多家券商、量化私募，监管此前向券商下发了股票程序化交易报告的落地工作的具体要求，对新增与存量程序化交易报备都进行了详细的规定，并且压实交易所与券商的责任。“此次不同之处在于监管要了解一些量化私募的头寸变化。”某券商人士表示。至于策略是否在报备范围内，不少量化私募和券商人士表示否认，策略类型报备是没问题的，但量化对策略细节高度保密。]]></title>
-            <guid>3251978</guid>
-            <pubDate>Sun, 24 Sep 2023 11:33:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中欧对话来了，万亿产业屏息以待！】我国商务部21日公布，经中欧双方商定，第十次中欧经贸高层对话将于9月25日在北京举行。据欧洲联盟驻华代表团官网，瓦尔迪斯· 东布罗夫斯基斯（Valdis Dombrovskis）为欧盟委员会常务副主席。据新华网，东布罗夫斯基斯分管经济事务。他之前曾与中方会谈过贸易相关议题。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-24/detail-imznvfna5374833.d.html</link>
-            <guid>3251977</guid>
-            <pubDate>Sun, 24 Sep 2023 11:22:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【农业农村部：农情调度显示全国秋粮收获近两成】农业农村部预计，今年秋粮面积13.1亿亩、同比增加约700万亩，其中高产作物玉米面积增加1300万亩。农业农村部农情调度显示，目前全国秋粮收获近两成。分作物看，中稻收获近三成，玉米收获过一成，大豆收获近一成。分地区看，西南地区秋粮收获过五成，长江中下游及华南地区过三成，西北地区近两成，黄淮海地区过一成。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-24/detail-imznvfnc3168440.d.html</link>
-            <guid>3251976</guid>
-            <pubDate>Sun, 24 Sep 2023 11:20:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
