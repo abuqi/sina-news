@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 24 Sep 2023 18:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Sep 2023 19:12:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【浮动费率基金即将亮相 两类三只新品率先定档发售】近期，众所关注的浮动费率基金新品陆续公告发售安排。如与业绩挂钩的交银瑞元三年定开、富国远见精选三年定开，与持有时间挂钩的景顺长城价值发现将分别在10月前后展开募集。目前还剩与规模挂钩的产品未揭开“神秘面纱”。除了上述产品外，还有17只浮动费率产品正在等待发行。从多家手握相关产品的基金公司了解到，有部分基金公司已经做好了产品的发行准备，将在国庆之后发布相关公告；也有公司表示，产品预计安排在年底发售。（第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-25/detail-imznwaru9493002.d.html</link>
+            <guid>3252317</guid>
+            <pubDate>Sun, 24 Sep 2023 18:31:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【资金出逃、重要均线失守 恐慌指数上周暴涨17%】上周美股继续承压下行，美联储决议暗示政策立场保持强硬，美元和美债收益率上扬打压风险偏好，恐慌指数VIX大幅拉升，美股基金净流出规模创一个月新高。随着标普500指数失守短线均线支撑，投资者信心也遭遇进一步打击。未来一周，市场焦点将重新转向关键经济数据和政策利率线索，美股调整压力或有待释放。近一周公布的经济数据喜忧参半。由于利率上升和高通胀影响，美国经济在夏末失去了部分动力。标普全球9月服务业PMI指数下滑至八个月低点50.2，距离荣枯线仅一步之遥。此外，8月费城联储制造业指数再次回落到萎缩区间，咨商会领先指标连续17个月下滑。与此同时，劳动力市场依然健康，上周初请失业救济人数降至20.1万人，为近八个月来的最低水平。PMI指数中，招聘分项指标有企稳回升迹象，就业需求被视为经济韧性的重要体现。在备受关注的9月利率决议中，美联储选择按兵不动，但委员会内部对下一步行动存在分歧。19名官员中有12人预测今年还会加息。更值得注意的是，尽管联邦公开市场委员会（FOMC）预计随着通胀率的下降，明年将开始降息，但下降的速度将比之前预期的要慢，明年末料保持在5%以上。（第一财经）]]></title>
             <link>https://finance.sina.cn/7x24/2023-09-25/detail-imznvwis9711938.d.html</link>
@@ -315,12 +321,6 @@
             <link>https://finance.sina.cn/7x24/2023-09-24/detail-imznvmua9819249.d.html</link>
             <guid>3251984</guid>
             <pubDate>Sun, 24 Sep 2023 11:49:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【哈尔滨正式签署2025年第9届亚洲冬季运动会主办城市合同】哈尔滨市9月24日与亚奥理事会、中国奥委会在杭州市共同签署2025年第9届亚洲冬季运动会主办城市合同。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-24/detail-imznvmua9818764.d.html</link>
-            <guid>3251983</guid>
-            <pubDate>Sun, 24 Sep 2023 11:47:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
