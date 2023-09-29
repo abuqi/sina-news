@@ -4,15 +4,203 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Fri, 29 Sep 2023 09:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Sep 2023 10:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[澳元兑美元AUD/USD突破0.65，日内涨1.13%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkrcf1888689.d.html</link>
+            <guid>3258268</guid>
+            <pubDate>Fri, 29 Sep 2023 10:16:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑加元USD/CAD日内跌幅达0.50%，现报1.3421。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkrcc5111474.d.html</link>
+            <guid>3258267</guid>
+            <pubDate>Fri, 29 Sep 2023 10:16:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[路透调查：预计泰国央行将在2024年之前将关键利率维持在2.50%不变。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkraz1519259.d.html</link>
+            <guid>3258266</guid>
+            <pubDate>Fri, 29 Sep 2023 10:14:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国发展部：承诺向西非国家经济共同体提供8100万欧元的全面支持，用于和平建设和经济发展。]]></title>
+            <guid>3258265</guid>
+            <pubDate>Fri, 29 Sep 2023 10:05:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行管委Vasle：欧洲央行可能已经完成了加息。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkrcf1886849.d.html</link>
+            <guid>3258264</guid>
+            <pubDate>Fri, 29 Sep 2023 10:05:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行管委Vujcic：看到通胀回落进程可能会停滞的风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkrcf1886755.d.html</link>
+            <guid>3258263</guid>
+            <pubDate>Fri, 29 Sep 2023 10:05:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行管委Vujcic：面临许多不确定性，我们需要谨慎。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkrca6840388.d.html</link>
+            <guid>3258262</guid>
+            <pubDate>Fri, 29 Sep 2023 10:04:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中秋国庆假期首日上海市共接待游客346.31万人次 同比增13.12%】记者今日从上海市文旅局处获悉，据上海旅游大数据监测，中秋国庆假日第一天，上海市共接待游客346.31万人次，同比增长13.12%。（财联社）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkraz1517345.d.html</link>
+            <guid>3258261</guid>
+            <pubDate>Fri, 29 Sep 2023 10:02:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本财务省表示，从8月30日到9月27日期间，日本的货币干预金额为0日元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkrcf1886149.d.html</link>
+            <guid>3258260</guid>
+            <pubDate>Fri, 29 Sep 2023 10:01:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利7月调整后工业销售年率 -1.6%，前值1.30%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkrcc5109025.d.html</link>
+            <guid>3258259</guid>
+            <pubDate>Fri, 29 Sep 2023 10:01:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利7月季调后工业销售月率 -0.4%，前值0.40%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkrcc5109008.d.html</link>
+            <guid>3258258</guid>
+            <pubDate>Fri, 29 Sep 2023 10:01:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行管委Vujcic：对通胀在未来几个月内放缓有信心。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkrcf1885958.d.html</link>
+            <guid>3258257</guid>
+            <pubDate>Fri, 29 Sep 2023 10:00:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2023国庆档总票房破3亿】据猫眼专业版数据，截至9月29日17时50分，2023年国庆档（9月29日-10月6日）票房破3亿，《坚如磐石》《前任4：英年早婚》《志愿军：雄兵出击》分列档期票房榜前三。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvc1647387.d.html</link>
+            <guid>3258256</guid>
+            <pubDate>Fri, 29 Sep 2023 09:57:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【机构：金价势将创下2月以来最大单周跌幅】在失守关键技术位后，黄金正走向近8个月来最大单周跌幅。尽管周五在美元略微走弱的情况下金价有所走高，但机构预计，金价本周将下跌约3%。目前金价接近3月以来的最低水平，在跌破1900美元/盎司附近维持了数月的关键支撑位后，抛售加速。今日晚些时候，美联储青睐的通胀指标将公布。预计除食品和能源以外的价格压力将出现下滑。任何意外上行都可能提振央行今年将再次加息的预期，并给金价带来更大压力。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvf5238905.d.html</link>
+            <guid>3258255</guid>
+            <pubDate>Fri, 29 Sep 2023 09:55:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【85项新食品安全国家标准发布】国家卫生健康委、市场监管总局近日发布85项新食品安全国家标准和3项修改单，其中包括茶叶等3项食品产品标准、婴幼儿配方食品良好生产规范等5项生产经营规范标准、食品接触用塑料材料及制品等6项食品相关产品标准。（新华社）]]></title>
+            <guid>3258254</guid>
+            <pubDate>Fri, 29 Sep 2023 09:53:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳元兑美元AUD/USD日内涨超1.00%，现报0.6492。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkve6969433.d.html</link>
+            <guid>3258253</guid>
+            <pubDate>Fri, 29 Sep 2023 09:51:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广东茂名：认房不认贷 90平米以下家庭唯一住房契税按1%征收】广东省茂名市住房和城乡建设局印发《进一步促进房地产市场健康稳定发展若干措施》。在加大个人住房信贷支持力度方面，全面落实“认房不认贷”“调整优化差别化住房信贷政策”“降低存量首套住房贷款利率”等政策文件要求，因城施策，调整茂名市首套住房最低首付比例至20%，利率下限至LPR-20BP；二套住房最低首付比例至30%，利率下限至LPR+20BP；同时依法有序降低存量首套住房贷款利率。在落实房产交易税收优惠政策方面，转让方享受：转让住宅满两年免征增值税。转让住宅满五年唯一生活用房免征个税。转让住宅免征土地增值税。转让住宅免征印花税。受让方享受：家庭唯一住房契税征收标准，90平方米及以下按1%；90平方米以上按1.5%。家庭第二套改善性住房契税征收标准，90平方米及以下按1%；90平方米以上按2%。转让住宅免征印花税。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvi2015016.d.html</link>
+            <guid>3258252</guid>
+            <pubDate>Fri, 29 Sep 2023 09:50:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英镑兑美元GBP/USD日内涨幅达0.50%，现报1.2258。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvi2014717.d.html</link>
+            <guid>3258251</guid>
+            <pubDate>Fri, 29 Sep 2023 09:48:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【香港金管局：香港人民币存款8月份上升6%，反映企业资金流动】 香港金融管理局公布截至8月尾的统计数据，显示香港认可机构的存款总额在2023年8月份上升0.6%，其中港元存款及外币存款分别上升0.4%和0.8%，而香港人民币存款在8月份上升6%，于8月底为9625亿人民币，主要反映企业资金流动。年初至8月底，香港存款总额及港元存款分别上升2.0%及1.9%。此外，跨境贸易结算的人民币汇款总额于8月份为11,212亿人民币，而7月份为10,221亿。金管局表示，存款变动受多项因素影响，包括利率走势、市场集资活动等，因此适宜观察较长期趋势，毋须过度解读个别月份的波动。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkve6968676.d.html</link>
+            <guid>3258250</guid>
+            <pubDate>Fri, 29 Sep 2023 09:47:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴基斯坦官员表示，清真寺爆炸事件中，至少有两人丧生。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvf5237236.d.html</link>
+            <guid>3258249</guid>
+            <pubDate>Fri, 29 Sep 2023 09:46:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【外国对泰投资申请增长14%】据曼谷邮报9月21日报道，今年前8个月外国投资达658亿泰铢，其中日本仍位居榜首，投资额220亿泰铢，其次新加坡140亿泰铢、中国内地119亿泰铢、中国香港53.5亿泰铢和美国30.7亿泰铢。今年前8个月，泰国外国商业委员会根据《外国商业法》批准了435份投资申请，同比增长14%。（商务部）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvi2012054.d.html</link>
+            <guid>3258248</guid>
+            <pubDate>Fri, 29 Sep 2023 09:35:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【分析师：欧元区CPI放缓难阻收益率上升】分析师表示，欧元区通胀放缓的程度超出预期，但仍然高企，收益率依然保持在高位。公布的数据显示，欧元区9月核心CPI年率降至4.5%，低于市场预期。受能源和服务成本下降的影响，整体通胀年率和月率亦比市场普遍预期要低。此外，德国和法国也出现了类似的放缓，不过意大利的调和CPI指数高于预期。虽然数据提供了核心价格持续放缓的好消息，但核心和整体通胀仍远高于欧洲央行的2%目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvi2011811.d.html</link>
+            <guid>3258247</guid>
+            <pubDate>Fri, 29 Sep 2023 09:34:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【东风集团股份：斥资1137.47万港元回购368.4万股】东风集团股份(00489)发布公告，于2023年9月29日斥资1137.47万港元回购368.4万股。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvf5234325.d.html</link>
+            <guid>3258246</guid>
+            <pubDate>Fri, 29 Sep 2023 09:33:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【雪松国际信托再被罚】9月28日，国家金融监督管理总局网站行政处罚信息显示，江西监管局近期对雪松国际信托连开12张罚单，该公司以及多位相关责任人被罚，合计罚款近千万元。其中，行政处罚信息公开表显示，国家金融监督管理总局江西监管局于9月22日对雪松国际信托股份有限公司（原中江国际信托股份有限公司）罚款690万元。（中国基金报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvi2010317.d.html</link>
+            <guid>3258245</guid>
+            <pubDate>Fri, 29 Sep 2023 09:26:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今日共614只港股被沽空】港交所披露数据显示，9月29日共614只港股被沽空，总沽空金额为82.62亿港元。其中沽空金额超1亿港元的个股有20只，阿里巴巴-SW、美团-W、比亚迪股份沽空金额位居前三，分别为4.53亿港元、3.96亿港元、3.24亿港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvf5233150.d.html</link>
+            <guid>3258244</guid>
+            <pubDate>Fri, 29 Sep 2023 09:25:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧元区核心通胀触及一年低点，支持欧洲央行暂停加息】欧元区核心通货膨胀率降至一年来的最低水平，这支持了欧洲央行将维持利率不变，以评估其前所未有的加息行动的影响的预期。公布的数据显示，9月份扣除能源和食品成本的基本价格涨幅为4.5%。总体通胀率也从5.2%降至4.3%，这是近两年来的最低水平，同时亦低于市场预期，主要原因是能源成本下降，且服务业也大幅放缓。这些数据提供了迄今最明确的信号，表明核心价格指数正稳步下降。不过由于这两项指标仍是欧洲央行2%目标的两倍多，市场正准备迎接官员们所说的借贷成本将在较长时期内居高不下的局面。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvi2010060.d.html</link>
+            <guid>3258243</guid>
+            <pubDate>Fri, 29 Sep 2023 09:25:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国CAC40指数日内涨幅达1.00%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvc1641908.d.html</link>
+            <guid>3258242</guid>
+            <pubDate>Fri, 29 Sep 2023 09:23:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行管委Vasle：总体通胀呈下降趋势。经济增长放缓但劳动力市场仍然强劲。欧洲央行政策对银行业的传导效应很强。欧洲央行政策对银行业的传导效应很强。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvc1641615.d.html</link>
+            <guid>3258241</guid>
+            <pubDate>Fri, 29 Sep 2023 09:21:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中信建投：国庆档有望延续暑期强劲需求 看好国庆及四季度票房】中信建投研报表示，2023年暑期档平均周度观影人次已超过2019年，今年暑期档的强势复苏的主要驱动因素来自于观影人次的超预期恢复。暑期档周度平均票价较春节档平均票价的调整幅度与往年基本持平。截至8月31日，23年国庆档已有9部影片定档，较往年10+部的容量仍有定档空间。国庆档有望延续暑期档的强观影需求，2023年国庆档有望达52.5亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvi2009319.d.html</link>
+            <guid>3258240</guid>
+            <pubDate>Fri, 29 Sep 2023 09:21:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【领悦服务集团：大有融资获委任为独立财务顾问】领悦服务集团(02165)发布公告，由于沣展金融重组，沣展金融与该公司已相互同意终止其独立财务顾问协议，自2023年9月30日起生效。董事会宣布，大有融资有限公司(大有融资)(一间可从事证券及期货条例所界定的第1类(证券交易)及第6类(就机构融资提供意见)受规管活动的持牌法团)已获委任，自2023年9月30日起代替沣展金融担任独立财务顾问。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkve6963977.d.html</link>
+            <guid>3258239</guid>
+            <pubDate>Fri, 29 Sep 2023 09:18:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【演讲遭到打断 拜登：如果现在闭嘴 我会在演讲后见你】据俄媒报道，美国总统拜登9月28日在亚利桑那州发表演讲时，遭到一名男子打断。据报道，这名男子质问拜登为什么不宣布美国进入气候紧急状态。拜登表示，如果你现在闭嘴，我会在演讲之后见见你。（参考消息）]]></title>
+            <guid>3258238</guid>
+            <pubDate>Fri, 29 Sep 2023 09:15:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【央广网：月饼只有推陈出新才能有更广阔市场】月饼作为季节性食品，可谓是每年中秋节当之无愧的“C位”。但据媒体报道，从整个市场来说，今年月饼市场遭遇“小年”。中秋节吃月饼，是我们中国人传承千年的传统习俗。然而，现在很多月饼成了节日礼品，吃的人却越来越少。究其原因，是一些月饼华而不实、价格虚高、口味欠佳等。不断推陈出新，传统的月饼才能有崭新的形象。满足消费者的新需求，月饼才会有更广阔的市场。]]></title>
             <guid>3258237</guid>
             <pubDate>Fri, 29 Sep 2023 09:15:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【纳卡地区燃料库爆炸事故遇难人数升至170人】据俄新社9月29日援引当地救援部门的消息报道，纳戈尔诺-卡拉巴赫（纳卡）地区燃料库爆炸事故遇难人数目前升至170人。报道说，目前正在进行遇难者身份鉴定工作。爆炸现场的救援工作仍在继续。（新华社）]]></title>
+            <guid>3258236</guid>
+            <pubDate>Fri, 29 Sep 2023 09:15:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【众议院虽深夜通过一些法案，但美国政府仍可能关门】本周末美国联邦政府关门的可能性仍然很大。当地时间周四晚些时候，众议院通过了提交表决的四项法案中的三项。而一项继续为政府工作提供资金的法案很可能在周五提交表决，但鉴于共和党和民主党在关键问题上的分歧，该法案似乎不太可能通过。虽然周四众议院法案的通过表明可以达成一些协议，但目前仍不清楚众议院议长麦卡锡将如何让少数希望大幅削减开支的共和党人投票支持更多拨款并避免政府停摆。麦卡锡建议，在边境控制方面采取新措施可能有助于打破僵局。高盛目前认为政府关门的可能性高达90%，并预计将持续三周。]]></title>
@@ -114,194 +302,6 @@
             <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvf5222320.d.html</link>
             <guid>3258216</guid>
             <pubDate>Fri, 29 Sep 2023 08:32:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴基斯坦一市场发生爆炸至少34人死亡】据当地媒体报道，当地时间9月29日，巴基斯坦俾路支省马斯通市清真寺附近一大市场发生爆炸，造成至少34人死亡，超过130人受伤。（央视军事）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkve6956004.d.html</link>
-            <guid>3258215</guid>
-            <pubDate>Fri, 29 Sep 2023 08:32:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国8月M4货币供应同比 -0.8%，前值 -0.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvf5222046.d.html</link>
-            <guid>3258214</guid>
-            <pubDate>Fri, 29 Sep 2023 08:31:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国8月M4不包括IOFC 3个月年化 -2.1%，前值 -1.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvi1999131.d.html</link>
-            <guid>3258213</guid>
-            <pubDate>Fri, 29 Sep 2023 08:30:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国8月央行抵押贷款额 12.18亿英镑，预期 2亿英镑，前值 2亿英镑。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvi1999110.d.html</link>
-            <guid>3258212</guid>
-            <pubDate>Fri, 29 Sep 2023 08:30:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国8月M4货币供应环比 0.2%，前值 -0.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvf5222002.d.html</link>
-            <guid>3258211</guid>
-            <pubDate>Fri, 29 Sep 2023 08:30:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国8月央行消费信贷 16.44亿英镑，预期 13亿英镑，前值 12亿英镑。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvi1999077.d.html</link>
-            <guid>3258210</guid>
-            <pubDate>Fri, 29 Sep 2023 08:30:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国8月央行抵押贷款许可件数 4.54万件，预期 4.74万件，前值 4.94万件。]]></title>
-            <guid>3258209</guid>
-            <pubDate>Fri, 29 Sep 2023 08:30:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波兰、捷克和德国将成立特别工作组，联合打击非法移民】当地时间9月28日，波兰内务与行政部长卡明斯基在与德国内政与国土部长费泽会谈后表示，双方讨论了两国边境局势以及巴尔干路线上日益增加的移民压力，决定将成立波兰-捷克-德国特别工作组。三国将在打击非法移民方面进行更为密切的合作。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkve6953990.d.html</link>
-            <guid>3258208</guid>
-            <pubDate>Fri, 29 Sep 2023 08:20:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京市属公园假期首日游客超30万】北京市公园管理中心消息，中秋国庆假期首日（9月29日），北京市属11家公园和中国园林博物馆迎来开门红，共接待游客30.82万人次，同比2022年增加48.6%，比2019年增加57.2%。游客量排名前三位的是颐和园6.41万人次、天坛5.16万人次、动物园3.42万人次。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvi1996840.d.html</link>
-            <guid>3258206</guid>
-            <pubDate>Fri, 29 Sep 2023 08:19:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[贝莱德CEO芬克：人工智能具有巨大潜力，但也带来问题。人工智能和机器人技术将对增长最快的国家造成最大伤害。贝莱德正在利用人工智能来了解气候风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvf5219311.d.html</link>
-            <guid>3258204</guid>
-            <pubDate>Fri, 29 Sep 2023 08:15:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【法国当局批准苹果对Phone 12的软件更新】此前，法国检测结果显示苹果iPhone12手机的电磁波辐射值超出欧盟标准，苹果承诺进行软件更新，以使其符合法国监管机构执行的标准。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvi1996041.d.html</link>
-            <guid>3258203</guid>
-            <pubDate>Fri, 29 Sep 2023 08:13:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【法拉第未来预计10月交付4辆FF 91】法拉第未来9月29日在投资者网络直播沟通会中概述了FF 91 2.0 Futurist Alliance的10月份交付安排。该公司在第三季度交付了三辆FF 91 2.0 Futurist Alliance，预计将在本周末向FF长期投资者之一交付FF 91 2.0 Futurist Alliance。10月，四位车主将分别出席周度“交付共创日”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvi1995939.d.html</link>
-            <guid>3258202</guid>
-            <pubDate>Fri, 29 Sep 2023 08:13:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【携程：“十一”首日订单较“五一”首日上涨两成】携程数据显示，9月29日，“十一”假期首日，各地游客量暴增，当天订单量为8天假期之冠，机票、景区门票、酒店、民宿等订单同比增长明显，旅游订单同比去年“十一”首日增长2.8倍，相较今年“五一”首日增长20%。在长假出游、回家探亲、周边度假、跨城看演出等多重因素推动下，今年“十一”创下热度新高。国铁集团数据显示，9月13日至9月24日，已累计发售车票2.35亿张。（国是直通车）]]></title>
-            <guid>3258201</guid>
-            <pubDate>Fri, 29 Sep 2023 08:12:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股盘前，多只热门中概股走高】小鹏汽车涨超4%，网易、蔚来汽车、爱奇艺涨超3%，百度、京东涨超2.9%，阿里巴巴、拼多多涨超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvf5218368.d.html</link>
-            <guid>3258200</guid>
-            <pubDate>Fri, 29 Sep 2023 08:11:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港恒生指数收盘上涨2.51%，恒生科技指数收盘上涨3.77%】阿里健康上涨超10%，京东健康涨近8%，龙湖集团涨近7%。汽车股大涨，蔚来涨超9%，小鹏汽车涨逾8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkve6952366.d.html</link>
-            <guid>3258199</guid>
-            <pubDate>Fri, 29 Sep 2023 08:09:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本福岛县发生4.5级地震】当地时间9月29日16时58分左右，日本福岛县发生4.5级地震。最大震感为3，震源深度110公里。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvf5217852.d.html</link>
-            <guid>3258198</guid>
-            <pubDate>Fri, 29 Sep 2023 08:08:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西班牙7月经常帐 42.7亿欧元，前值28.3亿欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvi1994483.d.html</link>
-            <guid>3258197</guid>
-            <pubDate>Fri, 29 Sep 2023 08:05:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【花旗集团将在英国投资银行裁员35人】花旗集团首席执行官范洁恩本周宣布进行全面重组，将在英国投资银行裁员35人。此次裁员约占花旗集团英国部门员工总数的5%，与花旗集团的商业环境有关。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvi1994456.d.html</link>
-            <guid>3258196</guid>
-            <pubDate>Fri, 29 Sep 2023 08:05:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[贝莱德CEO芬克表示，到2025年，美国经济可能会进入衰退。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvc1628823.d.html</link>
-            <guid>3258195</guid>
-            <pubDate>Fri, 29 Sep 2023 08:04:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行公布了10月至12月的国债购买计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvf5217084.d.html</link>
-            <guid>3258194</guid>
-            <pubDate>Fri, 29 Sep 2023 08:04:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[耐克美股盘前涨超8%，公司CFO表示，预计第二财季营收同比增速将略微扩大，预计毛利润同比将扩大100个基点。]]></title>
-            <guid>3258193</guid>
-            <pubDate>Fri, 29 Sep 2023 08:03:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：欧洲海港运营商的利润空间面临压力。欧洲海港运营商面临着成本上升和收入下降的双重挑战，这将在短期和中期挤压利润空间。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvi1994062.d.html</link>
-            <guid>3258192</guid>
-            <pubDate>Fri, 29 Sep 2023 08:03:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【普京签署法令，允许意大利联合圣保罗银行出售在俄资产】俄罗斯政府网站9月29日发布的一份文件显示，俄罗斯总统普京已签署一项法令，允许意大利联合圣保罗银行出售或处置其在俄罗斯的资产。（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvf5216919.d.html</link>
-            <guid>3258191</guid>
-            <pubDate>Fri, 29 Sep 2023 08:03:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Faraday Future公布FF 91 2.0的10月份交付安排及业务更新】公司宣布将继续进行共创合作，并概述了FF 91 2.0 Futurist Alliance的10月份交付安排，这是公司“交付共创日”计划的一部分。公司在第三季度交付了三辆FF 91 2.0 Futurist Alliance。预计将在本周末向FF长期投资者之一、全球最大的美国万圣节服装供应商创始人交付FF 91 2.0 Futurist Alliance。FF将继续履行承诺，并在10月份举办周度“交付共创日”活动，四位车主包括Emma Herman、Justin Bell和另外两名共创官将分别出席这些活动。规模化、高质量交付仍然是公司目前最关键战略目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvf5216440.d.html</link>
-            <guid>3258190</guid>
-            <pubDate>Fri, 29 Sep 2023 08:01:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【纽约大都会艺术博物馆表示将归还更多非法来源藏品】美国纽约大都会艺术博物馆馆长马克斯·霍尔莱因9月28日表示，将向相关国家归还更多来自非法渠道的馆藏艺术品。霍尔莱因是奥地利艺术史学家，2018年出任大都会艺术博物馆馆长。他28日承认“在某些情况下，我们并不是（藏品）真正的所有者”，并表示“我们不希望馆藏中有任何非法来源的物品”。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvf5216298.d.html</link>
-            <guid>3258189</guid>
-            <pubDate>Fri, 29 Sep 2023 08:00:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度尼西亚贸易部：印尼将10月1日至15日的粗棕榈油参考价格设定为827.37美元/吨。]]></title>
-            <guid>3258188</guid>
-            <pubDate>Fri, 29 Sep 2023 08:00:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美团：黄金周首日餐饮堂食订单量同比增110%】“十一”假期迎来“开门红”。美团、大众点评数据显示，截至29日中午12点，餐饮堂食订单量同比2022年“十一”首日增长110%，“味蕾游”带动延吉、台州、汕头、柳州、宜宾等美食城市的假期住宿预订量较2019年增长超400%，部分景区“中秋赏灯”预约人数创新高，服务消费开启火热“国庆档”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvi1992915.d.html</link>
-            <guid>3258187</guid>
-            <pubDate>Fri, 29 Sep 2023 07:57:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞典央行副行长弗洛登：根据需要，财政政策有“充足的空间”来帮助稳定瑞典经济。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvf5215595.d.html</link>
-            <guid>3258186</guid>
-            <pubDate>Fri, 29 Sep 2023 07:55:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国9月季调后失业总人数 264.2万人，前值263万人。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvi1992647.d.html</link>
-            <guid>3258185</guid>
-            <pubDate>Fri, 29 Sep 2023 07:55:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国9月未季调失业总人数 262.7万人，前值270万人。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvf5215537.d.html</link>
-            <guid>3258184</guid>
-            <pubDate>Fri, 29 Sep 2023 07:55:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国9月季调后失业人数 1万人，预期1.5万人，前值1.8万人。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvf5215527.d.html</link>
-            <guid>3258183</guid>
-            <pubDate>Fri, 29 Sep 2023 07:55:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国9月季调后失业率 5.7%，预期5.70%，前值5.70%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkkvi1992606.d.html</link>
-            <guid>3258182</guid>
-            <pubDate>Fri, 29 Sep 2023 07:55:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
