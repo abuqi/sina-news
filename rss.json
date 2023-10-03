@@ -6,6 +6,205 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 3261433,
+            "content_html": "",
+            "title": "市场消息：美国证券交易委员会请求法院驳回加密货币交易所Coinbase的撤诉申请。SEC此前于今年6月起诉了Coinbase。",
+            "date_modified": "2023-10-03T20:12:22.000Z"
+        },
+        {
+            "id": 3261432,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwnsx3919307.d.html",
+            "title": "英特尔(INTC.O)盘后上涨2.5%，此前宣布将其可编程解决方案集团作为独立业务运营，从明年1月份开始。",
+            "date_modified": "2023-10-03T20:11:47.000Z"
+        },
+        {
+            "id": 3261431,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwnsx3919296.d.html",
+            "title": "【俄称打击乌修理厂 乌称摧毁无人机及导弹】俄罗斯国防部3日发布战报称，俄军摧毁6辆装甲车、2辆坦克、1门美制M119自行榴弹炮等装备。俄空天军摧毁位于哈尔科夫市的乌军装甲坦克装备修理厂数个车间。俄防空部队击毁乌军58架无人机。乌克兰空军3日发布消息称，当天凌晨，乌空军摧毁了俄军来袭的29架无人机和1枚伊斯坎德尔-K导弹。俄军目标是乌克兰南部的第聂伯罗彼得罗夫斯克及尼古拉耶夫地区。",
+            "date_modified": "2023-10-03T20:11:18.000Z"
+        },
+        {
+            "id": 3261430,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwnsx3919185.d.html",
+            "title": "尼日尔政府声明：禁止出口液化石油气直至另行通知。",
+            "date_modified": "2023-10-03T20:08:56.000Z"
+        },
+        {
+            "id": 3261429,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwnsv7141731.d.html",
+            "title": "爱彼迎（ABNB）收盘跌6.5%，创5月10日以来最大跌幅。",
+            "date_modified": "2023-10-03T20:03:58.000Z"
+        },
+        {
+            "id": 3261428,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwnsv7141714.d.html",
+            "title": "“新债王”冈拉克：目前环境下银行不是一个好的投资选择。",
+            "date_modified": "2023-10-03T20:03:48.000Z"
+        },
+        {
+            "id": 3261427,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwnsv7141418.d.html",
+            "title": "美国众议院开始投票，决定是否罢免美国众议院议长麦卡锡。",
+            "date_modified": "2023-10-03T20:01:44.000Z"
+        },
+        {
+            "id": 3261426,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwnst3376989.d.html",
+            "title": "【热门中概股多数下跌 纳斯达克金龙指数跌2.24%】热门中概股多数下跌，纳斯达克金龙指数跌2.24%。爱奇艺、好未来、携程网跌超4%，小鹏汽车、富途控股跌超3%，百度、台积电、腾讯音乐、阿里巴巴跌超2%，理想汽车、满帮跌逾1%，网易、哔哩哔哩小幅下跌；雾芯科技、新氧小幅上涨。",
+            "date_modified": "2023-10-03T20:01:00.000Z"
+        },
+        {
+            "id": 3261425,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwnsx3918371.d.html",
+            "title": "【美股低开低走 三大指数集体收跌】美股低开低走，三大指数集体收跌。纳指跌1.87%，标普500指数跌1.37%，道指跌1.29%。大型科技股全线走低，亚马逊跌超3%，微软跌超2%，谷歌、脸书跌超1%，苹果、奈飞小幅下跌。",
+            "date_modified": "2023-10-03T20:00:53.000Z"
+        },
+        {
+            "id": 3261424,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwnsx3918098.d.html",
+            "title": "新西兰交易所：今年前9个月交易总额同比下降25.5%。",
+            "date_modified": "2023-10-03T19:58:54.000Z"
+        },
+        {
+            "id": 3261423,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwnsv7140943.d.html",
+            "title": "英国石油（BP）考虑出售价值10亿美元的美国油气管道份额。",
+            "date_modified": "2023-10-03T19:58:21.000Z"
+        },
+        {
+            "id": 3261422,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwnsx3917723.d.html",
+            "title": "【道明证券：预计新西兰联储不会出现更鹰派的转变】道明证券指出，尽管8月会议以来的数据为通胀在更长时间内保持高位提供了支持，我们仍预计新西兰联储此次会议将保持利率不变。现在的问题是，该联储是在重新评估通胀风险的平衡，还是坚持考虑加息的滞后影响。我们预计会议不会出现更鹰派的转变，但我们正在密切关注这一可能。纽元方面，目前纽元与风险情绪和美国10年期国债收益率等因素密切相关。我们预计未来几个月美国数据将明显恶化，这应该会对美元不利，并可能利好纽元。",
+            "date_modified": "2023-10-03T19:55:57.000Z"
+        },
+        {
+            "id": 3261421,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwnsv7140585.d.html",
+            "title": "【尽管存在干预风险 量化基金AlphaSimplex仍坚持做空日元】尽管日元周二从一年低点大幅反弹，引发了有关日本当局出手干预的猜测，但量化基金AlphaSimplex Group仍坚持做空日元。“今天的走势显然抹去了我们在做空日元交易中的部分盈利，但我们仍然在持有，” AlphaSimplex的首席研究策略师兼投资组合经理Kathryn Kaminski表示。“作为一个趋势追随者，令我们感到有趣的是整体上日本官员反应非常慢。因此从我们的角度来看，做空日元交易的持续时间可以比许多人想象的要长。”通过做空债券，AlphaSimplex管理的公开交易共同基金去年实现了近36%的收益。",
+            "date_modified": "2023-10-03T19:55:41.000Z"
+        },
+        {
+            "id": 3261420,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwnst3376577.d.html",
+            "title": "市场消息：意大利北部发生公路客车事故，导致21人遇难。",
+            "date_modified": "2023-10-03T19:54:14.000Z"
+        },
+        {
+            "id": 3261419,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwnsv7140332.d.html",
+            "title": "“新债王”冈拉克：意识到明年上半年的经济疲软情况是明智的。",
+            "date_modified": "2023-10-03T19:53:59.000Z"
+        },
+        {
+            "id": 3261418,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwnsv7140315.d.html",
+            "title": "美国运通(AXP.N)推出全新美国金卡，新卡将提供更多优惠。",
+            "date_modified": "2023-10-03T19:53:51.000Z"
+        },
+        {
+            "id": 3261417,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwnsx3914954.d.html",
+            "title": "美国财长耶伦：长期高利率绝非必然情况。",
+            "date_modified": "2023-10-03T19:37:19.000Z"
+        },
+        {
+            "id": 3261416,
+            "content_html": "",
+            "title": "美国财长耶伦：很高兴美国众议院议长麦卡锡采取行动保持政府运转，是否继续留任议长一职取决于国会的民主党和共和党。",
+            "date_modified": "2023-10-03T19:37:02.000Z"
+        },
+        {
+            "id": 3261415,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwnsv7137514.d.html",
+            "title": "美国地质勘探局：日本小笠原群岛发生5.3级地震。",
+            "date_modified": "2023-10-03T19:35:26.000Z"
+        },
+        {
+            "id": 3261414,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwnsv7137492.d.html",
+            "title": "美国财长耶伦：消费支出强劲，企业投资稳固。住房市场已稳定，可能会有上涨趋势。",
+            "date_modified": "2023-10-03T19:35:19.000Z"
+        },
+        {
+            "id": 3261413,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwnsv7137057.d.html",
+            "title": "加拿大央行将于10月10日回购最多9只未偿债券，价值至多5亿加元。",
+            "date_modified": "2023-10-03T19:32:44.000Z"
+        },
+        {
+            "id": 3261412,
+            "content_html": "",
+            "title": "美国财长耶伦：人工智能的进展“迅速得令人难以置信”，可能在生产力方面产生重大差异。",
+            "date_modified": "2023-10-03T19:29:20.000Z"
+        },
+        {
+            "id": 3261411,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwnsx3913613.d.html",
+            "title": "诺瓦瓦克斯医药(NVAX.O)一度涨近14%，现涨幅收窄至11%。",
+            "date_modified": "2023-10-03T19:29:13.000Z"
+        },
+        {
+            "id": 3261410,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwnsu8697114.d.html",
+            "title": "美国财长耶伦：低利率背后的结构性因素“依然存在且良好”。",
+            "date_modified": "2023-10-03T19:25:07.000Z"
+        },
+        {
+            "id": 3261409,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwnsu8697092.d.html",
+            "title": "美国财长耶伦：中期内利率将回归更加正常的水平，长期利率可能会比预期更高。",
+            "date_modified": "2023-10-03T19:24:52.000Z"
+        },
+        {
+            "id": 3261408,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwnst3374170.d.html",
+            "title": "美国财长耶伦重申，实际净利息支付与GDP处于“正常”水平。",
+            "date_modified": "2023-10-03T19:23:12.000Z"
+        },
+        {
+            "id": 3261407,
+            "content_html": "",
+            "title": "纽约联储：公开市场交易部打算与一级交易商和逆回购交易对手方进行小额隔夜逆回购操作。",
+            "date_modified": "2023-10-03T19:21:47.000Z"
+        },
+        {
+            "id": 3261406,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwnsx3912440.d.html",
+            "title": "美国纽约联储发布关于逆回购协议小额交易的声明。",
+            "date_modified": "2023-10-03T19:21:00.000Z"
+        },
+        {
+            "id": 3261405,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwnsx3911992.d.html",
+            "title": "美股财长耶伦：对美国经济前景感到“非常乐观”。对财政稳定状况感到担忧是出于本职。美国正在走上财政稳定之路。",
+            "date_modified": "2023-10-03T19:17:39.000Z"
+        },
+        {
             "id": 3261404,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwnsv7132802.d.html",
@@ -140,199 +339,6 @@
             "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkv3499652.d.html",
             "title": "美国2年期和10年期国债收益率倒挂幅度收窄至35个基点，为自3月以来最小。",
             "date_modified": "2023-10-03T18:08:34.000Z"
-        },
-        {
-            "id": 3261382,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkx7255520.d.html",
-            "title": "俄罗斯国防部长表示，俄罗斯在黑海上方击落乌克兰导弹。",
-            "date_modified": "2023-10-03T18:07:38.000Z"
-        },
-        {
-            "id": 3261381,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkz4032372.d.html",
-            "title": "【泰国北大年府发生炸弹爆炸事件，致13人受伤】当地时间10月3日，泰国南部北大年府警方接到报案称，有分离主义分子在当地一处灌溉渠附近放置了炸弹。警方前往封锁现场，在拆除炸弹时，炸弹突然发生爆炸，造成现场13名工作人员受伤。 (央视新闻)",
-            "date_modified": "2023-10-03T18:05:54.000Z"
-        },
-        {
-            "id": 3261380,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkx7255106.d.html",
-            "title": "【美股持续走低 纳指跌超2%】纳指跌幅扩大至2%，道指跌1.44%，标普500指数跌1.57%。纳斯达克金龙指数跌2.35%，热门中概股全线下跌，爱奇艺(IQ.O)跌超6%，小鹏汽车(XPEV.N)跌近5%，百度(BIDU.O)、阿里巴巴(BABA.N)、京东(JD.O)跌超2%。",
-            "date_modified": "2023-10-03T18:04:34.000Z"
-        },
-        {
-            "id": 3261379,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkx7254788.d.html",
-            "title": "市场消息：欧盟计划在年底前批准有关乌克兰加入欧盟的谈判。",
-            "date_modified": "2023-10-03T18:02:04.000Z"
-        },
-        {
-            "id": 3261378,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkx7254735.d.html",
-            "title": "市场消息：Meta Platforms将于周三对现实实验室硅谷部门进行裁员。",
-            "date_modified": "2023-10-03T18:01:48.000Z"
-        },
-        {
-            "id": 3261377,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkw8821978.d.html",
-            "title": "【沙特田径选手兴奋剂检测阳性】据亚奥理事会3日消息，沙特阿拉伯田径运动员穆罕默德·尤瑟夫·阿尔-阿西里兴奋剂检测呈阳性，已被临时禁止参加杭州亚运会的比赛。",
-            "date_modified": "2023-10-03T18:01:32.000Z"
-        },
-        {
-            "id": 3261376,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkz4031219.d.html",
-            "title": "【美国总统拜登之子亨特对一项有关枪支的指控表示不认罪】据《国会山报》消息，当地时间10月3日，亨特·拜登在特拉华州出庭时，对有关在购买武器时隐瞒吸毒情况的指控表示不认罪。 (央视新闻)",
-            "date_modified": "2023-10-03T17:57:19.000Z"
-        },
-        {
-            "id": 3261375,
-            "content_html": "",
-            "title": "英国商务大臣巴德诺赫：与美国拜登政府达成类似自由贸易协议的可能性为零。我们可以与拜登政府达成其他类型的协议，而不仅仅是自由贸易协定。",
-            "date_modified": "2023-10-03T17:55:44.000Z"
-        },
-        {
-            "id": 3261374,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkx7253623.d.html",
-            "title": "道指失守33000点关口，为6月1日以来首次，日内跌近450点或1.33%。",
-            "date_modified": "2023-10-03T17:53:21.000Z"
-        },
-        {
-            "id": 3261373,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkx7252753.d.html",
-            "title": "阿根廷蓝筹比索汇率下跌4%，至新低837比索。",
-            "date_modified": "2023-10-03T17:46:43.000Z"
-        },
-        {
-            "id": 3261372,
-            "content_html": "",
-            "title": "周二（10月3日）欧市尾盘，英国10年期国债收益率上涨3.4个基点，报4.597%。两年期英债收益率涨0.7个基点，报4.988%。30年期英债收益率涨3.8个基点，报5.051%；50年期英债收益率涨4.1个基点，报4.610%。2/10年期英债收益率利差涨2.637个基点，报-39.354个基点。",
-            "date_modified": "2023-10-03T17:36:59.000Z"
-        },
-        {
-            "id": 3261371,
-            "content_html": "",
-            "title": "周二（10月3日）欧市尾盘，德国10年期国债收益率涨4.6个基点，报2.968%，盘中交投于2.896%-2.972%区间。两年期德债收益率跌2.3个基点，报3.210%，盘中交投于3.193%-3.234%区间。30年期德债收益率上涨7.7个基点，报3.211%。2/10年期德债收益率利差涨6.794个基点，报-24.654个基点。",
-            "date_modified": "2023-10-03T17:36:53.000Z"
-        },
-        {
-            "id": 3261370,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkx7248446.d.html",
-            "title": "周二美联储隔夜逆回购协议（RRP）使用规模为1.348万亿美元。",
-            "date_modified": "2023-10-03T17:19:18.000Z"
-        },
-        {
-            "id": 3261369,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkv3495114.d.html",
-            "title": "法国外交部长：法国同意与亚美尼亚签订未来合同，允许向亚美尼亚交付军事装备。",
-            "date_modified": "2023-10-03T17:10:54.000Z"
-        },
-        {
-            "id": 3261368,
-            "content_html": "",
-            "title": "乌克兰央行：看到外汇需求增长；仅允许格里夫纳出现轻微波动。",
-            "date_modified": "2023-10-03T17:10:37.000Z"
-        },
-        {
-            "id": 3261367,
-            "content_html": "",
-            "title": "美联储博斯蒂克：评估GDP增速是否需要低于趋势水平以抑制通胀取决于对其他趋势的评估，如生产率。",
-            "date_modified": "2023-10-03T17:06:18.000Z"
-        },
-        {
-            "id": 3261366,
-            "content_html": "",
-            "title": "美联储博斯蒂克：能源价格和地缘政治对通胀构成上行风险；失去儿童保育福利和学生贷款偿还可能削弱需求。",
-            "date_modified": "2023-10-03T17:04:54.000Z"
-        },
-        {
-            "id": 3261365,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkz4023090.d.html",
-            "title": "美联储博斯蒂克：企业表示招聘变得更容易，工资增长可能放缓。",
-            "date_modified": "2023-10-03T17:04:39.000Z"
-        },
-        {
-            "id": 3261364,
-            "content_html": "",
-            "title": "美联储博斯蒂克：劳动力市场上也出现了“平衡迹象”，就业增长放缓主要集中在医疗保健和社会援助行业。",
-            "date_modified": "2023-10-03T17:04:27.000Z"
-        },
-        {
-            "id": 3261363,
-            "content_html": "",
-            "title": "美联储博斯蒂克：价格上涨较快的商品份额已经下降；企业认同放缓趋势可能会继续。",
-            "date_modified": "2023-10-03T17:03:54.000Z"
-        },
-        {
-            "id": 3261362,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkz4022961.d.html",
-            "title": "美联储博斯蒂克：仍需努力降低通胀，但对基本价格趋势放缓感到有信心。",
-            "date_modified": "2023-10-03T17:03:46.000Z"
-        },
-        {
-            "id": 3261361,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkx7245824.d.html",
-            "title": "美联储博斯蒂克：预计下一步行动是在明年年底将进行一次25个基点的降息。",
-            "date_modified": "2023-10-03T17:03:29.000Z"
-        },
-        {
-            "id": 3261360,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkz4022748.d.html",
-            "title": "美联储博斯蒂克：较高的长期利率对商业活动的影响不超过正常紧缩周期中的影响。",
-            "date_modified": "2023-10-03T17:02:15.000Z"
-        },
-        {
-            "id": 3261359,
-            "content_html": "",
-            "title": "美联储博斯蒂克：如果长期高利率开始过度拖慢经济增长，那将是一个问题；但目前还没有出现这种情况。",
-            "date_modified": "2023-10-03T17:01:13.000Z"
-        },
-        {
-            "id": 3261358,
-            "content_html": "",
-            "title": "美联储博斯蒂克：预计通胀将在2025年底接近2%的目标水平。",
-            "date_modified": "2023-10-03T17:00:33.000Z"
-        },
-        {
-            "id": 3261357,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkw8815656.d.html",
-            "title": "【美媒：亚马逊使用秘密定价算法提高商品价格】据报道，根据美国联邦贸易委员会（FTC）对亚马逊(AMZN.O)提起的垄断诉讼的部分内容，亚马逊使用被称为“尼斯计划”的秘密定价算法提高了价格。据悉，该算法帮助亚马逊提高了各个购物类别商品的利润，而且由于其在电子商务领域的影响力，导致竞争对手提高了价格，向顾客收取了更高的费用。在竞争对手没有将价格提高到亚马逊的价格水平的情况下，该算法会自动将商品退回到正常价格点。知情人士透露，亚马逊因此获得了超过10亿美元的收入。不过亚马逊在2019年已停止使用该算法，目前尚不清楚停止的原因。FTC表示，亚马逊的垄断对整个零售业的消费者价格上涨产生了广泛的影响，“尼斯计划”是其中一个例子。",
-            "date_modified": "2023-10-03T16:45:54.000Z"
-        },
-        {
-            "id": 3261356,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkz4017837.d.html",
-            "title": "三菱汽车北美地区汽车销售量在三季度同比增长32.7%。",
-            "date_modified": "2023-10-03T16:33:37.000Z"
-        },
-        {
-            "id": 3261355,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkz4016801.d.html",
-            "title": "必和必拓(BHP.N)要求与智利监管机构进行工资谈判的调解。",
-            "date_modified": "2023-10-03T16:29:06.000Z"
-        },
-        {
-            "id": 3261354,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkv3490646.d.html",
-            "title": "IMF：墨西哥2023年的GDP增速预测现在为3.2%，7月预测为2.6%。",
-            "date_modified": "2023-10-03T16:25:57.000Z"
         }
     ]
 }
