@@ -4,13 +4,102 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Tue, 03 Oct 2023 16:22:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Oct 2023 17:15:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[本田汽车(HMC.N)9月美国汽车销量同比增长45.5%。]]></title>
+            <title><![CDATA[法国外交部长：法国同意与亚美尼亚签订未来合同，允许向亚美尼亚交付军事装备。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkv3495114.d.html</link>
+            <guid>3261369</guid>
+            <pubDate>Tue, 03 Oct 2023 17:10:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰央行：看到外汇需求增长；仅允许格里夫纳出现轻微波动。]]></title>
+            <guid>3261368</guid>
+            <pubDate>Tue, 03 Oct 2023 17:10:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：评估GDP增速是否需要低于趋势水平以抑制通胀取决于对其他趋势的评估，如生产率。]]></title>
+            <guid>3261367</guid>
+            <pubDate>Tue, 03 Oct 2023 17:06:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：能源价格和地缘政治对通胀构成上行风险；失去儿童保育福利和学生贷款偿还可能削弱需求。]]></title>
+            <guid>3261366</guid>
+            <pubDate>Tue, 03 Oct 2023 17:04:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：企业表示招聘变得更容易，工资增长可能放缓。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkz4023090.d.html</link>
+            <guid>3261365</guid>
+            <pubDate>Tue, 03 Oct 2023 17:04:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：劳动力市场上也出现了“平衡迹象”，就业增长放缓主要集中在医疗保健和社会援助行业。]]></title>
+            <guid>3261364</guid>
+            <pubDate>Tue, 03 Oct 2023 17:04:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：价格上涨较快的商品份额已经下降；企业认同放缓趋势可能会继续。]]></title>
+            <guid>3261363</guid>
+            <pubDate>Tue, 03 Oct 2023 17:03:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：仍需努力降低通胀，但对基本价格趋势放缓感到有信心。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkz4022961.d.html</link>
+            <guid>3261362</guid>
+            <pubDate>Tue, 03 Oct 2023 17:03:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：预计下一步行动是在明年年底将进行一次25个基点的降息。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkx7245824.d.html</link>
+            <guid>3261361</guid>
+            <pubDate>Tue, 03 Oct 2023 17:03:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：较高的长期利率对商业活动的影响不超过正常紧缩周期中的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkz4022748.d.html</link>
+            <guid>3261360</guid>
+            <pubDate>Tue, 03 Oct 2023 17:02:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：如果长期高利率开始过度拖慢经济增长，那将是一个问题；但目前还没有出现这种情况。]]></title>
+            <guid>3261359</guid>
+            <pubDate>Tue, 03 Oct 2023 17:01:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：预计通胀将在2025年底接近2%的目标水平。]]></title>
+            <guid>3261358</guid>
+            <pubDate>Tue, 03 Oct 2023 17:00:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美媒：亚马逊使用秘密定价算法提高商品价格】据报道，根据美国联邦贸易委员会（FTC）对亚马逊(AMZN.O)提起的垄断诉讼的部分内容，亚马逊使用被称为“尼斯计划”的秘密定价算法提高了价格。据悉，该算法帮助亚马逊提高了各个购物类别商品的利润，而且由于其在电子商务领域的影响力，导致竞争对手提高了价格，向顾客收取了更高的费用。在竞争对手没有将价格提高到亚马逊的价格水平的情况下，该算法会自动将商品退回到正常价格点。知情人士透露，亚马逊因此获得了超过10亿美元的收入。不过亚马逊在2019年已停止使用该算法，目前尚不清楚停止的原因。FTC表示，亚马逊的垄断对整个零售业的消费者价格上涨产生了广泛的影响，“尼斯计划”是其中一个例子。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkw8815656.d.html</link>
+            <guid>3261357</guid>
+            <pubDate>Tue, 03 Oct 2023 16:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[三菱汽车北美地区汽车销售量在三季度同比增长32.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkz4017837.d.html</link>
+            <guid>3261356</guid>
+            <pubDate>Tue, 03 Oct 2023 16:33:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[必和必拓(BHP.N)要求与智利监管机构进行工资谈判的调解。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkz4016801.d.html</link>
+            <guid>3261355</guid>
+            <pubDate>Tue, 03 Oct 2023 16:29:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IMF：墨西哥2023年的GDP增速预测现在为3.2%，7月预测为2.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkv3490646.d.html</link>
+            <guid>3261354</guid>
+            <pubDate>Tue, 03 Oct 2023 16:25:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[本田汽车9月在美国市场汽车销量同比增长45.5%，三季度在美国市场销量同比增长52.7%。]]></title>
             <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpwaaz7367261.d.html</link>
             <guid>3261353</guid>
             <pubDate>Tue, 03 Oct 2023 16:11:25 GMT</pubDate>
@@ -215,108 +304,6 @@
             <title><![CDATA[美联储梅斯特：美联储可能已经接近或达到利率目标的峰值。如果当前经济形势持续，很可能在下次会议上支持加息。]]></title>
             <guid>3261320</guid>
             <pubDate>Tue, 03 Oct 2023 15:30:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士：匈牙利提议分拆欧盟对乌克兰的500亿欧元援助计划，表示现阶段250亿美元的援助已经足够了。]]></title>
-            <guid>3261319</guid>
-            <pubDate>Tue, 03 Oct 2023 15:29:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI原油日内涨超1.00%，现报88.68美元/桶。布伦特原油日内上涨0.56%，现报90.64美元/桶。]]></title>
-            <guid>3261318</guid>
-            <pubDate>Tue, 03 Oct 2023 15:27:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恒天然：10月3日全球乳品贸易（GDT）拍卖价格指数上升4.4%，奶粉各合同期FAS拍卖均价3,104美元/吨。 批发奶粉价格指数上升4.8%，批发奶粉均价2,931美元/吨。]]></title>
-            <guid>3261317</guid>
-            <pubDate>Tue, 03 Oct 2023 15:21:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：将波音(BA.N)展望调整为积极；确认其评级为“BBB-”。]]></title>
-            <guid>3261316</guid>
-            <pubDate>Tue, 03 Oct 2023 15:19:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普全球市场财智：Itraxx欧洲交叉指数涨至5月中旬以来最高，较周一收盘上涨10个基点至448个基点。]]></title>
-            <guid>3261315</guid>
-            <pubDate>Tue, 03 Oct 2023 15:18:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国众议院少数党领袖杰弗瑞斯表示民主党应该投票罢免众议院议长麦卡锡。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-03/detail-imzpwaaz7359159.d.html</link>
-            <guid>3261314</guid>
-            <pubDate>Tue, 03 Oct 2023 15:17:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泰国枪击事件已致2死5伤】当地时间10月3日，泰国外交部新闻司发言人坎查娜表示，曼谷市中心暹罗百丽宫购物中心枪击事件造成2人死亡、5人受伤，当天17时10分左右，警方逮捕了一名14岁男子，他涉嫌制造了该枪击事件。根据泰国警方19时45分左右公布的报告，2名死者中1名是中国人，1名是缅甸人；5名伤者中包括1名老挝公民、1名中国公民和3名泰国公民。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-03/detail-imzpwaax3613895.d.html</link>
-            <guid>3261313</guid>
-            <pubDate>Tue, 03 Oct 2023 15:17:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日产集团：第三季度在美国销售了216,878辆汽车，同比增长40.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-03/detail-imzpwaay8936615.d.html</link>
-            <guid>3261312</guid>
-            <pubDate>Tue, 03 Oct 2023 15:16:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[智利政府预测2024年铜价为每磅3.85美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-03/detail-imzpwaaz7358921.d.html</link>
-            <guid>3261311</guid>
-            <pubDate>Tue, 03 Oct 2023 15:15:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[智利政府预测2024年的年平均通胀率为3.5％。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-03/detail-imzpwaay8936487.d.html</link>
-            <guid>3261310</guid>
-            <pubDate>Tue, 03 Oct 2023 15:14:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本财务省高级官员：对于日本是否干预外汇市场不予置评。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-03/detail-imzpwacc4135826.d.html</link>
-            <guid>3261309</guid>
-            <pubDate>Tue, 03 Oct 2023 15:13:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑巴西雷亚尔上涨1.3%，突破5.10，为5月底以来首次。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-03/detail-imzpwaax3613533.d.html</link>
-            <guid>3261308</guid>
-            <pubDate>Tue, 03 Oct 2023 15:13:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新西兰至10月3日全球乳制品贸易价格指数 4.4%，前值4.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-03/detail-imzpwacc4135331.d.html</link>
-            <guid>3261307</guid>
-            <pubDate>Tue, 03 Oct 2023 15:11:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国天然气期货日内涨幅达3.00%，现报2.927美元/百万英热。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-03/detail-imzpwacc4135307.d.html</link>
-            <guid>3261306</guid>
-            <pubDate>Tue, 03 Oct 2023 15:11:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌：新的Gmail保护功能将使收件箱更安全，减少垃圾邮件。从2024年开始，我们将要求批量发送者对其电子邮件进行身份验证。]]></title>
-            <guid>3261305</guid>
-            <pubDate>Tue, 03 Oct 2023 15:07:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【10月3日重要新闻汇总】
-国内新闻：
-1. 恒大汽车：应公司的要求，公司的股份由2023年9月28日上午九时正起于香港联合交易所有限公司短暂停止买卖，有待本公司刊发一份有关内幕消息的公告。
-2. 2023年国庆档新片总票房（含预售）突破21亿。
-3. 中国驻泰国大使馆：曼谷购物中心枪击案造成中国公民1死1伤。
-4. 国铁集团：今天全国铁路预计发送旅客1635万人次。
-国际新闻
-1. 美国8月职位空缺数意外上升至961万，推动美日短暂上破150大关，而后美日急挫300点，引发市场对日本当局干预的猜测。
-2. 澳洲联储连续第四次维持基准利率在4.1%不变，仍保留进一步收紧政策的可能性。
-3. Pierre Agostini，Ferenc Krausz和Anne L’Huillier获得2023年诺贝尔物理学奖。
-4. 美国30年期国债收益率与加拿大10年期国债收益率均升至2007年以来最高水平。
-5. 美联储博斯蒂克：美联储仍有一段路要走，以使通胀回到目标水平。不急于再次加息，但也不急于降息并过早发出政策宽松的信号。
-6. 伊拉克官方消息人士：通过土耳其管道重新启动伊拉克石油出口的谈判仍在进行中，即将举行的进一步会议将更清楚地表明土耳其在处理未决问题方面展现灵活性的态度。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-03/detail-imzpwaaz7357378.d.html</link>
-            <guid>3261304</guid>
-            <pubDate>Tue, 03 Oct 2023 15:06:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
