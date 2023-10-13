@@ -6,6 +6,107 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 3317898,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-14/detail-imzqyzsy0425827.d.html",
+            "title": "微软(MSFT.O)重申对美国通信工人工会（CWA）劳工中立协议的承诺。",
+            "date_modified": "2023-10-13T19:12:53.000Z"
+        },
+        {
+            "id": 3317897,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-14/detail-imzqyzsy0425271.d.html",
+            "title": "以色列国防军：以色列中部响起警报。",
+            "date_modified": "2023-10-13T19:08:44.000Z"
+        },
+        {
+            "id": 3317896,
+            "content_html": "",
+            "title": "在岸人民币兑美元北京时间03:00收报7.3043，较上一交易日夜盘收盘涨16点。成交量129.34亿美元。",
+            "date_modified": "2023-10-13T19:04:41.000Z"
+        },
+        {
+            "id": 3317895,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-14/detail-imzqyzsv5963424.d.html",
+            "title": "市场资讯：福特汽车(F.N)考虑削减生产F-150皮卡的工厂班次。",
+            "date_modified": "2023-10-13T19:04:03.000Z"
+        },
+        {
+            "id": 3317894,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-14/detail-imzqyzsz7201468.d.html",
+            "title": "恒指期货夜盘收跌0.34%，报17751点，低水62点。",
+            "date_modified": "2023-10-13T19:01:26.000Z"
+        },
+        {
+            "id": 3317893,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-14/detail-imzqyzsy0424091.d.html",
+            "title": "【以色列总理称正在猛攻哈马斯】当地时间10月13日，以色列总理内塔尼亚胡发表全国讲话，称正在猛攻哈马斯，并表示“这只是一个开始”。（央视新闻）",
+            "date_modified": "2023-10-13T18:59:46.000Z"
+        },
+        {
+            "id": 3317892,
+            "content_html": "",
+            "title": "联合国秘书长古特雷斯：蓝线（联合国于2000年6月7日公布的黎巴嫩与以色列的分界线）一带的交火非常令人担忧，必须停止。即使战争也有规则。加沙地区的所有人质必须立即释放。我一直与该地区的领导人保持密切联系，致力于减少苦难并防止在约旦河西岸或该地区其他地方，尤其是黎巴嫩南部的危险进一步升级。",
+            "date_modified": "2023-10-13T18:55:41.000Z"
+        },
+        {
+            "id": 3317891,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-14/detail-imzqyzsv5962319.d.html",
+            "title": "美国共和党众议员卡马克：众议院共和党将在五分钟内投票选举议长候选人。",
+            "date_modified": "2023-10-13T18:50:07.000Z"
+        },
+        {
+            "id": 3317890,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-14/detail-imzqyzsz7198234.d.html",
+            "title": "美国财长耶伦：防止中东冲突局势扩大至关重要。",
+            "date_modified": "2023-10-13T18:38:37.000Z"
+        },
+        {
+            "id": 3317889,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-14/detail-imzqyzsz7197631.d.html",
+            "title": "【中东局势引燃供给忧虑，国际油价劲涨逾5%】WTI 11月原油期货收涨4.78美元，涨幅5.77%，报87.69美元/桶。布伦特12月原油期货收涨4.89美元，涨幅5.65%，报90.89美元/桶。NYMEX 11月天然气期货收跌3.23%，报3.2360美元/百万英热单位。",
+            "date_modified": "2023-10-13T18:34:21.000Z"
+        },
+        {
+            "id": 3317888,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-14/detail-imzqyzsx1283930.d.html",
+            "title": "【上期所原油夜盘收涨超5.1%，沪金沪银至少涨超2.4%】上期所原油期货2311合约夜盘收涨5.16%，报686.80元人民币/桶。沪金夜盘收涨2.42%，沪银收涨2.91%。",
+            "date_modified": "2023-10-13T18:30:36.000Z"
+        },
+        {
+            "id": 3317887,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-14/detail-imzqyzsx1283881.d.html",
+            "title": "以色列总理内塔尼亚胡表示，以色列在加沙的反击行动“只是个开始”。",
+            "date_modified": "2023-10-13T18:29:34.000Z"
+        },
+        {
+            "id": 3317886,
+            "content_html": "",
+            "title": "日本财务省官员：财务大臣对外汇市场的评论是显而易见的，即如果金融市场出现过度波动，我们将采取必要的行动。",
+            "date_modified": "2023-10-13T18:28:08.000Z"
+        },
+        {
+            "id": 3317885,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-10-14/detail-imzqyzsy0419180.d.html",
+            "title": "日本财务省官员：对于过度的外汇波动不会改变立场。",
+            "date_modified": "2023-10-13T18:22:54.000Z"
+        },
+        {
+            "id": 3317884,
+            "content_html": "",
+            "title": "沙特外交部确认其对强制驱逐加沙地区巴勒斯坦人的呼吁表示“坚决拒绝”，并谴责针对该地区平民的袭击行为。",
+            "date_modified": "2023-10-13T18:22:40.000Z"
+        },
+        {
             "id": 3317883,
             "content_html": "",
             "title": "标普：相信美国消费者的抗压能力将保持在较高水平，尽管过度扩张的部分可能会面临一些压力。",
@@ -241,107 +342,6 @@
             "url": "https://finance.sina.cn/7x24/2023-10-14/detail-imzqyzsz7189577.d.html",
             "title": "世界卫生组织呼吁立即撤销加沙撤离命令，以保护平民生命、减少苦难。",
             "date_modified": "2023-10-13T17:37:48.000Z"
-        },
-        {
-            "id": 3317848,
-            "content_html": "",
-            "title": "恐慌指数VIX波动率日内涨幅达20.5%，报20.13；标普500指数目前跌0.58%。",
-            "date_modified": "2023-10-13T17:24:02.000Z"
-        },
-        {
-            "id": 3317847,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-10-14/detail-imzqyvkx6086295.d.html",
-            "title": "【波兰启用长约200公里的波俄边境墙】当地时间10月13日，波兰内务和行政部长卡明斯基宣布，即日起，启用与俄罗斯接壤地带修建的长约200公里的边境墙。卡明斯基表示，边境墙启用后，波方可以全面掌握边境动态，任何非法越境企图都将立即被识别，距离最近的边防人员也将及时采取应对措施。（央视新闻）",
-            "date_modified": "2023-10-13T17:20:04.000Z"
-        },
-        {
-            "id": 3317846,
-            "content_html": "",
-            "title": "周五（10月13日），美联储隔夜逆回购协议（RRP）使用规模为1.152万亿美元，上个交易日报1.157万亿美元。",
-            "date_modified": "2023-10-13T17:17:18.000Z"
-        },
-        {
-            "id": 3317845,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-10-14/detail-imzqyvkz1408248.d.html",
-            "title": "美国至10月13日当周总钻井总数 622口，前值619口。",
-            "date_modified": "2023-10-13T17:11:06.000Z"
-        },
-        {
-            "id": 3317844,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-10-14/detail-imzqyvmc7315669.d.html",
-            "title": "美国至10月13日当周天然气钻井总数 117口，前值118口。",
-            "date_modified": "2023-10-13T17:10:57.000Z"
-        },
-        {
-            "id": 3317843,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-10-14/detail-imzqyvma0538553.d.html",
-            "title": "美国至10月13日当周石油钻井总数 501口，前值497口。",
-            "date_modified": "2023-10-13T17:10:48.000Z"
-        },
-        {
-            "id": 3317842,
-            "content_html": "",
-            "title": "周五（10月13日）欧市尾盘，法国巴黎泛欧交易所（EuroNext）“制粉小麦”期货涨1.71%，报237.25欧元/吨，本周累涨1.06%。油菜籽期货涨2.25%，报442.25欧元/吨，本周累跌0.39%。",
-            "date_modified": "2023-10-13T17:10:29.000Z"
-        },
-        {
-            "id": 3317841,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-10-14/detail-imzqyvma0538136.d.html",
-            "title": "伊朗石油部长表示，由于中东局势，预计油价将达到每桶100美元。",
-            "date_modified": "2023-10-13T17:07:55.000Z"
-        },
-        {
-            "id": 3317840,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-10-14/detail-imzqyvmc7314983.d.html",
-            "title": "【摩根大通总裁称美国经济强劲 ，但面临众多风险】摩根大通总裁Daniel Pinto周五表示，美国经济在面对众多挑战的情况下保持坚挺，但一连串政治和经济风险可能导致局势恶化。Pinto表示，美国消费者和企业的储蓄水平很高，财务状况稳健，但通胀居高不下、利率保持高位或被进一步上调等问题将造成压力。此外，在外部领域也存在着很多不确定性。",
-            "date_modified": "2023-10-13T17:06:08.000Z"
-        },
-        {
-            "id": 3317839,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-10-14/detail-imzqyvmc7314770.d.html",
-            "title": "美国取暖气油期货日内上涨5%，至3.1992美元/加仑。",
-            "date_modified": "2023-10-13T17:05:03.000Z"
-        },
-        {
-            "id": 3317838,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-10-14/detail-imzqyvmc7314660.d.html",
-            "title": "【花旗第三季度再裁员2000人 今年迄今遣散费总额达到6.5亿美元】花旗集团第三季度再裁员2000人，推动该行今年迄今的遣散费总额达到6.5亿美元。花旗首席财务官Mark Mason在与分析师讨论业绩的电话会议上表示，该行今年迄今已裁员约7000人。该行在6月底录得的遣散费为4.5亿美元，Mason当时称这笔费用涵盖了约5000名员工。",
-            "date_modified": "2023-10-13T17:04:20.000Z"
-        },
-        {
-            "id": 3317837,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-10-14/detail-imzqyvmc7314414.d.html",
-            "title": "WTI原油期货涨幅达5%，报87.11美元/桶。",
-            "date_modified": "2023-10-13T17:03:08.000Z"
-        },
-        {
-            "id": 3317836,
-            "content_html": "",
-            "title": "联合国发言人表示，由于边境口岸关闭，目前没有援助物资进入加沙地带。联合国自己的供应已经达到了最低水平。",
-            "date_modified": "2023-10-13T17:02:14.000Z"
-        },
-        {
-            "id": 3317835,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-10-14/detail-imzqyvma0537015.d.html",
-            "title": "ICE原糖期货日内涨幅达3.0%，报27.14美分/磅。",
-            "date_modified": "2023-10-13T17:01:55.000Z"
-        },
-        {
-            "id": 3317834,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-10-14/detail-imzqyvmc7314078.d.html",
-            "title": "美国国家安全委员会发言人柯比：美国需要补充资金来支持乌克兰和以色列。",
-            "date_modified": "2023-10-13T17:01:46.000Z"
         }
     ]
 }
