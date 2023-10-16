@@ -4,13 +4,134 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Mon, 16 Oct 2023 19:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 20:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[欧洲央行首席经济学家Lane：（欧元区）经济在2023年剩余时间内将处于“明显停滞”状态。欧洲央行将尽可能久地维持高利率水平。]]></title>
+            <title><![CDATA[软银旗下芯片软件设计公司Arm（ARM）收涨2.58%，报52.09美元，10月13日收盘破发——为该公司9月14日美国IPO以来首次。]]></title>
+            <guid>3321325</guid>
+            <pubDate>Mon, 16 Oct 2023 20:18:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[埃及总统府：埃及总统塞西与美国总统拜登通电话，强调必须遏制巴以冲突，以免威胁地区安全。]]></title>
+            <guid>3321324</guid>
+            <pubDate>Mon, 16 Oct 2023 20:17:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【减肥药GLP-1持续火热 原料药供应商有望共舞】记者以投资者身份致电多家涉及多肽原料药业务的企业，其均表示，已计划或正在对多肽原料药业务进行产能扩建。这背后的驱动因素之一即GLP-1类减肥药的火热，行业普遍认为，减重兼具医疗与消费属性，有望驱动GLP-1的市场需求量持续增长，进而带动对于上游原料药的需求。 (证券日报)]]></title>
+            <guid>3321323</guid>
+            <pubDate>Mon, 16 Oct 2023 20:13:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗：数据显示，9月笔记本发货量环比增长7%好于预期，或将利好英特尔和AMD。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-17/detail-imzrixee0868429.d.html</link>
+            <guid>3321322</guid>
+            <pubDate>Mon, 16 Oct 2023 20:11:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比利时危机中心将布鲁塞尔的恐怖威胁级别提升至最高级别，此前布鲁塞尔市中心发生枪击事件，致2名瑞典公民死亡。]]></title>
+            <guid>3321321</guid>
+            <pubDate>Mon, 16 Oct 2023 20:02:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[露露柠檬（LULU）收涨10%，创2021年11月份以来收盘新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-17/detail-imzrixcx9471379.d.html</link>
+            <guid>3321320</guid>
+            <pubDate>Mon, 16 Oct 2023 20:02:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[莫德纳（MRNA）收跌6.5%，创2020年3月份以来收盘新低。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-17/detail-imzrixea4090889.d.html</link>
+            <guid>3321319</guid>
+            <pubDate>Mon, 16 Oct 2023 20:02:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【热门中概股涨跌不一 腾讯音乐涨超6%】热门中概股涨跌不一，纳斯达克金龙指数涨0.32%。腾讯音乐涨超6%，京东涨超2%，满帮、微博、网易、蔚来、阿里巴巴小幅上涨。小鹏汽车跌近5%，理想汽车跌超2%，拼多多、爱奇艺、唯品会、富途控股、哔哩哔哩、百度小幅下跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-17/detail-imzrixea4090864.d.html</link>
+            <guid>3321318</guid>
+            <pubDate>Mon, 16 Oct 2023 20:01:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股三大指数集体收涨 热门科技股普涨】美股三大指数集体收涨，道指涨0.93%，纳指涨1.2%，标普500指数涨1.06%，热门科技股普涨，亚马逊、Meta涨超2%，微软、谷歌、英伟达、特斯拉涨超1%。金融集团、服装制造、工业原材料、零售板块涨幅居前，柯尔百货涨超7%，安德玛-A涨超5%，梅西百货涨超3%。医药零售、贵金属与采矿、石油与天然气钻井跌幅居前，Moderna跌超6%，Silvercorp跌超3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-17/detail-imzrixcx9471313.d.html</link>
+            <guid>3321317</guid>
+            <pubDate>Mon, 16 Oct 2023 20:01:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【业界：预计本月LPR“按兵不动”】 通过中国货币网数据梳理，9月份DR007（银行间市场存款类机构7天期回购加权平均利率）均值为1.97%，高于当前短期政策利率（1.8%）。中秋国庆假期后，受逆回购大量到期、政府债发行放量等因素扰动，资金利率整体也处于较高水平。截至10月13日，10月份以来DR007均值为1.86%。“受政府债供给扰动犹存、信贷维持一定景气度、月度缴税及月末因素影响，机构融出资金心态相对谨慎。为此，MLF加量续作有其必要性，这有助于平滑各因素对流动性的冲击，平稳市场波动，并缓解银行机构的谨慎预期，继续强化对实体经济的支持。”民生银行首席经济学家温彬称。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-17/detail-imzrixea4090549.d.html</link>
+            <guid>3321316</guid>
+            <pubDate>Mon, 16 Oct 2023 19:56:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【哥伦比亚政府与原“哥武”分支签署停火协议】哥伦比亚政府当地时间10月16日与原最大反政府武装“哥伦比亚革命武装力量”的分支“中央参谋部”正式签署了为期三个月的停火协议，该协议当地时间10月17日零时开始生效，将持续至2024年1月15日午夜停止。此前双方同意实施10个月的停火。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-17/detail-imzrixee0867123.d.html</link>
+            <guid>3321315</guid>
+            <pubDate>Mon, 16 Oct 2023 19:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美媒：美防长下达“准备好被部署”指令】据报道，一名美国官员称，美国防长奥斯汀已经对选中的美国士兵下达“准备好被部署”指令，以在以色列需要时提供支持。据报道，上周末，约有2000名士兵被选中，但具体人数尚未得到证实。目前还不清楚具体选中了哪些部队，也不清楚在什么情况下可以部署这些部队。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-17/detail-imzrixcz4793291.d.html</link>
+            <guid>3321314</guid>
+            <pubDate>Mon, 16 Oct 2023 19:49:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【7-30年期美债收益率至少涨超8个基点，避险需求不旺之际交投清淡】 周一（10月16日）纽约尾盘，美国10年期基准国债收益率上涨8.94个基点，报4.7018%，盘中交投于4.6414%-4.7227%区间。两年期美债收益率涨4.04个基点，报5.0942%，盘中交投于5.0474%-5.0985%区间。20年期美债收益率涨10.73个基点，30年期美债收益率涨10.43个基点。三年期美债收益率涨5.13个基点，五年期美债收益率涨7.5个基点，七年期美债收益率涨8.53个基点。三个月期国库券/10年期美债收益率利差涨9.076个基点，报-79.734个基点。02/10年期美债收益率利差涨5.111个基点，报-39.668个基点。美国10年期通胀保值国债（TIPS）损益平衡通胀率涨5.01个基点，报2.3222%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-17/detail-imzrixee0866101.d.html</link>
+            <guid>3321313</guid>
+            <pubDate>Mon, 16 Oct 2023 19:48:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【券商资管谋转型 提升“含基量”是关键】实际上，自2022年5月份中国证监会发布《公开募集证券投资基金管理人监督管理办法》开启“一参一控一牌”后，越来越多的券商加快进入公募赛道。提升“含基量”，不仅能够为资管业务收入提供有力支撑，也是券商实现差异化发展的重要抓手。公募基金市场正进入高质量发展的战略机遇期。随着公募基金市场费率改革渐次落地，券商资管这支公募赛道上的“新生力量”更需要加强投研核心竞争力，优化产品费率模式，转变过于依赖规模增长的发展模式，注重产品业绩表现，以客户财富保值增值为核心使命，同时实现自身的转型发展。 (证券日报)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-17/detail-imzrixcx9470178.d.html</link>
+            <guid>3321312</guid>
+            <pubDate>Mon, 16 Oct 2023 19:44:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：巴西总统卢拉要求委内瑞拉总统马杜罗提供与美国就制裁进行谈判的信息。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-17/detail-imzrixea4086904.d.html</link>
+            <guid>3321310</guid>
+            <pubDate>Mon, 16 Oct 2023 19:35:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：劳斯莱斯CEO将于周二宣布裁员约2500人的消息。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-17/detail-imzrixea4086831.d.html</link>
+            <guid>3321309</guid>
+            <pubDate>Mon, 16 Oct 2023 19:35:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[当地时间10月16日，据黎巴嫩国家通讯社报道称，以色列当晚再次炮击了黎以临时边界黎巴嫩一侧的达希拉镇（al- Dhahira ）。]]></title>
+            <guid>3321308</guid>
+            <pubDate>Mon, 16 Oct 2023 19:34:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧元兑美元上涨0.5%，至日内高点1.0561。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-17/detail-imzrixea4086135.d.html</link>
+            <guid>3321307</guid>
+            <pubDate>Mon, 16 Oct 2023 19:29:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大总理特鲁多：加拿大呼吁向加沙提供人道主义援助并建立人道主义走廊；没有任何理由可以为哈马斯的恐怖行为辩护；哈马斯不代表巴勒斯坦人民及其合法愿望。]]></title>
+            <guid>3321306</guid>
+            <pubDate>Mon, 16 Oct 2023 19:29:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【比利时布鲁塞尔市中心发生枪击事件 已致2人死亡】据比利时法语广播电视台报道，当地时间16日19时15分左右，比利时布鲁塞尔市中心的圣泰莱特广场附近发生枪击事件，造成2人死亡。据警方消息，目前仍在追捕嫌疑人。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-17/detail-imzrixee0863199.d.html</link>
+            <guid>3321305</guid>
+            <pubDate>Mon, 16 Oct 2023 19:29:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【受严重旱灾影响 亚马孙河主要支流水位降至121年来最低】巴西亚马孙州首府玛瑙斯市有关部门当地时间16日发布消息，受严重旱情影响，亚马孙河主要支流内格罗河水位已降至13.59米，打破了此前2010年13.63米的最低水位纪录，这也是自1902年该河有水文记录以来，121年间记录到的最低水位。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-17/detail-imzrixee0862632.d.html</link>
+            <guid>3321304</guid>
+            <pubDate>Mon, 16 Oct 2023 19:24:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲央行首席经济学家连恩：欧元区经济今年剩余时间内将明显停滞】欧洲央行首席经济学家连恩表示，欧元区经济在2023年剩余时间内将处于“明显停滞”状态；欧洲央行将尽可能久地维持高利率水平；通胀仍有意外上行风险，欧洲央行需对进一步政策行动保持开放立场；预计通胀率会在2025年降回2%；只有确信通胀率将降至2%后，欧洲央行才能开始利率政策正常化；欧洲央行当前距达成政策目标仍有一定距离，需关注薪资协议相关状况。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-17/detail-imzrixcz4790365.d.html</link>
             <guid>3321303</guid>
             <pubDate>Mon, 16 Oct 2023 19:04:28 GMT</pubDate>
         </item>
@@ -166,135 +287,6 @@ COMEX 1月白银期货收跌0.55%，报22.891美元/盎司。]]></title>
             <link>https://finance.sina.cn/7x24/2023-10-17/detail-imzriswc4915855.d.html</link>
             <guid>3321276</guid>
             <pubDate>Mon, 16 Oct 2023 17:56:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全美汽车工人联合会声明：福特汽车(F.N)应该“停止耍花招，达成协议”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-17/detail-imzriswh0978243.d.html</link>
-            <guid>3321275</guid>
-            <pubDate>Mon, 16 Oct 2023 17:47:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【克宫：普京支持恢复建立巴勒斯坦国的进程】克里姆林宫新闻局称，俄罗斯总统普京表示，支持恢复政治进程，以建立一个与以色列和平共处的巴勒斯坦国。克宫称，“普遍共识是，当前冲突空前升级的原因是中东问题解决进程长期停滞不前。在此背景下，总统普京重申了支持恢复政治进程的原则立场，以便在已知的国际法律基础上长期、公正地解决巴勒斯坦问题，从而建立一个与以色列和平、安全共处的独立巴勒斯坦国。”（俄罗斯卫星通讯社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-17/detail-imzriswh0978069.d.html</link>
-            <guid>3321274</guid>
-            <pubDate>Mon, 16 Oct 2023 17:46:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拉加德：欧洲央行正关注油价所构成的通胀风险】 欧洲央行行长拉加德告诉欧元区财长们，欧洲央行正留意新一轮巴以冲突通过油价波动所构成的任何通胀风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-17/detail-imzriswe4200745.d.html</link>
-            <guid>3321273</guid>
-            <pubDate>Mon, 16 Oct 2023 17:45:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【本轮巴以冲突已致巴勒斯坦方面2837人死亡】巴勒斯坦卫生部表示，截至当地时间16日20时，本轮巴以冲突已经造成巴勒斯坦方面2837人死亡，超过11250人受伤。其中加沙地带2778人死亡，约10000人受伤，约旦河西岸59人死亡，1250多人受伤。另据以色列媒体报道的消息，截至15日晚，以色列方面已有至少1400人死亡。根据目前的统计数字，本轮巴以冲突已致双方超4200人死亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-17/detail-imzriswe4200566.d.html</link>
-            <guid>3321272</guid>
-            <pubDate>Mon, 16 Oct 2023 17:44:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【土耳其外长与哈马斯政治局领导人通电话 商讨释放被扣押人员问题】综合阿拉比亚电视台等多家媒体消息，当地时间16日晚，土耳其外交部长费丹与巴勒斯坦伊斯兰抵抗运动（哈马斯）政治局领导人哈尼亚通电话，主要商讨关于释放被扣押人员问题。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-17/detail-imzriswh0977162.d.html</link>
-            <guid>3321271</guid>
-            <pubDate>Mon, 16 Oct 2023 17:40:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利监管部门在费用状况调查中降低了对该国电信运营商的反垄断罚款额度。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-17/detail-imzrisvz9591736.d.html</link>
-            <guid>3321270</guid>
-            <pubDate>Mon, 16 Oct 2023 17:40:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中欧资本市场互联互通成效渐显 21家A股公司赴欧GDR募资逾110亿美元】据同花顺iFinD数据统计，截至10月15日，有21家A股上市公司发行GDR（全球存托凭证）成功登陆欧洲证券市场，募资总额逾110亿美元。在鼓励中资企业“走出去”的同时，监管部门也多次表态支持境外优质企业来华发行CDR（中国存托凭证）。“我国统筹推进GDR和CDR业务发展，稳步提升资本市场高水平双向开放，有助于提升A股市场国际吸引力和竞争力。”中航证券首席经济学家董忠云表示，一方面，拓宽国内企业融资渠道，助力资本市场更好发挥资源配置功能，助力赋能实体经济；另一方面，提高外资参与A股的便利性，吸引外资持续流入股市，优化投资者结构，激发市场活力。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-17/detail-imzriswh0976532.d.html</link>
-            <guid>3321269</guid>
-            <pubDate>Mon, 16 Oct 2023 17:37:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AMC院线(AMC.N)：《泰勒·斯威夫特：时代巡回演唱会》美国首映周末票房达到9280万美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-17/detail-imzriswe4198679.d.html</link>
-            <guid>3321268</guid>
-            <pubDate>Mon, 16 Oct 2023 17:35:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【减肥药GLP-1持续火热 原料药供应商有望共舞】据证券日报，“基于公司对于（GLP-1）市场的预判，我们已有计划进行产能扩建。”“公司在今年年初已开始新建多肽产能，具体的建设进度请您关注公告。”10月16日，记者以投资者身份致电多家涉及多肽原料药业务的企业，其均表示，已计划或正在对多肽原料药业务进行产能扩建。这背后的驱动因素之一即GLP-1类减肥药的火热，行业普遍认为，减重兼具医疗与消费属性，有望驱动GLP-1的市场需求量持续增长，进而带动对于上游原料药的需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-17/detail-imzriswc4913661.d.html</link>
-            <guid>3321267</guid>
-            <pubDate>Mon, 16 Oct 2023 17:34:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【公募基金公司“接龙”自购 看好权益资产投资机会】据证券日报，10月14日，德邦基金发布关于运用自有资金申购旗下基金相关事宜的公告。这是10月份开市以来拟“真金白银”自购旗下权益产品的第三家公募基金管理人。据记者不完全统计，自8月18日证监会公开“活跃资本市场，提振投资者信心”一揽子政策措施以来，已有包括德邦基金在内的30家公募基金管理人发布公告称，拟自购旗下基金产品，合计金额超14亿元。“当前A股市场整体估值处历史偏低水平，已具备较高的估值性价比，中长期配置价值显现。”嘉实基金相关负责人表示，在市场低位逆向布局权益类基金，有利于发挥专业投资机构价值，以更低成本把握机会，为后期业绩提升埋下伏笔。也是以实际行动践行逆向销售，引导投资者低位借基入市。更重要的是，不仅是估值低位带来的布局性价比，从长期视角看，权益资产的复合回报率会超过其他大类资产。尤其是随着近期各项经济数据全面回暖，权益资产所蕴藏的投资机会值得期待。而且，资本市场的各项呵护举措提振投资者信心，已推动资金面供需格局持续好转，对权益投资应更为积极。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-17/detail-imzriswh0975186.d.html</link>
-            <guid>3321266</guid>
-            <pubDate>Mon, 16 Oct 2023 17:33:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【央行加量平价续作7890亿元MLF 业界预计本月LPR“按兵不动”】据证券日报，10月16日，中国人民银行开展1060亿元公开市场逆回购操作和7890亿元中期借贷便利（MLF）操作，中标利率分别维持1.8%、2.5%不变，充分满足了金融机构需求。从MLF操作来看，本月到期规模为5000亿元，故央行此次MLF操作为加量续作，MLF净投放规模2890亿元。在分析人士看来，近期资金面延续收敛态势，MLF加量续作具有必要性。东方金诚首席宏观分析师王青表示，本月MLF大规模加量续作，在持续释放稳增长政策信号的同时，也能为特殊再融资债券发行营造有利条件。王青表示，考虑到10月份MLF操作利率不动，加之政策面正在引导银行降低实体经济融资成本，以及存量首套房贷利率较大幅度下调，银行净息差承压，当前报价行降低LPR报价加点动力不足，预计两个品种的LPR保持不变的可能性更大。民生银行首席经济学家温彬也认为，目前新增和存量贷款利率已明显下行，预计10月份LPR将“按兵不动”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-17/detail-imzriswe4197300.d.html</link>
-            <guid>3321265</guid>
-            <pubDate>Mon, 16 Oct 2023 17:29:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深市公司借助产业布局加速价值提升 吸引海外资本积极配置优质资产】据证券日报，今年是共建“一带一路”倡议提出十周年。十年来，深市积极作为，一方面，深市上市公司实现自身快速发展和价值链升级的同时，吸引了包括中东国家在内的共建“一带一路”国家市场主权基金积极配置；另一方面，大批深市优质上市公司通过跨境并购重组、经贸产能合作、海外直接投资、产业技术合作等多种形式深度参与“一带一路”共建。市场人士表示，随着我国资本市场逐步转向全面制度型开放，外资机构进一步加快在中国资本市场投资展业的步伐，推动中国资本市场深度融入全球化、提升国际竞争力。与此同时，优质上市公司积极参与“一带一路”共建，也实现了自身价值的跃升。]]></title>
-            <guid>3321264</guid>
-            <pubDate>Mon, 16 Oct 2023 17:26:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【货币基金扎堆暂停大额申购，业内：货基收益率或会逐步下行】 据中国基金报，不完全统计结果显示，双节长假后暂停大额申购的货币基金有富国天时货币市场基金、上银慧增利货币市场基金、中欧骏泰货币市场基金、东方金证通货币市场基金、银华基金、兴全货币市场证券投资基金等。货币基金暂停大额申购，可能和资金的大规模涌入有关。华南一位基金经理表示，近期随着市场整体利率的走高，货币基金的收益率也从之前的跌破2%逐渐回升，目前不少货币基金的7日年化收益率都超过2%，有些甚至超过3%。东方基金固定收益投资部副总经理郑雪莹认为，四季度流动性方面，仍存在着跨季跨年的季节性扰动，政府债缴款等因素也将对资金面有所扰动。整体而言，预计步入10月，跨季对短端带来的冲击或将有所修复，进入11-12月，流动性仍伴随着时点压力，或将有所收敛。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-17/detail-imzriswc4912755.d.html</link>
-            <guid>3321263</guid>
-            <pubDate>Mon, 16 Oct 2023 17:24:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列军方发言人：美国总统拜登的访问具有战略意义。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-17/detail-imzriswe4195920.d.html</link>
-            <guid>3321262</guid>
-            <pubDate>Mon, 16 Oct 2023 17:20:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯总统普京与以色列总理内塔尼亚胡通电话】俄罗斯总统普京与以色列总理内塔尼亚胡通电话。克里姆林宫发表消息称，双方围绕巴以冲突急剧升级导致的危机局势进行了讨论。普京强调，坚决反对和谴责任何导致妇女和儿童在内的平民成为受害者的行动。普京向内塔尼亚胡通报了俄罗斯为帮助局势正常化、防止暴力进一步升级和防止加沙地带发生人道主义灾难而采取的措施，特别是向以色列方面通报了当天与巴勒斯坦、埃及、伊朗和叙利亚领导人通话的要点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-17/detail-imzrisvz9589514.d.html</link>
-            <guid>3321261</guid>
-            <pubDate>Mon, 16 Oct 2023 17:19:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周一美联储隔夜逆回购协议（RRP）使用规模为1.109万亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-17/detail-imzriswe4195453.d.html</link>
-            <guid>3321260</guid>
-            <pubDate>Mon, 16 Oct 2023 17:17:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国会报告：山火每年给美国经济造成3940亿至8930亿美元的损失】据美国有线电视新闻网（CNN）当地时间10月16日援引一份美国国会的报告报道，气候变化引发的山火每年给美国经济造成3940亿至8930亿美元的损失，这一数字是此前政府报告估算的两倍多。参议院联合经济委员会总结的这份报告研究了山火造成的直接损失之外的各种成本。这份最新的报告根据通胀调整后，山火造成的损失范围明显高于特朗普政府时期发布的损失报告，此前的报告将山火每年造成的损失定在874亿美元到4278亿美元之间。]]></title>
-            <guid>3321259</guid>
-            <pubDate>Mon, 16 Oct 2023 17:17:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【两家券商同一天出手：中原证券再次“冲刺”公募牌照，国金证券资管剑指“一控一牌”】 据中国基金报，在公募基金领域“折返跑”的中原证券，再次向这一领域发起新的冲刺。证监会网站显示，10月16日，中原证券正式递交设立公募基金管理公司的申请，目前该申请处于接收材料状态。同一天，国金证券资管也递交公募基金管理人资格核准的申请。除了目前全资子公司国金证券资管正在申请的公募牌照之外，国金证券还控股国金基金，持有其51%的股份。若此次国金证券资管顺利拿到公募基金牌照，国金证券将在公募基金领域形成“一控一牌”的布局。今年以来，广发证券资管、兴证资管、光大证券资管、安信证券资管相继递交公募基金管理人资管申请，目前上述申请处于材料补正状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-17/detail-imzriswh0972122.d.html</link>
-            <guid>3321258</guid>
-            <pubDate>Mon, 16 Oct 2023 17:15:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【未能对哈马斯袭击提前发出警告 以色列国家安全总局局长承认负有责任】当地时间16日，以色列国家安全总局（辛贝特）局长罗南·巴尔承认对情报误判负有责任，他表示未能提前发出警告并阻止10月7日巴勒斯坦伊斯兰抵抗运动（哈马斯）发动的袭击，他作为辛贝特的负责人而负有责任。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-17/detail-imzriswh0972054.d.html</link>
-            <guid>3321257</guid>
-            <pubDate>Mon, 16 Oct 2023 17:14:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据塔斯社：俄罗斯总统普京告诉以色列总理内塔尼亚胡，俄罗斯准备帮助结束该地区的（军事）对抗并和平解决问题。]]></title>
-            <guid>3321256</guid>
-            <pubDate>Mon, 16 Oct 2023 17:13:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西央行行长：以色列冲突带来的地缘政治风险可能会影响物价，尤其是油价。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-17/detail-imzrisvz9588782.d.html</link>
-            <guid>3321255</guid>
-            <pubDate>Mon, 16 Oct 2023 17:10:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西央行行长：我们一致认为，未来几次会议50个基点的降息速度是合适的。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-17/detail-imzriswc4911537.d.html</link>
-            <guid>3321254</guid>
-            <pubDate>Mon, 16 Oct 2023 17:10:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
