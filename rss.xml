@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 22 Oct 2023 19:13:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Oct 2023 20:15:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【证监会修订指引鼓励现金分红】证监会周五宣布，为进一步健全上市公司常态化分红机制，提高投资者回报水平，就《上市公司监管指引第3号——上市公司现金分红（2023年修订）》等现金分红规范性文件公开征求意见。“持续稳定的分红有助于增强投资者回报，推动树立平和的投资理念，促进市场平稳健康发展，同时也有助于减少公司冗余资金、提高资产使用效率，引导公司专注主业。”证监会称，近五年来，A股上市公司累计分红8.2万亿元，年度分红金额已开始超过当年股权融资额。其中，2022年共有3291家沪深上市公司进行了现金分红，分红金额2.1万亿元，其中面向境内投资者分红1.6万亿元，同比增长22.7%，分红家数占比67.1%，股利支付率（32.5%）和股息率（1.97%）与全球主要资本市场相比处于中上游水平。分红公司家数占比由10年前的50%左右提升至70%左右，连续5年分红的公司占比由20%提升至48%。证监会表示，本次现金分红规则修订主要思路是在坚持公司自治的基础上，鼓励公司在章程中制定明确的分红政策，稳定投资者分红预期，对不分红、财务投资规模较大但分红比例不高的公司，通过强化披露要求督促分红；便利公司中期分红实施程序，鼓励公司增加现金分红频次；加强对异常高比例分红企业的约束，引导合理分红。（第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-23/detail-imzrzmue1540815.d.html</link>
+            <guid>3330429</guid>
+            <pubDate>Sun, 22 Oct 2023 19:49:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【沙特财富基金与现代汽车同意修建汽车工厂】 现代汽车已经同意，与沙特主权财富基金达成一份协议，双方将修建一个投资规模超5亿美元的汽车装配厂，与电动汽车生产商Lucid集团一道在沙特生产汽车。据现代汽车外部事务团队高管Park Jiwoo，现代汽车可能会将装配设施修建在吉达周边的King Adbullah Economic City，预计年产5万辆。届时，沙特公共投资基金（PIF）将对合资公司持股70%，现代汽车将持有剩余股份。]]></title>
             <link>https://finance.sina.cn/7x24/2023-10-23/detail-imzrzmue1532671.d.html</link>
@@ -304,12 +310,6 @@
             <link>https://finance.sina.cn/7x24/2023-10-22/detail-imzryuwk5095909.d.html</link>
             <guid>3330144</guid>
             <pubDate>Sun, 22 Oct 2023 13:00:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【义乌发布首个商贸领域大语言模型】10月21日，第29届义博会开幕，作为本届义博会的重要配套活动之一，“AI改变商业·义乌产业AI应用大会”22日在义乌国际博览中心举行。全球首个商品贸易领域大语言模型以及全新升级的Chinagoods AI智创服务平台在大会上正式发布，与清华面壁团队、人民大数据、中国邮政以及12家国内头部的AI应用服务商进行合作碰撞，聚焦AI人工智能新技术在小商品产业供需两端的落地应用。大会发布的Chinagoods AI智创服务平台智慧模型涵盖AI对话、AI生成商品详情、AI一键生成视频、AI数字人等应用。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-22/detail-imzryuwn1871793.d.html</link>
-            <guid>3330141</guid>
-            <pubDate>Sun, 22 Oct 2023 12:53:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
