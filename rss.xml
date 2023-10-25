@@ -4,11 +4,99 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Wed, 25 Oct 2023 19:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 20:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：联合国安理会否决了俄罗斯关于加沙援助的决议。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskiex8418887.d.html</link>
+            <guid>3334784</guid>
+            <pubDate>Wed, 25 Oct 2023 20:15:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meta Platforms收盘下跌4.2%。盘后续跌2%，该公司即将发报财报。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskiew1640704.d.html</link>
+            <guid>3334783</guid>
+            <pubDate>Wed, 25 Oct 2023 20:09:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【IBM三季度营收好于预期，股价盘后涨2%】 IBM三季度营收147.5亿美元，市场预期146.8亿美元。三季度每股运营收益2.20美元，市场预期2.12美元。三季度咨询收入49.6亿美元，市场预期51亿美元。三季度自由现金流16.8亿美元，市场预期13.5亿美元。三季度软件收入62.7亿美元，市场预期62.6亿美元。公司仍预计全年自由现金流约105亿美元，市场预期99.3亿美元。IBM股价盘后上涨2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskiey6729842.d.html</link>
+            <guid>3334782</guid>
+            <pubDate>Wed, 25 Oct 2023 20:08:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登寻求超过230亿美元的新救灾资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskiex8417672.d.html</link>
+            <guid>3334781</guid>
+            <pubDate>Wed, 25 Oct 2023 20:07:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[谷歌母公司Alphabet收跌9.5%，创2020年3月以来最大单日跌幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskiey6729697.d.html</link>
+            <guid>3334780</guid>
+            <pubDate>Wed, 25 Oct 2023 20:06:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳斯达克100指数创2022年12月以来最大单日跌幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskiew1640355.d.html</link>
+            <guid>3334779</guid>
+            <pubDate>Wed, 25 Oct 2023 20:06:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【热门中概股普跌 小鹏汽车跌近8%】热门中概股普跌，小鹏汽车跌近8%，蔚来跌超6%，富途控股跌超5%，哔哩哔哩、爱奇艺、腾讯音乐、唯品会、百度跌超3%，理想汽车、阿里巴巴跌超2%，网易、京东小幅下跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskiew1640317.d.html</link>
+            <guid>3334778</guid>
+            <pubDate>Wed, 25 Oct 2023 20:06:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股三大指数集体收跌 热门科技股普跌】美股三大指数集体收跌，道指跌0.32%，纳指跌2.43%，标普500指数跌1.43%，热门科技股普跌，谷歌跌超9%，创2020年3月以来最大单日跌幅，亚马逊跌超5%，Meta、英伟达跌超4%，特斯拉、苹果跌超1%，微软逆市涨超3%。机器人、半导体、软件应用纷纷下挫，纳微半导体、Snap、英特尔、AMD跌超5%，恩智浦、高通跌超4%，阿斯麦跌近3%。包装食品、医药零售、石油与天然气板块走高，通用磨坊、荷美尔食品涨超3%，帝国石油、森科能源涨超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskiey6729663.d.html</link>
+            <guid>3334777</guid>
+            <pubDate>Wed, 25 Oct 2023 20:05:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美债收益率全线大涨】周三（10月25日）纽约尾盘，美国10年期基准国债收益率上涨11.49个基点，报4.9378%，盘中交投于4.9570%-4.8040%区间。两年期美债收益率上涨4.6个基点，报5.1185%，盘中交投于5.1290%-5.0499%区间。三个月期国库券/10年期美债收益率利差涨8.964个基点，报-53.480个基点。02/10年期美债收益率利差涨11.043个基点，报-18.281基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskiew1638964.d.html</link>
+            <guid>3334776</guid>
+            <pubDate>Wed, 25 Oct 2023 19:54:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【黎以临时边界多地发生交火 黎巴嫩真主党已有超40人死亡】当地时间25日，综合黎巴嫩多家媒体报道，黎巴嫩和以色列临时边界当天多地发生交火。据悉，以色列袭击了临时边界黎方一侧的胡拉（Houla）等地；黎巴嫩真主党的武装人员对以方一侧的哈尼塔（Hanita）、阿维维姆（Avivim）等地的军事目标发动袭击，摧毁了一些技术设备和一辆坦克。根据黎当地媒体的统计，边界冲突已致黎巴嫩真主党超过40人死亡。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskiex8415940.d.html</link>
+            <guid>3334775</guid>
+            <pubDate>Wed, 25 Oct 2023 19:53:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【借道ETF布局，近六成私募选择逐步加仓】 越来越多的私募正借道ETF加码布局权益资产。10月以来，多只股票型ETF前十名持有人名单中出现了私募基金的身影。私募排排网最新统计显示，当前已有近六成私募选择“越跌越买”策略，逐步加仓。从投资方向来看，私募颇为青睐绩优股。在他们看来，随着三季报密集披露，市场有望回归业绩主线。“很多行业的业绩底部已经得到确认，后续在三季报密集披露过程中，多家上市公司的业绩底部或将随之出现，四季度业绩有望成为市场投资的主要锚定因素，权益市场的结构性机会将更加均衡。”明泽投资基金经理郗朋表示。（上证报）]]></title>
+            <guid>3334774</guid>
+            <pubDate>Wed, 25 Oct 2023 19:48:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[埃克森美孚下属的天然气公司XTO将裁员120人，主要集中于美国得克萨斯州中部地区。]]></title>
+            <guid>3334773</guid>
+            <pubDate>Wed, 25 Oct 2023 19:43:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒生指数主连夜盘收涨0.16%，报17158.00点。
+恒生科技指数主连夜盘收涨0.13%，报3718.00点。]]></title>
+            <guid>3334772</guid>
+            <pubDate>Wed, 25 Oct 2023 19:42:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【三季度基金总规模保持稳定，业内期待苦尽甘来】 公募基金2023年三季报披露10月25日收官。天相投顾最新数据显示，三季度末公募基金总规模达到27.2万亿元，同比增长3%，环比下降0.58%。剔除货币基金后，公募基金三季度末规模为16万亿元，较二季度末下降0.64%;其中，股票型基金规模为2.8万亿元，混合型基金规模为4.1万亿元，债券型基金规模为8.3万亿元。展望后市，基金经理们充满希望，相信市场终会回归理性。景顺长城基金经理刘彦春表示，过去三年，企业经营以外的因素对股票定价造成了巨大扰动，这一过程已近尾声，预期权益市场即将苦尽甘来。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskiey6726313.d.html</link>
+            <guid>3334771</guid>
+            <pubDate>Wed, 25 Oct 2023 19:26:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【年内科创债市场加速扩容 月均发行数量及规模均较去年翻番】截至10月25日，交易所债市累计发行科创债321只，发行规模合计达2561.93亿元。年内科创债发行更是明显提速，月均发行产品25只，月均发行规模196.32亿元，月均发行数量和规模均较2022年翻番。从发行方式来看，公募债占绝大多数；从发行主体性质来看，国有企业是主力军。东方金诚研究发展部高级分析师于丽峰表示，科创债产品设计和募集资金使用贴合科技创新领域投融资特征，对科创企业更加包容，募集资金投向科创领域的方式更加灵活，有助于增强企业自主创新动力，推动科技成果转化和产业化应用。 (证券日报)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskiey6725917.d.html</link>
+            <guid>3334770</guid>
+            <pubDate>Wed, 25 Oct 2023 19:21:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【黄金主题基金10月份以来收益率亮眼】 Wind资讯数据显示，截至10月25日，在全市场逾万只公募基金中，本月内收益率排名靠前的25只产品均为黄金主题基金，收益率均在5.57%上方。多位分析人士表示，由于近期海外市场基本面波动较大，避险情绪推动国际金价大幅走高，受益于标的资产价格上扬，黄金主题基金收益率同步水涨船高；短期来看，基于美联储加息预期临近和美债收益率见顶等因素，国际金价仍有上行空间。国元期货高级金属分析师范芮补充表示，投资者本就对美国通胀和全球经济增长存在忧虑，而预期美联储加息临近，国际金价有走强动能。（证券日报）]]></title>
             <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskifa2048015.d.html</link>
@@ -207,92 +295,6 @@ COMEX 2月黄金期货收涨0.44%，报2015.00美元/盎司。]]></title>
             <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskawz8525149.d.html</link>
             <guid>3334734</guid>
             <pubDate>Wed, 25 Oct 2023 17:50:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以军方称4枚火箭弹从黎巴嫩向以色列北部发射】 当地时间25日，《以色列时报》援引军方消息称，以国防部队表示，当天四枚火箭弹从黎巴嫩向以色列北部城市谢莫纳发射。《耶路撒冷邮报》报道称，谢莫纳拉响了防空警报。以军表示，火箭弹全部落在空旷地区，没有造成人员伤亡或财产损失。因为火箭弹并未针对人口稠密地区，“铁穹”防空系统没有被启用。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskawz8524895.d.html</link>
-            <guid>3334733</guid>
-            <pubDate>Wed, 25 Oct 2023 17:47:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑日元USD/JPY站上150，短线波动逾10点，最高至150.03。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskawz8524145.d.html</link>
-            <guid>3334732</guid>
-            <pubDate>Wed, 25 Oct 2023 17:44:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恐慌指数VIX波动率日内涨幅达10.0%，报20.89。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskaxe2170422.d.html</link>
-            <guid>3334731</guid>
-            <pubDate>Wed, 25 Oct 2023 17:44:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[福特汽车(F.N)、通用汽车(GM.N)直线拉升转涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskawy1743524.d.html</link>
-            <guid>3334730</guid>
-            <pubDate>Wed, 25 Oct 2023 17:28:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[布伦特原油短线涨幅扩大至2%，触及90.07美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskawy1743341.d.html</link>
-            <guid>3334729</guid>
-            <pubDate>Wed, 25 Oct 2023 17:27:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【UAW据称将与福特汽车达成协议，或实际加薪超30%】美国汽车工人联合会（UAW）正接近与福特汽车达成协议，协议内容包括进一步提高工人的“生活成本补贴”额度。这意味着福特汽车对工人的实际加薪福特将超过30%。福特汽车（F）股价走高，转为上涨逾1%，早盘曾一度下跌逾1.5%。通用汽车（GM）股价同样转涨，早盘曾一度下跌近3%。斯泰兰蒂斯（STLA）股价也上涨逾1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskawz8520434.d.html</link>
-            <guid>3334728</guid>
-            <pubDate>Wed, 25 Oct 2023 17:27:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国证交会主席根斯勒：加密货币行业普遍存在不遵守美国规定的问题。加密货币行业并非那么的去中心化。]]></title>
-            <guid>3334727</guid>
-            <pubDate>Wed, 25 Oct 2023 17:17:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果计划从2024年开始对AirPods产品线进行全面升级。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskawy1741159.d.html</link>
-            <guid>3334726</guid>
-            <pubDate>Wed, 25 Oct 2023 17:17:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国30年期国债收益率上涨15个基点，刷新日高至5.09%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskaxe2166544.d.html</link>
-            <guid>3334725</guid>
-            <pubDate>Wed, 25 Oct 2023 17:10:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰总统泽连斯基：俄罗斯在赫梅利尼茨基地区的无人机袭击目标很可能是核电站。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskawz8516192.d.html</link>
-            <guid>3334724</guid>
-            <pubDate>Wed, 25 Oct 2023 17:06:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货钯金日内跌幅达2.00%，现报1098.62美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskawy1739038.d.html</link>
-            <guid>3334723</guid>
-            <pubDate>Wed, 25 Oct 2023 17:06:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【纪念中国人民志愿军抗美援朝出国作战73周年活动在朝举行】纪念中国人民志愿军抗美援朝出国作战73周年活动25日在朝鲜首都平壤友谊塔举行。朝鲜最高人民会议常任委员会副委员长姜润石和中国驻朝鲜大使王亚军率朝中双方人员参加活动，深切缅怀在抗美援朝战争中英勇牺牲的志愿军先烈。(新华社)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskaxa6842543.d.html</link>
-            <guid>3334722</guid>
-            <pubDate>Wed, 25 Oct 2023 17:03:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部拍卖520亿美元5年期国债，得标利率4.899%，投标倍数2.36。（预发行交易利率为4.880%，上月投标倍数为2.52）]]></title>
-            <guid>3334721</guid>
-            <pubDate>Wed, 25 Oct 2023 17:02:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际铜夜盘收跌0.37%，沪铜收跌0.36%，沪铝收涨0.11%，沪锌收涨0.40%，沪铅收跌0.34%，沪镍收涨0.18%，沪锡收跌0.28%。氧化铝夜盘收涨0.68%。不锈钢夜盘收跌0.51%。]]></title>
-            <guid>3334720</guid>
-            <pubDate>Wed, 25 Oct 2023 17:02:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周三（10月25日）欧市尾盘，英国10年期国债收益率涨7.1个基点，报4.610%。两年期英债收益率涨5.5基点，报4.844%。 30年期英债收益率跌6.70基点，报5.062%；50年期英债收益率涨6.1个基点，报4.620%。2/10年期英债收益率利差涨1.698个基点，报-23.861个基点。]]></title>
-            <guid>3334719</guid>
-            <pubDate>Wed, 25 Oct 2023 17:01:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
