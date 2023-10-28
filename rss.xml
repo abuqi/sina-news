@@ -4,11 +4,46 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 28 Oct 2023 16:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Oct 2023 17:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【郑钦文击败朱琳闯入珠海WTA超级精英赛决赛】28日，在一场长达3小时19分钟的三盘鏖战后，“中国一姐”郑钦文击败同胞朱琳，闯入珠海WTA（女子网球选手协会）超级精英赛决赛。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-29/detail-imzssuae5721427.d.html</link>
+            <guid>3339527</guid>
+            <pubDate>Sat, 28 Oct 2023 17:06:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新能源汽车出口猛增】今年以来，作为战略性新兴产业的新能源汽车，成为经济高质量发展的重要引擎。日前，前三季度工业和信息化发展情况新闻发布会上的数据显示，新能源汽车的表现十分抢眼，产销规模进一步扩大。此外，今年9月份新能源汽车出口9.6万辆，同比增长92.8%。在不少国家，中国的新能源汽车已经成为当地新能源汽车销量总冠军。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-29/detail-imzsstzy3533054.d.html</link>
+            <guid>3339526</guid>
+            <pubDate>Sat, 28 Oct 2023 16:57:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一枚由加沙地带发射的火箭弹落入以色列境内 引发火灾】当地时间10月28日晚，一枚由加沙地带发射的火箭弹落入以色列特拉维夫以东的小城基利亚特阿挪，引发大火。目前暂未收到人员伤亡报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-29/detail-imzssuah2494941.d.html</link>
+            <guid>3339525</guid>
+            <pubDate>Sat, 28 Oct 2023 16:40:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stellantis集团与全美汽车工人联合会(UAW)达成初步协议，将结束为期六周的罢工。]]></title>
+            <guid>3339524</guid>
+            <pubDate>Sat, 28 Oct 2023 16:39:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新疆阿克苏地区沙雅县发生3.2级地震震源深度16 千米】中国地震台网正式测定：10月29日00时26分在新疆阿克苏地区沙雅县（北纬41.02度，东经83.43度）发生3.2级地震，震源深度16千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-29/detail-imzsstzy3530974.d.html</link>
+            <guid>3339523</guid>
+            <pubDate>Sat, 28 Oct 2023 16:35:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【京津冀推“跨省通办”十大创新举措】为打通业务链条和数据共享堵点、高质量推动政务服务“跨省通办”，日前，北京市政务服务管理局印发《北京市深化政务服务“跨省通办”实施方案》。《实施方案》推出京津冀“跨省通办”服务十大创新举措，其中将继续推动京津冀政务服务“同事同标”，聚焦企业准入准营、个人资质资格等领域，推出第五批京津冀政务服务“同事同标”事项，进一步便利京津冀地区企业生产经营和人才流动。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-29/detail-imzssuah2493960.d.html</link>
+            <guid>3339522</guid>
+            <pubDate>Sat, 28 Oct 2023 16:33:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【全国“村BA”总冠军诞生】10月28日晚，全国和美乡村篮球大赛——“村BA”总决赛在贵州省台江县台盘村落下帷幕。最终，广东沙溪队以84:78的比分战胜广东大朗队，取得首届全国“村BA”大赛总冠军。宁夏三营队、甘肃吹麻滩队分获第三、第四名。山东乐平铺队、山东悦庄队、重庆长沙队、贵州尚重队分获第五至第八名。]]></title>
             <link>https://finance.sina.cn/7x24/2023-10-29/detail-imzssuah2490808.d.html</link>
@@ -280,42 +315,6 @@
             <link>https://finance.sina.cn/7x24/2023-10-28/detail-imzsspuk2589761.d.html</link>
             <guid>3339421</guid>
             <pubDate>Sat, 28 Oct 2023 12:43:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泰国一高速摩托艇失控撞上长尾船致3人死亡】当地时间28日，泰国北榄府发生了一起水上摩托艇与长尾船相撞的事故，导致3人死亡。 事故发生时，大约有4-5艘水上摩托艇在水上高速行驶。有一艘摩托艇因为碰到了另一艘摩托艇带来的水花失去控制，导致驾驶员落水。随后这艘水上摩托艇撞上了迎面驶来的长尾船，摩托艇驾驶员和乘客2男1女共3人，全部当场死亡。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-28/detail-imzsspuk2589746.d.html</link>
-            <guid>3339420</guid>
-            <pubDate>Sat, 28 Oct 2023 12:43:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【首届全球可持续发展城市奖（上海奖）颁发，中国福州等5个城市获奖】10月28日下午，首届全球可持续发展城市奖（上海奖）颁奖活动暨2023年世界城市日中国主场活动开幕式在上海北外滩举行。从活动现场获悉，此次上海奖评选过程中，来自全球五大洲16个国家的54个城市递交了申报材料，15个城市成功入围。最终，澳大利亚布里斯班、中国福州、马来西亚槟城乔治市、乌干达坎帕拉、巴西萨尔瓦这5座城市获奖。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-28/detail-imzssinn2718906.d.html</link>
-            <guid>3339419</guid>
-            <pubDate>Sat, 28 Oct 2023 12:33:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【福厦高铁开通首月发客60万人次，提速沿线发展】中国首条设计时速350公里跨海高铁——福(州)厦(门)高铁28日开通运营“满月”。中国铁路南昌局集团有限公司（10月28日）当天通报，开通首月，福厦高铁共开行旅客列车1908趟，发送旅客60万人次，旅客列车日均客座率近七成。厦门北站站长李建军介绍，福厦高铁开通以来，累计开行福厦高铁动车组列车694趟，发送旅客超15.6万人次，乘高铁来厦门的旅客超过16.5万人次。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-28/detail-imzssinn2718643.d.html</link>
-            <guid>3339418</guid>
-            <pubDate>Sat, 28 Oct 2023 12:31:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【政策重拳整治新能源开发强配产业，多地已开展自查自纠】10月27日，国家能源局官网发布《开展新能源及抽水蓄能开发领域不当市场干预行为专项整治工作方案》。多位新能源企业相关负责人表示，近年来，随着风电、光伏等新能源的快速发展，新能源成为了不少地方政府的优质资源，有的地方政府提出要让当地的平台公司参股到项目开发企业的项目当中，同时还要求企业在当地附带其他产业。“有的是明文规定，有的是口头要求。”目前，河北、新疆、福建、湖北、贵州、山西等多地已下发专项整治工作方案，重点整治风电、光伏等项目开发强制要求产业配套等行为。有业内人士表示，此次《方案》的力度明显更大了。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-28/detail-imzssink5941021.d.html</link>
-            <guid>3339417</guid>
-            <pubDate>Sat, 28 Oct 2023 12:28:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【铖昌科技：卫星通信相控阵T/R芯片产品已进入量产阶段并持续交付中】铖昌科技在互动平台表示，公司积极把握行业发展趋势，领先推出星载和地面用卫星通信相控阵T/R芯片全套解决方案，卫星通信相控阵T/R芯片产品已进入量产阶段并持续交付中。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-28/detail-imzssinn2717217.d.html</link>
-            <guid>3339416</guid>
-            <pubDate>Sat, 28 Oct 2023 12:22:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：以色列军方再次呼吁加沙居民在即将到来的行动之前撤离加沙北部。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-28/detail-imzssink5940011.d.html</link>
-            <guid>3339415</guid>
-            <pubDate>Sat, 28 Oct 2023 12:21:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
