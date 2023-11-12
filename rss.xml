@@ -4,11 +4,16 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 12 Nov 2023 18:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Nov 2023 19:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【摩根资产管理吴兰君：中国ESG投资拥有广阔的发展空间】近些年来，国内市场越发重视ESG投资，相关产品的数量不断增长。与此同时，来自政策层面的支持力度也在不断加大。摩根资产管理全球可持续投资主管吴兰君表示，当前可持续投资的范围已经超出了气候变化的范畴，涉及生物多样性、健康、粮食安全和人力资本等主题，成为投资者的一大关注点。和海外成熟市场相比，中国ESG投资虽然起步较晚，但随着可持续投资需求的不断增长，拥有广阔的发展空间。]]></title>
+            <guid>3363185</guid>
+            <pubDate>Sun, 12 Nov 2023 18:24:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【百亿级私募业绩出炉 后市锁定低估值板块】10月市场跌宕起伏，百亿级私募业绩有所承压。私募排排网最新统计数据显示，截至10月底，今年以来百亿级私募业绩整体小幅回撤，和前三个季度相比，平均收益由正转负。不过，业绩承压的百亿级私募对后市并不悲观。在他们看来，经过前期调整，A股和港股投资性价比显著提升。与此同时，随着国内经济稳步复苏、美联储加息拐点渐近等积极因素的出现，权益市场迎来入场良机。具体到投资机会，医药、消费电子等前期调整较大的板块备受私募青睐。]]></title>
             <link>https://finance.sina.cn/7x24/2023-11-13/detail-imzukwzh7892432.d.html</link>
@@ -304,12 +309,6 @@
             <link>https://finance.sina.cn/7x24/2023-11-12/detail-imzuknme8368782.d.html</link>
             <guid>3363003</guid>
             <pubDate>Sun, 12 Nov 2023 13:19:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本大阪府部分居民血液检测异常 疑与水体受污染有关】日本媒体12日援引一项最新调查报道，大阪府摄津市部分居民血液中有机氟化合物含量偏高，健康受到威胁。调查人员分析，这可能与当地河流和地下水中全氟和多氟烷基物质含量超标有关。这一市民团体决定扩大检测范围，将对当地1000名居民做血检，并根据调查结果要求日本中央政府采取对策。全氟和多氟烷基物质难以降解，会在环境和人体中累积，因此被称为“永久性化学物”。专家指出，长期大量饮用受这类物质污染的水可能影响生殖健康和儿童生长发育，甚至引发乳腺癌、前列腺癌等疾病。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-12/detail-imzuknmm1318773.d.html</link>
-            <guid>3363002</guid>
-            <pubDate>Sun, 12 Nov 2023 13:15:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
