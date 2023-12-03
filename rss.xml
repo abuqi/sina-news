@@ -4,11 +4,22 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 03 Dec 2023 19:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Dec 2023 20:16:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[中国地震台网自动测定：12月04日03时49分在菲律宾棉兰老岛附近（北纬9.00度，东经126.92度）发生6.8级左右地震，最终结果以正式速报为准。]]></title>
+            <guid>3394020</guid>
+            <pubDate>Sun, 03 Dec 2023 19:56:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【富达、施罗德、贝莱德齐上阵 外资公募加速发债基扩规模】A股人气尚待恢复，急于扩规模的新开业外资公募基金纷纷布局债券基金，并密集在年尾加速发行，尤其是对于未来寻求布局中国“第三支柱”养老金投资的外资公募而言，规模达到一定水平是关键的要求之一。11月以来，富达基金、施罗德基金、贝莱德基金纷纷公告发行债基，其中富达已经募集完成。11月23日，富达基金发布“富达裕达纯债”基金成立公告，该基金自11月1日至11月21日发行，认购金额合计超50亿元，该债基策略主要以短期利率债为主，主打保守路线。11月30日，施罗德表示，“施罗德恒享债券基金”将于12月4日发行。施罗德基金是获批设立的第四家外商独资公募基金管理公司。不同于富达，施罗德此次主打“80+20”的混合策略，即“不低于80%的债券+不超过20%的权益类资产”组合搭配。该机构表示，今年以来，央行多次降准降息，市场利率不断走低，对于普通投资者来说，若想获得更高的投资回报，或许需要通过承担适度的波动换取。（第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-04/detail-imzwuqqf8008945.d.html</link>
+            <guid>3394019</guid>
+            <pubDate>Sun, 03 Dec 2023 19:38:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【进一步打通“堵点” 加快内外贸一体化体系建设】近日，国务院总理李强主持召开国务院常务会议，研究明确关于加快内外贸一体化发展的若干措施。本次会议强调，要对标国际先进水平，加快调整完善国内相关规则、规制、管理、标准等，促进内外贸标准衔接、检验认证衔接、监管衔接，推进内外贸产品同线同标同质；要聚焦企业需求和市场反馈及时优化政策，切实打通阻碍内外贸一体化的关键堵点，助力企业在国内国际两个市场顺畅切换。早在2021年年底，国务院办公厅印发的《关于促进内外贸一体化发展的意见》就提出，推进内外贸一体化有利于形成强大国内市场，有利于畅通国内国际双循环。这次国务院常务会议对内外贸一体化再次进行部署，充分说明了这项工作的重要性。同时也说明，这一领域还存在一些“关键堵点”需要解决。（第一财经）]]></title>
             <guid>3394018</guid>
@@ -293,18 +304,6 @@
             <link>https://finance.sina.cn/7x24/2023-12-03/detail-imzwtxsp8325689.d.html</link>
             <guid>3393896</guid>
             <pubDate>Sun, 03 Dec 2023 12:27:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳市工商联：深圳商事主体突破400万户 创业密度居全国大中城市首位】在坚持企业家俱乐部成立九周年年会盛典暨深圳总部成立大会上，深圳市工商联主席张春华表示，深圳的商事主体已经突破400万户，创业密度居全国大中城市首位。截至2022年底，深圳境内外上市公司总数达535家，累计要排队上市的企业超过100家。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-03/detail-imzwtxsn6312814.d.html</link>
-            <guid>3393895</guid>
-            <pubDate>Sun, 03 Dec 2023 12:27:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三峡能源阜阳南部120万千瓦风光储基地项目完成全部组件安装】据中国三峡能源消息，近日，随着颍上二期40万千瓦光伏项目最后一块光伏组件安装就位，安徽阜阳南部120万千瓦风光储基地项目完成全部光伏组件安装工作。颍上二期40万千瓦光伏项目占地约8660亩，共安装73万余块光伏组件，建成后年平均上网电量约4.4亿千瓦时。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-03/detail-imzwtxss8863117.d.html</link>
-            <guid>3393894</guid>
-            <pubDate>Sun, 03 Dec 2023 12:21:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
