@@ -4,15 +4,237 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Thu, 14 Dec 2023 04:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 05:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【澳门药监局续推引入内地中药医院制剂】在国家药品监督管理局和粤澳两地药监部门的支持下，澳门镜湖医院早前引进了首批内地中药医院制剂。澳门药物监督管理局表示，五项医院制剂的临床使用情况正常，目前有其他医院有意引入内地的中药医院制剂到澳门使用，药监局将会持续推动引入内地中药医院制剂，以增加居民用药选择。（大湾区之声）]]></title>
-            <guid>3408865</guid>
-            <pubDate>Thu, 14 Dec 2023 04:20:06 GMT</pubDate>
+            <title><![CDATA[【网传哈尔滨金融学院强制学生献血，校方称非强制、还在核实中】近日，网传哈尔滨金融学院强制学生献血。据网传聊天截图显示，疑似该学院辅导员在学生群组内发布消息“每班须有五人报名献血”“献血情况将作为以后发展党员、团员、评优的重要依据”“遇事就退缩的，评奖评优肯定不会考虑”。哈尔滨金融学院工作人员回应称，网传事件不属实，学校绝对没有强制学生献血，献血行为是自愿的。针对网传聊天截图的内容，目前事件还在核实中，学校也在积极干预。（央广网）]]></title>
+            <guid>3408903</guid>
+            <pubDate>Thu, 14 Dec 2023 05:15:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【天风证券：特钢行业未来景气度有望上升】天风证券近日研报指出，钢铁行业是典型的周期型行业，但特钢行业却具有更强的成长型属性，因此对于特钢行业的估值应当区别于普钢行业，给予一定的估值溢价。伴随供给侧改革深入、国产化推进与不断的产业升级，特钢有望在汽车、军工、航天航空、机械、核电等领域提速发展，特钢行业未来景气度有望上升。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxyezu8757833.d.html</link>
+            <guid>3408902</guid>
+            <pubDate>Thu, 14 Dec 2023 05:14:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[台积电日前在IEEE国际电子元件会议表示，1.4nm制程预计将于2027～2028年之间量产，将会命名为A14。]]></title>
+            <guid>3408901</guid>
+            <pubDate>Thu, 14 Dec 2023 05:14:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【东方甄选账号5天掉粉近26万】 近日，东方甄选“小作文”事件在网上引起舆论热议。12月14日，东方甄选账号粉丝数为3090.7万，累计掉粉近26万。而在12月9日，东方甄选粉丝数为3116万人。（澎湃新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxyezu8757656.d.html</link>
+            <guid>3408900</guid>
+            <pubDate>Thu, 14 Dec 2023 05:13:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[煤炭板块午后拉升，郑州煤电此前涨停，云煤能源涨近8%，安源煤业、陕西黑猫、甘肃能化、安泰集团等跟涨。]]></title>
+            <guid>3408899</guid>
+            <pubDate>Thu, 14 Dec 2023 05:13:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【蔚来回应品鉴白酒后参与试驾：酒类品鉴活动已经完全取消】 近日网传蔚来门店品鉴会同时包含白酒品鉴和试驾环节引发争议。引发争议的是，此次品鉴会的流程中，同时包含了“白酒十二香型品鉴会”和“试驾”环节。新浪科技向该蔚来中心咨询此事，一位工作人员证实了此次品鉴会的真实性。他同时表示，此次品鉴会将继续举办，但其中的酒类品鉴活动已经完全取消。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxyezz1308723.d.html</link>
+            <guid>3408898</guid>
+            <pubDate>Thu, 14 Dec 2023 05:11:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华为产业链个股午后走低 高新发展跌超9%】 华为产业链个股午后走低，高新发展跌超9%，网达软件、当虹科技跌超8%，创意信息、润和软件、恒为科技等跟跌。]]></title>
+            <guid>3408897</guid>
+            <pubDate>Thu, 14 Dec 2023 05:07:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[电力板块持续走强，京能热电此前涨停，杭州热电涨超8%，大连热电、廊坊发展、金房能源、新中港等跟涨。]]></title>
+            <guid>3408896</guid>
+            <pubDate>Thu, 14 Dec 2023 05:07:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【西藏：认房不认贷 开展商品房现房销售试点】近日，西藏发布《关于印发〈关于进一步贯彻落实国家支持楼市政策的通知〉的通知》。居民家庭(包括借款人、配偶及未成年子女)申请贷款购买商品住房时，家庭成员在我区购房所在地(市)、县(区、市)范围内名下无成套住房的，不论是否已利用贷款购买过住房，银行金融机构均按首套住房信贷政策执行。 对符合国家生育政策生育多子女(二孩及以上)家庭购买普通自住商品房时，购买的第二套住房认定为首套住房，购买第三套时认定为二套住房。 对新出让房地产开发用地的优质地块，积极试行商品房现房销售。对试行商品房现房销售的项目，依法享受现行国家和自治区税收优惠政策。（西藏发布）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxyezu8756114.d.html</link>
+            <guid>3408895</guid>
+            <pubDate>Thu, 14 Dec 2023 05:06:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【被控受贿1099万余元，贵州省粮食和物资储备局原正厅级干部吴青春受审】据贵州高院消息，12月14日，贵州省六盘水市中级人民法院一审公开开庭审理了贵州省粮食和物资储备局原正厅级干部吴青春受贿一案。六盘水市人民检察院指控，1992年至2021年，吴青春利用担任贵州省林业厅办公室副主任，贵州省人民政府办公厅行政处副处长、公产处处长，贵州省粮食局原党组成员、副局长等职务便利以及职权、地位形成的便利条件，为相关个人在工程项目承揽、获取粮食代储临储指标、职务提拔等事项上提供帮助，非法收受他人财物共计折合人民币1099万余元。检察机关提请以受贿罪追究吴青春的刑事责任。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxyezw1326628.d.html</link>
+            <guid>3408894</guid>
+            <pubDate>Thu, 14 Dec 2023 05:05:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【房地产开发板块震荡拉升 沙河股份触及涨停】 房地产开发板块震荡拉升， 沙河股份触及涨停，此前财信发展涨停，格力地产，京能置业、上实发展、首开股份等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxyezu8755317.d.html</link>
+            <guid>3408893</guid>
+            <pubDate>Thu, 14 Dec 2023 05:02:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本2年期国债收益率上涨1.5个基点至0.060%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxyezz1306755.d.html</link>
+            <guid>3408892</guid>
+            <pubDate>Thu, 14 Dec 2023 05:02:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【东方甄选：董宇辉仍在为公司工作 近期应该不会上播】 据南方都市报，东方甄选方面表示，目前董宇辉仍然在为东方甄选工作，但近期应该不会上播。针对“小作文”事件，东方甄选方面表示，目前公司工作人员正在调查当中，后续信息会通过官方公布。东方甄选方面称，“这件事情影响也还是挺大的，董老师也需要一定时间调整一下状态，后续一定会给到大家一个答复。”]]></title>
+            <guid>3408891</guid>
+            <pubDate>Thu, 14 Dec 2023 05:00:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高盛认为美联储将在明年3月、5月和6月连续三次降息25个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxyezz1306225.d.html</link>
+            <guid>3408890</guid>
+            <pubDate>Thu, 14 Dec 2023 04:59:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟理事会：欧盟达成改革电力市场协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxyezw1324646.d.html</link>
+            <guid>3408889</guid>
+            <pubDate>Thu, 14 Dec 2023 04:54:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通：预计美联储将在明年6月份开始降息，而此前预计为7月份，预计到年底将累计下调125个基点。]]></title>
+            <guid>3408888</guid>
+            <pubDate>Thu, 14 Dec 2023 04:54:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日元汇率一度升破1美元兑换141日元，系7月末以来最高值】当地时间14日，东京外汇市场上日元对美元汇率一度上升到1美元兑换140.95日元，是今年7月末以来的最高值。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxyezx8101443.d.html</link>
+            <guid>3408887</guid>
+            <pubDate>Thu, 14 Dec 2023 04:52:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【昆明印发花卉产业高质量发展行动方案 力争到2025年产值达400亿元】昆明市委农村工作领导小组办公室、昆明市农业农村局近日联合印发《昆明市花卉产业高质量发展三年行动方案》。《方案》明确，力争到2025年，全市花卉园艺生产面积稳定在38万亩，全产业链产值达到400亿元。其中，鲜切花种植面积稳定在14万亩，产量达113亿枝，农业产值150亿元。盆花种植面积稳定在6万亩左右，产量达到4.7亿盆，农业产值达50亿元。鲜花外销占比达90%以上。持续巩固呈贡斗南亚洲第一、世界第二的花卉交易中心地位。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxyezx8101079.d.html</link>
+            <guid>3408886</guid>
+            <pubDate>Thu, 14 Dec 2023 04:51:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俞敏洪称公司管理有很大漏洞】12月14日，新东方创始人俞敏洪在社交平台发布视频声明，回应近期小作文争议。 俞敏洪在视频中提到：本来是公司内部的一件小事情，因为处理不当变成了汹涌澎湃的舆情。小编的做法严重缺乏职业精神，也说明公司管理上有很大的漏洞。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxyezw1322998.d.html</link>
+            <guid>3408885</guid>
+            <pubDate>Thu, 14 Dec 2023 04:47:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：泰国、巴布亚新几内亚或加入棕榈油生产委员会。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxyezu8751916.d.html</link>
+            <guid>3408884</guid>
+            <pubDate>Thu, 14 Dec 2023 04:44:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【过期酱油重新贴标销售？上海市监局通报一篡改食品标签案：罚没99万】“上海市场监管”微信公众号12月14日通报一起篡改食品标签案：据群众举报，某企业对已过期的酱油进行重新贴标（篡改生产日期、保质期）后，以每瓶10元的单价对外进行销售。接报后，杨浦区市场监管局执法人员立即前往现场，在共青路仓库内查获大量过期预包装食品29个品种，共计1500余箱。经查，当事人作为食品经营者未按照食品安全的要求及时清理变质或者超过保质期的食品，反而以食品未打开不会变质为由，大肆招录临时工分人分批次对涉案食品的生产日期、保质期进行篡改后，继续销售给食品经销商。截至案发，共销售涉案货品13348件，货值金额达到132510.4元；待篡改的过期货品，共计21599件。杨浦区市场监管局对当事人予以立案调查。案发后，执法人员立即要求当事企业对下游经营者问题产品进行召回并销毁。根据食品安全有关法律法规，没收相关工具设备，并处以罚没款99万余元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxyezu8751789.d.html</link>
+            <guid>3408883</guid>
+            <pubDate>Thu, 14 Dec 2023 04:43:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日本央行料将按兵不动，或会暗示转向】日本央行年底可能是全球最鸽派的央行之一，决策者正在寻找日本经济能否抵御海外风险并实现物价和薪资持续增长的线索。由于消费显示疲弱迹象，且明年薪资前景仍不明朗，市场普遍预期日本央行下周将维持超宽松政策。牛津经济研究院日本经济主管Shigeto Nagai表示，明年的薪资谈判可能会相当激烈，但日本央行可能需要更多时间来决定通胀是否会更多地由国内需求推动，最有可能的退出时间是在4月份，之后日本央行可能会将短期利率引导在0到0.1%的范围内。路透社11月调查的经济学家中，超80%的人预计日本央行将在明年结束负利率政策，其中一半的人预计最有可能在4月结束，一些人则认为可能在1月发生转变，三菱日联高级市场经济学家Naomi Muguruma表示，关键是日本央行将在多大程度上试图暗示1月政策改变的可能性。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxyezx8099248.d.html</link>
+            <guid>3408882</guid>
+            <pubDate>Thu, 14 Dec 2023 04:42:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TikTok商店印尼市场份额在第三季度同比增长近一倍，达到11%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxyezx8099037.d.html</link>
+            <guid>3408881</guid>
+            <pubDate>Thu, 14 Dec 2023 04:42:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海机场集团与中国铁塔上海市分公司签署战略合作框架协议】上海机场集团官微消息，12月13日，上海机场集团与中国铁塔上海市分公司签署战略合作框架协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxyezz1302855.d.html</link>
+            <guid>3408880</guid>
+            <pubDate>Thu, 14 Dec 2023 04:41:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【旅游平台双12冰雪游销量同比增长近3倍】飞猪数据显示，双12冰雪游活动商品销量同比去年增长近3倍，长白山、北大湖、亚布力、崇礼、将军山等是冰雪游囤货热门目的地。海岛游活动商品销量同比去年增长约1倍，国内的海南以及马来西亚的仙本那、泰国的普吉岛等是海岛游囤货热门目的地。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxyezw1321097.d.html</link>
+            <guid>3408879</guid>
+            <pubDate>Thu, 14 Dec 2023 04:39:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【盛天网络：公司正在研发第一款真人互动游戏产品】盛天网络在互动平台表示，公司目前正在着手基于一部已完成拍摄的恋爱主题短剧作品开发完成一款多结局的真人互动类娱乐游戏，玩法将是恋爱主题的第一视角互动剧情游戏，游戏目前已经在优化测试的阶段，并经过了相关平台的审核，预计将在本月上线。该游戏为公司研发的第一款真人互动游戏产品，预计对公司业绩影响较小。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxyezx8098281.d.html</link>
+            <guid>3408878</guid>
+            <pubDate>Thu, 14 Dec 2023 04:39:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【每日芯片行业动态汇总（2023-12-14）】
+1. 三星和SK海力士争夺人才，不断扩大HBM市场。
+2. 韩国、荷兰领导人发表联合声明：商定构建半导体同盟
+3. 分析师：英特尔Gaudi AI芯片订单已达20亿美元。
+4. 存储芯片涨价逐步向下传导，刺激下游厂商积极备货。
+5. 环球晶12寸晶圆厂将于2024年第四季进行送样，于2025年开始量产。
+6. 东芝研发半导体设计AI：可将一年开发流程压缩为一日。
+7. 瑞萨：2024年半导体行业有望稳步反弹。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxyezu8750377.d.html</link>
+            <guid>3408877</guid>
+            <pubDate>Thu, 14 Dec 2023 04:37:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长耶伦将于北京时间明日4:15主持金融稳定监督委员会会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxyezu8749924.d.html</link>
+            <guid>3408876</guid>
+            <pubDate>Thu, 14 Dec 2023 04:35:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[理想汽车官微宣布，理想汽车累计交付突破600,000辆。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxyezw1320023.d.html</link>
+            <guid>3408875</guid>
+            <pubDate>Thu, 14 Dec 2023 04:35:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【分析师：美联储支撑下，亚洲股市的涨势有望延续至明年】分析师称，随着美联储发出明年降息的信号，亚洲市场的跨资产反弹可能会延续到2024年。MSCI亚太指数周四上涨1.7%，澳大利亚、韩国和中国股市领涨，科技股攀升，而包括日本和印尼在内的亚洲债券市场亦纷纷上涨。市场的走势表明，随着交易员预计美联储最早将于明年3月开始降息，发展中国家资产周四出现了更广泛的反弹。瑞穗银行首席亚洲外汇策略师Ken Cheung表示，对亚洲新兴市场来说，这是一个好消息，此前一年，全球央行都相当积极地上调了利率。这些不利因素可能会成为明年的有利因素，这将为亚洲新兴市场货币明年的反弹铺平道路。摩根大通驻墨尔本全球市场策略师Kerry Craig表示，看来这次美联储不会在圣诞节令投资者不愉快，如果美国能够像经济预测所暗示的那样避免衰退，那么这将有利于更广泛的亚洲地区。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxyezu8749663.d.html</link>
+            <guid>3408874</guid>
+            <pubDate>Thu, 14 Dec 2023 04:33:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今年前11个月全国造船完工量3809万载重吨 同比增长12.3%】据工业和信息化部消息，今年前11个月，全国造船完工量3809万载重吨，同比增长12.3%；新接订单量6485万载重吨，同比增长63.8%；截至11月底，手持订单量13409万载重吨，同比增长29.4%。此外，前11个月我国造船完工量、新接订单量、手持订单量以载重吨计分别占全球总量的50.1%、65.9%和53.4%，国际市场份额均超五成。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxyezw1319638.d.html</link>
+            <guid>3408873</guid>
+            <pubDate>Thu, 14 Dec 2023 04:33:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本10月库存月率终值 0.6%，前值0.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxyezw1319223.d.html</link>
+            <guid>3408872</guid>
+            <pubDate>Thu, 14 Dec 2023 04:31:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本10月设备利用指数 108.2，前值106.6。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxyezu8748945.d.html</link>
+            <guid>3408871</guid>
+            <pubDate>Thu, 14 Dec 2023 04:31:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【翰宇药业：龙华总部研发实验室近日通过FDA现场检查】翰宇药业在互动平台表示，公司于12月13日收到了美国FDA针对翰宇药业龙华总部研发实验室的现场检查报告（EIR），报告显示研发实验室质量管理体系符合美国FDA cGMP的要求，意味着研发实验室通过了FDA的现场检查。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxyezx8096341.d.html</link>
+            <guid>3408870</guid>
+            <pubDate>Thu, 14 Dec 2023 04:30:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本10月设备利用指数月率 1.5%，前值0.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxyezu8748756.d.html</link>
+            <guid>3408869</guid>
+            <pubDate>Thu, 14 Dec 2023 04:30:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本10月工业产出环比终值 1.3%，初值 1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxyezu8748675.d.html</link>
+            <guid>3408868</guid>
+            <pubDate>Thu, 14 Dec 2023 04:30:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本10月工业产出同比终值 1.1%，初值 0.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxyezz1300112.d.html</link>
+            <guid>3408867</guid>
+            <pubDate>Thu, 14 Dec 2023 04:30:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【东方甄选称董宇辉最近不上播】东方甄选方面表示，目前董宇辉仍然在为东方甄选工作，但近期应该不会上播。针对“小作文”事件，东方甄选方面表示，目前公司工作人员正在调查当中，后续信息会通过官方公布。东方甄选方面称，“这件事情影响也还是挺大的，董老师也需要一定时间调整一下状态，后续一定会给到大家一个答复。” (南方都市报)]]></title>
+            <guid>3408866</guid>
+            <pubDate>Thu, 14 Dec 2023 04:28:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【澳门药监局续推引入内地中药医院制剂】在国家药品监督管理局和粤澳两地药监部门的支持下，澳门镜湖医院早前引进了首批内地中药医院制剂。澳门药物监督管理局表示，五项医院制剂的临床使用情况正常，目前有其他医院有意引入内地的中药医院制剂到澳门使用，药监局将会持续推动引入内地中药医院制剂，以增加居民用药选择。（澳广视）]]></title>
@@ -83,235 +305,6 @@
             <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxxytw8874451.d.html</link>
             <guid>3408853</guid>
             <pubDate>Thu, 14 Dec 2023 04:08:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本大阪环球影城过山车空中停车，32名游客一度被困40米高空】今天（14日）上午，日本大阪环球影城的“飞天翼龙”过山车在行驶中突然停车，过山车上的32名游客一度被困在离地面约40米高的空中。随后，游客在工作人员的引导下离开过山车，走紧急楼梯回到地面上，据称没有人员受伤。目前过山车空中停车的原因还不清楚。（CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxxytz8221921.d.html</link>
-            <guid>3408852</guid>
-            <pubDate>Thu, 14 Dec 2023 04:07:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴克莱：现预计美联储将在2024年6月开始实施三次25个基点的降息，而此前预计只会在2024年12月降息一次。]]></title>
-            <guid>3408851</guid>
-            <pubDate>Thu, 14 Dec 2023 04:04:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【威姆斯签约广东宏远，球衣号码将改为24号】12月14日，广东宏远篮球俱乐部官博宣布，广东宏远和外援威姆斯正式签约，球衣号码将由13号改为24号。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxxytz8220594.d.html</link>
-            <guid>3408850</guid>
-            <pubDate>Thu, 14 Dec 2023 04:04:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【港股午评：两大指数均涨超1% 生物医药、消费电子等板块走强】港股行情冲高回落，香港恒生指数涨1.11%，恒生科技指数涨1.1%。板块方面，电子零件、生物医药、消费电子产品、苹果概念、农业、风电、燃气、水务、内险、内房等板块或概念股涨幅居前。游戏软件、煤炭、教育等板块跌幅居前。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxxytz8219745.d.html</link>
-            <guid>3408849</guid>
-            <pubDate>Thu, 14 Dec 2023 04:00:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印尼债券大幅上涨，5年期国债收益率降幅创下自11月15日以来最大。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxxyty1442343.d.html</link>
-            <guid>3408848</guid>
-            <pubDate>Thu, 14 Dec 2023 04:00:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【浙江：今年舟山港保税船燃加注量有望超700万吨】浙江省自贸办副主任胡真舫今日上午在中国（浙江）自贸区建设新闻发布会上透露，宁波舟山港以全年602万吨燃料供应量跃居全球第四大船加油港，创历史最好成绩。今年1-11月，保税船燃加注量646万吨，同比增长超18%，全年有望突破700万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxxytw8871976.d.html</link>
-            <guid>3408847</guid>
-            <pubDate>Thu, 14 Dec 2023 04:00:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度BSE SENSEX指数日内涨超1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxxyuc1422863.d.html</link>
-            <guid>3408846</guid>
-            <pubDate>Thu, 14 Dec 2023 03:57:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【在美联储暗示明年降息后，日本股市因日元上涨而下跌】由于美联储会议后日元迅速走强，负面情绪占据了市场，日本股市在早盘继续下跌。日元兑美元的升值让投资者担心，日本出口商的海外利润汇回国内后会贬值。野村证券投资内容部策略师Kazuo Kamitani表示，鉴于日元目前的状况，投资者对日元兑美元是会突破140，还是会再度走软存在分歧，这将使购买汽车等行业的股票变得更加困难。分析师表示，由于日本首相岸田文雄所在的执政党出现政治资金丑闻，对日本政府不稳定的担忧，外国投资者也可能变得越来越谨慎。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxxytz8218559.d.html</link>
-            <guid>3408845</guid>
-            <pubDate>Thu, 14 Dec 2023 03:56:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本20年期国债收益率下跌1.5个基点至1.410%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxxytw8870909.d.html</link>
-            <guid>3408844</guid>
-            <pubDate>Thu, 14 Dec 2023 03:55:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【京东、苏宁拟退出珠海万达战投？ 知情人士：上述公司投资的是大连万达商管不是珠海万达商管】针对京东、苏宁拟退出珠海万达商管战投的传言，知情人士向记者表示，京东、苏宁、融创投资的是珠海万达商管的母公司大连万达商管，因此并不在此次珠海万达商管年底到期的对赌协议范围内。而签署对赌协议的是碧桂园、PAG、华平投资、永辉超市等，因其投资的是珠海万达商管，享有到期赎回权。目前碧桂园、永辉超市已出售珠海万达商管股权。（财联社）]]></title>
-            <guid>3408843</guid>
-            <pubDate>Thu, 14 Dec 2023 03:54:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新联电子：中标国家电网1.21亿元采购项目】新联电子公告，中标“国家电网有限公司2023年第八十九批采购（营销项目第二次电能表（含用电信息采集）招标采购）”，共中5个包，中标总金额为12,131.43万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxxyuc1421040.d.html</link>
-            <guid>3408842</guid>
-            <pubDate>Thu, 14 Dec 2023 03:50:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【滴灌通与上海宝燕集团签署战略合作协议】据滴灌通官微消息，12月12日，宝燕集团与滴灌通在上海宝燕酒店举行了战略合作协议签约仪式。双方将在餐饮和文体领域展开一系列的深度合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxxytw8869250.d.html</link>
-            <guid>3408841</guid>
-            <pubDate>Thu, 14 Dec 2023 03:49:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【工银瑞信基金副总经理杜海涛不幸离世 目前在管产品5只】网传某大型银行系公募基金投资总监离世，经过多方求证，据可靠消息确认工银瑞信基金管理有限公司副总经理杜海涛不幸离世。公开资料显示，杜海涛，年龄49岁，学历硕士，投资经理年限18.28年，历任管理基金数16只，在任管理基金5只，在管基金总规模42.08亿元。多次获得业内权威奖项。现任工银瑞信副总经理，兼任工银瑞信(国际)董事长、基金经理。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxxytw8868755.d.html</link>
-            <guid>3408840</guid>
-            <pubDate>Thu, 14 Dec 2023 03:47:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【12月14日午间涨停分析】三大指数小幅上涨，国企改革概念股再掀涨停潮。苏州科达晋级6连板。博信股份、南宁百货、龙韵股份均走出4连板，一图看懂>>]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxxytz8216598.d.html</link>
-            <guid>3408839</guid>
-            <pubDate>Thu, 14 Dec 2023 03:46:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【哈尔滨冰雪大世界将于12月18日正式开园】“哈尔滨发布”消息，备受国内外游客关注和期盼的第二十五届哈尔滨冰雪大世界，确定将于2023年12月18日11:00正式开园迎客。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxxyty1438945.d.html</link>
-            <guid>3408838</guid>
-            <pubDate>Thu, 14 Dec 2023 03:45:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑日元USD/JPY失守141，为2023年7月来首次，日内跌幅1.34%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxxytw8868083.d.html</link>
-            <guid>3408837</guid>
-            <pubDate>Thu, 14 Dec 2023 03:45:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度10年期国债收益率跌5BP至7.21%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxxyuc1419523.d.html</link>
-            <guid>3408836</guid>
-            <pubDate>Thu, 14 Dec 2023 03:44:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今年1至10月中国电动大巴在韩国市占率逼近5成】韩国国土交通部和汽车数据研究机构Carisyou 12月14日发布的数据显示，今年1月至10月在韩售出的1874辆电动巴士中，中国产占比高达47%，总计876辆。中国电动巴士在韩国市占率于今年1月达到50%，2月至7月期间未能突破50%，8月则创下单月历史最高纪录，达到62%。9月和10月分别为51%和55%。按年度来看，中国电动巴士在韩国市场的份额从2021年的38%增长到2022年的42%，呈现逐年上升之势。今年在韩销量最高的中国电动巴士是海格客车推出的“Hypers”，共售出268辆。其次是比亚迪旗下的“E-BUS”（154辆）和恒天汽车生产的“EFFICITY”（131辆）。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxxyuc1419284.d.html</link>
-            <guid>3408835</guid>
-            <pubDate>Thu, 14 Dec 2023 03:43:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日经225指数日内跌幅达1.00%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxxyuc1419212.d.html</link>
-            <guid>3408834</guid>
-            <pubDate>Thu, 14 Dec 2023 03:43:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国商务部对进口自中国的豌豆蛋白作出反补贴肯定性初裁】据中国贸易救济信息网，12月12日，美国商务部宣布对进口自中国的豌豆蛋白（Pea Protein）作出反补贴肯定性初裁，初步裁定：烟台东方蛋白科技有限公司税率为16.46%、招远君邦商贸有限公司税率为15.09%、不合作企业税率为342.53%、其他出口商/生产商平均税率为15.78%。美国商务部预计将于2024年4月22日作出反补贴终裁。本案涉及国海关编码3504.00.1000、3504.00.5000和2106.10.0000项下产品。2023年8月2日，美国商务部对进口自中国的豌豆蛋白发起反倾销和反补贴调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxxytw8867409.d.html</link>
-            <guid>3408833</guid>
-            <pubDate>Thu, 14 Dec 2023 03:42:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拼多多海外版Temu在美国重启对Shein诉讼，称别无选择】中国跨境电商平台Temu在美国起诉快时尚竞争对手Shein，称其针对Temu的反竞争行为“愈演愈烈”，这重启了两公司之间的法律斗争。此前他们曾相互起诉，但后来撤销了诉讼。新的起诉书称：“Temu发现Shein的反竞争行为不仅持续存在，而且愈演愈烈。Shein持续且日益积极地使用反竞争行为、胁迫和威胁行为，因此有必要提起诉讼。”Temu的一名代表称，这一最新举措是由于Shein不断升级的反竞争行为。“他们的行为太夸张了；我们别无选择，只能起诉他们。”（环球市场播报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxxyuc1418671.d.html</link>
-            <guid>3408832</guid>
-            <pubDate>Thu, 14 Dec 2023 03:41:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三星电子今日起开全球战略会，讨论复合危机处置方案】12月14日起，结束年底人事调动和改组的三星电子召开全球战略会议，讨论明年工作计划，制定复合危机应对战略。三星电子全球战略会议每年于6月和12月举行两次，由国内外的高管级人员与会，共商各事业部门和各地区的事务，就次年工作目标和经营战略等协调意见。预计会议将讨论在全球经济不景气等不确定因素明年恐持续的情况下，如何打破复合危机的方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxxytw8867097.d.html</link>
-            <guid>3408831</guid>
-            <pubDate>Thu, 14 Dec 2023 03:41:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日元兑美元扩大涨幅至1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxxyty1437894.d.html</link>
-            <guid>3408830</guid>
-            <pubDate>Thu, 14 Dec 2023 03:40:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩总统：将积极支持韩国与荷兰深化核电项目合作】当地时间12月13日，正在荷兰访问的韩国总统尹锡悦在阿姆斯特丹出席韩荷工商论坛，强调两国半导体领域合作发展。尹锡悦表示，两国企业商定在韩国成立研发中心，两国研究生将一同学习高端技术，两国政府决定开设半导体对话渠道，韩荷半导体合作关系发展成为涵盖官产学合作的“半导体同盟”。他还说，两国在碳中和、无碳能源领域的合作潜力巨大，韩方将积极支持两国深化核电项目合作。论坛结束后，两国企业和机构共签署19份合作谅解备忘录和19份协议，涉及领域包括高端产业、无碳能源、物流、农业等。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxxyuc1418059.d.html</link>
-            <guid>3408829</guid>
-            <pubDate>Thu, 14 Dec 2023 03:39:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【每日人工智能动态汇总（2023-12-14）】
-1. 消息称阿里电商集中发力AI：淘天集团已设立4个团队，内部大模型取名“图灵”。
-2. OpenAI将向德国媒体巨头支付费用以使用内容。
-3. OpenAI宣布重新开放ChatGPT Plus订阅，已找到更多GPU。
-4. 谷歌宣布向云计算客户开放Gemini Pro，开发者可用其构建应用。
-5. 微软发文：27亿参数的Phi-2 AI模型性能优于谷歌32亿参数的Gemini Nano-2。
-6. 消息称Meta无视自家律师警告，使用盗版书籍训练AI模型。
-7. Mozilla推出Solo：借助AI帮助零编程用户创建网站。
-8. 谷歌高管：Gemini AI演示视频完全真实，为“简洁”而缩短部分内容。
-9. 谷歌推出AI代码辅助工具Duet AI for Developers，助力开发者提升效率。
-10. 百度文心一言插件商城上线，提供思维导图、视频助理等功能。
-11. 特斯拉人形机器人Optimus第二代将于12月发布。
-12. 北京互联网法院公开审理全国首例“AI声音侵权案”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxxytz8214622.d.html</link>
-            <guid>3408828</guid>
-            <pubDate>Thu, 14 Dec 2023 03:38:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【麦当劳已注册麦门商标】企查查APP显示，12月13日，麦当劳公司申请注册的一枚“麦门”商标已通过，国际分类为食品，另外三枚涉及餐饮住宿、方便食品、啤酒饮料类目商标已处于初审公告阶段。此前，继肯德基“疯四文学”之后，“麦门文学”火爆出圈，“麦门”意为“麦当劳忠实门徒”的简称。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxxyuc1417890.d.html</link>
-            <guid>3408827</guid>
-            <pubDate>Thu, 14 Dec 2023 03:38:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【肯尼亚明年1月起对全球游客免签】肯尼亚总统鲁托日前宣布，从明年1月起，肯尼亚将对全球游客取消签证要求。 鲁托表示，肯尼亚政府已开发一个数字平台，确保所有游客都能提前获得电子授权，而无需申请签证。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxxytz8214129.d.html</link>
-            <guid>3408826</guid>
-            <pubDate>Thu, 14 Dec 2023 03:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【OpenAI：ChatGPT网页端服务中断近一小时，目前已修复】当地时间12月13日晚，OpenAI在其网站上更新事故报告指出，在太平洋标准时间下午5:32至6:10，ChatGPT网页端服务出现间歇性中断，目前该故障已修复。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxxytw8866066.d.html</link>
-            <guid>3408825</guid>
-            <pubDate>Thu, 14 Dec 2023 03:36:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度10年期国债收益率降至自2017年11月以来的最低水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxxytw8864619.d.html</link>
-            <guid>3408824</guid>
-            <pubDate>Thu, 14 Dec 2023 03:32:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国债期货早盘收盘，30年期主力合约跌0.02%，10年期主力合约跌0.03%，5年期主力合约涨0.04%，2年期主力合约涨0.04%。]]></title>
-            <guid>3408823</guid>
-            <pubDate>Thu, 14 Dec 2023 03:32:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[科创50指数早盘收报862.84点，涨0.18%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxxytz8212236.d.html</link>
-            <guid>3408822</guid>
-            <pubDate>Thu, 14 Dec 2023 03:32:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沪指早盘收报2977.56点，涨0.30%。深成指早盘收报9498.37点，涨0.23%。创业板指早盘收报1875.68点，涨0.18%。]]></title>
-            <guid>3408821</guid>
-            <pubDate>Thu, 14 Dec 2023 03:32:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元/日元跌至141.71下方，创8月份来新低。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxxyty1434906.d.html</link>
-            <guid>3408820</guid>
-            <pubDate>Thu, 14 Dec 2023 03:32:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【午评：沪指半日涨0.3% 国企改革概念股持续活跃】12月14日消息，大盘早间冲高回落，三大指数均小幅上涨，创业板指、深成指盘初一度涨超1%。板块方面，国企改革概念股持续走强，上海凤凰、上海建科、中南文化、济南高新等超二十股集体封板。传媒、短剧概念股展开反弹，引力传媒、龙韵股份、遥望科技等涨停。零售、免税店概念股走强，岭南控股、南宁百货、御银股份涨停。物流板块大涨，瑞茂通、音飞储存、海程邦达涨停。下跌方面，MR概念股集体下挫，五方光电跌超8%。总体来看，个股涨多跌少，两市超3700股飘红。盘面上，物流、旅游、免税店板块涨幅居前，MR、中药、华为欧拉板块跌幅居前。]]></title>
-            <guid>3408819</guid>
-            <pubDate>Thu, 14 Dec 2023 03:32:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【五粮液：增持是基于对公司长期价值的认可 对市场前景有信心更有耐心】记者以投资者身份致电五粮液证券部。公司证券部工作人员表示，本次增持是基于对公司未来持续稳定发展的信心以及对公司长期价值的认可。此外，对于五粮液昨日股价下跌近4%，工作人员回应，是由于白酒板块昨日持续走弱，公司也受到一定影响。而被问及公司近期销售情况，工作人员表示，目前公司生产经营情况均正常。对于白酒市场的复苏前景，公司认为在白酒行业中，公司之间竞争将会加剧，同时行业有迎来调整期的趋势，行业集中度日趋加速。工作人员还表示，公司对市场前景抱有信心，但更重要的是保持耐心。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxxytw8862677.d.html</link>
-            <guid>3408794</guid>
-            <pubDate>Thu, 14 Dec 2023 03:26:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Tims天好咖啡将在良品铺子开设店中店】12月14日，连锁咖啡品牌Tim Hortons中国及炸鸡品牌Popeyes中国业务宣布与良品铺子达成战略合作。根据合作协议，双方将在部分良品铺子门店开设小型Tims Express（灵枫店），进一步拓展客群。据悉，Tims天好咖啡与良品铺子合作的首家门店在武汉开业，同时双方正在为更多融合店进行选址规划，今年预计会先在武汉开出3家门店。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxxytw8861949.d.html</link>
-            <guid>3408789</guid>
-            <pubDate>Thu, 14 Dec 2023 03:23:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【物流概念震荡拉升 瑞茂通、海程邦达涨停】物流概念震荡拉升，瑞茂通、海程邦达双双涨停，此前音飞储存涨停，龙洲股份、嘉诚国际、新宁物流等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-14/detail-imzxxyuc1413155.d.html</link>
-            <guid>3408786</guid>
-            <pubDate>Thu, 14 Dec 2023 03:23:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
