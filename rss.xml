@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 17 Dec 2023 16:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Dec 2023 17:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【媒体：加拿大料将宣布2035年全电动汽车销售政策】 据Toronto Star等媒体报道，加拿大政府料将批准相关制度，以要求所有在加拿大销售的新电动汽车到2035年要净零排放。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-18/detail-imzykcym1896403.d.html</link>
+            <guid>3413167</guid>
+            <pubDate>Sun, 17 Dec 2023 16:50:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【董宇辉升为东方甄选高级合伙人】12月18日凌晨消息，东方甄选刚刚发布了直播预告，董宇辉的身份变为“东方甄选高级合伙人”。此前，俞敏洪在直播中称，未来董宇辉一定会有话语权。（新浪科技）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-18/detail-imzykcyn4508368.d.html</link>
+            <guid>3413154</guid>
+            <pubDate>Sun, 17 Dec 2023 16:27:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国芝加哥联储主席Goolsbee：（美联储）宣布抗通胀胜利还言之过早。预计（美联储）已经在2023年“非常显著地”压低通胀。利率决定将取决于数据，将逐次会议地做决定。]]></title>
             <link>https://finance.sina.cn/7x24/2023-12-18/detail-imzyixsp2023442.d.html</link>
@@ -297,17 +309,6 @@
             <link>https://finance.sina.cn/7x24/2023-12-17/detail-imzyitkr2115452.d.html</link>
             <guid>3413025</guid>
             <pubDate>Sun, 17 Dec 2023 12:01:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【12月17日《新闻联播》主要内容】今天《新闻联播》主要内容有：1.习近平就科威特埃米尔纳瓦夫逝世向科威特新任埃米尔米沙勒致唁电 李强向科威特首相致唁电； 2.【改革不停顿 开放不止步——全面建设社会主义现代化国家迈出坚实步伐】奋力走好改革开放这条“必由之路”； 3.李强签署国务院令 公布《非银行支付机构监督管理条例》； 4.突出重点 把握关键 汇聚高质量发展强大合力——中央经济工作会议精神引发热烈反响； 5.人民日报评论员文章：切实增强做好经济工作的责任感使命感——论学习贯彻中央经济工作会议精神； 6.各地各部门细化防范措施 积极应对低温雨雪冰冻天气； 7.时刻把人民群众放在心上的好法官鲍卫忠； 8.全国医疗机构门急诊呼吸道疾病总诊疗量整体呈下降趋势； 9.国内联播快讯： （1）我国光伏制造业保持高位运行； （2）甘肃6000兆瓦调峰火电项目一期投产发电； （3）南极罗斯海新站主体工程建设全面启动； （4）中央财政三年累计投入超3.4亿元支持戏曲传承振兴； （5）中国第13批赴南苏丹（瓦乌）维和部队回国； 10.以军推进地面行动 哈马斯袭击以军据点： （1）伊斯兰合作组织谴责以军针对媒体工作者发动袭击； （2）胡塞武装称对以色列发动无人机袭击 美军舰在红海击落14架无人机； 11.俄称打击乌弹药库 乌称巩固第聂伯河左岸阵地 俄称欧盟迫于美国压力对俄制裁损害自身利益； 12.苏丹中部冲突激烈 部分地区实施宵禁。]]></title>
-            <guid>3413024</guid>
-            <pubDate>Sun, 17 Dec 2023 12:01:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[汤姆猫：推进三款AI应用产品研发，战略投资西湖心辰并成立人工智能科技有限公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-17/detail-imzyitkv4666449.d.html</link>
-            <guid>3413023</guid>
-            <pubDate>Sun, 17 Dec 2023 11:58:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
