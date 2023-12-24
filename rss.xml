@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 24 Dec 2023 15:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Dec 2023 17:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【中金海外：金融流动性还能支撑美股多久？】中金海外研究团队认为，美股当前的流动性压力不大，但明年二季度或再面临一定压力，除非美联储停止缩表。今年末美联储意外转向和美债利率快速下行吸引了市场所有目光，但实际上，金融流动性的变化也是左右美股市场走势、甚至决定美联储是否需要提前降息的一个关键力量。https://finance.sina.com.cn/roll/2023-12-24/doc-imzzckxv4052582.shtml]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-25/detail-imzzcvpr3828982.d.html</link>
+            <guid>3423738</guid>
+            <pubDate>Sun, 24 Dec 2023 16:05:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【外媒：以军遭遇“伤亡最惨重周末”，有14名以军士兵在加沙战斗中死亡】据《以色列时报》12月24日报道，以色列总理内塔尼亚胡在当天的内阁会议上表示，“我们经历了艰难的一天”，“这场战争让我们付出了高昂的代价，但我们别无选择，只能继续战斗。”《以色列时报》报道称，以色列军方24日表示，在这个周末，有14名士兵在加沙的战斗中死亡，而以军10月27日对加沙发动地面进攻以来，以军死亡的士兵人数已达到153人。美联社在报道中指出，本周末是10月27日以来，以军伤亡最惨重的一个周末。(环球网)]]></title>
             <guid>3423737</guid>
@@ -312,17 +318,6 @@
             <link>https://finance.sina.cn/7x24/2023-12-24/detail-imzzckxs4291818.d.html</link>
             <guid>3423690</guid>
             <pubDate>Sun, 24 Dec 2023 10:36:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【弘信电子：拟设立控股子公司上海燧弘 促进AI算力服务器产业发展】弘信电子公告，为进一步调动公司经营管理团队、核心骨干的积极性，更好地促进公司AI算力服务器产业的发展，公司与上海沪弘智创企业管理合伙企业（有限合伙）（简称“上海沪弘”）共同设立上海燧弘华创科技有限公司（简称“上海燧弘”）。上海燧弘注册资本1亿元，其中公司认缴出资6000万元，持股60%。公司董事李强、宋钦、李震、陈素真、公司高管人员周江波分别持有上海沪弘52.5%、2.5%、2.50%、2.5%、2.5%的出资份额，且李强担任执行事务合伙人及普通合伙人。]]></title>
-            <guid>3423689</guid>
-            <pubDate>Sun, 24 Dec 2023 10:32:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以色列民众呼吁政府确保以方被扣押人员获释】日前，以色列军队在加沙地带误杀3名以色列被扣押人员后，舆论一片哗然。以色列民众更是举行抗议示威，要求政府重新与哈马斯就释放人质进行谈判的呼声高涨。当地时间23日，大批特拉维夫民众再次走上街头，呼吁以色列政府确保仍被扣押的以色列人员安全获释。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-24/detail-imzzckxw1825691.d.html</link>
-            <guid>3423688</guid>
-            <pubDate>Sun, 24 Dec 2023 10:31:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
