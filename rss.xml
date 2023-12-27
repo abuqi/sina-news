@@ -4,11 +4,120 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Wed, 27 Dec 2023 21:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Dec 2023 22:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：苹果将于今日重新开始在其官方零售店销售之前被禁售的系列智能手表，明日开始消费者可以在网上购买。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-28/detail-imzzpiwm7228178.d.html</link>
+            <guid>3427985</guid>
+            <pubDate>Wed, 27 Dec 2023 22:13:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本将于明年2月15日进行第二次H3火箭的发射。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-28/detail-imzzpiwc7899875.d.html</link>
+            <guid>3427984</guid>
+            <pubDate>Wed, 27 Dec 2023 22:11:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美联储明年2月降息的概率为18.6%】据CME“美联储观察”：美联储明年2月维持利率在5.25%-5.50%区间不变的概率为81.4%，降息25个基点的概率为18.6%。到明年3月维持利率不变的概率为9.8%，累计降息25个基点的概率为73.9%，累计降息50个基点的概率为16.4%。]]></title>
+            <guid>3427983</guid>
+            <pubDate>Wed, 27 Dec 2023 22:06:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【离岸人民币兑美元较周二纽约尾盘跌104点】离岸人民币（CNH）兑美元北京时间05:59报7.1527元，较周二纽约尾盘跌104点，盘中整体交投于7.1415-7.1607元区间。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-28/detail-imzzpcqn4496198.d.html</link>
+            <guid>3427982</guid>
+            <pubDate>Wed, 27 Dec 2023 22:06:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【纳指期货周三涨0.3%，WTI原油跌2.3%，纽约期金涨超0.9%上探2090美元】 周三（12月27日）纽约尾盘，标普500股指期货最终上涨0.22%，道指期货涨0.31%，纳斯达克100股指期货涨0.31%。罗素2000股指期货跌0.01%。WTI原油期货跌2.29%，报73.84美元/桶。COMEX黄金期货涨0.94%，报2089.30美元/盎司；COMEX白银期货涨0.62%。]]></title>
+            <guid>3427981</guid>
+            <pubDate>Wed, 27 Dec 2023 22:02:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【ICE美元指数跌超0.5%，逼近100点关口，瑞郎涨超1.2%】 周三（12月27日）纽约尾盘，ICE美元指数下跌0.52%，报100.941点，日内交投区间为101.574-100.832点，逼近7月27日底部100.551点、100点整数位心理关口、以及7月19日底部99.925点。彭博美元指数下跌0.39%，报1210.82点，日内交投区间为1216.64-1210.07点。美元兑日元下跌0.41%，报141.82点。欧元兑美元涨0.59%，英镑兑美元涨0.62%，美元兑瑞郎跌1.25%、欧元兑瑞郎跌0.68%；商品货币对中，澳元兑美元涨0.35%，纽元兑美元涨0.22%，美元兑加元涨0.06%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-28/detail-imzzpcqf8028667.d.html</link>
+            <guid>3427980</guid>
+            <pubDate>Wed, 27 Dec 2023 22:01:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【西班牙首相桑切斯访问伊拉克】据伊拉克总理媒体办公室当地时间12月27日晚间声明，西班牙首相桑切斯当晚抵达伊拉克首都巴格达，开始对伊拉克进行正式访问。伊拉克总理苏达尼将于28日与桑切斯举行正式会晤。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-28/detail-imzzpcqk7715434.d.html</link>
+            <guid>3427979</guid>
+            <pubDate>Wed, 27 Dec 2023 21:46:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【12月27日美股成交额前20：特斯拉料将再创电动汽车交付新纪录】周三美股成交额第1名特斯拉收高1.89%，成交276.23亿美元。据报道，特斯拉预计将再次创下电动汽车交付量新纪录，但可能会低于CEO马斯克今年年初提出的雄心勃勃的200万辆的内部年度目标。面对销售放缓，特斯拉在2023年利用其行业领先的利润率，在全球范围内大幅下调了四款车型的价格。CFRA Research高级分析师Garrett Nelson表示：“特斯拉四季度交付量通常是一年里最高的，预计今年也同样如此。”https://cj.sina.cn/article/norm_detail?url=https://finance.sina.com.cn/stock/usstock/c/2023-12-28/doc-imzzpcqk7715309.shtml]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-28/detail-imzzpcqk7715331.d.html</link>
+            <guid>3427978</guid>
+            <pubDate>Wed, 27 Dec 2023 21:44:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽交所ARCA钢铁指数收涨0.45%，报2256.57点，最近四个交易日累计上涨3.07%，不断逼近2008年8月1日收盘位2287.02点。]]></title>
+            <guid>3427977</guid>
+            <pubDate>Wed, 27 Dec 2023 21:40:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西圣保罗证交所指数收涨0.49%，报13.4万点，连续四个交易日创收盘历史新高。巴西雷亚尔兑美元目前跌0.25%，暂报4.8329雷亚尔，美股盘前一度涨至4.8039雷亚尔，继续逼近4.8雷亚尔关口和8月2日盘中最高位4.7823雷亚尔。]]></title>
+            <guid>3427976</guid>
+            <pubDate>Wed, 27 Dec 2023 21:38:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国总统拜登将于1月6日前往宾夕法尼亚。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-28/detail-imzzpcqf8026571.d.html</link>
+            <guid>3427975</guid>
+            <pubDate>Wed, 27 Dec 2023 21:33:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至12月22日当周API原油库存增加183.7万桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-28/detail-imzzpcqk7714605.d.html</link>
+            <guid>3427974</guid>
+            <pubDate>Wed, 27 Dec 2023 21:33:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[智利化学矿业公司（SQM）ADR美股盘后上涨3.3%，该公司与智利国家铜业公司（Codelco）就一个锂矿达成谅解备忘录。]]></title>
+            <guid>3427973</guid>
+            <pubDate>Wed, 27 Dec 2023 21:32:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国大类资产ETF多数收涨】 美国国债20+年ETF涨1.77%，美国投资级公司债ETF涨0.93%，美国国债7-20年ETF涨0.78%，欧元做多涨0.60%，新兴市场ETF涨0.58%，日元做多涨0.52%。美国房地产ETF、通胀债券指数ETF、黄金ETF-SPDR、巴克莱美国可转债ETF、美国高收益债ETF、免AMT税市政债ETF、罗素2000指数ETF及道指ETF各涨至少0.3%。而缺煤指数ETF跌4.32%，美国布伦特油价基金跌1.47%，做多美元指数跌0.52%。]]></title>
+            <guid>3427972</guid>
+            <pubDate>Wed, 27 Dec 2023 21:32:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新疆哈密市伊州区发生3.0级地震 震源深度10千米】中国地震台网正式测定：12月28日05时15分在新疆哈密市伊州区（北纬43.09度，东经94.21度）发生3.0级地震，震源深度10千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-28/detail-imzzpcqp7354534.d.html</link>
+            <guid>3427967</guid>
+            <pubDate>Wed, 27 Dec 2023 21:28:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特斯拉收涨将近1.9%】 特斯拉（TSLA）收涨1.88%，报261.44美元，继续逼近10月11日收盘位262.99美元。
+
+“越南特斯拉”VinFast Auto（VFS）收涨1.19%，“特斯拉劲敌”Rivian（RIVN）收涨0.59%，Lucid集团（LCID）收跌0.46%，初创公司Fisker（FSR）收平，Nikola（NKLA）收涨0.56%。二手车电商平台Carvana（CVNA）收涨1.55%，报54.39美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-28/detail-imzzpcqf8026341.d.html</link>
+            <guid>3427966</guid>
+            <pubDate>Wed, 27 Dec 2023 21:27:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美密歇根州最高法院驳回特朗普不具备明年总统选举党内初选资格的上诉】据美媒报道，美国密歇根州最高法院27日裁定驳回有关美国前总统特朗普在密歇根州不具备2024年美国总统选举党内初选资格的上诉。密歇根州最高法院当天发布简短裁决说，法官们“不认为该上诉提出的问题应由本法院审查”。这一裁定维持了密歇根州两个下级法院此前的裁决结果。特朗普在密歇根州最高法院裁决发布后发表声明说，密歇根州最高法院挫败了民主党人将其从2024年总统选举选票上除名的企图。而原告律师、密歇根州民主党前主席马克·布鲁尔说，如果特朗普赢得共和党总统候选人提名，他的客户将重新审视这个案子。（新华社）]]></title>
+            <guid>3427965</guid>
+            <pubDate>Wed, 27 Dec 2023 21:25:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股行业ETF涨跌互现】 生物科技指数ETF涨1.36%，日常消费品ETF涨0.46%，医疗业ETF涨0.42%，可选消费ETF涨0.34%，金融业ETF涨0.32%。能源业ETF跌0.44%，全球航空业ETF跌0.26%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-28/detail-imzzpcqp7354418.d.html</link>
+            <guid>3427963</guid>
+            <pubDate>Wed, 27 Dec 2023 21:24:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富时A50期指连续夜盘收跌0.10%，报11216.000点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-28/detail-imzzpcqp7354149.d.html</link>
+            <guid>3427957</guid>
+            <pubDate>Wed, 27 Dec 2023 21:19:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【新能源汽车行业洗牌有望加速】 在12月27日举行的中国电动汽车百人会论坛媒体沟通会上，中国电动汽车百人会副理事长兼秘书长张永伟表示，我国新能源汽车市场仍会保持高速增长态势，预计2023年中国新能源汽车销量900万辆，2024年有望达到1300万辆，渗透率将超过40%。同时，新能源汽车行业会加速洗牌。张永伟表示，新能源汽车产业将愈发“内卷”，新车型迭代周期将缩短。汽车产品生命周期缩短，同时汽车与ICT产业融合速度将进一步加快。对于车企而言，2024年将是大浪淘沙的关键时期，行业洗牌会加速，有的企业获得成长机会，有的企业日子会更加难过。（中证报）]]></title>
             <link>https://finance.sina.cn/7x24/2023-12-28/detail-imzzpcqp7354022.d.html</link>
@@ -54,13 +163,14 @@
             <pubDate>Wed, 27 Dec 2023 21:01:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【热门中概股涨跌不一 理想汽车涨超3%】热门中概股涨跌不一，理想汽车涨超3%，唯品会涨超1%，爱奇艺、微博、京东、阿里巴巴、富途控股小幅上涨。网易跌5%，小鹏汽车、蔚来跌超2%，哔哩哔哩、拼多多、腾讯音乐、百度小幅下跌。]]></title>
+            <title><![CDATA[【热门中概股涨跌不一 理想汽车涨超3%】热门中概股涨跌不一，纳斯达克金龙指数涨0.02%。理想汽车涨超3%，满帮涨超2%，唯品会涨超1%，爱奇艺、微博、京东、阿里巴巴、富途控股小幅上涨。网易跌近5%，小鹏汽车、蔚来跌超2%，哔哩哔哩、拼多多、腾讯音乐、百度小幅下跌。]]></title>
             <link>https://finance.sina.cn/7x24/2023-12-28/detail-imzzpcqp7353444.d.html</link>
             <guid>3427939</guid>
             <pubDate>Wed, 27 Dec 2023 21:01:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美股三大指数均小幅收涨，道指涨0.31%，再创历史收盘新高；纳指涨0.16%，标普500指数涨0.14%。]]></title>
+            <title><![CDATA[【美股三大指数均小幅收涨 道指再创历史收盘新高】美股三大指数均小幅收涨，道指涨0.3%，再创历史收盘新高；纳指涨0.16%，标普500指数涨0.14%。大型科技股涨跌不一，特斯拉涨超1%，英伟达、苹果、奈飞、Meta小幅上涨；微软、谷歌、亚马逊小幅下跌。数字货币概念股大幅上涨，MicroStrategy涨超11%，Coinbase涨超7%。Coherus Biosciences涨超23%，Udenyca注射器获FDA批准。Masimo跌超4.5%，消息面上，美国上诉法院暂停对苹果手表的进口禁令。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-28/detail-imzzpcqf8025245.d.html</link>
             <guid>3427938</guid>
             <pubDate>Wed, 27 Dec 2023 21:00:19 GMT</pubDate>
         </item>
@@ -179,118 +289,6 @@
             <link>https://finance.sina.cn/7x24/2023-12-28/detail-imzznxhn7836428.d.html</link>
             <guid>3427877</guid>
             <pubDate>Wed, 27 Dec 2023 19:40:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国债收益率扩大跌幅，5年期至30年期美债收益率下跌至少10个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-28/detail-imzznxhn7836396.d.html</link>
-            <guid>3427876</guid>
-            <pubDate>Wed, 27 Dec 2023 19:40:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NYMEX 1月天然气期货收涨2.71%，报2.6190美元/百万英热单位。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-28/detail-imzznxhn7835792.d.html</link>
-            <guid>3427870</guid>
-            <pubDate>Wed, 27 Dec 2023 19:35:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI 2月原油期货收跌1.46美元，跌幅1.93%，报74.11美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-28/detail-imzznxhi8151100.d.html</link>
-            <guid>3427869</guid>
-            <pubDate>Wed, 27 Dec 2023 19:35:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西财政部长：预计2023年主要财政赤字将达到1250亿雷亚尔，相当于国内生产总值的1.2%。]]></title>
-            <guid>3427868</guid>
-            <pubDate>Wed, 27 Dec 2023 19:35:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑日元USD/JPY日内跌幅达0.50%，现报141.76。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-28/detail-imzznxhn7835403.d.html</link>
-            <guid>3427867</guid>
-            <pubDate>Wed, 27 Dec 2023 19:33:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【红利ETF持续“吸金”，机构看好高息资产】 据统计，年初以来多只红利ETF份额大幅提升，与此同时，还有多只红利指数产品相继成立，并有更多新产品密集申报。多家内外资机构谈及明年投资策略时表示，在当前市场环境下，高息资产具备较好的防御属性和配置价值，未来仍有进一步上涨的空间。公募基金也在积极布局红利指数产品线，1月以来有多只红利策略指数基金密集申报发行。谈及明年的投资策略，路博迈基金副总经理、权益投资总监魏晓雪表示，仍然看好高股息标的的投资价值：方面，明年利率仍有下行预期；另一方面，经过供给侧改革，当前高股息标的所在行业竞争格局较好，利润稳定性更强。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-28/detail-imzznxhi8150906.d.html</link>
-            <guid>3427866</guid>
-            <pubDate>Wed, 27 Dec 2023 19:33:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【资本市场退市提质：加速优胜劣汰、坚持“一退到底”】 截至12月27日，2023年以来共有45家A股公司退市摘牌（43家为强制退市），创出中国资本市场年度退市公司数量新高。整体来看这一年的退市监管趋势，23家公司触发“1元退市”；交叉适应的财务类退市指标同步发力，严厉打击恶意规避退市行为；监管“零容忍”下，一批重大违法强制退市公司出清市场。新一轮退市制度改革执行三年以来，市场化、法治化、常态化的退出机制，精准识别了“空壳僵尸”、严厉打击了规避退市、加速出清了“害群之马”，逐渐形成全面注册制下有进有出、优胜劣汰的市场生态。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-28/detail-imzznxhi8150338.d.html</link>
-            <guid>3427860</guid>
-            <pubDate>Wed, 27 Dec 2023 19:25:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI原油日内跌幅达2%，报74.01美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-28/detail-imzznxhi8149667.d.html</link>
-            <guid>3427859</guid>
-            <pubDate>Wed, 27 Dec 2023 19:15:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印尼东努沙登加拉省发生5.1级地震】据印尼气象、气候和地球物理局消息，当地时间12月28日1时52分，印尼东努沙登加拉省发生5.1级地震，震源深度32千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-28/detail-imzznxhn7832867.d.html</link>
-            <guid>3427858</guid>
-            <pubDate>Wed, 27 Dec 2023 19:14:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以军称炸毁加沙地带兰蒂西医院附近隧道竖井】据以色列国防军当地时间12月27日消息，以军使用炸药摧毁了加沙地带北部兰蒂西医院和附近一所学校地下及周围长达数公里的三个隧道竖井网络。其中一些隧道竖井深达数十米，该学校下方的隧道深达20米，包括一部电梯和电力连接系统，具备作为指挥中心使用的能力。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-28/detail-imzznxhq4609604.d.html</link>
-            <guid>3427857</guid>
-            <pubDate>Wed, 27 Dec 2023 19:10:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COMEX 2月黄金期货结算价收涨1.13%，报2093.1美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-28/detail-imzznxhr7477321.d.html</link>
-            <guid>3427856</guid>
-            <pubDate>Wed, 27 Dec 2023 19:08:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【部分中小银行逆市上调存款利率，自主定价能力需提升】 近日，商业银行的“头尾”机构迎来两拨相反的动作：一边是国有大行、股份制银行集体下调人民币挂牌存款利率，下调幅度多在10至25个基点；另一边却是部分农商银行、村镇银行逆市上调存款利率，上调幅度多在5至15个基点。实际上，为应对年末收官和年初“开门红”，中小银行临时上调存款利率是“揽储”的常规行为。利率市场化给资本实力不足的中小银行的经营管理带来压力。在利率市场化大浪潮下，中小银行应将自律机制要求融入自身利率定价管理体系中，在新机制下逐渐提升自主定价能力。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-28/detail-imzznxhq4608795.d.html</link>
-            <guid>3427855</guid>
-            <pubDate>Wed, 27 Dec 2023 19:04:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苏丹快速支援部队领导人访问乌干达】当地时间12月27日，苏丹快速支援部队领导人达加洛访问乌干达，并与乌干达总统穆塞韦尼举行会谈，双方重点就苏丹武装冲突的最新进展进行了讨论。达加洛当天在社交媒体发文表示，他在与穆塞韦尼的会谈中强调，苏丹快速支援部队致力于通过谈判结束苏丹武装冲突，将继续遵守东非政府间发展组织（伊加特）苏丹问题特别峰会的有关决议，履行承诺，以结束战争，恢复苏丹的安全稳定。穆塞韦尼在会谈中表示，乌干达支持苏丹人民，支持实现苏丹和平与稳定的努力。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-28/detail-imzznxhr7477037.d.html</link>
-            <guid>3427854</guid>
-            <pubDate>Wed, 27 Dec 2023 19:04:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在岸人民币兑美元北京时间03:00收报7.1440，较上一交易日夜盘收盘跌15点。成交量339.68亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-28/detail-imzznxhn7831438.d.html</link>
-            <guid>3427853</guid>
-            <pubDate>Wed, 27 Dec 2023 19:04:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纽约商品交易所黄金期货市场交投最活跃的2024年2月黄金期价27日比前一交易日上涨23.3美元，收于每盎司2093.1美元，涨幅为1.13%。]]></title>
-            <guid>3427852</guid>
-            <pubDate>Wed, 27 Dec 2023 19:03:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：美国将向乌克兰提供高达2000万美元的援助。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-28/detail-imzznxhn7831263.d.html</link>
-            <guid>3427851</guid>
-            <pubDate>Wed, 27 Dec 2023 19:02:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恒指期货夜盘收跌0.17%，报16733点，高水108点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-28/detail-imzznxhn7831169.d.html</link>
-            <guid>3427850</guid>
-            <pubDate>Wed, 27 Dec 2023 19:01:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以空军参谋长称在加沙的空袭“有针对性”】 以色列空军参谋长蒂施勒12月27日说，自10月7日本轮巴以冲突爆发以来，以军在加沙地带进行的空袭是“精确的、有针对性”的打击。在当天以视频方式举行的新闻发布会上，蒂施勒在回应“以军在加沙地带的空袭不分青红皂白”的说法时说，以军在进行空袭前会基于流程对每个目标进行确认，以空军的作战原则包括根据情报及近距离军事打击的必要性开展行动，尽量在平民人数最少的区域进行打击，选择正确的弹药以尽量减少附带损害，在打击过程中对目标区域进行实时监控等。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-28/detail-imzznxhr7476001.d.html</link>
-            <guid>3427848</guid>
-            <pubDate>Wed, 27 Dec 2023 18:52:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国5年期国债中标收益率低于发行前交易水平】美国财政部发行580亿美元5年期国债中标收益率报3.801%，为5月份以来的最低水平，美国东部时间下午1点投标截止时的发行前交易水平3.815%。临近投标截止时的债券上涨推动该期限收益率下降7个基点。在投标结果公布后，收益率延续跌势，7-10年期收益率当日下跌10个基点。一级交易商获配14%，低于之前一次；间接投标人获配比例升至70.6%；直接投标人获配比例降至15.4%；投标倍数2.50倍，与前六次的均值一致。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-28/detail-imzznxhq4605485.d.html</link>
-            <guid>3427847</guid>
-            <pubDate>Wed, 27 Dec 2023 18:40:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
