@@ -4,11 +4,29 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 30 Dec 2023 18:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Dec 2023 19:13:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【2023年证券公司投行业务质量评价结果出炉 12家券商获评A类】12月30日，中国证券业协会公布2023年证券公司投行业务质量评价结果，评价结果分为A、B、C三类。其中，中信证券、中金公司等12家券商为A类，渤海证券等67家为B类，川财证券等19家为C类。（一财）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-31/detail-imzzvutm4108517.d.html</link>
+            <guid>3431919</guid>
+            <pubDate>Sat, 30 Dec 2023 19:03:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【元旦假期首日广铁预计发送244.5万人次 同比增长156.5%】记者从广铁集团获悉，12月30日，广铁进入元旦假期运输高峰期，当日预计发送旅客244.5万人次，较2022年增加149.2万人次、增长156.5%，较2021年增加83.6万人次、增长52%，是2019年的140.3%。开行旅客列车1459对（动车组列车1277.5对、普速列车181.5对），其中加开列车63对，最大程度满足旅客出行需求。（羊城晚报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-31/detail-imzzvuts8379100.d.html</link>
+            <guid>3431911</guid>
+            <pubDate>Sat, 30 Dec 2023 18:49:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【积石山6.2级地震最后两名失联人员已找到】记者从海东市民和县地震救灾现场了解到，12月31日凌晨1点16分，积石山6.2级地震中最后2名失联人员已被找到，加上之前已确认遇难的32人，此次地震已造成青海海东市34人遇难。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-31/detail-imzzvuts8376920.d.html</link>
+            <guid>3431905</guid>
+            <pubDate>Sat, 30 Dec 2023 18:34:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【以军称又有2名以军士兵在加沙地带军事行动中身亡】当地时间12月30日，以色列国防军发表声明称，又有2名以军士兵当天在加沙地带的军事行动中身亡，另有多名士兵伤势严重。据《以色列时报》截至30日的统计，自以色列发动地面军事行动以来，已有170名以军士兵在加沙地带身亡。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2023-12-31/detail-imzzvqmt1728387.d.html</link>
@@ -297,24 +315,6 @@
             <link>https://finance.sina.cn/7x24/2023-12-30/detail-imzzvcvy8727339.d.html</link>
             <guid>3431828</guid>
             <pubDate>Sat, 30 Dec 2023 13:14:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【吉布提外长：苏丹冲突双方领导人会晤将于下周举行】当地时间12月30日，吉布提外交与国际合作部长优素福在社交媒体发文表示，吉布提作为东非政府间发展组织（伊加特）现任主席国，将在下周主办苏丹冲突双方领导人会晤。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-30/detail-imzzvcvu2241485.d.html</link>
-            <guid>3431823</guid>
-            <pubDate>Sat, 30 Dec 2023 13:11:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【申菱环境：公司各主要业务板块均呈现较好发展态势】申菱环境12月30日在互动平台回复投资者提问时表示，公司当前经营情况良好，各主要业务板块均呈现较好发展态势。此外，公司表示，液冷是公司重要技术路线，下游应用场景和客户类型持续拓展；与此同时，公司通过建设新液冷基地等举措进一步加大研发和产能投入，以适应市场未来发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-30/detail-imzzvcvt4460769.d.html</link>
-            <guid>3431822</guid>
-            <pubDate>Sat, 30 Dec 2023 13:11:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄防空系统一天击落35架乌无人机】据俄罗斯国防部新闻处30日通报，过去一天内，俄防空系统击落35架乌克兰无人机。防空武器拦截了15枚海马斯和桤木火箭弹，以及3枚高速反辐射导弹（HARM）。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-30/detail-imzzvcvt4457415.d.html</link>
-            <guid>3431803</guid>
-            <pubDate>Sat, 30 Dec 2023 12:49:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
