@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 31 Dec 2023 17:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Dec 2023 18:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【国家电投掌门人钱智民卸任】执掌国家电力投资集团近六年后，钱智民低调卸任。12月18日，中国电力建设企业协会在京组织召开中国电力建设发展战略指导专家座谈会。钱智民以第十四届全国政协委员、常委，人口资源环境委员会副主任，国家电投原董事长、党组书记身份出席会议并发言。12月29日，央视财经智库举办聘书颁发仪式，介绍钱智民作为首批特聘专家职务为第十四届全国政协常委、人口资源环境委员会副主任。这意味着钱智民已从国家电投董事长、党组书记的职务卸任。截至发稿，国家电投尚未宣布董事长继任者，其官方网站董事会和集团领导页面显示维护状态。公开资料显示，今年3月，钱智民当选为政协十四届全国委员会常务委员，并担任全国政协人口环境资源委员会副主任。（界面）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-01/detail-imzzxxss7256660.d.html</link>
+            <guid>3432314</guid>
+            <pubDate>Sun, 31 Dec 2023 17:46:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【罗振宇跨年发布得到新商学App与两本新书】1月1日凌晨，罗振宇在得到App出品的2024“时间的朋友”跨年演讲中，在活动现场首发两本新书：经济学者何帆的《变量6：宏观世界奇遇记》与金融学者香帅的《钱从哪里来5：微利社会》，除了两本新书，罗振宇还在本次跨年演讲中首发了一款知识服务产品：得到新商学App。罗振宇表示：“所有的创业者，在内心深处都面临着同样的问题，那就是孤独。”罗振宇说，得到新商学其实是在陪创业者“打两场仗”，“一场是打败心理上的孤独，一场是赢得生意上的成功。”（新浪科技）]]></title>
             <link>https://finance.sina.cn/7x24/2024-01-01/detail-imzzxtkp3122965.d.html</link>
@@ -270,12 +276,6 @@
             <link>https://finance.sina.cn/7x24/2023-12-31/detail-imzzxapa7713398.d.html</link>
             <guid>3432262</guid>
             <pubDate>Sun, 31 Dec 2023 09:50:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【运达股份首台陆上10MW智能风电机组下线】12月29日，运达股份首台陆上10MW智能风电机组顺利下线，引领我国陆上风电机组研制开发迈上新台阶。截至目前，运达股份陆上10MW智能风电机组已在内蒙古、新疆、甘肃、山东多地斩获超3GW订单，即将于明年1月完成样机首吊。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-31/detail-imzzxanz0934006.d.html</link>
-            <guid>3432261</guid>
-            <pubDate>Sun, 31 Dec 2023 09:36:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
