@@ -4,11 +4,28 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Mon, 01 Jan 2024 21:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jan 2024 22:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【专家：阿根廷拒绝加入对金砖没有实质影响】2023年底，阿根廷新总统米莱向金砖国家领导人致信，正式决定拒绝加入金砖国家。米莱在信中称，阿根廷当前加入金砖的时机“并不合适”。中国社科院拉美所阿根廷研究中心秘书长林华认为，目前来看，阿根廷的拒绝加入对金砖没有实质性的影响。实际上今年8月金砖宣布扩员，只是对包括阿根廷在内的6个国家发出了邀请。现在有意加入金砖的国家很多，阿根廷的“反悔”会产生象征意义上的影响，那就是在拒绝加入金砖方面开了先河，带了个“坏头”。林华表示，米莱政府拒绝加入金砖是一种“选边站”的做法，是美国所乐见的。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-02/detail-inaaapfp8743215.d.html</link>
+            <guid>3433630</guid>
+            <pubDate>Mon, 01 Jan 2024 22:13:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美联储2月降息的概率为15.5%】据CME“美联储观察”：美联储2月维持利率在5.25%-5.50%区间不变的概率为84.5%，降息25个基点的概率为15.5%。到明年3月维持利率不变的概率为13.5%，累计降息25个基点的概率为73.5%，累计降息50个基点的概率为13.0%。]]></title>
+            <guid>3433608</guid>
+            <pubDate>Mon, 01 Jan 2024 22:03:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日本石川县能登半岛附近海域发生3.0级地震】据日本朝日电视台1月2日消息，当地时间当天6时13分左右，石川县能登半岛附近海域发生3.0级地震，最大震感为震度3，震源深度10公里。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-02/detail-inaaapff9412317.d.html</link>
+            <guid>3433473</guid>
+            <pubDate>Mon, 01 Jan 2024 21:29:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【以议会批准外长与能源部长岗位互换】以色列议会1日批准以色列外长与能源部长岗位互换，伊斯拉埃尔·卡茨出任外长，埃利·科亨担任能源部长。据以色列媒体报道，根据本届政府宣誓就职时达成的共享权力协议，卡茨和科亨将分别担任这两个职务2年，2026年他们将再次互换岗位。以色列政府去年12月31日批准了这一任命，并同意科亨继续担任安全内阁成员。（新华社）]]></title>
             <guid>3433417</guid>
@@ -275,22 +292,6 @@
             <link>https://finance.sina.cn/7x24/2024-01-01/detail-imzzzwiv9102441.d.html</link>
             <guid>3433186</guid>
             <pubDate>Mon, 01 Jan 2024 15:00:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本首相岸田文雄：将于格林尼治标准时间周二00:15（北京时间8:15）召集政府工作组会议。]]></title>
-            <guid>3433184</guid>
-            <pubDate>Mon, 01 Jan 2024 14:54:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【下周将有64股限售解禁，合计解禁市值1214.89亿元】下周将有64股限售解禁，按照最新收盘价计算，合计解禁市值1214.89亿元。寒武纪-U、神州细胞-U、佰维存储、中瓷电子、君实生物-U解禁市值居前，均超百亿元。从解禁比例来看，5股解禁比例较大，均超50%，其中神州细胞-U的解禁股数量占总股本比例最大，达77.22%；奥普特的解禁比例也超70%。相比之下，昊海生科、长安汽车、伯特利、厦门象屿、联赢激光等13股的解禁比例较小，均不到1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-01/detail-imzzzwis9475084.d.html</link>
-            <guid>3433183</guid>
-            <pubDate>Mon, 01 Jan 2024 14:52:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本首相岸田文雄：将于格林尼治标准时间周二00:15（北京时间8:15）召集政府工作组会议。]]></title>
-            <guid>3433182</guid>
-            <pubDate>Mon, 01 Jan 2024 14:51:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
