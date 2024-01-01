@@ -4,22 +4,67 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Mon, 01 Jan 2024 12:31:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jan 2024 13:19:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【天娱数科：算力和数据要素业务尚处于立项阶段，尚未贡献营业收入】天娱数科日前在路演活动时表示，目前，公司虚拟数字人业务尚处于投入发展期，尚未实现盈利；算力和数据要素业务尚处于立项阶段，尚未贡献营业收入，后续业务的推进存在不确定性。]]></title>
+            <guid>3433159</guid>
+            <pubDate>Mon, 01 Jan 2024 13:12:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【西贝公布2023年业绩：营收62亿元】1月1日，西贝餐饮董事长贾国龙发布了新年贺词，其中表示，2023年，西贝莜面村大众点评“五星门店”从年初的95家增长至149家，增长了57%，全年接待了3766万人次顾客进店就餐，儿童客流超640万人次。2023年西贝餐饮集团整体营收超62亿元，创历史新高。在内部信中，贾国龙透露，2023年西贝旗下零售品牌“西贝功夫菜”整体零售端收入超3.4亿，2024年西贝功夫菜将聚焦杂粮主食赛道，创造新的突破。（新浪科技）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-01/detail-imzzzrzx9213739.d.html</link>
+            <guid>3433158</guid>
+            <pubDate>Mon, 01 Jan 2024 12:58:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日本震中两处观测点无法获取海啸数据】日本气象厅称，石川县能登强震发生后，“无法获取石川县珠洲市一处海啸观测点的数据，轮岛港的观测点在观测到1.2米高的海啸后，再也无法获得数据，存在浪高更高的海啸已经到达的可能性”。日本气象厅正在调查无法获取数据的原因。（CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-01/detail-imzzzrzu9587884.d.html</link>
+            <guid>3433157</guid>
+            <pubDate>Mon, 01 Jan 2024 12:53:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【天娱数科：算力和数据要素业务尚处于立项阶段，尚未贡献营业收入】天娱数科日前在路演活动时表示，目前，公司虚拟数字人业务尚处于投入发展期，尚未实现盈利；算力和数据要素业务尚处于立项阶段，尚未贡献营业收入，后续业务的推进存在不确定性。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-01/detail-imzzzrzw6365079.d.html</link>
+            <guid>3433156</guid>
+            <pubDate>Mon, 01 Jan 2024 12:53:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【普京最新表态：将加大对乌打击力度，任何针对平民的罪行都将受到惩罚】据法新社1月1日最新消息，俄罗斯总统普京当天表示，俄方将加大对乌克兰军事目标的打击力度。报道提到，上周末，俄城市别尔哥罗德曾遭遇“前所未有的攻击”。“我们将加大打击力度，任何针对平民的犯罪行为都将受到惩罚，这是肯定的。”普京在一家军事医院访问时表示，并补充说，俄军目标是乌克兰军事设施。（环球网）]]></title>
+            <guid>3433155</guid>
+            <pubDate>Mon, 01 Jan 2024 12:46:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加沙卫生部发言人：自10月7日以来，以色列对加沙的袭击导致21,978名巴勒斯坦人死亡，57,697人受伤。]]></title>
+            <guid>3433154</guid>
+            <pubDate>Mon, 01 Jan 2024 12:43:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本气象厅官员：地震深度从“浅”改变为16公里。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-01/detail-imzzzrzw6363371.d.html</link>
+            <guid>3433153</guid>
+            <pubDate>Mon, 01 Jan 2024 12:43:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【人工智能帮助发现新型候选抗生素】美国麻省理工学院近日发布新闻公报说，该校研究人员参与的国际团队利用人工智能深度学习模型，发现了可治疗耐药细菌感染的新型化合物。这些化合物有潜力成为新型抗生素药物。研究人员表示，新研究的一个关键创新在于打开了这类深度学习模型的“黑匣子”，弄清楚模型使用哪种信息来预测抗生素效力，这将有助于研究人员设计出比模型识别出的化合物效果更好的候选药物。未来他们还将更详细地分析上述两种化合物的化学性质和潜在临床用途，并利用这类深度学习模型设计更多候选药物，寻找能杀死其他细菌的化合物。相关论文已发表在新一期英国《自然》杂志上。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-01/detail-imzzzrzu9585101.d.html</link>
+            <guid>3433152</guid>
+            <pubDate>Mon, 01 Jan 2024 12:36:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【神火集团：神火新材上海铝箔公司3.85MW光伏项目并网发电】神火集团消息，近日，神火新材上海铝箔公司3.85MW屋顶分布式光伏电站项目实现并网发电。项目采用“自发自用，余电上网”模式，实现100%消纳。在运行生命周期25年内，将累计发电超9418.62万度，首年光伏电站年发电量396.04万度，25年内的光伏电站年平均发电量376.74万kWh，可累计减少10万吨碳排放。合计年均节能减排二氧化碳量约3838.45吨，]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-01/detail-imzzzrzx9209794.d.html</link>
+            <guid>3433151</guid>
+            <pubDate>Mon, 01 Jan 2024 12:33:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【五国加入金砖合作机制今天正式生效】沙特、埃及、阿联酋、伊朗、埃塞俄比亚2024年1月1日成为金砖国家正式成员。]]></title>
             <link>https://finance.sina.cn/7x24/2024-01-01/detail-imzzzrzx9208887.d.html</link>
             <guid>3433150</guid>
             <pubDate>Mon, 01 Jan 2024 12:26:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本石川县能登地区4小时内发生49次有震感的地震】据日本气象厅1月1日消息，当地时间当天16时至20时，以石川县能登地区为中心的区域已发生震感为震度1以上（震度1的地震发生时，一些在室内处于静止状态的人能感受到轻微震感）的地震49次。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-01/detail-imzzzrzx9208442.d.html</link>
-            <guid>3433149</guid>
-            <pubDate>Mon, 01 Jan 2024 12:24:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【1月1日《新闻联播》主要内容】今天《新闻联播》主要内容有：1.中朝两党两国最高领导人互致新年贺电宣布启动“中朝友好年”； 2.中美两国领导人互致贺信庆祝两国建交45周年； 3.《求是》杂志发表习近平总书记重要文章《以美丽中国建设全面推进人与自然和谐共生的现代化》； 4.向着更加美好的未来 砥砺奋进阔步前行——习近平主席二〇二四年新年贺词引发热烈反响； 5.新华社长篇通讯：登高壮观天地间——以习近平同志为核心的党中央引领全面建设社会主义现代化国家迈上新征程； 6.电视专题片《非凡的领航——习近平总书记2023年治国理政纪实》今晚播出； 7.天安门广场举行2024年元旦升国旗仪式； 8.天南地北迎新年 喜庆欢乐庆元旦； 9.新年新愿； 10.世界超高海拔地区规模最大风电项目在西藏投产； 11.国内联播快讯： （1）新版国家医保药品目录今起落地实施； （2）第五次全国经济普查现场登记工作启动； （3）今起我国调整部分商品进出口关税； （4）元旦假期全国预计发送旅客超1.2亿人次； （5）首艘国产大型邮轮开启商业首航； （6）2023年中国电影票房超540亿元； 12.日本中部沿海地区今天发生7.6级强震； 13.以军继续在加沙地带发动军事行动 哈马斯向以色列多地发射火箭弹： （1）巴以民众希望新年尽快实现和平； （2）美军称击沉3艘胡塞武装船只 胡塞武装称10名成员死亡或失踪； 14.江山多娇。]]></title>
@@ -258,52 +303,6 @@
             <title><![CDATA[日本气象厅官员：这次地震在石川县能登半岛地区的震级为7.6，是自1885年有数据记录以来该地区最大的地震。]]></title>
             <guid>3433104</guid>
             <pubDate>Mon, 01 Jan 2024 10:20:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【百度：终止与欢聚集团的股份购买协议】百度在港交所公告，2024年1月1日，本公司的一家关联公司Moon SPV Limited通过行使合同权利，终止了Moon SPV Limited、百度与欢聚集团及其他相关方于2020年11月16日订立并经日后修订或补充的《股份购买协议》。本公司将寻求与欢聚集团讨论终止股份购买协议后的下一步安排。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-01/detail-imzzzmtt9991898.d.html</link>
-            <guid>3433103</guid>
-            <pubDate>Mon, 01 Jan 2024 10:18:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【《一闪一闪亮星星》票房破6亿】据猫眼专业版数据，电影《一闪一闪亮星星》上映3天，总票房破6亿。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-01/detail-imzzzmtt9991818.d.html</link>
-            <guid>3433101</guid>
-            <pubDate>Mon, 01 Jan 2024 10:17:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【比亚迪：12月新能源汽车销量34.1万辆】比亚迪公告，12月新能源汽车销量34.1万辆，2023年累计销量302.44万辆，同比增长62.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-01/detail-imzzzmtt9991148.d.html</link>
-            <guid>3433100</guid>
-            <pubDate>Mon, 01 Jan 2024 10:12:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本能登地区地震已致至少2人受伤 暂无中国公民伤亡报告】根据目前日本媒体报道，日本石川县能登地区地震已经造成至少2人受伤。根据中国驻大阪总领馆的消息，目前暂无中国公民在此次地震中伤亡的报告。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-01/detail-imzzzmty6472508.d.html</link>
-            <guid>3433099</guid>
-            <pubDate>Mon, 01 Jan 2024 10:11:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本内阁官房长官林芳正：接到有关地震导致6人被埋的报告。]]></title>
-            <guid>3433098</guid>
-            <pubDate>Mon, 01 Jan 2024 10:10:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本内阁官房长官林芳正：迄今为止，地方政府尚未提出向地震灾区派遣自卫队的请求。]]></title>
-            <guid>3433097</guid>
-            <pubDate>Mon, 01 Jan 2024 10:09:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本内阁官房长官林芳正：接到有关地震导致6人被埋的报告。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-01/detail-imzzzmtz9318602.d.html</link>
-            <guid>3433096</guid>
-            <pubDate>Mon, 01 Jan 2024 10:08:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本内阁官房长官林芳正：迄今为止，地方政府尚未提出向地震灾区派遣自卫队的请求。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-01/detail-imzzzmtz9318536.d.html</link>
-            <guid>3433095</guid>
-            <pubDate>Mon, 01 Jan 2024 10:08:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
