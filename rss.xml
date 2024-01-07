@@ -4,11 +4,39 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 07 Jan 2024 19:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jan 2024 20:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[利比亚央行：2023年石油收入达206.9亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-08/detail-inaatzvp9103890.d.html</link>
+            <guid>3440831</guid>
+            <pubDate>Sun, 07 Jan 2024 20:14:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦航空管理局：171架波音(BA.N)737 MAX 9飞机将继续停飞，直到联邦航空管理局确信这些飞机是安全的。]]></title>
+            <guid>3440830</guid>
+            <pubDate>Sun, 07 Jan 2024 20:14:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以军称摧毁加沙地带北部一处地下隧道网络】当地时间1月7日晚间，据以色列国防军声明，以军当天在加沙地带北部加沙城谢贾亚地区（Shejaya）附近摧毁了一处地下隧道网络和一名巴勒斯坦伊斯兰圣战组织（杰哈德）高级成员艾哈迈德·萨马拉的住所。声明指出，艾哈迈德·萨马拉负责杰哈德在加沙地带北部的地下隧道项目，以军在其住所中发现若干武器装备和一份10月7日针对以方袭击的战术计划等资料和书籍。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-08/detail-inaatzvp9103363.d.html</link>
+            <guid>3440829</guid>
+            <pubDate>Sun, 07 Jan 2024 20:06:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：01月08日03时48分在甘肃酒泉市肃北县（北纬39.40度，东经97.30度）发生3.8级地震，震源深度12千米。]]></title>
+            <guid>3440828</guid>
+            <pubDate>Sun, 07 Jan 2024 20:01:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【央行、外汇局定调 2024年准备这么干】1月4日~5日，中国人民银行、国家外汇管理局召开2024年工作会议，研究部署2024年重点工作。央行提出了十大具体方向，包括稳健的货币政策灵活适度、精准有效；聚焦“五篇大文章”支持重点领域和薄弱环节；持续加强金融市场建设；稳妥推进重点领域金融风险防范化解；积极参与国际金融治理，深化国际金融合作，推动高水平开放；稳慎扎实推进人民币国际化；持续深化金融改革；持续提升金融服务和管理水平；扎实推进机构改革和业务流程优化再造工作等内容。外汇局提出六项具体工作目标，包括深化外汇领域改革开放；防范跨境资金流动风险；强化外汇领域监管全覆盖；完善中国特色外汇储备经营管理等。（第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-08/detail-inaatvpq6412642.d.html</link>
+            <guid>3440827</guid>
+            <pubDate>Sun, 07 Jan 2024 19:42:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【五千亿国有资本预算制度改革有何深意？】中央要求谋划新一轮财税体制改革，一大重点是健全现代预算制度，而这方面有了一个大动作。近日，国务院发布了《关于进一步完善国有资本经营预算制度的意见》，对这个涉及5000多亿元的重要国家账本实施改革，在收入端扩大国有资本经营预算实施范围，健全收益上交机制，逐步实现国有企业应纳尽纳，并及时足额缴纳收益。在支出端，优化支出结构，强化资本金注入，支持国有资本和国有企业做强做优做大，提升企业核心竞争力，提升资金使用效率。多位财税专家表示，此次《意见》对国有资本经营预算一系列改革举措，有利于做大国有资本经营收入规模，优化支出结构以推进国企聚焦重要行业和关键领域，更好地发挥国有资本经营预算对宏观经济运行、国有经济布局结构的重要调控作用。（第一财经）]]></title>
             <link>https://finance.sina.cn/7x24/2024-01-08/detail-inaatvpq6406815.d.html</link>
@@ -292,35 +320,6 @@
             <link>https://finance.sina.cn/7x24/2024-01-07/detail-inaaters0246361.d.html</link>
             <guid>3440780</guid>
             <pubDate>Sun, 07 Jan 2024 12:05:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宁德时代与福特汽车合作继续推进，仍有望获得美国IRA法案补贴】 宁德时代与福特汽车跨越太平洋的合作有了重要进展。当地时间1月5日，福特汽车的一位发言人表示，福特汽车公司在IRA和指南中没有看到“任何将我们与中国电池生产商宁德时代的技术许可合作排除在（获得补贴资格）外的内容”。这意味着宁德时代与福特汽车公司的技术合作未被排除在新细则已生效的《美国通货膨胀削减法案》（IRA法案）补贴之外。对此，宁德时代有关人士1月6日晚证实，宁德时代和福特汽车的合作正在推进过程中。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-07/detail-inaaterw6747087.d.html</link>
-            <guid>3440779</guid>
-            <pubDate>Sun, 07 Jan 2024 12:03:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【为援助乌克兰，日本将向北约出资约3700万美元】当天日本外相上川阳子在与乌克兰外长库列巴会谈后表示，为向乌克兰提供无人机监测系统等，日本将向北大西洋公约组织（NATO）基金出资约3700万美元（约53亿日元）。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-07/detail-inaaterx9573957.d.html</link>
-            <guid>3440778</guid>
-            <pubDate>Sun, 07 Jan 2024 12:02:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[捷克央行称，降息步伐将取决于通胀趋势。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-07/detail-inaaterx9573575.d.html</link>
-            <guid>3440777</guid>
-            <pubDate>Sun, 07 Jan 2024 12:00:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波兰农民与波兰政府达成了一项符合他们要求的协议，结束了对波兰和乌克兰边境过境点的封锁。与此同时，波兰卡车司机仍在继续抗议，他们希望政府终止欧盟与乌克兰之间的一项放宽道路运输规则的协议。]]></title>
-            <guid>3440776</guid>
-            <pubDate>Sun, 07 Jan 2024 12:00:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以色列总理：以方不会放松在加沙地带针对哈马斯的军事行动】据《以色列时报》消息，当地时间1月7日，以色列总理内塔尼亚胡在内阁会议上表示，以色列在达成所有目标之前，不会放松在加沙地带针对巴勒斯坦伊斯兰抵抗运动（哈马斯）的军事行动。此外，在谈到黎以边境紧张局势时，内塔尼亚胡说：“如果可以，我们将通过外交手段解决这一问题；如果不行，我们将通过其他方式采取行动。”]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-07/detail-inaaterx9572503.d.html</link>
-            <guid>3440775</guid>
-            <pubDate>Sun, 07 Jan 2024 11:51:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
