@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 07 Jan 2024 16:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jan 2024 17:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【包钢集团：2023年预计实现营收1150亿元 利润总额53亿元】据包钢集团消息，包钢集团2023年预计实现营业收入1150亿元，同比基本持平；利润总额53亿元，同比增长10%；上交税费109.77亿元，同比增长15%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-08/detail-inaatrfq9739281.d.html</link>
+            <guid>3440823</guid>
+            <pubDate>Sun, 07 Jan 2024 16:30:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中东股市｜沙特和科威特股指涨超1%】 周日（1月7日），沙特证交所全股指数收涨1.15%，报12285.07点。卡塔尔证交所指数收涨0.10%，报1043.84点。科威特证交所超级市场价格回报指数收涨1.05%，报7729.70点。以色列特拉维夫交易所35指数收跌0.45%，报1867.85点。埃及股市休市。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-08/detail-inaatrft9347537.d.html</link>
+            <guid>3440822</guid>
+            <pubDate>Sun, 07 Jan 2024 16:30:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【今日重点关注财经数据与事件】
 ① 15:00 德国11月季调后贸易帐
@@ -309,17 +321,6 @@
             <link>https://finance.sina.cn/7x24/2024-01-07/detail-inaaterx9570213.d.html</link>
             <guid>3440772</guid>
             <pubDate>Sun, 07 Jan 2024 11:37:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【朝鲜7日进行海上炮击训练】据朝中社报道，朝鲜人民军于当地时间7日进行了海上炮击训练。（央视新闻）]]></title>
-            <guid>3440771</guid>
-            <pubDate>Sun, 07 Jan 2024 11:36:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以军在拉姆安拉枪击巴勒斯坦人，致巴方人员1死2伤】 据巴勒斯坦通讯社消息，当地时间1月7日，以军在约旦河西岸城市拉姆安拉北部地区与当地巴勒斯坦人发生冲突。以军在冲突中向巴方人员开枪，导致1名巴勒斯坦人死亡，另有2名巴勒斯坦人受伤。截至目前，以色列方面对此暂未做出回应。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-07/detail-inaateru9965465.d.html</link>
-            <guid>3440770</guid>
-            <pubDate>Sun, 07 Jan 2024 11:34:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
