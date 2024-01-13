@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 13 Jan 2024 16:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jan 2024 17:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ 【国足亚洲杯首战0-0勉强战平塔吉克斯坦，朱辰杰进球被取消】上半场比赛，国足射门4比12落后。下半场比赛，国足前75分钟依旧被动——但在第80分钟，朱辰杰曾利用角球头球破门，可沙特主裁判却判罚蒋光太越位，取消了进球，这也引发了巨大的争议。最终，国足0-0战平塔吉克斯坦队，无缘亚洲杯小组赛开门红。（澎湃新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-14/detail-inacmkcs7515964.d.html</link>
+            <guid>3449329</guid>
+            <pubDate>Sat, 13 Jan 2024 16:55:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【外交部发言人就台湾选举答记者问】外交部发言人就台湾选举答记者问：国务院台办发言人已就中国台湾地区选举结果发表评论。台湾问题是中国的内政。无论台湾岛内局势怎样变化，世界上只有一个中国、台湾是中国一部分的基本事实不会改变，中国政府坚持一个中国原则、反对“台独”分裂、反对“两个中国”和“一中一台”的立场不会改变，国际社会坚持一个中国原则的普遍共识和稳固格局不会改变。一个中国原则是维护台海和平稳定的定海神针。我们相信国际社会将继续坚持一个中国原则，理解和支持中国人民反对“台独”分裂活动、争取完成国家统一的正义事业。]]></title>
             <link>https://finance.sina.cn/7x24/2024-01-14/detail-inacmcvt9859234.d.html</link>
@@ -289,12 +295,6 @@
             <link>https://finance.sina.cn/7x24/2024-01-13/detail-inacktfy7863653.d.html</link>
             <guid>3449280</guid>
             <pubDate>Sat, 13 Jan 2024 11:47:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：以色列南部的内蒂夫哈阿萨拉响起警报，可能会遭到火箭弹袭击。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-13/detail-inacktfy7862807.d.html</link>
-            <guid>3449279</guid>
-            <pubDate>Sat, 13 Jan 2024 11:42:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
