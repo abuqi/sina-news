@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 14 Jan 2024 17:14:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jan 2024 18:20:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【埃及官员：共计约9000辆运载援助物资的卡车经拉法口岸进入加沙地带】埃及国家新闻局局长拉什万当地时间14日宣布，自10月7日本轮巴以冲突爆发以来，从拉法口岸进入加沙的医疗物资有约7000吨，粮食约5万吨，水约2万吨，燃料和家用天然气约4500吨，以及1.1万吨其他救灾物资。运载各类援助物资卡车总数达到约9000辆。在此期间，埃及还从加沙接收了1210名受伤人员。此外，还有23000名外国公民和双重国籍人员经拉法口岸进入埃及。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-15/detail-inacppas6406507.d.html</link>
+            <guid>3450233</guid>
+            <pubDate>Sun, 14 Jan 2024 17:35:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据也门胡塞武装控制的马西拉电视台14日报道，美国和英国当天对也门红海城市荷台达发动空袭。（新华社）]]></title>
             <guid>3450232</guid>
@@ -295,12 +301,6 @@
             <link>https://finance.sina.cn/7x24/2024-01-14/detail-inacpanv8840931.d.html</link>
             <guid>3450091</guid>
             <pubDate>Sun, 14 Jan 2024 11:45:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列央行：本轮军事冲突的总成本预计将超过2000亿以色列新谢克尔。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-14/detail-inacpanv8840136.d.html</link>
-            <guid>3450088</guid>
-            <pubDate>Sun, 14 Jan 2024 11:40:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
