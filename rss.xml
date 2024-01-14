@@ -4,11 +4,16 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 14 Jan 2024 16:21:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jan 2024 17:14:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据也门胡塞武装控制的马西拉电视台14日报道，美国和英国当天对也门红海城市荷台达发动空袭。（新华社）]]></title>
+            <guid>3450232</guid>
+            <pubDate>Sun, 14 Jan 2024 17:12:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【伊拉克伊斯兰最高委员会主席与伊库区主席重申支持国际联盟撤离伊拉克】据伊拉克伊斯兰最高委员会当地时间1月14日声明，该委员会主席哈穆迪当天在巴格达与伊拉克库尔德自治区（库区）主席内奇尔万·巴尔扎尼举行会晤，双方就该国政治、安全局势发展等议题举行磋商。声明指出，双方在会上讨论了以美国为首的国际联盟在伊存在问题，哈穆迪认为，国际联盟在伊拉克存在使外方对伊投资进一步疏远，并强调了在2024年年内敦促国际联盟撤离伊拉克的必要性。巴尔扎尼对此表示肯定，并强调伊库区将支持巴格达中央政府终止国际联盟在伊存在的相关决定。]]></title>
             <link>https://finance.sina.cn/7x24/2024-01-15/detail-inacppar8618494.d.html</link>
@@ -296,12 +301,6 @@
             <link>https://finance.sina.cn/7x24/2024-01-14/detail-inacpanv8840136.d.html</link>
             <guid>3450088</guid>
             <pubDate>Sun, 14 Jan 2024 11:40:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【消息人士：美国中东人道主义问题特使将离职 上任才3个月】据美国《赫芬顿邮报》报道，消息人士透露，美国中东人道主义问题特使戴维·萨特菲尔德将在未来几周内离职。根据美国国务院2023年10月15日发布的消息，美国总统拜登任命萨特菲尔德担任中东人道主义问题特使。俄罗斯卫星通讯社称，萨特菲尔德担任该职务才3个月。 (环球网)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-14/detail-inacpanv8840125.d.html</link>
-            <guid>3450087</guid>
-            <pubDate>Sun, 14 Jan 2024 11:40:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
