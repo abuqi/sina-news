@@ -4,11 +4,63 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Fri, 19 Jan 2024 20:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 21:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[摩根士丹利：公司CEO Gorman在2023年的薪酬总额为3700万美元，同比上升17.5%。]]></title>
+            <guid>3458526</guid>
+            <pubDate>Fri, 19 Jan 2024 21:14:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【热门中概股多数下跌 蔚来跌超3%】热门中概股多数下跌，蔚来跌超3%，哔哩哔哩、腾讯音乐、爱奇艺、小鹏汽车、理想汽车跌超2%，百度、唯品会小幅下跌。网易、阿里巴巴涨超2%，富途控股、京东、拼多多涨超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeciin7826570.d.html</link>
+            <guid>3458525</guid>
+            <pubDate>Fri, 19 Jan 2024 21:01:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股三大指数集体收涨 道指、标普500指数创收盘新高】美股三大指数集体收涨，道指涨1.05%，纳指涨1.7%，标普500指数涨1.23%，其中道指、标普500指数创收盘新高，热门科技股普涨，AMD涨超7%、英伟达涨超4%、Meta涨近2%皆创收盘历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeciin0045853.d.html</link>
+            <guid>3458524</guid>
+            <pubDate>Fri, 19 Jan 2024 21:00:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国11月国际资本净流入2602亿美元，前值-838亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeciin0045821.d.html</link>
+            <guid>3458523</guid>
+            <pubDate>Fri, 19 Jan 2024 21:00:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【CFTC：1月16日当周投机者所持WTI原油净多头头寸减少20969手合约】美国商品期货交易委员会（CFTC）的数据显示，1月16日当周，投机者所持NMYEX WTI原油净多头头寸减少20,969手合约，至90,160手合约。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaecazq0175884.d.html</link>
+            <guid>3458522</guid>
+            <pubDate>Fri, 19 Jan 2024 20:43:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Apollo据悉是考虑收购RedStone的私募股权公司之一。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaecazq7956525.d.html</link>
+            <guid>3458521</guid>
+            <pubDate>Fri, 19 Jan 2024 20:41:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：1月16日当周，投机者所持COMEX黄金净多头头寸减少5,654手合约，至100,634手合约，创最近两个月新低。投机者所持COMEX白银净多头头寸减少1,865手合约，至6030手合约，创最近十周新低。]]></title>
+            <guid>3458520</guid>
+            <pubDate>Fri, 19 Jan 2024 20:35:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新进展 宜宾市商业银行赴港上市又迈一步】1月18日，中国证监会国际合作司发布《关于宜宾市商业银行股份有限公司境外发行上市备案通知书》。根据该备案通知书，宜宾市商业银行拟发行不超过14.95亿股境外上市普通股并在香港联合交易所上市。宜宾市商业银行第一大股东为五粮液集团。该行董事长薛峰曾表示，将全力建设成为“A+H”两地上市及3000亿-5000亿元资产规模、治理优良、市场竞争力突出的西部领先银行。近年来，中小银行上市速度放缓，但上市热情不减。专家认为，中小银行希望通过上市来拓宽融资渠道，增强融资能力。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaecazq0175425.d.html</link>
+            <guid>3458519</guid>
+            <pubDate>Fri, 19 Jan 2024 20:30:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【收益率冲高 银行理财开年现新动向】2024年以来，多只固收类银行理财产品收益率上行，近一个月的年化收益率较此前有明显冲高，银行理财规模也有所回升。业内人士认为，银行理财产品收益率上升主要是因为债券市场走强，规模上升一定程度上是由于高收益资产难寻、公众风险偏好下降，资金回流至风险较低的固收类产品。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaecazs0835279.d.html</link>
+            <guid>3458518</guid>
+            <pubDate>Fri, 19 Jan 2024 20:30:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[墨西哥主要股指上涨超过1%。]]></title>
             <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaecazs0834230.d.html</link>
@@ -248,57 +300,6 @@
             <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeawts8075352.d.html</link>
             <guid>3458477</guid>
             <pubDate>Fri, 19 Jan 2024 18:17:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国政府购买320万桶战略石油储备。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeawtv7726218.d.html</link>
-            <guid>3458476</guid>
-            <pubDate>Fri, 19 Jan 2024 18:16:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普500指数上涨0.8%，自2022年1月以来首次刷新盘中纪录新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeawts0294263.d.html</link>
-            <guid>3458475</guid>
-            <pubDate>Fri, 19 Jan 2024 18:11:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[贝克休斯油服：美国钻井公司三周以来首次增加石油和天然气钻井平台。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeawts8074210.d.html</link>
-            <guid>3458474</guid>
-            <pubDate>Fri, 19 Jan 2024 18:05:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至1月19日当周石油钻井总数497口，前值499口。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeawts0293239.d.html</link>
-            <guid>3458473</guid>
-            <pubDate>Fri, 19 Jan 2024 18:02:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meta Platforms股价盘中上涨1.7%，有望收于历史高位水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeawts8073854.d.html</link>
-            <guid>3458472</guid>
-            <pubDate>Fri, 19 Jan 2024 18:01:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[利率互换合约显示，美联储3月份降息的可能性已进一步降至40%左右。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeawts8073679.d.html</link>
-            <guid>3458471</guid>
-            <pubDate>Fri, 19 Jan 2024 17:59:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国短期利率期货交易员现在押注，美联储在5月会议之前不会开始降息；CME“美联储观察”数据显示，美联储在三月份降息的可能性下降至50%以下。]]></title>
-            <guid>3458470</guid>
-            <pubDate>Fri, 19 Jan 2024 17:58:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LME期铜收涨41美元，报8351美元/吨。LME期铝收涨2美元，报2166美元/吨。LME期锌收跌不到1美元，报2462美元/吨。LME期铅收涨29美元，报2106美元/吨。LME期镍收跌120美元，报16036美元/吨。LME期锡收跌59美元，报25298美元/吨。]]></title>
-            <guid>3458469</guid>
-            <pubDate>Fri, 19 Jan 2024 17:57:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：01月20日01时41分在四川宜宾市兴文县（北纬28.14度，东经105.09度）发生3.7级地震，震源深度9千米。]]></title>
-            <guid>3458468</guid>
-            <pubDate>Fri, 19 Jan 2024 17:56:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
