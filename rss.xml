@@ -4,11 +4,22 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 20 Jan 2024 18:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jan 2024 19:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【也门荷台达机场附近遭到袭击】当地时间20日，据中央广播电视总台报道员综合前方消息，也门荷台达机场附近的贾巴纳营地遭遇两次袭击。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-21/detail-inaeffyp9056727.d.html</link>
+            <guid>3458856</guid>
+            <pubDate>Sat, 20 Jan 2024 18:40:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊拉克民兵武装宣称对阿萨德空军基地遭袭一事负责】当地时间20日晚间，伊拉克民兵武装“伊斯兰抵抗组织”宣称对伊拉克阿萨德空军基地遭袭一事负责。当地时间1月20日，据路透社报道，一名美国官员称，伊拉克西部安巴尔省有美军驻扎的阿萨德空军基地遭到袭击，有美军人员在袭击中受轻伤，一名伊拉克安全部队成员受重伤。阿萨德空军基地是伊拉克第二大空军基地，位于安巴尔省省会拉马迪以西约110公里处的巴格达迪镇附近。目前有少量从事军事顾问、情报、侦察和训练工作的外军人员驻扎在阿萨德空军基地。（央视新闻）]]></title>
+            <guid>3458841</guid>
+            <pubDate>Sat, 20 Jan 2024 18:24:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【上海推出三日票、七日票 不限次乘坐公交、地铁、轮渡】为持续推进上海市公共交通多元化票制探索与发展，上海“出行即服务”（MaaS）系统，于近日升级推出三日票、七日票，售价分别为47.8元和85.8元。即日起，登录上海市绿色出行一体化平台“随申行”App或微信小程序，购买并启用“联程日票”，即可在有效时间内不限次乘坐上海地铁、公交和轮渡。没有智能手机的老人和儿童可以通过“随申行”平台上的同行人乘车服务，请家人代为购买，支持一日票、三日票、七日票等全票种。]]></title>
             <link>https://finance.sina.cn/7x24/2024-01-21/detail-inaeffyr9702983.d.html</link>
@@ -289,17 +300,6 @@
             <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeeraz6825309.d.html</link>
             <guid>3458755</guid>
             <pubDate>Sat, 20 Jan 2024 11:59:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：伊朗总统莱希将于周三访问土耳其。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeeray0047984.d.html</link>
-            <guid>3458754</guid>
-            <pubDate>Sat, 20 Jan 2024 11:58:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【1月20日《新闻联播》主要内容】今天《新闻联播》主要内容有：1.“3820”战略工程启示：一张蓝图绘到底； 2.以金融高质量发展助力强国建设 民族复兴伟业——省部级主要领导干部推动金融高质量发展专题研讨班学员深入学习领会习近平总书记重要讲话； 3.新华社综述：风正好扬万里帆——党的二十大以来以习近平同志为核心的党中央贯彻执行中央八项规定、推进作风建设综述； 4.今年中国航天发射次数有望再创新高； 5.我国累计建成5G基站337.7万个； 6.国家卓越工程师：攻坚克难 创新争先； 7.中央组织部从代中央管理党费中划拨3.18亿元用于支持开展党员教育培训等工作； 8.让督查检查考核“瘦身” 为基层“松绑”减负； 9.国内联播快讯： （1）天舟六号货运飞船已受控再入大气层； （2）我国农村中小银行总资产55万亿元； （3）第十四届冬运会43个竞技比赛小项已完赛； （4）冬青奥首日 中国队摘得一金两银； （5）寒潮来袭 多地雨雪降温； 10.也门胡塞武装称美英再次空袭荷台达 伊朗称派遣舰队进入公海执行任务； 11.以军称摧毁哈马斯训练基地 哈马斯称在加沙城与以军交火； 12.国际联播快讯： （1）叙利亚大马士革一建筑遭以色列袭击； （2）伊拉克民兵武装称击落美“死神”无人机； （3）俄称打击乌军工企业 乌称摧毁俄火炮； （4）美国冬季风暴导致的死亡人数升至67人； （5）英国海军两艘舰艇在中东水域发生碰撞。]]></title>
-            <guid>3458753</guid>
-            <pubDate>Sat, 20 Jan 2024 11:53:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
