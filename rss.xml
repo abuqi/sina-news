@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 20 Jan 2024 19:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jan 2024 20:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【伊拉克武装部队总司令发言人：将对阿萨德空军基地遭袭一事展开调查】伊拉克武装部队总司令发言人叶海亚·拉苏尔当地时间1月20日晚发表声明称，伊拉克西部安巴尔省的阿萨德空军基地当天遭遇火箭弹袭击，多枚火箭弹落入该基地所属第7师第29旅指挥部附近，造成一名伊拉克士兵受伤、第29旅指挥部受损。声明强调，阿萨德空军基地设有伊拉克武装部队指挥所和训练营，伊拉克安全部队将会展开调查并将袭击事件的肇事者绳之以法。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-21/detail-inaefnhr6360303.d.html</link>
+            <guid>3458865</guid>
+            <pubDate>Sat, 20 Jan 2024 19:37:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【也门荷台达机场附近遭到袭击】当地时间20日，据中央广播电视总台报道员综合前方消息，也门荷台达机场附近的贾巴纳营地遭遇两次袭击。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2024-01-21/detail-inaeffyp9056727.d.html</link>
@@ -294,12 +300,6 @@
             <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeerav9402269.d.html</link>
             <guid>3458756</guid>
             <pubDate>Sat, 20 Jan 2024 12:11:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴反恐部门：巴基斯坦军队与阿富汗临时政府边防部队在边境地区交火】据巴基斯坦反恐部门消息，当地时间1月20日，巴基斯坦军队与阿富汗塔利班边防部队在巴基斯坦开伯尔-普什图省巴焦尔地区附近的巴阿边境发生交火。巴方已开始修复边境围栏，暂无人员伤亡报告。同日，据阿富汗媒体报道，阿富汗和巴基斯坦军队在阿富汗库纳尔省边境地区发生冲突。截至目前，阿富汗临时政府对该事件尚无回应。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeeraz6825309.d.html</link>
-            <guid>3458755</guid>
-            <pubDate>Sat, 20 Jan 2024 11:59:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
