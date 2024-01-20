@@ -4,11 +4,22 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 20 Jan 2024 22:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jan 2024 23:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：01月21日06时09分在西南印度洋海岭（南纬39.95度，东经46.25度）发生6.3级地震，震源深度10千米。]]></title>
+            <guid>3458919</guid>
+            <pubDate>Sat, 20 Jan 2024 22:46:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以军称轰炸黎巴嫩真主党基础设施和火箭弹发射场】当地时间20日晚，以色列国防军发表声明称，以军于当晚出动战机袭击了位于黎巴嫩南部奥代塞和胡拉地区的几处真主党基础设施和火箭弹发射场。此外，声明中称，当天早些时候，以军监测到黎巴嫩真主党向以色列北部多夫山地区发射了一枚火箭弹，该火箭弹落在空旷地区。黎巴嫩真主党对此暂无评论。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-21/detail-inaefsqk6590473.d.html</link>
+            <guid>3458918</guid>
+            <pubDate>Sat, 20 Jan 2024 22:45:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[中央气象台1月21日06时继续发布寒潮黄色预警。]]></title>
             <link>https://finance.sina.cn/7x24/2024-01-21/detail-inaefsqk6588233.d.html</link>
@@ -288,17 +299,6 @@
             <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeevkv9924227.d.html</link>
             <guid>3458763</guid>
             <pubDate>Sat, 20 Jan 2024 12:46:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【问界新M7大定破13万台】华为汽车BU董事长余承东透露，上市四个月，问界新M7订单量已经突破13万台。他表示，该车今年的月交付能力将突破3万台。（Auto有范儿）]]></title>
-            <guid>3458762</guid>
-            <pubDate>Sat, 20 Jan 2024 12:40:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京市委书记尹力：发挥大数据关键作用 构建数字化治理体系】中共北京市委书记尹力1月20日下午看望了参加市政协十四届二次会议的部分委员，并参加界别联组会，听取委员就“打造宜居韧性智慧城市，持续提升超大城市治理现代化水平”主题提出的意见建议。尹力强调，要充分用好北京科技、教育和人才优势，提升城市治理效能。用好科技硬实力，在城市治理手段和方式上，加强信息技术运用，推动数据共享应用，发挥大数据关键作用，构建数字化治理体系。积极打造高水平人才高地，加大人才自主培养力度，以全球视野聚天下英才而用之，持续优化人才创新创业环境，为北京城市工作提供强有力的智慧和智力支持。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeeraw7186501.d.html</link>
-            <guid>3458761</guid>
-            <pubDate>Sat, 20 Jan 2024 12:33:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
