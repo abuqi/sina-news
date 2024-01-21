@@ -4,11 +4,22 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 21 Jan 2024 16:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jan 2024 17:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国总统拜登国家安全副顾问Jon Finer：（美国和英国）阻止也门胡塞武装袭击商船将需要时间。]]></title>
+            <guid>3459719</guid>
+            <pubDate>Sun, 21 Jan 2024 16:33:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“专业基民”FOF四季报：富国全球债成“重仓王”，也追小微盘行情】 Wind数据显示，截至1月20日，公募市场内已有超过400只FOF产品（不同份额分开计算）披露了2023年四季报。目前获FOF重仓数量最多的前20只基金中，有11只是债券型基金。从FOF重仓持有基金的市值来看，被重仓持有市值最高的五只产品均是来自交银施罗德基金旗下的债券型基金，目前获FOF重仓数量最多的产品是一只QDII产品，也是一只债券型基金——富国全球债券人民币A。公开资料显示，该产品主要投资于全球债券市场，2023年收益为4.16%。大成景恒混合C获11只FOF重仓、国金量化多因子A获10只FOF重仓、金元顺安优质精选灵活配置混合A获5只FOF重仓、中信保诚多策略混合（LOF）获3只FOF重仓。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-22/detail-inaeikxq5704946.d.html</link>
+            <guid>3459718</guid>
+            <pubDate>Sun, 21 Jan 2024 16:24:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[光伏逆变器生产商Solaredge Technologies Inc.将裁员900人，在员工总数占比大约16%。其中，将在以色列裁员大约550名工人。]]></title>
             <guid>3459717</guid>
@@ -291,17 +302,6 @@
             <link>https://finance.sina.cn/7x24/2024-01-21/detail-inaehyka5262811.d.html</link>
             <guid>3459670</guid>
             <pubDate>Sun, 21 Jan 2024 12:32:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海市金山区预制菜产业发展协会与京东集团签订战略合作框架协议】据“i金山”微信公众号消息，1月21日下午，金山区预制菜产业发展协会与京东集团预制菜事业部合作交流会举行。交流会上，双方正式签订了战略合作框架协议。京东集团预制菜事业部工作人员表示，接下来，京东集团会开展选品，被选中的金山预制菜产品会进入到京东超市的预制菜分类销售。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-21/detail-inaehyiu5934320.d.html</link>
-            <guid>3459669</guid>
-            <pubDate>Sun, 21 Jan 2024 12:30:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[不结盟运动第19次峰会19日至20日在坎帕拉举行，主题是“深化合作，共享全球繁荣”，来自100余个国家的国家元首、政府首脑或高级别代表以及国际组织负责人出席峰会。（新华社）]]></title>
-            <guid>3459668</guid>
-            <pubDate>Sun, 21 Jan 2024 12:26:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
