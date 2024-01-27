@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 27 Jan 2024 17:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jan 2024 18:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【极兔速递被国家邮政局约谈】近日，国家邮政局市场监管司就连续使用抽检不合格集装袋问题，对极兔速递有限公司进行行政约谈。约谈指出，在国家邮政局组织快递包装检查和产品质量抽检工作中，2021年山西、四川，2022年天津、内蒙古、山东、青海等6省（区、市）极兔速递使用的集装袋分别检测出重金属超标。（央视财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-28/detail-inaezcvt2612993.d.html</link>
+            <guid>3469661</guid>
+            <pubDate>Sat, 27 Jan 2024 18:02:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据猫眼专业版数据，电影《天降大任》上映23天，总票房破3000万。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-28/detail-inaezcvr5835792.d.html</link>
+            <guid>3469660</guid>
+            <pubDate>Sat, 27 Jan 2024 18:01:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【以军空袭加沙城和汗尤尼斯以东地区 导致5名巴勒斯坦人死亡】据巴勒斯坦通讯社消息，当地时间1月27日，以色列军机对加沙地带北部加沙城科威特环岛附近的一群巴勒斯坦平民进行轰炸，造成3名巴方平民死亡。此外，以军当天还空袭了加沙地带南部汗尤尼斯以东的巴尼苏海拉镇，导致2名巴方平民死亡。以色列方面对此暂未作出回应。]]></title>
             <link>https://finance.sina.cn/7x24/2024-01-28/detail-inaeyxps3088693.d.html</link>
@@ -312,18 +324,6 @@
             <link>https://finance.sina.cn/7x24/2024-01-27/detail-inaeynxt8756935.d.html</link>
             <guid>3469513</guid>
             <pubDate>Sat, 27 Jan 2024 11:55:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【徐工机械：2023年前三季度高空作业平台销售收入超55亿元，同比增长超50%】徐工机械近日在接受机构调研时称，公司2023年前三季度高空作业平台销售超3.7万台，同比增长30%，销售收入超55亿元，同比增长超50%。目前出口占其收入比例约11%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-27/detail-inaeynxw3313306.d.html</link>
-            <guid>3469512</guid>
-            <pubDate>Sat, 27 Jan 2024 11:48:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【17分钟卖光：“台源酒”首次亮相“i茅台”火爆旺销】据茅台保健酒业公司消息，作为i茅台APP上首款百元价格带白酒产品，台源酒于1月27日14时零2分正式上线投放300件共1800瓶，14时19分全部售完，上线17分钟售罄，销售额破28万元。中国酒业独立评论人肖竹青认为，从“茅台家族”500元以下价位带，到“茅台股份”500-1000元价位带，再到茅台酒阵营中千元以上的产品价位带布局，i茅台已经实现了对全价格带产品矩阵全覆盖，可以满足任何消费者多元化的需求与选择。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-27/detail-inaeynxz2958749.d.html</link>
-            <guid>3469511</guid>
-            <pubDate>Sat, 27 Jan 2024 11:42:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
