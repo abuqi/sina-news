@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 27 Jan 2024 16:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jan 2024 17:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【以军空袭加沙城和汗尤尼斯以东地区 导致5名巴勒斯坦人死亡】据巴勒斯坦通讯社消息，当地时间1月27日，以色列军机对加沙地带北部加沙城科威特环岛附近的一群巴勒斯坦平民进行轰炸，造成3名巴方平民死亡。此外，以军当天还空袭了加沙地带南部汗尤尼斯以东的巴尼苏海拉镇，导致2名巴方平民死亡。以色列方面对此暂未作出回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-28/detail-inaeyxps3088693.d.html</link>
+            <guid>3469636</guid>
+            <pubDate>Sat, 27 Jan 2024 16:37:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【中国海警局新闻发言人就菲律宾向非法“坐滩”军舰空投补给发表谈话】中国海警局新闻发言人甘羽表示，1月21日，菲律宾1架小型飞机向非法“坐滩”军舰空投补给，中国海警实时跟监掌握，依法依规管控处置，对菲方补给必要生活物资作出了临时性特殊安排。菲有关方面罔顾事实、恶意炒作，蓄意误导国际认知，无益于缓和南海紧张局势。我们正告菲方停止挑衅炒作，中国海警将加强仁爱礁及其邻近海域维权执法，坚决捍卫国家主权和海洋权益。（央视军事）]]></title>
             <link>https://finance.sina.cn/7x24/2024-01-27/detail-inaeyxpp8526561.d.html</link>
@@ -318,11 +324,6 @@
             <link>https://finance.sina.cn/7x24/2024-01-27/detail-inaeynxz2958749.d.html</link>
             <guid>3469511</guid>
             <pubDate>Sat, 27 Jan 2024 11:42:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯副总理诺瓦克：俄罗斯愿意讨论向欧洲供应天然气的问题，]]></title>
-            <guid>3469510</guid>
-            <pubDate>Sat, 27 Jan 2024 11:37:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
