@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 27 Jan 2024 18:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jan 2024 19:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【申万宏源：2024年美国经济消费降温投资回补】申万宏源发布研报，在超额储蓄消耗、个税优惠边际减弱影响下，美国居民消费降温是不可避免的，但24年可能是美国私人投资的大年，住宅投资不弱（美债利率影响）、非住宅投资复苏、库存小幅多增（PMI回升），使得美国24年经济在降温路途中仍维持较强态势，从而该团队认为不宜对美联储2024年降息幅度过度乐观。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-28/detail-inaezcvm8410735.d.html</link>
+            <guid>3469696</guid>
+            <pubDate>Sat, 27 Jan 2024 18:50:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中信证券：如何看待美国经济韧性超预期与降息预期前移？】中信证券发布研究报告称，美国2023年四季度GDP增速超预期，显示美国经济内生动能仍具韧性，但趋势仍在缓慢下行。其中，居民消费需求保持旺盛，服务消费强于商品消费；库存变动下降较大致私人投资需求降温，固定投资需求增速进一步下滑。该行预计美国经济内生动能将在2024年上半年温和走弱，首次降息或在年中前后，GDP公布后的降息预期前移或与通胀降温、经济内生动能继续放缓有关。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-28/detail-inaezcvt2618847.d.html</link>
+            <guid>3469695</guid>
+            <pubDate>Sat, 27 Jan 2024 18:49:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【极兔速递被国家邮政局约谈】近日，国家邮政局市场监管司就连续使用抽检不合格集装袋问题，对极兔速递有限公司进行行政约谈。约谈指出，在国家邮政局组织快递包装检查和产品质量抽检工作中，2021年山西、四川，2022年天津、内蒙古、山东、青海等6省（区、市）极兔速递使用的集装袋分别检测出重金属超标。（央视财经）]]></title>
             <link>https://finance.sina.cn/7x24/2024-01-28/detail-inaezcvt2612993.d.html</link>
@@ -312,18 +324,6 @@
             <link>https://finance.sina.cn/7x24/2024-01-27/detail-inaeynxx6183592.d.html</link>
             <guid>3469515</guid>
             <pubDate>Sat, 27 Jan 2024 11:57:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印度海军称出动在亚丁湾部署的驱逐舰协助起火油轮灭火】据印度海军1月27日消息，印度海军在亚丁湾部署的驱逐舰于1月26日在接到一艘油轮发出的呼救信号后，随即出动，协助该油轮进行灭火。该油轮上有22名印度籍船员，1名孟加拉籍船员。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-27/detail-inaeynxw3314403.d.html</link>
-            <guid>3469514</guid>
-            <pubDate>Sat, 27 Jan 2024 11:55:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广州南沙区全面实行市场主体登记确认制】广州市人民政府官网26日发布《广州市南沙区市场主体登记确认制实施办法》，《办法》将于2024年4月1日起施行。《办法》所称的市场主体登记确认制，是指在市场主体自主申报和信用承诺的基础上，登记机关依据法定的权限和程序，经形式审查，对市场主体的主体资格和登记事项予以确认并公示其法律效力的登记制度。将适用于南沙区行政区域内市场主体的设立、变更、注销登记确认及其相关管理、服务活动。《办法》共二十八条，包括自主申报制、二元化章程制度、市场主体登记秘书制度、信用承诺制和除名制度等内容，涵盖“构建市场主体登记确认制体系”“提升市场主体登记确认便利度”“建立与港澳、国际接轨的市场主体登记制度”“解决企业‘易失联’‘退出难’难题”“强化市场主体监督管理”等五大主要亮点。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-27/detail-inaeynxt8756935.d.html</link>
-            <guid>3469513</guid>
-            <pubDate>Sat, 27 Jan 2024 11:55:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
