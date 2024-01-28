@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 28 Jan 2024 17:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jan 2024 18:18:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【约旦称美军并非在约旦境内遭袭】约旦政府发言人当地时间28日否认了美国方面所谓的“驻约旦美军遭袭”一事。这名发言人对当地媒体称，袭击并非发生在约旦境内，遭袭的是在叙利亚东南部坦夫地区的美军。据了解，坦夫地区位于叙利亚与约旦和伊拉克接壤的边境地区，美军在这一地区设有训练叙利亚反政府武装的基地。美国总统拜登稍早前发表声明（如图1）称，“驻扎在约旦东北部靠近叙利亚边境地区的美军遭无人机袭击，造成美军3人死亡、多人受伤”。据美国中央司令部声明（如图2），这次发生在当地时间28日的袭击造成美军3人死亡、25人受伤。美国官员称，袭击发生后，“多达34人因可能遭受创伤性脑损伤正接受观察”，“部分伤员已经撤离”。 拜登称，“虽然目前仍在收集袭击相关信息”，但美方“知道本次袭击是由伊拉克、叙利亚境内受伊朗支持的武装组织发动的”，“美方将以自己的方式追究所有责任人的责任”。 对此，目前约伊朗、伊拉克、叙利亚等方面暂无回应。（CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-29/detail-inafchuz8596385.d.html</link>
+            <guid>3470554</guid>
+            <pubDate>Sun, 28 Jan 2024 17:33:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【Reddit被建议在IPO中至少要获得50亿美元估值】 美国社交媒体平台Reddit正在研究与众多潜在投资者的初步会议，以获取关于自身IPO的反馈意见。据知情人士透露，众多投资者建议，即便是在估值低于50亿美元的情况下，Reddit也应当考虑公司估值至少为50亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2024-01-29/detail-inafchuz8592666.d.html</link>
@@ -32,7 +38,8 @@
             <pubDate>Sun, 28 Jan 2024 16:24:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[哈马斯媒体办公室28日说，以军过去48小时在加沙地带南部汗尤尼斯打死至少350名巴勒斯坦人。（新华网）]]></title>
+            <title><![CDATA[【以军袭击加沙地带南部和北部 已致24死50伤】当地时间1月28日晚，据巴勒斯坦电视台报道，在过去24小时内，以色列军队对加沙地带南部汗尤尼斯的轰炸已造成24人死亡。此外，以军地面部队当天袭击加沙地带北部加沙城科威特环岛附近地区，导致50人受伤，目前伤者已经被送往希法医院。目前，以色列方面对此暂无回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-29/detail-inafcany9070653.d.html</link>
             <guid>3470549</guid>
             <pubDate>Sun, 28 Jan 2024 16:05:18 GMT</pubDate>
         </item>
@@ -305,12 +312,6 @@
             <link>https://finance.sina.cn/7x24/2024-01-28/detail-inafawff8818972.d.html</link>
             <guid>3470455</guid>
             <pubDate>Sun, 28 Jan 2024 12:25:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【董明珠：格力电器并不关心股价，我们不靠股价生存】“格力2024全球梦想盛典”于1月28日在珠海举行。珠海格力电器股份有限公司董事长董明珠出席并致辞。董明珠强调，格力电器并不关心股价，我们不靠股价生存。对于股民，董明珠喊话，如果对格力有信心，就应该长期持有格力股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-28/detail-inafawff8818383.d.html</link>
-            <guid>3470454</guid>
-            <pubDate>Sun, 28 Jan 2024 12:23:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
