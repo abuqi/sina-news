@@ -4,11 +4,29 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 11 Feb 2024 20:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Feb 2024 21:14:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【伊朗外长访问叙利亚 讨论加沙地带冲突等议题】当地时间11日，伊朗外长阿卜杜拉希扬访问叙利亚大马士革，与叙总统巴沙尔·阿萨德、叙利亚外长梅克达德举行会见。在会见期间，伊朗外长和叙利亚总统讨论了加沙地带冲突等内容。阿卜杜拉希扬表示，转交了莱西总统对巴沙尔总统访问伊朗的正式邀请。阿卜杜拉希扬还谴责美军在叙利亚领土上的非法存在。梅克达德则表示，伊朗代表团与叙利亚总统讨论了该地区所有事态的发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-12/detail-inahthun2775148.d.html</link>
+            <guid>3488747</guid>
+            <pubDate>Sun, 11 Feb 2024 21:06:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊拉克军方发言人：伊美双方举行会谈 协商在伊外国部队撤离问题】据伊拉克武装部队总司令发言人叶海亚·拉苏尔声明，当地时间2月11日晚，伊拉克高级军事委员会于巴格达恢复与美国主导的国际联盟的对话会议，评估伊拉克当前安全局势与伊拉克武装部队的作战能力。声明称，伊美双边对话会议将定期举行，并将以此为基础制定一个时间表，旨在有计划地逐步结束在伊拉克境内的外国部队打击极端组织“伊斯兰国”等任务，转而发展与“国际联盟”相关国家的双边关系。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-12/detail-inahthuq7332231.d.html</link>
+            <guid>3488746</guid>
+            <pubDate>Sun, 11 Feb 2024 20:57:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列总理与美国总统通话 重点讨论以军可能在拉法开展地面行动等问题】据多家以色列媒体报道，当地时间2月11日晚间，以色列总理内塔尼亚胡与美国总统拜登通话。报道称，两人的通话持续约了45分钟，重点就以军可能在加沙地带南部拉法开展的地面军事行动和交换被扣押人员等问题进行了讨论。以色列总理办公室目前暂未发布相关信息。美国白宫11日证实，拜登当日与内塔尼亚胡进行通话。双方讨论了为确保被巴勒斯坦伊斯兰抵抗运动（哈马斯）扣押的所有剩余人质获释而进行的持续努力。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-12/detail-inahthus0189434.d.html</link>
+            <guid>3488745</guid>
+            <pubDate>Sun, 11 Feb 2024 20:24:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[伊拉克军方发言人：伊拉克和美国就美国领导的联军在伊拉克逐步撤军制定了时间表。]]></title>
             <link>https://finance.sina.cn/7x24/2024-02-12/detail-inahthun2771970.d.html</link>
@@ -295,23 +313,6 @@
             <link>https://finance.sina.cn/7x24/2024-02-11/detail-inahsmqy7809724.d.html</link>
             <guid>3488562</guid>
             <pubDate>Sun, 11 Feb 2024 11:38:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【哈马斯称若以色列进攻拉法 将停止被扣押人员交换谈判】当地时间2月11日午间，巴勒斯坦伊斯兰抵抗运动（哈马斯）发言人通过该组织下属的媒体发表声明称，如果以色列对加沙地带南部的拉法地区发动（地面）攻势，哈马斯方面将停止有关交换被扣押人员的任何谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-11/detail-inahsmra0662608.d.html</link>
-            <guid>3488556</guid>
-            <pubDate>Sun, 11 Feb 2024 11:33:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列1月消费者信心指数降至40。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-11/detail-inahsmra0662074.d.html</link>
-            <guid>3488555</guid>
-            <pubDate>Sun, 11 Feb 2024 11:27:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本政策投资银行将在2024财年开始的两年内投资超过1500亿日元，以促进芯片和电池的供应链。 (日经新闻)]]></title>
-            <guid>3488554</guid>
-            <pubDate>Sun, 11 Feb 2024 11:17:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
