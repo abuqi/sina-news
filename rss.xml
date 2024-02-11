@@ -4,11 +4,16 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 11 Feb 2024 17:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Feb 2024 18:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【不止苹果Vision Pro，消息称国内头部手机厂商也在布局头显】苹果公司近日发售的 Vision Pro 引发了不少关注，尽管其售价高昂，但还是吸引了不少消费者尝鲜。国内方面，前魅族科技CMO、现怒喵科技创始人李楠声称华为正在开发一款Vision头显，定价在15000元左右。据悉，这款头显将采用华为自研芯片，空间操作“几乎无延迟”，并配备索尼4K Micro-OLED屏幕（相关屏幕预计将在个月内出货），重量为350克，相对于苹果Vision Pro头显删除了“eyesight”功能。此外，OPPO 在 2023 年增强现实世界博览会（AWE）上也展示了一款 OPPO MR Glass 头显。官方称，OPPO MR Glass 集成领先的创新技术，为开发者提供验证和开发丰富 XR 内容的理想工具。OPPO MR Glass 搭载骁龙XR2 + 平台，具备 OPPO 独家 SUPERVOOC 闪充和心率检测功能，保证了高效的充电体验，并赋予 MR Glass 多样化的功能。（IT之家）]]></title>
+            <guid>3488741</guid>
+            <pubDate>Sun, 11 Feb 2024 18:05:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据猫眼专业版数据，电影《我们一起摇太阳》上映3天，总票房破5000万。]]></title>
             <link>https://finance.sina.cn/7x24/2024-02-12/detail-inahswew0430926.d.html</link>
@@ -307,12 +312,6 @@
             <title><![CDATA[【冰雪经济撬动楼市热 去年12月至今年1月非哈市人员在哈购房共4650套 同比增长94%】哈尔滨市住建局相关负责人称，随着来哈尔滨的游客增加，2023年12月至2024年1月，非哈市人员在哈购房共4650套，同比增长94%。据贝壳哈尔滨站统计数据显示，在2023年12月与2024年1月，该网站租房成交量达2360套，同比2022年12月至2023年1月租房成交量633套，上涨272.8%。（界面）]]></title>
             <guid>3488551</guid>
             <pubDate>Sun, 11 Feb 2024 10:48:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本政府2024年度将允许小型无人机利用5G】日本政府2024年度将允许远程操控小型无人时利用第五代（5G）移动通信系统的手机通信网。5G与4G相比可高速传送大量数据，有望低延迟传送高清空拍图像、迅速确认公路和桥梁等基础设施的细微损坏、拍摄具有身临其境感的体育视频等，用途很广。总务省认为之前的课题、信号相互干扰导致的通信故障有望通过缩减频段等加以解决，因此计划修改省令允许利用5G。NTT都科摩等各大手机运营商目前提供利用4G手机通信网的无人机服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-11/detail-inahsmqw3245865.d.html</link>
-            <guid>3488550</guid>
-            <pubDate>Sun, 11 Feb 2024 10:41:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
