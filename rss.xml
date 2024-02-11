@@ -4,11 +4,22 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 11 Feb 2024 19:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Feb 2024 20:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[伊拉克军方发言人：伊拉克和美国就美国领导的联军在伊拉克逐步撤军制定了时间表。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-12/detail-inahthun2771970.d.html</link>
+            <guid>3488744</guid>
+            <pubDate>Sun, 11 Feb 2024 20:01:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新华社快讯：根据芬兰国家广播公司的测算，芬兰前总理斯图布在11日举行的芬兰总统选举第二轮投票中获胜。]]></title>
+            <guid>3488743</guid>
+            <pubDate>Sun, 11 Feb 2024 19:18:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【冰雪经济撬动楼市热，“小金豆”们在“尔滨”买了多少房？】“尔滨”冰雪文旅热度不减，冰城楼市似乎也趁机火了一把。“小土豆”摇身一变“小金豆”，一场“美丽的意外”发生在哈尔滨。哈尔滨市住建局相关负责人称，随着来哈尔滨的游客增加，2023 年 12 月至 2024 年 1 月，非哈市人员在哈购房共 4650 套，同比增长 94%。这个冬天，“顶流”旅行目的地非哈尔滨莫属。据同程旅行发布的数据显示，国内航线热门目的地前十名依次为：哈尔滨、重庆、成都、昆明、北京、三亚、贵阳、上海、西安、广州。其中，哈尔滨的热度由2023年同期的第四名上升至第一名。冰天雪地的哈尔滨被推向旅游高峰，为当地的房屋租赁也提供了成交大幅增长的契机。据贝壳哈尔滨站统计数据显示，在2023年12月与2024年1月，该网站租房成交量达2360套，同比2022年12月至2023年1月租房成交量633套，上涨272.8%。（界面）]]></title>
             <link>https://finance.sina.cn/7x24/2024-02-12/detail-inahtanq2899913.d.html</link>
@@ -301,18 +312,6 @@
             <title><![CDATA[日本政策投资银行将在2024财年开始的两年内投资超过1500亿日元，以促进芯片和电池的供应链。 (日经新闻)]]></title>
             <guid>3488554</guid>
             <pubDate>Sun, 11 Feb 2024 11:17:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2024春节档票房破25亿】据灯塔专业版数据，截至2月11日19时04分，2024年春节档（2月10日—2月17日）档期总票房（含预售）突破25亿。《热辣滚烫》《飞驰人生2》《熊出没·逆转时空》暂列档期票房前三位。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-11/detail-inahsmqy7805987.d.html</link>
-            <guid>3488553</guid>
-            <pubDate>Sun, 11 Feb 2024 11:06:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苹果证实部分新款Apple Watch触控出现问题 正在调查】据MacRumors报道，苹果本周向其授权服务商发布内部备忘录，确认部分Apple Watch Series9和Apple Watch Ultra2存在触控问题，并表示正在积极调查。备忘录中写道，部分用户报告他们的Apple Watch Series9或Ultra2屏幕出现误触，也有人将其描述为“幽灵触控(ghost touch)”。据苹果公司称，受影响的设备屏幕可能会无故跳动或出现其他异常行为，甚至自动拨打电话以及阻止用户输入密码。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-11/detail-inahsmqy7805637.d.html</link>
-            <guid>3488552</guid>
-            <pubDate>Sun, 11 Feb 2024 11:03:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
