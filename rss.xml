@@ -4,11 +4,101 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Mon, 12 Feb 2024 21:13:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Feb 2024 22:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美联储3月降息的概率为15.5%】CME“美联储观察”：美联储3月维持利率在5.25%-5.50%区间不变的概率为84.5%，降息25个基点的概率为15.5%。到5月维持利率不变的概率为41.2%，累计降息25个基点的概率为50.8%，累计降息50个基点的概率为7.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-13/detail-inahvrzs8600947.d.html</link>
+            <guid>3489291</guid>
+            <pubDate>Mon, 12 Feb 2024 22:03:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中东局势跟踪】
+巴以冲突：
+1. 黎巴嫩真主党领导人会见杰哈德秘书长，讨论加沙局势。
+2. 加沙卫生部发言人：以色列对拉法的袭击导致48名巴勒斯坦人死亡，数十人受伤。
+3. 以色列军方：特种部队在加沙拉法的突袭中解救了两名人质。
+4. 以军12日凌晨对加沙地带南部城市拉法及周边地区发起军事打击，加沙地带拉法市已致100人死亡，超230人受伤；中东多国谴责以色列进攻拉法计划。
+红海危机：
+1. 也门胡塞武装发言人：在红海瞄准了“STAR IRIS”船只为打击目标。
+2. 英国海军收到有关也门附近船只遭到两枚导弹袭击的报告。
+其他：
+1. 有媒体称以色列已确定派团前往开罗参加巴以停火谈判。另据英国金融时报报道，CIA和摩萨德领导人准备就哈马斯人质协议举行会谈。
+2. 美国总统拜登：正在努力达成人质交涉协议，将至少带来为期六周的平静时期。拉法的军事行动不应在没有可信的保护民众计划的情况下继续进行。美国对伊拉克和叙利亚的回应将继续。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-13/detail-inahvrzv3158268.d.html</link>
+            <guid>3489290</guid>
+            <pubDate>Mon, 12 Feb 2024 22:01:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美元指数周一大致持平，商品货币纽元跌超0.3%】 周一（2月12日）纽约尾盘，ICE美元指数涨0.03%，报104.142点，日内交投区间为103.895-104.279点。彭博美元指数大致持平，报1242.15点，日内交投区间为1240.33-1243.32点。美元兑日元涨0.05%，报149.36点，美股盘前曾跌至日低148.93点，随后出现一波拉升，转而在纽约中午涨至日高149.48点。欧元兑美元跌0.14%，英镑兑美元大致持平，美元兑瑞郎涨0.15%；商品货币对中，澳元兑美元涨0.10%，纽元兑美元跌0.32%，美元兑加元跌0.06%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-13/detail-inahvrzy2784843.d.html</link>
+            <guid>3489289</guid>
+            <pubDate>Mon, 12 Feb 2024 22:00:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【澳洲联储经济学家科勒：通胀回到2-3%的目标范围需要一些时间】澳洲联储经济学家科勒表示，通胀下降但仍然过高；通胀回到2-3%的目标范围需要一些时间；预计通胀将在2025年回归目标范围，并在2026年回归中点；服务业通胀高且广泛，预计仅会逐渐下降；预计近期经济增长将保持低迷。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-13/detail-inahvrzs8600630.d.html</link>
+            <guid>3489287</guid>
+            <pubDate>Mon, 12 Feb 2024 21:55:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[COMEX 4月黄金期货结算价收跌0.28%，报2033.00美元/盎司；COMEX 3月白银期货结算价收涨0.77%，报22.767美元/盎司。]]></title>
+            <guid>3489286</guid>
+            <pubDate>Mon, 12 Feb 2024 21:48:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【标普500指数的11个板块多数收涨】 周一（2月12日），标普500指数冲高回落，早盘涨至5048.39点创盘中历史新高，快速回吐涨幅并转跌，整体上连续第二天收于5000点整数位心理关口上方。标普公用事业板块收涨1.14%，能源板块涨1.05%，金融板块涨超0.4%，电信板块则跌将近0.2%，可选消费板块跌约0.3%，房地产板块跌约0.4%，信息技术/科技板块跌约0.8%表现最差。在标普科技板块，摩托罗拉解决方案收跌3.26%领跌，ServiceNOW跌3.15%，芯源系统MPWR跌2.98%跌幅第三大，博通跌超1.4%，赛富时Salesforce.com跌约1.4%，微软跌超1.2%、苹果跌0.9%跌幅靠前，思佳讯则涨超1.0%，QRVO涨超1.2%，恩智浦和高通涨超1.3%，英特尔涨超1.6%涨幅第六大，第一太阳能涨约3.8%涨幅第三大，光伏逆变器生产商ENPH涨5.25%领跑。]]></title>
+            <guid>3489285</guid>
+            <pubDate>Mon, 12 Feb 2024 21:46:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2月12日美股成交额前20：Beamr宣布与英伟达合作，股价大涨370%】周一美股成交额第20名视频编码供应商Beamr Imaging收盘大涨371.56%，成交20.7亿美元。该公司宣布将在ACM Mile-High-Video 2024会议上展示与英伟达有关自动视频现代化的联合研究。据了解，Beamr此前已经宣布，计划于2024年2月20日在亚马逊AWS上推出新的视频云服务，并由英伟达提供支持。https://cj.sina.cn/article/norm_detail?url=https://finance.sina.com.cn/stock/usstock/c/2024-02-13/doc-inahvrzv3157469.shtml]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-13/detail-inahvrzv3157600.d.html</link>
+            <guid>3489284</guid>
+            <pubDate>Mon, 12 Feb 2024 21:46:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【外媒：特朗普诉诸美国最高法院 要求暂时搁置华盛顿特区对他的刑事审判】据外媒报道，特朗普要求美国最高法院在他申诉拒绝其公诉豁免权的裁决期间下令继续搁置对他企图推翻2020年大选结果的刑事审判。该请求在哥伦比亚特区巡回上诉法院由三名法官组成的合议庭设定的期限内提出，也意味着特朗普将第二起重大案件诉诸于最高法院。大法官们已经在审议各州是否可因他在1月6日国会暴乱中所起的作用而禁止他参加今年的总统大选。]]></title>
+            <guid>3489283</guid>
+            <pubDate>Mon, 12 Feb 2024 21:44:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【标普500指数的11个板块多数收涨】 周一（2月12日），标普500指数冲高回落，早盘涨至5048.39点创盘中历史新高，快速回吐涨幅并转跌，整体上连续第二天收于5000点整数位心理关口上方。标普公用事业板块收涨1.14%，能源板块涨1.05%，金融板块涨超0.4%，电信板块则跌将近0.2%，可选消费板块跌约0.3%，房地产板块跌约0.4%，信息技术/科技板块跌约0.8%表现最差。在标普科技板块，摩托罗拉解决方案收跌3.26%领跌，ServiceNOW跌3.15%，芯源系统MPWR跌2.98%跌幅第三大，博通跌超1.4%，赛富时Salesforce.com跌约1.4%，微软跌超1.2%、苹果跌0.9%跌幅靠前，思佳讯则涨超1.0%，QRVO涨超1.2%，恩智浦和高通涨超1.3%，英特尔涨超1.6%涨幅第六大，第一太阳能涨约3.8%涨幅第三大，光伏逆变器生产商ENPH涨5.25%领跑。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-13/detail-inahvrzv3157397.d.html</link>
+            <guid>3489282</guid>
+            <pubDate>Mon, 12 Feb 2024 21:41:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：美国正在努力达成人质交涉协议，将至少带来为期六周的平静时期。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-13/detail-inahvrzs8599497.d.html</link>
+            <guid>3489281</guid>
+            <pubDate>Mon, 12 Feb 2024 21:28:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股行业ETF多数收涨】 周一（2月12日），区域银行ETF收涨2.15%，银行业ETF和能源业ETF等至少涨1.1%，可选消费ETF则跌约0.1%，网络股指数ETF跌超0.2%，半导体ETF跌约0.4%，科技行业ETF跌超0.7%，全球科技股指数ETF跌超0.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-13/detail-inahvrzs8599487.d.html</link>
+            <guid>3489280</guid>
+            <pubDate>Mon, 12 Feb 2024 21:28:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富时A50期指连续夜盘收涨0.90%，报11547.000点。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-13/detail-inahvrzv3156380.d.html</link>
+            <guid>3489279</guid>
+            <pubDate>Mon, 12 Feb 2024 21:15:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉（TSLA）收跌2.81%，报188.13美元，在纳斯达克100指数一众成分股里表现最差、并领跌标普500指数可选消费板块的所有成分股。]]></title>
+            <guid>3489278</guid>
+            <pubDate>Mon, 12 Feb 2024 21:15:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国超导（AMSC）收涨15.21%，创1月25日以来最大单日涨幅（当天涨约35.90%），报13.03美元。]]></title>
+            <guid>3489277</guid>
+            <pubDate>Mon, 12 Feb 2024 21:14:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：美国石油协会提交请愿书，对美国内政部的石油、天然气海上租赁计划提出质疑。]]></title>
             <guid>3489276</guid>
@@ -33,7 +123,8 @@
             <pubDate>Mon, 12 Feb 2024 21:01:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美股三大指数收盘涨跌不一，纳指跌0.30%，标普500指数跌0.09%，道指涨0.33%。]]></title>
+            <title><![CDATA[【美股三大指数收盘涨跌不一 Arm大涨29%】美股三大指数收盘涨跌不一，纳指跌0.30%，标普500指数跌0.09%，道指涨0.33%。大型科技股多数下跌，特斯拉跌超2%，亚马逊、微软跌超1%，苹果、谷歌、奈飞小幅下跌；Meta、英伟达小幅上涨。Arm大涨29%，三日累计涨幅超过93%。能源勘探巨头Diamondback涨超9%，公司正洽谈组建价值超500亿美元油气公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-13/detail-inahvrzv3155839.d.html</link>
             <guid>3489272</guid>
             <pubDate>Mon, 12 Feb 2024 21:01:05 GMT</pubDate>
         </item>
@@ -207,87 +298,6 @@
             <link>https://finance.sina.cn/7x24/2024-02-13/detail-inahvmtx3279063.d.html</link>
             <guid>3489241</guid>
             <pubDate>Mon, 12 Feb 2024 18:38:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富时A50夜期涨幅扩大至1%。纳斯达克金龙指数目前涨2.4%。ETF中，中概互联网KWEB目前涨2.7%。]]></title>
-            <guid>3489240</guid>
-            <pubDate>Mon, 12 Feb 2024 18:34:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：秘鲁央行在外汇市场出售了7800万美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-13/detail-inahvmtu8721304.d.html</link>
-            <guid>3489239</guid>
-            <pubDate>Mon, 12 Feb 2024 18:33:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以太坊日内涨幅达5.00%，现报2632美元/枚。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-13/detail-inahvmtu8721066.d.html</link>
-            <guid>3489238</guid>
-            <pubDate>Mon, 12 Feb 2024 18:29:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【对降息的乐观预期带来提振 欧洲股市逼近纪录高位】受投资者对通胀放缓将在未来几个月引发降息的乐观情绪提振，欧洲股市上涨，跟随美国股市上周五收盘创纪录高位的步伐。欧洲斯托克600指数收涨0.5%，距离纪录高点不到1.5%。Vontobel Multi Asset主管Dan Scott表示，通胀轨迹很明确显示在下降，很明显现在的利率太高了。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-13/detail-inahvmtu8720865.d.html</link>
-            <guid>3489237</guid>
-            <pubDate>Mon, 12 Feb 2024 18:26:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【IMF：哈萨克斯坦的黄金储备1月增加6.157吨】IMF数据显示，哈萨克斯坦的黄金储备在2024年1月增加了6.157吨，达到300.399吨；澳大利亚于2024年1月将黄金持有量增加2.986吨至79.876吨；国际清算银行在2024年1月将黄金持有量减少了4.906吨，至218.174吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-13/detail-inahvmtu8720444.d.html</link>
-            <guid>3489236</guid>
-            <pubDate>Mon, 12 Feb 2024 18:20:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周一（2月12日），美联储隔夜逆回购协议（RRP）使用规模为5815.68亿美元，上个交易日报5691.75亿美元。]]></title>
-            <guid>3489235</guid>
-            <pubDate>Mon, 12 Feb 2024 18:16:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[穆迪：达美航空(DAL.N)前景转为积极。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-13/detail-inahvmua2900007.d.html</link>
-            <guid>3489234</guid>
-            <pubDate>Mon, 12 Feb 2024 18:15:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰总统召开最高统帅部会议 讨论前线局势】乌克兰国家通讯社当地时间12日报道称，当天乌克兰总统泽连斯基召开了最高统帅部人员改组后的首次会议。会议讨论了前线局势以及关键基础设施的保护等问题。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-13/detail-inahvmtx3277509.d.html</link>
-            <guid>3489233</guid>
-            <pubDate>Mon, 12 Feb 2024 18:14:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：斯泰兰蒂斯增加（多款）电动汽车的产量。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-13/detail-inahvfmz3408169.d.html</link>
-            <guid>3489232</guid>
-            <pubDate>Mon, 12 Feb 2024 18:12:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗集团：交易员们需要消化美联储未来降息的风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-13/detail-inahvfmw8850742.d.html</link>
-            <guid>3489231</guid>
-            <pubDate>Mon, 12 Feb 2024 18:11:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国总理朔尔茨：未来德国将继续将2%的产出用于国防开支。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-13/detail-inahvfmz3407853.d.html</link>
-            <guid>3489230</guid>
-            <pubDate>Mon, 12 Feb 2024 18:08:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行行长贝利：银行应更广泛地利用英国央行提供的流动性。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-13/detail-inahvfna6252141.d.html</link>
-            <guid>3489229</guid>
-            <pubDate>Mon, 12 Feb 2024 18:05:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行行长贝利：我预计未来储备水平将从今天的4670亿英镑下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-13/detail-inahvfmw8850018.d.html</link>
-            <guid>3489228</guid>
-            <pubDate>Mon, 12 Feb 2024 18:05:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行行长贝利：我今天最乐观的猜测是，银行对准备金的需求将达到比我们最近预期的还要高的水平。]]></title>
-            <guid>3489227</guid>
-            <pubDate>Mon, 12 Feb 2024 18:05:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
