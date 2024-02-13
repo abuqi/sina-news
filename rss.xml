@@ -4,11 +4,112 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Tue, 13 Feb 2024 20:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 21:14:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Instacart四季度总成交金额78.9亿美元，分析师预期78.0亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-14/detail-inahxuyv1999913.d.html</link>
+            <guid>3490402</guid>
+            <pubDate>Tue, 13 Feb 2024 21:09:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[爱彼迎（Airbnb）将回购至多60亿美元A类普通股。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-14/detail-inahxuyy1611314.d.html</link>
+            <guid>3490401</guid>
+            <pubDate>Tue, 13 Feb 2024 21:06:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Lyft四季报和一季度业绩指引好于预期，预计2024年首次FCF为正，股价盘后涨约14%】 来福车（LYFT）四季度营收12.2亿美元，分析师预期12.2亿美元。四季度调整后EBITDA为0.666亿美元，分析师预期0.560亿美元。四季度总预定金额37.2亿美元，分析师预期36.7亿美元。四季度活跃驾驶员0.224亿，分析师预期0.2246亿。预计将于2024年首次实现自由现金流（FCF）为正。预计一季度总预定金额大约35亿-36亿美元，分析师预期34.8亿美元。预计一季度调整后EBITDA为0.50亿-0.55亿美元，分析师预期0.495亿美元。将于6月份举办首届投资者日活动。Lyft美股盘后涨13.77%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-14/detail-inahxuyv1999685.d.html</link>
+            <guid>3490400</guid>
+            <pubDate>Tue, 13 Feb 2024 21:06:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“网红券商”Robinhood四季度净营收4.71亿美元，分析师预期4.57亿美元。]]></title>
+            <guid>3490399</guid>
+            <pubDate>Tue, 13 Feb 2024 21:06:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[软银旗下芯片软件设计公司Arm（ARM）收跌19.46%，报119.98美元，脱离2月12日所创收盘历史最高位148.97美元和盘中历史最高位164.00美元。英伟达（NVDA）收跌0.17%，报721.28美元。AMD收跌0.22%，报171.54美元。]]></title>
+            <guid>3490398</guid>
+            <pubDate>Tue, 13 Feb 2024 21:04:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Avis Budget Group Inc.（CAR）收跌23%，创2020年3月份以来最大单日跌幅。]]></title>
+            <guid>3490397</guid>
+            <pubDate>Tue, 13 Feb 2024 21:01:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【热门中概股普跌 爱奇艺跌超6%】热门中概股普跌，爱奇艺、蔚来跌超6%，哔哩哔哩跌超5%，唯品会、小鹏汽车、京东、网易跌超3%，百度、腾讯音乐、阿里巴巴、理想汽车跌超2%，拼多多、富途控股跌超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-14/detail-inahxuys7442090.d.html</link>
+            <guid>3490396</guid>
+            <pubDate>Tue, 13 Feb 2024 21:01:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国CPI降幅不及预期打压降息预期 美股三大指数收盘均跌超1%】美国1月CPI降幅不及预期，打压美联储降息预期，美股三大指数集体下跌，纳指跌1.80%，标普500指数跌1.37%，道指跌1.35%。大型科技股普跌，亚马逊、微软、特斯拉跌超2%，谷歌、苹果、英特尔跌超1%，奈飞小幅下跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-14/detail-inahxuys7442061.d.html</link>
+            <guid>3490395</guid>
+            <pubDate>Tue, 13 Feb 2024 21:01:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【两年期美债收益率在“美国CPI发布日”涨约17个基点，10年期实际收益率时隔两个月重返2%上方】周二（2月13日）纽约尾盘，美国10年期基准国债收益率上涨13.11个基点，报4.3104%，盘中交投于4.1250%-4.3163%区间。两年期美债收益率涨16.92个基点，报4.6430%，盘中交投于4.4424%-4.6620%区间。三个月期国库券/10年期美债收益率利差涨12.893个基点，报-109.187个基点，逼近2023年11月30日顶部-103.819个基点。02/10年期美债收益率利差跌3.598个基点，报-33.472个基点。美国10年期通胀保值国债（TIPS）收益率涨7.93个基点，报2.0136%，为2023年12月13日以来重新站上2.0%整数位心理关口。]]></title>
+            <guid>3490394</guid>
+            <pubDate>Tue, 13 Feb 2024 20:51:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌武装部队总司令称乌军已由进攻转向防御】乌克兰国家通讯社当地时间13日报道称，乌克兰武装部队新任总司令瑟尔斯基在接受一家德国电视台采访时表示，前线形势艰难，乌克兰武装部队已由进攻转向防御。 (央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-14/detail-inahxuyy1610863.d.html</link>
+            <guid>3490393</guid>
+            <pubDate>Tue, 13 Feb 2024 20:44:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗发射导弹打击以色列空军基地模拟目标】据伊朗塔斯尼姆通讯社2月13日消息称，伊朗伊斯兰革命卫队宣布使用“伊玛德”和“卡德尔”新型弹道导弹，成功对以色列帕尔马希姆空军基地模拟目标实施打击。据悉，该两款新型弹道导弹使用了增强型弹头，提高了射程及打击精度。其中“伊玛德”弹道导弹可在1700公里外摧毁目标，误差小于4米。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-14/detail-inahxuyv1998890.d.html</link>
+            <guid>3490392</guid>
+            <pubDate>Tue, 13 Feb 2024 20:41:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【芝加哥大豆期货跌0.5%，阿拉比卡咖啡跌1.1%，可可豆涨1.1%】 周二（2月13日）纽约尾盘，谷物分类指数跌0.27%，报36.9839点，美国CPI数据发布后、美股盘初一度反弹至日高37.2303点。CBOT玉米期货涨0.23%，报4.31-1/2美元/蒲式耳。CBOT小麦期货涨0.17%，报5.98-1/2美元/蒲式耳。CBOT大豆期货跌0.50%，报11.87美元/蒲式耳，美国CPI数据发布后、美股盘初曾反弹至日高11.97-1/2美元；豆粕期货跌1.05%，豆油期货涨0.76%美国CPI数据发布后出现V型反弹。ICE原糖期货跌1.10%，报23.30美分/磅；ICE白糖期货跌0.02%，报658.90美元/吨。ICE阿拉比卡咖啡期货跌1.58%，罗布斯塔咖啡期货跌0.78%，报3167美元/吨。可可期货涨1.11%，报5645美元/吨，逼近2月9日涨至的5798美元。ICE棉花期货涨0.76%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-14/detail-inahxuyv1998817.d.html</link>
+            <guid>3490391</guid>
+            <pubDate>Tue, 13 Feb 2024 20:40:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌克兰设立总统特别代表 负责落实国际安全保障和发展国家国防力量】乌克兰总统泽连斯基当地时间2月13日签署总统令，设立负责落实国际安全保障和发展国家国防力量的总统特别代表一职。首位担任这一职务的是曾任乌克兰武装部队副总司令的莫伊休克中将。总统令中并没有具体描述其这一新职务的责任。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-14/detail-inahxuyv1998552.d.html</link>
+            <guid>3490390</guid>
+            <pubDate>Tue, 13 Feb 2024 20:33:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[智能电视巨头Vizio股价一度大涨40%，沃尔玛洽谈以超过20亿美元收购该公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-14/detail-inahxuys7440867.d.html</link>
+            <guid>3490389</guid>
+            <pubDate>Tue, 13 Feb 2024 20:24:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普500指数跌超2%，道指跌超740点跌幅1.9%，纳指跌380点跌幅2.4%。]]></title>
+            <guid>3490388</guid>
+            <pubDate>Tue, 13 Feb 2024 20:24:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“新债王”冈拉克：看起来联储不太可能在五月开始降息，如果可能的话，可能会在六月进行。]]></title>
+            <guid>3490387</guid>
+            <pubDate>Tue, 13 Feb 2024 20:24:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股三大股指持续震荡走低，标普500指数跌超2%，道指跌1.93%，纳指跌2.44%。纳斯达克金龙指数跌超3%，热门中概股普跌，蔚来汽车(NIO.N)跌近7%，小鹏汽车(XPEV.N)跌超4%，京东(JD.O)跌超3%，拼多多(PDD.O)跌超2%。]]></title>
+            <guid>3490386</guid>
+            <pubDate>Tue, 13 Feb 2024 20:24:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ROKU(ROKU.O)下跌11%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-14/detail-inahxuys7440762.d.html</link>
+            <guid>3490385</guid>
+            <pubDate>Tue, 13 Feb 2024 20:21:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[“新债王”冈拉克：个人消费支出在当前阶段比消费者物价指数更重要。]]></title>
             <link>https://finance.sina.cn/7x24/2024-02-14/detail-inahxuys7440547.d.html</link>
@@ -196,108 +297,6 @@
             <link>https://finance.sina.cn/7x24/2024-02-14/detail-inahxqta1727837.d.html</link>
             <guid>3490353</guid>
             <pubDate>Tue, 13 Feb 2024 18:23:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【法兴银行：随着页岩气行业成熟，美国石油产量增长将放缓】法兴银行首席大宗商品研究员Benjamin Hoff表示，随着页岩气行业的成熟，2024年美国石油产量的增长速度将不到去年的一半，而这种增长的大部分已经被市场消化了。在他们看来，需求面不太可能出现令人意外的大幅上涨，因此这意味着所有人最终都将大量关注供应面。Hoff估计，到2024年，美国原油和液化天然气的日产量将增加65万桶至70万桶，而去年的日产量约为150万桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-14/detail-inahxqsu7564364.d.html</link>
-            <guid>3490352</guid>
-            <pubDate>Tue, 13 Feb 2024 18:23:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储在固定利率逆回购操作中总计接纳了84个对手方的5536.84亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-14/detail-inahxqta1727060.d.html</link>
-            <guid>3490351</guid>
-            <pubDate>Tue, 13 Feb 2024 18:17:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【西班牙外交大臣会见匈牙利外长 讨论非法移民等问题】西班牙外交大臣阿尔瓦雷斯当地时间2月13日在马德里会见了匈牙利外长西雅尔多。双方商讨了非法移民入境等问题。西雅尔多在声明中表示，他与阿尔瓦雷斯回顾了过去数年来大量非法移民进入西班牙加纳利大区的情况，并强调欧盟有必要改变当前有利于非法移民入境的政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-14/detail-inahxqsx2121203.d.html</link>
-            <guid>3490350</guid>
-            <pubDate>Tue, 13 Feb 2024 18:15:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日元兑英镑跌至2015年以来最低，美国及英国数据令市场调整利率预期】 继美国通胀数据高于预期及英国薪资数据表现强劲之后，市场调整对利率的预期，日元兑英镑跌至逾八年最低。英镑/日元涨0.8%，至190.078，创2015年8月以来盘中最高；若进一步上涨，则有望挑战2015年高点195.885。期货数据显示，投机账户最近一直在建仓做多英镑/做空日元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-14/detail-inahxqsx2121125.d.html</link>
-            <guid>3490349</guid>
-            <pubDate>Tue, 13 Feb 2024 18:13:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【OpenAI正在测试ChatGPT记忆事物的能力】人工智能初创公司OpenAI周二在一篇博客文章中表示，该公司正在测试一种选项，用户可以要求ChatGPT聊天机器人保留从一次交流到下一次交流的特定信息。ChatGPT还将能够自动确定应该记住用户对话中的哪些趣闻。OpenAI表示，该公司最初将向数十万免费和付费ChatGPT用户提供这些功能，并计划在更广泛地推广之前审查反馈。虽然为每个用户建立更详细的历史记录可能会产生新的隐私问题，但这也是互联网公司定制每个人的体验并锁定客户的有效方法。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-14/detail-inahxqsx2121095.d.html</link>
-            <guid>3490348</guid>
-            <pubDate>Tue, 13 Feb 2024 18:13:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四大所2023年英国招聘规模缩水62%】 据追踪企业招聘广告数量的Vacancysoft，四大会计师事务所（德勤、安永、毕马威、普华永道）的职位空缺在2023年下滑至764个，而之前一年为1996个。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-14/detail-inahxqsy4949185.d.html</link>
-            <guid>3490347</guid>
-            <pubDate>Tue, 13 Feb 2024 18:10:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国10年期国债收益率维持超过10个基点的涨幅，徘徊于日高4.29807%附近。据报道，美东时间2月13日12:46（北京时间2月14日01:46），芝加哥期货交易所（CBOT）出现一笔32.5万美元10年期美债期货交易，成交价109-26。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-14/detail-inahxqsu7563231.d.html</link>
-            <guid>3490346</guid>
-            <pubDate>Tue, 13 Feb 2024 18:06:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伦镍收涨将近1.4%，伦锡涨约1%，伦铅则跌将近1.3%】 LME期铜收涨25美元，报8260美元/吨。LME期铝收跌2美元，报2226美元/吨。LME期锌收跌6美元，报2314美元/吨。LME期铅收跌26美元，报1998美元/吨。LME期镍收涨221美元，报16261美元/吨。LME期锡收涨272美元，报27571美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-14/detail-inahxqsy4948650.d.html</link>
-            <guid>3490345</guid>
-            <pubDate>Tue, 13 Feb 2024 18:05:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美官员称没有收到消息表明被哈马斯扣押的美国人员已死亡】美国白宫国家安全委员会发言人约翰·柯比当地时间2月13日在简报会上表示，关于被巴勒斯坦伊斯兰抵抗运动（哈马斯）扣押的部分人员已死亡这一报道，美国目前没有收到任何消息表明被哈马斯扣押的美国人员已经死亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-14/detail-inahxqsy4948046.d.html</link>
-            <guid>3490344</guid>
-            <pubDate>Tue, 13 Feb 2024 18:00:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿斯麦股价一度暴跌7.1% 交易员质疑出现“乌龙指”错误】阿斯麦控股公司的股价在交易的头几分钟下跌，随后迅速反弹，交易员将意外暴跌归咎于错误交易。据多位股票交易员称，被称为“肥手指”(fat finger)的错误交易可能是该股最初一度暴跌7.1%的原因。泛欧交易所的一位发言人否认了这一说法，并称今早该交易所没有触发警报。人为失误甚至算法失误导致的交易通常被称为“胖手指”。这家欧洲最大科技股收复了失地，但随后再度走低，原因是市场担心美国通胀高于预期可能会推迟降息。该股在阿姆斯特丹的午后交易中下跌5%。英国券商Panmure Gordon的董事Mark Taylor表示：“阿斯麦在开盘时似乎出现了‘肥手指’，但随着欧洲科技股板块遭遇获利回吐，该股反弹也吸引了卖家。”虽然一般来说并不罕见，但像阿斯麦这样备受瞩目的股票出现“胖手指”错误却很少见。阿斯麦股票在开盘后因剧烈波动而停牌三分钟。在开盘的第一分钟，有28,558股成交在858.20欧元至815.60欧元之间，只有110股在停牌前以当日最低价交易。复牌报853.40欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-14/detail-inahxqsu7562720.d.html</link>
-            <guid>3490343</guid>
-            <pubDate>Tue, 13 Feb 2024 17:59:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英伟达市值飙升5600亿美元 促使华尔街分析师争相上调目标价】英伟达2024年开局涨势火爆，令华尔街分析师竞相追赶其上涨的脚步，本月至少有五家投行上调对这个人工智能(AI)热门标的股的目标价。截至周一，这家芯片巨头的股价今年已飙升46%，市值扩张约5,600亿美元，该股周一收于约722美元的纪录新高。这种强势，加上市场对其AI芯片的需求一直难以得到满足，促使瑞银集团和瑞穗证券效仿摩根士丹利、美国银行和高盛集团，在该公司定于2月21日公布财报之前上调对该股的目标价。本周，瑞银将该股目标价从580美元上调至850美元，同时还上调了每股收益预期。同时，瑞穗将该股目标价从625美元上调至825美元。瑞穗的Vijay Rakesh在发给客户的报告中表示，对英伟达H100 AI加速器的需求继续超过供应，他把该股称之为最佳AI标的。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-14/detail-inahxqsx2120097.d.html</link>
-            <guid>3490342</guid>
-            <pubDate>Tue, 13 Feb 2024 17:59:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【员工“几乎遭截肢” 有关当局对SpaceX开出罚单】据路透社查阅的检查记录显示，美国工人安全官员本月对马斯克的SpaceX公司罚款3600美元，此前该公司位于华盛顿州的工厂发生事故，导致一名员工“几乎截肢”。路透社去年年底的一项调查发现，SpaceX无视全国工厂的工人安全法规和标准做法。通过采访和政府记录，路透纪录了自2014年以来至少600起此前未报道的SpaceX员工受伤事件。SpaceX没有回应路透社对这些事件的提问，包括一名工人的死亡和另一名工人的受伤，后者在2022年火箭发动机故障中头骨骨折，目前仍处于昏迷状态。此外，该公司也没有回应有关新安全罚款的置评请求。]]></title>
-            <guid>3490341</guid>
-            <pubDate>Tue, 13 Feb 2024 17:58:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国总统拜登将于美东时间下午1:15（北京时间凌晨2:15）在白宫就参议院对乌克兰和以色列援助法案发表讲话。]]></title>
-            <guid>3490340</guid>
-            <pubDate>Tue, 13 Feb 2024 17:54:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：夏巴兹·谢里夫被提名为巴基斯坦总理选举的党内候选人。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-14/detail-inahxqsx2119838.d.html</link>
-            <guid>3490339</guid>
-            <pubDate>Tue, 13 Feb 2024 17:54:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[哥伦比亚石油与天然气协会（ACP）：预计哥伦比亚2024年石油产量将达到80万桶/日。]]></title>
-            <guid>3490338</guid>
-            <pubDate>Tue, 13 Feb 2024 17:46:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[诺和诺德哥本哈根股价（NOVOB.DC）收涨0.20%，报832.30（丹麦克朗），创收盘历史新高，但脱离2月12日所创盘中历史新高845.70。]]></title>
-            <guid>3490337</guid>
-            <pubDate>Tue, 13 Feb 2024 17:42:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿斯麦控股荷兰阿姆斯特丹股价（ASML.NA）收跌3.07%，报850.70欧元，脱离2月12日所创收盘历史新高877.60欧元和盘中历史新高880.20欧元。]]></title>
-            <guid>3490336</guid>
-            <pubDate>Tue, 13 Feb 2024 17:39:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：比亚迪正在与墨西哥国家和地方政府官员就一处地点以及新工厂的其他条款进行谈判。]]></title>
-            <guid>3490335</guid>
-            <pubDate>Tue, 13 Feb 2024 17:38:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
