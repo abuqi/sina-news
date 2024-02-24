@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 24 Feb 2024 21:13:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Feb 2024 22:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【“抢人”大战持续！郑州最下“血本”：A类人才购房补300万元】开年开“卷”，除了人“卷”，各地各公司更是“卷人”。给钱、给物，还给房、给户口……“奇招”迭出，全都是为了“人才”。据不完全统计，2024年以来，上海、深圳、郑州、沈阳、合肥、南京等多地为了吸引和留住人才，纷纷出台了各种政策。其中，郑州最下“血本”。2月21日，郑州市住房保障和房地产管理局发布《郑州市人才首次购房补贴发放实施细则》，对在郑州工作并经省市认定的A、B、C、D类高层次人才，首次购房将给予50%的房价补贴，其中A类人才最高可获得300万元的购房补贴。（上海证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-25/detail-inakexpw2959478.d.html</link>
+            <guid>3502607</guid>
+            <pubDate>Sat, 24 Feb 2024 21:49:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【券商新客理财收益最高8.18% 有人"疯狂"开户】在存款利率不断走低的背景下，风险偏好较低的投资者如何钱生更多的钱？社交媒体上，不少人都盯上了券商新客理财，甚至开通多家券商账户轮番“薅羊毛”，或者动员父母开账户。券商也是随行就市，在社交媒体上推介新客理财产品，互相“卷”起利率，多数都在5%以上，最高可达8.18%。新客理财是券商给新客户发行的一种短期理财产品，以质押式报价回购或收益凭证为主。据渤海证券武汉分公司介绍，新客理财本质上是证券公司以贴息的方式，在新用户存钱时，给予用户利息补贴，利息往往高达6%~8%。这是目前市场上为数不多的高息理财产品，风险等级为R1，相当于券商发行的“存款”。面对高收益率，不少投资者都动心了，甚至开立多个券商的证券账户，只为薅新客理财羊毛。（券商中国）]]></title>
             <link>https://finance.sina.cn/7x24/2024-02-25/detail-inaketfs9082565.d.html</link>
@@ -302,12 +308,6 @@
             <link>https://finance.sina.cn/7x24/2024-02-24/detail-inakeaiy9424216.d.html</link>
             <guid>3502353</guid>
             <pubDate>Sat, 24 Feb 2024 13:00:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【建设银行发放首笔“数易贷”数据资产质押贷款】近日，中国建设银行上海市分行与上海数据交易所合作，成功发放首笔基于上海数交所推出的数据资产信贷服务产品“数易贷”的数据资产质押贷款。“数易贷”是由上海数交所主导，并联合多家银行共同推出的数据资产信贷服务产品。建行上海分行相关业务负责人表示，这笔基于“数易贷”服务的首单，实现了数据资产“确权-评估-质押-贷款”全流程贯通，是建行上海分行在数据要素金融化领域“零的突破”，开创了建行系统内及当地国有行基于可信数据资产凭证(DCB)进行数据资产质押融资的先例。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-24/detail-inakeaiy9424101.d.html</link>
-            <guid>3502352</guid>
-            <pubDate>Sat, 24 Feb 2024 12:59:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
