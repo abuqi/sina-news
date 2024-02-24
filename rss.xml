@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 24 Feb 2024 16:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Feb 2024 17:16:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【韩国近9000名医生请辞引发医疗灾难】扰攘超过半个月，韩国医疗界爆发的风暴至今仍在持续。当地时间2月23日，韩国政府将国家医疗危机警报级别上调至最高级的“严重”级。前一日，韩国保健福祉部通报，韩国100家大型综合医院中，已有9275名实习和住院医生递交辞职报告，占这些医院以上医生群体的74.4%，其中8024人离岗。医生接连请辞离岗，韩国医疗一线陷入混乱。目前，首尔五大医院取消了30%—50%的手术计划，一线医疗空缺不断扩大。（21财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-25/detail-inakehrw9325018.d.html</link>
+            <guid>3502523</guid>
+            <pubDate>Sat, 24 Feb 2024 16:33:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【新一轮加沙地带停火协议谈判取得积极进展】《以色列时报》24日报道称，一名消息人士说，在法国巴黎举行的新一轮加沙地带停火协议谈判取得了积极进展。以色列代表团已返回国内，以色列战时内阁将召开会议，就谈判内容进行讨论。23日，新一轮加沙地带停火协议谈判在法国巴黎举行，卡塔尔、埃及和美国代表与以色列代表团展开谈判，但哈马斯方面没有参加本次谈判。]]></title>
             <link>https://finance.sina.cn/7x24/2024-02-24/detail-inakehrw9320310.d.html</link>
@@ -300,11 +306,6 @@
             <title><![CDATA[【广汽传祺M8宗师先锋版上市 搭载华为车机】2月24日，广汽集团旗下自主品牌广汽传祺传祺M8宗师先锋版发布上市，该车型搭载华为车机，市场指导价29.58万元。]]></title>
             <guid>3502346</guid>
             <pubDate>Sat, 24 Feb 2024 12:37:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【AI模型Gemini被曝“绘制不出白人”，谷歌高级副总裁也道歉了】综合美联社等媒体报道，谷歌公司推出的AI模型Gemini具有根据文字生成图像的功能，但一些用户近期发现，大多数生成的人物图像都不是白人，而是有色人种。有用户认为，该模型在生成图像的过程中存在“反白人”问题。对此，谷歌称正采取让Gemini暂时停止运行生成人物图像功能的做法。美联社报道说，拉加万23日在谷歌博客网站发文称，“很明显，该功能未能达到预期结果”。他还称，“生成的一些图像不准确或者甚至令人不快。我们感谢用户的反馈，对该功能未能很好发挥作用感到抱歉”。（环球网）]]></title>
-            <guid>3502345</guid>
-            <pubDate>Sat, 24 Feb 2024 12:35:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
