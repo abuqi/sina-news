@@ -4,13 +4,104 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Wed, 28 Feb 2024 19:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 20:17:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【美联储威廉姆斯：2024年进行三次降息是美联储官员进行讨论的合理选项】美联储威廉姆斯表示，2024年进行三次降息是美联储官员进行讨论的合理选项。]]></title>
+            <title><![CDATA[新西兰金融市场监管局对加密平台数字资产交易所展开调查。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-29/detail-inakrtrv1871289.d.html</link>
+            <guid>3508921</guid>
+            <pubDate>Wed, 28 Feb 2024 20:16:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【数字货币交易所Coinbase的CEO：公司的交易应用程序正在恢复中】数字货币交易所Coinbase的CEO表示，公司的交易应用程序正在恢复中；平台上的交易流量超出了设计模型的10倍。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-29/detail-inakrtrv1871035.d.html</link>
+            <guid>3508920</guid>
+            <pubDate>Wed, 28 Feb 2024 20:13:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄原子能集团：印度库丹库拉姆核电站三、四号机组将于一年半到两年内进行物理启动】俄罗斯国家原子能集团总裁利哈乔夫表示，俄方参与建造的印度库丹库拉姆核电站三号、四号机组预计将于一年半到两年内进入物理启动阶段。利哈乔夫在俄国家杜马答问时指出，库丹库拉姆核电站的一号、二号机组已投产发电，目前还有4台机组在建，其中2台的建设完成度较高。他称：“预计将在一年半到两年内物理启动。”]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-29/detail-inakrtrv1870680.d.html</link>
+            <guid>3508919</guid>
+            <pubDate>Wed, 28 Feb 2024 20:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行管委Nagel：欧元区仍然缺乏可靠的薪资数据。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-29/detail-inakrtsa9983002.d.html</link>
+            <guid>3508918</guid>
+            <pubDate>Wed, 28 Feb 2024 20:08:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[太空探索初创公司“直觉机器”称，月球探测器将进入月面夜间休眠状态，公司将在三周后尝试将其重新唤醒。]]></title>
+            <guid>3508917</guid>
+            <pubDate>Wed, 28 Feb 2024 20:00:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏丹中部村庄近期多次遇袭 累计造成137人死伤】据苏丹媒体达尔富尔广播电台当地时间2月28日报道，苏丹民间组织抵抗委员会发布报告称，苏丹中部杰济拉州北部城市哈萨希萨附近的多个村庄最近三周遭遇武装分子39次袭击，共造成46名平民死亡，91人受伤。报告称，武装分子还焚烧房屋，抢劫车辆和财物。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-29/detail-inakrtsa5847251.d.html</link>
+            <guid>3508916</guid>
+            <pubDate>Wed, 28 Feb 2024 19:55:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新西兰联储主席奥尔表示，一段时间以来，纽元汇率一直处于合理的稳定水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-29/detail-inakrtrv1869487.d.html</link>
+            <guid>3508915</guid>
+            <pubDate>Wed, 28 Feb 2024 19:53:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【叙利亚大马士革南郊遭空袭】据叙利亚当地媒体沙姆电台报道，当地时间2月28日晚，以色列空袭叙利亚大马士革南郊。初步信息显示有人员伤亡。目前，以色列方面对此暂无回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-29/detail-inakrtrv1869454.d.html</link>
+            <guid>3508914</guid>
+            <pubDate>Wed, 28 Feb 2024 19:52:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加沙地带北部的医院中已有6名儿童因脱水和营养不良死亡】加沙地带卫生部门当地时间2月28日晚发表声明称，目前加沙地带北部卡迈勒·阿德万医院已有4名儿童因脱水和营养不良死亡，另有7名儿童处于严重危险之中。在加沙地带北部的希法医院，有2名儿童因相同原因死亡。声明呼吁国际社会立即采取行动，防止加沙地带北部发生人道主义灾难。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-29/detail-inakrtsa9981346.d.html</link>
+            <guid>3508913</guid>
+            <pubDate>Wed, 28 Feb 2024 19:48:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[数字货币交易所Coinbase称，客户交易状况已开始出现改善。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-29/detail-inakrtry9067656.d.html</link>
+            <guid>3508912</guid>
+            <pubDate>Wed, 28 Feb 2024 19:36:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI 4月原油期货收跌0.33美元，跌幅0.42%，报78.54美元/桶。NYMEX 4月天然气期货收报1.885美元/百万英热单位。]]></title>
+            <guid>3508911</guid>
+            <pubDate>Wed, 28 Feb 2024 19:32:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据两位知情人士透露，摩根士丹利正在进行尽职调查，以便在其经纪平台上增加现货比特币ETF产品。 (CoinDesk)]]></title>
+            <guid>3508910</guid>
+            <pubDate>Wed, 28 Feb 2024 19:32:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“股神”巴菲特旗下伯克希尔哈撒韦B类股涨0.8%，报412.37美元，盘中市值8910亿美元。瑞银集团预计，该公司市值将在未来12个月进入“市值万亿美元俱乐部”。]]></title>
+            <guid>3508909</guid>
+            <pubDate>Wed, 28 Feb 2024 19:27:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Alphabet首席执行官对Gemini AI图像生成错误进行批评 称其不可接受】首席执行官皮查伊(Sundar Pichai)给员工发了一封电子邮件，就谷歌Gemini AI此前出现的图像生成问题进行了回应，称其“完全不可接受”。皮查伊称，团队正在昼夜不停地纠正这些问题。他强调公司有必要提供公正和准确的信息，并表示将进行结构性改革，以防止类似事件的发生。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-29/detail-inakrtsa9979692.d.html</link>
+            <guid>3508908</guid>
+            <pubDate>Wed, 28 Feb 2024 19:25:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：TikTok正在下架环球音乐集团的歌曲，其致力于与环球音乐集团达成协议。]]></title>
+            <guid>3508907</guid>
+            <pubDate>Wed, 28 Feb 2024 19:21:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新西兰联储主席奥尔表示，目前的现金利率水平限制了需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-29/detail-inakrtry9065672.d.html</link>
+            <guid>3508906</guid>
+            <pubDate>Wed, 28 Feb 2024 19:19:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储威廉姆斯表示，数据将决定美联储何时降息，2024年进行三次降息是美联储官员进行讨论的合理选项。]]></title>
             <link>https://finance.sina.cn/7x24/2024-02-29/detail-inakrtrv1866623.d.html</link>
             <guid>3508905</guid>
             <pubDate>Wed, 28 Feb 2024 19:13:39 GMT</pubDate>
@@ -206,101 +297,6 @@
             <link>https://finance.sina.cn/7x24/2024-02-29/detail-inakrpkf0103087.d.html</link>
             <guid>3508872</guid>
             <pubDate>Wed, 28 Feb 2024 17:57:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【LME金属期货多数收跌】LME金属期货多数收跌，LME期铜收跌26美元，报8448美元/吨；LME期铝收跌1美元，报2190美元/吨；LME期锌收跌8美元，报2414美元/吨；LME期铅收跌8美元，报2083美元/吨；LME期镍收涨141美元，报17601美元/吨；LME期锡收涨201美元，报26561美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-29/detail-inakrpix1990666.d.html</link>
-            <guid>3508871</guid>
-            <pubDate>Wed, 28 Feb 2024 17:55:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普：报告认为美国经济与全球趋势背道而驰。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-29/detail-inakrpix1990241.d.html</link>
-            <guid>3508870</guid>
-            <pubDate>Wed, 28 Feb 2024 17:52:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美联储威廉姆斯：重申预计今年夏天将首次降息】美联储威廉姆斯表示，预计PCE通胀2024年约为2-2.25%，2025年为2%；通胀预测面临的风险是双向的；1月CPI数据表明，通胀路径将崎岖不平；就实现2%通胀目标而言，还有“一段路要走”；重申预计今年夏天将首次降息；“有条不紊”的降息将从今年晚些时候开始。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-29/detail-inakrpka9183316.d.html</link>
-            <guid>3508868</guid>
-            <pubDate>Wed, 28 Feb 2024 17:47:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Coinbase：已知晓部分用户的账户余额可能为零的问题】Coinbase表示，已知晓部分用户的账户余额可能为零的问题，团队正在调查问题并将提供信息更新。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-29/detail-inakrpix1989597.d.html</link>
-            <guid>3508867</guid>
-            <pubDate>Wed, 28 Feb 2024 17:46:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【践行“以投资者为本”发展理念，头部券商集体发布“质量回报双提升”行动方案】为践行“以投资者为本”的发展理念，以自身的高质量发展助力活跃资本市场、信心提振和经济高质量发展，2月28日晚间，申万宏源、国信证券、广发证券、东方财富等券商集体发布“质量回报双提升”行动方案，主要涉及加强投资者回报、聚焦主责主业、提升服务实体经济质效、强化责任担当等方面。盘古智库高级研究员江瀚表示：“券商集体发布‘质量回报双提升’行动方案，向市场传递了注重投资者利益的积极信号。”（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-29/detail-inakrpix1988574.d.html</link>
-            <guid>3508866</guid>
-            <pubDate>Wed, 28 Feb 2024 17:36:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【比特币快速回落至60000美元下方】比特币快速回落至60000美元下方，较高位回落近5000美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-29/detail-inakrpix1988141.d.html</link>
-            <guid>3508865</guid>
-            <pubDate>Wed, 28 Feb 2024 17:33:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据英国金融时报，尼日利亚拘捕了币安的两名高管。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-29/detail-inakrpke5957674.d.html</link>
-            <guid>3508864</guid>
-            <pubDate>Wed, 28 Feb 2024 17:31:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【两融余额连续7个交易日上升，券商“打补丁”加强两融业务管理】龙年开市以来，2月19日至2月27日，两融余额已连续7个交易日保持上升。数据显示，截至2月27日，两融余额为14768.63亿元，占A股流通市值的比例为2.21%。券商作为向投资者直接提供融资融券服务的主体，在维护两融业务平稳运行方面发挥着重要作用。为响应监管部门政策调整，券商积极行动，不断修订完善业务规则，以加强管理，防范相关风险。中国金融智库特邀研究员余丰慧表示，券商限制变相T+0交易有助于抑制投机行为，降低市场波动性，通过减少高频、短线交易的方式减轻市场的瞬时流动性压力，维护市场稳定。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-29/detail-inakrpkf0099690.d.html</link>
-            <guid>3508863</guid>
-            <pubDate>Wed, 28 Feb 2024 17:30:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美联储博斯蒂克：通胀问题仍需努力 尚未宣布胜利】美联储博斯蒂克表示，通胀问题仍需努力，尚未宣布胜利，预计通胀将继续朝向2%的轨迹发展；现在就说美联储是否可能在5月份降息为时尚早；美联储不应对通胀的一个数据点做过度反应。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-29/detail-inakrpkf0099279.d.html</link>
-            <guid>3508862</guid>
-            <pubDate>Wed, 28 Feb 2024 17:28:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果CEO库克表示，苹果今年将在生成式人工智能领域“开辟新天地”。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-29/detail-inakrpix1986174.d.html</link>
-            <guid>3508861</guid>
-            <pubDate>Wed, 28 Feb 2024 17:26:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黎巴嫩真主党称袭击多个以色列军事目标】黎巴嫩真主党当地时间2月28日发表声明称，其武装人员当天使用制导武器袭击了位于比尔卡特里沙、萨巴阿农场等地点的以色列军事目标。（央视新闻）]]></title>
-            <guid>3508860</guid>
-            <pubDate>Wed, 28 Feb 2024 17:24:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果股东投票否决关于AI透明度报告的请求。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-29/detail-inakrpix1985386.d.html</link>
-            <guid>3508859</guid>
-            <pubDate>Wed, 28 Feb 2024 17:22:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：麦康奈尔将于11月卸任参议院共和党领袖]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-29/detail-inakrpkf0097703.d.html</link>
-            <guid>3508858</guid>
-            <pubDate>Wed, 28 Feb 2024 17:22:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国波士顿联储主席Collins：1月CPI数据表明，遏制通胀的进展并不均衡】美国波士顿联储主席Collins表示，希望看到在抗击高通胀问题上取得更多进展；1月CPI数据表明，遏制通胀的进展并不均衡；要让通胀恢复到2%，今年的增长速度可能需要放缓。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-29/detail-inakrpkf0097675.d.html</link>
-            <guid>3508857</guid>
-            <pubDate>Wed, 28 Feb 2024 17:22:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【比特币突破64000美元/枚】比特币涨势不止，突破64000美元/枚，续刷2021年11月以来新高；日内涨13%，本月迄今大涨近50%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-29/detail-inakrpke5954146.d.html</link>
-            <guid>3508856</guid>
-            <pubDate>Wed, 28 Feb 2024 17:18:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波音：公司将制定全面的行动计划 展示“深刻的改进”】波音表示，在与美国联邦航空管理局（FAA）局长会面后，公司将制定全面的行动计划，展示“深刻的改进”。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-29/detail-inakrpkf0096836.d.html</link>
-            <guid>3508855</guid>
-            <pubDate>Wed, 28 Feb 2024 17:16:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
