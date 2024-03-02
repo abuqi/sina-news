@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 02 Mar 2024 20:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Mar 2024 21:13:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ 【乌克兰敖德萨一民宅遭无人机袭击 已致8人死亡】当地时间3月2日，乌克兰敖德萨官方称当地住宅楼遇袭事件中已有8人死亡。乌克兰紧急情况服务局当天宣布，敖德萨一9层住宅楼当日凌晨遭俄军无人机袭击。俄方对此暂无回应。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-03/detail-inakyraw6699764.d.html</link>
+            <guid>3512574</guid>
+            <pubDate>Sat, 02 Mar 2024 20:53:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【受风暴影响 美国西部9个州发布冬季警报】当地时间3月2日，据美国广播公司（ABC）报道，美国国家气象局表示，美国西部大部分地区目前正在受到严重的风暴影响，已有9个州发布了冬季警报，其中包括华盛顿州、科罗拉多州、爱达荷州、蒙大拿州、内华达州等。加利福尼亚州内华达山脉大部分地区也已发布暴风雪警报。此外，美国西部地区已有超过800万人收到了大风警报。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2024-03-03/detail-inakyraw6697976.d.html</link>
@@ -305,12 +311,6 @@
             <link>https://finance.sina.cn/7x24/2024-03-02/detail-inakxyew8938035.d.html</link>
             <guid>3512332</guid>
             <pubDate>Sat, 02 Mar 2024 13:17:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全国人大代表、盐津铺子董事长张学武：建议为民企出海提供外汇便利化和金融服务供给】全国人大代表、盐津铺子董事长张学武建议国家要鼓励民企出海，为民营企业提供外汇便利化和金融服务供给，完善跨境投融资便利化政策，开展跨国公司本外币一体化资金池业务，便利民营企业统筹境内外资金划转和使用；推动金融机构开发适合企业“走出去”的金融产品和服务，如设立海外投资基金，优化对外投资贷款审批流程，降低企业海外投融资成本。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-02/detail-inakxyew8936668.d.html</link>
-            <guid>3512330</guid>
-            <pubDate>Sat, 02 Mar 2024 13:08:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
