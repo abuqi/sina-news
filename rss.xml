@@ -4,11 +4,147 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Tue, 12 Mar 2024 19:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 20:18:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[英特尔美股盘后跌0.6%，美国五角大楼废弃授予该公司价值25亿美元的防务芯片拨款，此举将迫使商务部填补（国防部面临的）资金漏洞。]]></title>
+            <guid>3526646</guid>
+            <pubDate>Tue, 12 Mar 2024 20:18:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿根廷消费者价格指数2月同比上涨276.2%】 当地时间12日下午，阿根廷国家统计局发布2月物价数据显示，该国2月消费者价格指数与1月相比上涨13.2%，与去年2月相比上涨276.2%。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanceay2259048.d.html</link>
+            <guid>3526645</guid>
+            <pubDate>Tue, 12 Mar 2024 20:17:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克表示，星舰Flight 3将于本周末准备发射，具体取决于天气。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanceaz0039656.d.html</link>
+            <guid>3526644</guid>
+            <pubDate>Tue, 12 Mar 2024 20:17:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ALLBIRDS股价盘后一度下跌28%，因销售前景不及预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanceca4367460.d.html</link>
+            <guid>3526643</guid>
+            <pubDate>Tue, 12 Mar 2024 20:14:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beauty Health任Marla Beck 为首席执行官。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanceay2258603.d.html</link>
+            <guid>3526642</guid>
+            <pubDate>Tue, 12 Mar 2024 20:10:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国防部取消了向英特尔提供25亿美元国防拨款计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanceay2258479.d.html</link>
+            <guid>3526641</guid>
+            <pubDate>Tue, 12 Mar 2024 20:09:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法国央行下调2024年GDP预期至增长0.8%】法国央行下调2024年GDP预期至增长0.8%，之前料增0.9%；法国央行下调2024年CPI预期至2.4%，之前预计为2.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanceaz0038732.d.html</link>
+            <guid>3526640</guid>
+            <pubDate>Tue, 12 Mar 2024 20:05:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英伟达收涨7.2%，市值增加1530亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inancece1141864.d.html</link>
+            <guid>3526639</guid>
+            <pubDate>Tue, 12 Mar 2024 20:02:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[甲骨文上涨12%，收盘创纪录新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanceaz0038511.d.html</link>
+            <guid>3526638</guid>
+            <pubDate>Tue, 12 Mar 2024 20:02:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【热门中概股普涨 理想汽车涨超8%】热门中概股普涨，理想汽车涨超8%，富途控股涨超7%，拼多多、爱奇艺、京东涨超5%，微博、唯品会涨超4%，百度涨超3%，腾讯音乐、小鹏汽车涨超2%，阿里巴巴、蔚来、网易涨超1%，哔哩哔哩小幅上涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanceca4365404.d.html</link>
+            <guid>3526637</guid>
+            <pubDate>Tue, 12 Mar 2024 20:01:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股三大指数集体收涨 标普500指数收涨1.1%创历史收盘新高】美股高开高走，三大指数集体收涨。纳指涨1.54%，标普500指数涨1.12%，道指涨0.61%。其中，标普500指数创历史收盘新高。大型科技股多数上涨，英伟达涨超7%，Meta涨超3%，微软、亚马逊涨超2%，奈飞涨超1%，谷歌、苹果、英特尔小幅上涨；特斯拉小幅下跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanceca4365348.d.html</link>
+            <guid>3526636</guid>
+            <pubDate>Tue, 12 Mar 2024 20:00:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲央行管委维勒鲁瓦：欧洲央行在春季降息方面达成广泛共识】欧洲央行管委维勒鲁瓦表示，欧洲央行广泛同意在春季降息。欧洲央行可以自由、务实地决定降息步伐。欧洲央行可以独立于美联储政策而降息。（环球市场播报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanceca4365312.d.html</link>
+            <guid>3526635</guid>
+            <pubDate>Tue, 12 Mar 2024 20:00:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[量化交易巨头Citadel创始人格里芬：加密货币需要清晰的监管来吸引“大玩家”。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanceca4365094.d.html</link>
+            <guid>3526634</guid>
+            <pubDate>Tue, 12 Mar 2024 19:58:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英伟达(NVDA.O)尾盘涨幅扩大至7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanceaz0038204.d.html</link>
+            <guid>3526633</guid>
+            <pubDate>Tue, 12 Mar 2024 19:57:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国得州尤瓦尔迪市警察局长宣布辞职】当地时间3月12日，美国得克萨斯州尤瓦尔迪市警察局长丹尼尔·罗德里格斯宣布辞职，并表示将于4月6日正式离职。不到一周前，尤瓦尔迪市议会就2022年发生的罗布小学枪击案发布了一份独立调查报告。报告显示，最初对枪击事件做出反应的5名警察没有违反政策或存在严重不当行为，这让出席听证会的受害者家属感到震惊和愤怒。2022年5月24日，得州尤瓦尔迪市罗布小学发生大规模枪击案，造成19名小学生和2名教师死亡，当时赶到现场的警察在教室外等待了77分钟才冲进教室打死枪手。得州警方事后承认，现场的警察做出了错误的决定。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanceaz0038127.d.html</link>
+            <guid>3526632</guid>
+            <pubDate>Tue, 12 Mar 2024 19:56:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波音公司将在737工厂增添合规和设备检查岗位。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanceaz0037781.d.html</link>
+            <guid>3526631</guid>
+            <pubDate>Tue, 12 Mar 2024 19:51:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普将夏威夷电力展望下调至负面。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanceca4364223.d.html</link>
+            <guid>3526630</guid>
+            <pubDate>Tue, 12 Mar 2024 19:50:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一季度业绩抢先看 多家上市公司提前预告“开门红”】2024年一季度尚未结束，已有多家上市公司迫不及待地对一季度业绩预喜。数据显示，截至3月12日，A股共有9家上市公司披露一季度业绩预告，除1家预告类型为不确定外，其余均为预喜，中国企业资本联盟副理事长柏文喜表示：“多家公司一季报预喜，不仅反映了国内市场新的需求变化，同时也体现了行业整体发展新趋势。” (证券日报)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inancece1139286.d.html</link>
+            <guid>3526629</guid>
+            <pubDate>Tue, 12 Mar 2024 19:38:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【为OPEC减产提供缓冲 EIA预计今年美国原油产量增长超过预期】美国政府预计，今年美国原油产量的增长将快于此前预期，有助于在OPEC+减产之际为全球供应提供缓冲。美国能源信息管理局(EIA)在周二公布的短期能源展望中表示，今年美国原油产量料将增至1319万桶/日，高于此前预计的1310万桶/日。该机构表示，明年的产量料将增至1365万桶/日，较之前的预测增长1.2%。尽管EIA的预测可能会逐月发生较大变化，但市场正密切关注是否有迹象显示OPEC+减产会导致供应紧张到足以推高油价。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanceaz0036529.d.html</link>
+            <guid>3526628</guid>
+            <pubDate>Tue, 12 Mar 2024 19:34:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【格里芬：美联储的降息速度将比市场预期的慢一些】量化交易巨头Citadel创始人格里芬表示，美联储的降息速度将比市场预期的慢一些。没有人知道我们目前在人工智能发展过程中处于什么位置，但英伟达似乎处于领先地位。我的对冲基金本月早些时候投资于纽约社区银行，因为其价格合适。投资美国国债风险并不大，但投资国债的风险“被低估了”。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanceca4361683.d.html</link>
+            <guid>3526627</guid>
+            <pubDate>Tue, 12 Mar 2024 19:27:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[由于农业增长放缓，迪尔将在爱荷华州工厂裁员150人。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanceay2255323.d.html</link>
+            <guid>3526626</guid>
+            <pubDate>Tue, 12 Mar 2024 19:25:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登周二在华盛顿会见了卡车司机工会成员。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanceaz0035873.d.html</link>
+            <guid>3526625</guid>
+            <pubDate>Tue, 12 Mar 2024 19:24:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IBM将在营销和通信部门裁员。]]></title>
+            <guid>3526624</guid>
+            <pubDate>Tue, 12 Mar 2024 19:15:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[COMEX 4月黄金期货结算价收跌1.03%，报2166.10美元/盎司。COMEX 5月白银期货结算价收跌1.3%，报24.394美元/盎司。]]></title>
             <guid>3526623</guid>
@@ -158,141 +294,6 @@
             <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanaxva2380480.d.html</link>
             <guid>3526595</guid>
             <pubDate>Tue, 12 Mar 2024 18:27:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[尼尔森（ Nielsen Holdings Ltd）据称考虑出售10亿美元的非核心资产。]]></title>
-            <guid>3526594</guid>
-            <pubDate>Tue, 12 Mar 2024 18:27:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国核心通胀连续第二个月高于预期 市场仍预测6月最可能降息】受二手车、航空旅行和服装价格大涨影响，美国2月核心通胀率连续第二个月高于预期，为美联储对降息的谨慎态度提供了进一步支持。周二公布的数据显示，剔除食品和能源价格的核心消费者价格指数(CPI)环比增长0.4%，较上年同期上涨3.8%。经济学家认为核心CPI比整体CPI更能反映潜在通胀水平。在1月CPI加快上行后，2月份的数据进一步证明了通胀的顽固性足以让央行官员对过早放松政策保持警惕。美联储主席鲍威尔上周表示，他和同僚距离对降息有信心已经不远，但一些官员表示希望在降息前看到通胀出现更广泛的降温。过去三个月核心CPI折合成年率上升4.2%，为6月以来最大涨幅。虽然交易员对6月降息的押注略有回调，但他们仍然认为该月最可能启动降息。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanaxvc0160696.d.html</link>
-            <guid>3526593</guid>
-            <pubDate>Tue, 12 Mar 2024 18:25:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【麦康奈尔呼吁众议院议长允许就乌克兰援助进行投票】美国参议院少数党领袖麦康奈尔呼吁美国众议院议长约翰逊对参议院通过的向乌克兰提供更多援助的法案进行投票。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanaxvh1258074.d.html</link>
-            <guid>3526592</guid>
-            <pubDate>Tue, 12 Mar 2024 18:22:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【锂电板块延续涨势 业界认为行业周期拐点将近】多位受访人士表示，尽管现阶段锂电产业链仍处于产能出清和价格稳定阶段，但下行底部已逐渐清晰，行业周期拐点临近。行业排产也在持续回升。根据高工产研锂电研究所数据，在今年1月份至2月份的排产低迷期后，3月份锂电企业排产回升表现强势，部分企业甚至出现环比超70%的排产回升。中金公司预计，考虑到各环节、不同客户降价执行期不同，2024年二季度报表端会持续反映降价，但降价幅度有望收窄，产业链各环节盈利或在2024年中触底。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanaxvc0159164.d.html</link>
-            <guid>3526591</guid>
-            <pubDate>Tue, 12 Mar 2024 18:13:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【开年以来逾800家A股上市公司披露回购计划，总数已超去年全年】2024年以来，逾800家A股上市公司披露了回购计划，已超过2023全年的716家，回购金额上限规模达900亿元。随着资本市场制度建设不断完善，监管层和上市公司理念的转变，A股市场回购行为正趋于规范化和长期化。有业内人士分析认为，A股公司股份回购热情持续高涨，其背后不仅反映市场价值凸显、监管理念的变化，还与A股市场优质上市公司越来越多密不可分。这些明显变化折射出中国资本市场高质量发展的新态势。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanaxvc0159123.d.html</link>
-            <guid>3526590</guid>
-            <pubDate>Tue, 12 Mar 2024 18:12:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【券商“补血”需求旺盛 年内境内发债已超2100亿元】随着重资本业务的不断发展，券商“补血”需求旺盛。去年至今，发债融资逐渐成为券商补充资金的重要渠道，今年以来，共有49家券商获批发债，合计规模已超2100亿元。与此同时，券商还积极拓展融资渠道，在境外发行中期票据。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanaxvc0159024.d.html</link>
-            <guid>3526589</guid>
-            <pubDate>Tue, 12 Mar 2024 18:11:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【券商2023年债券承销排名出炉 中信证券六项指标名列第一】3月12日晚间，中国证券业协会发布2023年度券商债券承销业务专项统计。综合来看，中信证券、华泰证券（包括华泰联合证券）等头部券商在债券承销业务中多项指标保持领先，国金证券、平安证券、华源证券等中小券商在部分指标中表现优秀。其中，行业龙头中信证券在六项指标中名列第一。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanaxvh1254931.d.html</link>
-            <guid>3526588</guid>
-            <pubDate>Tue, 12 Mar 2024 18:04:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以色列国防军称对黎南部进行袭击】以色列国防军当地时间12日晚表示，在过去的几个小时，以军监测到从黎巴嫩向以色列北部扎里特、什图拉、罗斯哈尼卡拉地区发射的多枚火箭弹。以军随后利用火炮对这些火箭弹发射点予以回击，并且打击了黎巴嫩的其他军事据点，以消除威胁。以军表示，不久前，以军还出动战机，对黎巴嫩真主党武装位于黎巴嫩南部阿迪萨的军事设施以及位于艾塔阿什沙布的军事建筑展开空袭。对此，黎巴嫩方面暂无回应。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanaxvc0158212.d.html</link>
-            <guid>3526587</guid>
-            <pubDate>Tue, 12 Mar 2024 18:04:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【年内280只公募QDII基金实现正收益】截至3月12日，年内有280只公募QDII基金实现正收益，其中收益率超过10%的有25只，景顺长城纳斯达克科技市值加权ETF、创金合信全球芯片产业A等产品收益率均在15%以上。从份额表现来看，截至3月12日，年内有近380只公募QDII基金份额呈现正增长，其中，涨幅超过10%的有47只，建信新兴市场优选A等多只产品份额涨幅均超过15%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanaxve4478465.d.html</link>
-            <guid>3526586</guid>
-            <pubDate>Tue, 12 Mar 2024 18:03:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【公募QDII基金渐热 月内50只产品相继“谢客”】近期，公募QDII基金纷纷暂停大额申购。Wind统计显示，截至3月12日，月内已有50只公募QDII基金发布了暂停大额申购公告；同时，还有多只基金发布了关于溢价风险提示和产品资料概述更新的公告。 对此，多家受访公募基金认为，这主要是外汇额度有限所致，而外汇额度不足可能与短期净值回升有关。短期来看，投资者还应依据自身实际情况，谨慎对待外盘市场风险，避免盲目操作。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanaxvc0158086.d.html</link>
-            <guid>3526585</guid>
-            <pubDate>Tue, 12 Mar 2024 18:02:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国2月政府预算 -2960亿美元，预期-2990亿美元，前值-220亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanaxvh1254396.d.html</link>
-            <guid>3526584</guid>
-            <pubDate>Tue, 12 Mar 2024 18:00:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京将起草数据跨域管控地方标准 蚂蚁集团、北数所牵头】近日有消息称，今年北京市将制定5项数据相关的地方标准，其中，数据跨域管控相关标准，将由蚂蚁集团联合北京国际大数据交易所（以下简称“北数所”）牵头。3月12日，记者向蚂蚁集团求证此事，蚂蚁集团方面回应称，将与北数所共同牵头启动《数据可信流通跨域管控技术规范》标准制定。（证券日报）]]></title>
-            <guid>3526583</guid>
-            <pubDate>Tue, 12 Mar 2024 18:00:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国共和党众议员KEN BUCK宣布将于3月22日离开国会。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanaxve4477846.d.html</link>
-            <guid>3526582</guid>
-            <pubDate>Tue, 12 Mar 2024 17:58:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家安全顾问沙利文：乌克兰援助计划不应推迟安全法案。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanaxve4477707.d.html</link>
-            <guid>3526581</guid>
-            <pubDate>Tue, 12 Mar 2024 17:57:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国宣布向乌克兰提供3亿美元军事援助】白宫宣布了向乌克兰提供3亿美元军事援助的一揽子计划，这是拜登政府在国会仍陷入僵局之际为确保向基辅提供援助而做出的最新努力。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanaxva2376930.d.html</link>
-            <guid>3526580</guid>
-            <pubDate>Tue, 12 Mar 2024 17:56:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国计划向波兰提供20亿美元贷款并向波兰出售96架阿帕奇直升机】美国国家安全顾问表示，美国计划推进向波兰提供20亿美元直接贷款，并将提议向该国出售96架阿帕奇直升机。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanaxvc0157544.d.html</link>
-            <guid>3526579</guid>
-            <pubDate>Tue, 12 Mar 2024 17:55:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【312地建立城市房地产融资协调机制 超八成“白名单”项目来自民营企业和混合所有制企业】从此前披露的数据来看，目前，全国31个省份312个城市建立了城市房地产融资协调机制，各地按照“一项目一方案”上报的“白名单”项目达到6000多个。在这些项目中，82.8%是民营企业和混合所有制企业的项目（据此测算，在“白名单”项目中，至少有4900个为民营企业和混合所有制企业项目）。截至2月底，商业银行已经审批贷款超过2000亿元。中指研究院市场研究总监陈文静表示，随着后续“白名单”项目的不断扩围，以及项目融资资金的逐渐到位，可以预期的是，房地产项目建设或将加速，房企和购房者的市场预期有望得到进一步修复。(证券日报)]]></title>
-            <guid>3526578</guid>
-            <pubDate>Tue, 12 Mar 2024 17:55:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国企当先 龙头发力 2024年中国医药产业并购开局有力】 2024年一季度，中国医药产业掀起一轮并购热潮。仅在A股市场，就涌现出新天药业收购汇伦医药、华润双鹤收购华润紫竹、中国通用集团并购整合重药控股、迈瑞医疗收购惠泰医疗等大型交易案例，还有北陆药业、赛托生物、新诺威等一批上市公司抛出交易方案，并购市场迎来一轮小高潮。“当前，国内医药行业对资源整合提出新要求。”一位受访的医药行业资深研究员告诉上海证券报记者，“一方面，大药企加速通过并购新公司来构建新的业务线或核心竞争力；另一方面，越来越多未盈利的Biotech（初创生物科技企业）在IPO阶段性收紧后冷静思考并重新定位，接受被并购求生存。此外，对于站在初创公司背后的一级市场投资机构来说，被并购也满足了其迫切的退出需求。”(上海证券报)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanaxvc0157194.d.html</link>
-            <guid>3526577</guid>
-            <pubDate>Tue, 12 Mar 2024 17:53:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今年我国外贸开局良好 专家预计政策面将加大支持力度】今年我国外贸取得“开门红”。海关总署署长俞建华表示，总体来看，今年我国外贸开局良好，初步判断上半年可以保持在增长的通道，全年实现《政府工作报告》提出的“质升量稳”有基础、有条件。民生银行首席经济学家温彬表示，我国出口实现四连增，进口实现三连增，反映内外需持续转暖，可基本确认进出口步入上行通道。展望未来，东方金诚研究发展部总监冯琳表示，预计今年政策面将加大对外贸出口的支持力度，着力改善出口企业面临的政策和制度环境。其中，针对当前增长较快的跨境电商出口，监管层也会有针对性地完善通关、税收、外汇等政策，加快构建适应跨境电商发展的供应链和生态圈，鼓励外贸新业态发展。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanaxvc0157067.d.html</link>
-            <guid>3526576</guid>
-            <pubDate>Tue, 12 Mar 2024 17:52:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲斯托克600指数创新高 美国CPI高于预期无损风险偏好】欧洲斯托克600指数进一步上涨并创新高，此前美国通胀率高于预期无损风险偏好。美国核心通胀率略高于经济学家的预期，但是市场对于美联储6月降息的预期不为所动。这个欧洲基准股指在伦敦收盘上涨1%，创下1月份以来的最大涨幅，汽车、银行和矿业股领涨。过去一年表现惨淡之后，矿业股正在反弹。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanaxvc0156347.d.html</link>
-            <guid>3526575</guid>
-            <pubDate>Tue, 12 Mar 2024 17:46:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“专精特新”连续三年写入《政府工作报告》 资本市场赋能“专精特新”迎来关键期】今年的《政府工作报告》提出，促进中小企业专精特新发展。这是“专精特新”一词，连续第三年出现在《政府工作报告》中。 申万宏源专精特新首席分析师刘靖表示，专精特新企业是我国制造业企业的优秀代表，是先进生产力的重要组成部分，也是我国“补短板”“锻长板”“填空白”的重要抓手。发展专精特新企业既有利于提高我国在国际产业链上的地位，提升我国制造业的强度和韧性，又有利于增加就业机会，增加社会福祉。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanaxvh1251612.d.html</link>
-            <guid>3526574</guid>
-            <pubDate>Tue, 12 Mar 2024 17:46:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲天然气下跌 近月合约跌至两周最低水平 因大量库存限制了补充能力】欧洲天然气价格进一步下跌，原因是需求低迷和储备充足。基准近月期货价格在触及两周来最低水平后收于每兆瓦时25欧元下方。自10月份供暖季开始以来该合约已下跌约40%。欧洲天然气基准--荷兰天然气近月期货下跌0.6%，收盘价报每兆瓦时24.78欧元。（环球市场播报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanaxva2375083.d.html</link>
-            <guid>3526573</guid>
-            <pubDate>Tue, 12 Mar 2024 17:44:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【加快调研步伐 机构掘金大消费板块】 近段时间以来，机构密集调研消费股。数据显示，2月以来，燕京啤酒、安琪酵母、舍得酒业、好想你等多只消费股接待了超过50家机构调研，其中不乏头部公募和全球资管巨头。与此同时，海外资金开始逐步回流消费板块。在多家机构看来，经过估值回调，很多消费类公司的估值已经到了非常具有性价比的位置，当下具有投资价值。(上海证券报)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-13/detail-inanaxva2374691.d.html</link>
-            <guid>3526572</guid>
-            <pubDate>Tue, 12 Mar 2024 17:40:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
