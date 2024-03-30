@@ -4,11 +4,34 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 30 Mar 2024 20:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Mar 2024 21:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国马里兰州州长：将尽快采取行动重新开放巴尔的摩港口航线】当地时间3月30日，据《国会山报》报道，美国马里兰州州长韦斯·摩尔当日在新闻发布会上表示，将在确保急救人员安全的情况下，尽快采取行动重新开放巴尔的摩港口的航线。此前，美国马里兰州巴尔的摩“弗朗西斯·斯科特·基”大桥于本月26日凌晨因船只撞击坍塌，造成人员及车辆落水。落水的大桥残骸堵塞了巴尔的摩港入口，导致航线陷入停滞。目前，美国政府已经向马里兰州交通部提供了6000万美元的紧急救济资金，作为“弗朗西斯·斯科特·基”大桥紧急维修和重建的初始费用首付。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-31/detail-inaqcyfc9619124.d.html</link>
+            <guid>3555163</guid>
+            <pubDate>Sat, 30 Mar 2024 21:01:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国明尼苏达州发生一起枪击事件 1名儿童重伤】据美媒当地时间3月30日报道，美国明尼苏达州29日21时左右发生一起枪击事件，造成一名11岁男孩受重伤。警方称，该男孩头部中枪，现已被送往医院，伤势危及生命。调查人员表示，警方已拘留一名可能是嫌疑人的13岁女孩。目前，警方仍在对该事件进行调查，暂未公布枪击事件的其他细节。（央视新闻）]]></title>
+            <guid>3555162</guid>
+            <pubDate>Sat, 30 Mar 2024 20:59:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【拜登赢得美国2024年总统选举北达科他州民主党初选】当地时间3月30日，据《国会山报》报道，截至美国东部时间当日16时，美国2024年总统选举北达科他州民主党初选已完成了超过99%的选票清点，美国总统拜登共获得840张选票，占据当前总票数的92.4%，赢得该州民主党对其成为党派总统候选人的支持。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-31/detail-inaqcyfa2842170.d.html</link>
+            <guid>3555161</guid>
+            <pubDate>Sat, 30 Mar 2024 20:46:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列军方宣布打死两名哈马斯高级领导人】以色列军方当地时间3月30日宣布，以军当天在加沙地带北部加沙城希法医院的军事行动中，打死巴勒斯坦伊斯兰抵抗运动（哈马斯）的两名高级领导人。以军发言人阿维哈伊·阿德雷伊30日在社交媒体发表声明说，以军当天在希法医院打死多名巴武装人员，其中包括哈马斯负责军事情报的高级领导人法迪·杜韦克和哈马斯负责在约旦河西岸活动的领导人扎卡里亚·纳吉布。阿德雷伊还发布了相关人员照片和以军军事行动相关视频。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-31/detail-inaqcyff8819964.d.html</link>
+            <guid>3555160</guid>
+            <pubDate>Sat, 30 Mar 2024 20:30:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【缅甸仰光省发生炸弹爆炸事件 3人死亡】缅甸仰光省茂比镇政府官员当地时间3月30日表示，该镇当天下午发生一起炸弹爆炸事件，导致包括2名儿童在内的3人死亡。该官员说，爆炸发生在公交车站附近的垃圾堆，一名拾荒女子和2名儿童当场被炸死。据悉，27日至30日，仰光苏雷、茵盛、敏加拉洞、莱达雅和茂比等地先后发生9次爆炸，共造成4人死亡、8人受伤。警方还在一些地区清除了未爆炸弹。]]></title>
             <link>https://finance.sina.cn/7x24/2024-03-31/detail-inaqcyey0707515.d.html</link>
@@ -280,30 +303,6 @@
             <link>https://finance.sina.cn/7x24/2024-03-30/detail-inaqciip9166733.d.html</link>
             <guid>3554914</guid>
             <pubDate>Sat, 30 Mar 2024 13:51:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌能源集团称其八成火力发电产能因俄袭击受损】乌克兰国际文传电讯社当地时间3月30日报道称，乌克兰最大能源集团之一DTEK能源集团执行董事当天表示，3月俄罗斯对DTEK集团能源设施发动了十多次袭击。其中最大规模的袭击发生在3月22日，随后3月29日该集团遭受第二次大规模袭击，发电和配电设施受损，集团下属5到6个火力发电厂遭到严重破坏，有些几乎完全被摧毁。这导致80%火力发电产能受损。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-30/detail-inaqciip9166242.d.html</link>
-            <guid>3554911</guid>
-            <pubDate>Sat, 30 Mar 2024 13:50:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据猫眼专业版数据，电影《坠落的审判》上映2天 ，总票房破1000万。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-30/detail-inaqciih1054361.d.html</link>
-            <guid>3554910</guid>
-            <pubDate>Sat, 30 Mar 2024 13:50:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【包钢股份：环保绩效创A工作启动，超低排放改造已完成】据包钢股份消息，从包钢股份制造部了解到，包钢股份环保绩效创A工作已正式启动，标志着包钢股份为迎接这场环保“大考”做足赛前准备。据悉，包钢股份超低排放改造已完成，清洁运输有关事项已在中钢协网站公示。按照生态环境部《重污染天气重点行业应急减排措施制定技术指南（2020年）修订版》规定，钢铁行业环保绩效分级细化为A、B、B-、C、D共五级，重污染天气期间，A级企业可以自主减排，B（含B-）、C、D级企业必须按比例限产停产。A级是绩效评级最高等级，代表企业环保治理达到国家先进水平。A级除了在重污染天气期间可以免除应急减排措施，还可享受税收优惠、资金保障等一系列政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-30/detail-inaqciik3180177.d.html</link>
-            <guid>3554909</guid>
-            <pubDate>Sat, 30 Mar 2024 13:47:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【创新引领 相约永川 一批制造业智能化解决方案集中亮相】首届制造业智能化解决方案创新大赛总决赛暨创新大会于3月29日至30日在重庆市永川区举行。大会遴选发掘出了一批具有创新性、引领性和可复制性的智能化解决方案和创新团队。与会专家表示，智能制造系统解决方案既是国际产业巨头重点布局方向，也是国内企业创新突破、提升自主可控能力的关键，期待产学研用金智媒各方共同参与，推动优秀经验、先进成果在更多地区、行业落地应用。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-30/detail-inaqciip9165537.d.html</link>
-            <guid>3554905</guid>
-            <pubDate>Sat, 30 Mar 2024 13:45:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
