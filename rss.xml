@@ -4,13 +4,136 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Wed, 03 Apr 2024 19:14:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Apr 2024 20:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[市场消息：继造车失败后，苹果将家用机器人视为“下一大事件”。]]></title>
+            <title><![CDATA[巴西部长：能源价格可降低5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-04/detail-inaqqyrk1532742.d.html</link>
+            <guid>3560839</guid>
+            <pubDate>Wed, 03 Apr 2024 20:13:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【李维斯上调财年每股收益预估】李维斯第一财季调整后每股收益为0.26美元，分析师预期0.21美元；第一财季净营收15.6亿美元，分析师预期15.5亿美元；整个财年调整后每股收益预估为1.17-1.27美元，此前的预估为1.15-1.25美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-04/detail-inaqqyra3420940.d.html</link>
+            <guid>3560837</guid>
+            <pubDate>Wed, 03 Apr 2024 20:11:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【油价逼近每桶90美元 OPEC+坚持减产】原油价格周三小幅上涨，延续了推动价格升至5个月高点的涨势，之前OPEC+部长们确认要维持当前的减产政策。OPEC及其盟友在部长级会议上没有建议对现有减产措施进行任何调整，意味着大约200万桶/日的减产将持续到6月底。美国政府报告显示上周全国原油库存增加321万桶，与一个行业组织做出的库存下降的预测不符。官方数据还显示汽油库存下降。远月合约期货显示出看涨情绪，石油期权交易员也越来越多寻求防范价格上涨风险，此外跨期价差进一步转向现货溢价，也凸显市场强势。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-04/detail-inaqqyra3420934.d.html</link>
+            <guid>3560836</guid>
+            <pubDate>Wed, 03 Apr 2024 20:10:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【谷歌考虑对基于人工智能的搜索收费】谷歌考虑对基于人工智能的搜索收费，这对其商业模式来说是一次重大变革。谷歌正在考虑各种选择，包括将某些基于人工智能的搜索功能添加到其高级订阅服务中。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-04/detail-inaqqyra3420616.d.html</link>
+            <guid>3560828</guid>
+            <pubDate>Wed, 03 Apr 2024 20:05:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【联合国专家对加沙地带希法医院遭到的破坏表示谴责】当地时间4月3日，联合国专家发表声明，对以军围攻加沙地带最大医院希法医院带来的破坏表示谴责。声明指出，国际法禁止围攻和破坏医院以及杀害医务人员、伤病员和保护他们的人。允许这种暴力行为的发生向国际社会发出了一个明确的信息：加沙人民没有健康权和维持生存的关键决定因素。联合国专家同时呼吁立即采取行动提供人道主义援助。目前当地迫切需要食物、水、住所、燃料、紧急医疗服务等支持。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-04/detail-inaqqyrk1532361.d.html</link>
+            <guid>3560827</guid>
+            <pubDate>Wed, 03 Apr 2024 20:04:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：04月04日03时46分在台湾花莲县海域（北纬23.89度，东经121.77度）发生4.2级地震，震源深度10千米。]]></title>
+            <guid>3560824</guid>
+            <pubDate>Wed, 03 Apr 2024 20:01:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【热门中概股多数下跌 理想汽车跌超2%】热门中概股多数下跌，理想汽车、小鹏汽车跌超2%，京东、哔哩哔哩、爱奇艺跌超1%，蔚来、阿里巴巴、唯品会、百度、网易小幅下跌。富途控股、腾讯音乐、拼多多涨超1%，微博小幅上涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-04/detail-inaqqyrh2366159.d.html</link>
+            <guid>3560823</guid>
+            <pubDate>Wed, 03 Apr 2024 20:01:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股三大指数收盘涨跌不一 贵金属板块大涨】美股三大指数收盘涨跌不一，道指跌0.11%，纳指涨0.23%，标普500指数涨0.11%，热门科技股涨跌不一，戴尔科技涨超8%创收盘历史新高，Meta涨近2%，特斯拉涨超1%，苹果、谷歌、亚马逊涨幅不足1%。贵金属、金属原材料涨幅居前，黄金资源涨超26%，科尔戴伦矿业涨超10%，泛美白银涨超6%，美国铝业公司涨超4%，南方铜业涨超3%。商业零售、食品、品牌服饰板块跌幅居前，迪斯尼跌超3%，柯尔百货、诺德斯特龙跌超2%，伯灵顿百货跌超4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-04/detail-inaqqyra3420356.d.html</link>
+            <guid>3560822</guid>
+            <pubDate>Wed, 03 Apr 2024 20:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【芬兰警方：校园枪击案嫌疑人曾遭受校园霸凌】芬兰警方当地时间4月3日说，日前在首都赫尔辛基附近发生的校园枪击案嫌疑人的作案动机与其遭受校园霸凌有关。2日上午，赫尔辛基附近万塔市的一所学校发生枪击事件，导致1人死亡、2人重伤。3名受害者和1名嫌疑人均为12岁的学生。警方在3日发布的新闻稿中说，嫌疑人在受审时声称自己受到校园霸凌，这一信息在警方的初步调查中得到证实。嫌疑人今年年初刚刚转学到发生枪击案的学校。由于嫌疑人未达刑事责任年龄，警方无法将其逮捕或拘留。经过讯问和审前调查程序后，嫌疑人被移交给社会福利部门。警方表示，嫌疑人作案时使用的手枪属于其近亲属。目前警方尚不清楚嫌疑人是如何获得这把手枪的。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-04/detail-inaqqyre5589690.d.html</link>
+            <guid>3560820</guid>
+            <pubDate>Wed, 03 Apr 2024 19:59:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗外长同欧盟外交与安全政策高级代表通话 讨论地区局势】当地时间4月3日，伊朗外长阿卜杜拉希扬同欧盟外交与安全政策高级代表博雷利通电话，讨论近期地区局势。阿卜杜拉希扬表示，以色列对伊朗驻叙利亚使馆领事处发动的袭击导致7名伊朗军事人员死亡、多名叙利亚平民伤亡。以色列对外交机构设施发动的袭击，影响地区的和平与稳定。他强调，以色列在美国的持续支持下，在加沙地带继续实施种族灭绝和战争罪行。美国如果没有认真控制和制止以色列的意愿，其对加沙乃至地区的紧张局势负有直接责任。伊朗期待欧盟能立即付诸行动并强烈谴责这些罪行。博雷利表示，欧盟认为以色列近期的行动不利于地区局势的缓和。他将向其他欧盟成员国传达伊朗的严重关切，并呼吁伊朗继续保持克制。针对加沙局势，博雷利表示，欧盟结束加沙地带冲突的努力尚未成功，但欧盟将继续在这一方面持续做出努力。]]></title>
+            <guid>3560817</guid>
+            <pubDate>Wed, 03 Apr 2024 19:57:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【自动驾驶商业化进程再提速 美国龙头公司推出无人车送餐服务】当地时间周三（4月3日），美国无人驾驶出行服务商Waymo宣布，公司与专业送餐公司Uber Eats启动了新的配送合作。Waymo在官网写道，从周三开始，美国亚利桑那州首府菲尼克斯周边的Uber Eats的用户可能匹配到Waymo Driver，在服务区内由Waymo的自动驾驶车辆负责送餐。Waymo称，与“美版饿了么”Uber Eats的新合作是2023年5月份与Uber公司长期伙伴协议的一部分。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-04/detail-inaqqyrh2365738.d.html</link>
+            <guid>3560816</guid>
+            <pubDate>Wed, 03 Apr 2024 19:57:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[RedStone和SkyDance就收购派拉蒙全球股份达成临时协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-04/detail-inaqqyra3420129.d.html</link>
+            <guid>3560815</guid>
+            <pubDate>Wed, 03 Apr 2024 19:56:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【芝加哥小麦期货涨约2%，星巴克原材料继续创新高——今年已经涨超39%】 周三（4月3日）纽约尾盘，彭博谷物分类指数上涨1.36%，报36.0112点。CBOT玉米期货涨1.35%，报4.32-1/4美元/蒲式耳。CBOT小麦期货涨1.97%，报5.56美元/蒲式耳。CBOT大豆期货涨0.77%，报11.83美元/蒲式耳，豆粕期货涨0.52%，豆油期货涨0.53%。ICE原糖期货跌0.49%，报22.21美分/磅；ICE白糖期货跌0.10%，报622.40美元/吨。ICE阿拉比卡咖啡期货涨4.30%，报206.25美分/磅；罗布斯塔咖啡期货涨3.77%，报3801美元/吨，一度涨至3838美元/吨连续两个交易日创历史新高，2024年迄今已累计上涨将近39.21%。4月2日，哥斯达黎加咖啡协会（CRCI）数据显示，该国3月出口94,379袋咖啡豆，同比锐减29.3%；10-3月（种植年度的上半年）发货总量314,926袋，同比下滑14.2%。ICE棉花期货跌2.11%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-04/detail-inaqqyra3420077.d.html</link>
+            <guid>3560812</guid>
+            <pubDate>Wed, 03 Apr 2024 19:55:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网自动测定：04月04日03时46分在中国台湾附近（北纬23.85度，东经121.84度）发生4.2级左右地震，最终结果以正式速报为准。]]></title>
+            <guid>3560810</guid>
+            <pubDate>Wed, 03 Apr 2024 19:52:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[罗斯柴尔德交易撮合者Steven Berger跳槽至Raymond James。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-04/detail-inaqqyra3419044.d.html</link>
+            <guid>3560806</guid>
+            <pubDate>Wed, 03 Apr 2024 19:39:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯莫斯科遭遇大风天气 已致2人死亡15人受伤】当地时间4月3日晚，俄罗斯莫斯科市市长索比亚宁表示，莫斯科当天的恶劣天气已导致2人死亡、15人受伤。据悉，莫斯科当天遭遇大风天气，俄气象部门称当日风速可达每秒16至21米。莫斯科市紧急情况总局建议市民远离广告牌和危险建筑，不要把车停在树下。莫斯科市公园管理机构宣布，由于天气情况恶劣，莫斯科市所有公园均已暂停开放。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-04/detail-inaqqyrk1530759.d.html</link>
+            <guid>3560805</guid>
+            <pubDate>Wed, 03 Apr 2024 19:38:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【纽约可可期货跌超5%下探9400美元，连续两天回调】纽约可可期货下跌5.27%，报9425美元/吨，连续两个交易日回调，期间累计下跌6.87%。4月2日涨至10324美元创历史新高以来，最近两天盘中回调幅度超过8.89%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-04/detail-inaqqyra3418979.d.html</link>
+            <guid>3560804</guid>
+            <pubDate>Wed, 03 Apr 2024 19:38:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股iRobot涨幅回落至5%，此前一度涨超16%。报道称苹果公司研究将家用机器人研发作为下一重大项目。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-04/detail-inaqqyre5585539.d.html</link>
+            <guid>3560803</guid>
+            <pubDate>Wed, 03 Apr 2024 19:23:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒指期货夜盘收涨0.68%，报16860点，高水135点。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-04/detail-inaqqyre5585112.d.html</link>
+            <guid>3560802</guid>
+            <pubDate>Wed, 03 Apr 2024 19:20:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【SK海力士计划斥资近40亿美元建设其首家美国芯片厂】SK海力士计划斥资38.7亿美元在印第安纳州建设先进封装厂和人工智能产品研究中心。这家全球第二大存储芯片制造商表示将在West Lafayette建立其首家美国工厂，计划于2028年下半年开始量产。该工厂将重点建设下一代高带宽存储芯片生产线，这些芯片是训练人工智能系统的图形处理器的关键组件。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-04/detail-inaqqyra3417753.d.html</link>
+            <guid>3560801</guid>
+            <pubDate>Wed, 03 Apr 2024 19:18:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果(AAPL.O)短线直线走低，涨幅缩窄至0.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-04/detail-inaqqyrk1529395.d.html</link>
+            <guid>3560797</guid>
+            <pubDate>Wed, 03 Apr 2024 19:16:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苹果公司研究将家用机器人研发作为下一重大项目】据知情人士透露，继造车失败后，苹果正在研究进军个人机器人领域，该领域有潜力成为苹果公司不断变化的“下一大事件”之一。据知情人士透露，苹果工程师一直在研究一种可以跟随用户在家中移动的移动机器人。]]></title>
             <link>https://finance.sina.cn/7x24/2024-04-04/detail-inaqqyrk1529284.d.html</link>
             <guid>3560795</guid>
             <pubDate>Wed, 03 Apr 2024 19:14:18 GMT</pubDate>
@@ -27,7 +150,7 @@
             <pubDate>Wed, 03 Apr 2024 19:07:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【纽约期金收涨1.45%续创历史新高，期银大涨近4.4%】 COMEX 6月黄金期货收涨1.45%，报2315.00美元/盎司，续创收盘历史新高，盘中曾涨至2316.30美元/盎司创（主力合约）历史新高。COMEX 5月白银期货收涨4.39%，报27.060美元/盎司。]]></title>
+            <title><![CDATA[COMEX 6月黄金期货收涨1.45%，报2315.00美元/盎司，续创收盘历史新高，COMEX 5月白银期货收涨4.39%，报27.060美元/盎司。]]></title>
             <link>https://finance.sina.cn/7x24/2024-04-04/detail-inaqqyra3416565.d.html</link>
             <guid>3560779</guid>
             <pubDate>Wed, 03 Apr 2024 19:00:50 GMT</pubDate>
@@ -172,126 +295,6 @@
             <title><![CDATA[美联储理事、负责金融监管事务的副主席Barr：整体而言，银行系统是健康的，具有韧性。美联储关注银行业未实现亏损的规模。]]></title>
             <guid>3560745</guid>
             <pubDate>Wed, 03 Apr 2024 17:36:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟初步数据显示，2023年欧盟碳市场中电力和工业部门的排放量较2022年下降了16.5%。]]></title>
-            <guid>3560744</guid>
-            <pubDate>Wed, 03 Apr 2024 17:30:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大熊猫“福宝”已顺利到家 状态良好】大熊猫“福宝”已顺利到达中国大熊猫保护研究中心卧龙神树坪基地，并入住隔离检疫圈舍，目前状态良好。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-04/detail-inaqquie3540098.d.html</link>
-            <guid>3560743</guid>
-            <pubDate>Wed, 03 Apr 2024 17:24:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【租车自驾游火了，清明假期国内租车订单量暴增240%】 旅游平台的数据显示，清明期间，国内租车自驾订单量同比增长超过两倍。早在3月底，北京一家租车店今年清明小长假的车辆出租率就已经达到了70%以上，随着假期的临近，预计100多台车将会被全部租空。北京某租车公司负责人称，今年的订单量整体上浮了将近300%，热门车型是SUV和商务车，舒适型的车需求量比较大。数据显示，2024年清明节期间，国内租车订单量同比增长240%。其中，82%的订单租期在3天以内，35%属于亲子订单，举家出行的情况较多。整体的订单平均价约为819元。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-04/detail-inaqquie3540071.d.html</link>
-            <guid>3560742</guid>
-            <pubDate>Wed, 03 Apr 2024 17:23:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯经济部门的数据显示，俄罗斯2月GDP同比增长7.7%，上月同比增长4.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-04/detail-inaqquik2476112.d.html</link>
-            <guid>3560741</guid>
-            <pubDate>Wed, 03 Apr 2024 17:22:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“世界中央厨房”厨师Jose Andres：以色列军队“有计划地，一辆接一辆车地”袭击加沙的粮食援助人员，以色列军队可能对援助工作人员车队进行了三次以上的袭击，此前的食品护送路线畅通无阻，与以色列国防军的沟通清晰。]]></title>
-            <guid>3560740</guid>
-            <pubDate>Wed, 03 Apr 2024 17:20:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰总统与葡萄牙总理通话 讨论双边安全保障协议准备工作】当地时间4月3日，乌克兰总统泽连斯基与葡萄牙新任总理蒙特内格罗通话，双方讨论了双边安全保障协议的准备工作。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-04/detail-inaqquin1651319.d.html</link>
-            <guid>3560739</guid>
-            <pubDate>Wed, 03 Apr 2024 17:18:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周三美联储隔夜逆回购协议（RRP）使用规模为4366.31亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-04/detail-inaqquie3539419.d.html</link>
-            <guid>3560738</guid>
-            <pubDate>Wed, 03 Apr 2024 17:16:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【PIMCO：美联储降息力度料小于其他国家，押注债市正当其时】 太平洋投资管理公司（PIMCO，品浩）全球固收部门首席投资官Andrew Balls认为，未来两年美联储的降息幅度会小于其他主要央行，现在正好是在债市押注的时候。全球利率交易员预计，大多数发达国家的货币宽松幅度将保持同一步调，美联储、加拿大央行、英国央行未来两年将降息约150个基点，欧洲央行和新西兰央行降息幅度则会略高一些。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-04/detail-inaqquie3539335.d.html</link>
-            <guid>3560737</guid>
-            <pubDate>Wed, 03 Apr 2024 17:16:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本考虑利用下一代核反应堆生产氢气。日本政府计划最早在2028年开始实地测试利用核能生产清洁氢气。]]></title>
-            <guid>3560736</guid>
-            <pubDate>Wed, 03 Apr 2024 17:15:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫新闻发言人：疾控中心（CDC）称，禽流感对人类健康所构成的风险偏低。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-04/detail-inaqquie3539021.d.html</link>
-            <guid>3560735</guid>
-            <pubDate>Wed, 03 Apr 2024 17:13:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金短线走低，较2295美元/盎司的历史高位回落5美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-04/detail-inaqquie3538809.d.html</link>
-            <guid>3560734</guid>
-            <pubDate>Wed, 03 Apr 2024 17:10:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美媒对美债务前景进行百万次模拟，警告美国恐陷债务危机】 由于美国不断增长的财政赤字和堆积如山的债务问题，美国媒体近日对美国债务前景进行了100万次模拟预测，其中88%的预测显示美国借贷正处于“不可持续的轨道上”。作为华盛顿的官方预算监督机构，美国国会预算办公室（CBO）在其最新预测中警告称，到2034年，美国政府债务占国内生产总值的比例，也就是政府负债率将从去年的97%升至116%。据彭博社模拟预测，在最糟糕的5%的结果中，到2034年，美国债务与国内生产总值之比将超过139%。（央视新闻）]]></title>
-            <guid>3560733</guid>
-            <pubDate>Wed, 03 Apr 2024 17:08:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国际铜、沪铜夜盘至少收涨1.2%】 国际铜夜盘收涨1.26%，沪铜收涨1.2%，沪铝收涨0.91%，沪锌收涨0.93%，沪铅收涨0.12%，沪镍收涨0.81%，沪锡收涨0.08%。氧化铝夜盘收跌0.33%。不锈钢夜盘收涨0.19%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-04/detail-inaqquik2473473.d.html</link>
-            <guid>3560732</guid>
-            <pubDate>Wed, 03 Apr 2024 17:06:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伦铜和伦铅收涨超3%，伦锌涨超2.7%，伦铝涨超2%】 LME期铜收涨272美元，涨幅超过3.02%，报9262美元/吨。LME期铝收涨49美元，涨约2.06%，报2429美元/吨。LME期锌收涨68美元，涨幅2.74%，报2548美元/吨。LME期铅收涨62美元，涨约3.07%，报2082美元/吨。LME期镍收涨309美元，涨超1.81%，报17339美元/吨。LME期锡收涨498美元，涨超1.78%，报28395美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-04/detail-inaqquin1649895.d.html</link>
-            <guid>3560731</guid>
-            <pubDate>Wed, 03 Apr 2024 17:05:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI称，用户现在可以通过网页、iOS系统、安卓系统等方式在ChatGPT中编辑DALL.E图片。]]></title>
-            <guid>3560730</guid>
-            <pubDate>Wed, 03 Apr 2024 17:03:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄副防长与伊朗驻俄大使举行会晤 讨论军事合作】当地时间4月3日，俄罗斯国防部发布消息表示，当天俄罗斯国防部副部长福明与伊朗驻俄罗斯大使卡泽姆·贾拉利举行了会晤。双方讨论了双边军事合作的热点问题，并就地区安全问题交换了意见。俄国防部指出，双方在会晤中强调，要坚持俄伊关系基本原则。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-04/detail-inaqquie3537477.d.html</link>
-            <guid>3560729</guid>
-            <pubDate>Wed, 03 Apr 2024 16:57:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【卡塔尔首相：加沙流离失所者返回家园问题是加沙停火谈判主要分歧点】 当地时间4月3日，卡塔尔首相兼外交大臣穆罕默德在首都多哈与来访的西班牙首相桑切斯举行会见，双方重点就巴以最新局势进行了讨论。在会谈后举行的联合记者会上，穆罕默德表示，以色列与巴勒斯坦伊斯兰抵抗运动（哈马斯）在加沙地带停火谈判中的主要分歧在于加沙地带流离失所者返回家园的问题。穆罕默德没有对此进行详细阐述。此前据媒体报道，哈马斯在谈判中要求以色列允许加沙地带流离失所者返回家园，但以方对人数进行了限制，每天只允许2000名流离失所的加沙地带巴勒斯坦人返回家园。此外，桑切斯在记者会上表示，以色列就空袭慈善组织“世界中央厨房”导致其7名工作人员死亡事件所做的解释“不充分且不可接受”，他要求以色列方面提供事件的更多细节。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-04/detail-inaqquin1649192.d.html</link>
-            <guid>3560728</guid>
-            <pubDate>Wed, 03 Apr 2024 16:56:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本牛肉饭所用美国牛肉进口价创新高，涨幅达38%】 日本国内的持续通胀给当地的快餐店带来成本压力。据日媒报道，日本国内用的牛肉有六成依赖进口，其中美国牛肉占到进口量的四成。今年，受美国南部地区干旱导致牛饲料短缺、引发牛肉产量下降的影响，再加上当前日元汇率维持低迷态势，日本牛肉饭所用美国牛肉的进口价格创下1991年以来新高，比去年同期上涨了38%。深受日本上班族喜爱的牛肉饭，通常被视为观察日本物价走势的一个重要的风向标。在持续通胀的背景之下，日本主要的牛肉饭连锁品牌相继多次上调菜品价格，这也将进一步加剧日本消费者的支出负担。（央视财经）]]></title>
-            <guid>3560727</guid>
-            <pubDate>Wed, 03 Apr 2024 16:54:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美FDA：礼来减肥药Zepbound供不应求】 美国食品和药品管理局(FDA)发布消息称，礼来公司的减肥药Zepbound在四月份供不应求，此前患者、医生和药剂师纷纷抱怨难以获得这种药物。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-04/detail-inaqquih5694746.d.html</link>
-            <guid>3560726</guid>
-            <pubDate>Wed, 03 Apr 2024 16:48:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【约旦外交大臣与西班牙外交大臣通电话 讨论巴勒斯坦问题】约旦副首相兼外交与侨务大臣萨法迪当地时间4月3日与西班牙外交大臣阿尔瓦雷斯通电话。萨法迪表示，约旦赞赏西班牙计划尽快承认巴勒斯坦国的决定，并赞赏西班牙呼吁加沙立即停火的明确立场。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-04/detail-inaqquih5694730.d.html</link>
-            <guid>3560725</guid>
-            <pubDate>Wed, 03 Apr 2024 16:48:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[鲍威尔：对于当前FOMC货币政策而言，中性利率并不重要。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-04/detail-inaqquin1648413.d.html</link>
-            <guid>3560724</guid>
-            <pubDate>Wed, 03 Apr 2024 16:47:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
