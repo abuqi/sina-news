@@ -4,13 +4,95 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 13 Apr 2024 20:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Apr 2024 21:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[以色列领空将于当地时间上午12:30至次日上午7点关闭。]]></title>
+            <title><![CDATA[【上海发布雷电黄色预警】上海中心气象台4月14日4时发布雷电黄色预警信号：预计未来24小时内，上海市大部地区将发生雷电活动，可能会造成雷电灾害事故，请注意防范。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-14/detail-inarttxk4280084.d.html</link>
+            <guid>3576761</guid>
+            <pubDate>Sat, 13 Apr 2024 21:01:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗已向以色列发射了第三波无人机。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-14/detail-inarttxa6168190.d.html</link>
+            <guid>3576760</guid>
+            <pubDate>Sat, 13 Apr 2024 20:59:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：伊朗无人机接近约旦领空。约旦因伊朗袭击以色列的威胁而宣布进入紧急状态。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-14/detail-inarttxa6168117.d.html</link>
+            <guid>3576759</guid>
+            <pubDate>Sat, 13 Apr 2024 20:55:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗伊斯兰革命卫队称对以色列目标展开打击行动】据伊朗国家电视台当地时间14日消息，伊朗伊斯兰革命卫队发表声明称，为了回应以色列的罪行，其中包括袭击伊朗驻叙利亚使馆领事处并导致多名军事人员死亡，伊朗伊斯兰革命卫队航空航天部队使用数十架无人机和导弹，对以色列某些目标展开打击行动。伊朗国家电视台当天稍早前曾报道称，伊朗伊斯兰革命卫队对以色列发动了密集无人机军事行动。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-14/detail-inarttxa6167909.d.html</link>
+            <guid>3576758</guid>
+            <pubDate>Sat, 13 Apr 2024 20:53:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【也门对以色列发动无人机袭击】伊朗国家电视台阿拉伯语频道援引以色列消息来源报道称，当地时间13日，也门对以色列发动无人机袭击。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-14/detail-inarttxk4279527.d.html</link>
+            <guid>3576757</guid>
+            <pubDate>Sat, 13 Apr 2024 20:49:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列将于14日凌晨起关闭领空】以色列机场管理局当地时间13日夜间表示，由于伊朗的袭击，以色列领空将从当地时间14日0时30分开始关闭。以色列机场管理局目前暂未提供航班何时恢复的详细信息，并表示将根据事态发展更新。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-14/detail-inarttxk4279470.d.html</link>
+            <guid>3576756</guid>
+            <pubDate>Sat, 13 Apr 2024 20:46:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国印第安纳州发生枪击事件 3人死亡】当地时间13日，据美联社报道，美国印第安纳州于12日发生一起枪击事件，致3人死亡。目前，警方还没有逮捕任何嫌疑人。（央视新闻）]]></title>
+            <guid>3576751</guid>
+            <pubDate>Sat, 13 Apr 2024 20:34:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【赴华游火爆 中国成韩国民众出境游第三大热门目的地】韩国多家旅行社最新数据显示，今年第一季度，赴华跟团游的韩国旅客数量明显增长，中国升至韩国民众出境游目的地排名的第三位。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-14/detail-inarttxk4279044.d.html</link>
+            <guid>3576750</guid>
+            <pubDate>Sat, 13 Apr 2024 20:34:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【白宫证实伊朗对以色列发动空袭 重申对以支持】当地时间4月13日，美国白宫发表声明表示，伊朗已开始对以色列发动空袭，此次袭击可能会持续数小时。声明称，美国总统拜登的国家安全团队将与以色列官员及其他合作伙伴和盟友保持持续沟通，并定期向拜登通报最新情况。拜登表示，美国坚定支持以色列安全，帮助其抵御来自伊朗的威胁。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-14/detail-inarttxh5261583.d.html</link>
+            <guid>3576748</guid>
+            <pubDate>Sat, 13 Apr 2024 20:32:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊拉克宣布关闭领空】据伊拉克国家通讯社报道，当地时间4月13日晚，伊拉克交通部长拉扎克·萨达维宣布，伊拉克已关闭其领空并停止所有空中交通。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-14/detail-inarttxk4278993.d.html</link>
+            <guid>3576745</guid>
+            <pubDate>Sat, 13 Apr 2024 20:31:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗正式对以色列发动袭击】伊朗已经向以色列发射数十架自杀式无人机。该消息已经得到伊朗、以色列和美国官方的证实。伊朗无人机预计于当地时间02:00（北京时间07:00）抵达以色列，且第二波无人机据称也已经发射。除了伊朗本土外，还有多个地点向以色列发射了无人机。除了大规模无人机袭击之外，伊朗也宣布即将发动导弹袭击。市场消息称伊朗的导弹袭击可能会在早上无人机抵达以色列时开始。以色列、伊拉克和约旦已经对所有航班关闭领空。以色列军方表示，以色列的防御已做好应对准备，计划在美国的帮助下拦截无人机。美国方面重申对以色列安全给予"坚如磐石的"支持。局势升级后，加密货币应声跳水，比特币重挫超6000美元，日内暴跌8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-14/detail-inarttxh5261258.d.html</link>
+            <guid>3576739</guid>
+            <pubDate>Sat, 13 Apr 2024 20:24:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比特币重挫超6000美元，最低至60359美元，伊朗对以色列发动袭击导致风险资产重挫。]]></title>
+            <guid>3576737</guid>
+            <pubDate>Sat, 13 Apr 2024 20:22:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗对以发射无人机 以称已做好防御和攻击准备】当地时间4月13日晚，以色列国防军发言人称，“伊朗向以色列发射无人机，我们已做好防御和攻击准备”。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-14/detail-inarttxa6166847.d.html</link>
+            <guid>3576734</guid>
+            <pubDate>Sat, 13 Apr 2024 20:20:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：美国总统拜登将于今天下午与国家安全顾问会面，讨论中东问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-14/detail-inarttxa6166672.d.html</link>
+            <guid>3576729</guid>
+            <pubDate>Sat, 13 Apr 2024 20:17:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：以色列领空将于当地时间上午12:30至次日上午7点关闭。伊朗的导弹袭击可能会在早上无人机抵达以色列时开始。伊朗发射的无人机最多需要九个小时才能到达目标。]]></title>
             <link>https://finance.sina.cn/7x24/2024-04-14/detail-inarttxa6166318.d.html</link>
             <guid>3576724</guid>
             <pubDate>Sat, 13 Apr 2024 20:10:59 GMT</pubDate>
@@ -28,12 +110,6 @@
             <pubDate>Sat, 13 Apr 2024 20:08:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：超过150架无人机正在前往以色列。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-14/detail-inarttxa6165904.d.html</link>
-            <guid>3576720</guid>
-            <pubDate>Sat, 13 Apr 2024 20:06:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[以太坊向下触及3100美元/枚，日内跌11.52%。]]></title>
             <link>https://finance.sina.cn/7x24/2024-04-14/detail-inarttxk4277099.d.html</link>
             <guid>3576719</guid>
@@ -46,7 +122,7 @@
             <pubDate>Sat, 13 Apr 2024 19:56:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【数十架无人机从伊朗向以色列发射】据以色列第12频道报道，当地时间13日晚，数十架无人机从伊朗向以色列发射。目前伊朗方面暂无回应。（央视新闻）]]></title>
+            <title><![CDATA[【伊朗向以色列发射数十架自杀式无人机】据以色列第12频道报道，当地时间13日晚，数十架无人机从伊朗向以色列发射。另据以色列军队电台援引以色列消息人士报道，无人机从多个地点发射。此外，伊拉克什叶派民兵团体“人民动员组织”下属媒体Sabereen News报道称，有数十架无人机正飞越伊拉克东部和南部与伊朗接壤的米桑、巴士拉、苏莱曼尼亚等省。另据伊朗国家电视台英文频道presstv报道援引其他媒体报道称，伊朗向以色列发射了数十架自杀式无人机。以色列国防军发言人哈加里在新闻声明中也证实，从伊朗发射的数十架无人机正飞向以色列。目前伊朗官方暂无回应。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2024-04-14/detail-inarttxk4276882.d.html</link>
             <guid>3576717</guid>
             <pubDate>Sat, 13 Apr 2024 19:51:33 GMT</pubDate>
@@ -228,84 +304,6 @@
             <link>https://finance.sina.cn/7x24/2024-04-14/detail-inartiiq4529102.d.html</link>
             <guid>3576646</guid>
             <pubDate>Sat, 13 Apr 2024 17:22:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新版《定量包装商品净含量计量检验规则》10月12日正式实施】记者从市场监管总局获悉，修订后的新版《定量包装商品净含量计量检验规则》将于2024年10月12日正式实施。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-14/detail-inartiin5501042.d.html</link>
-            <guid>3576644</guid>
-            <pubDate>Sat, 13 Apr 2024 17:12:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫美国呼吁伊朗立即释放被扣押的船只和船员。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-14/detail-inartiin5499787.d.html</link>
-            <guid>3576639</guid>
-            <pubDate>Sat, 13 Apr 2024 17:02:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国夏威夷州一邮轮码头发生交通事故 已致1死10伤】据美国广播公司（ABC）当地时间13日报道，美国夏威夷州檀香山邮轮码头于12日发生了一起交通事故，一辆穿梭巴士撞向人群，导致1人死亡、10人受伤。檀香山警察局称，当时巴士正向前滑行，司机试图停车但误踩了油门，反使巴士冲向了人群。警方表示，对该事故的调查仍在进行中。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-14/detail-inartiiq4526758.d.html</link>
-            <guid>3576636</guid>
-            <pubDate>Sat, 13 Apr 2024 16:54:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【悉尼购物中心持刀伤人案已致7死 警方排除恐袭可能】当地时间13日下午，澳大利亚悉尼一购物中心发生持刀行凶事件，造成6人死亡，包括5名女性，1名男性，另有多人受伤。袭击者已被警方击毙。当地警方称，已排除恐怖袭击的可能性。袭击者是一名40岁男子，目前尚未确认他的身份。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-14/detail-inartiiq4526308.d.html</link>
-            <guid>3576634</guid>
-            <pubDate>Sat, 13 Apr 2024 16:50:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国方面公布了美国国防部长奥斯汀和以色列国防部长加兰特的通话简报】美国国防部长奥斯汀和以色列国防部长加兰特在4月13日就迫在眉睫的地区威胁进行了讨论。奥斯汀重申美国将全力支持保卫以色列，以色列可以依靠美国的全力支持来对抗伊朗和地区代理人的袭击。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-14/detail-inartiik8721107.d.html</link>
-            <guid>3576632</guid>
-            <pubDate>Sat, 13 Apr 2024 16:45:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【恐怖组织“俾路支解放军”宣称对巴基斯坦9人遭袭死亡负责】据巴基斯坦媒体报道，当地时间13日，恐怖组织“俾路支解放军”声称对巴基斯坦俾路支省一辆汽车上9名乘客12日遭袭死亡一事负责。一名巴基斯坦官员13日说，一伙打着恐怖组织“俾路支解放军”旗帜的武装分子12日晚在俾路支省努什基地区一条公路上用摩托车设卡拦截过往车辆。一辆从该省首府奎达开来的汽车遭恐怖分子拦截，9名来自东部旁遮普省的乘客被枪杀。此外，一辆汽车和一辆摩托车因拒绝拦截检查而遭开枪袭击，造成2人死亡、4人受伤。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-14/detail-inartiiq4526000.d.html</link>
-            <guid>3576631</guid>
-            <pubDate>Sat, 13 Apr 2024 16:45:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【商务部印发实施数字消费提升行动的通知】《通知》立足数字消费特点与发展趋势，以满足人民群众日益增长的美好生活需要为根本目的，从供给、消费、载体、业态4个方面提出具体举措，加快促进数字消费领域形成更高水平供需动态平衡。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-14/detail-inartiih6413868.d.html</link>
-            <guid>3576630</guid>
-            <pubDate>Sat, 13 Apr 2024 16:41:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【内蒙古多地遭遇沙尘天气 巴彦淖尔部分地区阵风达11级】4月13日8时至18时，内蒙古巴彦淖尔市的大部地区迎来强风，并伴随扬沙或沙尘暴现象，其中巴彦高勒镇、海力素地区出现强沙尘暴，最小能见度仅276米。最大阵风出现在乌拉特中旗的温更镇，阵风达11级。临河新区的最大阵风为8级，最小能见度630米。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-14/detail-inartiih6413544.d.html</link>
-            <guid>3576627</guid>
-            <pubDate>Sat, 13 Apr 2024 16:38:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴以民众在约旦河西岸发生冲突 数十人受伤】以色列国防军当地时间13日发表声明称，以色列民众与巴勒斯坦民众在约旦河西岸多个地区发生冲突。冲突期间有人投掷石块、开枪射击，造成数十名以色列人和巴勒斯坦人不同程度受伤。截至目前，所有冲突事件已结束，以色列国防军和边防警察决定增派人员加强安全防范。此外，以色列安全部队正在继续追捕杀害以色列失踪少年的凶手。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-14/detail-inartiih6413078.d.html</link>
-            <guid>3576624</guid>
-            <pubDate>Sat, 13 Apr 2024 16:32:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拜登紧急返回华盛顿，商讨中东事宜】美国白宫称，美国总统拜登将在周六下午返回华盛顿，缩短了在特拉华州的周末之行，为了与他的国家安全团队商讨中东地区的事件。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-14/detail-inartiiq4524600.d.html</link>
-            <guid>3576622</guid>
-            <pubDate>Sat, 13 Apr 2024 16:29:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以军称该国北部遭无人机袭击 一名士兵受伤】以色列国防军当地时间13日称，黎巴嫩真主党武装两架载有爆炸物的无人机袭击了以色列北部哈尼塔地区，造成一名以军预备役士兵受重伤。受伤士兵已被送往医院接受治疗。以军称当天还有3枚火箭弹从黎巴嫩方向射向哈尼塔并落在空旷地区。作为回应，以军炮击了位于黎巴嫩南部的火箭弹发射点。黎巴嫩方面目前对此暂无回应。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-14/detail-inartiiq4523486.d.html</link>
-            <guid>3576618</guid>
-            <pubDate>Sat, 13 Apr 2024 16:18:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国国防大臣：呼吁德黑兰释放被扣押的货船，防止事态升级。伊朗扣押货船MSC Aries是不可接受的，这公然违反了国际法。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-14/detail-inartiiq4523023.d.html</link>
-            <guid>3576617</guid>
-            <pubDate>Sat, 13 Apr 2024 16:13:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【专家：伊朗对以色列的反击可能在所有阵线展开】黎巴嫩政治学家和政论家阿里·伊泽丁在接受采访时说，德黑兰对以色列袭击伊朗驻大马士革领事馆做反击可能会在该地区所有阵线展开，但伊朗选择了观望的策略，以进一步消耗敌人的资源。他表示，可以从黎巴嫩南部对以色列目标进行大规模导弹袭击，也可以从伊拉克、也门和叙利亚境内使用火箭弹和无人机进行袭击。他指出，德黑兰打算在停顿后再做出回击，目的是让“以色列军事指挥和防空系统处于全面戒备状态，这样每天能够使以军损失数百万美元“。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-14/detail-inartiiq4522112.d.html</link>
-            <guid>3576616</guid>
-            <pubDate>Sat, 13 Apr 2024 16:04:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
