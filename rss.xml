@@ -4,11 +4,35 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 20 Apr 2024 20:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Apr 2024 21:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【以军袭击加沙南部拉法市一难民营 导致3人死亡】据巴勒斯坦通讯社消息，当地时间20日晚，以军战机对加沙地带南部拉法市沙布拉难民营一处房屋进行轰炸，导致3人死亡。截至目前，以色列方面对此暂未做出回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-21/detail-inasprua7820710.d.html</link>
+            <guid>3587718</guid>
+            <pubDate>Sat, 20 Apr 2024 21:10:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 【巴勒斯坦谴责美国众议院批准对以色列的军事援助法案】当地时间20日晚，巴勒斯坦总统发言人纳比勒·阿布·鲁代纳发表声明，谴责美国众议院于当天通过向以色列提供260亿美元军事援助的法案。鲁代纳在声明表示，美国对以色列的这项军援计划将导致大量巴勒斯坦人的伤亡。他还提到以军近日持续对约旦河西岸城市图勒凯尔姆以东的努尔沙姆斯难民营进行的袭击行动。鲁代纳表示，美国这一行为有导致地区局势升级的危险，是对巴勒斯坦人民的侵犯，将为以色列把冲突范围扩大到整个地区“开绿灯”，巴方质疑美国在实现中东地区安全与稳定方面的可信度。鲁代纳还强调，巴勒斯坦的稳定是实现该地区和世界稳定的唯一途径。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-21/detail-inaspruh3596097.d.html</link>
+            <guid>3587717</guid>
+            <pubDate>Sat, 20 Apr 2024 20:59:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广东韶关多地发生内涝 当地迅速组织群众转移】4月20日，广东韶关突降暴雨，导致当地多个地区发生内涝。上午11时，防汛应急响应由Ⅲ级提升至Ⅱ级，当地迅速组织群众转移，并将体育馆设置为紧急安置点。截至20日下午5时，已将周边多名群众进行避险转移至该紧急安置点。相关部门在现场安排专人跟进转移群众的管理服务工作，还设置有医疗卫生服务点，全力以赴做好转移群众的情绪安抚和后勤保障工作，确保转移群众基本生活有保障。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-21/detail-inasprui2593944.d.html</link>
+            <guid>3587716</guid>
+            <pubDate>Sat, 20 Apr 2024 20:36:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以军袭击约旦河西岸努尔沙姆斯难民营 已致14人死亡】以军连日来持续对约旦河西岸城市图勒凯尔姆以东的努尔沙姆斯难民营进行袭击。据巴勒斯坦通讯社消息，截至当地时间20日晚，以军对努尔沙姆斯难民营的袭击行动已导致14人死亡。当晚，在一部分以军车辆撤离后，医护人员得以进入难民营并将死者遗体转移。以色列国防军当天稍早前称，以军在约旦河西岸努尔沙姆斯难民营打死10名武装分子，拘捕8名巴勒斯坦人，行动期间有9名以色列士兵受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-21/detail-inasprui2593643.d.html</link>
+            <guid>3587715</guid>
+            <pubDate>Sat, 20 Apr 2024 20:28:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【以军袭击加沙南部汗尤尼斯一处房屋 造成2人死亡】据巴勒斯坦通讯社消息，当地时间20日晚，加沙地带南部汗尤尼斯附近马瓦西地区一处房屋遭到以军轰炸，导致2人死亡，另有10人受伤。截至目前，以色列方面对此暂未做出回应。]]></title>
             <link>https://finance.sina.cn/7x24/2024-04-21/detail-inasprue4595416.d.html</link>
@@ -273,30 +297,6 @@
             <title><![CDATA[【华鲲振宇出席2024华为北京政企合作伙伴大会】据华鲲振宇消息，4月19日，2024华为北京政企合作伙伴大会在京举办，华鲲振宇作为国产算力领航者受邀亮相大会现场。会议期间，在展区，华鲲振宇天智系列推理服务器HuaKun AT9508 G3 备受关注，这是鲲鹏+昇腾生态唯一支持10卡双宽或20卡单宽的服务器，被形象地称为“卡多多”。未来，华鲲振宇还将继续聚焦鲲鹏+昇腾，坚定投入资源，与各方携手构建北京地区全新的算力生态环境，积极促进区域信创生态产业集群建设。]]></title>
             <guid>3587667</guid>
             <pubDate>Sat, 20 Apr 2024 14:42:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海交大高金成立15周年大会举行 新大楼计划2025年开工建设】4月20日，上海交通大学上海高级金融学院（高金）成立15周年大会在上海交大徐汇校区举行。近700人齐聚一堂，共同回顾高金砥砺奋进的十五载，展望新征程。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-20/detail-inasnywr2956927.d.html</link>
-            <guid>3587666</guid>
-            <pubDate>Sat, 20 Apr 2024 14:37:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【赣湘两省分别启动防汛和洪水防御应急响应】记者从水利部长江水利委员会了解到，4月入汛以来，洞庭湖水系、鄱阳湖水系降水偏多，其中鄱阳湖水系偏多九成多，洞庭湖水系偏多近七成。根据水文气象预报，4月20日到29日，长江流域自西向东开始新一轮中等强度降雨过程。考虑实况及预见期降雨，洞庭湖水系、鄱阳湖水系将发生明显涨水过程，湘江上游、赣江上中游可能发生超警洪水，局部强降雨引发山洪灾害的风险高。鉴于当前防汛形势，水利部长江委已针对江西、湖南两省分别启动防汛Ⅳ级应急响应和洪水防御Ⅳ级应急响应。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-20/detail-inasnywq3958151.d.html</link>
-            <guid>3587665</guid>
-            <pubDate>Sat, 20 Apr 2024 14:36:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿联酋航空宣布定期航班已恢复】4月20日，阿联酋航空总裁蒂姆·克拉克发布《致乘客公开信》。阿联酋航空总裁在信中表示，本周，由于阿拉伯联合酋长国遭受了创纪录的强风暴袭击，我们经历了阿联酋航空史上最具运营挑战的时刻之一，“我谨代表阿联酋航空，向在此期间旅行计划受到影响的所有乘客，致以最诚挚的歉意”。据介绍，截至4月20日（星期六）早上，阿联酋航空的定期航班已恢复如常；已组建一个特别工作组，对约30,000件遗留行李进行分类、核对并将陆续交付到乘客手中。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-20/detail-inasnywn4951310.d.html</link>
-            <guid>3587664</guid>
-            <pubDate>Sat, 20 Apr 2024 14:35:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【建设工业：正在研发的产品具备适配更高级别智能驾驶的需求】 建设工业(002265)在互动平台表示，目前公司生产的转向系统产品，能适配于L2级智能驾驶需求，正在研发的相关产品具备适配更高级别智能驾驶的需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-20/detail-inasnywq3957890.d.html</link>
-            <guid>3587663</guid>
-            <pubDate>Sat, 20 Apr 2024 14:33:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
