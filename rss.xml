@@ -4,11 +4,16 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 11 May 2024 21:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 May 2024 22:15:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【世界黄金协会：截至4月底全球黄金ETF总持仓减少33吨至3079吨】 世界黄金协会发布的数据显示，截至4月底，全球黄金ETF总持仓减少33吨至3079吨，较过去12个月以来的均值低了6%。]]></title>
+            <guid>3614101</guid>
+            <pubDate>Sat, 11 May 2024 21:35:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【德国近千人集会抗议特斯拉工厂扩建计划】据德国电视一台报道，当地时间5月11日，近千名抗议者聚集在位于德国勃兰登堡州格伦海德市的特斯拉超级工厂外举行抗议活动，反对特斯拉拟议中的扩建计划。此次抗议活动自本月8日开始。德国特斯拉工厂此前向格伦海德市政府提交了扩建厂区的计划，但当地居民认为扩建工程将污染水源，因此举行示威活动，要求市政府不批准该扩建计划。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2024-05-12/detail-inauxiir3512281.d.html</link>
@@ -298,12 +303,6 @@
             <link>https://finance.sina.cn/7x24/2024-05-11/detail-inauwnee7277576.d.html</link>
             <guid>3613999</guid>
             <pubDate>Sat, 11 May 2024 14:23:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【迈瑞医疗：收入增速将呈现下半年加速的趋势】 迈瑞医疗在业绩说明会上表示，从外部环境来看，2024年以来国内医疗行业整顿活动逐渐进入常态化，医疗设备更新项目预计下半年开始也会有所贡献，同时国际市场仍有很大的份额提升空间。从内部来看，今年各产线均有重磅产品的放量机会，例如微创外科的耗材类业务如超声刀、腔镜吻合器即将放量；化学发光预计新增的约20个全新的核心项目将对试剂产出带来显著的增长贡献；全自研自产的TLA流水线MT-8000的新增装机量有望超过历史存量装机；超高端超声Resona A20在放量的同时将加速超声业务在全球范围高端医院的突破。因此综合来看，公司对于完成全年既定的增长目标充满信心，收入增速将呈现下半年加速的趋势。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-11/detail-inauwncx7217412.d.html</link>
-            <guid>3613998</guid>
-            <pubDate>Sat, 11 May 2024 14:23:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
