@@ -4,11 +4,163 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Tue, 14 May 2024 18:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 May 2024 19:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美元指数14日下跌】美元指数14日下跌。衡量美元对六种主要货币的美元指数当天下跌0.19%，在汇市尾市收于105.013。截至纽约汇市尾市，1欧元兑换1.0820美元，高于前一交易日的1.0790美元；1英镑兑换1.2589美元，高于前一交易日的1.2558美元。1美元兑换156.43日元，高于前一交易日的156.20日元；1美元兑换0.9067瑞士法郎，低于前一交易日的0.9081瑞士法郎；1美元兑换1.3652加元，低于前一交易日的1.3670加元；1美元兑换10.8175瑞典克朗，低于前一交易日的10.8391瑞典克朗。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfufc0585753.d.html</link>
+            <guid>3617956</guid>
+            <pubDate>Tue, 14 May 2024 19:13:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国钢铁跌0.3%，跌至盘中低点。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfuew0989153.d.html</link>
+            <guid>3617955</guid>
+            <pubDate>Tue, 14 May 2024 19:08:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[在岸人民币兑美元北京时间03:00收报7.2330，较上一交易日夜盘收盘涨2点。成交量252.10亿美元。]]></title>
+            <guid>3617954</guid>
+            <pubDate>Tue, 14 May 2024 19:03:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[洛克希德-波音联盟因发射延迟而受到处罚。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfufh3202157.d.html</link>
+            <guid>3617953</guid>
+            <pubDate>Tue, 14 May 2024 19:03:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒指期货夜盘收跌0.08%，报19062点，低水12点。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfufh3201933.d.html</link>
+            <guid>3617952</guid>
+            <pubDate>Tue, 14 May 2024 19:02:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 乌克兰国家能源公司：周三将对商业用户实施24小时用电限制。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfufh3201678.d.html</link>
+            <guid>3617951</guid>
+            <pubDate>Tue, 14 May 2024 19:01:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【也门荷台达机场遭美英袭击】根据也门胡塞武装下属媒体报道，当地时间5月14日，也门荷台达机场遭到美英袭击。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfufh3201220.d.html</link>
+            <guid>3617950</guid>
+            <pubDate>Tue, 14 May 2024 19:00:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【联合国难民署：苏丹武装冲突已致超885万人流离失所】当地时间14日，联合国难民署发布的最新报告显示，苏丹武装冲突已造成超过885万人流离失所，其中约678.6万人在苏丹国内流离失所，另有超过206.6万人越境进入乍得、南苏丹等邻国避难。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfufc0584023.d.html</link>
+            <guid>3617949</guid>
+            <pubDate>Tue, 14 May 2024 18:56:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰电网运营商：乌克兰周二实施了紧急停电。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfufc0583566.d.html</link>
+            <guid>3617948</guid>
+            <pubDate>Tue, 14 May 2024 18:53:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦存款保险公司（FDIC）官员将于周三（5月15日）在国会众议院金融服务委员会作证词。]]></title>
+            <guid>3617947</guid>
+            <pubDate>Tue, 14 May 2024 18:49:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【谷歌：SynthID文本水印技术开源，便于识别AI生成内容】5月15日凌晨消息，谷歌在I/O大会上宣布，针对AI升成内容推出SynthID水印技术，从而识别AI生图、AI文本、AI音视频等内容，该功能将进行技术开源，并吸引更多厂商加入。（新浪科技）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfuew0982350.d.html</link>
+            <guid>3617946</guid>
+            <pubDate>Tue, 14 May 2024 18:49:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[7月份ICE布伦特原油期货结算价报每桶82.38美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfufc0582938.d.html</link>
+            <guid>3617945</guid>
+            <pubDate>Tue, 14 May 2024 18:47:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【普京签署命令 任命俄联邦政府副总理以及各部门负责人】当地时间14日晚，俄罗斯克里姆林宫网站发布消息称，俄罗斯总统普京当天签署命令，任命俄联邦政府副总理以及各部部长。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfufh3196223.d.html</link>
+            <guid>3617944</guid>
+            <pubDate>Tue, 14 May 2024 18:46:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FDIC主席Martin Gruenberg表示：承诺改善该机构的工作场所文化，并对FDIC的文化问题负全部责任。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfuew0980744.d.html</link>
+            <guid>3617943</guid>
+            <pubDate>Tue, 14 May 2024 18:44:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金日内涨幅扩大至1.00%，现报2359.53美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfufh3195490.d.html</link>
+            <guid>3617942</guid>
+            <pubDate>Tue, 14 May 2024 18:43:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【谷歌：即将推出Gemma 2大模型】 5月15日凌晨消息，谷歌在I/O大会上宣布，即将推出Gemma 2大模型，支持270亿参数。（新浪科技）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfufh3195103.d.html</link>
+            <guid>3617941</guid>
+            <pubDate>Tue, 14 May 2024 18:42:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【消化存量优化增量，各地楼市政策密集“上新”】 4月底以来，北京、上海、天津、深圳、杭州、西安、成都、南京等地楼市优化政策密集“上新”。一系列政策支持下，多地房地产市场的活跃度、成交量等指标进一步转暖。多位业内人士表示，多地取消限购、放宽落户限制、优化“以旧换新”等举措，将有效激发潜在需求，稳定预期，助力楼市走向平稳。总体来看，消化存量房产和优化增量住房的政策措施成为新一轮房地产政策调整主线，旨在有效激发潜在需求，稳定预期，助力楼市走向平稳。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfufc0582263.d.html</link>
+            <guid>3617940</guid>
+            <pubDate>Tue, 14 May 2024 18:41:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【谷歌：安卓15系统即将推出】5月15日凌晨消息，谷歌在I/O大会上宣布，安卓15已融入谷歌Gemini大模型升级后能力，支持诸如AI语音助理防诈骗、画圈图片搜索、理解图片给出更符合用户需求的答案等功能，Android 15 Beta 2将在明天正式推出。（新浪科技）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfufh3193106.d.html</link>
+            <guid>3617939</guid>
+            <pubDate>Tue, 14 May 2024 18:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中方支持通过惩治最严重国际罪行以维护国际和平与安全】中国常驻联合国副代表戴兵14日在安理会审议国际刑事法院涉利比亚问题时表示，中方支持通过惩治最严重国际罪行，维护国际和平与安全。戴兵表示，面对国际社会高度关注的重大危机和挑战，国际刑事法院要依法行使职权，平等统一适用国际法，避免双重标准和例外主义，切实维护国际公平正义。戴兵说，中方关于国际刑事法院在利比亚工作的立场没有改变。国际刑事法院目前处理的案件是2011年提交的，中方注意到检察官提出的“完成调查路线图”。在下阶段工作中，希望国际刑事法院严格遵循《罗马规约》规定的补充管辖原则，保持独立、客观、公正立场，充分尊重当事国司法主权和合理意见，同利比亚当局保持密切沟通合作。戴兵表示，利比亚实现和平稳定是保障司法公正的前提。国际社会要坚持“利人主导、利人所有”原则，尊重利主权和领土完整，支持利各方开展对话协商、推进政治过渡，避免强加外部解决方案。国际刑事法院开展有关工作，要有助于利各方加强团结统一，避免放大分歧矛盾。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfufh3192149.d.html</link>
+            <guid>3617938</guid>
+            <pubDate>Tue, 14 May 2024 18:34:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI 6月原油期货收跌1.10美元，跌幅1.39%，报78.02美元/桶。NYMEX 6月天然气期货收跌1.55%，报2.344美元/百万英热单位。NYMEX 6月汽油期货收报2.4596美元/加仑，NYMEX 6月取暖油期货收报2.4200美元/加仑。]]></title>
+            <guid>3617937</guid>
+            <pubDate>Tue, 14 May 2024 18:33:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比亚迪美洲负责人：比亚迪将在年底前宣布墨西哥工厂计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfuez3803809.d.html</link>
+            <guid>3617936</guid>
+            <pubDate>Tue, 14 May 2024 18:33:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上期所原油期货2406合约夜盘收跌1.02%，报612.10元人民币/桶。沪金夜盘收涨0.64%，沪银收涨0.60%。]]></title>
+            <guid>3617935</guid>
+            <pubDate>Tue, 14 May 2024 18:33:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏丹西部地区冲突持续 已致38名平民死亡】当地时间14日，苏丹武装部队与快速支援部队继续在苏丹西部北达尔富尔州首府法希尔市交火。双方在市区多个地区相互炮击，当地主要市场和商店均已关闭，仅剩一家医院还在运营。北达尔富尔州卫生部门当天表示，冲突已造成38名平民死亡、280人受伤。数千名平民逃离家园。2023年4月15日，苏丹武装部队与快速支援部队在首都喀土穆爆发武装冲突，随后蔓延至其他地区，并持续至今。近期，冲突双方围绕北达尔富尔州的控制权展开激烈争夺。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfufh3190482.d.html</link>
+            <guid>3617934</guid>
+            <pubDate>Tue, 14 May 2024 18:31:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【谷歌：已经有1亿台设备支持Gemini圈图搜索功能，年底计划扩展到2亿】5月15日凌晨消息，谷歌在I/O大会上宣布，Gemini大模型与安卓系统进一步整合，此前已通过三星S24系列展示圈图搜索能力，该功能目前已在全球1亿台安卓设备使用，并且作为安卓独占功能，该能力计划在今年底扩展到2亿台设备。（新浪科技）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfufh3190071.d.html</link>
+            <guid>3617933</guid>
+            <pubDate>Tue, 14 May 2024 18:30:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴西南里奥格兰德州暴雨已致148人死亡】当地时间5月14日上午，巴西南里奥格兰德州民防部门发布信息显示，自4月29日以来，袭击该州的暴雨已导致148人死亡、806人受伤、124人失踪。目前该州受暴雨影响的城市为446个，受灾人数超过212万人。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfufh3187764.d.html</link>
+            <guid>3617932</guid>
+            <pubDate>Tue, 14 May 2024 18:23:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西国家石油公司预计今年将进行10艘新船的投标程序。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfufh3187541.d.html</link>
+            <guid>3617931</guid>
+            <pubDate>Tue, 14 May 2024 18:23:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【谷歌发布AI文生图大模型Imagen】5月15日凌晨消息，谷歌宣布推出Imagen文生图模型，相较于其他同类产品具备更高的细节调整功能，逼真的光线和更少的干扰，能够从草图快速升成高分辨率图像。（新浪科技）]]></title>
             <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfuew0971373.d.html</link>
@@ -61,6 +213,11 @@
             <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfuew0967576.d.html</link>
             <guid>3617922</guid>
             <pubDate>Tue, 14 May 2024 18:09:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【AI平台合成出32种潜在多靶点药物】 据科技日报，美国加州大学圣迭戈分校科学家开发了一种机器学习算法，来模拟药物发现早期阶段耗时的化学过程，其可以显著简化研发流程，同时也为前所未有的治疗找到新途径。科学家借助这一工具，已合成出32种治疗癌症的新候选药物。相关研究成果发表在新一期《自然·通讯》上。]]></title>
+            <guid>3617921</guid>
+            <pubDate>Tue, 14 May 2024 18:07:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【谷歌Gemini支持在Gmail邮箱中分析用户账单】5月15日凌晨消息，谷歌I/O大会上，谷歌Gemini大模型与Gamil邮箱结合，能够分析用户在邮箱中散落的消费内容相关邮件，并升成数据分析和表格。（新浪科技）]]></title>
@@ -144,165 +301,6 @@
             <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfuew0956005.d.html</link>
             <guid>3617906</guid>
             <pubDate>Tue, 14 May 2024 17:38:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴布亚新几内亚发生5.5级地震】据欧洲-地中海地震中心测定，当地时间5月15日3时15分，巴布亚新几内亚发生5.5级地震，震源深度124公里。震中位于南纬5.6687度，东经150.112度。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfuew0955517.d.html</link>
-            <guid>3617905</guid>
-            <pubDate>Tue, 14 May 2024 17:37:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌展示项目Project Astra，称其代表未来的AI助理：AI可以像人一样对世界做出反应，记住它所“看到的”和“听到的”以便回答问题。Project Astra的部分功能可能会应用到大模型Gemini，预计将于2024年下半年。]]></title>
-            <guid>3617904</guid>
-            <pubDate>Tue, 14 May 2024 17:35:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【9家银行系险企一季度业绩分化：6家净利润合计超30亿元，3家共亏23.43亿元】 近期，人身险公司陆续披露了今年一季度偿付能力报告，备受行业关注的银行系险企一季度经营情况也随之出炉。具体来看，这9家险企净利润表现分化，其中6家险企盈利，净利润合计达30.49亿元，3家险企亏损，亏损额合计为23.43亿元。受访专家表示，银行系险企净利之所以分化，一方面受新会计准则实施的影响，另一方面也受到资本市场波动、负债端业务转型等因素的影响。在“报行合一”以及近期监管取消银行网点与险企合作数量限制的政策影响下，未来，银行系险企需依靠品牌、产品和服务打造竞争优势。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfuew0954009.d.html</link>
-            <guid>3617903</guid>
-            <pubDate>Tue, 14 May 2024 17:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【越南总理同中资企业举行对话会】 据新华社，越南政府总理范明政同中资企业对话会14日在越南政府驻地举行，中国驻越南大使熊波和越南外交部长、计划投资部长、政府办公厅主任、农业与农村发展部长、科技部长、教育培训部长及通讯传媒部、工贸部、公安部等13家部委负责人，以及中国在绿色经济、数字经济领域的19家领军企业代表出席。范明政全面介绍越南经济社会发展情况和外商投资政策，积极评价中资企业为扩大深化越中经贸投资合作所作贡献，强调这是越南政府总理同中国企业首次举行对话会，是落实两党最高领导人重要共识、推动构建具有战略意义的越中命运共同体的具体行动。（新华社）]]></title>
-            <guid>3617902</guid>
-            <pubDate>Tue, 14 May 2024 17:31:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【谷歌正式推出Gemini 1.5 Flash】 5月15日凌晨消息，谷歌宣布正式推出Gemini 1.5 Flash，该模型速度更快，体积更小，部署更加灵活，并支持多模态。（新浪科技）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfpwy1082730.d.html</link>
-            <guid>3617901</guid>
-            <pubDate>Tue, 14 May 2024 17:27:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗集团负责重组计划的高管离职。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfpwy1081872.d.html</link>
-            <guid>3617900</guid>
-            <pubDate>Tue, 14 May 2024 17:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【谷歌CEO桑达尔·皮查伊：Gemini 1.5 Pro支持帮助用户完成商品退货】 5月15日凌晨消息，Gemini 1.5 Pro能够识别用户购物信息并帮助用户直接退货，此外，当用户旅行时，Gemini 1.5 Pro能够根据用户旅行目的地直接规划诸如住宿、美食、交通等不同安排。（新浪科技）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfpxc3925966.d.html</link>
-            <guid>3617899</guid>
-            <pubDate>Tue, 14 May 2024 17:24:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【谷歌：AI Overviews最快本周将在多个国家推出】5月15日凌晨消息，一年一度的谷歌I/O大会上，谷歌宣布AI Overviews 很快将在美国（本周）和其他国家/地区推出。（新浪科技）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfpxk3296636.d.html</link>
-            <guid>3617898</guid>
-            <pubDate>Tue, 14 May 2024 17:24:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[通信公司Verizon认为人工智能是互联网需求的下一个增长机器。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfpxk3295694.d.html</link>
-            <guid>3617897</guid>
-            <pubDate>Tue, 14 May 2024 17:22:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【谷歌CEO桑达尔·皮查伊：Gemini 1.5 Pro现已支持总结会议内容】5月15日凌晨消息，一年一度的谷歌I/O大会上，谷歌CEO桑达尔·皮查伊表示，Gemini 1.5 Pro将能帮助用户分析孩子邮件内容，并将视频会议内容进行总结。（新浪科技）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfpwy1080331.d.html</link>
-            <guid>3617896</guid>
-            <pubDate>Tue, 14 May 2024 17:21:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周二（5月14日），美联储隔夜逆回购协议（RRP）使用规模为4683.44亿美元]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfpwy1078866.d.html</link>
-            <guid>3617895</guid>
-            <pubDate>Tue, 14 May 2024 17:16:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国巴黎银行：本公司不再从事与石油和天然气相关的债券（承销）交易业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfpwy1078827.d.html</link>
-            <guid>3617894</guid>
-            <pubDate>Tue, 14 May 2024 17:16:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GAMESTOP继续缩减涨幅，股价上涨22%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfpxc3924548.d.html</link>
-            <guid>3617893</guid>
-            <pubDate>Tue, 14 May 2024 17:12:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【谷歌发布由生成式AI支持的搜索引擎】谷歌首席执行官周二表示，将推出由生成式人工智能驱动的搜索引擎，其中包括由人工智能编写的答案。去年，该公司开始使用人工智能来起草问题的答案，但人们必须注册试用该产品的实验版本。该公司今日表示，将于本周向美国用户提供其所谓的“人工智能概述功能”，并在未来几个月向更多国家提供，预计到年底前用户将超过10亿。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfpxc3924422.d.html</link>
-            <guid>3617892</guid>
-            <pubDate>Tue, 14 May 2024 17:10:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西央行完全致力于实现CPI目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfpxc3924182.d.html</link>
-            <guid>3617891</guid>
-            <pubDate>Tue, 14 May 2024 17:09:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌首席执行官：本周将在美国推出人工智能搜索概览功能。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfpwy1075769.d.html</link>
-            <guid>3617890</guid>
-            <pubDate>Tue, 14 May 2024 17:08:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【谷歌CEO桑达尔·皮查伊：Gemini大模型开发者已超150万】5月15日凌晨消息，一年一度的谷歌I/O大会上，谷歌CEO桑达尔·皮查伊宣布，已经有超过150万开发者在使用谷歌Gemini大模型。结合Germini大模型，Google Photo能够识别用户对照片的深度问题，例如“女儿是什么时候学习游泳的”，该功能被称为Ask Photos。（新浪科技）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfpwy1075005.d.html</link>
-            <guid>3617889</guid>
-            <pubDate>Tue, 14 May 2024 17:06:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AMC院线涨幅进一步收窄，目前涨23%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfpwy1074198.d.html</link>
-            <guid>3617886</guid>
-            <pubDate>Tue, 14 May 2024 17:03:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【雅居乐集团回应债务问题：企业经营一切正常 将与债权人保持积极沟通】5月14日，雅居乐集团在港交所发布公告称，鉴于公司面临的流动性压力，于本公告日期，公司尚未支付2020票据的有关利息，该票据利息支付的宽限期于2024年5月13日到期，并预期将无能力履行其境外债务项下的所有付款义务。对于此次债务问题，雅居乐集团相关负责人在接受记者采访时表示，企业经营目前一切正常，流动性不足是阶段性问题。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfpxk3289033.d.html</link>
-            <guid>3617885</guid>
-            <pubDate>Tue, 14 May 2024 17:03:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【夜盘主力合约收盘】截至1:00收盘，沪铜主力合约收跌0.94%，报81090元/吨，沪铝主力合约收跌0.85%，报20440元/吨，沪锌主力合约收跌0.50%，报23670元/吨，沪镍主力合约收跌0.67%，报143460元/吨，沪锡主力合约收涨1.18%，报273160元/吨，沪铅主力合约收涨1.04%，报18505元/吨，不锈钢主力合约收跌0.60%，报14115元/吨，氧化铝主力合约收跌1.85%，报3661元/吨，国际铜主力合约收跌0.96%，报72320元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfpwy1073877.d.html</link>
-            <guid>3617884</guid>
-            <pubDate>Tue, 14 May 2024 17:02:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[扎克伯格旗下Meta Platforms关闭Workplace，一个企业版本的Facebook。]]></title>
-            <guid>3617883</guid>
-            <pubDate>Tue, 14 May 2024 17:01:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【联合国官员：已就联合国车辆遇袭事件成立调查组】当地时间5月14日，联合国秘书长副发言人法尔汉·哈克在回答记者提问时表示，联合国方面目前已经就联合国车辆遇袭事件成立了调查组。此外，法尔汉·哈克表示，这一袭击来自“当地一辆坦克”。他表示，以色列国防军是唯一有坦克的一方是“合理的推测”。当地时间13日，一辆联合国车辆在加沙地带南部城市拉法遭到袭击。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfpxf0699740.d.html</link>
-            <guid>3617882</guid>
-            <pubDate>Tue, 14 May 2024 16:57:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【LME3个月期铜收低 锡价上涨】伦敦金属交易所(Lme) 期铜收跌72美元，报10114美元/吨。LME期铝收涨9美元，报2551美元/吨。LME期锌收涨6美元，报3004美元/吨。LME期铅收涨8美元，报2259美元/吨。LME期镍收跌155美元，报19075美元/吨。LME期锡收涨448美元，报33366美元/吨。LME期钴收平，报27830美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfpwy1071453.d.html</link>
-            <guid>3617881</guid>
-            <pubDate>Tue, 14 May 2024 16:57:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[医疗金融服务公司Waystar计划在六月进行首次公开募股，估值超过50亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfpwy1070573.d.html</link>
-            <guid>3617880</guid>
-            <pubDate>Tue, 14 May 2024 16:55:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AMC ENTERTAINMENT股价收窄涨幅目前上涨23%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfpwy1070403.d.html</link>
-            <guid>3617879</guid>
-            <pubDate>Tue, 14 May 2024 16:54:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【雀巢下调2024年可再生能源产品销售利润率预期】Neste预计到2024年可再生能源产品的平均可比销售利润为每吨480-650美元，原先预计为600-800美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfpxk3284485.d.html</link>
-            <guid>3617878</guid>
-            <pubDate>Tue, 14 May 2024 16:52:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以军下达新“撤离令” 要求杰巴利耶以西多地民众撤离】当地时间14日晚间，以色列国防军发言人针对加沙地带北部杰巴利耶以西的多个地区下达新的“撤离令”，要求当地民众向加沙城西部撤离。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-15/detail-inavfpwy1069014.d.html</link>
-            <guid>3617877</guid>
-            <pubDate>Tue, 14 May 2024 16:50:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
