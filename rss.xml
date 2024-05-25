@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 25 May 2024 20:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 May 2024 21:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【达利欧最新论述：美国正处于“巨大动荡边缘”】桥水基金创始人、知名华尔街“布道者”瑞·达利欧本周接受采访时谈及，美国正处于“国家内部周期六阶段论”的第五阶段，也就是处于 “内战”边缘，但尚未爆发的阶段。他认为，美国最有可能发生的内战类型并不是人们互相用枪扫射的那种，而是州、地方政府拒绝遵循联邦政府的指示，同时联邦政府对此混乱、功能失调的处理方式。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-26/detail-inawnwuh3898565.d.html</link>
+            <guid>3632158</guid>
+            <pubDate>Sat, 25 May 2024 20:52:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【哈马斯官员：未收到重启加沙停火谈判通知】当地时间25日，巴勒斯坦伊斯兰抵抗运动（哈马斯）高级官员乌萨马·哈姆丹表示，未收到相关斡旋方有关重启加沙停火谈判的通知，并称哈马斯不信任以色列的相关提议，哈马斯此前已经同意相关斡旋方提出的方案，不需要再进行新的谈判、接受新的方案。哈姆丹称，当务之急是执行国际法院关于以色列应停止在加沙地带军事行动的判决。哈姆丹强调，以色列此前在停火协议草案中提出的在停火期维持所谓“持续平静”的表述是不够的，以色列应该立即从加沙地带撤军并停止其所有军事行动。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2024-05-26/detail-inawnsnc5359969.d.html</link>
@@ -299,12 +305,6 @@
             <link>https://finance.sina.cn/7x24/2024-05-25/detail-inawnfwi5559598.d.html</link>
             <guid>3632109</guid>
             <pubDate>Sat, 25 May 2024 13:23:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国蜂产品协会牵头启动“帮扶女性养蜂创业计划”】由中国蜂产品协会牵头组织的“帮扶女性养蜂创业计划”5月25日在北京启动，旨在鼓励与帮扶更多女性加入养蜂事业，通过养蜂实现经济独立和自我价值，让女性成为推动乡村振兴和共同富裕的重要力量。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-25/detail-inawnfwq4219949.d.html</link>
-            <guid>3632108</guid>
-            <pubDate>Sat, 25 May 2024 13:23:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
