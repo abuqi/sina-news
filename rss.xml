@@ -4,11 +4,35 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 01 Jun 2024 16:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jun 2024 17:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SpaceX目标最早于6月6日进行第四次Starship（星舰）飞行。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxhfxr9259935.d.html</link>
+            <guid>3641137</guid>
+            <pubDate>Sat, 01 Jun 2024 17:12:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[布林肯：准备深化与萨尔瓦多总统的关系。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxhfxr9253813.d.html</link>
+            <guid>3641136</guid>
+            <pubDate>Sat, 01 Jun 2024 16:39:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波音公司推迟首次Starliner前往空间站的载人飞行任务。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxhfxq2476846.d.html</link>
+            <guid>3641135</guid>
+            <pubDate>Sat, 01 Jun 2024 16:38:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波音载人航天任务倒计时在升空前暂停。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxhfxr9251678.d.html</link>
+            <guid>3641134</guid>
+            <pubDate>Sat, 01 Jun 2024 16:27:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：印度出口民意调查显示莫迪势将在大选中取得压倒性胜利。]]></title>
             <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxhfxq2472790.d.html</link>
@@ -283,29 +307,6 @@
             <link>https://finance.sina.cn/7x24/2024-06-01/detail-inaxfzrs2571066.d.html</link>
             <guid>3641086</guid>
             <pubDate>Sat, 01 Jun 2024 13:24:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华勤技术将被纳入沪深300指数】 5月31日，中证指数有限公司发布公告称，将调整沪深300、中证500、中证1000、上证50、上证180、上证380和科创50等指数样本，此次调整为指数样本的定期例行调整，定期调整方案将于6月14日收市后正式生效。其中，华勤技术将被纳入沪深300指数。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-01/detail-inaxfviu2700377.d.html</link>
-            <guid>3641084</guid>
-            <pubDate>Sat, 01 Jun 2024 13:17:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿拉伯国家联盟秘书长访问上海】6月1日，上海市委常委、副市长华源在市政府会见了阿拉伯国家联盟秘书长艾哈迈德·阿布·盖特一行，宾主双方就加强中阿改革发展研究中心建设等交换了意见。 (上观)]]></title>
-            <guid>3641083</guid>
-            <pubDate>Sat, 01 Jun 2024 13:16:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄货运飞船与国际空间站对接】俄罗斯国家航天集团6月1日在官网发布消息说，俄“进步MS-27”货运飞船当天已与国际空间站完成对接。 消息说，莫斯科时间6月1日14时43分（北京时间19时43分），“进步MS-27”货运飞船与国际空间站俄罗斯舱段的“搜索”号模块完成自动对接。5月30日，“进步MS-27”货运飞船由“联盟-2.1a”运载火箭从哈萨克斯坦境内的拜科努尔航天发射场升空，为国际空间站送货。据介绍，飞船向国际空间站运送了2504千克货物，包括燃料、饮用水、食物、氮气和各类设备等。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-01/detail-inaxfviu2700286.d.html</link>
-            <guid>3641082</guid>
-            <pubDate>Sat, 01 Jun 2024 13:16:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：南非祖马的MK党在夸祖鲁-纳塔尔省赢得45.4%的选票。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-01/detail-inaxfviv9476213.d.html</link>
-            <guid>3641081</guid>
-            <pubDate>Sat, 01 Jun 2024 13:13:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
