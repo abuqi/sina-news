@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 02 Jun 2024 20:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jun 2024 21:16:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【沪深300 中证500等重要指数集中调整】日前，中证指数有限公司宣布将调整沪深300、中证500、中证1000等指数样本，此次调整为指数样本的定期例行调整。同日，中证指数公司公告，根据指数规则，经指数专家委员会审议，上海证券交易所与中证指数有限公司决定调整上证50、上证180、上证380、科创50等指数样本。据悉，上述定期调整方案将于6月14日收市后正式生效。（广州日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-03/detail-inaxkvnp8389229.d.html</link>
+            <guid>3641598</guid>
+            <pubDate>Sun, 02 Jun 2024 21:11:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【红利龙头股迎风起舞 公募密集推新品布局】在近期的调整行情中，红利龙头股逆势走强，长江电力、中国神华、国投电力等龙头股股价纷纷创下历史新高。投资者也在追捧红利型产品，基金公司更是快速顺势布局。近日，首批中证国新港股通央企红利ETF正式获批。今年以来，已有超30只红利产品密集成立，发行规模超百亿元。接下来，还有近10只红利基金正在或即将发行。（上证报）]]></title>
             <link>https://finance.sina.cn/7x24/2024-06-03/detail-inaxkvnm7999152.d.html</link>
@@ -301,12 +307,6 @@
             <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxkkwr8221921.d.html</link>
             <guid>3641548</guid>
             <pubDate>Sun, 02 Jun 2024 15:31:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外交部副部长马朝旭同美国工商界人士座谈】当地时间6月1日，外交部副部长马朝旭在纽约同美国工商界人士举行午餐会并座谈。双方就中美关系、中国经济及营商环境等问题进行了深入交流。座谈会由美中贸易全国委员会和美中关系全国委员会共同举办。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxkkwr8221373.d.html</link>
-            <guid>3641547</guid>
-            <pubDate>Sun, 02 Jun 2024 15:26:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
