@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 08 Jun 2024 16:22:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jun 2024 17:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【埃及谴责以军袭击难民营致数百死伤 呼吁推动加沙停火】当地时间8日，埃及外交部发表声明，谴责以色列对加沙地带中部努赛赖特难民营的袭击，称以色列的行为违反了国际法相关规定。该袭击目前已造成至少200名巴勒斯坦平民死亡、超400人受伤。埃及要求以色列对这次袭击承担法律和道义责任，停止无差别地针对巴勒斯坦平民的袭击。埃及呼吁国际各方和联合国安理会立即干预，采取行动制止以色列对加沙地带的军事行动，推动在整个加沙地带实现停火，并实现人道主义救援物资从所有陆路口岸全面、无障碍进入加沙地带。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-09/detail-inayacur3829762.d.html</link>
+            <guid>3650221</guid>
+            <pubDate>Sat, 08 Jun 2024 16:42:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【哈马斯谴责以军袭击难民营 称已确认美国参与其中】巴勒斯坦伊斯兰抵抗运动（哈马斯）当地时间8日发表声明，谴责以军当天对加沙中部努赛赖特难民营及其他区域发动袭击，导致数百名无辜平民伤亡，并损毁了当地社区。哈马斯表示，已确认美国参与到了当天以军行动中，这再一次表明美国与以色列合谋在加沙犯下“战争罪”。哈马斯称，以军8日称救出多名被扣押人员，这并不能改变其在加沙地带“战略失败”的事实。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-09/detail-inayacur3828197.d.html</link>
+            <guid>3650220</guid>
+            <pubDate>Sat, 08 Jun 2024 16:33:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【订单多 生产忙 湖南汨罗龙舟“爆单”热销海内外】在被誉为“龙舟故里”的湖南汨罗，龙舟进入销售旺季。龙舟厂的师傅们连日赶工，将汨罗龙舟送往全国各地。在一家玻璃钢龙舟生产基地内，近段时间以来工厂一直处于“爆单”状态。据了解，汨罗当地已有注册龙舟制造企业20多家，每年的各类龙舟制造数量将近5000余条，总产值近2亿元。同时产品还远销东南亚、欧美等国家和地区。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2024-06-09/detail-inayacur3822020.d.html</link>
@@ -300,12 +312,6 @@
             <link>https://finance.sina.cn/7x24/2024-06-08/detail-inaxztez2473688.d.html</link>
             <guid>3650171</guid>
             <pubDate>Sat, 08 Jun 2024 11:49:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[哈马斯官员：以色列在9个月后营救出4名人质是“是失败的标志，而不是成就”。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-08/detail-inaxztev4034017.d.html</link>
-            <guid>3650169</guid>
-            <pubDate>Sat, 08 Jun 2024 11:38:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
