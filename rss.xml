@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 08 Jun 2024 18:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jun 2024 19:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【德国总理：反对将欧洲汽车市场与外国竞争隔绝】德国总理朔尔茨8日发表讲话，反对因与外国竞争而封闭欧洲汽车市场。 据《法兰克福汇报》报道，朔尔茨当天在德国吕瑟尔斯海姆出席欧宝汽车公司125周年庆祝活动时说：“我们不会对外国公司关闭我们的市场，因为我们也不希望我们的公司在国外市场受到同样的对待。” 欧盟委员会去年10月发起对中国电动汽车的反补贴调查。有消息称，欧盟委员会或将效仿美国滥用贸易保护主义，对中国电动汽车加征关税。德国交通部长、经济部长、财政部长日前均表示，对中国电动汽车加征关税无法保护欧洲相关产业发展，而只会伤及德国企业、德国经济和公平竞争的国际贸易环境。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-09/detail-inayakau6449498.d.html</link>
+            <guid>3650229</guid>
+            <pubDate>Sat, 08 Jun 2024 19:00:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以军称解救被扣押人员行动致巴方不超过100人伤亡】当地时间8日晚，以色列国防军发言人丹尼尔·哈加里表示，当天以军在加沙中部努赛赖特展开解救被扣押人员行动，造成巴勒斯坦方面的伤亡人数不超过100人。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-09/detail-inayakap3717247.d.html</link>
+            <guid>3650228</guid>
+            <pubDate>Sat, 08 Jun 2024 18:24:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【以军袭击难民营 巴勒斯坦总统呼吁安理会召开紧急会议】据巴勒斯坦官方当地时间8日消息，巴勒斯坦总统阿巴斯当天呼吁联合国安理会召开紧急会议，就以军袭击加沙地带中部努赛赖特难民营一事进行讨论。哈马斯媒体办公室当天发表声明说，以军当天对加沙中部努赛赖特难民营的袭击已导致210名巴勒斯坦人死亡、超过400人受伤。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2024-06-09/detail-inayakau6443670.d.html</link>
@@ -306,11 +318,6 @@
             <link>https://finance.sina.cn/7x24/2024-06-08/detail-inaxztev4041663.d.html</link>
             <guid>3650179</guid>
             <pubDate>Sat, 08 Jun 2024 12:19:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMF第一副总裁戈皮纳特警告，美国正负担日益沉重的财政压力，对于美国来说，有充足的理由来减少财政赤字规模。]]></title>
-            <guid>3650177</guid>
-            <pubDate>Sat, 08 Jun 2024 12:07:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
