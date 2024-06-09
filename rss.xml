@@ -4,11 +4,40 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 09 Jun 2024 19:15:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jun 2024 20:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【新疆阿克苏地区沙雅县发生3.1级地震】中国地震台网正式测定：06月10日04时06分在新疆阿克苏地区沙雅县（北纬39.95度，东经83.39度）发生3.1级地震，震源深度15千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-10/detail-inayetit9725089.d.html</link>
+            <guid>3650570</guid>
+            <pubDate>Sun, 09 Jun 2024 20:15:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国大选消息公布后，欧元下跌，上一交易日下跌0.1%，报1.0790美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-10/detail-inayetip4051193.d.html</link>
+            <guid>3650569</guid>
+            <pubDate>Sun, 09 Jun 2024 20:08:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法国总统马克龙宣布解散国民议会】当地时间6月9日晚，在欧洲议会选举投票结束后，法国总统马克龙宣布解散国民议会，并宣布于6月30日和7月7日举行新的议会选举。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-10/detail-inayetir0824949.d.html</link>
+            <guid>3650567</guid>
+            <pubDate>Sun, 09 Jun 2024 19:28:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国极右翼领导人勒庞：欧洲议会选举投票结果具有历史意义；我欢迎马克龙呼吁提前选举，并且我们已经为新的选举做好了准备，如果人们信任我们，我们准备接管法国的权力。]]></title>
+            <guid>3650566</guid>
+            <pubDate>Sun, 09 Jun 2024 19:19:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：墨西哥执政党赢得下议院超级多数席位，但未能在参议院获胜。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-10/detail-inayetis5334564.d.html</link>
+            <guid>3650565</guid>
+            <pubDate>Sun, 09 Jun 2024 19:18:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[欧洲议会选举后欧元早盘走高。]]></title>
             <link>https://finance.sina.cn/7x24/2024-06-10/detail-inayenzv9846821.d.html</link>
@@ -266,42 +295,6 @@
             <link>https://finance.sina.cn/7x24/2024-06-09/detail-inayeamy5669655.d.html</link>
             <guid>3650519</guid>
             <pubDate>Sun, 09 Jun 2024 13:53:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印度总理莫迪宣誓就职 开启第三任期】印度全国民主联盟领导人莫迪在首都新德里宣誓就职新一届政府总理，开启他的第三个总理任期。根据印度选举委员会5日凌晨公布的印度人民院（议会下院）第18届选举最终计票结果，执政党印度人民党主导的全国民主联盟获得过半数席位，标志着全国民主联盟在此次大选中获胜。印度议会实行两院制，分为联邦院（议会上院）和人民院。人民院选举每5年举行一次，在人民院选举中赢得多数席位的政党或政党联盟有权组建内阁。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-09/detail-inayeana0050799.d.html</link>
-            <guid>3650518</guid>
-            <pubDate>Sun, 09 Jun 2024 13:48:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广晟有色：富远公司《稀土冶炼高盐废水零排放关键技术》经评价达到国际领先水平】广晟有色消息，6月9日，由中国稀土学会组织对广晟有色富远公司《南方离子型稀土冶炼高盐废水零排放关键技术》科研项目开展科技成果评价工作，评价结果认为该技术创新点突出，技术指标先进，项目整体流程达到国际领先水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-09/detail-inayeamv4409513.d.html</link>
-            <guid>3650517</guid>
-            <pubDate>Sun, 09 Jun 2024 13:43:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩国医协宣布本月18日全面停诊 韩总理表示遗憾】大韩医师协会(下称“医协”)9日举行全国医师代表者会议，表示将于本月18日全面停诊。韩国国务总理韩德洙同日对医协集体停诊决定表示遗憾，同时重申不会对返岗的实习住院医师予以处分。（中国新闻网）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-09/detail-inayeamv4409497.d.html</link>
-            <guid>3650516</guid>
-            <pubDate>Sun, 09 Jun 2024 13:42:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【爱克股份首届创新技术产品发布会召开】爱克股份消息，6月8日，爱克股份首届创新技术产品发布会于广州召开。发布会聚焦在集成控制、零碳方案、超高光效、互联智控等前沿技术领域，重磅发布了智慧景观、智慧道路、智慧文旅、公共空间照明四大应用场景的创新产品。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-09/detail-inayeamy5664584.d.html</link>
-            <guid>3650515</guid>
-            <pubDate>Sun, 09 Jun 2024 13:24:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本将与乌克兰签10年援助协议】据报道，日本将与乌克兰签署为期10年的援助协议，日本将在宪法框架内向乌提供安全和防务援助，例如向乌方提供“非致命性”设备、为受伤的乌军士兵提供治疗等。报道称，日本首相岸田文雄将在13日举行的七国集团峰会上，与乌总统泽连斯基签署该协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-09/detail-inayeamx1184460.d.html</link>
-            <guid>3650514</guid>
-            <pubDate>Sun, 09 Jun 2024 13:16:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【基因组动态与神经科学和衰老国际研讨会在山东青岛启幕 系首次在中国举行】作为国际DNA损伤及修复、基因组稳定性及肿瘤发生研究领域的顶尖会议，基因组动态与神经科学和衰老国际研讨会(GDNA)9日在山东省青岛市即墨区启幕，这是该研讨会首次在中国举行。本次研讨会吸引了来自美国、英国、德国、丹麦、挪威、希腊、荷兰、意大利、以色列、韩国等国家和地区的高校及科研机构专家学者共200余人与会。其中，45位享誉国际的专家学者担任大会演讲嘉宾，做学术交流报告。（中国新闻网）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-09/detail-inayeamx1183816.d.html</link>
-            <guid>3650513</guid>
-            <pubDate>Sun, 09 Jun 2024 13:07:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
