@@ -4,11 +4,99 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Fri, 14 Jun 2024 19:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 20:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国上周银行存款达到17.599万亿美元，之前一周为17.556万亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-15/detail-inayuayu2434456.d.html</link>
+            <guid>3657666</guid>
+            <pubDate>Fri, 14 Jun 2024 20:16:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿斯利康Durvalumab搭配Chemo Ok’d用于治疗子宫内膜癌的疗法获得美国食品药品管理局（FDA）批准。]]></title>
+            <guid>3657665</guid>
+            <pubDate>Fri, 14 Jun 2024 20:15:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚马逊因侵犯定向广告专利被判需支付1.22亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-15/detail-inayuayu2432993.d.html</link>
+            <guid>3657664</guid>
+            <pubDate>Fri, 14 Jun 2024 20:08:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[博通收涨3.3%，本周累计上涨23%创历史上最大单周涨幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-15/detail-inayuayp5419366.d.html</link>
+            <guid>3657663</guid>
+            <pubDate>Fri, 14 Jun 2024 20:02:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【热门中概股普跌 纳斯达克中国金龙指数跌超1%】热门中概股普跌，纳斯达克中国金龙指数跌1.51%，本周累计下跌2.73%。哔哩哔哩跌近5%，理想汽车、阿里巴巴跌超3%，唯品会、小鹏汽车、京东、百度跌超2%，蔚来、满帮、拼多多跌超1%，富途控股、腾讯音乐小幅下跌。爱奇艺、网易小幅上涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-15/detail-inayuayu2431538.d.html</link>
+            <guid>3657662</guid>
+            <pubDate>Fri, 14 Jun 2024 20:00:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【纳指连续五个交易日续创历史新高 英伟达、微软续创历史收盘新高】美股三大指数收盘涨跌不一，道指跌0.15%，本周累跌0.54%，日线4连跌；标普500指数跌0.04%，本周累涨1.58%，终结日线四连涨；纳指涨0.12%，本周累涨3.24%，连续五个交易日续创历史新高。大型科技股涨跌不一，奈飞涨超2%，英伟达涨超1%，谷歌、微软、Meta小幅上涨；特斯拉跌超2%，苹果、亚马逊小幅下跌。其中，英伟达、微软续创历史收盘新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-15/detail-inayuayu2431335.d.html</link>
+            <guid>3657661</guid>
+            <pubDate>Fri, 14 Jun 2024 20:00:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：6月11日当周，资产管理机构所持墨西哥比索净多头头寸下降36,524手合约，创2020年3月份以来最大单周降幅，至99,352手合约，创2023年10月份以来新低。]]></title>
+            <guid>3657660</guid>
+            <pubDate>Fri, 14 Jun 2024 19:53:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【充电站超1万座 深圳每3台新车有2台是新能源】 在深圳，每登记上牌的3台新车中，就有2台是新能源汽车。2023年6月29日，深圳宣布启动“超充之城”建设，截至目前，深圳市共有充电站10956座，已累计建成超级充电站379座，初步构建遍布全城的超充服务网络。据了解，今年一季度，深圳充电站累计用电量达6.7亿千瓦时，同比增长10.9%。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-15/detail-inaytwsw2558902.d.html</link>
+            <guid>3657659</guid>
+            <pubDate>Fri, 14 Jun 2024 19:42:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至6月11日当周，投机者将CBOT美国2年期国债期货净空头寸增加99,794手至1,135,216手；
+美国5年期国债期货净空头寸减少75,613手至1,497,424手；
+美国10年期国债期货净空头寸减少147,063手至307,692手；
+超长期国债期货净空头寸增加14,576手至345,107手。]]></title>
+            <guid>3657658</guid>
+            <pubDate>Fri, 14 Jun 2024 19:34:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至6月11日当周，WTI原油期货投机性净多头寸增加42,488手至160,889手。
+截至6月11日当周，COMEX黄金期货投机性净多头寸减少3,212手至177,549手。
+截至6月11日当周，COMEX白银期货投机性净多头寸减少6,200手至29,600手。
+截至6月11日当周，NYMEX、ICE市场的天然气期货净多头寸增加33,190手至113,497手。
+截至6月11日当周，COMEX铜期货投机性净多头寸减少325手至54,643手。
+截至6月11日当周，比特币投机性净空头头寸减少1,138份合约。]]></title>
+            <guid>3657657</guid>
+            <pubDate>Fri, 14 Jun 2024 19:29:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货白银日内涨超2%，现报29.53美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-15/detail-inaytwsw2555666.d.html</link>
+            <guid>3657656</guid>
+            <pubDate>Fri, 14 Jun 2024 19:25:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美元指数14日上涨】衡量美元对六种主要货币的美元指数当天上涨0.34%，在汇市尾市收于105.549。 截至纽约汇市尾市，1欧元兑换1.0700美元，低于前一交易日的1.0739美元；1英镑兑换1.2682美元，低于前一交易日的1.2764美元。 1美元兑换157.28日元，高于前一交易日的156.90日元；1美元兑换0.8903瑞士法郎，低于前一交易日的0.8940瑞士法郎；1美元兑换1.3740加元，低于前一交易日的1.3742加元；1美元兑换10.5256瑞典克朗，高于前一交易日的10.4720瑞典克朗。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-15/detail-inaytwsw2554879.d.html</link>
+            <guid>3657655</guid>
+            <pubDate>Fri, 14 Jun 2024 19:21:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【险资频频举牌，“长钱长投”布局权益市场】 险资举牌上市公司步履不停。长城人寿近日公告称，公司在二级市场买入赣粤高速A股股份，增持赣粤高速股份后合计持股达到1.17亿股，占赣粤高速总股本的5%，完成举牌。这是今年以来险资第5次举牌上市公司。业内人士认为，当前权益市场整体估值位于历史低位，险资作为长线资金，通过低位布局权益市场，可以发挥“长钱长投”的优势和耐心资本的作用，为市场注入信心。后续大概率还会有险资举牌上市公司。上海一家大型险资机构权益投资负责人表示，预计市场结构性机会仍然较多，中期维度指数可能延续震荡上行的趋势。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-15/detail-inaytwsu8172140.d.html</link>
+            <guid>3657654</guid>
+            <pubDate>Fri, 14 Jun 2024 19:17:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【受“沪九条”提振，上海二手房日均成交量增加近四成】 上海房地产新政“沪九条”实施以来，新房及二手房市场购销均表现出持续的热度。统计数据显示，5月28日至6月10日，上海新房认购总体平稳，全市共有10个楼盘完成认购，认购水平高于同板块平均水平。同期，上海二手房市场成交量大幅提高，日均成交700套，比5月1日至5月27日的日均成交量增加38%。在上海中原地产市场分析师卢文曦看来，在楼市新政的带动下，近期上海房地产市场的整体表现有明显回升，从周数据维度看，市场仍处于稳步放量的过程中。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-15/detail-inaytwst2321865.d.html</link>
+            <guid>3657653</guid>
+            <pubDate>Fri, 14 Jun 2024 19:15:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[在岸人民币兑美元北京时间03:00收报7.2557，较上一交易日夜盘收盘跌34点。成交量304.98亿美元。]]></title>
             <guid>3657652</guid>
@@ -25,6 +113,12 @@
             <link>https://finance.sina.cn/7x24/2024-06-15/detail-inaytwst2320304.d.html</link>
             <guid>3657650</guid>
             <pubDate>Fri, 14 Jun 2024 19:01:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【尼日尔国家法院取消巴祖姆的总统豁免权】尼日尔国家法院14日下令取消被推翻总统穆罕默德·巴祖姆的豁免权。 据尼日尔通讯社报道，尼日尔国家法院在14日举行的公开听证会上裁定，取消巴祖姆的豁免权。巴祖姆的律师团队表示，将就“这一情况持续进行沟通”。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-15/detail-inaytwst2320116.d.html</link>
+            <guid>3657649</guid>
+            <pubDate>Fri, 14 Jun 2024 18:59:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【50年期超长期特别国债受热捧，专家警示“债牛”风险】 6月14日，50年期超长期特别国债迎来首次发行。财政部当天招标发行2024年超长期特别国债（三期）（50年期），本期发行总额为350亿元，票面利率通过竞争性招标后仅为2.53%，反映出市场对超长期特别国债的追捧。近期发行的特别国债由于具备收益率高于存款、流动性较强、风险相对较小等特点，受到机构、个人投资者热捧。专家提醒，此轮债券“牛市”行情与债券利率下行有很大关系，但这种高收益不具备可持续性，需警惕高位“接盘”风险。（证券时报）]]></title>
@@ -68,7 +162,7 @@
             <pubDate>Fri, 14 Jun 2024 18:40:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【欧洲央行行长拉加德：欧元区通胀回落之路不会一帆风顺 】欧洲央行行长拉加德表示，相信目前正处在让通胀率回落至2%的正确道路上，即使未来几个月的前进之路不会是坦途。她表示，这种乐观情绪促使决策者上周降低利率。她拒绝就源自其祖国法国的金融市场动荡发表评论。政治上面临不确定性之际，法国股债重挫。“我们确实面临诸多挑战，但我确实相信，我们现在正走向通胀放缓之路，路上会碰到这样或者那样的障碍 —— 我们称之为路上的颠簸，”拉加德周五表示。“但无疑处于下降之路。”]]></title>
+            <title><![CDATA[【欧洲央行行长拉加德：欧元区通胀回落之路不会一帆风顺】欧洲央行行长拉加德表示，相信目前正处在让通胀率回落至2%的正确道路上，即使未来几个月的前进之路不会是坦途。她表示，这种乐观情绪促使决策者上周降低利率。“我们确实面临诸多挑战，但我确实相信，我们现在正走向通胀放缓之路，路上会碰到这样或者那样的障碍 —— 我们称之为路上的颠簸，”拉加德周五表示。“但无疑处于下降之路。”欧洲央行预计通胀率将在明年最后一个季度回到2%。拉加德表示，“除非遭遇重大冲击，或者除非未来几个月出现下行风险，否则这就是未来的发展方向。”]]></title>
             <link>https://finance.sina.cn/7x24/2024-06-15/detail-inaytwsw2546355.d.html</link>
             <guid>3657641</guid>
             <pubDate>Fri, 14 Jun 2024 18:37:18 GMT</pubDate>
@@ -86,7 +180,9 @@
             <pubDate>Fri, 14 Jun 2024 18:33:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[WTI 7月原油期货收跌0.17美元，跌幅超过0.21%，报78.45美元/桶，本周累涨超3.86%。NYMEX 7月天然气期货收跌超2.63%，报2.8810美元/百万英热单位，本周累跌1.27%。NYMEX 7月汽油期货收报2.3996美元/加仑，NYMEX 7月取暖油期货收报2.4706美元/加仑。]]></title>
+            <title><![CDATA[WTI 7月原油期货收跌0.17美元，跌幅超过0.21%，报78.45美元/桶，本周累涨超3.86%。
+NYMEX 7月天然气期货收跌超2.63%，报2.8810美元/百万英热单位，本周累跌1.27%。
+NYMEX 7月汽油期货收报2.3996美元/加仑，NYMEX 7月取暖油期货收报2.4706美元/加仑。]]></title>
             <guid>3657638</guid>
             <pubDate>Fri, 14 Jun 2024 18:33:04 GMT</pubDate>
         </item>
@@ -210,103 +306,6 @@
             <link>https://finance.sina.cn/7x24/2024-06-15/detail-inaytskv2436304.d.html</link>
             <guid>3657616</guid>
             <pubDate>Fri, 14 Jun 2024 17:18:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储梅斯特：要获得对抗通胀的信心，还有很多工作要做。经济预期中值与我对经济的看法接近。希望再有几个月类似的通胀数据。可能要到2026年才能达到2%的通胀率。希望在通胀下降的同时保持健康的就业市场。政策已做好准备应对双向风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-15/detail-inaytsky2659502.d.html</link>
-            <guid>3657615</guid>
-            <pubDate>Fri, 14 Jun 2024 17:17:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务卿布林肯与阿曼外交大臣通电话，讨论有关胡塞武装的行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-15/detail-inaytskw8277244.d.html</link>
-            <guid>3657614</guid>
-            <pubDate>Fri, 14 Jun 2024 17:16:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周五（6月14日），美联储隔夜逆回购协议（RRP）使用规模为3868.85亿美元，上个交易日报4298.64亿美元。]]></title>
-            <guid>3657613</guid>
-            <pubDate>Fri, 14 Jun 2024 17:16:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度政府：自6月15日起，将原油暴利税从每吨5200卢比降至3250卢比。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-15/detail-inaytsky2658714.d.html</link>
-            <guid>3657612</guid>
-            <pubDate>Fri, 14 Jun 2024 17:12:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【看图：欧洲股市创10月以来最差周表现 法国股市市值蒸发2100亿美元】法国股市本周市值损失约2,100亿美元，相当于整个希腊的经济规模。总统马克龙提前进行议会选举的决定令CAC 40指数抹去2024年以来所有涨幅。这令泛欧斯托克600指数承压，该指数本周表现为10月以来最差。截至周五收盘，斯托克600指数在伦敦下跌1%，汽车和工业类股跌幅最大。医疗保健和消费必需品等防御性板块跑赢大盘，法国基准股指下跌2.7%。包括法国巴黎银行、法国兴业银行银行在内的法国几家最大银行本周下跌逾10%。 （环球市场播报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-15/detail-inaytsky2658630.d.html</link>
-            <guid>3657611</guid>
-            <pubDate>Fri, 14 Jun 2024 17:12:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宽基ETF加速发展，引领中长期投资风向标】 自从2004年境内首只ETF——上证50ETF诞生以来，境内宽基ETF产品布局不断丰富。截至2024年5月底，境内挂牌宽基ETF产品规模1.22万亿元，其中上交所宽基ETF131只，规模合计9293亿元，较2023年底增长44%，创历史新高。ETF持续获得中长期资金增持，龙头产品不断涌现。行业均衡、指数增强等宽基ETF陆续上市，进一步丰富投资者资产配置选择。随着A股市场有效性的不断提升，宽基ETF有效分散风险，降低投资组合波动性，获取市场平均收益的优势，愈发获得投资者认可。基金管理人也通过降费、分红等方式多维度提升投资者持有体验。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-15/detail-inaytsky2657892.d.html</link>
-            <guid>3657610</guid>
-            <pubDate>Fri, 14 Jun 2024 17:09:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币跌破65000美元/枚，为5月16日以来首次，日内跌2.46%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-15/detail-inaytskt5657559.d.html</link>
-            <guid>3657609</guid>
-            <pubDate>Fri, 14 Jun 2024 17:06:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【福建发布山洪灾害风险红色预警】福建省水文水资源勘测中心于6月14日20时发布山洪灾害风险红色预警 。气象部门预报，从目前到18日，福建中北部地区有持续性强降水。6月15日，福建北部地区部分暴雨，局部大暴雨；中南部沿海地区部分大雨到暴雨，局部大暴雨。气象部门提醒，北部地区自6月9日以来已连日出现暴雨，土壤含水量高，请重点防范持续性强降水的叠加效应可能引发的山洪、中小河流洪水和城乡积涝、塌方、滑坡、泥石流等次生灾害。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-15/detail-inaytskt5657410.d.html</link>
-            <guid>3657608</guid>
-            <pubDate>Fri, 14 Jun 2024 17:05:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[贝克休斯油服：美国石油和天然气钻井商连续第二周减少钻井平台。美国石油和钻井数量降至2022年1月以来最低水平。]]></title>
-            <guid>3657607</guid>
-            <pubDate>Fri, 14 Jun 2024 17:05:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京：俄罗斯目前在乌克兰部署了大约70万军队。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-15/detail-inaytskw8274782.d.html</link>
-            <guid>3657606</guid>
-            <pubDate>Fri, 14 Jun 2024 17:04:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【氧化铝夜盘收跌2.4%，沪锌也跌超1.1%】 国际铜夜盘收跌0.54%，沪铜收跌0.49%，沪铝收跌0.80%，沪锌收跌1.12%，沪铅收涨0.30%，沪镍收跌0.45%，沪锡收跌0.83%。 氧化铝夜盘收跌2.40%。 不锈钢夜盘收跌0.54%]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-15/detail-inaytsky2656456.d.html</link>
-            <guid>3657605</guid>
-            <pubDate>Fri, 14 Jun 2024 17:02:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伦锌周五收跌超3.2%，伦铝、伦铅、伦镍本周跌超2%，伦锡则累涨超2.7%】 
-LME期铜收跌53美元，跌幅0.54%，报9742美元/吨。
-LME期铝收跌40美元，跌幅超过1.56%，报2518美元/吨，本周累计下跌大约2.33%。
-LME期锌收跌92美元，跌超3.21%，报2768美元/吨。
-LME期铅收跌26美元，跌幅1.20%，报2140美元/吨，本周累跌约2.73%。
-LME期镍收跌70美元，报17575美元/吨，本周累跌约2.53%。
-LME期锡收跌476美元，跌幅1.45%，报32318美元/吨，本周累涨超2.75%。
-LME期钴收平，报27150美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-15/detail-inaytskw8274053.d.html</link>
-            <guid>3657604</guid>
-            <pubDate>Fri, 14 Jun 2024 17:01:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国6月14日当周总钻井数 590，前值 594。
-美国至6月14日当周石油钻井总数 488口，前值492口。
-美国至6月14日当周天然气钻井总数 98口，前值98口。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-15/detail-inaytskv2433968.d.html</link>
-            <guid>3657603</guid>
-            <pubDate>Fri, 14 Jun 2024 17:00:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广西柳江河水位上涨 柳州部分路段实施交通管制】记者6月14日22时30分从广西柳州市防汛抗旱指挥部了解到：柳江柳州水文站于6月14日22时20分出现水位79.2米的洪水（亲水平台水位），相应流量10300立方米/秒，目前水位继续缓慢上涨。沿江部分路段已被水没过，滨江西路已实行交通管制。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-15/detail-inaytskw8273693.d.html</link>
-            <guid>3657602</guid>
-            <pubDate>Fri, 14 Jun 2024 16:59:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【丹麦因太辣下架三款韩国火鸡面】近日，丹麦食品监管机构宣布下架3款韩国三养食品有限公司 生产的方便面产品：3倍辣火鸡面、双倍辣火鸡面及一款辣味汤面，理由是这些产品中的“辣椒素含量过高”，“食用后可能导致一些急性症状或不良反应”。该机构称，已购买相关产品的消费者，“应将其丢弃或退回至零售商”。（CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-15/detail-inaytskw8273680.d.html</link>
-            <guid>3657601</guid>
-            <pubDate>Fri, 14 Jun 2024 16:59:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
