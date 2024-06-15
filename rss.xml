@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 15 Jun 2024 18:24:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jun 2024 19:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【佩列格里尼就任斯洛伐克总统】斯洛伐克前国民议会议长佩列格里尼15日在首都布拉迪斯拉发宣誓就任斯洛伐克总统，任期5年。 佩列格里尼随后发表就职演讲说，目前斯洛伐克处于极端困难时期，总理菲佐不久前遇刺加剧了目前的混乱局面。他承诺将团结社会各界，共建一个有凝聚力的社会，创造更加美好的未来。 佩列格里尼现年48岁，2018年至2020年担任斯洛伐克总理，2023年10月当选斯国民议会议长。在今年4月初举行的总统选举第二轮投票中，佩列格里尼击败前外长科尔乔克赢得选举。 佩列格里尼是斯洛伐克自1993年独立以来的第六任总统，其前任恰普托娃的任期于6月15日届满。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-16/detail-inaywfxr1066750.d.html</link>
+            <guid>3658208</guid>
+            <pubDate>Sat, 15 Jun 2024 19:12:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴基斯坦监管机构确定将电价平均上调19.2%】据国家电力监管机构发言人Sajid Akram表示，从7月1日开始的下一个财政年度，巴基斯坦10家配电公司的电价平均提高5.72卢比至35.50卢比/千瓦时。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-16/detail-inaywfxp4288932.d.html</link>
+            <guid>3658207</guid>
+            <pubDate>Sat, 15 Jun 2024 19:06:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【阿根廷首都一校车发生交通事故 至少15人受伤】当地时间15日，阿根廷首都布宜诺斯艾利斯市政部门通报，一辆校车和一辆重型货车在该市高速公路上相撞，造成至少15人受伤。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2024-06-16/detail-inayvzru7241999.d.html</link>
@@ -288,18 +300,6 @@
             <link>https://finance.sina.cn/7x24/2024-06-15/detail-inayvqzx1418429.d.html</link>
             <guid>3658157</guid>
             <pubDate>Sat, 15 Jun 2024 13:23:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【福建北部未来三天仍有强降水 暴雨灾害风险等级高】6月9日以来，福建省中北部地区出现暴雨到大暴雨，局部特大暴雨。9日08时—15日17时，累计雨量共有65个县（市、区）547个乡镇超过100毫米，其中22个县（市、区）140个乡镇超过250毫米，建阳、武夷山、光泽、邵武、松溪和浦城的12个乡镇超过500毫米。最大为建阳黄坑镇的799.2毫米。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-15/detail-inayvqzv4639933.d.html</link>
-            <guid>3658155</guid>
-            <pubDate>Sat, 15 Jun 2024 13:11:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印尼伊布火山连续喷发 火山灰柱最高达2000米】据印尼火山和地质灾害研究机构（PVMBG）消息，当地时间6月15日20时12分和21时22分，印尼伊布火山发生两次喷发，火山灰柱高达2000米和1500米，火山喷发持续时间分别为87秒和91秒。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-15/detail-inayvraa1820497.d.html</link>
-            <guid>3658154</guid>
-            <pubDate>Sat, 15 Jun 2024 13:11:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
