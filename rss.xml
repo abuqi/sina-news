@@ -4,11 +4,29 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 15 Jun 2024 17:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jun 2024 18:24:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【阿根廷首都一校车发生交通事故 至少15人受伤】当地时间15日，阿根廷首都布宜诺斯艾利斯市政部门通报，一辆校车和一辆重型货车在该市高速公路上相撞，造成至少15人受伤。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-16/detail-inayvzru7241999.d.html</link>
+            <guid>3658206</guid>
+            <pubDate>Sat, 15 Jun 2024 18:07:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海地阿蒂博尼特省遭帮派武装袭击 超10人死亡】当地时间15日消息，海地帮派武装“蒂·巴瓦多姆”（Ti Bwadòm）14日夜里袭击了首都太子港附近阿蒂博尼特省的一个街区，造成10多人死亡，10多栋房屋被毁，一名学校教师遭绑架。阿蒂博尼特省被称为“海地粮仓”。有分析认为，海地帮派暴力活动已经从太子港向周边地区蔓延。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-16/detail-inayvzru7239031.d.html</link>
+            <guid>3658205</guid>
+            <pubDate>Sat, 15 Jun 2024 17:54:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国马克龙表示，我们应该扩大参与（乌克兰）和平进程的国家范围。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-16/detail-inayvzrt1187237.d.html</link>
+            <guid>3658204</guid>
+            <pubDate>Sat, 15 Jun 2024 17:51:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[瑞士外交部长表示，任何可信的和平进程都需要俄罗斯的参与。]]></title>
             <link>https://finance.sina.cn/7x24/2024-06-16/detail-inayvzru7222422.d.html</link>
@@ -282,23 +300,6 @@
             <link>https://finance.sina.cn/7x24/2024-06-15/detail-inayvraa1820497.d.html</link>
             <guid>3658154</guid>
             <pubDate>Sat, 15 Jun 2024 13:11:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【地球内核振荡的地震学证据找到】从中国科学院地质与地球物理研究所获悉，通过分析加拿大、美国地震台阵在1990年—2023年记录到的南三明治岛重复地震信息，来自该所等单位的科研人员发现了地球内核处于振荡模式的地震学证据。相关研究成果在线发表于《自然》杂志。]]></title>
-            <guid>3658153</guid>
-            <pubDate>Sat, 15 Jun 2024 13:10:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瑞典称一架俄罗斯战机“入侵”其领空】据瑞典媒体6月15日报道，瑞典武装部队称，一架俄罗斯战机14日曾短暂“入侵”瑞典领空。瑞典电视台报道说，瑞典武装部队称，一架俄罗斯苏-24战机14日“入侵”了哥特兰岛南端以东的瑞典领空。瑞典国防部对俄战机发出口头警告，但未得到答复。随后，瑞典两架JAS-39“鹰狮”战机升空拦截俄战机。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-15/detail-inayvqzy7437226.d.html</link>
-            <guid>3658152</guid>
-            <pubDate>Sat, 15 Jun 2024 13:07:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【联合创始人因家暴被提起公诉 拓维信息回应：不参与公司经营管理 对公司没有影响】知情人士消息，上市公司拓维信息联合创始人、第二大股东宋某被妻子刘某指控家暴一案，长沙市雨花区检察院已向长沙市雨花区法院提起公诉，检方称应以故意伤害罪追究宋某刑责。记者就公司联合创始人被提起公诉一事与拓维信息方面取得联系，相关人士对此回应，这是股东个人私事，公司不方便作评论。宋鹰很早就不属于公司管理层，不参与公司经营管理，事件对上市公司没有影响。（每经）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-15/detail-inayvqzy7436319.d.html</link>
-            <guid>3658151</guid>
-            <pubDate>Sat, 15 Jun 2024 13:04:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
