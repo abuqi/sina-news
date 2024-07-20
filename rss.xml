@@ -4,11 +4,32 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 20 Jul 2024 18:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jul 2024 19:14:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【阿联酋迪拜机场航站楼发生小规模火灾 暂停办理登机手续】当地时间20日，阿联酋迪拜国际机场2号航站楼发生一起小规模起火事件，登机手续暂停办理。据迪拜机场官方消息，机场消防部门立即控制了火灾，目前正在与相关部门合作解决此问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-21/detail-incevnxq0576653.d.html</link>
+            <guid>3704302</guid>
+            <pubDate>Sat, 20 Jul 2024 19:04:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国务院：联合国最高法院关于以色列必须“尽快”撤军的建议与解决以巴冲突的既定框架不一致。]]></title>
+            <guid>3704301</guid>
+            <pubDate>Sat, 20 Jul 2024 18:50:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【暑运启动以来广州铁路民航客流量持续攀升】随着暑运大幕拉开，内地旅游、探亲、访友等出行需求日益旺盛，铁路、民航客流量持续攀升。20日从广州白云机场了解到，进入7月以来，该机场日均客流量超20万人次，呈现进出两旺态势。]]></title>
+            <guid>3704300</guid>
+            <pubDate>Sat, 20 Jul 2024 18:42:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：长期担任美国德克萨斯州国会女议员的希拉·杰克逊·李(Sheila Jackson Lee)去世，享年74岁。]]></title>
+            <guid>3704299</guid>
+            <pubDate>Sat, 20 Jul 2024 18:31:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[中国地震台网正式测定：07月21日02时10分在新疆巴音郭楞州和静县（北纬43.38度，东经84.79度）发生4.7级地震，震源深度14千米。]]></title>
             <guid>3704298</guid>
@@ -291,28 +312,6 @@
             <link>https://finance.sina.cn/7x24/2024-07-20/detail-incevaiv6510881.d.html</link>
             <guid>3704252</guid>
             <pubDate>Sat, 20 Jul 2024 14:34:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：07月20日22时18分在新疆巴音郭楞州尉犁县（北纬40.90度，东经84.13度）发生4.8级地震，震源深度14千米。]]></title>
-            <guid>3704251</guid>
-            <pubDate>Sat, 20 Jul 2024 14:32:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华大基因与合作伙伴共建阿斯塔纳基因中心】7月18日，华大基因与当地伙伴Technopark Biogen合作，在哈萨克斯坦首都阿斯塔纳共建的基因检测实验室——阿斯塔纳基因中心（Astana Genetic Center）正式开业。这项合作旨在通过基因检测技术助力早期疾病诊疗，提升哈萨克斯坦和中亚地区的疾病预防水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-20/detail-incevaiu0807036.d.html</link>
-            <guid>3704250</guid>
-            <pubDate>Sat, 20 Jul 2024 14:32:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特主权财富基金PIF提议，增加对百货公司Selfridges的持股比例至50%（当前持股比例为10%）。PIF希望，从陷入破产的Signa收购对Selfridges的剩余持股，预计现金收购价为100万英镑（折合130万美元）。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-20/detail-incevais4029594.d.html</link>
-            <guid>3704249</guid>
-            <pubDate>Sat, 20 Jul 2024 14:31:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿塞拜疆总统Ilham Aliyev：俄罗斯通过乌克兰向欧洲输送天然气的经营方式可以得到延长。]]></title>
-            <guid>3704248</guid>
-            <pubDate>Sat, 20 Jul 2024 14:29:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
