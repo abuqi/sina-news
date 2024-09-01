@@ -4,11 +4,51 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 01 Sep 2024 20:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Sep 2024 21:17:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[高盛：将美国第三季度实际GDP年化季率预测从2.5%上调至2.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-02/detail-incmsyyy1542821.d.html</link>
+            <guid>3760137</guid>
+            <pubDate>Sun, 01 Sep 2024 21:16:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚能源输送公司Ausnet：受大风影响，11.2万户居民停电。天气仍在影响电网运行。]]></title>
+            <guid>3760136</guid>
+            <pubDate>Sun, 01 Sep 2024 21:09:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【基金经理调仓换股：看公司质地也看产业趋势】公募基金2024年中期报告披露完毕，基金的全部持仓得以曝光，基金经理调仓换股的路径和“打法”也得以全部展现。从基金经理上半年的操作情况看，在震荡行情中，基金经理选股不仅看重公司质地，也看重产业发展趋势。对于接下来的市场，基金经理普遍认为，在持续的下跌之后，权益市场越来越具有性价比。 (上证报)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-02/detail-incmsyyu4440234.d.html</link>
+            <guid>3760135</guid>
+            <pubDate>Sun, 01 Sep 2024 20:56:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【持有人“全貌”浮现 股票型基金获明显增持】随着基金2024年中期报告披露完毕，公募基金持有人“全貌”浮出水面。天相投顾数据显示，上半年，机构和个人投资者明显增持了股票型基金，但均减持了混合型基金。从基金中报披露的持基数据来看，易方达基金、广发基金和华夏基金旗下基金最受机构投资者青睐，个人投资者持有基金份额排名前三的公司则分别是易方达基金、天弘基金和华夏基金。在上半年市场整体震荡的环境下，部分业绩表现优异的权益类基金获得个人投资者青睐，份额出现大幅增长。 (上证报)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-02/detail-incmsyyu4438609.d.html</link>
+            <guid>3760134</guid>
+            <pubDate>Sun, 01 Sep 2024 20:43:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：09月02日04时13分在所罗门群岛（南纬6.85度，东经155.45度）发生6.4级地震，震源深度70千米]]></title>
+            <guid>3760133</guid>
+            <pubDate>Sun, 01 Sep 2024 20:40:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：风暴“霍恩”转变为温带气旋。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-02/detail-incmsyyz8314464.d.html</link>
+            <guid>3760132</guid>
+            <pubDate>Sun, 01 Sep 2024 20:37:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【所罗门群岛附近发生6.6级左右地震】中国地震台网自动测定：09月02日04时13分在所罗门群岛附近（南纬6.85度，东经155.47度）发生6.6级左右地震，最终结果以正式速报为准。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-02/detail-incmsyyu4436562.d.html</link>
+            <guid>3760131</guid>
+            <pubDate>Sun, 01 Sep 2024 20:24:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国地质勘探局：菲律宾萨兰甘尼东南以南208公里处发生5.0级地震。]]></title>
             <link>https://finance.sina.cn/7x24/2024-09-02/detail-incmsyyy1535036.d.html</link>
@@ -255,46 +295,6 @@
             <title><![CDATA[据半岛电视台：土耳其总统埃尔多安沙特王储本·萨勒曼通电话，讨论加沙问题。埃尔多安指出，以色列的袭击和侵犯人权行为必须停止，必须建立持久停火。]]></title>
             <guid>3760036</guid>
             <pubDate>Sun, 01 Sep 2024 15:09:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据半岛电视台：以色列情报特务局摩萨德主任Barnea表示，以色列军队应该从加沙的费城走廊和奈特扎里姆走廊撤出，作为释放人质协议的一部分。他说，以色列军队在那里的存在“在行动上没有必要”。]]></title>
-            <guid>3760035</guid>
-            <pubDate>Sun, 01 Sep 2024 15:01:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据半岛电视台：罗马教皇方济各呼吁加沙停火，他强调加沙的脊髓灰质炎现在是一个卫生紧急情况。]]></title>
-            <guid>3760033</guid>
-            <pubDate>Sun, 01 Sep 2024 14:58:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美再推迟宣布涉中国商品关税最终决定】据参考消息援引美国媒体报道，当地时间8月31日，拜登政府再次推迟宣布对中国制造的电动汽车、电池、半导体和太阳能电池征收高额关税，并表示将在未来几天内公布最终决定。（券商中国）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-01/detail-incmskci8649208.d.html</link>
-            <guid>3760032</guid>
-            <pubDate>Sun, 01 Sep 2024 14:47:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩总统室：韩日两国正就日本首相岸田文雄访韩进行最终协调】韩国总统办公室一名高官9月1日接受记者采访时表示，韩日两国正就日本首相岸田文雄访韩的日程和议题进行最终协调。(界面)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-01/detail-incmskci8648504.d.html</link>
-            <guid>3760031</guid>
-            <pubDate>Sun, 01 Sep 2024 14:43:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【加蓬过渡总统恩圭马抵京，出席中非合作论坛峰会】今天18时38分，加蓬过渡总统恩圭马乘机抵达北京首都国际机场，他将出席在北京举行的2024年中非合作论坛峰会。今年是中国和加蓬建交50周年，两国关系历久弥坚，务实合作互补性、互利性强。中国长期是加蓬第一大贸易伙伴，中方援助或融资支持建设的加蓬议会大厦、首都电网升级改造、布巴哈水电站等项目，切实促进了加蓬经济社会发展和民生改善。2023年4月，两国宣布建立全面战略合作伙伴关系。加方积极支持中方提出的全球发展倡议、全球安全倡议和全球文明倡议。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-01/detail-incmskch1870887.d.html</link>
-            <guid>3760030</guid>
-            <pubDate>Sun, 01 Sep 2024 14:40:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【刚果（金）总统齐塞克迪抵京 出席中非合作论坛峰会】今天22时35分，刚果（金）总统齐塞克迪乘机抵达北京，他将出席在北京举行的2024年中非合作论坛峰会。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-01/detail-incmskci8647744.d.html</link>
-            <guid>3760029</guid>
-            <pubDate>Sun, 01 Sep 2024 14:38:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【塞舌尔总统拉姆卡拉旺抵京，出席中非合作论坛峰会】今天22时10分，塞舌尔总统拉姆卡拉旺乘机抵达北京，他将出席在北京举行的2024年中非合作论坛峰会。塞舌尔位于非洲以东印度洋上，由115个大小岛屿组成。官方语言为克里奥尔语、英语、法语，首都维多利亚。旅游业是塞舌尔第一大产业，金枪鱼等渔业资源丰富。2023年人均GDP约1.61万美元，居非洲首位。中塞1976年6月30日建交，建交48年来，双边关系发展顺利，各领域合作成果丰硕。2013年5月，中塞两国签署全面互免签证协定，塞舌尔成为非洲第一个与我国签署此类互免签证协定的国家。塞舌尔总统拉姆卡拉旺2020年10月当选，对华友好，坚定奉行一个中国政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-01/detail-incmskci8647730.d.html</link>
-            <guid>3760028</guid>
-            <pubDate>Sun, 01 Sep 2024 14:37:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
