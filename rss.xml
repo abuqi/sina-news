@@ -4,11 +4,46 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 07 Sep 2024 17:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Sep 2024 18:25:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场资讯：妮可·基德曼凭借在《辣妹》中的表演获得威尼斯电影节最佳女主角奖。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-08/detail-incnkiie0200670.d.html</link>
+            <guid>3768087</guid>
+            <pubDate>Sat, 07 Sep 2024 18:25:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【斯特兰蒂斯召回近150万辆皮卡】当地时间9月7日，汽车制造商斯特兰蒂斯宣布召回近150万辆公羊（RAM）皮卡，以修复一个可能导致电子稳定控制系统失效的软件问题。美国的安全标准要求电子稳定控制系统在车辆驾驶的所有阶段都起作用，而本次召回皮卡所安装的防抱死制动软件可能会关闭稳定控制系统。斯特兰蒂斯表示，经销商将为客户免费更新软件。据悉，此次全球召回主要影响北美市场，将涵盖2019年以及2021年至2024年的相关车型。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-08/detail-incnkihy3870026.d.html</link>
+            <guid>3768086</guid>
+            <pubDate>Sat, 07 Sep 2024 18:09:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：在希腊投资25万欧元的初创企业将获得黄金签证。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-08/detail-incnkiie0195292.d.html</link>
+            <guid>3768085</guid>
+            <pubDate>Sat, 07 Sep 2024 17:59:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“星际客机”返回地球 美航天局：现在讨论下次载人试飞为时尚早】遭遇技术故障的美国波音公司“星际客机”飞船6日脱离国际空间站，经过大约6小时飞行后，于北京时间7日12时左右，降落在新墨西哥州白沙太空港地区。美国国家航空航天局商业载人项目负责人斯蒂克7日说，对于是否允许“星际客机”明年搭载宇航员再次试飞，目前谈论这一话题还为时尚早。美国航天局需要时间分析数据，评估需要对“星际客机”的设计和飞行方式做出哪些改变。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-08/detail-incnkiia3414211.d.html</link>
+            <guid>3768084</guid>
+            <pubDate>Sat, 07 Sep 2024 17:41:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国专家亚历山大·马尔库里斯：俄军对乌克兰发动了大规模导弹袭击，对乌克兰西部的利沃夫进行了数次大规模袭击，这表明乌克兰的整个防空系统实际上已经崩溃。]]></title>
+            <guid>3768083</guid>
+            <pubDate>Sat, 07 Sep 2024 17:39:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：希腊将在2025年提高部分养老金和最低工资标准。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-08/detail-incnkihw7096181.d.html</link>
+            <guid>3768082</guid>
+            <pubDate>Sat, 07 Sep 2024 17:25:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【委内瑞拉政府宣布取消巴西对阿根廷驻委使馆的代管权】当地时间9月7日，委内瑞拉政府发布公报，宣布立即取消巴西联邦共和国政府在委内瑞拉领土上代表阿根廷共和国以及国民利益的权利，并撤销其对阿根廷驻委使团馆舍、财产及档案的监管权。公报称，这一决定已经通过外交渠道通知有关国家。公报中还称，委内瑞拉根据《维也纳外交关系公约》和《维也纳领事关系公约》采取的这一行动。当地时间7月31日，巴西政府接受了阿根廷政府的要求，在阿根廷驻委内瑞拉大使馆关闭期间，代表阿根廷在委内瑞拉的利益。]]></title>
             <link>https://finance.sina.cn/7x24/2024-09-08/detail-incnkiia3407908.d.html</link>
@@ -280,41 +315,6 @@
             <link>https://finance.sina.cn/7x24/2024-09-07/detail-incniwth3625798.d.html</link>
             <guid>3768036</guid>
             <pubDate>Sat, 07 Sep 2024 14:01:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广西水文测报Ⅳ级应急响应提升为Ⅲ级】受第11号台风“摩羯”影响，预计9月6—9日，广西左江及其支流明江、北仑河、防城河、大风江、茅岭江、北流河上游、南流江上游等江河可能出现超警洪水。根据《广西突发公共水事件水文应急测报预案》的有关规定，经研究，9月6日18时，广西水文测报Ⅳ级应急响应提升为Ⅲ级。广西水文系统正严格按照相关级别应急响应要求，做好防洪涝水文应急测报、水文应急驰援及信息服务工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-07/detail-incniwth3625480.d.html</link>
-            <guid>3768035</guid>
-            <pubDate>Sat, 07 Sep 2024 14:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北海防汛防台风二级应急响应调整为三级】从广西北海市防汛抗旱指挥部获悉，北海市气象台于9月7日16时30分将台风橙色预警信号调整为黄色。今年第11号台风“摩羯”已登陆越南，受其环流影响，预计24小时内北海市沿海将有8~9级阵风，北部湾海面仍有9~10级阵风。根据《北海市防汛抗旱应急预案》有关规定，经会商研判，决定从9月7日17时00分起，将北海市防汛防台风二级应急响应调整为三级应急响应。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-07/detail-incniwte4020095.d.html</link>
-            <guid>3768034</guid>
-            <pubDate>Sat, 07 Sep 2024 13:50:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亚光科技：已制定船舶板块组织架构精简计划 】 亚光科技在互动平台表示，目前公司拥有船艇子公司12家，公司已制定船舶板块组织架构精简计划，目前正有序开展相关工作，鉴于部分船艇子公司持有土地房产的处置需要与交易对手方洽谈，或是持有未完工订单待完成交付，需要根据实际情况分阶段实施精简计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-07/detail-incniwta7262319.d.html</link>
-            <guid>3768033</guid>
-            <pubDate>Sat, 07 Sep 2024 13:43:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩正访问蒙古国】9月6日至8日，国家副主席韩正应邀访问蒙古国，在乌兰巴托先后会见蒙古国总理奥云额尔登、总统呼日勒苏赫、国家大呼拉尔主席阿玛尔巴伊斯格楞。会见奥云额尔登时，韩正就下阶段中蒙关系发展提出五点建议：一是巩固政治互信。希望蒙方继续坚定奉行一个中国原则，在台湾、涉藏、涉疆等问题上给予中方坚定支持。二是深化互利合作。积极推进中蒙能源、互联互通、基础设施建设等领域合作。三是促进人民相知相亲。中方欢迎蒙方将2023年至2025年确定为“做客蒙古年”，愿同蒙方加强青少年、留学生和新闻媒体交流。四是深化中蒙俄合作，加快推进中蒙俄经济走廊建设。五是密切在国际地区事务中的沟通协调。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-07/detail-incniwth3621042.d.html</link>
-            <guid>3768032</guid>
-            <pubDate>Sat, 07 Sep 2024 13:41:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利能源部长：意大利能源部计划在年底前或2025年初起草核能法案。意大利的核能技术可以使其发展国内供应链。欧盟2035年禁止新内燃机汽车（销售）的政策“荒谬”，需要进行修订。]]></title>
-            <guid>3768031</guid>
-            <pubDate>Sat, 07 Sep 2024 13:37:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海南解除南海海浪警报】今年第11号台风“摩羯”已登陆越南并逐渐减弱，目前南海受影响海域的浪高已减小到警报发布标准以下，9月7日晚，海南省海洋预报台解除海浪警报。（海南日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-07/detail-incniwtk0396511.d.html</link>
-            <guid>3768030</guid>
-            <pubDate>Sat, 07 Sep 2024 13:35:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
