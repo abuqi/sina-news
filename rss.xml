@@ -4,16 +4,45 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 14 Sep 2024 18:26:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Sep 2024 19:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[市场资讯：G7外长谴责伊朗向俄罗斯出口弹道导弹。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incpefea8170172.d.html</link>
-            <guid>3778047</guid>
-            <pubDate>Sat, 14 Sep 2024 18:25:35 GMT</pubDate>
+            <title><![CDATA[【委内瑞拉逮捕3名企图向阿根廷驻委使馆投掷爆炸物嫌疑人】当地时间9月14日，委内瑞拉内政和司法部长迪奥斯达多·卡贝洛宣布，委内瑞拉逮捕了3名企图向阿根廷驻委使馆投掷手榴弹等爆炸物、试图制造混乱的嫌疑人。卡贝洛说，这些犯罪嫌疑人企图制造袭击、引发混乱，由此对委内瑞拉政府进行指责。卡贝洛同时表示，委内瑞拉安全部队截获了一艘船只，缉获了包括手枪和步枪在内的400多种武器，这些武器的原始发货地是美国。据悉，委内瑞拉6名反对派领导人目前在阿根廷驻委使馆内寻求政治庇护。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incpefcy4462961.d.html</link>
+            <guid>3778083</guid>
+            <pubDate>Sat, 14 Sep 2024 19:07:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家安全顾问沙利文：美国正在为乌克兰提供更多防空保障。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incpefea8187228.d.html</link>
+            <guid>3778081</guid>
+            <pubDate>Sat, 14 Sep 2024 19:02:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家安全顾问沙利文：总统拜登将在联合国大会会见乌克兰总统泽连斯基。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incpefcy4459392.d.html</link>
+            <guid>3778076</guid>
+            <pubDate>Sat, 14 Sep 2024 18:51:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【埃及东部省两列火车相撞 已致3死39伤】当地时间14日，埃及东部省扎加齐格市开往伊斯梅利亚的281次列车与曼苏拉开往扎加齐格的336次列车在扎加齐格市发生相撞事故。截至目前，事故已造成3人死亡，其中包括两名儿童，另有39人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incpefcy4459196.d.html</link>
+            <guid>3778073</guid>
+            <pubDate>Sat, 14 Sep 2024 18:50:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴西驻俄大使：巴西总统将出席金砖国家喀山峰会】巴西驻俄罗斯大使罗德里戈∙苏亚雷斯表示，巴西总统卢拉将出席在10月举行的金砖国家喀山峰会。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incpefee4928213.d.html</link>
+            <guid>3778061</guid>
+            <pubDate>Sat, 14 Sep 2024 18:42:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：德国亿万富翁Mathias Doepfner和美国私募股权巨头KKR集团即将达成分拆德国媒体巨头Axel Springer的协议。]]></title>
+            <guid>3778053</guid>
+            <pubDate>Sat, 14 Sep 2024 18:29:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[俄罗斯国防部：乌军一天内在库尔斯克方向损失300多名军人和15辆装甲车辆，其中包括2辆坦克，5名乌克兰军人投降。]]></title>
@@ -295,36 +324,6 @@
             <link>https://finance.sina.cn/7x24/2024-09-14/detail-incpcuqk5059184.d.html</link>
             <guid>3777794</guid>
             <pubDate>Sat, 14 Sep 2024 14:09:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【享刻智能获得北京首张“具身智能机器人食品经营许可证”】振邦智能跟投的享刻智能技术（北京）有限公司（简称：享刻智能）凭借其卓越的具身智能技术，荣获了北京市首张“具身智能机器人食品经营许可证”，标志着智能机器人正式进入餐饮服务领域的核心舞台。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-14/detail-incpcuqh8305451.d.html</link>
-            <guid>3777791</guid>
-            <pubDate>Sat, 14 Sep 2024 14:05:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【企业家圆桌会议在京召开】 9月13日，2024年中国公平竞争政策宣传周企业家圆桌会议在北京召开。本次会议是2024年中国公平竞争政策宣传周重点活动之一，由国家市场监督管理总局竞争政策与评估中心主办。部分企业、律师事务所、投资银行代表围绕“推进公平竞争建设全国统一大市场”主题深入交流研讨。与会企业提出了进一步发挥公平竞争政策对创新的促进作用，权衡好市场各方主体的利益，增强公平竞争审查制度的指引性和刚性约束，细化相关标准和规范，积极推进在保护知识产权基础上的公平竞争，加强对企业公平竞争合规指导培训力度等意见和建议。(市说新语)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-14/detail-incpcuqe4643799.d.html</link>
-            <guid>3777788</guid>
-            <pubDate>Sat, 14 Sep 2024 14:01:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以军轰炸加沙城东部一房屋 已致11人死亡】 综合加沙地带民防部门等方面消息，截至当地时间14日下午，以军袭击加沙北部加沙城东部图法街区一房屋造成的死亡人数已升至11人，另有多人受伤。14日凌晨，以军轰炸了加沙城东部图法街区的一所房屋。袭击发生后，当地救援人员在建筑废墟下持续开展搜救工作。以色列方面对此暂无回应。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-14/detail-incpcuqk5052227.d.html</link>
-            <guid>3777778</guid>
-            <pubDate>Sat, 14 Sep 2024 13:58:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【金融机构移动应用数据安全责任如何界定？国家金融监督管理总局回应】 金融监管总局有关司局负责人答：《通知》明确了“谁管业务、谁管业务数据、谁管数据安全”的原则，金融机构要压实业务管理部门数据管理职责，会同信息科技部门做好业务数据安全管理工作。《通知》对外包服务中的数据安全也提出了要求，机构应按照“必需知道”和“最小授权”原则严格控制外包服务提供商数据访问权限，督促其加强数据安全管理，防范数据泄露。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-14/detail-incpcuqh1416292.d.html</link>
-            <guid>3777771</guid>
-            <pubDate>Sat, 14 Sep 2024 13:46:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【建发新兴能源“厦门国家会计学院光伏项目”正式并网】历经4个月的精心筹备与建设，由建发股份能化集团旗下建发新兴能源投资的“厦门国家会计学院光伏电站及充电桩一体化项目”正式并网运营。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-14/detail-incpcuqh8293953.d.html</link>
-            <guid>3777769</guid>
-            <pubDate>Sat, 14 Sep 2024 13:42:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
