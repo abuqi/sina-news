@@ -4,11 +4,51 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 12 Oct 2024 17:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Oct 2024 18:26:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：10月13日01时43分在哥斯达黎加沿岸远海（北纬10.45度，西经86.20度）发生6.2级地震，震源深度20千米。]]></title>
+            <guid>3813474</guid>
+            <pubDate>Sat, 12 Oct 2024 18:09:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【哥斯达黎加发生6.2级地震】据欧洲地中海地震中心报告，当地时间10月12日11时43分，哥斯达黎加发生6.2级地震，震源深度25公里。目前暂无人员伤亡及财产损失报告。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-13/detail-incsiqhs9987072.d.html</link>
+            <guid>3813473</guid>
+            <pubDate>Sat, 12 Oct 2024 17:57:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基：俄罗斯军队试图在俄罗斯库尔斯克地区击退乌克兰军队，但我们坚守阵地。]]></title>
+            <guid>3813472</guid>
+            <pubDate>Sat, 12 Oct 2024 17:55:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【打造车路云实时数字孪生城市 蘑菇车联落地上海嘉定】上海市嘉定区投资促进服务中心、嘉定区安亭镇人民政府、上海国际汽车城（集团）有限公司与蘑菇车联签定战略合作协议。政企双方将共同推进嘉定区车路云一体化“通感算”网络全域覆盖和商业化运营，助力嘉定及上海车路云一体化试点城市建设，打造全国标杆。此次合作，蘑菇车联将全面参与嘉定全域范围车路云一体化网络建设，与嘉定区政府、汽车城集团在基础设施部署、自动驾驶车辆运营、智能网联数据上车、人工智能应用等多方面展开深入合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-13/detail-incsiqhp3748934.d.html</link>
+            <guid>3813471</guid>
+            <pubDate>Sat, 12 Oct 2024 17:54:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列在北部边境设立“军事封闭区” 禁止任何人进入】当地时间12日晚，以色列国防军在一份声明中表示，自当天20时开始，以军在该国北部靠近黎巴嫩边境的西加利利地区设立新的军事封闭区。以色列国防军表示，以军目前正在这些地区对黎巴嫩真主党开展军事行动，任何人禁止进入该区域。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-13/detail-incsiqhm6970496.d.html</link>
+            <guid>3813470</guid>
+            <pubDate>Sat, 12 Oct 2024 17:45:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列国防军调整防御指示 多地放宽活动限制】当地时间12日晚，以色列国防军宣布，根据对目前局势的评估，从当天20时开始调整本土守备司令部的防御指示。放宽针对该国北部边境和以色列控制的戈兰高地的限制，允许当地社区开展教育活动。此外，放宽以色列北部卡梅尔一些定居点的集会人数限制，当地居民可以举办最多2000人参加的活动。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-13/detail-incsiqhm6970295.d.html</link>
+            <guid>3813469</guid>
+            <pubDate>Sat, 12 Oct 2024 17:44:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[黎巴嫩真主党表示，周五他们用无人机袭击了特拉维夫郊区。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-13/detail-incsiqhp3743411.d.html</link>
+            <guid>3813468</guid>
+            <pubDate>Sat, 12 Oct 2024 17:20:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[以色列军方宣布以色列北部一些城镇周围地区对公众关闭。]]></title>
             <link>https://finance.sina.cn/7x24/2024-10-13/detail-incsiqhm6965573.d.html</link>
@@ -38,7 +78,7 @@
             <pubDate>Sat, 12 Oct 2024 17:05:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美国联邦航空管理局为Spacex星舰第5次飞行测试颁发飞行许可】SpaceX 获得美国航空安全监管机构的批准，对其巨型星际飞船火箭进行第五次重大试飞。这是一项关键任务，助推器部分将从太空返回并尝试直立着陆。负责颁发火箭发射和再入许可的美国联邦航空管理局于周六发布命令批准了这项任务。现在，SpaceX 已获得许可，计划于周日从该公司位于德克萨斯州南部的发射场发射星际飞船。]]></title>
+            <title><![CDATA[【最快今天发射！SpaceX拿到“星舰”第五次试飞许可】美国联邦航空管理局官网文件显示，美国太空探索技术公司（SpaceX）已经拿到“星舰”第五次试飞的许可证。公司此前透露，最快将在当地时间13日早晨7点（北京时间晚20点）进行试飞。]]></title>
             <link>https://finance.sina.cn/7x24/2024-10-13/detail-incsiqhr3202611.d.html</link>
             <guid>3813462</guid>
             <pubDate>Sat, 12 Oct 2024 17:04:48 GMT</pubDate>
@@ -273,48 +313,6 @@
             <title><![CDATA[市场消息：俄罗斯紧急情况部发布消息称，4人在俄车臣共和国首府格罗兹尼加油站火灾中死亡，其中包括2名儿童。俄紧急情况部指出，火势现在已被扑灭。]]></title>
             <guid>3813422</guid>
             <pubDate>Sat, 12 Oct 2024 14:05:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【山东青岛：公积金贷款额度最高可至150万元，可提取公积金付首付】10月12日，山东省青岛市住房公积金管理中心发布《关于优化调整住房公积金贷款政策的通知》、《关于优化职工提取住房公积金支付购房首付款的通知》和《关于支持住房公积金缴存人购买我市保障性住房的通知》。文件提出，提高住房公积金贷款额度。在本市购买家庭首套或第二套自住住房的，借款申请人及配偶均符合申贷条件的，公积金贷款最高额度调整为100万元；借款申请人仅本人符合申贷条件的，公积金贷款最高额度调整为60万元。同时，优化住房公积金贷款额度上浮政策。在本市缴存住房公积金的多子女家庭购买本市自住住房的，公积金贷款额度可上浮30%；购买本市新建高品质住宅或达到现行绿色建筑评价标准一星级及以上等级的新建商品住宅的，公积金贷款额度可上浮30%。上述上浮政策可叠加使用，叠加后最高贷款额度不超过150万元。青岛市还将统一首套、二套住房公积金贷款首付比例。购买本市首套、二套住房的家庭，住房公积金贷款最低首付款比例统一为15%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-12/detail-incsiiyp7063842.d.html</link>
-            <guid>3813421</guid>
-            <pubDate>Sat, 12 Oct 2024 14:03:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【郑钦文赛后谈晋级决赛：将全力以赴对战萨巴伦卡】10月12日晚，2024武汉网球公开赛半决赛郑钦文2-0战胜王欣瑜晋级决赛。郑钦文在赛后采访中表示这场比赛打得不容易。她说，王欣瑜打得非常好，两个人都是非常想赢的状态。对于决赛将对战萨巴伦卡，郑钦文说她将全力以赴。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-12/detail-incsiiyr3840708.d.html</link>
-            <guid>3813420</guid>
-            <pubDate>Sat, 12 Oct 2024 14:01:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【一货船出现故障 土耳其博斯普鲁斯海峡双向交通暂停】当地时间10月12日，土耳其交通运输部发表声明称，因一艘名为“B LINE”的干货船出现发动机故障，博斯普鲁斯海峡双向交通暂停。目前交通运输部已派出拖船前往救援。声明称，故障船只长约106米，从以色列出发，前往保加利亚，途经博斯普鲁斯海峡时发生故障。博斯普鲁斯海峡连接黑海和地中海，是世界上最繁忙的海上贸易航道之一。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-12/detail-incsiiyr3840068.d.html</link>
-            <guid>3813419</guid>
-            <pubDate>Sat, 12 Oct 2024 13:59:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：靠近以色列北部边境的许多社区都响起了警报，警告即将到来的火箭弹袭击。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-12/detail-incsicsr7192990.d.html</link>
-            <guid>3813418</guid>
-            <pubDate>Sat, 12 Oct 2024 13:55:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【工信部：新材料中试平台将“上新”300+】据工信微报12日消息，我国未来3年内，围绕石化化工等五大领域，要建成300个左右的地方新材料中试平台。工业和信息化部表示，到2027年，我国将围绕石化化工、钢铁、有色金属、无机非金属、前沿材料5大领域，建成300个左右地方新材料的测试平台，也就是业内俗称的中试平台，再从中重点培育20个左右的高水平平台。中国工程院院士孙丽丽认为，中试平台建设非常关键，它需要政府、企业、院所，融合来持续努力地做好这项工作。这个指南发布，对于破解现在中试平台建设过程中的一些“卡脖子”的难题，非常重要。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-12/detail-incsicst3969735.d.html</link>
-            <guid>3813417</guid>
-            <pubDate>Sat, 12 Oct 2024 13:52:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【联黎部队再有一名维和人员遭枪击受伤】当地时间12日，联合国驻黎巴嫩临时部队（联黎部队）发表声明称，联黎部队纳库拉总部的一名维和人员在11日晚因附近持续的军事活动而遭到枪击。他在纳库拉医院接受手术取出了子弹，目前情况稳定。目前尚不清楚开火的起因。声明提醒各方有义务确保联合国人员和房舍的安全，包括避免在联黎部队营地附近进行作战行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-12/detail-incsicsv3432676.d.html</link>
-            <guid>3813416</guid>
-            <pubDate>Sat, 12 Oct 2024 13:49:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中老签署标准化合作谅解备忘录】市场监管总局消息，近日，国家市场监督管理总局局长罗文与老挝工业和贸易部副部长、国家标准理事会主席昌苏克·森帕昌签署了两国关于标准化领域的合作谅解备忘录。10月12日国务院总理李强与老挝总理宋赛举行会谈，该备忘录纳入会谈成果文件。根据该备忘录，中老将加强在铁路、能源、电动汽车等领域标准化合作和能力建设。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-12/detail-incsicsr7192029.d.html</link>
-            <guid>3813415</guid>
-            <pubDate>Sat, 12 Oct 2024 13:49:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
