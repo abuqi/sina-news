@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 19 Oct 2024 19:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Oct 2024 20:21:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【诺华输掉了阻止拜登药品价格谈判的挑战】 诺华公司阻止美国政府药品价格谈判计划的提议被联邦法官驳回，这是拜登政府在继续推出其具有里程碑意义的计划的另一场胜利。法官援引其他命令驳回制造商的指控，并且制药公司涉嫌财产、超额罚款违规。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-20/detail-inctcsmi3806708.d.html</link>
+            <guid>3823903</guid>
+            <pubDate>Sat, 19 Oct 2024 19:26:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【北马其顿首都动物园因禽流感关闭】北马其顿食品与兽医局19日发布消息说，首都斯科普里的动物园当天因确认H5N1型高致病性禽流感病例而暂时关闭。消息说，食品与兽医局的工作人员确认一只从外面飞入动物园池塘的鹅身上带有H5N1禽流感病毒，食品与兽医局随即于19日关闭了动物园，同时派工作人员入园扑杀了池塘里的数十只鸭、鹅、鸡等禽类。（新华社）]]></title>
             <link>https://finance.sina.cn/7x24/2024-10-20/detail-inctcsmf7027742.d.html</link>
@@ -277,17 +283,6 @@
             <link>https://finance.sina.cn/7x24/2024-10-19/detail-inctcfvm7248872.d.html</link>
             <guid>3823832</guid>
             <pubDate>Sat, 19 Oct 2024 15:06:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【云南两部门联合开展校园食品安全排查整治行动】10月19日云南省市场监管局、省教育厅，为切实加强校园食品安全管理工作，云南省市场监管局、省教育厅联合印发《关于开展学校落实食品安全主体责任暨风险隐患大排查大整治工作的通知》，即日起在全省范围内开展校园食品安全风险隐患排查整治行动。]]></title>
-            <guid>3823831</guid>
-            <pubDate>Sat, 19 Oct 2024 15:05:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【第三季度净利增长超60% 西部矿业业绩稳步增长】10月18日晚，西部矿业披露的2024年三季报显示，前三季度实现营收367.25亿元，同比增长13.93%；实现净利润27.32亿元，同比增长24.33%。其中，第三季度实现营收117.48亿元，同比增长23.02%；实现净利润11.12亿元，同比增长60.91%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-19/detail-inctcfvt0373327.d.html</link>
-            <guid>3823830</guid>
-            <pubDate>Sat, 19 Oct 2024 15:04:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
