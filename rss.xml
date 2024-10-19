@@ -4,11 +4,68 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 19 Oct 2024 20:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Oct 2024 21:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[巴勒斯坦伊斯兰抵抗运动（哈马斯）媒体办公室19日说，以色列军队对加沙地带北部拜特拉希耶的袭击已造成73人死亡。（新华社国际）]]></title>
+            <guid>3823935</guid>
+            <pubDate>Sat, 19 Oct 2024 21:14:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列北部加利利地区响起防空警报】以色列国防军19日夜间发布消息称，以色列北部加利利地区包括采法特在内的多个城镇响起了防空警报，目前暂无人员伤亡报告。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-20/detail-inctcwti3253048.d.html</link>
+            <guid>3823934</guid>
+            <pubDate>Sat, 19 Oct 2024 21:14:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列北部多地响起警报 以军称拦截一架无人机】以色列国防军当地时间19日晚间发布消息称，以色列北部的阿比林（Abirim）、伊文梅纳赫姆（Even Menachem）、拉马特马格什明（Ramat Magshimim）和诺夫（Nov）等地区响起了警报。目前暂无人员伤亡报告。以军称，警报发出后，以色列空军拦截了一架从叙利亚方向越境进入以色列领空的无人机。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-20/detail-inctcsmi3819587.d.html</link>
+            <guid>3823933</guid>
+            <pubDate>Sat, 19 Oct 2024 20:52:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以军袭击加沙地带北部拜特拉希亚地区 已致73人死亡】据加沙地带媒体办公室当地时间19日夜间发布的消息，以军当天在加沙地带北部拜特拉希亚地区进行的袭击，截至目前已造成73人死亡，数十人受伤或失踪，其中大多数是儿童和妇女。同时，以军摧毁了加沙地带北部省份的卫生系统，该省目前居住着约40万人。该机构表示，以军还威胁当地医院，要求医疗队立即撤离。此外，以军还阻止燃料运抵这些医院，并切断了该地区的通信，造成严重的人道主义危机。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-20/detail-inctcsmf7041529.d.html</link>
+            <guid>3823932</guid>
+            <pubDate>Sat, 19 Oct 2024 20:47:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【韩正会见印度尼西亚总统佐科】应印度尼西亚政府邀请，10月19日，习近平主席特别代表、国家副主席韩正赴印尼出席将于20日举行的印尼新任总统普拉博沃就职仪式，并访问印尼。当天，韩正在雅加达会见印尼总统佐科。韩正转达习近平主席对佐科总统的亲切问候和良好祝愿。韩正表示，过去10年是中印尼关系高水平发展的10年。（新华社）]]></title>
+            <guid>3823929</guid>
+            <pubDate>Sat, 19 Oct 2024 20:41:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加沙地带北部一住宅区遭袭 死亡人数升至22人】 当地时间19日晚间，加沙地带北部拜特拉希亚地区的一个住宅区当天遭到以军袭击，目前已造成22人死亡，另有数十人受伤或在废墟下失踪。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-20/detail-inctcsmp0156471.d.html</link>
+            <guid>3823927</guid>
+            <pubDate>Sat, 19 Oct 2024 20:39:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗向联合国表示：真主党对无人机袭击负责。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-20/detail-inctcsmi3817211.d.html</link>
+            <guid>3823926</guid>
+            <pubDate>Sat, 19 Oct 2024 20:37:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【铁路客运将全面推广使用电子发票】税务总局、财政部、国铁集团联合对外发布公告，自2024年11月1日起，在我国铁路客运领域推广使用全面数字化的电子发票——电子发票（铁路电子客票）。旅客不再需要打印铁路车票（纸质报销凭证），出行和报销更便利。根据公告，旅客在行程结束或支付退票、改签费用后，可通过铁路12306网站和移动客户端如实取得电子发票（铁路电子客票）并进行查询、下载和打印。为方便旅客和单位，铁路客运设置了过渡期，过渡期内“纸电并行”，旅客仍可使用铁路车票（纸质报销凭证）报销，单位也可凭铁路车票（纸质报销凭证）入账，按规定计算抵扣增值税进项税额。过渡期截至2025年9月30日。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-20/detail-inctcsmi3816413.d.html</link>
+            <guid>3823922</guid>
+            <pubDate>Sat, 19 Oct 2024 20:32:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[哈马斯媒体报道，以色列对加沙贝鲁特的袭击导致的死亡人数已上升至至少60人。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-20/detail-inctcsmf7038968.d.html</link>
+            <guid>3823921</guid>
+            <pubDate>Sat, 19 Oct 2024 20:30:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：英国首相今天下午与以色列总理内塔尼亚胡进行了交谈，他对今天上午无人机向内塔尼亚胡总理家发射感到震惊。]]></title>
+            <guid>3823920</guid>
+            <pubDate>Sat, 19 Oct 2024 20:27:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【诺华输掉了阻止拜登药品价格谈判的挑战】 诺华公司阻止美国政府药品价格谈判计划的提议被联邦法官驳回，这是拜登政府在继续推出其具有里程碑意义的计划的另一场胜利。法官援引其他命令驳回制造商的指控，并且制药公司涉嫌财产、超额罚款违规。]]></title>
             <link>https://finance.sina.cn/7x24/2024-10-20/detail-inctcsmi3806708.d.html</link>
@@ -225,64 +282,6 @@
             <link>https://finance.sina.cn/7x24/2024-10-20/detail-inctcfvr3603980.d.html</link>
             <guid>3823853</guid>
             <pubDate>Sat, 19 Oct 2024 16:10:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【本轮黎以冲突已致黎巴嫩2448人死亡】当地时间10月19日，黎巴嫩公共卫生部宣布，自2023年10月8日黎以冲突爆发以来，黎巴嫩已有2448人死亡，11471人受伤。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-20/detail-inctcfvp4032510.d.html</link>
-            <guid>3823852</guid>
-            <pubDate>Sat, 19 Oct 2024 16:04:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊拉克取消沙特MBC电视台在伊境内工作许可】当地时间10月19日，伊拉克通信和媒体委员会（CMC）发表声明称，沙特MBC电视台因屡次违反伊拉克通信和媒体委员会规定，现将采取必要法律措施停止该机构在伊拉克境内的活动。该委员会已指示其行政部门取消了此前授予沙特MBC电视台在伊拉克境内的工作许可。据悉，由于MBC电视台近期在节目中称已故黎巴嫩真主党领导人哈桑·纳斯鲁拉和伊拉克什叶派民兵武装“人民动员组织”副指挥官穆汉迪斯为“恐怖分子”，当地时间10月18日晚，数十名伊拉克籍抗议者闯入位于巴格达的MBC电视台办公室打砸并实施纵火。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-20/detail-inctcfvp4032390.d.html</link>
-            <guid>3823851</guid>
-            <pubDate>Sat, 19 Oct 2024 16:04:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国波音公司与其工会就劳资关系达成初步协议】当地时间10月19日，美国“机械工人和航天工人国际联合会”（IAM）向其3.3万名参与罢工的成员宣布，已和飞机制造商波音公司达成初步协议。IAM表示，该协议包括将规定波音公司在合同的四年期限内将工资提高35%。据悉，该协议仍需要IAM的大多数成员批准后才能生效，工人才会重返工作岗位，投票定于当地时间10月23日举行。截至目前，此次罢工已持续五周。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-19/detail-inctcfvt0379200.d.html</link>
-            <guid>3823850</guid>
-            <pubDate>Sat, 19 Oct 2024 15:59:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国证监会：加强源头治理 推动投资者保护迈上新台阶】中国证监会首席律师程合红19日在北京表示，证监会将协同各方力量，充分发挥市场各方作用，加强源头治理，共同推动投资者保护和资本市场高质量发展迈上新台阶。程合红指出，证券发行人要坚持诚实守信，系牢资本市场活动中维护投资者权益的第一粒扣子；上市公司要以切实的投资回报夯实维护投资者权益的市场基础；证券期货经营机构要依法审慎开展业务，为维护投资者权益提供高质量的市场服务；证券期货投资基金管理人要以投资者为本的最高注意标准，严格履行维护投资者权益的受托管理职责；保荐人、注册会计师、证券律师等市场中介要当好维护投资者权益的专业市场看门人；投资者相互之间也负有诚信义务和公平交易的责任，特别是不得进行操纵市场、内幕交易，损害其他投资者在市场交易中的合法权益。（中国新闻网）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-19/detail-inctcfvr3601757.d.html</link>
-            <guid>3823849</guid>
-            <pubDate>Sat, 19 Oct 2024 15:56:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联社：邮递员与美国邮政服务达成临时合同，与美国邮政服务的新协议仍需得到工会批准。]]></title>
-            <guid>3823848</guid>
-            <pubDate>Sat, 19 Oct 2024 15:39:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中银协报告：银行业2023年资产扩表总体平稳，零售贷款资产质量下行压力明显】10月19日，中国银行业协会在2024金融街论坛年会上发布《2024年度中国银行业发展报告》。这是中国银行业协会连续第14年发布该报告。《报告》指出，2023年，中国银行业经营规模稳步增长，信贷投放节奏逐步均衡，全年资产扩表总体平稳，对稳固经济运行起到重要作用。截至2023年末，银行业金融机构总资产、总负债规模分别达到417.29万亿元和383.12万亿元，同比分别增长9.9%和10.1%。截至2023年末，商业银行不良贷款率1.59%，较上年末下降0.04个百分点，资产质量保持稳定，风险抵补能力充足，整体风险可控。从业务类型看，零售贷款资产质量下行压力较对公贷款更加明显。（证券时报网）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-19/detail-inctcfvr3598895.d.html</link>
-            <guid>3823847</guid>
-            <pubDate>Sat, 19 Oct 2024 15:31:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【君亭酒店：公司在四川省开业及在建的酒店共计15家】君亭酒店在投资者互动平台表示，公司在四川省开业及在建的酒店共计15家，目前开业酒店有王岗坪君澜度假酒店、君澜·烟雨柳江度假村、成都Pagoda君亭设计酒店、西昌邛海将军府夜泊君亭酒店、遂宁君亭坦孚酒店等。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-19/detail-inctcfvm7251313.d.html</link>
-            <guid>3823846</guid>
-            <pubDate>Sat, 19 Oct 2024 15:27:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：波音期待员工对提案进行投票，并就向联合航空提出的最新报价发表声明。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-19/detail-inctcfvm7251033.d.html</link>
-            <guid>3823845</guid>
-            <pubDate>Sat, 19 Oct 2024 15:25:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[七国集团国防部长：重申支持联黎部队和黎巴嫩武装部队在确保黎巴嫩稳定与安全方面发挥的作用的重要性。]]></title>
-            <guid>3823840</guid>
-            <pubDate>Sat, 19 Oct 2024 15:15:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波音工会向成员提交旨在结束罢工的提案 定于10月23日进行投票】代表波音公司3.3万名罢工人员的工会正向成员提交一份结束罢工的提案，表示该计划包含对波音先前提议的几项重要改进。提案包括四年内涨薪35%，恢复激励计划以及增加公司401(k)供款匹配金额。定于10月23日对是否批准进行投票。工会提及美国代理劳工部长苏维思的协助，其本周赴西雅图帮助各方间接谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-19/detail-inctcfvm7248872.d.html</link>
-            <guid>3823832</guid>
-            <pubDate>Sat, 19 Oct 2024 15:06:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
