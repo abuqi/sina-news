@@ -6,6 +6,33 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 3836178,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2024-10-27/detail-inctxqhn4352202.d.html",
+            "title": "【国际原子能机构：伊朗核设施未在以色列袭击中受到影响】当地时间26日，国际原子能机构总干事格罗西在社交媒体发文表示，伊朗的核设施并未在以色列的袭击中受到影响。国际原子能机构的调查员是安全的，仍在继续开展他们的重要工作。（央视新闻）",
+            "date_modified": "2024-10-26T19:52:07.000Z"
+        },
+        {
+            "id": 3836177,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2024-10-27/detail-inctxqhn4348730.d.html",
+            "title": "【加沙地带北部拜特拉希亚遭袭 至少30人死亡】当地时间26日，以色列国防军当晚空袭了加沙地带北部的拜特拉希亚（Beit Lahiya），造成包括妇女和儿童在内的至少30人死亡，多人受伤。（央视新闻）",
+            "date_modified": "2024-10-26T19:33:30.000Z"
+        },
+        {
+            "id": 3836176,
+            "content_html": "",
+            "title": "据巴勒斯坦通讯社26日报道，以色列军队当晚轰炸加沙地带北部拜特拉希亚，造成至少30人死亡。（新华社快讯）",
+            "date_modified": "2024-10-26T19:18:08.000Z"
+        },
+        {
+            "id": 3836175,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2024-10-27/detail-inctxqhn4346523.d.html",
+            "title": "市场资讯：谷歌准备开发接管计算机的人工智能，最早将于12月预告此AI产品。",
+            "date_modified": "2024-10-26T19:17:50.000Z"
+        },
+        {
             "id": 3836174,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2024-10-27/detail-inctxiyu0464377.d.html",
@@ -319,34 +346,6 @@
             "url": "https://finance.sina.cn/7x24/2024-10-26/detail-inctxcsx7338370.d.html",
             "title": "【机构：三季度AMOLED智能手机面板出货约2.2亿片】CINNO Research最新报告指出，随着苹果iPhone16系列等高端旗舰机型的发布，第三季度OLED面板的整体需求持续回升。根据CINNO Research统计数据显示，2024年第三季度全球AMOLED智能手机面板出货量约2.2亿片，同比增长25.3%，环比增长0.9%。",
             "date_modified": "2024-10-26T14:48:06.000Z"
-        },
-        {
-            "id": 3836105,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2024-10-26/detail-inctxcss4568118.d.html",
-            "title": "【消息称以军撤出加沙北部卡迈勒·阿德万医院】从以色列方面获知的消息称，以军已撤出位于加沙地带北部的卡迈勒·阿德万医院。目前以色列国防军尚未对该消息发表评论。",
-            "date_modified": "2024-10-26T14:47:52.000Z"
-        },
-        {
-            "id": 3836104,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2024-10-26/detail-inctwxky0690412.d.html",
-            "title": "【蜂巢能源欧洲公司及德国子公司将终止运营，明年1月31日生效】 蜂巢能源表示，由于蜂巢能源无法控制的原因，欧洲电动汽车市场的发展未能达到所有利益相关方的预期，公司不得不做出艰难决定，终止蜂巢能源科技（欧洲）有限公司（“蜂巢欧洲公司”）及其德国子公司的商业运营，该决定于2025年1月31日生效。（一财）",
-            "date_modified": "2024-10-26T14:37:13.000Z"
-        },
-        {
-            "id": 3836103,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2024-10-26/detail-inctwxkw1472745.d.html",
-            "title": "【以军袭击加沙地带 已致22人死亡】自当地时间26日上午以来，以军当日在加沙地带的袭击已致22人死亡，其中18人死于加沙地带北部地区。",
-            "date_modified": "2024-10-26T14:27:15.000Z"
-        },
-        {
-            "id": 3836102,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2024-10-26/detail-inctwxkw1470418.d.html",
-            "title": "【极越CEO夏一平：三年左右极越智驾将无限接近自动驾驶】10月26日晚，极越CEO夏一平在微博发布视频称，三年左右极越的智驾，将无限接近自动驾驶。夏一平表示，“现在的智驾不是像以前一样是个单机智能的问题，靠的是大模型，靠的是算力。”",
-            "date_modified": "2024-10-26T14:10:27.000Z"
         }
     ]
 }
