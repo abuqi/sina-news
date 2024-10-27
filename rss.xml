@@ -4,11 +4,41 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 27 Oct 2024 19:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Oct 2024 20:22:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【腾讯云数据库性能测试领跑全球】在国际事务处理性能委员会（TPC）开展的数据库“决策支持类”性能测试TPC-DS中，腾讯云数据库TDSQL大幅刷新此前纪录，位居世界第一。此次测试结果显示，腾讯云数据库TDSQL平均测试耗时大幅领先榜单其他厂商，99个复杂分析任务的单任务平均耗时在4秒以内，多任务并行计算平均耗时8秒以内，并以7260万分的性能评分，将决策支持类榜单最高测试纪录提升3.8倍。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-28/detail-inctztft6053669.d.html</link>
+            <guid>3837500</guid>
+            <pubDate>Sun, 27 Oct 2024 20:07:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏丹多地遭袭 造成12人死亡】当地时间10月27日，苏丹喀土穆州卫生部门表示，该州恩图曼市一个流离失所者收容中心当天遭苏丹快速支援部队炮击，造成2名平民死亡，另有3人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-28/detail-inctztft6051399.d.html</link>
+            <guid>3837499</guid>
+            <pubDate>Sun, 27 Oct 2024 19:51:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【黎巴嫩南部城镇一学校附近遭袭 已致5人死亡】当地时间10月27日，黎巴嫩南部布尔吉舍玛利（Burj al-Chmali）镇镇长阿里·迪布（Ali Deeb）发布消息称，联合国近东巴勒斯坦难民救济和工程处（近东救济工程处）在当地开设的巴勒斯坦学校附近遭以军袭击，已有5人死亡，1人受伤。学校的围墙在袭击中受损。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-28/detail-inctztfr9273901.d.html</link>
+            <guid>3837498</guid>
+            <pubDate>Sun, 27 Oct 2024 19:49:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日本众议院选举最终结果出炉 执政联盟未获得过半议席】当地时间28日凌晨，日本第50届众议院选举全部席位归属已确定。自民党获得191个席位，公明党获得24个席位，两党组成的执政联盟共获得215个席位，未能达到众议院过半数席位的233席。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-28/detail-inctztfq0078385.d.html</link>
+            <guid>3837497</guid>
+            <pubDate>Sun, 27 Oct 2024 19:31:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Google推进人工智能以自动化网页浏览任务】Google正在开发一项人工智能（AI）技术，旨在自主操作网络浏览器来执行诸如进行研究和在线购物等活动。这项在公司内部被称为Project Jarvis的计划，预计将于12月与Google即将推出的Gemini大型语言模型一同亮相。The Information披露了这一进展，指出该技术旨在将人类与计算机之间的交互提升到一个新的水平，允许AI直接与用户的计算机或浏览器进行交互。这将标志着AI在无需人类干预的情况下执行复杂任务能力的重大进步。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-28/detail-inctztfn3300660.d.html</link>
+            <guid>3837496</guid>
+            <pubDate>Sun, 27 Oct 2024 19:27:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【以色列空袭黎巴嫩南部多地 造成多人死亡】当地时间10月27日，以色列空袭黎巴嫩南部艾因巴尔镇，造成3人死亡。此外，以军空袭黎南部纳巴提耶县一村庄，造成2人死亡。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2024-10-28/detail-inctztfn3298785.d.html</link>
@@ -269,35 +299,6 @@
             <link>https://finance.sina.cn/7x24/2024-10-27/detail-inctzhrs3512777.d.html</link>
             <guid>3837406</guid>
             <pubDate>Sun, 27 Oct 2024 14:50:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【紫天科技：公司及相关人员涉嫌信披违法违规等 遭证监会立案】 紫天科技(300280)10月27日晚间公告，公司于近日收到中国证监会下发的《立案告知书》，因公司涉嫌信息披露违法违规和涉嫌拒绝、阻碍执法，以及LIXIANG（李想）、宋庆、李琳涉嫌拒绝、阻碍执法，根据相关法律法规，中国证监会决定对公司及LIXIANG（李想）、宋庆、李琳进行立案。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-27/detail-inctzhrx6267664.d.html</link>
-            <guid>3837405</guid>
-            <pubDate>Sun, 27 Oct 2024 14:50:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【43个项目在柳州市智能终端及机器人产业发展合作大会集中签约】在今日举行的柳州市智能终端及机器人产业发展合作大会上，共有43个合作项目集中签约。其中，科技类合作项目签约13个，产业类合作项目签约23个，金融类合作协议签约7项。同时，柳州市智能终端及机器人产业技术研究院、柳州市机器人产业后市场服务中心在会上正式揭牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-27/detail-inctzhru0289342.d.html</link>
-            <guid>3837404</guid>
-            <pubDate>Sun, 27 Oct 2024 14:47:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 摩根大通证券股份有限公司将华测检测认证集团股份有限公司评级下调至低配，目标价10元人民币。]]></title>
-            <guid>3837402</guid>
-            <pubDate>Sun, 27 Oct 2024 14:47:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【下周A股解禁超260亿元，涉及47只股票】Wind数据显示，下周A股市场将有47只股票面临解禁，合计解禁数量为18.70亿股，按最新收盘价计算，合计解禁市值为269.36亿元，较本周解禁市值环比减少12.56%。在下周面临解禁的47只股票中，从解禁市值情况来看，Wind数据显示，按最新收盘价计算，深城交、中材国际、华润材料解禁市值居前，解禁市值分别为51.31亿元、49.08亿元、31.50亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-27/detail-inctzhrv9489507.d.html</link>
-            <guid>3837400</guid>
-            <pubDate>Sun, 27 Oct 2024 14:43:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印尼马拉皮火山一天内4次喷发】印度尼西亚火山和地质减灾中心27日通报说，位于印尼西苏门答腊省的马拉皮火山当天连续喷发了4次。印尼安塔拉通讯社援引该中心消息报道说，马拉皮火山当天首次喷发时间是7时许，随后又有两次喷发，16时许发生第四次喷发。首次喷发持续时间最长，为2分11秒，第三次喷出的火山灰柱最高，达到2000米。马拉皮火山当前处于二级警戒状态。印尼火山和地质减灾中心发布警告，要求民众避免进入火山喷发中心周边3公里范围内。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-27/detail-inctzhru0288622.d.html</link>
-            <guid>3837399</guid>
-            <pubDate>Sun, 27 Oct 2024 14:42:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
