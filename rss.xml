@@ -4,11 +4,40 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 09 Nov 2024 17:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Nov 2024 18:25:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据美国安全和环境执法局（BSEE）：美国墨西哥湾天然气产量下降 3.13 亿立方英尺/天，降幅 16.83%；石油产量减少490,241 桶/天，降幅28.01%。]]></title>
+            <guid>3862919</guid>
+            <pubDate>Sat, 09 Nov 2024 18:19:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【大选日后 美国多地非洲裔收到种族歧视短信】据多家媒体报道，从美国大选投票日次日，也就是6日开始，美国至少20个州的一些非洲裔居民收到了含有种族歧视内容的短信。这些短信告知收件人“你已被选中到最近的种植园采摘棉花，请做好准备”。这些匿名的恶意短信在美国引起轩然大波，有非洲裔居民痛斥，种族歧视问题根本没有改变。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-11-10/detail-incvpcsw7121440.d.html</link>
+            <guid>3862918</guid>
+            <pubDate>Sat, 09 Nov 2024 17:49:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：环球音乐集团（UMG）对ACKMAN在X上的帖子作出回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-11-10/detail-incvpcsw7121231.d.html</link>
+            <guid>3862917</guid>
+            <pubDate>Sat, 09 Nov 2024 17:48:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【15名游客在伊朗南呼罗珊省一沙漠失踪】当地时间9日，15名游客在伊朗南呼罗珊省塔巴斯附近的沙漠失踪。目前，当地政府已经组织救援队前往该区域进行搜救工作。有失踪者家属表示，失踪游客从伊斯法罕到该地区旅游。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-11-10/detail-incvnxmc9177953.d.html</link>
+            <guid>3862916</guid>
+            <pubDate>Sat, 09 Nov 2024 17:23:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【本轮黎以冲突已致黎巴嫩3136人死亡】黎巴嫩公共卫生部当地时间9日通报称，自2023年10月8日本轮黎以冲突爆发以来，黎巴嫩境内已有3136人死亡、13979人受伤。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-11-10/detail-incvnxma2400558.d.html</link>
+            <guid>3862915</guid>
+            <pubDate>Sat, 09 Nov 2024 17:21:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【罗马庞贝古城遗址限制每日游客人数】庞贝遗址公园管理方周五表示，从11月15日起，将每日游客数量限制为20,000人。当地媒体报道，10月的第一个星期日，创纪录的36,000名游客在免费入场时参观了该地点。管理方表示，2万的上限可能只会导致游客在少数情况下被拒之门外。遗址公园的发言人披露，只有在每月的第一个星期日免费入园，以及3至4个收费入园日里，游客人数才会超过2万。]]></title>
             <link>https://finance.sina.cn/7x24/2024-11-10/detail-incvnxma2399562.d.html</link>
@@ -293,35 +322,6 @@
             <link>https://finance.sina.cn/7x24/2024-11-09/detail-incvntaz0571056.d.html</link>
             <guid>3862864</guid>
             <pubDate>Sat, 09 Nov 2024 13:20:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【扩散条件改善 北京本轮空气污染预计周日有所缓解】据北京生态环境监测中心消息，今日（11月9日），北京PM2.5浓度水平有所波动，以中度污染级别为主。明日（10日）扩散条件有所改善，预计白天部分时段PM2.5浓度有所下降，总体以轻度污染为主。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-11-09/detail-incvntce2496607.d.html</link>
-            <guid>3862863</guid>
-            <pubDate>Sat, 09 Nov 2024 13:20:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中秘共建“一带一路”务实合作主题年会在利马举办】中秘共建“一带一路”务实合作主题年会8日在秘鲁首都利马举办。与会嘉宾深入探讨共建“一带一路”框架下两国合作新机遇，共话未来发展新愿景。会议期间，各方取得多项务实成果：《携手推动高质量发展共筑亚太命运共同体》智库报告正式发布，向全球阐述面向未来的亚太经济合作组织发展成效与中国行动；中国一带一路网西语新版上线；“一带一路”经济信息共享网络拉美联络处揭牌。年会期间，与会嘉宾还观看了中拉共建“一带一路”务实合作图片展。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-11-09/detail-incvnnvi9403684.d.html</link>
-            <guid>3862862</guid>
-            <pubDate>Sat, 09 Nov 2024 13:13:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中华人民共和国和印度尼西亚共和国关于推进全面战略伙伴关系和中印尼命运共同体建设的联合声明】应中华人民共和国主席习近平邀请，印度尼西亚共和国总统普拉博沃·苏比延多于2024年11月8日至10日对中华人民共和国进行国事访问。此访是普拉博沃总统就职后的首次出访，体现了中印尼深厚传统友谊和高水平政治互信。双方一致认为，中国和印度尼西亚同为发展中大国、新兴市场国家和“全球南方”主要力量，发展阶段相似、理念道路相通、文化传统相近，两国关系具有重大战略意义和深远全球影响。近年来，中印尼关系持续保持强劲发展势头，进入共建命运共同体新阶段，书写了发展中大国联合自强、团结协作、互利共赢的新篇章。双方强调，中印尼关系取得宝贵成就，关键在于坚持战略自主、坚持互信互助、坚持合作共赢、坚持公平正义。两国在过去争取民族独立和国家建设事业中始终相互支持，也将在未来两国发展新征程上，继承弘扬双边合作优良传统，坚持两国关系正确方向，进一步打造发展中大国精诚团结的典范、共同发展的样板、南南合作的先锋。（新华社）]]></title>
-            <guid>3862861</guid>
-            <pubDate>Sat, 09 Nov 2024 13:13:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江苏吴中：公司产品连芩珍珠滴丸由处方药转换为非处方药】江苏吴中消息，11月8日，国家药品监督管理总局发布2024年第133号公告，根据《处方药与非处方药分类管理办法（试行）》（原国家药品监督管理局令第10号）规定，经国家药品监督管理局组织论证和审核，公司下属江苏吴中医药集团有限公司苏州制药厂生产的连芩珍珠滴丸由处方药转换为非处方药。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-11-09/detail-incvnnvi9403385.d.html</link>
-            <guid>3862860</guid>
-            <pubDate>Sat, 09 Nov 2024 13:10:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【长安汽车与宁德时代全面深化合作】11月8日，长安汽车与宁德时代签署全面深化合作备忘录。根据合作备忘录，双方将于未来5年在联合品宣、技术创新、市场推广、后市场及海外市场开拓等方面展开全方位多领域合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-11-09/detail-incvnnvi9401890.d.html</link>
-            <guid>3862859</guid>
-            <pubDate>Sat, 09 Nov 2024 13:00:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
