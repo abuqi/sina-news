@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 16 Nov 2024 16:26:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Nov 2024 17:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【要牢牢抓住新一轮科技革命产业变革机遇】习近平：我们要牢牢抓住新一轮科技革命和产业变革机遇，在人工智能、量子信息、生命健康等前沿领域加强交流合作，营造开放、公平、公正、非歧视的创新生态，推动亚太地区实现生产力跃升。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-11-17/detail-incwhvfu8120324.d.html</link>
+            <guid>3876008</guid>
+            <pubDate>Sat, 16 Nov 2024 16:35:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[以色列总统办公室：由于安全原因，以色列总统将不会出席在阿塞拜疆举行的第29届联合国气候变化框架公约会议。]]></title>
             <guid>3876007</guid>
@@ -77,12 +83,6 @@
             <title><![CDATA[黎巴嫩卫生部称：周五，以色列在黎巴嫩发动袭击，造成7人死亡，总死亡人数达到3452人。]]></title>
             <guid>3875996</guid>
             <pubDate>Sat, 16 Nov 2024 15:38:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【习近平：中国将担任亚太经合组织2026年东道主】当地时间11月16日，习近平主席在亚太经合组织第三十一次领导人非正式会议上宣布，中国将担任亚太经合组织2026年东道主，期待同各方一道深化亚太合作，造福亚太人民。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-11-16/detail-incwhqxy5017448.d.html</link>
-            <guid>3875995</guid>
-            <pubDate>Sat, 16 Nov 2024 15:34:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【江苏无锡一学院发生持刀伤人事件 致8死17伤】11月16日18时30分左右，无锡工艺职业技术学院发生一起持刀伤人案件，共造成8人死亡、17人受伤，犯罪嫌疑人被当场抓获。警方发布警情通报。（央视新闻）]]></title>
