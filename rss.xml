@@ -4,11 +4,22 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 23 Nov 2024 18:28:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Nov 2024 19:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【苏丹西部一难民营遭炮击 致7人死亡】当地时间11月23日，苏丹西部北达尔富尔州首府法希尔市附近的阿布舒克难民营卫生部门发布声明称，该难民营当天遭炮击，造成至少7人死亡，另有数十人受伤。声明指责苏丹快速支援部队发动此次炮击，十多枚炮弹落入难民营内，造成人员伤亡。快速支援部队对此未作出回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-11-24/detail-incxaxma9624825.d.html</link>
+            <guid>3888102</guid>
+            <pubDate>Sat, 23 Nov 2024 19:11:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[《联合国气候变化框架公约》第二十九次缔约方大会（COP29）：在美国和欧洲就如何追踪碳信用达成一致后，各国就碳市场达成协议，批准了第6.2条和第6.4条的碳市场协议。]]></title>
+            <guid>3888101</guid>
+            <pubDate>Sat, 23 Nov 2024 18:34:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【现代汽车因布线不当召回42000多辆美国汽车】韩国汽车制造商现代汽车正在召回部分美国车辆，原因是线路布线不当可能会增加发生碰撞的风险。美国汽车安全监管机构表示，该车辆变速器可以在驾驶员不踩下制动踏板的情况下退出“驻车”模式，可能导致车辆溜车，从而增加发生碰撞的风险。]]></title>
             <link>https://finance.sina.cn/7x24/2024-11-24/detail-incxatch6524409.d.html</link>
@@ -302,18 +313,6 @@
             <link>https://finance.sina.cn/7x24/2024-11-23/detail-incxahpf4557217.d.html</link>
             <guid>3887992</guid>
             <pubDate>Sat, 23 Nov 2024 13:12:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲议会贸易委员会主席：中欧“即将”达成电动汽车关税协议】 据德国新闻电视频道网站11月22日报道，欧洲议会贸易委员会主席贝恩德·朗格表示，欧盟在特朗普入主白宫后必须重新调整其竞争政策。他说，至少在有关中国电动汽车的关税争端中有望达成协议。贝恩德·朗格表示，欧盟的经济体系不仅面临着可能依赖中国的风险，欧盟现在还处于一个复杂的价值链系统中。就中国而言，欧盟只在某些原材料上存在单方面依赖。这也是欧盟寻找更多供应商的原因。但也存在其他风险，例如当一艘运载货物的船只在苏伊士运河搁浅，或者当东盟地区发生洪水时。因此，无法只看到与中国的贸易风险。对于德国总理朔尔茨坚决反对欧盟对中国电动汽车加征关税，贝恩德·朗格认为，朔尔茨对中国电动汽车关税有不同的评估，因为德国制造商在中国有市场。德国担心中国可能会强烈反对，从而影响这些在中国市场的制造商。此外，欧盟仍与中方就电动汽车进行谈判，并即将与中国达成取消关税的解决方案。（参考消息）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-11-23/detail-incxahpk9942172.d.html</link>
-            <guid>3887991</guid>
-            <pubDate>Sat, 23 Nov 2024 12:56:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【土耳其总统支持国际刑事法院向内塔尼亚胡和加兰特发出逮捕令】记者当地时间11月23日获悉，就国际刑事法院向以色列总理内塔尼亚胡和前国防部长加兰特发出逮捕令一事，土耳其总统埃尔多安表示支持。埃尔多安称，内塔尼亚胡和加兰特在加沙犯下了战争罪，国际刑事法院的所有成员国都应支持这一决定，以恢复各界对国际体系的信任。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-11-23/detail-incxahpn6717959.d.html</link>
-            <guid>3887990</guid>
-            <pubDate>Sat, 23 Nov 2024 12:50:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
