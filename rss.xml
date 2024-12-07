@@ -4,11 +4,34 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 07 Dec 2024 17:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Dec 2024 18:29:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【联合国叙利亚问题特使呼吁叙利亚冲突降级】联合国秘书长叙利亚问题特使裴凯儒7日在卡塔尔首都多哈呼吁各方保持冷静，以实现叙利亚冲突降级。裴凯儒当天在多哈论坛间隙举行的记者会上说，叙利亚局势瞬息万变，他呼吁在瑞士日内瓦召开紧急政治会议，以推动落实联合国安理会第2254号决议。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-08/detail-incysnvf1178317.d.html</link>
+            <guid>3915092</guid>
+            <pubDate>Sat, 07 Dec 2024 18:16:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基称，他与特朗普和马克龙进行了“良好且富有成效”的三边会谈，讨论了乌克兰的实地局势和公正的和平。]]></title>
+            <guid>3915070</guid>
+            <pubDate>Sat, 07 Dec 2024 17:57:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普、马克龙和泽连斯基举行三方会晤】当地时间12月7日，在巴黎圣母院重新开放仪式前，法国总统马克龙与美国当选总统特朗普和乌克兰总统泽连斯基举行三方会晤。据悉，这是特朗普赢得美国总统大选以来与泽连斯基首次面对面的会晤。《纽约时报》报道称，乌克兰官员近几周一直试图与即将上任的特朗普政府接触，旨在尽可能以符合乌克兰利益的方式，影响其迅速结束俄乌冲突的计划。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-08/detail-incysnvf1169534.d.html</link>
+            <guid>3915069</guid>
+            <pubDate>Sat, 07 Dec 2024 17:33:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特斯拉投资者会议：2025H1将推新车型 或为的Model Q】近日，在德银举办的特斯拉投资者关系负责人Travis Axelrod的投资者会议上，特斯拉方面表示，计划在明年上半年推出名为“Model Q”的新车型，补贴后定价将低于3万美元。此外，在2025年下半年，特斯拉还计划推出其他新车型，以扩大其潜在市场规模。其中一款可能为在中国推出的三排长轴距Model Y。同时，特斯拉强调，2025年销量增长目标为20-30%。（CNMO科技新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-08/detail-incysnvc4394573.d.html</link>
+            <guid>3915068</guid>
+            <pubDate>Sat, 07 Dec 2024 17:31:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【以军袭击加沙多地 造成至少9人死亡】当地时间12月7日下午，以军袭击加沙地带多个地区，造成至少9人死亡，另有多人受伤。其中，以军袭击加沙地带南部城市拉法，造成6人死亡；以军袭击加沙地带中部城市代尔拜拉赫，造成2人死亡；以军还出动战斗机袭击了加沙地带北部加沙城的谢赫拉德万社区，造成1人死亡，另有多人受伤。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2024-12-08/detail-incysnvc4391360.d.html</link>
@@ -49,11 +72,6 @@
             <link>https://finance.sina.cn/7x24/2024-12-08/detail-incyshpf4512480.d.html</link>
             <guid>3915061</guid>
             <pubDate>Sat, 07 Dec 2024 16:26:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总统府称：乌克兰总统泽连斯基将与法国总统马克龙和美国当选总统特朗普举行三边会晤。]]></title>
-            <guid>3915060</guid>
-            <pubDate>Sat, 07 Dec 2024 16:17:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[叙利亚反对派表示，他们有责任保护叙利亚的政府、国际机构和联合国办事处。]]></title>
@@ -294,24 +312,6 @@
             <link>https://finance.sina.cn/7x24/2024-12-07/detail-incysafi4616402.d.html</link>
             <guid>3914949</guid>
             <pubDate>Sat, 07 Dec 2024 13:35:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄国防部：在白俄罗斯部署“榛树”导弹系统是对美欧的回应】当地时间12月7日，俄罗斯国防部表示，在白俄罗斯境内部署“榛树”高超音速导弹系统的决定，是对美国和德国在欧洲部署中程导弹的回应。6日，俄罗斯总统普京说，或将于2025年下半年在白俄罗斯境内部署“榛树”高超音速导弹系统。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-07/detail-incysafh7502999.d.html</link>
-            <guid>3914946</guid>
-            <pubDate>Sat, 07 Dec 2024 13:34:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英力特化工年产30万吨电石技改项目顺利通过竣工验收】 12月7日，英力特化工年产30万吨电石技改项目顺利通过竣工验收，标志着该项目正式进入新生产阶段。据了解，英力特化工年产30万吨电石技改项目采取“上大压小，减量置换”的方式新建4台40.5MVA电石炉及配套公辅设施。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-07/detail-incysafi4615208.d.html</link>
-            <guid>3914944</guid>
-            <pubDate>Sat, 07 Dec 2024 13:28:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【叙利亚叛军称已开始包围大马士革】据以色列时报，叙利亚反政府武装说，他们在夺取大马士革附近的城镇后，开始包围政府控制的大马士革。与此同时，叙利亚国防部否认政府军逃离首都附近的阵地。反政府武装指挥官加尼说：“我们的部队已经进入包围首都大马士革的最后阶段。”]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-07/detail-incysafh7501704.d.html</link>
-            <guid>3914940</guid>
-            <pubDate>Sat, 07 Dec 2024 13:24:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
