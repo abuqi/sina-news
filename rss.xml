@@ -4,11 +4,16 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 21 Dec 2024 18:26:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Dec 2024 19:14:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场资讯：美国当选总统特朗普任命米泽尔(Chad Mizelle)担任司法部幕僚长。]]></title>
+            <guid>3939444</guid>
+            <pubDate>Sat, 21 Dec 2024 18:27:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【叙利亚过渡政府任命新外交部长】据叙利亚国家通讯社21日报道，叙利亚过渡政府已任命阿萨德·哈桑·希巴尼为新外交部长。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2024-12-22/detail-ineahhpf4286771.d.html</link>
@@ -296,12 +301,6 @@
             <link>https://finance.sina.cn/7x24/2024-12-21/detail-ineafvxm4522259.d.html</link>
             <guid>3939313</guid>
             <pubDate>Sat, 21 Dec 2024 13:54:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【平陆运河企石枢纽大桥首节钢箱梁吊装完成】12月21日，平陆运河企石枢纽大桥首节钢箱梁吊装完成，标志着该桥全面进入上部结构施工阶段。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-21/detail-ineafvxc4975692.d.html</link>
-            <guid>3939312</guid>
-            <pubDate>Sat, 21 Dec 2024 13:54:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
