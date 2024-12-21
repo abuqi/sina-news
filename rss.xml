@@ -4,11 +4,27 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 21 Dec 2024 20:20:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Dec 2024 21:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场资讯：美国当选总统特朗普任命《学徒》制片人马克·布奈特（Mark Burnett）为英国特使。]]></title>
+            <guid>3939460</guid>
+            <pubDate>Sat, 21 Dec 2024 21:11:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据也门胡塞武装控制的马西拉电视台报道，美国和英国21日晚对也门首都萨那进行了空袭。（新华社快讯）]]></title>
+            <guid>3939459</guid>
+            <pubDate>Sat, 21 Dec 2024 21:05:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普宣布包括联邦铁路管理局局长在内多项新提名】 当地时间12月21日，美国当选总统特朗普通过社交媒体表示，他已提名大卫·芬克（David Fink）担任下一任联邦铁路管理局局长，决定提名前国土安全部总法律顾问和幕僚长查德·米泽尔（Chad Mizelle）担任下一任司法部幕僚长，提名亚伦·赖茨（Aaron Reitz）担任司法部法律政策办公室的下一任负责人。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-22/detail-ineahnuv4658524.d.html</link>
+            <guid>3939458</guid>
+            <pubDate>Sat, 21 Dec 2024 21:04:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【也门首都萨那遭空袭】当地时间12月21日晚，也门首都萨那遭遇空袭。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2024-12-22/detail-ineahnuv4650013.d.html</link>
@@ -282,24 +298,6 @@
             <link>https://finance.sina.cn/7x24/2024-12-21/detail-ineafvxf1757307.d.html</link>
             <guid>3939362</guid>
             <pubDate>Sat, 21 Dec 2024 14:38:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【长三角一体化示范区“朋友圈”再扩容 示范区开发者联盟成员增至76家】12月21日在苏州市吴江区召开的2024年长三角生态绿色一体化发展示范区开发者大会暨示范区全链接大会上，开发者联盟成员单位代表上台共同发布倡议。今年，联盟开展第五次扩容工作，在开发者大会前夕的2024年度开发者联盟全体成员会议上，新一批14家新成员入盟，示范区“朋友圈”进一步扩大，联盟成员数量增至76家。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-21/detail-ineafvxm4528037.d.html</link>
-            <guid>3939360</guid>
-            <pubDate>Sat, 21 Dec 2024 14:38:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【加拿大特鲁多政府面临倒台危机 前关键盟友要求进行不信任投票】加拿大特鲁多政府的一个前关键盟友表示，他将投票支持推翻特鲁多政府。如果特鲁多不暂停议会会期的话，加拿大可能在明年年初提前选举。新民主党党首Jagmeet Singh在一封公开信中表示，他会在下届议会提出对特鲁多政府的不信任动议。如果其他所有主要反对党都站在新民主党一边，特鲁多政府将必须辞职，这意味着特朗普重新掌权后不久加拿大就将举行大选。特鲁多所属的自由党在众议院不是多数党，直到目前为止，该党还是需要新民主党来通过立法并维持政府运转。Singh和特鲁多在2022年3月份达成了正式的合作协议，但Singh今年9月份退出了该合作协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-21/detail-ineafvxf1756635.d.html</link>
-            <guid>3939357</guid>
-            <pubDate>Sat, 21 Dec 2024 14:34:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【A股再传利好，多家公司上调回购价格上限等】 近期，包括广联航空、创业黑马、华懋科技、合兴包装在内的多家上市公司对前期发布的回购方案进行调整，内容涵盖上调回购价格上限、增加回购金额、调整回购股份资金来源等。除了调整之前的回购方案外，不少公司发布公告，拟发布新一轮回购方案。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-21/detail-ineafvxc4981484.d.html</link>
-            <guid>3939356</guid>
-            <pubDate>Sat, 21 Dec 2024 14:31:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
