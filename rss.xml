@@ -4,11 +4,56 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Wed, 01 Jan 2025 20:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jan 2025 21:19:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【通往嫌疑人最近住址的道路被封闭】执法人员封锁了一条通往休斯顿住宅的道路，记录显示，该住宅是新奥尔良袭击案嫌疑人的最近住址。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-02/detail-inecpmaf0817166.d.html</link>
+            <guid>3955984</guid>
+            <pubDate>Wed, 01 Jan 2025 21:16:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【洪都拉斯总统：若特朗普大规模驱逐该国移民 或要求美国撤军】当地时间1月1日，洪都拉斯总统希奥玛拉·卡斯特罗在面向全国的电视讲话中警告称，如果美国当选总统特朗普大规模驱逐洪都拉斯移民，洪都拉斯或要求美国撤离在洪都拉斯境内的军事力量。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-02/detail-inecpmap2775039.d.html</link>
+            <guid>3955983</guid>
+            <pubDate>Wed, 01 Jan 2025 21:13:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：马斯克将其在X平台的网名更改回其原英文名——Elon Musk。此前马斯克更改网名为Kekius Maximus，并更换了头像，引发相关meme币大涨。]]></title>
+            <guid>3955981</guid>
+            <pubDate>Wed, 01 Jan 2025 21:05:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国产高端机走俏 AI技术赋能 全球智能手机市场有望持续复苏】记者在深圳华强北调研发现，华为Pura70系列、Mate70系列、小米15系列等手机产品创新力十足，吸引消费者前来体验、购买。在华为、小米等厂商的带动下，国内智能手机市场需求向好。机构预测，2025年AI应用在手机端落地将成为新一轮换机周期的驱动力，全球智能手机市场有望持续温和复苏。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-02/detail-inecpmap2773728.d.html</link>
+            <guid>3955980</guid>
+            <pubDate>Wed, 01 Jan 2025 21:05:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【拜登：对汽车冲撞人群事件感到“愤怒和失望”】当地时间1月1日，美国总统拜登就路易斯安那州汽车撞人事件表示，他对这起袭击事件感到“愤怒和失望”。拜登称，他在清楚所有事件事实之前，不会就具体细节发表评论。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-02/detail-inecpmap2772337.d.html</link>
+            <guid>3955979</guid>
+            <pubDate>Wed, 01 Jan 2025 20:58:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：特斯拉CEO埃隆·马斯克：特斯拉高级团队正在调查拉斯维加斯Cybertruck爆炸事件。]]></title>
+            <guid>3955978</guid>
+            <pubDate>Wed, 01 Jan 2025 20:58:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中方35吨援助物资抵达瓦努阿图】中方派出的载有约35吨援助物资的专机当地时间1月2日抵达瓦努阿图首都维拉港国际机场。当天上午，中国驻瓦努阿图大使馆将在机场举行物资交接仪式。去年12月17日，南太平洋岛国瓦努阿图附近海域发生7.3级地震，首都维拉港震感强烈，部分建筑物损坏或倒塌。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-02/detail-inecpmap2770295.d.html</link>
+            <guid>3955977</guid>
+            <pubDate>Wed, 01 Jan 2025 20:47:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：官员表示，警方正将特朗普拉斯维加斯酒店门口一辆Cybertruck的爆炸事件视为可能的刑事或恐怖主义行为。]]></title>
+            <guid>3955974</guid>
+            <pubDate>Wed, 01 Jan 2025 20:25:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场资讯：新奥尔良袭击中使用的卡车发现装有管道炸弹，并连接了远程引爆装置。]]></title>
             <link>https://finance.sina.cn/7x24/2025-01-02/detail-inecpmam5990537.d.html</link>
@@ -45,7 +90,7 @@
             <pubDate>Wed, 01 Jan 2025 19:52:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【拉斯维加斯特朗普酒店外一辆Cybertruck发生爆炸，目前原因未知】美国拉斯维加斯警方表示，他们正在调查拉斯维加斯特朗普酒店大楼入口处的一辆特斯拉Cybertruck爆炸起火事件。警方已通知公众避开该区域。据一名官员称，司机将车停在酒店的代客泊车区，然后车辆发生爆炸。司机显然已经死亡，到目前为止，他是此次事件中唯一的伤亡者。调查人员尚不清楚爆炸原因，比如是车辆出了问题还是外部因素引发了爆炸。确定爆炸原因是调查的重点。]]></title>
+            <title><![CDATA[【美国拉斯维加斯特朗普国际酒店门前发生汽车爆炸事件 致1死7伤】当地时间1月1日，美国拉斯维加斯大都会警察局表示，警方正在对拉斯维加斯特朗普国际酒店门前发生的爆炸事件展开调查，并初步将其列为潜在的刑事案件或恐怖袭击。事件发生在酒店代客泊车区域，一辆特斯拉赛博皮卡突然发生爆炸。警方确认，驾驶员当场死亡，为此次事件的唯一死亡人员，另有7名旁观者轻伤。爆炸原因尚未查明，调查重点集中在是否为车辆故障引发，或是否存在人为动机。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2025-01-02/detail-inecpeur2890609.d.html</link>
             <guid>3955966</guid>
             <pubDate>Wed, 01 Jan 2025 19:51:22 GMT</pubDate>
@@ -121,7 +166,7 @@
             <pubDate>Wed, 01 Jan 2025 19:20:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国联邦调查局（FBI）：我们不认为嫌疑人是该事件的唯一责任人，正在积极追踪其他同伙的线索。]]></title>
+            <title><![CDATA[【美国汽车冲撞人群事件嫌疑人并非“单独作案”】美国联邦调查局当地时间1月1日就路易斯安那州撞人事件召开新闻发布会称，调查人员正在寻找所有可能与嫌疑人沙姆苏德·丁·贾巴尔合作策划或一起实施袭击事件的人员。调查人员不认为贾巴尔在这次袭击中是单独行动的，联邦调查局正在追查所有线索，包括已知的关联人员。调查人员表示，在嫌疑人车辆中发现了武器和潜在的简易爆炸装置，炸弹专家正在确认这些装置是否可用，并对其进行拆除处理。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2025-01-02/detail-inecpeur2882145.d.html</link>
             <guid>3955951</guid>
             <pubDate>Wed, 01 Jan 2025 19:11:35 GMT</pubDate>
@@ -249,53 +294,6 @@
             <link>https://finance.sina.cn/7x24/2025-01-02/detail-inecnynt2995686.d.html</link>
             <guid>3955923</guid>
             <pubDate>Wed, 01 Jan 2025 17:44:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拉斯维加斯特朗普酒店外一辆Cybertruck爆炸起火】周三早上，一辆特斯拉Cybertruck在内华达州拉斯维加斯的特朗普国际酒店外爆炸。随后该车在酒店大堂外被大火吞没。目前尚不清楚起火原因，也不清楚是否有人受伤。拉斯维加斯大都会警察局表示，他们正在“调查”，大火已被扑灭。]]></title>
-            <guid>3955922</guid>
-            <pubDate>Wed, 01 Jan 2025 17:41:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马斯克“改名”引爆泼天富贵 神秘交易员两天狂赚上千万】去年最后一天说起。马斯克将自己的账号名字改成“Kekius Maximus”，同时把头像换成“穿着角斗士盔甲、拿着游戏手柄的佩佩青蛙”。综合各路解读，这个改名更多指向世界首富的“个人趣味”和政治表态。由于加密世界的钱包完全公开，网友们很快就发现，在马斯克改名8个小时前，有一个钱包以4360美元的总价购买了1815万个“Kekius Maximus币”。在世界首富的影响下，现在这些加密货币价值已经达到565万美元（约合人民币4123万元）。考虑到这类极端投机交易的性质，这名神秘交易员恐怕不会持有这些“表情包币”太长时间，但这一次操作至少能给他/她带来百万美元/千万人民币级别的收益。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-02/detail-inecnynp0494254.d.html</link>
-            <guid>3955921</guid>
-            <pubDate>Wed, 01 Jan 2025 17:38:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【跨境巴士不打烊 元旦假期这个口岸24小时通关】1月1日是元旦假期，前往香港和深圳两地的旅客持续增长。深圳湾口岸为了便利元旦假期旅客通关顺畅，从2024年12月31日开始到2025年1月1日，口岸临时实行24小时通关。截至1月1日14时，深圳湾口岸通关人数近5.8万人次，车辆超过5000辆。预估全天的通关旅客数量持续攀升。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-02/detail-inecnynp0493237.d.html</link>
-            <guid>3955920</guid>
-            <pubDate>Wed, 01 Jan 2025 17:26:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿曼外交部：坚定支持叙利亚人民意愿】阿曼外交部1月1日发表声明说，阿曼外交大臣巴德尔当天在与叙利亚过渡政府外交部长希巴尼通电话时重申，阿曼坚定支持叙利亚人民意愿。声明说，双方讨论了两国人民之间深厚而牢固的历史纽带，表示将继续推进两国兄弟般的合作关系，维护叙利亚及地区发展和稳定。巴德尔强调，必须维护叙利亚主权、统一和领土完整。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-02/detail-inecnynm1057508.d.html</link>
-            <guid>3955919</guid>
-            <pubDate>Wed, 01 Jan 2025 17:25:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗外交部负责国际事务的副部长阿巴迪表示，伊朗与三个欧洲国家之间关于核协议的新一轮磋商将于1月13日举行。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-02/detail-inecnynt2991424.d.html</link>
-            <guid>3955918</guid>
-            <pubDate>Wed, 01 Jan 2025 17:21:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[委内瑞拉总统马杜罗：2024年委内瑞拉GDP增长率将超过9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-02/detail-inecnynt2990193.d.html</link>
-            <guid>3955917</guid>
-            <pubDate>Wed, 01 Jan 2025 17:15:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波兰经济学家：能源危机影响本国经济发展】俄乌冲突后，波兰能源价格升高。波兰经济学家雷巴茨基认为，该国能源价格平均增加了约20%。能源危机严重影响了波兰的经济发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-02/detail-inecnynr6215265.d.html</link>
-            <guid>3955916</guid>
-            <pubDate>Wed, 01 Jan 2025 17:13:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美警方初步确认汽车撞人事件嫌疑人：42岁，不一定为美国公民】美国警方当地时间1月1日初步确认路易斯安那州汽车撞人事件的嫌疑人为42岁的沙姆苏德·丁·贾巴尔，目前没有确定他是否为美国公民。警方表示，这起事件的肇事车辆来自得克萨斯州，调查人员正在调查这辆车的车主，以确定是否有其他人协助嫌疑人作案。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-02/detail-inecnynt2989504.d.html</link>
-            <guid>3955915</guid>
-            <pubDate>Wed, 01 Jan 2025 17:11:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
