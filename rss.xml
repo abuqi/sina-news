@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 05 Jan 2025 16:23:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jan 2025 17:16:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【华融金租正式易主中信集团 中信金融资产120亿对价再出表一张金融牌照】宣布交易细节半年后，中信金融资产（原中国华融）近期完成了一笔价值120亿元的金融牌照转让。根据中信金融资产近日发布的公告，公司向中信集团转让华融金融租赁股份有限公司（下称“华融金租”）60%股份事项已经完成。此次交易完成后，中信金融资产持有华融金租约25.03亿股股份，占比19.92%，后者将成为公司的联营企业，不再是财务并表的附属公司。（第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-06/detail-inecxywn9139045.d.html</link>
+            <guid>3961486</guid>
+            <pubDate>Sun, 05 Jan 2025 16:35:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【瑞典挪威发布暴风雪警告 公共交通将受影响】当地时间1月5日，瑞典气象水文研究所发布暴风雪的橙色和黄色警告，预计暴风雪将于下周到来。瑞典交通管理局已进入国家紧急模式，并要求公众避免汽车和火车出行。挪威气象研究所当天也发布了暴风雪的橙色预警，适用于挪威南部和东部的部分地区。由于大雪和大风警告，6日和7日挪威东部的火车交通将减少。预计6日挪威东部部分地区将出现30至40厘米的降雪和强风。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-06/detail-inecxywm2362519.d.html</link>
+            <guid>3961485</guid>
+            <pubDate>Sun, 05 Jan 2025 16:26:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场资讯：英国监管机构仍在考虑亚马逊的Kuiper项目申请。]]></title>
             <link>https://finance.sina.cn/7x24/2025-01-06/detail-inecxywn9134980.d.html</link>
@@ -325,18 +337,6 @@
             <link>https://finance.sina.cn/7x24/2025-01-05/detail-inecxuqp2459771.d.html</link>
             <guid>3961434</guid>
             <pubDate>Sun, 05 Jan 2025 13:01:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【段永平：茅台价格下降不等于公司状况不好，其实好得很】1月5日，著名投资人段永平在浙江大学一场活动上表示，即使在经济不是那么好的情况下，好公司的小日子都过得还不错。“比如说腾讯、茅台，像我们公司，其实都挺好。茅台价格下降不等于它公司状况不好，其实好得很。酒其实还是买不到，我们有渠道购买他们的酒，给的量都很小”。（新浪科技）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-05/detail-inecxuqq9233507.d.html</link>
-            <guid>3961433</guid>
-            <pubDate>Sun, 05 Jan 2025 12:55:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：以色列摩萨德领导人预计将于明天飞往卡塔尔参加人质谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-05/detail-inecxqht3992682.d.html</link>
-            <guid>3961432</guid>
-            <pubDate>Sun, 05 Jan 2025 12:49:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
