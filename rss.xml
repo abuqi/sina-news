@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 25 Jan 2025 18:25:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jan 2025 19:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【联合国从刚果（金）戈马市转移非必要工作人员】联合国刚果（金）稳定特派团25日发表声明说，鉴于刚果（金）东部北基伍省安全局势恶化，决定暂时将联合国系统非必要工作人员从该省首府戈马市转移。声明说，鉴于北基伍省不断恶化的安全局势，联合国暂时将包括行政岗位人员和可远程工作人员等非必要人员从戈马市转移。涉及粮食援助分发、医疗援助等关键行动的人员将留在原地继续开展工作。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-26/detail-inehfpnq1112646.d.html</link>
+            <guid>3998127</guid>
+            <pubDate>Sat, 25 Jan 2025 18:55:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【阿富汗塔哈尔省发生磁力炸弹爆炸事件】当地时间25日，阿富汗塔哈尔省警察总部新闻办公室表示，该省当天有一名袭击者企图将磁力炸弹放置在军事车辆上，随后发生了爆炸。除袭击者外没有其他人受伤，军事车辆部分损毁。新闻办公室并未提及事件发生的具体地点。此前当地媒体报道称，当天下午，塔哈尔省省长办公室所在大楼前发生爆炸。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2025-01-26/detail-inehfpnt2825200.d.html</link>
@@ -291,12 +297,6 @@
             <title><![CDATA[【陈文清在春节安保工作会上和看望慰问基层干警时强调 坚决贯彻习近平总书记重要指示精神 确保人民群众度过欢乐平安祥和的新春佳节】中共中央政治局委员、中央政法委书记陈文清25日在春节安保工作会上和看望慰问基层政法干警时强调，要坚决贯彻习近平总书记关于做好春节工作重要指示精神，坚持以人民为中心，树牢底线思维，忠诚履职担当，高标准做好春节安保工作，确保人民群众度过欢乐平安祥和的新春佳节。中共中央书记处书记、公安部部长王小洪主持会议并参加慰问。（新华社）]]></title>
             <guid>3997832</guid>
             <pubDate>Sat, 25 Jan 2025 12:41:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【浙江义乌去年GDP2503.5亿元 同比增7.5%】24日晚，义乌官方披露该市2024年经济运行数据。2024年，浙江义乌实现地区生产总值(GDP)2503.5亿元(人民币，下同)，同比增长7.5%，增速位列浙江省“十七强”县(市、区)第一位。作为“世界小商品之都”，2024年，义乌市对外贸易增势强劲，实现进出口总额6689.3亿元，同比增长18.2%。其中，出口总额5889.6亿元，同比增长17.7%；进口总额799.7亿元，同比增长22.2%。 促进共同富裕方面，2024年，义乌全体居民人均可支配收入88048元，同比增长4.9%；城乡收入倍差为1.79，低于中国全国、浙江全省平均水平。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-25/detail-inehewqy0902781.d.html</link>
-            <guid>3997831</guid>
-            <pubDate>Sat, 25 Jan 2025 12:40:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
