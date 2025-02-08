@@ -4,11 +4,20 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 08 Feb 2025 19:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Feb 2025 20:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【四川筠连山体滑坡灾害原因公布 初步核查29人失联】2025年2月8日11时50分许，四川省宜宾市筠连县沐爱镇金坪村2组突发山体滑坡。今天（2月9日），四川省宜宾市召开新闻发布会，介绍救援最新进展。
+会上介绍，截至8日24时，已核实10户民房、1户生产用房被掩埋，已成功救出2名伤员，其中重伤1人、轻伤1人，集中收治在筠连县人民医院，均无生命危险。经初步核查，灾害造成29人失联，最终人数还在进一步核实中。
+初步研判，本次灾害因近期持续降雨及地质条件影响，造成高位山体滑坡转化为碎屑流，形成长约1.2公里的碎屑堆积体。滑坡体厚约10至20米，宽约100米，滑坡方量达到10万余方。目前，滑坡仍在持续。
+共转移受威胁群众200余人，在筠连县第二中学安置点集中安置155人，设立应急用餐点，调配30台应急发电机和100顶棉帐篷、400张救灾床、1100床棉被，全力保障转移群众用餐、住宿、取暖等基本生活需求。剩余群众通过投亲靠友，已得到妥善安置。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-09/detail-ineiviem8277349.d.html</link>
+            <guid>4020802</guid>
+            <pubDate>Sat, 08 Feb 2025 20:17:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【墨西哥东南部客车与货车相撞至少30人死亡】据墨西哥媒体8日报道，一辆客车当天凌晨在该国东南部一条公路上与一辆货车相撞，造成至少30人死亡。报道说，事故发生在墨西哥东南部坎佩切州与塔瓦斯科州交界处，当时一辆载有约40名乘客的客车与一辆逆行货车相撞并引发大火。事故造成至少30人死亡，另有10人受伤。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2025-02-09/detail-ineiviep1746302.d.html</link>
@@ -302,12 +311,6 @@
             <link>https://finance.sina.cn/7x24/2025-02-08/detail-ineiuwqu8711017.d.html</link>
             <guid>4020680</guid>
             <pubDate>Sat, 08 Feb 2025 13:46:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[黎巴嫩总统签署组建黎巴嫩新政府的法令。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-08/detail-ineiushw8841145.d.html</link>
-            <guid>4020679</guid>
-            <pubDate>Sat, 08 Feb 2025 13:43:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
