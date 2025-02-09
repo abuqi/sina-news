@@ -4,11 +4,56 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 09 Feb 2025 17:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Feb 2025 18:26:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【利比亚咨询委员会举行第一次会议】联合国利比亚支助团（联利支助团）近日宣布成立的咨询委员会9日在的黎波里举行第一次会议，讨论利比亚当前局势及举行大选所面临的相关问题。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-10/detail-ineixncs4783926.d.html</link>
+            <guid>4021304</guid>
+            <pubDate>Sun, 09 Feb 2025 18:23:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄称控制顿涅茨克地区一定居点 乌称在多个方向击退俄进攻】俄罗斯国防部9日发布战报称，过去一天中，俄军控制了顿涅茨克地区的奥列霍沃-瓦西列夫卡定居点。俄防空部队击落乌军90架无人机，拦截1枚美制“海马斯”火箭弹。同日，乌克兰武装部队总参谋部发布早间战况信息称，过去一天中，乌军袭击了俄军6处人员和武器装备集中区、2个雷达站及3门火炮。乌军在哈尔科夫、库皮扬斯克等方向击退俄军进攻。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-10/detail-ineixncx4614489.d.html</link>
+            <guid>4021303</guid>
+            <pubDate>Sun, 09 Feb 2025 18:23:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国最高金融监管机构暂停所有活动】当地时间2月9日获悉，美国白宫管理和预算办公室 (OMB) 主任罗素·沃特于8日晚间暂停了美国最高金融监管机构——消费者金融保护局（CFPB）的所有活动，其中包括停止CFPB对各金融公司的监管。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-10/detail-ineixncx4612984.d.html</link>
+            <guid>4021302</guid>
+            <pubDate>Sun, 09 Feb 2025 18:16:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[出口民调显示：科索沃执政党自决党（Vetevendosje）有望在议会选举中拔得头筹。]]></title>
+            <guid>4021295</guid>
+            <pubDate>Sun, 09 Feb 2025 18:06:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以总理办公室发言人：以代表团抵达多哈讨论加沙地带停火协议】当地时间2月9日，以色列总理办公室发言人奥默·多斯特里表示，一个以色列代表团已抵达卡塔尔首都多哈，就加沙地带停火协议进行讨论。多斯特里没有透露更多内容。多家以色列媒体2月8日报道称，一个以色列代表团将于当晚启程前往多哈，该代表团是一个工作组级别的团队，没有得到相应授权，不会就加沙地带停火协议第二阶段与相关方进行谈判。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-10/detail-ineixncs4779966.d.html</link>
+            <guid>4021270</guid>
+            <pubDate>Sun, 09 Feb 2025 17:40:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一周全球人工智能重点总结】上周OpenAI、谷歌、Anthropic 等公司纷纷发布重大更新，推出了新的人工智能模型、先进的研究工具以及极具变革性的功能。以下是你需要了解的内容。
+1、OpenAI 推出了深度研究（Deep Research），这是一款全新的 ChatGPT 工具，旨在实现复杂在线研究的自动化，并生成专家级别的报告。
+2、谷歌已正式发布 Gemini 2.0 Pro，这是其迄今为止最先进的人工智能模型。它具有 200 万个 token 的上下文窗口，可使用谷歌搜索工具，并具备内置代码执行功能。
+3、OpenAI 与软银达成合作，软银承诺每年投资 30 亿美元，以便在其各项业务中整合 OpenAI 的平台。
+4、Anthropic 发布了一篇论文及演示，向用户发起对其系统进行 “越狱” 的挑战，现提供高达 2 万美元的奖励。
+5、米斯特拉尔（Mistral）为其 “乐聊”（Le Chat）人工智能平台升级了强大的新功能。可直接在该平台上进行网页搜索、生成图像以及分析上传的文档。
+6、字节跳动推出了OmniHuman-1，这是一款先进的人工智能系统，仅需一张图片和一段音频，就能生成超逼真的深度视频。该系统基于 1.9 万小时的视频数据进行训练，能够精准地为各类对象赋予生动的动态效果，从卡通角色到复杂的人类动作，皆能栩栩如生地呈现。
+7、Pika 推出了 Pikadditions，该工具使用户能够将任何人或物体无缝添加到任何视频中，从而增加了创作的可能性。
+8、Replit 发布了一款全新的移动应用程序，用户借助该应用，能用简单的英文指令创建应用程序，这让编程变得更加人人可及。
+9、GitHub 为 GitHub Copilot 推出了 “智能助手模式”，使其成为一款对开发者而言更具交互性与主动性的人工智能助手。
+10、Hugging Face 推出了一个人工智能应用商店，该平台使用户能够轻松地发现和分享基于人工智能的应用程序。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-10/detail-ineixncx4603852.d.html</link>
+            <guid>4021269</guid>
+            <pubDate>Sun, 09 Feb 2025 17:39:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【月之暗面张予彤：AI一直过的是农历新年啊？】2月10日凌晨消息，“AI一直过的是农历新年啊？”月之暗面联合创始人张予彤发文称，每逢春节，AI的发展速度都远超想象。她表示，AI的热潮虽有起有落，但Kimi始终在进化，我们也要更勇敢地追逐梦想。AGI还有很多未经探索的可能性，只要我们朝着看似遥远却越发清晰的方向，偶尔进那么一小步。同时，她还配了张Kimi用户量的图示。该图显示，从大年初一起，Kimi的用户量持续飙升。根据1月份服务商QuestMobile发布的2024年中国AIGC应用发展年度报告显示，截至2024年12月，Kimi智能助手的月活跃用户规模为2101万‌‌。]]></title>
             <link>https://finance.sina.cn/7x24/2025-02-10/detail-ineixncv7821580.d.html</link>
@@ -287,42 +332,6 @@
             <link>https://finance.sina.cn/7x24/2025-02-09/detail-ineiwzqc4813427.d.html</link>
             <guid>4021201</guid>
             <pubDate>Sun, 09 Feb 2025 13:25:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日久光电：山东未来基金拟减持不超3%公司股份】日久光电(003015)2月9日晚间公告，持有公司3.83%股份的股东山东未来产业科技成果转化基金合伙企业（有限合伙）（简称“山东未来基金”）拟以集中竞价交易方式和大宗交易方式减持持有的公司股份不超过843.2万股，占公司总股本比例3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-09/detail-ineiwzqc4812361.d.html</link>
-            <guid>4021200</guid>
-            <pubDate>Sun, 09 Feb 2025 13:20:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【倍加洁：股东、董事及高级管理人员拟合计减持不超1.0114%公司股份】倍加洁(603059)2月9日晚间公告，持有7.4665%公司股份的扬州竟成拟通过集中竞价方式合计减持不超过62.5万股（占公司总股本的0.6222%）；持有4.4799%公司股份的扬州和成拟通过集中竞价方式合计减持不超过37.5万股（占公司总股本的0.3733%）；公司副总经理姜强拟通过集中竞价方式合计减持不超过7950股（占公司总股本的0.0079%）；董事、财务总监嵇玉芳拟通过集中竞价方式合计减持不超过4000股（占公司总股本的0.0040%）；董事、董事会秘书薛运普拟通过集中竞价方式合计减持不超过4000股（占公司总股本的0.0040%）。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-09/detail-ineiwzqc4811363.d.html</link>
-            <guid>4021199</guid>
-            <pubDate>Sun, 09 Feb 2025 13:15:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【本轮巴以冲突已致加沙地带48189人死亡】加沙地带卫生部门当地时间2月9日表示，过去24小时以军在加沙地带展开的军事行动导致8人死亡，2人受伤。自2023年10月7日新一轮巴以冲突爆发以来，以军在加沙地带的军事行动已导致48189名巴勒斯坦人死亡，111640人受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-09/detail-ineiwzpw5017270.d.html</link>
-            <guid>4021198</guid>
-            <pubDate>Sun, 09 Feb 2025 13:11:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深蓝汽车宣布接入DeepSeek】深蓝汽车CEO邓承浩今日在深蓝汽车全场景智能驾驶解决方案发布会上表示，深蓝车机系统DEEPAL OS 3已接入DeepSeek，预计一季度推送。（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-09/detail-ineiwzpw5017261.d.html</link>
-            <guid>4021197</guid>
-            <pubDate>Sun, 09 Feb 2025 13:11:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【超80.85亿 《哪吒2》进入全球票房榜前35】据网络平台数据，《哪吒之魔童闹海》累计票房（含预售）超80.85亿，成为首部进入全球票房榜前35亚洲电影。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-09/detail-ineiwzpy4452735.d.html</link>
-            <guid>4021196</guid>
-            <pubDate>Sun, 09 Feb 2025 13:11:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列陆军电台：以色列军队已在加沙协定的框架内完全撤出内扎里姆走廊。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-09/detail-ineiwzpz8034220.d.html</link>
-            <guid>4021195</guid>
-            <pubDate>Sun, 09 Feb 2025 13:03:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
