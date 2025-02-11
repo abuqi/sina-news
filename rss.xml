@@ -4,309 +4,303 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Tue, 11 Feb 2025 15:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Feb 2025 16:28:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[通用汽车CEO Mary Barra：公司能将美国总统特朗普关税政策的影响抵消掉一半。]]></title>
+            <guid>4024913</guid>
+            <pubDate>Tue, 11 Feb 2025 16:26:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧盟天然气期货冲高回落，跌超2%】 周二（2月11日）欧市尾盘，ICE英国天然气期货跌0.52%，报140.520便士/千卡，北京时间20:53曾涨至144.630便士。TTF基准荷兰天然气期货跌2.06%，报57.175欧元/兆瓦时，20:53曾涨至59.260欧元。对供应面的担忧情绪推动欧盟天然气价格上涨，但法国巴黎银行认为这样的恐慌情绪是没有根据的。ICE欧盟碳排放交易许可（期货价格）跌0.48%，报80.90欧元/吨，20:20曾涨至82.16欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-12/detail-inekctzs2940094.d.html</link>
+            <guid>4024912</guid>
+            <pubDate>Tue, 11 Feb 2025 16:25:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国、英国拒绝在人工智能峰会公报签字 万斯批评欧盟监管过严】法国主办的人工智能峰会最终公报呼吁加强人工智能的国际治理，但美国和英国等拒绝在公报上签字。公报发布前，美国副总统万斯在演讲中对欧盟在社交媒体平台和人工智能的严格监管表示强烈不满，称外国政府考虑拧紧美国科技公司的螺丝。英国首相斯塔默的发言人Dave Pares周二告诉记者，虽然英国在整个峰会期间与法国进行了“密切合作”，但“我们未能就领导人宣言的每个部分都达成一致”。这份由60个参与国家或组织签署的公报列出了几个优先事项，包括“加强国际合作，促进国际治理的协调”，确保人工智能向所有人开放等。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-12/detail-inekctzx3211414.d.html</link>
+            <guid>4024911</guid>
+            <pubDate>Tue, 11 Feb 2025 16:24:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【南亚股市｜印度中盘股指收跌超3%，卢比涨超0.7%，投资者猜测印度央行干预汇率的可能性】 周二（2月11日），印度国家证交所蓝筹股CNX Nifty指数收跌1.32%，印度中盘股指数收跌3.02%，标普BSE Sensex指数收跌1.32%，孟买证交所500指数收跌1.92%。印度卢比兑美元收涨0.74%，报86.83卢比，脱离2月10日所创历史新高87.95卢比。巴基斯坦卡拉奇证交所KSE 100指数收涨1.42%，报11.3万点；卡拉奇全部股价指数收涨1.18%，报70075.44点。孟加拉DSE广义指数收涨0.34%，斯里兰卡科伦坡全部股价指数收跌1.33%。]]></title>
+            <guid>4024910</guid>
+            <pubDate>Tue, 11 Feb 2025 16:21:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美防长：美国防支出应至少不低于GDP的3%】当地时间2月11日，美国国防部长海格塞斯在简报会中表示，美国当前需要比拜登政府时期在国防上投入更多资金，且国防支出应至少不低于国内生产总值（GDP）的3%。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-12/detail-inekctzv6435064.d.html</link>
+            <guid>4024909</guid>
+            <pubDate>Tue, 11 Feb 2025 16:20:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席鲍威尔：将努力理解新政策，在货币政策上做正确的事。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-12/detail-inekctzx3208508.d.html</link>
+            <guid>4024908</guid>
+            <pubDate>Tue, 11 Feb 2025 16:17:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2024年德国对美贸易顺差达约700亿欧元 创新高】据德国国家统计局当地时间2月11日公布的数据，2024年德国对美国的贸易顺差达约700亿欧元，创下新高。2024年德美双边贸易总额为2527亿欧元，其中德国对美出口额为1613亿欧元，同比增长2.2%，自美进口额为914亿欧元，同比下降3.4%。德国对美出口的主要产品为汽车和医药制品。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-12/detail-inekctzv6433897.d.html</link>
+            <guid>4024907</guid>
+            <pubDate>Tue, 11 Feb 2025 16:17:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫贸易顾问Navarro：美国钢铁行业现在处于“屈服”状态。美国的盟友们并没有遵守（美国的）贸易制度，而是滥用它们。]]></title>
+            <guid>4024905</guid>
+            <pubDate>Tue, 11 Feb 2025 16:15:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【韩国官员否认存在尹锡悦所称“选举舞弊”嫌疑】韩国宪法法院11日举行总统弹劾案第七次正式辩论。4名证人围绕宣布紧急戒严的程序合法性、选举舞弊指称等问题当庭作证，中央选举管理委员会事务总长金龙彬否认国会选举存在舞弊嫌疑。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-12/detail-inekctzx3206774.d.html</link>
+            <guid>4024904</guid>
+            <pubDate>Tue, 11 Feb 2025 16:13:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美总统特朗普称应该解散联邦紧急事务管理局】当地时间2月11日，美国总统特朗普在社交媒体发文称，联邦紧急事务管理局违抗命令，在民主党主政地区花费了数千万美元，却让北卡罗来纳州的民众陷入困境。目前，正在对此进行调查。特朗普称，拜登执政时期的联邦紧急事务管理局是“一场灾难”，联邦紧急事务管理局行动缓慢且完全无效，应该被解散。特朗普称，各州应自行处理风暴等灾害问题，这样能节省大量资金，更加高效。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-12/detail-inekctzv6431251.d.html</link>
+            <guid>4024903</guid>
+            <pubDate>Tue, 11 Feb 2025 16:11:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席鲍威尔：美联储没有权力拒绝消费者金融保护局的资金请求。法律规定非常明确，美联储仍然有义务向消费者金融保护局（CFPB）支付款项。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-12/detail-inekctzs2937258.d.html</link>
+            <guid>4024902</guid>
+            <pubDate>Tue, 11 Feb 2025 16:10:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国证交会代理主席：已向法院请求暂停对气候信息披露规则的诉讼挑战。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-12/detail-inekctzx3205005.d.html</link>
+            <guid>4024901</guid>
+            <pubDate>Tue, 11 Feb 2025 16:09:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大央行任命Michelle Alexopoulos为外部副行长。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-12/detail-inekctzu2372056.d.html</link>
+            <guid>4024900</guid>
+            <pubDate>Tue, 11 Feb 2025 16:06:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英特尔日内涨幅扩大至8%】英特尔日内涨幅扩大至8%，报21.36美元/股。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-12/detail-inekctzx3203928.d.html</link>
+            <guid>4024899</guid>
+            <pubDate>Tue, 11 Feb 2025 16:06:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高盛首席执行官Solomon：市场低估了公司的交易业务】 高盛集团首席执行官David Solomon称，投资者没有给予该投行市场业务足够的信任，该业务将从其不断扩大的业务范围中受益。这位首席执行官周二在瑞银主办的一个会议上表示，尽管出现季度波动，但从长远来看该行交易业务带来了稳定的增长。他表示，由于融资活动增加，推动了金融中介活动并巩固了客户对该行的依赖，这种潜力甚至更大。Solomon表示，“如果每个人都退一步，不再以季度为基础，而是以年为基础来看待它，那么它就是一个巨大的全球规模平台，拥有大量不同的业务。”]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-12/detail-inekctzv6428146.d.html</link>
+            <guid>4024898</guid>
+            <pubDate>Tue, 11 Feb 2025 16:04:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席鲍威尔：支持围绕稳定币建立监管框架。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-12/detail-inekctzx3201587.d.html</link>
+            <guid>4024897</guid>
+            <pubDate>Tue, 11 Feb 2025 16:03:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波音1月份交付了45架商业飞机，创下2023年以来单月交付量最高纪录。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-12/detail-inekctzx3200929.d.html</link>
+            <guid>4024896</guid>
+            <pubDate>Tue, 11 Feb 2025 16:02:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【哪吒之魔童闹海票房破90亿】 据猫眼专业版数据，电影《哪吒之魔童闹海》 上映15天， 总票房破90亿！]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-12/detail-inekctzv6426142.d.html</link>
+            <guid>4024895</guid>
+            <pubDate>Tue, 11 Feb 2025 16:01:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【鲍威尔：资产负债表仍在缩减】美联储主席鲍威尔表示，资产负债表仍在缩减，流动性仍然充足；将关注准备金市场的情况，当市场条件稍微超过‘充足’时，美联储将尝试停止资产负债表的缩减。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-12/detail-inekctzv6425579.d.html</link>
+            <guid>4024894</guid>
+            <pubDate>Tue, 11 Feb 2025 16:01:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【泽连斯基：乌克兰计划同俄罗斯互换部分领土】当地时间2月11日，乌克兰总统泽连斯基在接受媒体采访时表示，乌方计划利用已控制的俄罗斯库尔斯克州的部分地区交换部分被俄方控制的己方领土。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzu2369345.d.html</link>
+            <guid>4024893</guid>
+            <pubDate>Tue, 11 Feb 2025 15:59:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【可口可乐CEO称若铝关税生效就卖更多塑料瓶装饮料】可口可乐公司CEO詹姆斯·昆西（James Quincey）周二表示，如果特朗普的最新一波钢铁和铝关税生效，该公司将更多减少铝瓶包装、转而采用更多塑料瓶包装。昆西在公司的财报电话会议上表示：“这与我们围绕确保可负担性和确保消费者需求的战略有关，如果一种包装的投入成本有所增加，我们会继续提供其他包装形式的产品，这将使我们能够在可负担性领域竞争。比如说，如果铝罐变得更贵，我们可以更加重视PET（聚对苯二甲酸乙二醇酯，一种常用塑料）瓶等包装。”(环球市场播报)]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzx3199217.d.html</link>
+            <guid>4024892</guid>
+            <pubDate>Tue, 11 Feb 2025 15:58:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国央行行长贝利：经济增长与金融稳定并非此消彼长】英国央行行长安德鲁·贝利警告政界人士不要为了放松监管而放松监管，称经济增长与金融稳定之间“并非此消彼长”。他在芝加哥大学Booth商学院伦敦校区的演讲中警告说“反对监管的反应正在发生”，尤其是针对2008年金融危机的金融稳定对策。他说：“我们绝不能忘却持久的伤害。”]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzv6424206.d.html</link>
+            <guid>4024891</guid>
+            <pubDate>Tue, 11 Feb 2025 15:57:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国防部长淡化对马斯克审查的担忧，称五角大楼问题不像美国对外援助那么严重。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzv6424087.d.html</link>
+            <guid>4024890</guid>
+            <pubDate>Tue, 11 Feb 2025 15:56:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席鲍威尔：法律不允许总统罢免美联储理事。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzx3198171.d.html</link>
+            <guid>4024889</guid>
+            <pubDate>Tue, 11 Feb 2025 15:55:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eoin Dinsmore等高盛分析师指出：假设（特朗普在钢铝关税问题上）没有重大豁免，我们预计铝和钢关税将在很大程度上会被转嫁到美国价格之上。这项政策会影响美国进口铝的成本，但对伦敦金属交易所(LME)的价格没有直接影响。]]></title>
+            <guid>4024888</guid>
+            <pubDate>Tue, 11 Feb 2025 15:53:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【鲍威尔：关于关税政策 美联储不应发表评论】美联储主席鲍威尔表示，关于关税政策，美联储不应发表评论。并表示，仍然坚持之前的观点，即实施自由贸易的国家经济增长更快。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzx3197431.d.html</link>
+            <guid>4024886</guid>
+            <pubDate>Tue, 11 Feb 2025 15:52:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【铝市场进入新的动荡期，特朗普关税势将提高美国制造商成本】 全球铝市场正在进入一个新的动荡时期，交易员们急于评估特朗普领导下美国贸易保护主义抬头的潜在影响。据央视报道，2月10日美股盘后，特朗普下令对所有进口铝钢征收25%的关税，实际上强化了他在第一个总统任期内启动的贸易机制。这些措施给美国买家带来成本上升的威胁，并至少会在一定程度上改变国际贸易流向。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzs2932846.d.html</link>
+            <guid>4024885</guid>
+            <pubDate>Tue, 11 Feb 2025 15:52:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tempus AI（TEM）涨超13%，2025年迄今累计涨幅超过100%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzv6422353.d.html</link>
+            <guid>4024884</guid>
+            <pubDate>Tue, 11 Feb 2025 15:51:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席鲍威尔：我也对大量关于银行降级的报道感到不安。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzx3196305.d.html</link>
+            <guid>4024882</guid>
+            <pubDate>Tue, 11 Feb 2025 15:49:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[非洲股市｜周二（2月11日），南非富时/JSE非洲领先40可交易指数收跌0.20%，报79765.17点。]]></title>
+            <guid>4024881</guid>
+            <pubDate>Tue, 11 Feb 2025 15:49:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[希腊雅典证交所综合指数收跌0.19%，报1548.93点。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzx3196194.d.html</link>
+            <guid>4024880</guid>
+            <pubDate>Tue, 11 Feb 2025 15:49:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法庭文件显示：星巴克因被指在雇佣方面存在种族偏见而遭到美国密苏里州起诉。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzv6421357.d.html</link>
+            <guid>4024879</guid>
+            <pubDate>Tue, 11 Feb 2025 15:48:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【鲍威尔：美联储无法控制长期利率】美联储主席鲍威尔表示，美联储无法控制长期利率，长期利率由债券市场的供需关系决定；预算赤字和通胀预期的风险观点是长期利率上升的主要因素之一。即使利率下降，住房短缺依然存在。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzx3195507.d.html</link>
+            <guid>4024878</guid>
+            <pubDate>Tue, 11 Feb 2025 15:46:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳指转涨，美联储主席鲍威尔正出席美国参议院听证会。标普500指数和道指也回升至平盘附近。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzv6420719.d.html</link>
+            <guid>4024877</guid>
+            <pubDate>Tue, 11 Feb 2025 15:45:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【福特CEO称特朗普关税政策造成汽车行业“混乱”】福特汽车公司CEO吉姆-法利（Jim Farley）周二表示，特朗普的关税——无论是已经实施的还是刚刚威胁要实施的，都给美国汽车行业造成了“混乱”。这家美国第二大汽车制造商的CEO称，对进口钢铁和铝征收25%的关税、并威胁对墨西哥和加拿大进口商品征收相同高达25%的关税，都将给汽车行业“增加大量成本、造成极大的混乱”。法利周二在Wolfe Research投资会议上表示：“这就是我们现在正在处理的问题。”法利和即将上任的福特公司CFO雪莉-豪斯（Sherry House）表示，虽然该公司的大部分钢材和铝材都是在美国国内采购的，但是公司的许多供应商从国外采购此类材料，这可能会对成本产生影响。法利最担心的似乎是针对墨西哥和加拿大进口商品可能征收的关税，他表示，最早可能在3月1日生效的25%关税将是“毁灭性的”，并且“在美国工业中掀起一场我们从未见过的轩然大波”。(环球市场播报)]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzs2931789.d.html</link>
+            <guid>4024876</guid>
+            <pubDate>Tue, 11 Feb 2025 15:45:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席鲍威尔：高抵押贷款利率与美联储政策的关系较小，更多是与国债收益率相关。一旦我们下调利率，抵押贷款利率将会下降，但我不确定具体会在何时实现。]]></title>
+            <guid>4024875</guid>
+            <pubDate>Tue, 11 Feb 2025 15:44:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席鲍威尔表示，联邦储备系统并不对大银行中的货币转移等事务实施消费者保护，这属于消费者金融保护局的职责。]]></title>
+            <guid>4024874</guid>
+            <pubDate>Tue, 11 Feb 2025 15:43:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国际奥委会宣布推迟首届电竞奥运会】国际奥委会今天（2月11日）宣布，首届电竞奥运会将推迟至2027年在沙特阿拉伯利雅得举行，并将在今年启动奥运电竞赛事的资格赛。首届电竞奥运会将由国际奥委会与沙特奥委会和残奥委会合作承办。国际奥委会在2024年7月正式通过设立电竞奥运会的提案，原计划于2025年举行。（CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzv6418922.d.html</link>
+            <guid>4024873</guid>
+            <pubDate>Tue, 11 Feb 2025 15:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【鲍威尔：相信财政部支付系统是安全的】美联储主席鲍威尔表示，对财政部的支付不做任何判断，财政部的支付系统是安全的。将继续坚定致力于保障国债支付的安全。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzu2366124.d.html</link>
+            <guid>4024872</guid>
+            <pubDate>Tue, 11 Feb 2025 15:38:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[梅赛德斯在美国下令削减高达25%的成本。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzu2365947.d.html</link>
+            <guid>4024871</guid>
+            <pubDate>Tue, 11 Feb 2025 15:37:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【鲍威尔：致力于完成巴塞尔协议III的最终目标】美联储主席鲍威尔表示，致力于完成巴塞尔协议III的最终目标。关于巴塞尔协议III，正在等待美国货币监理署（OCC）和联邦存款保险公司（FDIC）的领导层到位，一旦他们到位，将与他们进行会谈。美联储可以相对快速地完成这一任务。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzx3191539.d.html</link>
+            <guid>4024869</guid>
+            <pubDate>Tue, 11 Feb 2025 15:35:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【OpenAI CEO：愿与中国合作，这很重要】 2月11日，在法国巴黎出席人工智能行动峰会的OpenAI首席执行官萨姆·奥尔特曼在回答现场记者提问时表示，“愿意在人工智能领域与中国合作，并将为此尽最大努力，因为这很重要。”（CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzx3191270.d.html</link>
+            <guid>4024868</guid>
+            <pubDate>Tue, 11 Feb 2025 15:34:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股跌幅收窄】 美股跌幅收窄，标普500指数、道琼斯工业平均指数和纳斯达克综合指数现均下跌0.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzx3191148.d.html</link>
+            <guid>4024867</guid>
+            <pubDate>Tue, 11 Feb 2025 15:34:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国土安全部：4名政府雇员因擅自为移民支付酒店费用被解雇】美国国土安全部当地时间2月11日表示，4名联邦紧急事务管理局雇员当天被解雇，原因是他们绕过领导层，擅自决定为纽约市的移民支付酒店费用。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzv6415022.d.html</link>
+            <guid>4024866</guid>
+            <pubDate>Tue, 11 Feb 2025 15:29:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【鲍威尔：没有任何联邦监管机构能够取代CFPB的工作】美联储主席鲍威尔表示，没有任何联邦监管机构能够取代美国消费者金融保护局（CFPB）的工作，如果CFPB关闭，消费者合规保护方面将出现空白。目前大型银行拥有所有监管机构，唯独没有消费者金融保护局（CFPB）；CFPB的任务是负责大型银行的消费者合规事务。针对小型州成员银行的消费者合规资质审查工作，美联储将照常进行；希望确保压力测试依然具有韧性。致力于与其他银行监管机构的新领导层合作，目前美国最大银行的资本水平大致合适。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzv6414873.d.html</link>
+            <guid>4024865</guid>
+            <pubDate>Tue, 11 Feb 2025 15:29:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【分析师：鲍威尔言论略微鹰派，美联储未来不太可能改变立场】有机构的美联储情绪模型将鲍威尔的言论评为略微鹰派，但在中性范围内。分析师Jersey和Hoffman表示，美联储发言人最近的态度表明，在接下来的几次会议上，美联储将保持“按兵不动”的政策立场，鲍威尔不太可能改变这一立场。他们表示：“我们不太可能从今天的国会证词中获得任何有关美联储反应功能的新信息或洞察，因为美联储可能至少在下次会议上按兵不动，而银行委员会的问题更倾向于政治声明，而不是货币政策问题。”]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzx3189065.d.html</link>
+            <guid>4024864</guid>
+            <pubDate>Tue, 11 Feb 2025 15:28:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿里巴巴美股涨2.3%，传与苹果合作】 2月11日晚间，阿里巴巴美股开盘股价上涨，现涨超2%。消息面上，传苹果已与阿里巴巴达成合作为中国的iPhone用户开发人工智能功能。记者向阿里巴巴询问，截至记者发稿，阿里方面未作回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzv6413972.d.html</link>
+            <guid>4024863</guid>
+            <pubDate>Tue, 11 Feb 2025 15:26:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【鲍威尔：将致力于终结 “去银行化” 相关事宜】美联储主席鲍威尔表示，将致力于终结 “去银行化” 相关事宜，承诺量身定制银行监管，努力避免银行承担过度负担。并表示，美联储在应对硅谷银行的倒闭方面已经采取了相当多的措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzu2363350.d.html</link>
+            <guid>4024862</guid>
+            <pubDate>Tue, 11 Feb 2025 15:25:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普盯上乌克兰矿产 美国财长贝森特将访问基辅】知情人士透露，美国财政部长斯科特·贝森特本周将造访基辅，为确保获得关键矿物进行初步谈判。贝森特将成为首位访问乌克兰的唐纳德·特朗普内阁成员。就在几天前，这位美国总统刚刚表示希望与基辅当局达成协议，以帮助乌克兰抵御俄罗斯入侵换取资源。白宫发言人不予置评。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzx3187890.d.html</link>
+            <guid>4024861</guid>
+            <pubDate>Tue, 11 Feb 2025 15:24:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[前特朗普顾问史蒂夫・班农在边境墙资金案认罪后，被判三年有条件释放，无需入狱。]]></title>
             <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzv6412952.d.html</link>
             <guid>4024860</guid>
             <pubDate>Tue, 11 Feb 2025 15:23:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI董事拉里·萨默斯表示尚未收到马斯克的报价。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzu2363060.d.html</link>
-            <guid>4024859</guid>
-            <pubDate>Tue, 11 Feb 2025 15:23:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟2024/25年大豆进口量为836万吨，而去年同期为757万吨；欧盟2024/25年棕榈油进口量为173万吨，而去年同期为218万吨；欧盟2024/25豆粕进口量为1166万吨，而去年同期为924万吨。]]></title>
-            <guid>4024858</guid>
-            <pubDate>Tue, 11 Feb 2025 15:21:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【鲍威尔：美联储继续减少证券持有量】美联储主席鲍威尔表示，美联储继续减少证券持有量。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzx3186199.d.html</link>
-            <guid>4024857</guid>
-            <pubDate>Tue, 11 Feb 2025 15:20:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元区STOXX 50指数日内涨幅达0.5%，报5386.10点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzx3186167.d.html</link>
-            <guid>4024856</guid>
-            <pubDate>Tue, 11 Feb 2025 15:20:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储主席讲话后，墨西哥比索收复失地，兑美元小幅走强 0.06%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzx3185166.d.html</link>
-            <guid>4024855</guid>
-            <pubDate>Tue, 11 Feb 2025 15:17:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【IBM首席执行官：“DeepSeek时刻”将有助于推动人工智能的采用】IBM首席执行官Arvind Krishna表示，继DeepSeek崛起之后，对开发人工智能(AI)模型成本的估算将有助于推动该技术的采用。“我们会发现，随着成本下降，使用将激增，”Krishna在迪拜举行的世界政府峰会上接受彭博电视采访时表示，“我认为这是一种验证 —— 我们一直认为不用花那么多钱来获得这些模型。”上个月，DeepSeek发布了一款AI模型，据称训练成本明显低于美国同行。这让投资者对大型科技公司在这项技术上的资本支出水平产生怀疑。分析师预计，AI模型成本降低可能有助于IBM等软件公司在更大范围内提供这些功能。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzs2925776.d.html</link>
-            <guid>4024854</guid>
-            <pubDate>Tue, 11 Feb 2025 15:16:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【高盛撤回IPO多元化承诺 美企缩减DEI计划趋势持续】 高盛撤回拒绝与董事会成员全是白人男性的公司开展IPO业务的承诺。这家华尔街大行曾有政策规定，美国和西欧企业如欲透过高盛上市，至少需拥有两名多元化董事会成员，其中一位必须是女性。这项政策最初于2020年实施，当时要求至少有一名多元化董事会成员。“由于与董事会多元化要求相关的法律发展，我们终止了正式的董事会多元化政策，”高盛发言人Tony Fratto表示。“我们仍然相信，成功的董事会受益于多元化的背景和观点，我们将鼓励他们采取这种方法。”]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzv6410065.d.html</link>
-            <guid>4024853</guid>
-            <pubDate>Tue, 11 Feb 2025 15:15:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英特尔涨超5%，最新处理器酷睿Ultra 9 275HX登顶跑分榜。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzx3184408.d.html</link>
-            <guid>4024852</guid>
-            <pubDate>Tue, 11 Feb 2025 15:15:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌能源部称扎波罗热核电站一条输电线遭袭受损】当地时间2月11日，乌克兰能源部通报称，由于遭俄军袭击，扎波罗热核电站的两条输电线中的一条受损，输电中断。目前，该核电站仅通过一条输电线与乌克兰电力系统相连。俄方对此暂无回应。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzv6409564.d.html</link>
-            <guid>4024850</guid>
-            <pubDate>Tue, 11 Feb 2025 15:14:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国消费者金融保护局执法与监管部门负责人宣布辞职。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzx3182739.d.html</link>
-            <guid>4024849</guid>
-            <pubDate>Tue, 11 Feb 2025 15:10:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美联储主席鲍威尔：美联储仍专注于实现双重任务目标】美联储主席鲍威尔表示，美联储仍然专注于实现其双重任务目标，即最大限度地就业和稳定的物价，以造福美国人民。经济总体强劲，在过去两年中朝着他们的目标取得了重大进展。劳动力市场状况已经从之前的过热状态冷却下来，并保持稳定。此外，尽管它仍然有些高，但通货膨胀率已经更接近美联储2%的长期目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzx3182561.d.html</link>
-            <guid>4024848</guid>
-            <pubDate>Tue, 11 Feb 2025 15:09:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prosus于2月3-7日回购1.893亿欧元股票，之前一周回购1.683亿欧元。Naspers同期回购14.450亿南非兰特股票，之前一周回购11.011亿兰特股票。]]></title>
-            <guid>4024847</guid>
-            <pubDate>Tue, 11 Feb 2025 15:09:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纽约检察官称，特朗普前顾问史蒂夫・班农将在边境墙筹款案中认罪。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzx3182147.d.html</link>
-            <guid>4024846</guid>
-            <pubDate>Tue, 11 Feb 2025 15:08:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【鲍威尔：美联储将在夏末前完成框架审查】美联储主席鲍威尔表示，美联储将在夏末前完成框架审查。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzs2923110.d.html</link>
-            <guid>4024845</guid>
-            <pubDate>Tue, 11 Feb 2025 15:04:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：众议院议长约翰逊周一在白宫与特斯拉CEO埃隆·马斯克会面。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzv6405312.d.html</link>
-            <guid>4024844</guid>
-            <pubDate>Tue, 11 Feb 2025 15:03:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国债收益率在美联储主席鲍威尔的讲话后适度上涨，10年期国债收益率上升3.6个基点，报4.531%。美元指数DXY短线波动不大，现报108.15。]]></title>
-            <guid>4024843</guid>
-            <pubDate>Tue, 11 Feb 2025 15:02:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大商所、郑商所夜盘收盘 烧碱跌超2%】大商所、郑商所夜盘收盘，互有涨跌。烧碱跌超2%，焦煤、豆一等跌超1%，甲醇、焦炭等小幅下跌；白糖、棕榈油等小幅上涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzs2922163.d.html</link>
-            <guid>4024842</guid>
-            <pubDate>Tue, 11 Feb 2025 15:00:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美联储主席鲍威尔重申无需急于调整利率 通胀目标仍将保持在2%】美联储主席鲍威尔出席参议院金融、住房和城市事务委员会听证会。鲍威尔重申无需急于调整利率。通胀目标仍将保持在2%，如果经济持续强劲且通胀未向2%靠拢，则可以在更长时间内维持政策的谨慎；如果劳动力市场意外走弱或通胀降幅超出预期，政策可以适度放松。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzx3178839.d.html</link>
-            <guid>4024841</guid>
-            <pubDate>Tue, 11 Feb 2025 15:00:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【万国数据一度涨超16% 创逾两年半新高 消息称其拟分拆国际业务在美IPO】万国数据(GDS.US)盘初一度涨超16%，最高触及33.99美元，创2022年7月以来新高。有媒体援引知情人士透露，万国数据控股有限公司正考虑將GDS International (GDSI)业务在美国进行首次公开招股(IPO)，筹集约5亿美元。知情人士称，这家数据中心运营商可能会尝试最早今年让GDSI挂牌上市。相关工作仍在进行之中，最终未必会推进交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzs2921875.d.html</link>
-            <guid>4024840</guid>
-            <pubDate>Tue, 11 Feb 2025 14:58:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【主力资金连续5日净流入83股】据数据宝，截至2月11日收盘，深沪北共83只个股连续5日或5日以上主力资金净流入。浙江力诺连续24日主力资金净流入，排名第一；华锐精密等连续10日主力资金净流入，位列第二。从主力资金净流入总规模来看，拓维信息主力资金净流入金额最大，连续5天累计净流入23.93亿元，联创电子紧随其后，7天累计净流入8.99亿元。从主力资金净流入占成交额的比例来看，青云科技占比排名居首，该股近5日上涨148.81%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzv6403702.d.html</link>
-            <guid>4024839</guid>
-            <pubDate>Tue, 11 Feb 2025 14:58:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【辉隆股份：目前农事服务中心已实现盈利】辉隆股份近日在电话会议中表示，目前，农事服务中心已实现盈利，发展态势良好。]]></title>
-            <guid>4024838</guid>
-            <pubDate>Tue, 11 Feb 2025 14:57:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【包钢股份首批厚规格高端容器钢板完成交付】 近日，包钢股份首次批量生产的高端厚规格正火压力容器钢板完成交付，将发往华北地区某企业用于制造液态二氧化碳储罐。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzx3178108.d.html</link>
-            <guid>4024837</guid>
-            <pubDate>Tue, 11 Feb 2025 14:57:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳市低能见度提示】受加大的偏南气流和降雨影响，预计今天夜间至明天早晨有轻雾，能见度下降，雨时能见度降至2-3公里，部分地区降至1公里以下，请关注低能见度对海陆交通的影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzv6402606.d.html</link>
-            <guid>4024836</guid>
-            <pubDate>Tue, 11 Feb 2025 14:55:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部长贝森将访问基辅。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzv6402329.d.html</link>
-            <guid>4024835</guid>
-            <pubDate>Tue, 11 Feb 2025 14:54:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富时A50夜期转而涨超0.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzu2356412.d.html</link>
-            <guid>4024834</guid>
-            <pubDate>Tue, 11 Feb 2025 14:53:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【头部基金争相布局DeepSeek，开启智能投研新纪元】农历新年过后，多家基金公司接入DeepSeek系列开源模型。近日，又有兴证全球、招商、万家、诺安、兴业、海富通等基金公司宣布完成DeepSeek系统开源模型的私有化部署，全面赋能投资研究、交易、风控、客户服务、日常办公等各个环节。多位业内人士表示，由于金融行业数据敏感，不能通过互联网传输，引入DeepSeek等开源模型后，基金行业可以通过构建私有化垂直领域的AI模型，形成标准化的AI解决方案，提升整体运行效率，推动行业朝智能化方向迈进，进而为客户提供更优质的财富管理服务。（中国基金报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzx3176647.d.html</link>
-            <guid>4024833</guid>
-            <pubDate>Tue, 11 Feb 2025 14:53:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国五位前财长警告：特朗普和马斯克或破坏财政承诺】据《纽约时报》10日报道，当天，美国5名前财政部长联名致信媒体警告称，美国总统特朗普政府官员和美国企业家马斯克的“政府效率部”近期在财政部采取一连串行动，令人“严重担忧”美国的财政承诺遭到“非法”破坏。据报道，这5名前财长分别为罗伯特·鲁宾、劳伦斯·萨默斯、蒂莫西·盖特纳、雅各布·卢和珍妮特·耶伦，值得注意的是，他们都曾在民主党总统手下任职。这些前财长联合发文称，“我们在财政部任职期间，曾面临危机时刻，当时美国债务违约的阴影笼罩着我们。而任何对国会授权支付的选择性暂停的迹象，都是对信任的背叛，最终也是一种违约的表现，都会被视为对美国政府信誉的破坏。”他们指出：“没有任何一位财政部长在上任的头几周，应该被置于一个需要向国家和世界保证我们支付系统的诚信或我们履行财政义务承诺的境地。”对于这些警告，白宫国家经济委员会主任凯文·哈塞特在美国消费者新闻与商业频道(CNBC)接受采访时驳斥了这些前财长的忧虑。哈塞特指出，现任财政部长斯科特·贝森特认为上一届政府对支出的控制不可接受。“他们向外发钱，却不知道去了哪里。他们向外发钱，却没标注做什么用。他们没查核钱是否被挪用就发出去……我们检查时发现很多不该发出去的钱。”哈塞特还表示，关于马斯克在财政部担任“傀儡大师”的说法是一派胡言。“马斯克就在我隔壁办公室，他并没有掌控一切。”（中新网）]]></title>
-            <guid>4024832</guid>
-            <pubDate>Tue, 11 Feb 2025 14:52:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2024年中国物流业总收入13.8万亿元】中国物流与采购联合会11日发布数据显示，2024年中国物流市场规模保持平稳增长，全年物流业总收入13.8万亿元(人民币，下同)，同比增长4.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzv6400869.d.html</link>
-            <guid>4024831</guid>
-            <pubDate>Tue, 11 Feb 2025 14:50:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士：俄罗斯萨拉托夫石油炼油厂因安全原因在无人机袭击后暂停运营，炼油厂的关键设备没有遭到损坏。]]></title>
-            <guid>4024830</guid>
-            <pubDate>Tue, 11 Feb 2025 14:49:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【圣湘生物传染病数智化系统正式接入DeepSeek】2月11日，圣湘生物自研平台“传染病数智化系统”正式接入DeepSeek-R1模型，进一步增强数智化系统检索和数据挖掘能力，提高传染病数智化系统管理效率，赋能各项AI+医疗业务场景，助力医疗AI新质生产力。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzu2355419.d.html</link>
-            <guid>4024829</guid>
-            <pubDate>Tue, 11 Feb 2025 14:49:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【柬埔寨首相访菲签署八项合作文件】柬埔寨首相洪玛奈当地时间10日至11日对菲律宾进行为期两天的正式访问，其间与菲总统马科斯举行双边会谈，并签署八项合作文件。 在双边会晤中，柬菲领导人一致同意继续推动两国关系并加强双边合作。 据柬新社报道，此次签署的八项合作文件涵盖多个领域，包括避免双重征税、投资合作、文化遗产保护、农业合作、竞争法实施、旅游合作、职业技术教育以及数字化转型等。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzx3174891.d.html</link>
-            <guid>4024828</guid>
-            <pubDate>Tue, 11 Feb 2025 14:48:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高盛和软银支持的人工智能（AI）初创公司Tines按11.3亿美元估值融资1.25亿美元。]]></title>
-            <guid>4024827</guid>
-            <pubDate>Tue, 11 Feb 2025 14:48:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【联想集团携手IBM共同打造人工智能解决方案】 记者获悉，近日，中东地区最大规模的科技盛会沙特阿拉伯电子科技及信息技术展（LEAP）在沙特阿拉伯首都利雅得开幕。联想集团携多项前沿技术成果亮相LEAP2025。展会期间，联想集团还与IBM正式宣布一项扩大战略技术合作伙伴关系的计划，将共同打造由IBM watsonx人工智能产品组合技术构成的人工智能解决方案。该方案整合了沙特数据和人工智能管理局（SDAIA）开源阿拉伯语大型语言模型（ALLaM）以及联想的先进基础设施。这些创新解决方案预计将助力沙特政府及企业客户加速人工智能的应用。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzv6399638.d.html</link>
-            <guid>4024826</guid>
-            <pubDate>Tue, 11 Feb 2025 14:47:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士称，英国石油公司在未能实现2024年财务目标后，将高级领导奖金削减至45%。]]></title>
-            <guid>4024825</guid>
-            <pubDate>Tue, 11 Feb 2025 14:45:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果涨幅扩大至1%。消息面上，公司与阿里巴巴合作为中国iPhone用户开发人工智能功能。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzu2354569.d.html</link>
-            <guid>4024824</guid>
-            <pubDate>Tue, 11 Feb 2025 14:45:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Phillips66涨4.2% 激进投资者Elliott计划推动运营变革】Phillips66(PSX.US)涨4.2%，报128.91美元。有知情人士称，激进投资者Elliott Investment Management持有美国炼油商Phillips66超过25亿美元的股份，并计划推动运营变革以提高其股价。Elliott计划推动Phillips66出售或分拆其中游业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzs2919030.d.html</link>
-            <guid>4024823</guid>
-            <pubDate>Tue, 11 Feb 2025 14:45:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通首席财务官表示，董事会正在一如既往地公平、专注地考虑继任计划。存款增长可能会出现适度回升。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzx3173077.d.html</link>
-            <guid>4024822</guid>
-            <pubDate>Tue, 11 Feb 2025 14:44:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华大智造实验室自动化业务焕新上线】 近日，华大智造宣布正式将AI人工智能技术全面融入生命科技工具领域，实验室智能自动化GLI业务（Generative Lab Intelligence，简称“GLI业务”）全新升级上线。当前，GLI业务成果已经在包括在北京脑所基因组学中心、上海交通大学等实验室中得到应用。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzx3172918.d.html</link>
-            <guid>4024821</guid>
-            <pubDate>Tue, 11 Feb 2025 14:44:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【OpenAI首席执行官：“愿在人工智能领域与中国合作”】美国企业家埃隆·马斯克等投资人当地时间2月10日提议“以974亿美元竞购”由其参与创建的美国开放人工智能研究中心（OpenAI）的非营利性母公司。对此，今天（2月11日）在法国巴黎出席人工智能行动峰会的OpenAI首席执行官萨姆·奥尔特曼在回答现场记者提问时再次强调“公司不卖”，并表示，“如果马斯克愿意谈”，那么他将“很乐意收购推特（即社交媒体平台X）”。奥尔特曼还表示，“愿意在人工智能领域与中国合作，并将为此尽最大努力，因为这很重要。”（CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzu2353651.d.html</link>
-            <guid>4024820</guid>
-            <pubDate>Tue, 11 Feb 2025 14:43:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯紧急情况部：俄罗斯军队在库尔斯克地区摧毁了法国“头皮”导弹。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzx3172080.d.html</link>
-            <guid>4024819</guid>
-            <pubDate>Tue, 11 Feb 2025 14:42:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[菲利普斯66股价上涨4%，此前有报道称艾略特投资管理公司增持该公司股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzs2917892.d.html</link>
-            <guid>4024818</guid>
-            <pubDate>Tue, 11 Feb 2025 14:41:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【机构今日看好这些个股】2月11日，截至发稿，机构共给出24次最新买入评级，其中7只个股目标价获公布：-苏州银行获华泰证券、中信建投等3家机构看好，最高目标价为9.40元；-韦尔股份获瑞银证券青睐，目标价为142.00元；-比亚迪、中控技术、京东方A等多股在列。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzv6396850.d.html</link>
-            <guid>4024817</guid>
-            <pubDate>Tue, 11 Feb 2025 14:40:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[万国数据在美股上涨15%，创2022年6月以来新高，消息称其拟分拆国际业务在美IPO。]]></title>
-            <guid>4024816</guid>
-            <pubDate>Tue, 11 Feb 2025 14:40:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【凯投宏观：美国贸易的不确定性将使美联储保持警惕】凯投宏观首席经济学家Neil Shearing表示，特朗普领导下的美国贸易政策的相关不确定性将对现实世界产生影响，这在美联储身上体现得最为明显。他在一份报告中说，美联储可能会面临百年一遇的关税价格冲击，也可能是雷声大雨点小的情况。不过，这种不确定性可能足以让美联储官员在未来几个月保持观望。他表示，如果最终实施高关税，那么随之而来的通胀上升将阻止2025年剩余时间内进一步放松政策。Shearing称，“很多事情都取决于一个人的心血来潮。”]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzu2352910.d.html</link>
-            <guid>4024815</guid>
-            <pubDate>Tue, 11 Feb 2025 14:39:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【航天长峰：朝阳市电源有限公司拟减持不超0.7470%公司股份】 航天长峰公告，朝阳市电源有限公司因经营需要，拟从2025年3月6日至2025年6月5日期间，通过大宗交易方式减持不超过350万股北京航天长峰股份有限公司股份，占公司总股本的0.7470%，减持价格按市场价格确定。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzu2352537.d.html</link>
-            <guid>4024814</guid>
-            <pubDate>Tue, 11 Feb 2025 14:38:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[行业ETF美股盘初普跌，生物科技指数ETF跌1.23%，区域银行ETF、银行业ETF、金融业ETF至多跌0.8%，半导体ETF跌0.69%，可选消费ETF跌0.54%，网络股指数ETF跌超0.5%，全球科技股指数ETF跌0.38%，科技行业ETF跌0.21%，能源业ETF则涨0.3%。]]></title>
-            <guid>4024813</guid>
-            <pubDate>Tue, 11 Feb 2025 14:37:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股部分AI应用股盘初冲高，Tempus AI涨近6%，Shopify绩后涨近5%，MongoDB涨近2%，Palantir涨逾1%。]]></title>
-            <guid>4024812</guid>
-            <pubDate>Tue, 11 Feb 2025 14:37:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【墨西哥经济部长：美加征钢铝关税是“没有道理的昏招”】当地时间2月11日，墨西哥经济部长埃布拉德在回应美国政府对全球钢铁和铝加征关税时表示，墨西哥是美国钢铁出口的主要目的地，相比出口美国，墨西哥从美国进口钢材和铝制品更多。加征关税是“没有道理的昏招”。埃布拉德宣布将在下周与美商务部长就钢铁和铝关税进行磋商。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzu2352234.d.html</link>
-            <guid>4024811</guid>
-            <pubDate>Tue, 11 Feb 2025 14:37:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【公司互动丨这些公司披露在与DeepSeek合作、汽车等方面最新情况】2月11日，多家上市公司通过互动平台、披露投资者关系活动记录表等渠道披露公司在与DeepSeek合作、汽车等方面最新情况：
-【DeepSeek概念】南凌科技：目前已接入DeepSeek大模型，赋能SASE服务
-东方通：公司产品已完成DeepSeek适配能科科技：公司构建的AI Agent能与DeepSeek进行适配
-科远智慧：公司正在考虑接入Deepseek华策影视：公司未投资DeepSeek
-慧博云通：与深度求索目前没有直接的业务合作
-【汽车】金固股份：比亚迪是公司重点客户之一，阿凡达铌微合金车轮为其多款车型配套
-【消费电子】钧崴电子：已进入小米供应链，主营产品已用于小米的可穿戴设备中
-【机器人】沃尔核材：机器人线、电子线、信号线等电线产品可应用于机器人的动力传输、通信传输领域
-【其他】飞凯材料：正积极配合下游客户开发TGV封装湿化学品
-彩讯股份：公司与阿里在数据业务方面有部分合作
-汉仪股份：与电影《哪吒之魔童闹海》推出系列主题装扮]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-11/detail-inekctzu2352148.d.html</link>
-            <guid>4024810</guid>
-            <pubDate>Tue, 11 Feb 2025 14:36:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
