@@ -4,13 +4,283 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Fri, 14 Feb 2025 15:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 16:25:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[俄罗斯天然气工业股份公司：2024年净利润为4795亿卢布。]]></title>
+            <title><![CDATA[【欧洲央行管委Knot：全球合作的终结将造成高昂的代价】欧洲央行管委Klaas Knot表示，世界经济秩序的分裂对增长和金融稳定构成的威胁日益加剧。他敦促各国政府和货币机构继续合作，以防全球环境进一步恶化。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-15/detail-ineknrnw6405592.d.html</link>
+            <guid>4031061</guid>
+            <pubDate>Fri, 14 Feb 2025 16:20:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚特兰大联储GDPNow模型预计2025年美国第一季度GDP增速为2.3%，此前预计为2.9%。]]></title>
+            <guid>4031060</guid>
+            <pubDate>Fri, 14 Feb 2025 16:20:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普和印度总理莫迪启动美印协议倡议。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-15/detail-ineknrnz7628293.d.html</link>
+            <guid>4031059</guid>
+            <pubDate>Fri, 14 Feb 2025 16:20:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西总统卢拉：我认为美国总统特朗普不会出席在巴西举行的COP 30会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-15/detail-ineknrnz7628251.d.html</link>
+            <guid>4031058</guid>
+            <pubDate>Fri, 14 Feb 2025 16:20:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国1月工业产值超预期 寒冷天气提振公用事业】美国1月工业产值增幅超过预期，得益于寒冷天气推动公用事业产值增长，而汽车产出的大幅下降抑制了制造业产值。美联储周五公布的数据显示，1月的制造业、矿业和公用事业产值增长0.5%，前月数据上修为增长1%。彭博调查的经济学家预估中值为增长0.3%。制造业产值下滑0.1%，因为汽车生产为三个月来最弱水平。剔除汽车的制造业产值1月增长0.2%。公用事业产值跃升7.2%，为三年来最大涨幅，而采矿业产值下降1.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-15/detail-ineknrny0853483.d.html</link>
+            <guid>4031057</guid>
+            <pubDate>Fri, 14 Feb 2025 16:19:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽元兑美元涨超1%，现报0.5732。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-15/detail-ineknrnz7627347.d.html</link>
+            <guid>4031056</guid>
+            <pubDate>Fri, 14 Feb 2025 16:16:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧盟称特朗普关税措施不合理 将坚定并立即做出回应】欧盟执委会周五表示，将“坚定并立即”回应美国总统特朗普提出的“对等”贸易政策导致的关税增加，并称该政策不合理，是朝着错误方向迈出的一步。欧盟委员会在一份声明中表示：“欧盟保持着世界上最低的一些关税，美国没有理由提高对欧盟出口产品的关税。”欧盟执委会表示，超过70%的进口产品都是免关税进入欧盟的。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-15/detail-ineknrny0852626.d.html</link>
+            <guid>4031055</guid>
+            <pubDate>Fri, 14 Feb 2025 16:15:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[当地时间2月14日，《哪吒2》在加拿大正式上映。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-15/detail-ineknrnw6404896.d.html</link>
+            <guid>4031054</guid>
+            <pubDate>Fri, 14 Feb 2025 16:15:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗集团探索新增加密数字货币托管服务。道富银行将于2026年推出数字资产托管（服务）。]]></title>
+            <guid>4031053</guid>
+            <pubDate>Fri, 14 Feb 2025 16:15:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[秘鲁2024年锌产量130万吨，同比下降13.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-15/detail-ineknrny0850289.d.html</link>
+            <guid>4031052</guid>
+            <pubDate>Fri, 14 Feb 2025 16:07:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[秘鲁2024年铜产量270万吨，较之前一年下降0.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-15/detail-ineknrnz7624358.d.html</link>
+            <guid>4031051</guid>
+            <pubDate>Fri, 14 Feb 2025 16:05:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[当地时间2月14日，《哪吒2》正式在美国多地影院上映。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-15/detail-ineknrnw6402994.d.html</link>
+            <guid>4031050</guid>
+            <pubDate>Fri, 14 Feb 2025 16:04:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【沙特对可能在该国举行的美俄两国总统峰会表示欢迎】当地时间2月14日，沙特外交部发表声明称，沙特对此前美国总统特朗普表示可能在沙特举行美俄两国总统峰会表示欢迎。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-15/detail-ineknrny0849031.d.html</link>
+            <guid>4031049</guid>
+            <pubDate>Fri, 14 Feb 2025 16:03:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[黑石集团正考虑以20亿美元出售天然气勘探公司奥林巴斯。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-15/detail-ineknrny0848249.d.html</link>
+            <guid>4031048</guid>
+            <pubDate>Fri, 14 Feb 2025 16:01:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据猫眼专业版数据，电影《哪吒之魔童闹海 》上映18天， 总票房连破105亿、106亿。]]></title>
+            <guid>4031047</guid>
+            <pubDate>Fri, 14 Feb 2025 16:00:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Meta计划大举投资AI人形机器人】扎克伯格旗下Meta Platforms(META.O)计划大举投资AI人形机器人。Meta已经在Reality Labs内组建一个新的团队。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-15/detail-ineknrny0847974.d.html</link>
+            <guid>4031046</guid>
+            <pubDate>Fri, 14 Feb 2025 16:00:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其外交消息人士：土耳其外长与美国国务卿在慕尼黑的会议上讨论了国防工业、双边关系以及叙利亚、加沙和乌克兰的局势。]]></title>
+            <guid>4031045</guid>
+            <pubDate>Fri, 14 Feb 2025 16:00:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【省钱省心又能为简历增色 美国学生掀起欧洲留学热】随着美国顶尖大学教育的价格逼近六位数，越来越多的学生开始收拾行囊寻求更划算的选择。欧洲大学通常收取较低的学费，并且不到四年就可以提供学位，这进一步节省了成本。在英国，过去十年中来自美国学生的申请数量增加了一倍。在荷兰，过去五年中来自美国学生的申请数量也增长了近50%。咨询公司称，西班牙和法国大学也收到了更多的申请。对于一些家庭来说，送孩子去欧洲上学有文化上的吸引力，可以为自己的简历增光添彩。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknrny0847846.d.html</link>
+            <guid>4031044</guid>
+            <pubDate>Fri, 14 Feb 2025 15:59:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿里巴巴1个月累涨50% 小摩指三大因素推动进一步上升】周五，阿里巴巴涨超2%，1个月累涨50%，现报122.27美元。消息面上，小摩指出，有3大因素推动阿里巴巴股价进一步上升，包括对作为中国云市场一级资产的阿里云进行估值重估，人工智能功能消费增加推动云收入估算正面修订，以及中国电商盈利估算的正面修订。该行仍视阿里巴巴为中国互联网股首选。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknrny0847568.d.html</link>
+            <guid>4031043</guid>
+            <pubDate>Fri, 14 Feb 2025 15:57:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[斯洛伐克下调2025年GDP预测，下调通胀预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknrnz7621479.d.html</link>
+            <guid>4031042</guid>
+            <pubDate>Fri, 14 Feb 2025 15:55:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[冰岛政府：计划在未来几个月通过公开招标出售在冰岛国民银行42.5%的股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknrny0846493.d.html</link>
+            <guid>4031041</guid>
+            <pubDate>Fri, 14 Feb 2025 15:52:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美欧围绕俄乌问题及国防开支分歧加深】北约国防部长会议2月13日在比利时布鲁塞尔召开。这次会议正值美国总统特朗普和俄罗斯总统普京前一天通话讨论乌克兰危机之后。美国在没有欧洲及乌克兰参与的情况下“单方面”与俄对话、寻求签署俄乌和平协议，以及执意要求北约成员国提高国防支出的表态，都令美国的跨大西洋盟友心生罅隙。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknrnu6964279.d.html</link>
+            <guid>4031040</guid>
+            <pubDate>Fri, 14 Feb 2025 15:49:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CBOT小麦期货日内涨幅达3.5%，报612.75美分/蒲式耳。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknrnz7620420.d.html</link>
+            <guid>4031039</guid>
+            <pubDate>Fri, 14 Feb 2025 15:48:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【长安汽车：已完成Deepseek深度融合，并全面推送到长安启源E07车机】有投资者在互动平台向长安汽车提问：最近DeepSeeK很火实际下载体验也很好，公司有没有考虑把DeepSeeK软件整合到公司旗下汽车上。公司回答：长安汽车已完成Deepseek深度融合，助力北斗天枢2.0计划加速落地。长安启源E07已深度融合DeepSeek并全面推送车机，欢迎各位投资者试驾体验；深蓝汽车DEEPAL OS 3.0即将接入DeepSeek，将陆续进行OTA。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknrnu6964039.d.html</link>
+            <guid>4031038</guid>
+            <pubDate>Fri, 14 Feb 2025 15:48:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【分析师：加央行与美联储的分歧或令加元承压】Convera的分析师在一份报告中表示，加拿大央行比美联储更激进的降息周期应该会在短期内对加元构成压力。他们表示，在加拿大央行的宽松政策结束后，加元应该会保持结构性疲软，利率降幅预计将超过美联储。此外，贸易关税的不确定性以及加拿大政府“没有强有力的领导人”意味着，单靠货币政策可能不足以提振消费和长期生产率。如果加拿大重新谈判美墨加协议而不影响关键服务，并且保守党的亲商议程生效，加元可能在下半年回升。如果全球经济增长改善，提振大宗商品价格，加元也可能得到支持。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknrnz7620203.d.html</link>
+            <guid>4031037</guid>
+            <pubDate>Fri, 14 Feb 2025 15:47:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【泽连斯基：只有在乌克兰与美国和欧洲达成共同计划后才会与普京会面】乌克兰总统泽连斯基周五表示，他唯一准备与之交谈的俄罗斯官员是总统普京，而且他只有在乌克兰与美国总统特朗普和欧洲领导人达成共同计划后才会这样做。泽连斯基在慕尼黑安全会议上发言时说，特朗普给了他私人电话号码，并告诉他可以随时打电话。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknrnw6399241.d.html</link>
+            <guid>4031036</guid>
+            <pubDate>Fri, 14 Feb 2025 15:46:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲议会官员：美国目前做法不恰当 可就“对等关税”进行谈判】欧洲议会国际贸易委员会主席贝恩德·朗格当地时间2月14日表示，欧盟可以与美国就“对等关税”政策进行谈判，但不会放弃其在税收和数字平台等领域的监管权力。朗格表示，欧盟和美国可以就进口关税税率进行谈判，但可以谈判的仅限于“单纯的关税问题”，而不能触及欧盟现有的法律以及立法权。朗格称，美国目前的做法是“不恰当”的，改变欧盟立法的压力可能会迫使欧盟采取反制措施，包括限制美国拥有服务贸易顺差等。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknrnz7619920.d.html</link>
+            <guid>4031035</guid>
+            <pubDate>Fri, 14 Feb 2025 15:45:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[商品货币纽元/美元日内涨幅达1.0%，报0.5731。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknrny0845245.d.html</link>
+            <guid>4031034</guid>
+            <pubDate>Fri, 14 Feb 2025 15:44:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国国防部长：乌克兰在跨大西洋联盟中的作用在和平谈判中不容忽视。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknrny0845214.d.html</link>
+            <guid>4031033</guid>
+            <pubDate>Fri, 14 Feb 2025 15:44:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普政府试用期裁员计划将导致美国疾控中心裁员十分之一。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknrnw6398661.d.html</link>
+            <guid>4031032</guid>
+            <pubDate>Fri, 14 Feb 2025 15:43:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国国防部长：乌克兰脆弱的和平（要求），只能推迟冲突，这不是一个（正确的）选择。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknrnz7619397.d.html</link>
+            <guid>4031031</guid>
+            <pubDate>Fri, 14 Feb 2025 15:42:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2026财年营收剑指400亿美元远超预期 超微电脑大涨超11%】周五，超微电脑大涨超11%，报47美元。消息面上，此前该公司提供了对2026财年强劲的业绩指引。超微电脑预计，2026财年净销售额将达到400亿美元，这一数字显著高于当前分析师预期的292亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknrnw6398478.d.html</link>
+            <guid>4031030</guid>
+            <pubDate>Fri, 14 Feb 2025 15:41:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【录得创纪录业绩后 桑坦德据悉将投资银行奖金提高约5%】据知情人士透露，桑坦德将投资银行家的奖金池提高约5%，增幅低于许多同行，尽管该部门业绩创下纪录。去年该银行企业和投资银行部(CIB)的可变薪酬平均提高了10%。部分知情人士表示。奖金分配存在个体差异，一些表现优异的员工涨薪超过10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknrny0844543.d.html</link>
+            <guid>4031029</guid>
+            <pubDate>Fri, 14 Feb 2025 15:40:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国国防部长：美国副总统万斯将德国民主与独裁政权相提并论是不可接受的。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknrny0844371.d.html</link>
+            <guid>4031028</guid>
+            <pubDate>Fri, 14 Feb 2025 15:38:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【黎以等多方举行会议 讨论以军从黎巴嫩撤出相关问题】以色列国防军、黎巴嫩军队、美国、法国及联合国驻黎巴嫩临时部队的代表当天在以色列北部举行会议，讨论以色列国防军从黎巴嫩撤出的相关问题。据悉，会议主要讨论以色列撤军前的技术协调问题。此前有媒体报道称，以方希望在撤军后仍在5个据点保留驻军，但遭到黎方拒绝。2024年11月27日，以色列和黎巴嫩真主党达成停火协议。根据协议，以军应在60天内、即2025年1月26日之前逐步撤出黎南部，黎巴嫩政府军接管黎南部地区，黎真主党则必须撤至利塔尼河以北。1月24日，以方以黎方尚未全面执行停火协议为由要求推迟撤离。总台记者当地时间1月27日获悉，黎巴嫩看守政府总理米卡提发表声明称，黎巴嫩确定将继续遵守黎以停火协议至2月18日。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknrnu6962459.d.html</link>
+            <guid>4031027</guid>
+            <pubDate>Fri, 14 Feb 2025 15:37:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基：在特朗普计划出台后，准备与普京会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknrnz7618208.d.html</link>
+            <guid>4031025</guid>
+            <pubDate>Fri, 14 Feb 2025 15:34:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【波罗的海指数因所有船舶板块运价上涨而上涨】波罗的海交易所干散货海运指数（用于衡量运输干散货商品的船舶的运费）周五上涨，原因是所有船舶类别的运费均上涨。以海岬型、巴拿马型和超灵便型船舶费率为衡量标准的指数上涨12点，至792点。不过，该指数本周下跌近3%。海岬型船运价指数上涨5点，至716点，而该指数本周下跌逾14%。海岬型船舶通常运输15万吨货物，例如铁矿石和煤炭，其平均日收益增加了39美元，达到5,939美元。新加坡铁矿石期货价格周五上涨，有望实现周度上涨，原因是市场对主要生产国澳大利亚因飓风导致供应中断的担忧加剧。巴拿马型船运价指数上涨6点，至980点，结束了连续四天的下跌。与此同时，该指数本周下跌超过5%。巴拿马型船舶通常运载60,000-70,000吨煤炭或谷物货物，其平均日收益增加54美元，至8,819美元。在小型船舶中，超灵便型船运价指数上涨24点，至765点，连续第九个交易日上涨。该指数本周上涨13%。美国总统唐纳德·特朗普本周早些时候表示，他将对进口产品征收对等关税，但没有具体说明将受影响的国家。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknrny0843585.d.html</link>
+            <guid>4031024</guid>
+            <pubDate>Fri, 14 Feb 2025 15:33:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[霍尼韦尔宣布季度股息为每股1.13美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknrny0843322.d.html</link>
+            <guid>4031023</guid>
+            <pubDate>Fri, 14 Feb 2025 15:31:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基：当我们有计划时，我只会和“一个俄罗斯人，普京”会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknrnw6397227.d.html</link>
+            <guid>4031022</guid>
+            <pubDate>Fri, 14 Feb 2025 15:31:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧委会主席：欧盟需要大幅增加国防开支】欧盟委员会（欧委会）主席冯德莱恩当地时间2月14日在出席第61届慕尼黑安全会议期间表示，欧盟需要大幅增加国防开支。冯德莱恩表示，她将提议启动国防投资的免责条款，通过这些免责条款，将允许欧盟成员国以可控、有条件的方式大幅增加国防开支。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknrnw6396930.d.html</link>
+            <guid>4031021</guid>
+            <pubDate>Fri, 14 Feb 2025 15:28:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【现货黄金跌破2900美元/盎司】现货黄金跌破2900美元/盎司，日内跌约1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknrny0842809.d.html</link>
+            <guid>4031020</guid>
+            <pubDate>Fri, 14 Feb 2025 15:28:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据猫眼专业版数据，电影《美国队长4》上映首日， 总票房破4000万。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknrnz7617234.d.html</link>
+            <guid>4031019</guid>
+            <pubDate>Fri, 14 Feb 2025 15:27:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[大众汽车向全美汽车联合会（UAW）提议，对大众旗下美国Chattanooga工厂雇员涨薪15%。]]></title>
+            <guid>4031018</guid>
+            <pubDate>Fri, 14 Feb 2025 15:26:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄央行维持基准利率21%不变】俄罗斯中央银行14日发布公告，宣布维持基准利率21%不变。 公告说，俄当前通胀压力依然较大，国内需求增长仍远超商品和服务供应的增长。与此同时信贷活动降温愈加明显，居民储蓄倾向增强。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknrnz7617080.d.html</link>
+            <guid>4031017</guid>
+            <pubDate>Fri, 14 Feb 2025 15:26:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿根廷总统米莱将于2月20日启程前往华盛顿。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknrny0842413.d.html</link>
+            <guid>4031016</guid>
+            <pubDate>Fri, 14 Feb 2025 15:25:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲STOXX 600指数下跌0.3%，刷新日低。诺华制药、阿斯利康、赛诺菲目前跌超2%，德国思爱普Sap、罗氏制药、葛兰素史克跌超1%，LVMH集团则涨1.4%。]]></title>
+            <guid>4031015</guid>
+            <pubDate>Fri, 14 Feb 2025 15:22:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯天然气工业股份公司：2024年净利润为4795亿卢布（合52亿美元），2024年的收入为4.1万亿卢布（合446亿美元）。]]></title>
             <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmey6526942.d.html</link>
             <guid>4031014</guid>
             <pubDate>Fri, 14 Feb 2025 15:21:44 GMT</pubDate>
@@ -32,279 +302,6 @@
             <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmfc7745663.d.html</link>
             <guid>4031011</guid>
             <pubDate>Fri, 14 Feb 2025 15:13:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰总统泽连斯基：如果不加入北约，乌克兰将需要把军队规模扩大一倍。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmfc7745571.d.html</link>
-            <guid>4031010</guid>
-            <pubDate>Fri, 14 Feb 2025 15:12:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英伟达披露大量持仓文远知行】2月14日，当英伟达披露大量持仓中国自动驾驶企业文远知行后，文远知行当日在美股交易中大涨超135%，触发熔断。 当天，英伟达向美国证券交易委员会提交的持仓报告披露，截至去年底，该公司持有文远知行的约174万股美国存托凭证。 2024年10月，文远知行正式在纳斯达克证券交易所挂牌上市，成为全球通用自动驾驶公司第一股，也是全球Robotaxi（自动驾驶出租车）第一股。 文远知行2017年成立。查询发现，在其多年前的Pre-A轮融资中，就有英伟达。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmfa0970957.d.html</link>
-            <guid>4031009</guid>
-            <pubDate>Fri, 14 Feb 2025 15:12:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【雷军：小米汽车订单已排到6个月之后】2月14日，小米集团创始人、董事长兼CEO雷军在2025北京海淀区经济社会高质量发展大会上演讲时透露，小米利用9个月时间交付了超过13.5万辆车。如果今天订车，依然要排大概六七个月的时间。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmew7090220.d.html</link>
-            <guid>4031008</guid>
-            <pubDate>Fri, 14 Feb 2025 15:11:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海徐汇：计划2025年再投入50亿元专项资金助力产业发展】 2月14日下午，以“感谢有你共发展 同创辉煌再出发”为主题的2024年度徐汇区招商引资表彰大会举行。会上，百余家为区域经济发展作出重要贡献的重点企业和重点楼宇获得表彰，《徐汇区优化营商环境行动方案8.0》和新一轮产业政策体系相继发布。据介绍，2025年徐汇区将再投入50亿元专项资金，以更大的支持力度、更快的实施速度、更高的资金使用效率，为经济高质量发展提供新动能。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmew7090030.d.html</link>
-            <guid>4031007</guid>
-            <pubDate>Fri, 14 Feb 2025 15:10:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Q4业绩超预期且2025年指引乐观 Roku大涨超15%】周五，Roku Inc(ROKU.US)大涨超15%，报100.41美元。消息面上，该公司第四季度营收增长22%至12亿美元，比市场普遍预期高出5000万美元，净亏损从去年同期的1.042亿美元缩减至3910万美元。按每股计算，该公司亏损0.24美元，好于分析师平均预期的亏损0.40美元。到2025年，该公司预计收入将达到46.1亿美元，高于彭博预期的46亿美元，调整后EBITDA为3.5亿美元，高于预期的2.904亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmfa0969809.d.html</link>
-            <guid>4031006</guid>
-            <pubDate>Fri, 14 Feb 2025 15:06:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部监察长开始对美国政府支付系统的安全性进行审计。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmfc7743793.d.html</link>
-            <guid>4031005</guid>
-            <pubDate>Fri, 14 Feb 2025 15:04:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【期权交易员们投入1000万元，押注10年期美债收益率未来五周将达到5%创2023年以来最高】 有期权交易员大举押注10年期美国国债收益率将在未来五周内跃升至5%。这一最新的押注意味着，如果10年期美国国债收益率在期权到期前上涨约0.5个百分点，押注者将获得高达1000万美元的回报，几乎是支付溢价的10倍。类似的押注（在一周后到期）是在周三CPI数据显示美国1月份通胀飙升之前进行的。虽然交易规模与上周超过10万份合约的押注相比相形见绌，但这笔期权押注的美国国债收益率目标却高得多。]]></title>
-            <guid>4031004</guid>
-            <pubDate>Fri, 14 Feb 2025 15:03:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[秘鲁矿业部数据显示，2024年铜产量下降0.7%，降至2736150吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmfc7743656.d.html</link>
-            <guid>4031003</guid>
-            <pubDate>Fri, 14 Feb 2025 15:03:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国劳工统计局公布美1月进出口数据】当地时间2月14日，美国劳工统计局公布的数据显示，美国1月进口价格指数环比上涨0.3%，出口价格指数环比上涨1.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmfc7743332.d.html</link>
-            <guid>4031002</guid>
-            <pubDate>Fri, 14 Feb 2025 15:01:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[截至23:00收盘，国内期货主力合约涨跌互现，纯碱、20号胶、橡胶涨超1%。跌幅方面，铁矿石跌近2%，淀粉、玉米、丁二烯橡胶、液化石油气（LPG）跌近1%。]]></title>
-            <guid>4031001</guid>
-            <pubDate>Fri, 14 Feb 2025 15:00:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国12月商业库存环比下降0.2%，为2023年11月以来最大降幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmfa0968512.d.html</link>
-            <guid>4031000</guid>
-            <pubDate>Fri, 14 Feb 2025 15:00:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国财长贝森特：致力于使伊朗的石油出口减少90%以上】随着美国总统特朗普重启对伊朗核计划的“极限施压”运动，财长贝森特表示，美国的目标是让伊朗的石油出口降至目前水平的10%以下。贝森特周五接受采访时表示，“我们致力于让伊朗回到每天出口10万桶石油的水平”，就像在特朗普的第一个任期。贝森特说，伊朗现在每天出口150万至160万桶石油。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmew7088325.d.html</link>
-            <guid>4030999</guid>
-            <pubDate>Fri, 14 Feb 2025 14:59:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【扎哈罗娃：乌在切尔诺贝利核电站的挑衅行为旨在破坏核安全】俄罗斯外交部发言人扎哈罗娃在例行记者会上表示，乌克兰代表带着“行为艺术”参加慕尼黑安全会议（慕安会），对切尔诺贝利核电站的袭击是其中的“挑衅行为”之一。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmew7088257.d.html</link>
-            <guid>4030998</guid>
-            <pubDate>Fri, 14 Feb 2025 14:58:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[泽连斯基：乌克兰需要的不仅仅是停火。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmfa0968355.d.html</link>
-            <guid>4030997</guid>
-            <pubDate>Fri, 14 Feb 2025 14:58:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰总统泽连斯基：乌克兰需要保护其矿产资源免受俄罗斯的影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmfc7742100.d.html</link>
-            <guid>4030996</guid>
-            <pubDate>Fri, 14 Feb 2025 14:53:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【AI医疗概念持续走高 一文分辨哪些在蹭热度炒概念，哪类业务跑得最快】AI大模型DeepSeek的风从科技板块吹到了医疗应用端。多家相关上市公司宣布接入DeepSeek大模型，多家券商医药分析师为AI医疗摇旗呐喊。2月14日，在AI概念加持下，A股和港股互联网医疗板块及生物医药股涨势较大。也有行业观察者在乐观情绪井喷的时候保持了冷静。一位不愿具名的医药行业资深人士对记者表示，现在AI比较成熟的是语言模型，在医药领域应用得区分来看。首先，如果只是单纯接入DeepSeek、与实际业务没太多关联的，基本属于炒概念；AI 在诊断方面的应用逻辑相对更清晰，这类公司本身有数据积累，能更好地利用AI技术进行数据分析处理，提升诊疗效率和准确性。但在受限于现有技术无法自主思考，很难在探索性的新药研发中发挥关键作用。（每日经济新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmew7087217.d.html</link>
-            <guid>4030995</guid>
-            <pubDate>Fri, 14 Feb 2025 14:51:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【近3000家A股公司发2024年业绩预测，超六成公司业绩预盈】2025年春节后的2月5日至14日，A股市场有1336家上市公司的股票累计涨幅超过10%。值得一提的是，受益于电影《哪吒之魔童闹海》票房不断上升以及DeepSeek概念股火热，上市公司光线传媒、宏海科技、并行科技、青云科技的涨幅超过200%。据数据统计，截至2月14日，A股已有2818家上市公司发布了2024年业绩预测。在这2818家A股上市公司中，有1808家预计2024年归属于上市公司股东的净利润盈利，998家预计2024年归属于上市公司股东的净利润亏损，3家不确定盈亏，9家只披露了营收情况未披露净利润情况。(新京报)]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmew7086655.d.html</link>
-            <guid>4030994</guid>
-            <pubDate>Fri, 14 Feb 2025 14:47:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰经济部：2024年国内生产总值增长3.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmew7086644.d.html</link>
-            <guid>4030993</guid>
-            <pubDate>Fri, 14 Feb 2025 14:47:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英镑兑美元GBP/USD日内涨幅扩大至0.50%，现报1.2630。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmew7086411.d.html</link>
-            <guid>4030992</guid>
-            <pubDate>Fri, 14 Feb 2025 14:46:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【行业ETF美股盘初多数走高，能源业ETF涨约1.7%领跑】能源业ETF涨1.69%，区域银行ETF、银行业ETF至多涨1.39%，生物科技指数ETF涨0.77%，可选消费ETF涨0.34%。半导体ETF、网络股指数ETF、科技行业ETF、全球科技股指数ETF则至多跌0.15%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmfa0966030.d.html</link>
-            <guid>4030991</guid>
-            <pubDate>Fri, 14 Feb 2025 14:46:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利公诉人调查亚马逊关于12亿欧元税收问题的指控。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmfa0964861.d.html</link>
-            <guid>4030990</guid>
-            <pubDate>Fri, 14 Feb 2025 14:42:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瓦轴B：公司被美国财政部列入“SDN清单”】瓦轴B2月14日晚间公告，公司关注到美国财政部（OFAC）近期发布了最新的“SDN清单”（即“特别指定国民与封锁人员名单”），其中包括公司。公司立即聘请国内外律师积极查找被制裁原因，并向OFAC核实公司被制裁的合理性。公司主营业务为轴承及其零配件的制造及销售。截至目前，未在美国设立分支机构，且无重大资产。前述事件可能对公司未来业务带来一定影响，公司将与各方进行积极、充分和有效的沟通，同时持续关注上述事件进展情况，并做好各项应对工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmfc7739341.d.html</link>
-            <guid>4030989</guid>
-            <pubDate>Fri, 14 Feb 2025 14:42:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据美国纽约联储数据，上个交易日（2月13日，美国PPI发布日）担保隔夜融资利率（SOFR）报4.33%，之前一天报4.32%。上个交易日有效的联邦基金利率报4.33%，之前一天报4.33%。]]></title>
-            <guid>4030988</guid>
-            <pubDate>Fri, 14 Feb 2025 14:41:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[桑坦德据悉将投资银行奖金提高约5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmfc7738441.d.html</link>
-            <guid>4030987</guid>
-            <pubDate>Fri, 14 Feb 2025 14:39:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Moderna股价因剧烈波动，触发盘中熔断。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmew7084308.d.html</link>
-            <guid>4030986</guid>
-            <pubDate>Fri, 14 Feb 2025 14:37:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中概股哔哩哔哩涨15%，美银证券维持哔哩哔哩买入评级，目标价23美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmfa0963382.d.html</link>
-            <guid>4030985</guid>
-            <pubDate>Fri, 14 Feb 2025 14:36:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英镑/美元日内涨幅达0.5%，报1.2619。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmfc7737662.d.html</link>
-            <guid>4030984</guid>
-            <pubDate>Fri, 14 Feb 2025 14:35:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[受文远知行大涨带动，小马智行盘初涨超17%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmfa0963109.d.html</link>
-            <guid>4030983</guid>
-            <pubDate>Fri, 14 Feb 2025 14:35:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【远洋集团：清盘呈请聆讯延期至4月14日】远洋集团在港交所公告称，于2025年2月14日，在各方一致提出延期申请后，高等法院已撤销原定于2025年2月17日举行的呈请聆讯，并将呈请聆讯延期至2025年4月14日。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmey6519447.d.html</link>
-            <guid>4030982</guid>
-            <pubDate>Fri, 14 Feb 2025 14:35:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中概股金山云盘初涨24%，公司算力平台、容器服务支持DeepSeek R1系列模型。]]></title>
-            <guid>4030981</guid>
-            <pubDate>Fri, 14 Feb 2025 14:33:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[文远知行涨幅达135.35%，盘中熔断。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmfc7736931.d.html</link>
-            <guid>4030980</guid>
-            <pubDate>Fri, 14 Feb 2025 14:32:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[爱彼迎开涨14%，创下自2023年2月以来最大涨幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmey6518711.d.html</link>
-            <guid>4030979</guid>
-            <pubDate>Fri, 14 Feb 2025 14:31:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MSCI亚太指数上涨1%，至188.27点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmfc7736621.d.html</link>
-            <guid>4030978</guid>
-            <pubDate>Fri, 14 Feb 2025 14:31:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【道指开盘跌0.1%，标普500涨0.01%，纳指涨0.1%】爱彼迎涨12.9%，Q4业绩超预期。应用材料跌5.0%，受出口管制影响全年营收约4亿美元。云数据公司Informatica跌34.5%，公司下调业绩目标。热门中概股走强，阿里巴巴涨6.0%，京东上涨6.4%，哔哩哔哩涨11.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmfc7736548.d.html</link>
-            <guid>4030977</guid>
-            <pubDate>Fri, 14 Feb 2025 14:30:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美副总统：欧洲盟友应加入结束俄乌冲突的任何谈判】当地时间2月14日，美国副总统万斯在慕尼黑安全会议上发表讲话时表示，欧洲盟友“当然”应该加入任何结束俄乌冲突的谈判。万斯称，在与乌克兰总统泽连斯基会晤之前，美国准备向俄罗斯施压，要求其结束冲突。万斯在讲话中还敦促欧洲官员遏制非法移民，称选民不希望“闸门”向数百万人敞开。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmfc7736081.d.html</link>
-            <guid>4030976</guid>
-            <pubDate>Fri, 14 Feb 2025 14:28:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【李家超：中资企业是推动香港经济发展的重要力量】香港中国企业协会14日在港举行2025年新春酒会。香港特区行政长官李家超在酒会上表示，中资企业是推动香港经济发展的重要力量。李家超在致辞时表示，去年母公司在海外或者内地的驻港公司有9960间，创历史新高。其中2620家企业来自内地，占比超过26%，是外来驻港公司最大的来源地，展现了中资企业的实力，及为香港经济发展发挥的积极作用。他希望各中资企业继续支持和参与北部都会区的发展。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmew7082513.d.html</link>
-            <guid>4030975</guid>
-            <pubDate>Fri, 14 Feb 2025 14:28:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元兑美元EUR/USD站上1.05，为1月27日来首次，日内涨0.33%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmfa0960905.d.html</link>
-            <guid>4030974</guid>
-            <pubDate>Fri, 14 Feb 2025 14:26:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国网信息通信股份有限公司与科大国盾量子技术股份有限公司签署合作协议】记者获悉，2月13日，为进一步深化合作，国网信息通信股份有限公司与科大国盾量子技术股份有限公司在国网信通产业集团西南产业基地签署合作协议。下一步，双方将以协议签署为新起点，积极落实协议内容，紧密协作、高效协同、优势互补，深化技术研究、产品研制、试验验证、标准制定等方面的合作，推动科技创新和产业创新融合发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmfa0960247.d.html</link>
-            <guid>4030973</guid>
-            <pubDate>Fri, 14 Feb 2025 14:23:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际原子能机构总干事格罗西：与伊朗核计划达成协议的时间所剩无几。仍未与新一届美国政府进行适当的政治交流，正在等待伊朗特使的任命。铀浓缩至60%纯度的快速增加是一个应当非常重视的信号。我们不应再浪费时间，必须将关注点重新聚焦于伊朗。到下次报告的三月董事会会议时，伊朗的铀储备中最高浓缩至60%的铀将接近250公斤。]]></title>
-            <guid>4030972</guid>
-            <pubDate>Fri, 14 Feb 2025 14:18:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国1月设备使用率 77.8%，预期 77.7%，前值 77.6%。
-美国1月工业产出月率 0.5%，预期0.3%，前值由0.90%修正为1%。
-美国1月制造业产出月率 -0.1%，预期0.1%，前值由0.60%修正为0.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmfc7733278.d.html</link>
-            <guid>4030971</guid>
-            <pubDate>Fri, 14 Feb 2025 14:15:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在岸人民币兑美元上涨0.5%至7.2520。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmfa0958676.d.html</link>
-            <guid>4030970</guid>
-            <pubDate>Fri, 14 Feb 2025 14:14:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【蜜雪冰城股份有限公司通过港交所上市聆讯】利弗莫尔证券显示，蜜雪冰城股份有限公司通过港交所上市聆讯，联席保荐人为美银证券、高盛、瑞银集团。截至2024年9月30日，蜜雪冰城通过加盟模式发展的门店网络拥有超过45,000家门店，复盖中国及海外11个国家。2022年、2023年以及2024年前九个月，蜜雪冰城分别实现了136亿、203亿及187亿的收入，同比增长31.2%、49.6%及 21.2%。于2022年、2023年以及2024年前九个月，蜜雪冰城的净利润分别为20亿人民币、 32亿人民币以及35亿人民币，同比增长5.3%、58.3%及42.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmfc7733140.d.html</link>
-            <guid>4030969</guid>
-            <pubDate>Fri, 14 Feb 2025 14:14:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2025年2月票房创历史单月新高】据灯塔专业版，截至2月14日，2025年2月票房（含预售）突破122.71亿，创造中国影史单月最高票房纪录！《哪吒之魔童闹海》贡献当月票房74.5％。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmfc7733061.d.html</link>
-            <guid>4030968</guid>
-            <pubDate>Fri, 14 Feb 2025 14:14:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【工业和信息化部召开2025年化肥生产保供工作座谈会】工业和信息化部14日召开2025年化肥生产保供工作座谈会。会议指出，2025年，要聚焦化肥稳产保供目标，从政策统筹、责任落实、要素保障、服务支撑等方面着力，加强生产、储备、流通、贸易等全链条政策协同联动，做好天然气、硫磺、磷矿石等原料保障，强化运行监测、预期引导和行业自律，营造良好市场环境，努力实现化肥生产量的稳定供给和质的有效提升，确保化肥生产保供任务顺利完成。国家发展改革委、农业农村部、全国供销合作总社有关司局负责同志，工业和信息化部有关司局及部分地方工业和信息化主管部门负责同志，有关行业协会、企业代表参加会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmfa0958382.d.html</link>
-            <guid>4030967</guid>
-            <pubDate>Fri, 14 Feb 2025 14:13:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【涉嫌拐卖演员王星的10名中国籍诈骗团伙成员已被送往泰国机场 遣返回国】当地时间2月14日，泰国警方表示，涉嫌拐卖演员王星的10名中国籍诈骗团伙成员已于今日被送往泰国素万那普机场，办理相关手续，遣返中国。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmfa0957598.d.html</link>
-            <guid>4030966</guid>
-            <pubDate>Fri, 14 Feb 2025 14:09:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【越南航空将开通北京大兴至胡志明市航线】越南航空宣布将于3月30日起正式开通北京大兴至胡志明市的新航线。根据开航计划，新航线将由空客A321执飞，每周5班，分别于周一、三、四、五和周日的0点45分从胡志明市新山一国际机场出发，6点30分抵达北京大兴国际机场；当日8点30分从北京大兴国际机场出发，12点25分到达胡志明市新山一国际机场。除了北京大兴机场的新开航线之外，自2025年夏秋航季开始，越南航空还将加密北京首都机场飞往河内的航班频次，由原来的每周5班增加至每日一班。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-14/detail-ineknmfa0956873.d.html</link>
-            <guid>4030965</guid>
-            <pubDate>Fri, 14 Feb 2025 14:06:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
