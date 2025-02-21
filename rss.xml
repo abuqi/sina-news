@@ -4,19 +4,159 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Fri, 21 Feb 2025 21:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 22:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[美联储：美国上周银行存款17.896万亿美元，之前一周17.904万亿美元。]]></title>
+            <title><![CDATA[【加拿大不列颠哥伦比亚省发生4.8级地震 温哥华有震感】当地时间2月21日，据美国地质调查局数据，当天13时26分，加拿大不列颠哥伦比亚省阳光海岸附近发生4.8级地震，震源深度为10公里。温哥华等城市有震感。美国国家海洋与大气管理局表示，地震不会引发海啸。]]></title>
+            <guid>4041649</guid>
+            <pubDate>Fri, 21 Feb 2025 22:19:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【券商研判A股“春季行情”：科技成长与消费为配置主线】近期，A股市场表现活跃、交投持续升温。在此背景下，多家券商围绕后市行情走势和投资布局机遇进行深入研判。分析师普遍认为，无论是从政策端、流动性，还是从基本面角度来看，今年的“春季行情”均值得期待。展望2025年全年，预计随着资金面和基本面迎来积极变化，A股有望步入基本面驱动的向上行情。多位分析师表示，科技成长板块近期热度持续攀升，成为推动市场积极向好的主要驱动力之一。同时，消费、基建等板块也获得分析师的青睐。 (证券日报)]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhxxq3054715.d.html</link>
+            <guid>4041648</guid>
+            <pubDate>Fri, 21 Feb 2025 22:18:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【纽约白银期货周五跌超1.8%，现货黄金本周涨超1.8%持稳于历史新高附近】 周五（2月21日）纽约尾盘，现货黄金跌0.10%，报2936.05美元/盎司，本周累计上涨约1.83%，整体震荡上行，2月20日曾涨至2954.84美元创历史新高。COMEX黄金期货跌0.22%，报2949.60美元/盎司，本周累涨1.69%。现货白银跌1.54%，报32.4570美元/盎司，本周累涨1.10%。COMEX白银期货跌1.85%，报32.825美元/盎司，本周累跌0.09%。COMEX铜期货跌1.67%，报4.5360美元/磅，本周累跌2.75%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhxxv4677707.d.html</link>
+            <guid>4041647</guid>
+            <pubDate>Fri, 21 Feb 2025 22:17:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【布油基金和小盘股指ETF收跌约2.9%，领跌美股大类资产类ETF】 周五（2月21日），美国布伦特油价基金收跌2.9%，罗素2000指数ETF跌2.88%，纳指100 ETF跌2.08%，道指ETF、标普500 ETF、农产品基金、巴克莱美国可转债ETF跌1.72%-1.25%，美国房地产ETF、欧元做多、大豆基金、新兴市场ETF、黄金ETF至多跌0.98%，做多美元指数、日元做多则至多收涨0.39%，美国国债20+年ETF涨1.21%，恐慌指数做多涨6.85%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhxxt7902174.d.html</link>
+            <guid>4041646</guid>
+            <pubDate>Fri, 21 Feb 2025 22:13:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【半导体市场规模持续提升 A股公司加速布局】半导体市场规模持续扩张。2月18日，世界集成电路协会（WICA）发布报告显示，2024年全球半导体市场规模攀升至6351亿美元，同比增长19.8%。预计2025年全球半导体市场规模将进一步增至7189亿美元，同比增长13.2%。在此背景下，产业链上市公司受益明显。与此同时，部分上市公司为抢占市场机遇，纷纷加大在半导体领域的布局力度。 (证券日报)]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhxxm2158692.d.html</link>
+            <guid>4041645</guid>
+            <pubDate>Fri, 21 Feb 2025 22:13:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经济日报金观平：不折不扣落实支持民营经济政策】习近平总书记日前在民营企业座谈会上指出，扎扎实实落实促进民营经济发展的政策措施，是当前促进民营经济发展的工作重点。这为当前和今后一段时间，各地各部门做好促进民营经济发展工作指明了方向。政策的生命力在于执行。民营企业座谈会作出了坚决破除依法平等使用生产要素、公平参与市场竞争的各种障碍，着力解决拖欠民营企业账款问题，集中整治乱收费、乱罚款、乱检查、乱查封等一系列部署。下一步，要不折不扣坚决执行，以系统思维打通政策落地“最后一公里”。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhxxq3054068.d.html</link>
+            <guid>4041644</guid>
+            <pubDate>Fri, 21 Feb 2025 22:11:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【半导体ETF收跌超3%，领跌美股行业ETF，本周网络股指数ETF累跌约5.8%】 周五（2月21日），全球航空业ETF收跌3.97%，半导体ETF跌3.03%，网络股指数ETF、科技行业ETF，可选消费ETF、区域银行ETF、全球科技股指数ETF、银行业TF、能源业ETF跌2.8%-2.08%，医疗业ETF跌0.54%，生物科技指数ETF跌0.37%，日常消费品ETF则收涨1.17%。本周，网络股指数ETF累计下跌5.77%，区域银行ETF跌3.87%，可选消费ETF跌3.79%，银行业ETF跌3.5%，科技行业ETF跌2.13%，全球科技股指数ETF跌1.86%，半导体ETF跌1.03%，能源业ETF则涨0.95%（此前两周先后反弹1.05%和1.71%）。在标普500指数的11个板块中，可选消费、信息技术/科技、工业板块也收跌2.77%-2.23%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhxxm2158089.d.html</link>
+            <guid>4041643</guid>
+            <pubDate>Fri, 21 Feb 2025 22:09:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫官员：特朗普指示美国贸易代表重启特朗普第一任期内发起的301条款数字税调查。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhxxm2157969.d.html</link>
+            <guid>4041642</guid>
+            <pubDate>Fri, 21 Feb 2025 22:07:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧莱雅CEO：公司品牌在美国奢侈品市场雄踞榜首】欧莱雅正加强其在美国市场的地位，2024年该公司在美国市场的销售额增长27%，至118亿欧元。该公司首席执行官叶鸿慕表示，公司产品组合包括CeraVe、Kiehl's、Maybelline、Ralph Lauren等18个美国品牌，这使其在美国消费者中极具竞争力。叶鸿慕表示，过去一年，欧莱雅首次成为美国第一大奢侈美容公司，这是该公司在美国市场份额不断增长的一个例证。“我们在雅诗兰黛的本土市场北美超越了这个非常强大的竞争对手，”他表示。欧莱雅股价周五收盘上涨1.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhxxq3053381.d.html</link>
+            <guid>4041641</guid>
+            <pubDate>Fri, 21 Feb 2025 22:06:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“AI+”热度继续扩散 机构调研专注人形机器人】本周机构调研热情回暖，截至2月21日17时，共有175家上市公司接待机构调研，AI仍是机构热衷调研的主题。从赚钱效应来看，周内有多家机构集中调研的公司股价涨幅较好，本周接受最多机构调研的福莱新材，周内涨幅达56%，股价创近期新高，2月21日收报62.5元/股；长盛轴承周内接受81家机构调研，股价亦创下近期新高，周涨幅达67%，收报108.1元/股。此外，人形机器人产业链的奥比中光-UW股价创近期新高，固高科技本周两次涨停。人形机器人板块是本周机构调研重点关注的领域，该板块本周涨幅也最高。具体到调研公司，福莱新材本周接受306家机构扎堆调研，机构重点关注公司人形机器人柔性传感器合作厂商与订单、柔性传感器在人形机器人上的应用等方面。 (证券时报)]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhxxt7899123.d.html</link>
+            <guid>4041640</guid>
+            <pubDate>Fri, 21 Feb 2025 22:04:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普称有机会达成俄乌和平协议 未计划5月9日访俄】当地时间2月21日，美国总统特朗普表示，他认为有机会达成乌克兰和俄罗斯的和平协议。此外，特朗普表示，目前并无打算于5月9日前往俄罗斯。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhxxm2156573.d.html</link>
+            <guid>4041639</guid>
+            <pubDate>Fri, 21 Feb 2025 21:57:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2月21日美股成交额前20：阿里巴巴财报强劲，本周涨幅超过15%】周五美股成交额第8名阿里巴巴收高5.72%，成交105.12亿美元。该股本周累计上涨超过15%。2025财年第三季度财报分析师电话会上，阿里巴巴集团CEO吴泳铭表示，未来三年阿里将加大投入三大AI领域，并透露将在近期发布基于Qwen2.5-Max的深度推理模型。高盛大幅上调阿里巴巴目标价至160美元，上调幅度超过36%。(环球市场播报)]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhxxq3052070.d.html</link>
+            <guid>4041638</guid>
+            <pubDate>Fri, 21 Feb 2025 21:56:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据两位知情人士透露，联邦调查局将把1500名工作人员调出华盛顿。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhxxm2156183.d.html</link>
+            <guid>4041637</guid>
+            <pubDate>Fri, 21 Feb 2025 21:54:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【王毅会见世界贸易组织总干事伊维拉】当地时间2月21日，中共中央政治局委员、外交部长王毅在约翰内斯堡出席二十国集团外长会期间同世界贸易组织总干事伊维拉交流。 王毅表示，中国是联合国创始会员国，是现行国际秩序的坚定维护者。我们践行真正的多边主义，坚定支持以联合国为核心的国际体系，以世界贸易组织为核心的自由贸易体制。当前单边主义、保护主义盛行，但经济全球化大势不可逆转。各方应共同促进贸易自由化、便利化，推动全球经济加快复苏。中方将继续支持总干事女士推进世贸组织改革，倾听全球南方国家呼声，顺应时代进步潮流。中国坚持自身作为发展中国家的定位，但从不回避国际责任，我们将继续履行应尽义务，展现大国担当。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhxxq3051671.d.html</link>
+            <guid>4041636</guid>
+            <pubDate>Fri, 21 Feb 2025 21:53:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[五角大楼预计文职人员将减少5%-8%，将从下周开始解雇5400名员工，将在裁员后冻结招聘。]]></title>
+            <guid>4041634</guid>
+            <pubDate>Fri, 21 Feb 2025 21:50:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波兰外交部长西科尔斯基：我在与美国国务卿卢比奥会谈时得到的印象是，美国希望乌克兰实现持久和平。]]></title>
+            <guid>4041633</guid>
+            <pubDate>Fri, 21 Feb 2025 21:43:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加拿大不列颠哥伦比亚省发生5.1级地震 温哥华有震感】据美国地质调查局当地时间2月21日数据，距离加拿大不列颠哥伦比亚省斯阔米什43公里处发生5.1级地震，震源深度2公里。温哥华市有震感。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhxxt7892782.d.html</link>
+            <guid>4041632</guid>
+            <pubDate>Fri, 21 Feb 2025 21:42:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Redding Ridge Asset Management（RRAM）将收购Irradiant Partners。这意味着，另类资管巨头阿波罗（APO）附属公司RRAM将增加110亿美元贷款抵押债券（CLO）资产。]]></title>
+            <guid>4041631</guid>
+            <pubDate>Fri, 21 Feb 2025 21:36:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【泽连斯基：乌克兰和美国正在起草协议草案】乌克兰总统泽连斯基在每日视频声明中说，乌克兰和美国官员正在起草两国政府之间的协议草案。他表示，“这份协议可能会增强我们的关系，主要是以可行的方式概述细节。我希望它会带来结果，一个公平的结果”。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhxxq3050202.d.html</link>
+            <guid>4041630</guid>
+            <pubDate>Fri, 21 Feb 2025 21:36:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[尼古拉公司：不会对纳斯达克退市决定提出上诉。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhxxv4664037.d.html</link>
+            <guid>4041629</guid>
+            <pubDate>Fri, 21 Feb 2025 21:33:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西最高法院法官莫赖斯下令在巴西封锁视频分享平台Rumble。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhxxv4661541.d.html</link>
+            <guid>4041628</guid>
+            <pubDate>Fri, 21 Feb 2025 21:26:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美法官允许特朗普政府继续解散美国国际开发署】美国一名联邦法官当地时间2月21日允许特朗普政府继续解散美国国际开发署。据悉，法官拒绝了代表美国国际开发署工人的工会提出的无限期阻止政府关闭该机构计划的请求。该裁决可能会被上诉。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhxxq3048467.d.html</link>
+            <guid>4041627</guid>
+            <pubDate>Fri, 21 Feb 2025 21:23:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基：乌克兰和美国团队正在起草协议草案。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhxxm2152213.d.html</link>
+            <guid>4041626</guid>
+            <pubDate>Fri, 21 Feb 2025 21:19:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[当地时间2月21日，美国极右翼组织“骄傲男孩”前头目恩里克·塔里奥当天在美国国会大厦附近因与他人发生冲突被捕。]]></title>
+            <guid>4041625</guid>
+            <pubDate>Fri, 21 Feb 2025 21:19:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储数据显示，美国上周银行存款17.896万亿美元，之前一周17.904万亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhxxt7883252.d.html</link>
             <guid>4041624</guid>
             <pubDate>Fri, 21 Feb 2025 21:16:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[富时A50期指连续夜盘收涨0.22%，报13421.000点，美股盘初一度涨超0.8%。]]></title>
+            <title><![CDATA[富时A50期指连续夜盘收涨0.22%，报13421点。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhxxm2151661.d.html</link>
             <guid>4041623</guid>
             <pubDate>Fri, 21 Feb 2025 21:15:56 GMT</pubDate>
         </item>
@@ -55,7 +195,7 @@
             <pubDate>Fri, 21 Feb 2025 21:11:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国总统特朗普否认他将在5月9日访问莫斯科。]]></title>
+            <title><![CDATA[特朗普表示，目前并无打算于5月9日前往俄罗斯。]]></title>
             <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhxxt7880998.d.html</link>
             <guid>4041616</guid>
             <pubDate>Fri, 21 Feb 2025 21:10:26 GMT</pubDate>
@@ -103,19 +243,13 @@
             <pubDate>Fri, 21 Feb 2025 21:05:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Block Inc.（XYZ）收跌17.7%，创2020年3月份以来最差单日表现。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhxxq3045544.d.html</link>
-            <guid>4041608</guid>
-            <pubDate>Fri, 21 Feb 2025 21:02:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[美国商务部长卢特尼克在白宫讲话称，目标是平衡预算。]]></title>
             <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhxxq3045469.d.html</link>
             <guid>4041607</guid>
             <pubDate>Fri, 21 Feb 2025 21:02:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【纳斯达克中国金龙指数收涨1.65% 阿里巴巴涨超5%】热门中概股多数上涨，纳斯达克中国金龙指数收涨1.65%。阿里巴巴、拼多多涨超5%，小鹏汽车、理想汽车涨逾4%，京东涨3%，百度、蔚来涨近2%。]]></title>
+            <title><![CDATA[【纳斯达克中国金龙指数收涨1.65% 录得周线六连涨】热门中概股多数上涨，纳斯达克中国金龙指数收涨1.65%，本周累涨1.57%，连涨六周，逼近去年10月份高点。阿里巴巴、拼多多涨超5%，小鹏汽车、理想汽车涨逾4%，京东涨3%，百度、蔚来涨近2%。]]></title>
             <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhxxq3045215.d.html</link>
             <guid>4041606</guid>
             <pubDate>Fri, 21 Feb 2025 21:00:05 GMT</pubDate>
@@ -139,7 +273,7 @@
             <pubDate>Fri, 21 Feb 2025 20:57:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国提议在联合国大会上通过一项针对乌克兰的决议，与基辅和欧洲盟友的提议相抵触。]]></title>
+            <title><![CDATA[【美国就乌克兰问题提出一项联合国决议草案】美国已就乌克兰问题提出一项联合国决议草案。该草案哀悼俄乌冲突期间的生命损失，并重申联合国的主要目的是“维护国际和平与安全，和平解决争端”。此外，草案呼吁迅速结束冲突，并进一步敦促乌克兰和俄罗斯之间实现持久和平。目前，尚不清楚美国希望何时对决议草案进行表决。据悉，联合国大会已定于24日召开会议，就乌克兰和欧盟起草的案文进行表决。]]></title>
             <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhxxm2149337.d.html</link>
             <guid>4041602</guid>
             <pubDate>Fri, 21 Feb 2025 20:56:30 GMT</pubDate>
@@ -166,148 +300,6 @@
             <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhxxq3043810.d.html</link>
             <guid>4041598</guid>
             <pubDate>Fri, 21 Feb 2025 20:44:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[卡骆驰(Crocs)因证券欺诈而遭到起诉。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhxxm2147980.d.html</link>
-            <guid>4041597</guid>
-            <pubDate>Fri, 21 Feb 2025 20:42:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国生物技术企业BioAge因证券违规而被起诉。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhxxq3043374.d.html</link>
-            <guid>4041596</guid>
-            <pubDate>Fri, 21 Feb 2025 20:39:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合国安理会通过决议，呼吁卢旺达停止支持M23叛军并从刚果撤出所有军队。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhxxt7871397.d.html</link>
-            <guid>4041595</guid>
-            <pubDate>Fri, 21 Feb 2025 20:39:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北美矿产勘探公司K2 Gold宣布将先前宣布的股票发行额提高至300万加元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhxxv4645085.d.html</link>
-            <guid>4041594</guid>
-            <pubDate>Fri, 21 Feb 2025 20:36:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【AMD据悉磋商以高达40亿美元的估值出售服务器工厂】知情人士称，AMD正在就出售其去年同意收购的数据中心制造工厂与亚洲公司进行谈判。仁宝、英业达、和硕和纬创等公司已表示有意收购，包括债务在内，这些资产的估值可能在30亿至40亿美元。出售交易最早可能在第二季度宣布。目前，磋商仍在进行中，不确定AMD是否会达成协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhxxt7870166.d.html</link>
-            <guid>4041593</guid>
-            <pubDate>Fri, 21 Feb 2025 20:35:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沃尔玛和亚马逊扩大人工智能(AI)投资以提高效率。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhxxt7869938.d.html</link>
-            <guid>4041592</guid>
-            <pubDate>Fri, 21 Feb 2025 20:34:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国批准针对万事达卡的集体诉讼和解方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhxxv4644124.d.html</link>
-            <guid>4041591</guid>
-            <pubDate>Fri, 21 Feb 2025 20:33:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【CFTC：2月18日当周 投机者所持WTI原油净多头头寸下降18907手合约】据美国商品期货交易委员会（CFTC），截至2月18日当周，投机者所持WTI原油净多头头寸下降18,907手合约，至103,330手合约，创16周新低。所持布伦特和WTI原油净多头头寸减少48,868手合约，至325,974手合约，创八周新低。所持NYMEX汽油净多头头寸降低至45,856手合约，创三周新低。所持NYMEX取暖油净多头头寸降低至11,872手合约。所持NYMEX天然气净多头头寸增至435,480手合约，创逾三年来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhxxq3042430.d.html</link>
-            <guid>4041590</guid>
-            <pubDate>Fri, 21 Feb 2025 20:30:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【CFTC：截至2月18日当周 投机者所持COMEX黄金净多头头寸下降13605手合约】据美国商品期货交易委员会（CFTC），截至2月18日当周，投机者所持COMEX黄金净多头头寸下降13,605手合约，至201,962手合约，创六周新低。所持COMEX白银净多头头寸增至39,402手合约，创16周新高。所持COMEX铜净多头头寸增至26,595手合约，创逾四个月新高。所持NYMEX铂金净多头头寸降低至19,573手合约，所持NYMEX钯金净空头头寸降低至7,109手合约。]]></title>
-            <guid>4041589</guid>
-            <pubDate>Fri, 21 Feb 2025 20:30:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫官员：特朗普将签署国家安全备忘录，旨在促进外国投资，同时保护美国国家安全利益免受中国等外国对手的威胁。]]></title>
-            <guid>4041588</guid>
-            <pubDate>Fri, 21 Feb 2025 20:28:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[百事可乐公司将关闭纽约工厂，裁员近300人。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhxxv4641939.d.html</link>
-            <guid>4041587</guid>
-            <pubDate>Fri, 21 Feb 2025 20:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行行长Macklem：货币政策应该确保高物价不会成为持续的通胀。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhxxq3041724.d.html</link>
-            <guid>4041586</guid>
-            <pubDate>Fri, 21 Feb 2025 20:25:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【10年期美债收益率周五跌超9个基点，本周整体冲高回落下行】 周五（2月21日）纽约尾盘，美国10年期国债收益率跌9.14个基点，报4.4139%，本周（四个交易日）累计下跌6.04个基点，2月19日涨至4.5738%之后逐步回落，2月21日加速下行。两年期美债收益率跌7.83个基点，报4.1916%，本周累跌6.94个基点，整体交投于4.3079%-4.1853%区间。2/10年期美债收益率利差跌1.123个基点，报+22.205个基点，本周累涨1.105个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhxxt7866196.d.html</link>
-            <guid>4041585</guid>
-            <pubDate>Fri, 21 Feb 2025 20:24:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[贝克休斯石油与天然气钻井周报：本周美国石油钻井数量增加7座，增至488座。天然气钻井数量减少2座，降至99座。]]></title>
-            <guid>4041584</guid>
-            <pubDate>Fri, 21 Feb 2025 20:23:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源委员会主席伯格姆呼吁美国每家发电厂将发电量扩大10-15%，以满足人工智能需求。]]></title>
-            <guid>4041583</guid>
-            <pubDate>Fri, 21 Feb 2025 20:19:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[芝加哥联储行长奥斯坦-古尔斯比：钢铁关税将提高芝加哥地区的生产成本。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhtrp2276208.d.html</link>
-            <guid>4041582</guid>
-            <pubDate>Fri, 21 Feb 2025 20:19:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国加州洛杉矶市消防局局长被免职】当地时间2月21日，美国加利福尼亚州洛杉矶市市长卡伦·巴斯宣布，她已正式免除洛杉矶市消防局局长克丽斯廷·克劳利的职务。1月7日起，加州洛杉矶县接连爆发山火。据“准确天气预报”公司估算，洛杉矶地区此轮山火造成的经济损失在2500亿和2750亿美元之间，预计将成为美国迄今为止损失最严重的自然灾害。加州和洛杉矶地区政府以及相关机构官员因应对山火不力而饱受批评。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhtrv7993695.d.html</link>
-            <guid>4041581</guid>
-            <pubDate>Fri, 21 Feb 2025 20:15:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普周五发言和发帖内容：关税、苹果、乌克兰、通吃摇摆州】
-讲话
-①重申从4月2日起对进口汽车征收25%的关税。
-②苹果公司首席执行官蒂姆·库克本周承诺将把制造业从墨西哥转移到美国。
-③将允许人工智能公司拥有自己的发电厂。
-④美国正在与俄罗斯和乌克兰谈判。
-⑤对福克斯新闻电台表示，不需要让乌克兰总统泽连斯基参与和俄罗斯的停战谈判。
-发帖
-他在自己的社交媒体平台Truth Social发帖说：我以压倒性优势赢得了总统大选，拿下了所有七个摇摆州，赢得了普选投票，而且所有五十个州都转向共和党，创下了纪录，现在我的民调数字是我有史以来最好的。民主党在James Carville这样体弱心虚、崩溃的失败者领导下正走向疯狂，也根本不知道该如何是好。他们已经丧失了信心和斗志—他们已经失去了理智！我们的国家将大获全胜，美国将再次伟大。这一切已经发生，而且会比以往任何时候都更伟大、更美好！]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhtrx4766260.d.html</link>
-            <guid>4041579</guid>
-            <pubDate>Fri, 21 Feb 2025 20:09:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美元指数21日上涨】衡量美元对六种主要货币的美元指数当天上涨0.22%，在汇市尾市收于106.612。截至纽约汇市尾市，1欧元兑换1.0462美元，低于前一交易日的1.0501美元；1英镑兑换1.2630美元，低于前一交易日的1.2670美元。1美元兑换149.08日元，低于前一交易日的149.78日元；1美元兑换0.8973瑞士法郎，低于前一交易日的0.8977瑞士法郎；1美元兑换1.4231加元，高于前一交易日的1.4174加元；1美元兑换10.6520瑞典克朗，高于前一交易日的10.6303瑞典克朗。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhtrx4765508.d.html</link>
-            <guid>4041578</guid>
-            <pubDate>Fri, 21 Feb 2025 20:07:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【加拿大央行行长预计与美国的关税战将导致产出下降近3%】虽然加拿大央行行长Tiff Macklem坚称对关税战的货币政策回应有限，但他对关税战可能对经济造成的损害有着清晰看法。“与美国的贸易摩擦加剧是新现实，”他周五在多伦多地区的一次演讲中说道。虽然关税的时间、程度和持续时间还不确定，但这位行长说，似乎不可避免地“要造成结构性调整”。这位行长列出了如果美国对加拿大能源产品加征10%的关税、对其他所有产品加征25%关税将带来的连锁反应。如果美国实施加征关税，加拿大将针对某些产品采取报复性措施。Macklem说，总体来看，美加关税战将导致加拿大产出在未来两年下跌近3%，并在此期间“抹去增长”。虽然经济可能在最初冲击后再次扩张，但长期增长路径将比没有关税的情况低2.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhtrv7990178.d.html</link>
-            <guid>4041577</guid>
-            <pubDate>Fri, 21 Feb 2025 20:05:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【保险业启动商业健康险药品目录体系建设】推动社会医疗保障水平进一步提升，保险业启动商业健康险药品目录体系建设。中国保险行业协会近期组织召开座谈会，研究推进商业健康保险药品目录体系建设。记者从与会人士处了解到，该目录体系的建设目标是“全覆盖、多层次”，与基本医保“广覆盖、保基本”的定位互为补充，旨在更好发挥商业健康保险的补充支付作用，助力我国多层次医疗保障体系建设。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhtrv7989892.d.html</link>
-            <guid>4041576</guid>
-            <pubDate>Fri, 21 Feb 2025 20:04:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国农业部：1月份美国家禽屠宰量上涨1.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhtrv7988202.d.html</link>
-            <guid>4041575</guid>
-            <pubDate>Fri, 21 Feb 2025 20:00:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cineworld将邀请摩根大通和巴克莱进行首次公开募股或潜在的合并。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemhtrv7984937.d.html</link>
-            <guid>4041574</guid>
-            <pubDate>Fri, 21 Feb 2025 19:51:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
