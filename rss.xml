@@ -4,11 +4,30 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 23 Feb 2025 20:21:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Feb 2025 21:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【黎巴嫩真主党前领导人纳斯鲁拉葬礼在贝鲁特举行】黎巴嫩真主党23日在黎首都贝鲁特为真主党前领导人纳斯鲁拉和萨菲丁举行葬礼。据真主党旗下灯塔电视台报道，真主党领导人卡西姆在葬礼现场发表视频讲话，誓言“无论付出多少牺牲，抵抗仍将继续”，并强调真主党对巴勒斯坦事业的承诺不会动摇。卡西姆指责以色列违反黎以停火协议，称以军仍在黎巴嫩南部5个据点驻守，并警告说“黎巴嫩不会容忍持续的占领和侵略”，真主党将根据自身判断采取军事行动。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-24/detail-inempnct2577546.d.html</link>
+            <guid>4043883</guid>
+            <pubDate>Sun, 23 Feb 2025 21:09:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国自民党主席：若党派没能进入议会 其将退出政坛】当地时间23日晚，德国自由民主党主席林德纳宣布，如果该党最终因得票率不到5%而没能进入联邦议院，自己将退出政坛。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-24/detail-inempnct2577472.d.html</link>
+            <guid>4043882</guid>
+            <pubDate>Sun, 23 Feb 2025 21:08:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄称打击乌指挥官集合地点 乌称将装备新的远程打击武器】俄罗斯国防部23日称，过去一天，俄军在顿涅茨克、赫尔松等地区击退乌军并发动攻势，摧毁了乌军大量坦克、装甲车等装备和数个电子战基站、弹药库等。此外，俄军还打击了乌军指挥官集合地点、军事机场基础设施和燃料储存设施等。
+乌克兰方面23日称，乌军在波克罗夫斯克方向、库尔斯克方向，击退了俄军多次进攻。乌克兰武装部队总司令瑟尔斯基表示，乌方准备装备新的远程打击武器，可以攻击俄境内1700公里的纵深目标，而且打击距离在不断增加。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-24/detail-inempncv0437330.d.html</link>
+            <guid>4043881</guid>
+            <pubDate>Sun, 23 Feb 2025 20:21:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国国防部要求工作人员暂停对政府效率部关于工作详情的回应。]]></title>
             <link>https://finance.sina.cn/7x24/2025-02-24/detail-inempfvt5925507.d.html</link>
@@ -277,24 +296,6 @@
             <link>https://finance.sina.cn/7x24/2025-02-24/detail-inemnzpx2789250.d.html</link>
             <guid>4043784</guid>
             <pubDate>Sun, 23 Feb 2025 16:54:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泽连斯基：未收到美国将关闭“星链”服务的警告 但将做好准备】当地时间2月23日，乌克兰总统泽连斯基表示，他没有收到任何有关美国可能切断“星链”系统在乌克兰终端的暗示或警告，但他表示乌克兰正在为这种可能做好准备。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-24/detail-inemnzpx2788538.d.html</link>
-            <guid>4043780</guid>
-            <pubDate>Sun, 23 Feb 2025 16:51:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟将于3月6日就乌克兰问题举行紧急国防峰会。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-24/detail-inemnzpx2788288.d.html</link>
-            <guid>4043776</guid>
-            <pubDate>Sun, 23 Feb 2025 16:50:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京任命俄罗斯主权财富基金负责人基里尔·德米特里耶夫为负责对外投资和经济合作的总统特别代表。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-24/detail-inemnzpx2785713.d.html</link>
-            <guid>4043762</guid>
-            <pubDate>Sun, 23 Feb 2025 16:38:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
