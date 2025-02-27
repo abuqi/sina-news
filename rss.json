@@ -6,10 +6,183 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 4053354,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfv7500188.d.html",
+            "title": "以色列将调查卡塔尔与内塔尼亚胡助手之间疑似存在的关联。",
+            "date_modified": "2025-02-27T19:17:11.000Z"
+        },
+        {
+            "id": 4053353,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfv7500100.d.html",
+            "title": "埃及和俄罗斯外长通电话讨论加沙和叙利亚局势等】埃及外交部27日发布消息说，埃及外长阿卜杜勒阿提当天与俄罗斯外长拉夫罗夫通电话，双方重点就加沙地带和叙利亚局势交换意见。消息说，阿卜杜勒阿提重申，埃及反对将巴勒斯坦人驱离加沙地带的立场，并强调必须就巴勒斯坦问题达成永久和公正的政治解决办法。埃及正在制订让巴勒斯坦人留在自己土地上的重建加沙地带计划。埃及为确保加沙地带停火协议的可持续性而努力。两国外长还讨论了叙利亚最新事态发展。阿卜杜勒阿提重申，埃及支持叙利亚，尊重其主权、统一和领土完整。两国外长还讨论了埃俄双边关系。阿卜杜勒阿提高度评价两国在石油、天然气、旅游和航空等各领域的合作，特别提到埃及达巴核电站项目和埃及苏伊士运河经济区俄罗斯工业园项目。（新华社）",
+            "date_modified": "2025-02-27T19:16:31.000Z"
+        },
+        {
+            "id": 4053352,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6095698.d.html",
+            "title": "【库尔德工人党领导人呼吁放下武器 伊拉克库区主席表示欢迎】当地时间2月27日，据伊拉克库尔德自治区（库区）主席府声明，库区主席内奇尔万·巴尔扎尼对库尔德工人党领导人阿卜杜拉·厄贾兰的声明表示欢迎。厄贾兰在声明中明确提出“库尔德工人党应召开大会并宣布自行解散”。巴尔扎尼在声明中表示，这一举措是“实现该地区和平进程的重要一步”。他强调，现阶段需要“和平、文明和民主的斗争”，并指出“应通过对话和政治行动而非武器和暴力”实现该地区稳定。声明称，伊拉克库区完全支持和平进程，并愿采取一切必要措施，以确保和平进程的成功实现。（央视新闻）",
+            "date_modified": "2025-02-27T19:15:57.000Z"
+        },
+        {
+            "id": 4053351,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfz2869937.d.html",
+            "title": "法官表示，以色列总理内塔尼亚胡每周将出庭作证两次，而不是三次。",
+            "date_modified": "2025-02-27T19:14:28.000Z"
+        },
+        {
+            "id": 4053350,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6095262.d.html",
+            "title": "                                                                                                                        纳斯达克指数最新报18899.22，日内跌0.92%。",
+            "date_modified": "2025-02-27T19:13:50.000Z"
+        },
+        {
+            "id": 4053349,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfz2869491.d.html",
+            "title": "【OpenAI正推出GPT4.5研究预览版 情商更高、幻觉更少】OpenAI发布的System Card报告中表示，其正在发布OpenAI GPT-4.5的研究预览版，这是其迄今为止最大、知识最丰富的模型。在GPT - 4o的基础上，GPT-4.5进一步扩展了预训练，并被设计成比其强大的stem推理模型更通用。早期测试表明，与GPT-4.5互动感觉更自然。它拥有更广泛的知识库，更符合用户意图，情商更高，因此非常适合写作、编程和解决实际问题等任务，而且幻觉更少。",
+            "date_modified": "2025-02-27T19:11:49.000Z"
+        },
+        {
+            "id": 4053347,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6093934.d.html",
+            "title": "加密数字货币公司Consensys：美国证券交易委员会（SEC）将放弃执法。",
+            "date_modified": "2025-02-27T19:06:22.000Z"
+        },
+        {
+            "id": 4053346,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6093693.d.html",
+            "title": "美国交通部长：联邦航空局（FAA）将提高初级空中交通管制员的薪资，缩短招聘时间。",
+            "date_modified": "2025-02-27T19:05:10.000Z"
+        },
+        {
+            "id": 4053345,
+            "content_html": "",
+            "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.2870元，较周三夜盘收盘跌290点。成交量395.56亿美元。",
+            "date_modified": "2025-02-27T19:04:52.000Z"
+        },
+        {
+            "id": 4053344,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6093490.d.html",
+            "title": "【国际汽车芯片巨头业绩下滑 中国市场或成制胜关键】尽管AI浪潮推动了全球数据中心半导体市场蓬勃发展，但汽车和工业半导体市场需求仍显疲弱。近期，德州仪器、意法半导体、恩智浦、英飞凌等全球头部IDM（集成设备制造商）最新财报相继发布，这些公司的汽车业务均表现不佳，显示汽车半导体正陷入比预期更长的低迷期。不过分区域看，中国汽车芯片市场表现更为健康和稳定，这也吸引了上述厂商投注更多精力。对于这些变化，近日科技部国家科技库专家周迪向证券时报记者分析，在行业疲弱背景下，中国市场或成为全球汽车芯片厂商未来破局的关键因素，这主要基于：中国新能源汽车和智能驾驶的普及，为全球汽车芯片厂商提供了更多的市场机会；中国政府在新能源汽车和智能驾驶领域的支持政策也为行业带来了更多的发展机遇。因此，中国市场对于全球汽车芯片厂商来说，将成为一个重要的增长领域。",
+            "date_modified": "2025-02-27T19:04:26.000Z"
+        },
+        {
+            "id": 4053343,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhhc0487820.d.html",
+            "title": "美国交通部长：计划加大对空中交通管制员的招聘力度。",
+            "date_modified": "2025-02-27T19:03:26.000Z"
+        },
+        {
+            "id": 4053342,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfv7497010.d.html",
+            "title": "美国交通部长：FAA为空中交通管制员开放招聘窗口。",
+            "date_modified": "2025-02-27T19:01:24.000Z"
+        },
+        {
+            "id": 4053341,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfz2866813.d.html",
+            "title": "美联储哈马克：我们更关注流动性传导和流动性的变化，而非储备水平。",
+            "date_modified": "2025-02-27T19:00:41.000Z"
+        },
+        {
+            "id": 4053340,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfv7496668.d.html",
+            "title": "恒指期货夜盘收涨0.15%，报23715点，低水4点。",
+            "date_modified": "2025-02-27T19:00:17.000Z"
+        },
+        {
+            "id": 4053339,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6091812.d.html",
+            "title": "摩根大通：担保隔夜融资利率（SOFR）/美国联邦基金基差可能会在未来数月持平。",
+            "date_modified": "2025-02-27T18:57:44.000Z"
+        },
+        {
+            "id": 4053338,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfv7496157.d.html",
+            "title": "【里士满联储行长：政府效率部对经济的影响仍有待观察】里士满联储行长Thomas Barkin说，政府裁员是真实存在的，但政府效率部(DOGE)推动的降本行动对经济的更广泛影响将取决于对公众的更广泛影响。",
+            "date_modified": "2025-02-27T18:55:12.000Z"
+        },
+        {
+            "id": 4053336,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfz2865060.d.html",
+            "title": "美联储哈马克：在必要时，贴现窗口对银行来说是一个“非常有用的工具”。",
+            "date_modified": "2025-02-27T18:51:53.000Z"
+        },
+        {
+            "id": 4053335,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfz2864856.d.html",
+            "title": "美联储哈马克：当银行将监管机构视为合作伙伴时，结果会最好。",
+            "date_modified": "2025-02-27T18:50:52.000Z"
+        },
+        {
+            "id": 4053334,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6089842.d.html",
+            "title": "美联储哈马克：建议比惩罚更能发挥监管的作用。",
+            "date_modified": "2025-02-27T18:48:59.000Z"
+        },
+        {
+            "id": 4053333,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfz2864348.d.html",
+            "title": "美联储哈马克：支持在私人信贷方面有更多透明度。",
+            "date_modified": "2025-02-27T18:48:41.000Z"
+        },
+        {
+            "id": 4053332,
+            "content_html": "",
+            "title": "巴西国家石油公司首席执行官：不知晓巴西环境局工作人员就亚马逊河口钻探许可作出的任何决定。",
+            "date_modified": "2025-02-27T18:43:12.000Z"
+        },
+        {
+            "id": 4053331,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6088038.d.html",
+            "title": "美国卫生与公众服务部解雇执行医疗保险药品成本削减的律师。",
+            "date_modified": "2025-02-27T18:41:33.000Z"
+        },
+        {
+            "id": 4053330,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6087010.d.html",
+            "title": "市场消息：安联计划回购至多20亿欧元股票。",
+            "date_modified": "2025-02-27T18:37:23.000Z"
+        },
+        {
+            "id": 4053329,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfz2860768.d.html",
+            "title": "巴西财政部官员：我们预计2025年预算法案将于3月的第三周在国会进行投票表决。",
+            "date_modified": "2025-02-27T18:34:38.000Z"
+        },
+        {
+            "id": 4053328,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6085923.d.html",
+            "title": "【消息人士：制裁及关税不确定性仍存 欧佩克+对4月提高产量犹豫不决】消息人士称，欧佩克+正在讨论是按计划在4月份提高石油产量，还是冻结石油产量。由于美国对委内瑞拉、伊朗和俄罗斯实施新的制裁，欧佩克+成员国难以解读全球供应形势。欧佩克+通常会提前一个月确认其供应政策，以便有时间将原油分配给买家。因此，该组织必须在3月5日至7日之前敲定4月份的产量，但迄今尚未达成共识。一些消息人士称，在欧佩克+内部，阿联酋渴望利用其不断增长的产能，希望继续增加产量，俄罗斯也是如此。而包括沙特在内的其他成员国则赞成推迟增产。消息人士表示，近期的看涨和看跌因素结合使得4月份的决策变得极其复杂。他们补充称，特朗普的全球关税计划可能会减少石油需求，并使前景进一步复杂化。",
+            "date_modified": "2025-02-27T18:33:00.000Z"
+        },
+        {
             "id": 4053327,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6085406.d.html",
-            "title": "上期所原油期货2404合约夜盘收涨1.62%，报545.30元人民币/桶。",
+            "title": "上期所原油期货主力合约夜盘收涨1.62%，报545.30元/桶。沪金夜盘收跌0.25%，沪银收涨0.01%。",
             "date_modified": "2025-02-27T18:30:15.000Z"
         },
         {
@@ -32,13 +205,6 @@
             "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6084277.d.html",
             "title": "据CoinDesk：加密交易平台BitMEX正在寻求买家。",
             "date_modified": "2025-02-27T18:24:19.000Z"
-        },
-        {
-            "id": 4053323,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhhc0482209.d.html",
-            "title": "特朗普似乎又称泽连斯基是“独裁者”。",
-            "date_modified": "2025-02-27T18:23:45.000Z"
         },
         {
             "id": 4053322,
@@ -186,174 +352,6 @@
             "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhhc0480929.d.html",
             "title": "特朗普：乌克兰不会加入北约。",
             "date_modified": "2025-02-27T18:14:52.000Z"
-        },
-        {
-            "id": 4053300,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6082220.d.html",
-            "title": "美国总统特朗普：将与乌克兰总统泽连斯基一起签署协议。",
-            "date_modified": "2025-02-27T18:13:55.000Z"
-        },
-        {
-            "id": 4053299,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfz2856754.d.html",
-            "title": "特朗普：加拿大应该截获更多的芬太尼。",
-            "date_modified": "2025-02-27T18:13:47.000Z"
-        },
-        {
-            "id": 4053298,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfz2856691.d.html",
-            "title": "美国总统特朗普：（被问及是否信任普京时）我信任但要核实。",
-            "date_modified": "2025-02-27T18:13:18.000Z"
-        },
-        {
-            "id": 4053297,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6081589.d.html",
-            "title": "美国总统特朗普：将安全保障投入乌克兰是简单的部分，达成协议才是困难的部分。",
-            "date_modified": "2025-02-27T18:10:37.000Z"
-        },
-        {
-            "id": 4053296,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6081484.d.html",
-            "title": "英国首相斯塔默：我将与美国总统特朗普讨论如何确保任何乌克兰和平协议不被俄罗斯违反。",
-            "date_modified": "2025-02-27T18:10:17.000Z"
-        },
-        {
-            "id": 4053295,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6081299.d.html",
-            "title": "美国总统特朗普：我认为与俄罗斯达成的协议会有效。",
-            "date_modified": "2025-02-27T18:09:31.000Z"
-        },
-        {
-            "id": 4053294,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6081184.d.html",
-            "title": "美国总统特朗普：我认为俄罗斯总统普京会信守承诺。",
-            "date_modified": "2025-02-27T18:09:05.000Z"
-        },
-        {
-            "id": 4053293,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfz2855487.d.html",
-            "title": "欧洲央行：TARGET 2系统正在正常运行，事故已得到解决。",
-            "date_modified": "2025-02-27T18:08:14.000Z"
-        },
-        {
-            "id": 4053292,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6080811.d.html",
-            "title": "特朗普：4月2日是对等关税日期。",
-            "date_modified": "2025-02-27T18:07:54.000Z"
-        },
-        {
-            "id": 4053291,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhhc0479598.d.html",
-            "title": "特朗普：没看到加拿大和墨西哥在控制毒品流动方面的进展。",
-            "date_modified": "2025-02-27T18:07:38.000Z"
-        },
-        {
-            "id": 4053290,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfv7489283.d.html",
-            "title": "美国总统特朗普：如果与乌克兰达成和平协议，我认为普京不会再次进行军事行动。",
-            "date_modified": "2025-02-27T18:05:56.000Z"
-        },
-        {
-            "id": 4053289,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfz2854538.d.html",
-            "title": "美国总统特朗普：（被问及是否会对英国实施制裁时）我需要先进行评估。",
-            "date_modified": "2025-02-27T18:05:18.000Z"
-        },
-        {
-            "id": 4053288,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfv7488962.d.html",
-            "title": "美国总统特朗普：欧盟对苹果的决定是荒谬的。",
-            "date_modified": "2025-02-27T18:04:59.000Z"
-        },
-        {
-            "id": 4053287,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6079634.d.html",
-            "title": "Meta与Apollo就350亿美元数据中心融资事宜进行磋商。",
-            "date_modified": "2025-02-27T18:04:00.000Z"
-        },
-        {
-            "id": 4053286,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhhc0478590.d.html",
-            "title": "美国总统特朗普：我们为北约支付了不成比例的份额。",
-            "date_modified": "2025-02-27T18:03:32.000Z"
-        },
-        {
-            "id": 4053285,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfz2853938.d.html",
-            "title": "美国总统特朗普：欧盟在贸易问题上对我们非常强硬。",
-            "date_modified": "2025-02-27T18:03:01.000Z"
-        },
-        {
-            "id": 4053284,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfz2853880.d.html",
-            "title": "特朗普：将对欧盟征收对等关税。",
-            "date_modified": "2025-02-27T18:02:42.000Z"
-        },
-        {
-            "id": 4053283,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6079257.d.html",
-            "title": "美国总统特朗普：我们不喜欢欧盟对待我们企业的方式。",
-            "date_modified": "2025-02-27T18:02:26.000Z"
-        },
-        {
-            "id": 4053281,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6079007.d.html",
-            "title": "美国总统特朗普批评欧盟增值税。",
-            "date_modified": "2025-02-27T18:01:23.000Z"
-        },
-        {
-            "id": 4053280,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfz2853387.d.html",
-            "title": "美国总统特朗普：认为当时（英国）脱欧是正确的选择。",
-            "date_modified": "2025-02-27T18:00:31.000Z"
-        },
-        {
-            "id": 4053279,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfv7488118.d.html",
-            "title": "美国总统特朗普：俄罗斯表现非常良好，我们在和平协议方面进展顺利。",
-            "date_modified": "2025-02-27T17:59:34.000Z"
-        },
-        {
-            "id": 4053278,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfv7488095.d.html",
-            "title": "美国总统特朗普：我们与俄罗斯和乌克兰进行了非常良好的对话。",
-            "date_modified": "2025-02-27T17:59:24.000Z"
-        },
-        {
-            "id": 4053277,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfz2853124.d.html",
-            "title": "美国总统特朗普：我们需要首先达成协议，然后才能组建维和部队，目前我们尚未达成协议。",
-            "date_modified": "2025-02-27T17:59:17.000Z"
-        },
-        {
-            "id": 4053276,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6078488.d.html",
-            "title": "特朗普：我们在协议上取得了很大进展但协议尚未完成。",
-            "date_modified": "2025-02-27T17:59:01.000Z"
         }
     ]
 }
