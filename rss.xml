@@ -4,11 +4,32 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 01 Mar 2025 18:27:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Mar 2025 19:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【伊朗东南部发生袭击事件致2人死亡】据伊朗伊斯兰革命卫队旗下媒体赛帕新闻网3月1日报道，2名革命卫队下属“动员穷人组织”志愿军成员当天在伊朗东南部锡斯坦－俾路支斯坦省发生的一次袭击事件中死亡。（央视新闻）]]></title>
+            <guid>4056432</guid>
+            <pubDate>Sat, 01 Mar 2025 19:08:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊拉克石油部：已经在全球范围内邀请外资公司参加3月4日（下周二）在首都巴格达举办的会议。伊拉克政府希望，外资公司按库尔德斯坦石油工业协会（APIKUR）框架来经营，从而与库尔德斯坦自治区政府（KRG）合作的那些公司承包库尔德的合同。]]></title>
+            <guid>4056407</guid>
+            <pubDate>Sat, 01 Mar 2025 18:42:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国总统府：法国总统马克龙周六与乌克兰总统泽连斯基、美国总统特朗普、英国首相斯塔默进行了交谈。]]></title>
+            <guid>4056406</guid>
+            <pubDate>Sat, 01 Mar 2025 18:42:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【电影《死侍》男星旗下互联网广告公司MNTN Inc.申请美国IPO】 2月28日，互联网电视广告平台MNTN Inc.申请美国首次公开募股（IPO），该公司计划按代码“MNTN”在纽约证券交易所上市。好莱坞明星瑞安·雷诺兹（Ryan Reynolds）担任该公司首席创意官，该公司于2021年收购了雷诺兹的创意公司Maximum Effort。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-02/detail-ineneumy8391099.d.html</link>
+            <guid>4056400</guid>
+            <pubDate>Sat, 01 Mar 2025 18:36:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【推迟一个月 国际原子能机构驻扎波罗热核电站观察团完成例行人员轮换】据扎波罗热核电站新闻部门发布的公告，当地时间3月1日，国际原子能机构驻扎波罗热核电站观察团完成了例行人员轮换，由3名专家组成的第27组常驻人员首次完全经由俄罗斯领土进入核电站。公告表示，本次轮换原定于一个月前完成，因乌克兰武装力量“挑衅”而被两次推迟。为确保观察员顺利轮换，国际原子能机构和俄罗斯国家原子能集团公司在整个2月进行了密集的磋商，俄国防部和国民卫队为轮换提供了安全保障。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2025-03-02/detail-ineneumv4093943.d.html</link>
@@ -277,29 +298,6 @@
             <link>https://finance.sina.cn/7x24/2025-03-01/detail-ineneiwc1058742.d.html</link>
             <guid>4056239</guid>
             <pubDate>Sat, 01 Mar 2025 13:41:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国外交部长贝尔伯克：必须立即加大德国对乌克兰的支持。在乌克兰防御问题上，我们必须与波兰、法国和其他国家更紧密地合作。]]></title>
-            <guid>4056233</guid>
-            <pubDate>Sat, 01 Mar 2025 13:39:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国证监会：有序开展数字人民币在香港试点】日前，中国证监会发布关于政协十四届全国委员会第二次会议提案答复的函。其中提到，中国证监会与有关部门将进一步优化拓展内地与香港金融市场互联互通，持续优化股票通、债券通、基金互认等机制，在总结既有经验基础上深入研究论证香港公司到内地上市的可行性，结合市场需求持续推动优化“跨境理财通”业务试点，结合实际有序开展数字人民币在香港试点等，全面深化内地与香港紧密实务合作，巩固提升香港国际金融中心地位。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-01/detail-ineneivz4282759.d.html</link>
-            <guid>4056232</guid>
-            <pubDate>Sat, 01 Mar 2025 13:37:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马斯克：“他们不仅想杀了我，还想亵渎我的尸体”】马斯克周五现身乔·罗根的播客节目，在长达三个小时的深度访谈中，马斯克谈到了他在特朗普的政府效率部（DOGE）的工作引发的针对他个人的仇恨情绪。罗根问这位亿万富翁，他个人是如何处理对他的仇恨和攻击的。“压力很大，”马斯克语气严肃地说，“他们其实是想杀了我。网上都这么说。在Reddit论坛上，他们不仅想杀了我，还想亵渎我的尸体。”马斯克还谈到了他在特朗普就职典礼上的有争议的手势，说他不是纳粹分子。他还开玩笑地说：“现在我再也不能对角线地指向物体了。”]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-01/detail-ineneiwc1057060.d.html</link>
-            <guid>4056231</guid>
-            <pubDate>Sat, 01 Mar 2025 13:36:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【玻利维亚发生客车相撞事故 至少15人死亡】据当地媒体3月1日报道，玻利维亚当日凌晨4时左右发生一起车祸，已导致至少15人死亡。根据初步报告，事故发生在玻利维亚西南部乌尤尼地区，两辆公共客车迎面相撞造成多人死伤。事故原因正在调查中。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-01/detail-ineneivz4282288.d.html</link>
-            <guid>4056230</guid>
-            <pubDate>Sat, 01 Mar 2025 13:35:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
