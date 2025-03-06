@@ -4,11 +4,199 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Thu, 06 Mar 2025 16:28:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Mar 2025 17:19:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国财长贝森特：过度使用制裁可能影响美元霸权。]]></title>
+            <guid>4066495</guid>
+            <pubDate>Thu, 06 Mar 2025 17:19:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英伟达盘中跌幅扩大至5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-07/detail-inentxuz3169406.d.html</link>
+            <guid>4066493</guid>
+            <pubDate>Thu, 06 Mar 2025 17:18:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长贝森特：我们正在识别非关税壁垒，即那些不公平地对美国出口商处以罚款的法律；特朗普政府正在识别那些削弱竞争、压低工资、操纵货币的行为者。]]></title>
+            <guid>4066492</guid>
+            <pubDate>Thu, 06 Mar 2025 17:18:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【沪锡夜盘收涨超2.1%，国际铜、沪铜、沪锌、沪镍至多涨约1.8%】国际铜夜盘收涨1.77%，沪铜收涨1.40%，沪铝收涨0.50%，沪锌收涨1.05%，沪铅收涨0.69%，沪镍收涨1.45%，沪锡收涨2.13%。氧化铝夜盘收涨0.12%。不锈钢夜盘收涨0.75%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-07/detail-inentxux6394399.d.html</link>
+            <guid>4066491</guid>
+            <pubDate>Thu, 06 Mar 2025 17:16:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚特兰大联储GDPNow模型预计2025年美国第一季度GDP增速为-2.4%，此前预计为-2.8%。]]></title>
+            <guid>4066490</guid>
+            <pubDate>Thu, 06 Mar 2025 17:13:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国敦促乌克兰尽快停火，以达成矿产协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-07/detail-inentxvc0492294.d.html</link>
+            <guid>4066489</guid>
+            <pubDate>Thu, 06 Mar 2025 17:10:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长贝森特：银行监管机构应该分析补充杠杆限制。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-07/detail-inentxuv7502286.d.html</link>
+            <guid>4066488</guid>
+            <pubDate>Thu, 06 Mar 2025 17:09:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长贝森特：如有必要，将毫不犹豫地制裁俄罗斯。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-07/detail-inentxux6393041.d.html</link>
+            <guid>4066487</guid>
+            <pubDate>Thu, 06 Mar 2025 17:09:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油期货下跌1.07%，暂报65.60美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-07/detail-inentxux6392450.d.html</link>
+            <guid>4066485</guid>
+            <pubDate>Thu, 06 Mar 2025 17:07:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长贝森特：特朗普的关税政策已经开始重塑我们的国际经济关系。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-07/detail-inentxvc0491782.d.html</link>
+            <guid>4066484</guid>
+            <pubDate>Thu, 06 Mar 2025 17:06:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长贝森特宣称：美国将关闭伊朗进入全球金融体系的通道。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-07/detail-inentxuz3166779.d.html</link>
+            <guid>4066483</guid>
+            <pubDate>Thu, 06 Mar 2025 17:05:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳斯达克综合指数日内跌幅达2.0%，报18175.40点。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-07/detail-inentxux6391899.d.html</link>
+            <guid>4066482</guid>
+            <pubDate>Thu, 06 Mar 2025 17:04:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[房地美：3月6日当周，美国30年期固定利率抵押贷为6.63%，为2024年12月12日当周以来最低水平，单周降幅创9月中旬以来最大。前一周为6.76%。]]></title>
+            <guid>4066481</guid>
+            <pubDate>Thu, 06 Mar 2025 17:00:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧股“十一罗汉”｜诺和诺德收跌超3%，该公司CEO对特朗普关税的影响感到忧心忡忡】周四（3月6日），阿斯麦控股荷兰阿姆斯特丹股价（ASML.NA）收跌0.40%，报670.00欧元。诺和诺德哥本哈根股价（NOVOB.DC）收跌3.02%，报612.40（丹麦克朗）。LVMH集团收跌1.7%，德国思爱普Sap跌1.27%，诺华制药、雀巢、阿斯利康、罗氏制药业跌0.53%-0.16%。欧莱雅与赛诺菲则收分别收涨0.38%和0.75%，葛兰素史克涨1.18%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-07/detail-inentxux6390996.d.html</link>
+            <guid>4066479</guid>
+            <pubDate>Thu, 06 Mar 2025 16:59:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥股指短线反弹，涨超0.5%刷新日高，随后回吐涨幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-07/detail-inentxuv7500839.d.html</link>
+            <guid>4066477</guid>
+            <pubDate>Thu, 06 Mar 2025 16:58:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥比索兑美元涨0.5%，暂报20.3120比索。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-07/detail-inentxuz3165165.d.html</link>
+            <guid>4066476</guid>
+            <pubDate>Thu, 06 Mar 2025 16:57:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥总统：与特朗普的通话“出色且相互尊重”，将继续共同努力，特别是在移民和安全方面，尤其是关于芬太尼进入美国的问题，我们还将共同努力打击枪支走私进入墨西哥。]]></title>
+            <guid>4066475</guid>
+            <pubDate>Thu, 06 Mar 2025 16:56:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧元区法意西希四国主权债收益率至少涨超6个基点】周四（3月6日）欧市尾盘，法国10年期国债收益率涨6.8个基点，报3.559%，“跳空高开”之后，全天高位震荡，北京时间15:54（欧股开盘之前）涨至3.631%。意大利10年期国债收益率涨6.2个基点，报3.963%，“跳空高开”之后，也全天高位震荡，15:54涨至4.022%。西班牙10年期国债收益率涨6.2个基点，报3.460%，15:54涨至3.530%。希腊10年期国债收益率涨7.5个基点，报3.661%，23:06涨至3.719%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-07/detail-inentxux6389780.d.html</link>
+            <guid>4066474</guid>
+            <pubDate>Thu, 06 Mar 2025 16:53:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普政府试图冻结联邦资金 美法官再次下令叫停】美国罗得岛州联邦地区法院法官约翰·麦康奈尔延长了对特朗普政府试图冻结联邦资金的禁令，称这“从根本上破坏了”美国民主。据悉，麦康奈尔当日发布了一项禁令，在诉讼进行期间暂停特朗普政府全面冻结联邦支出的做法。麦康奈尔此前曾下令停止特朗普政府全面冻结联邦资金的计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-07/detail-inentxuz3163509.d.html</link>
+            <guid>4066473</guid>
+            <pubDate>Thu, 06 Mar 2025 16:50:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基：欧洲的工业基础必须增长。欧洲应成为最有效武器的生产地。重铸欧洲军事力量计划是正确的倡议。]]></title>
+            <guid>4066472</guid>
+            <pubDate>Thu, 06 Mar 2025 16:46:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄外交部：俄罗斯未与美国讨论解除制裁问题】俄罗斯外交部发言人扎哈罗娃6日说，俄罗斯方面没有与美国方面讨论有关解除对俄制裁问题。扎哈罗娃当天在例行记者会上说，俄方“不会谈论，也不会讨论”解除制裁的问题。俄方一直强调，制裁具有破坏性和非法性，首先影响的是那些提出和实施制裁的人。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-07/detail-inentxuv7498834.d.html</link>
+            <guid>4066471</guid>
+            <pubDate>Thu, 06 Mar 2025 16:43:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【消息称欧洲央行四月暂停降息可能性正在增强】四位消息人士称，欧洲央行决策者认为，一旦他们对贸易和财政政策有了更清晰的认识，在下一次会议上暂停降息、然后再次降息的可能性越来越大。欧洲央行周四如期降息，但行长拉加德拒绝重复她过去的信息，即降息方向是明确的，这在市场上引起了一些困惑。会后接受采访的消息人士称，他们认为4月暂停降息具有明显的可能性。但他们一致认为，欧洲央行不太可能将利率维持在2.5%，至少根据目前掌握的信息，有必要进一步降息。关键变量包括贸易政策，如果美国对欧盟征收关税，那么更多降息的可能性就会增加，甚至有可能从4月开始。另一方面，欧盟的报复将使情况变得模糊，增加滞胀的风险。此外，如果德国推进其提议的军事和基础设施支出计划，将提高经济增长和通胀，使4月降息可能性降低。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-07/detail-inentxux6387379.d.html</link>
+            <guid>4066470</guid>
+            <pubDate>Thu, 06 Mar 2025 16:43:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泽连斯基:乌克兰和美国下周将举行有意义的会谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-07/detail-inentxux6387321.d.html</link>
+            <guid>4066469</guid>
+            <pubDate>Thu, 06 Mar 2025 16:43:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[明晟公司MSCI北欧国家指数跌0.4%，报386.38点，在3月5日收涨2%之后回吐部分涨幅。瑞典商业和住宅地产管理公司Fastighets AB Balder下跌7.2%，领跌一众成分股。]]></title>
+            <guid>4066468</guid>
+            <pubDate>Thu, 06 Mar 2025 16:41:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[哈马斯发言人：我们已做好应对所有可能性的准备。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-07/detail-inentxuz3161431.d.html</link>
+            <guid>4066467</guid>
+            <pubDate>Thu, 06 Mar 2025 16:41:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油日内跌幅达1.00%，现报65.45美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-07/detail-inentxvc0488415.d.html</link>
+            <guid>4066466</guid>
+            <pubDate>Thu, 06 Mar 2025 16:41:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧股主要指数收盘涨跌不一】欧股主要指数收盘涨跌不一，德国DAX30指数涨1.1%，英国富时100指数跌0.89%，法国CAC40指数涨0.3%，欧洲斯托克50指数涨0.31%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-07/detail-inentxux6386414.d.html</link>
+            <guid>4066465</guid>
+            <pubDate>Thu, 06 Mar 2025 16:39:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至3月6日8周国债竞拍-投标倍数 3.02，前值2.98。美国至3月6日8周国债竞拍-得标利率 4.22%，前值4.24%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-07/detail-inentxux6385643.d.html</link>
+            <guid>4066464</guid>
+            <pubDate>Thu, 06 Mar 2025 16:36:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行消息人士：四月暂停降息的可能性正在增加。利率仍然可能进一步下调，2.5%不太可能是本轮周期的底部。]]></title>
+            <guid>4066463</guid>
+            <pubDate>Thu, 06 Mar 2025 16:36:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国监管机构负责人Hampton Dellinger表示，将结束对特朗普解除他职务决定的诉讼。]]></title>
+            <guid>4066462</guid>
+            <pubDate>Thu, 06 Mar 2025 16:34:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至3月6日4周国债竞拍-得标利率配置百分比 83.68%，前值9.8%。美国至3月6日4周国债竞拍-投标倍数 3，前值3.1。美国至3月6日4周国债竞拍-得标利率 4.23%，前值4.24%。]]></title>
+            <guid>4066461</guid>
+            <pubDate>Thu, 06 Mar 2025 16:32:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【智利北部发生6.2级地震】据欧洲-地中海地震中心报告，当地时间3月6日13时21分，智利北部地区发生6.2级地震，震源深度93公里。目前暂无人员伤亡及财产损失报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-07/detail-inentxuv7496928.d.html</link>
+            <guid>4066460</guid>
+            <pubDate>Thu, 06 Mar 2025 16:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国总统特朗普：豁免墨西哥符合美墨加协定的商品关税至4月2日】美国总统特朗普表示，在与墨西哥总统辛鲍姆会谈后，墨西哥符合美墨加协定的商品不加征关税，豁免墨西哥符合美墨加协定的商品关税至4月2日。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-07/detail-inentxuz3158912.d.html</link>
+            <guid>4066459</guid>
+            <pubDate>Thu, 06 Mar 2025 16:30:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【两年期英债收益率周四冲高回落，欧市尾盘跌约3个基点】周四（3月6日）欧市尾盘，英国10年期国债收益率涨1.2个基点，报4.694%，“跳空高开”欧股开盘时刷新日高至4.789%，最后震荡回落，北京时间22:36（美股开盘后不久）转而跌至4.667%刷新日低。两年期英债收益率跌2.9个基点，报4.245%，日内交投区间为4.379%-4.238%。30年期英债收益率跌0.2个基点，50年期英债收益率跌3.6个基点。2/10年期英债收益率利差涨3.821个基点，报+44.306个基点。]]></title>
             <link>https://finance.sina.cn/7x24/2025-03-07/detail-inentxux6383852.d.html</link>
@@ -107,200 +295,6 @@
             <link>https://finance.sina.cn/7x24/2025-03-07/detail-inentxux6378268.d.html</link>
             <guid>4066441</guid>
             <pubDate>Thu, 06 Mar 2025 16:05:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际货币基金组织发言人：贸易不再是过去全球增长的引擎，并且一直在下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-07/detail-inentxuv7492755.d.html</link>
-            <guid>4066440</guid>
-            <pubDate>Thu, 06 Mar 2025 16:05:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际货币基金组织发言人：美国对加拿大和墨西哥的关税预计会对这两个国家产生显著的不利影响。]]></title>
-            <guid>4066439</guid>
-            <pubDate>Thu, 06 Mar 2025 16:04:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际货币基金组织发言人：乌克兰在结构性改革方面持续取得良好进展；随着俄乌冲突持续，乌克兰的经济前景依然异常不确定。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-07/detail-inentxuz3151997.d.html</link>
-            <guid>4066438</guid>
-            <pubDate>Thu, 06 Mar 2025 16:03:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美议员当众嘲讽特朗普 遭到众议院谴责】美众议院周四投票谴责德克萨斯州民主党众议员阿尔-格林（Al Green）在本周早些时候总统向众议院发表演讲时嘲笑特朗普的行为。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-07/detail-inentxuv7492173.d.html</link>
-            <guid>4066437</guid>
-            <pubDate>Thu, 06 Mar 2025 16:02:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[丹麦央行将基准利率从2.35%下调至2.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-07/detail-inentxuv7492062.d.html</link>
-            <guid>4066436</guid>
-            <pubDate>Thu, 06 Mar 2025 16:01:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国商务部长：特朗普或推迟对USMCA范围内的商品和服务加征关税】美国商务部长卢特尼克表示，美国总统特朗普可能会推迟对加拿大和墨西哥在北美贸易协定（USMCA）涵盖的所有商品和服务征收25%的关税，这对美国两个最大的贸易伙伴来说可能是一个重大的缓解。卢特尼克在接受采访时表示，特朗普将于周四决定本月征收的25%关税的一个月豁免范围。“我认为它可能会涵盖所有符合美墨加协定的商品和服务，”他表示。“如果你符合这一协议的范围，那么就将获得关税减免。但如果超出这个范围，你就得自担风险，而现在就是清算的时候了。”这一豁免将持续到4月2日，届时特朗普预计将实施新一轮关税，包括对世界各国征收的“互惠”关税，以及针对汽车、制药和半导体进口等特定行业的关税。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inentxuz3150880.d.html</link>
-            <guid>4066434</guid>
-            <pubDate>Thu, 06 Mar 2025 15:58:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【法国民间兴起“抵制美国货”行动】美国新一届政府威胁对从欧洲进口商品加征关税后，法国民间近期兴起自发抵制美国产品的行动。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inentxuv7491167.d.html</link>
-            <guid>4066433</guid>
-            <pubDate>Thu, 06 Mar 2025 15:56:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【梅西百货2025年业绩指引不及预期】梅西百货预计2025年的净销售额在210亿美元至214亿美元之间，而分析师的平均估计为218.1亿美元。该公司预计调整后的每股年利润在2.05美元至2.25美元之间，而分析师估计为每股2.31美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inentxuv7490954.d.html</link>
-            <guid>4066432</guid>
-            <pubDate>Thu, 06 Mar 2025 15:55:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【梅西百货称特朗普关税将增加家庭负担 料2025年业绩不及预期】百货连锁店梅西百货周四发布的2025年销售额和利润指引均低于华尔街的预期。与其他几家美国零售商的类似悲观预测一样，该公司的最新预警发出信号，表明面对经济不确定性的购物者正在推迟和削减消费。梅西百货的大部分自有品牌商品来自中国，预计这一部分将受到严重打击，因为美国总统特朗普最新宣布的关税政策可能会给本已紧张的美国家庭预算带来额外负担。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inentxux6375621.d.html</link>
-            <guid>4066431</guid>
-            <pubDate>Thu, 06 Mar 2025 15:54:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美大豆日内涨幅扩大至1.00%，现报1011.75美分/蒲式耳。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inentxuv7490773.d.html</link>
-            <guid>4066430</guid>
-            <pubDate>Thu, 06 Mar 2025 15:53:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恒指期货夜盘跌幅扩大至1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inentxux6375168.d.html</link>
-            <guid>4066429</guid>
-            <pubDate>Thu, 06 Mar 2025 15:50:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普：特鲁多利用关税问题再次参选。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inentxvc0480376.d.html</link>
-            <guid>4066428</guid>
-            <pubDate>Thu, 06 Mar 2025 15:50:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币短线上涨，现重返9.1万美元关口，美股加密货币概念股走高，MARA Holdings、Strategy涨超3%，Coinbase涨超1%。]]></title>
-            <guid>4066427</guid>
-            <pubDate>Thu, 06 Mar 2025 15:46:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美天然气主连合约跌3.13%，报4.36美元/百万英热。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inentxux6374708.d.html</link>
-            <guid>4066426</guid>
-            <pubDate>Thu, 06 Mar 2025 15:45:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印尼将允许在不可抗力情况下出口矿产】印度尼西亚矿业部官员周四表示，政府将发布最新规定，允许矿业公司在不可抗力条件下出口未加工矿石。印尼拥有全球最大的镍矿储量。根据美国地质调查局数据，截至2020年，世界镍资源储量约为9400万吨，其中印尼资源储量排名第一，约为2100万吨，占比为22%。印尼多年来已多次出台禁令限制矿产出口。在2023年，印尼再次宣布禁止出口原矿，以鼓励在国内进行金属加工。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inentxux6374447.d.html</link>
-            <guid>4066425</guid>
-            <pubDate>Thu, 06 Mar 2025 15:43:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[希腊雅典证交所综合指数收跌0.30%，报1625.54点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inentxux6374333.d.html</link>
-            <guid>4066424</guid>
-            <pubDate>Thu, 06 Mar 2025 15:42:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【关税措施影响持续 纽约股市三大股指开盘延续跌势】由于投资者寻求对美国最新关税措施的更多明确信息，股市承受压力，当地时间3月6日，纽约股市三大股指开盘下跌。报道称，开盘后不久，道琼斯工业平均指数下跌0.95%。标准普尔500指数下跌1.4%，纳斯达克综合指数下跌1.9%。美国自3月4日起对加拿大和墨西哥输美产品加征关税，引发加拿大反制。墨西哥则表示将在周末公布相关措施。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inentxuz3148509.d.html</link>
-            <guid>4066423</guid>
-            <pubDate>Thu, 06 Mar 2025 15:39:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【李强赵乐际王沪宁蔡奇丁薛祥李希分别参加全国两会一些团组审议和讨论】中共中央政治局常委、国务院总理李强，中共中央政治局常委、全国人大常委会委员长赵乐际，中共中央政治局常委、全国政协主席王沪宁，中共中央政治局常委、中央书记处书记蔡奇，中共中央政治局常委、国务院副总理丁薛祥，中共中央政治局常委、中央纪委书记李希，6日分别参加了十四届全国人大三次会议和全国政协十四届三次会议一些团组的审议和讨论。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inentxux6373870.d.html</link>
-            <guid>4066422</guid>
-            <pubDate>Thu, 06 Mar 2025 15:39:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波兰总统杜达：如果美国与乌克兰达成矿产协议，乌克兰将成为美国的战略重要伙伴。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inentxuz3148349.d.html</link>
-            <guid>4066421</guid>
-            <pubDate>Thu, 06 Mar 2025 15:38:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[诺和诺德、Jorgensen、Galderma Group AG等Ozempic和Cetaphip制药商纷纷针对特朗普关税的影响发出警告。]]></title>
-            <guid>4066420</guid>
-            <pubDate>Thu, 06 Mar 2025 15:37:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲斯托克600指数回升，交易持平。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inentxux6373664.d.html</link>
-            <guid>4066419</guid>
-            <pubDate>Thu, 06 Mar 2025 15:37:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华为与巴塞罗那市政府签署智慧城市战略合作谅解备忘录 共同推动智慧城市建设】MWC25巴塞罗那期间，华为与巴塞罗那市政府签署智慧城市战略合作谅解备忘录。根据协议，双方将重点聚焦数字化基础联接、云计算平台建设、AI应用落地，智慧城市、智慧建筑、绿色能源等领域，全面提升城市管理的智能化和服务效率，实现资源优化配置和服务精准化，城市管理更加高效、便捷，环境变得更加宜居。此外，双方还将联合开展ICT人才的培训和创新生态的构建，依托华为西班牙学院——这家由华为在欧洲打造的首个数字化人才赋能平台，与巴塞罗那Activa机构旗下的顶尖科技教育品牌IT Academy形成战略协同。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inentxux6373401.d.html</link>
-            <guid>4066418</guid>
-            <pubDate>Thu, 06 Mar 2025 15:35:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国天然气期货价格延续跌势，跌幅达4.0%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inentxuv7488515.d.html</link>
-            <guid>4066417</guid>
-            <pubDate>Thu, 06 Mar 2025 15:34:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯：绝不容忍北约军队出现在乌克兰】俄罗斯外交部长拉夫罗夫6日表示，如果欧洲军队部署到乌克兰，就意味着北约正式介入乌克兰冲突，对此俄方绝不允许。他还说，法国总统马克龙日前的核言论是对俄罗斯的“威胁”。(新华社)]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inentxvc0478452.d.html</link>
-            <guid>4066416</guid>
-            <pubDate>Thu, 06 Mar 2025 15:34:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【微软将向南非AI基础设施额外投资54亿兰特】微软副董事长兼总裁Brad Smith周四宣布，公司计划在南非追加投资54亿兰特（约合2.97亿美元）用于人工智能（AI）基础设施建设。该公司的这项投资，将大力推动南非的人工智能基础设施发展。这一举措标志着南部非洲地区AI技术发展迈出重要一步。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnz6503666.d.html</link>
-            <guid>4066415</guid>
-            <pubDate>Thu, 06 Mar 2025 15:31:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：特朗普的俄乌特使上周警告乌克兰援助和情报共享可能中断。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttpc3277837.d.html</link>
-            <guid>4066414</guid>
-            <pubDate>Thu, 06 Mar 2025 15:30:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至2月28日当周EIA天然气库存 -800亿立方英尺，预期-920亿立方英尺，前值-2610亿立方英尺。]]></title>
-            <guid>4066413</guid>
-            <pubDate>Thu, 06 Mar 2025 15:30:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华硕代表团到访奥士康广东基地】3月6日，全球知名电子品牌华硕(ASUS)代表团莅临奥士康广东生产基地开展技术交流，董事长程涌全程接待并陪同参观。在双方会谈中，双方就未来在AI PC、服务器、显卡、主板等高端PCB领域的合作达成重要共识。双方将充分发挥各自的优势，共同推动技术创新和产品升级，为市场提供更优质、更高效的PCB解决方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttpc3277670.d.html</link>
-            <guid>4066412</guid>
-            <pubDate>Thu, 06 Mar 2025 15:29:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【意大利与土耳其军工企业打算合作生产无人机】意大利军工巨头莱奥纳多公司和土耳其无人机制造企业巴伊卡尔技术公司6日宣布双方已签署谅解备忘录，准备成立合资企业生产无人机，以待部分欧洲国家日前增加防务支出的表态一旦成真，即抢占欧洲无人机市场。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnz6502769.d.html</link>
-            <guid>4066411</guid>
-            <pubDate>Thu, 06 Mar 2025 15:27:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【奈飞打击密码共享后用户大增 但分析师称其涨势将很快放缓】自从开始打击密码共享以来，奈飞（Netflix）过去两年的用户数量显著增长，但分析师认为，这种迅猛增长趋势可能很快就会失去动力。根据研究公司Moffett Nathanson的一份报告，奈飞公司过去两年的用户大幅增长，其主要原因是由以前一直在使用其他人的登录凭证、现在已经注册自己的帐户的人推动的。这说明奈飞只是让现有观众付费，而不是吸引大量新客户。该公司的分析师总结道：“这意味着奈飞全球用户增长水平的提高并不代表其用户群的显著扩大。它只是非常成功地让其现有用户群付费。”]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnx7618163.d.html</link>
-            <guid>4066410</guid>
-            <pubDate>Thu, 06 Mar 2025 15:26:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商业部长卢特尼克：关税不会为美国的主权财富基金提供资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttpc3277053.d.html</link>
-            <guid>4066409</guid>
-            <pubDate>Thu, 06 Mar 2025 15:26:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【卢特尼克：股市走势不是特朗普政府的政策驱动力】美国商务部长霍华德·卢特尼克称，股市的变动不是特朗普政府政策背后的驱动力。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttpc3277036.d.html</link>
-            <guid>4066408</guid>
-            <pubDate>Thu, 06 Mar 2025 15:26:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京：俄罗斯不会在乌克兰问题上向任何人让步。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnx7617992.d.html</link>
-            <guid>4066407</guid>
-            <pubDate>Thu, 06 Mar 2025 15:25:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
