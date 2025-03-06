@@ -4,301 +4,302 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Thu, 06 Mar 2025 13:28:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Mar 2025 14:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[货币市场定价欧洲央行在12月份的存款利率将为2.10%，而在欧洲央行声明之前则为2.05%。]]></title>
-            <guid>4066206</guid>
-            <pubDate>Thu, 06 Mar 2025 13:28:15 GMT</pubDate>
+            <title><![CDATA[俄罗斯外交部：我们对特朗普没有幻想——俄罗斯保持现实主义。]]></title>
+            <guid>4066300</guid>
+            <pubDate>Thu, 06 Mar 2025 14:21:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国白宫：美国总统特朗普将在美东下午2点（北京时间次日凌晨3点）签署行政令。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnz6478425.d.html</link>
-            <guid>4066205</guid>
-            <pubDate>Thu, 06 Mar 2025 13:26:23 GMT</pubDate>
+            <title><![CDATA[据美国纽约联储数据，上个交易日（3月5日）担保隔夜融资利率（SOFR）报4.34%，之前一天报4.33%。上个交易日有效的联邦基金利率报4.33%，之前一天报4.33%。]]></title>
+            <guid>4066299</guid>
+            <pubDate>Thu, 06 Mar 2025 14:21:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【分析师：欧洲央行新措辞体现鹰鸽派的妥协】分析师Weber表示，有关而欧洲央行政策立场的新措辞在某种程度上标志着鹰派和鸽派之间的妥协。以下是关键部分：“货币政策的限制正在明显减少，因为降息降低了企业和家庭的新贷款成本，贷款增长正在加快。与此同时，融资条件放松的一个不利因素是，过去的加息仍在传导到信贷存量，贷款总体上仍然低迷。”]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnx7592767.d.html</link>
-            <guid>4066204</guid>
-            <pubDate>Thu, 06 Mar 2025 13:25:15 GMT</pubDate>
+            <title><![CDATA[【拉加德：不会基于短期市场波动改变政策立场】欧洲央行行长拉加德表示，必须灵活应对数据；不会基于短期市场波动改变政策立场。尽管收益率大幅波动，但利差变动有限。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnz6489474.d.html</link>
+            <guid>4066298</guid>
+            <pubDate>Thu, 06 Mar 2025 14:19:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日元上涨1%，至1美元兑147.38日元，创出2024年10月以来最强水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnx7592652.d.html</link>
-            <guid>4066203</guid>
-            <pubDate>Thu, 06 Mar 2025 13:24:39 GMT</pubDate>
+            <title><![CDATA[【拉加德：大多数基本通胀指标支持回归2%的目标】欧洲央行行长拉加德表示，“大多数基本通胀指标都表明通胀将持续回落至我们2%的中期目标。”她周四在法兰克福的新闻发布会上表示：“密切跟踪服务通胀的区域内通胀在1月下降，但仍处于高位，因为薪资和部分服务价格仍在适应过去的通胀飙升，存在很大的延迟”，“经济增长风险仍然偏向下行”。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttpf0594586.d.html</link>
+            <guid>4066297</guid>
+            <pubDate>Thu, 06 Mar 2025 14:19:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[在欧洲央行做出决策之后，欧元进一步扩大涨幅，最新上涨0.4%，触及11月6日以来的最高位。]]></title>
-            <guid>4066202</guid>
-            <pubDate>Thu, 06 Mar 2025 13:23:53 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：我们需要保持警惕。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnx7604586.d.html</link>
+            <guid>4066296</guid>
+            <pubDate>Thu, 06 Mar 2025 14:18:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【科华数据：公司算力服务订单快速增长 已实现多场景落地应用】科华数据在互动平台表示，算力服务是公司重要的业务增长点。公司联合头部AI芯片商构建异构算力平台，实现跨厂商算力资源整合与高效利用，集成自动化工具优化AI模型训练/推理任务调度，显著提升效率降低成本，依托全国算力网络，实现算力资源的可用/可控/可管，实现智能调度与优化。公司算力业务已实现AI+政务、AI+医疗、AI+新零售、AI+车联网等应用场景的落地应用，当前算力服务订单快速增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttpc3252202.d.html</link>
-            <guid>4066201</guid>
-            <pubDate>Thu, 06 Mar 2025 13:23:44 GMT</pubDate>
+            <title><![CDATA[现货铂金最新报980.41美元/盎司，日内涨1.71%；Nymex铂金期货主力最新报986.1美元/盎司，日内涨1.16%。]]></title>
+            <guid>4066295</guid>
+            <pubDate>Thu, 06 Mar 2025 14:18:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧洲央行：经济面临持续挑战。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttpf0582289.d.html</link>
-            <guid>4066200</guid>
-            <pubDate>Thu, 06 Mar 2025 13:23:18 GMT</pubDate>
+            <title><![CDATA[市场消息：俄罗斯方面称“不接受”在乌克兰问题上实施临时停火。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnx7604475.d.html</link>
+            <guid>4066294</guid>
+            <pubDate>Thu, 06 Mar 2025 14:18:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[比特币回落至90000美元之下。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttpc3251969.d.html</link>
-            <guid>4066199</guid>
-            <pubDate>Thu, 06 Mar 2025 13:23:01 GMT</pubDate>
+            <title><![CDATA[欧盟基准近月天然气价格自2024年12月以来首次跌破40欧元/兆瓦时。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnx7604442.d.html</link>
+            <guid>4066293</guid>
+            <pubDate>Thu, 06 Mar 2025 14:17:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【尽管面临经济动荡，欧洲央行连续第六次降息】欧洲央行在9个月内连续第六次降息，表明尽管面临贸易战引发的经济动荡和增加欧洲军费开支的新计划，欧洲央行仍坚持其宽松计划。随着通胀接近2%的目标，欧洲央行将存款利率下调了25个基点，降至2.5%，这一水平被认为是“大幅宽松”。欧洲央行表示，货币政策的限制性正在明显减弱，因为降息降低了企业和家庭的新借款成本，贷款增长正在加快。今晚的降息可能是欧洲央行决策者最后一次能够轻松作出的决定，由于通胀担忧挥之不去，下个月以后的任何（降息）举措都将引发更激烈的辩论。德国本周增加军事和基础设施支出的举措可能会引发新的通胀压力；另一方面，如果美国实施对所有对美国进口商品征税的国家征收“对等关税”的计划，欧元区经济可能受到打击。欧洲央行行长拉加德可能会在稍后的新闻发布会上被问及这些风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttpc3251906.d.html</link>
-            <guid>4066198</guid>
-            <pubDate>Thu, 06 Mar 2025 13:22:50 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：国际法基础问题有待商榷，没必要在欧洲央行内部讨论获取俄罗斯资产一事。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttpf0594223.d.html</link>
+            <guid>4066292</guid>
+            <pubDate>Thu, 06 Mar 2025 14:16:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧洲斯托克600指数在欧洲央行决定后下跌，现下跌0.76%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnz6477209.d.html</link>
-            <guid>4066197</guid>
-            <pubDate>Thu, 06 Mar 2025 13:22:23 GMT</pubDate>
+            <title><![CDATA[谷歌云：宣布与SLB和project innerspace合作，推动全球地热能源的应用。]]></title>
+            <guid>4066291</guid>
+            <pubDate>Thu, 06 Mar 2025 14:16:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【豪鹏科技：全固态电池预计最快可于年内向市场提供样品验证】豪鹏科技在互动平台表示，目前，公司半固态电池的体积能量密度比指标上可达到950Wh/L，循环寿命大于500周，并通过针刺和过充等相关安全测试，适用于AI PC，AI手机和AI眼镜等对体积能量密度有较高要求的领域，陆续向海内外品牌客户送样测试。全固态电池方面，预计最快可于年内向市场提供样品验证。与此同时，公司正在与科研机构开展合作，开发消费级高性能自修复固态电解质技术，开发体积比能量达1100Wh/L的高能量密度电池，为客户下一代产品需求提前做好技术储备。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnx7591951.d.html</link>
-            <guid>4066196</guid>
-            <pubDate>Thu, 06 Mar 2025 13:22:13 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：我们的决定是一个共识，没有人反对。管委霍尔茨曼投了弃权票。对降息的决定没有反对的意见。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttpf0594020.d.html</link>
+            <guid>4066290</guid>
+            <pubDate>Thu, 06 Mar 2025 14:15:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【游族网络：修正“游族转债”转股价格为10.1元/股】 游族网络公告，修正“游族转债”转股价格。修正前转股价格为16.92元/股，修正后为10.1元/股，修正后转股价格生效日期为2025年3月7日。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnz6477007.d.html</link>
-            <guid>4066195</guid>
-            <pubDate>Thu, 06 Mar 2025 13:21:42 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：欧洲央行在经过实质性讨论后做出了决定。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnx7603958.d.html</link>
+            <guid>4066289</guid>
+            <pubDate>Thu, 06 Mar 2025 14:15:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：德国推动放宽欧盟财政规则的努力正获得更多支持。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttpc3251549.d.html</link>
-            <guid>4066194</guid>
-            <pubDate>Thu, 06 Mar 2025 13:21:39 GMT</pubDate>
+            <title><![CDATA[惠誉评级：德国银行正在为2025年的资产质量下滑做准备。预计零售贷款组合的资产质量恶化将是温和的，因为预期劳动力市场和住房市场将保持韧性。]]></title>
+            <guid>4066288</guid>
+            <pubDate>Thu, 06 Mar 2025 14:15:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧洲央行：不确定性正在上升。通胀前景、核心指标和传导机制将决定利率路径。 通胀的发展总体上与工作人员的预期相符。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttpc3251168.d.html</link>
-            <guid>4066193</guid>
-            <pubDate>Thu, 06 Mar 2025 13:19:53 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：欧洲央行没有预先承诺，将根据数据做出决定。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttpc3263017.d.html</link>
+            <guid>4066287</guid>
+            <pubDate>Thu, 06 Mar 2025 14:14:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  德国两年期国债收益率上升1个基点，至2.25%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnx7591372.d.html</link>
-            <guid>4066192</guid>
-            <pubDate>Thu, 06 Mar 2025 13:19:50 GMT</pubDate>
+            <title><![CDATA[【高盛：看好趋陡的欧洲债券收益率头寸】高盛资产管理公司分析师丹古尔表示，因缺乏明确的方向性倾向，高盛对欧洲短端债券利率的看法信心较低，而更偏好收益率曲线陡峭化的头寸，因为德国为财政扩张筹资将带来额外的债券发行。分析师还指出，偏好陡峭化头寸，即押注短端与长端收益率之间的利差扩大，也源于可能出现的更高期限溢价。期限溢价的上升将受到中期增长和通胀前景改善的推动。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnz6488402.d.html</link>
+            <guid>4066286</guid>
+            <pubDate>Thu, 06 Mar 2025 14:14:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[交易员降低欧洲央行降息的押注，预计到年底还将再降息41个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttpf0581240.d.html</link>
-            <guid>4066191</guid>
-            <pubDate>Thu, 06 Mar 2025 13:19:27 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：如果数据显示需要降息，我们将进行降息。不过如果数据显示有暂停降息的必要，我们将选择暂停。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnx7603704.d.html</link>
+            <guid>4066285</guid>
+            <pubDate>Thu, 06 Mar 2025 14:13:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[贝雅将特斯拉目标价从440.00美元下调至370.00美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttpc3250888.d.html</link>
-            <guid>4066190</guid>
-            <pubDate>Thu, 06 Mar 2025 13:18:54 GMT</pubDate>
+            <title><![CDATA[【德银：全球投资者尚未完全消化德国超常规支出计划的影响】在美国总统特朗普对跨大西洋关系的调整引发德国国防和基础设施支出发生5000亿欧元的巨大变化后，全球金融市场周四继续处于剧烈的调整过程中。欧洲央行如预期般再次降息，并表示货币政策正变得不那么具有限制性，交易商认为这意味着4月份再次降息的可能性不大，这将再次提振欧元。这通常会吸引交易员的注意力，但这只是众多因素中的一个。“我仍然认为全球投资者尚未完全理解和消化（德国）消息的严重性，”德意志银行研究部市场策略师Jim Reid表示。他估计周三德国国债收益率大涨是1990年两德统一以来的最大涨幅。“这是一场规模空前的巨变，也许到目前为止，只有快钱和灵活的投资者做出了反应。”]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnx7603633.d.html</link>
+            <guid>4066284</guid>
+            <pubDate>Thu, 06 Mar 2025 14:13:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧洲央行决策公布后，欧元/美元上涨，涨0.2%报1.0810。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttpf0581158.d.html</link>
-            <guid>4066189</guid>
-            <pubDate>Thu, 06 Mar 2025 13:18:40 GMT</pubDate>
+            <title><![CDATA[                                    【鸿蒙智行：问界M8预售12小时小订超2.8万台】 3月6日晚间，鸿蒙智行公布，问界M8预售价36.8万元起，预售12小时小订超28000台。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnz6488002.d.html</link>
+            <guid>4066283</guid>
+            <pubDate>Thu, 06 Mar 2025 14:12:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【欧洲央行：预计2025年通胀率为2.3%】欧洲央行：预计2025年通胀率为2.3%，2026年为1.9%，2027年为2.0%。（12月预期分别为2.1%、1.9%、2.1%）
-预计2025年核心通胀率为2.2%，2026年为2.0%，2027年为1.9%。（12月预期分别为2.3%、1.9%、1.9%）
-预计2025年GD增长率为0.9%，2026年为1.2%，2027年为1.3%。（12月预期分别为1.1%、1.4%、1.3%）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttpf0581055.d.html</link>
-            <guid>4066188</guid>
-            <pubDate>Thu, 06 Mar 2025 13:18:01 GMT</pubDate>
+            <title><![CDATA[【全国人大代表雷军：将继续大规模投入底层核心技术】 3月6日，全国人大代表、小米集团创始人雷军表示，小米的长期发展战略是“人车家”全生态，小米将继续大规模地投入底层核心技术，并致力成为全球的新一代硬核科技的领导者。“我们5年投入研发经费1050亿元，巨额的研发投入带来了小米集团翻天覆地的变化。我们更加坚定走科技创新的道路，走高端化发展的道路，让广大的消费者能够体验到科技带来的美好生活。”雷军说。（中证金牛座）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnx7603471.d.html</link>
+            <guid>4066282</guid>
+            <pubDate>Thu, 06 Mar 2025 14:12:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧洲央行：管委会已准备好调整所有工具。国内通胀仍然高企，降息使新借贷成本降低。数据以决定适当的货币政策立场。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnz6476027.d.html</link>
-            <guid>4066187</guid>
-            <pubDate>Thu, 06 Mar 2025 13:17:35 GMT</pubDate>
+            <title><![CDATA[【今年地方政府债券发行已超2万亿】根据地方政府公开发债数据，截至今年3月3日，全国发行地方政府债券约2.1万亿元。其中前两个月全国发行地方政府债券约1.9万亿元，同比增长约97%。地方政府债券发行与去年同期相比明显提速。（第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnx7603436.d.html</link>
+            <guid>4066281</guid>
+            <pubDate>Thu, 06 Mar 2025 14:11:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美元指数DXY短线下挫超20点，失守104，日内跌幅0.32%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnz6475815.d.html</link>
-            <guid>4066186</guid>
-            <pubDate>Thu, 06 Mar 2025 13:16:53 GMT</pubDate>
+            <title><![CDATA[Accountability Research将Salesforce股份有限公司评级上调至买进。]]></title>
+            <guid>4066280</guid>
+            <pubDate>Thu, 06 Mar 2025 14:10:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【欧洲央行称利率的限制性程度明显下降】欧洲央行：随着利率下调，欧洲央行的限制性将明显减少。通胀回落的进程正在顺利进行。货币政策变得明显不那么紧缩。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttpf0580698.d.html</link>
-            <guid>4066185</guid>
-            <pubDate>Thu, 06 Mar 2025 13:16:47 GMT</pubDate>
+            <title><![CDATA[德国经济部：德国政府延长对俄罗斯石油公司Rosneft德国分部的托管。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttpc3261937.d.html</link>
+            <guid>4066279</guid>
+            <pubDate>Thu, 06 Mar 2025 14:08:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德国国债延续跌势，10年期国债收益率涨5个基点，报2.85%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnx7590709.d.html</link>
-            <guid>4066184</guid>
-            <pubDate>Thu, 06 Mar 2025 13:16:39 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：非常关注布鲁塞尔峰会的结果。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttpc3261891.d.html</link>
+            <guid>4066278</guid>
+            <pubDate>Thu, 06 Mar 2025 14:08:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧洲央行：工资增长正如预期般趋于温和。整体贷款仍然处于低迷状态，信贷增长正在加速。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttpf0580614.d.html</link>
-            <guid>4066183</guid>
-            <pubDate>Thu, 06 Mar 2025 13:16:28 GMT</pubDate>
+            <title><![CDATA[                                                                                                                        现货黄金最新报2910.09美元/盎司，日内跌0.30%；COMEX黄金期货主力最新报2919.00美元/盎司，日内跌0.24%。]]></title>
+            <guid>4066277</guid>
+            <pubDate>Thu, 06 Mar 2025 14:07:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧洲央行利率决议公布后，欧元兑美元EUR/USD短线上扬逾20点，报1.0814。]]></title>
-            <guid>4066182</guid>
-            <pubDate>Thu, 06 Mar 2025 13:15:59 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：在做出判断之前必须了解防御计划，国防支出的影响将取决于具体细节。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnz6487192.d.html</link>
+            <guid>4066276</guid>
+            <pubDate>Thu, 06 Mar 2025 14:07:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国股指期货跌幅扩大，标准普尔500指数期货下跌1.3%，纳斯达克指数期货下跌1.6%，道琼斯指数期货下跌1%。]]></title>
-            <guid>4066181</guid>
-            <pubDate>Thu, 06 Mar 2025 13:15:43 GMT</pubDate>
+            <title><![CDATA[【久其软件：先行重点推出了三个可高度复制的智能体产品】久其软件(002279.SZ)发布投资者关系活动记录表公告，公司于春节后较快完成了与DeepSeek的对接，将上百个业务场景与大模型匹配后，目前先行重点推出了三个可高度复制的智能体产品，即“智能问数、智能问答、智能报告”，其中智能问数即协助客户对数据进行分析预测，智能问答主要处理非结构化数据，智能报告会根据客户需求自动生成文字、数字、表格、图形相结合的文本。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttpc3261684.d.html</link>
+            <guid>4066275</guid>
+            <pubDate>Thu, 06 Mar 2025 14:07:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧洲央行：并未对特定利率路径作出预先承诺，决心确保通胀率稳定在其2%的中等水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inentpff3380888.d.html</link>
-            <guid>4066180</guid>
-            <pubDate>Thu, 06 Mar 2025 13:15:33 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：增加防御和基础设施支出仍在进行中。增加支出将推动欧洲经济发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnz6487022.d.html</link>
+            <guid>4066274</guid>
+            <pubDate>Thu, 06 Mar 2025 14:07:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【欧洲央行如期降息25个基点】欧洲央行将存款机制利率下调25个基点至2.5%，符合市场预期，为连续第五次会议降息。主要再融资利率和边际贷款利率分别从2.90%和3.15%下调至2.65%和2.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inentpff3380808.d.html</link>
-            <guid>4066179</guid>
-            <pubDate>Thu, 06 Mar 2025 13:15:10 GMT</pubDate>
+            <title><![CDATA[美联储哈克：鉴于所有这些不确定性，不想快速采取行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnx7602490.d.html</link>
+            <guid>4066273</guid>
+            <pubDate>Thu, 06 Mar 2025 14:06:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【欧洲建筑股创新高 因德国拟释放数千亿欧元用于国防和基础设施投资】在德国决定释放数千亿欧元资金投资基础设施和国防后，欧洲建筑股扩大涨幅并创下纪录新高。Stifel预测，该计划应会带来一股“建设热潮”，并在未来十年提振该行业。斯托克欧洲600建筑指数上涨1.3%，并创出历史新高，跑赢大盘斯托克指数Stifel强调Buzzi (涨5.8%)、SigmaRoc (涨11%）、Geberit（涨5.9%)、SIG (涨2.5%)和Spie (涨5.6%)是其中的受益者，完全基于他们的德国敞口。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inentpff3380743.d.html</link>
-            <guid>4066178</guid>
-            <pubDate>Thu, 06 Mar 2025 13:14:48 GMT</pubDate>
+            <title><![CDATA[【波罗的海干散货运价指数在周四上涨】据报道，波罗的海干散货运价指数在周四上涨，受到海岬型船运价的推动。波罗的海干散货运价指数上涨58点，至1286点。海岬型船运价指数上涨188点，至2082点。海岬型船日均获利上涨1556美元，至17267美元。巴拿马型船运价指数下跌8点，报992点，为2月14日以来的最低水平。巴拿马型船日均获利下跌72美元，至8931美元。超灵便型散货船运价指数下降4点，报864点。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttpc3261424.d.html</link>
+            <guid>4066272</guid>
+            <pubDate>Thu, 06 Mar 2025 14:06:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【策略师：欧洲通胀“战斗”已结束 当前问题在于经济活动低迷】欧洲利率策略师Worthington表示，从服务价格的走势来看，欧洲的通胀斗争已经结束，欧洲央行面临的真正问题是僵化的经济活动。Worthington预计利率将降至2%，但他补充道，市场可能需要重新燃起进一步降低利率的希望，以维持近期收益率的下跌。围绕政策是否仍然具有限制性的紧张局势可能会破坏这种局面。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inentpfc6606173.d.html</link>
-            <guid>4066177</guid>
-            <pubDate>Thu, 06 Mar 2025 13:14:41 GMT</pubDate>
+            <title><![CDATA[美国众议院议长约翰逊：他希望在周二就持续决议法案（临时拨款法案）进行投票，预计会通过。 持续决议法案文本最早可能在周五发布。]]></title>
+            <guid>4066271</guid>
+            <pubDate>Thu, 06 Mar 2025 14:06:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【招商证券：建议短期重点关注具身智能、6G、人工智能手机和电脑板块】招商证券发布研报指出，十四届全国人大三次会议召开，李强总理做了政府工作报告。报告整体符合市场预期。结合词频分析，建议短期重点关注新纳入政府工作报告的具身智能、6G、人工智能手机和电脑板块，复盘2018-2024年主题走势，两会当年首次提出的新兴主题超额收益往往更高。长期来看，消费是今年经济工作的重点，建议持续关注。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inentpfc6606148.d.html</link>
-            <guid>4066176</guid>
-            <pubDate>Thu, 06 Mar 2025 13:14:33 GMT</pubDate>
+            <title><![CDATA[英国国债抹去跌幅，英国10年期国债收益率持稳于4.68%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnz6486586.d.html</link>
+            <guid>4066270</guid>
+            <pubDate>Thu, 06 Mar 2025 14:05:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[蒂森克虏伯公司：汽车业务将削减约1800个工作岗位、]]></title>
-            <guid>4066175</guid>
-            <pubDate>Thu, 06 Mar 2025 13:14:07 GMT</pubDate>
+            <title><![CDATA[【3月6日增减持汇总】据统计，3月6日，包括赛微微电、中触媒在内的2家A股上市公司披露增持情况。百济神州、嘉澳环保、威唐工业、海正生材、中汽股份、王子新材等6家公司披露减持情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnx7602006.d.html</link>
+            <guid>4066269</guid>
+            <pubDate>Thu, 06 Mar 2025 14:05:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：哈萨克斯坦总统与俄罗斯总统普京进行了电话交谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inentpez7720982.d.html</link>
-            <guid>4066174</guid>
-            <pubDate>Thu, 06 Mar 2025 13:13:50 GMT</pubDate>
+            <title><![CDATA[【广汽丰田铂智3X正式上市 1小时内订单破万】3月6日晚间，广汽丰田宣布铂智3X正式上市，售价10.98万元起，其中高阶智驾版14.98万元起。据广汽丰田介绍，铂智3X上市1小时内订单已超10000台。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttpc3260969.d.html</link>
+            <guid>4066268</guid>
+            <pubDate>Thu, 06 Mar 2025 14:05:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【广汽丰田铂智3X将于3月6日上市】 广汽丰田全新纯电SUV铂智3X将于今日正式上市，此前公布的预售价格为10-20万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inentpfc6605489.d.html</link>
-            <guid>4066173</guid>
-            <pubDate>Thu, 06 Mar 2025 13:11:58 GMT</pubDate>
+            <title><![CDATA[【欧洲央行行长拉加德：决心确保通胀稳定在2%的中期目标上】欧洲央行行长拉加德：我们决心确保通胀稳定在2%的中期目标上，特别是在目前不确定性上升的情况下。声明中的措辞变化具有意义。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnz6486267.d.html</link>
+            <guid>4066267</guid>
+            <pubDate>Thu, 06 Mar 2025 14:04:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【叮咚买菜2024年实现全面盈利，全年GMV 255.6亿元，同比增长16.3%】3月6日晚间，叮咚买菜发布了2024年第四季度财报及全年业绩数据。财报显示，叮咚买菜Q4实现了65.5亿元GMV，同比增长18.4%；收入59.1亿元，同比增长18.3%。2024年全年，叮咚买菜实现GMV 255.6亿元，同比增长16.3%；收入实现230.7亿元，同比增长15.5%。在Non-GAAP标准下，实现净利润4.2亿元，同比增长8倍以上。叮咚买菜今年也首次实现了全年GAAP标准下的盈利。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inentpff3379906.d.html</link>
-            <guid>4066172</guid>
-            <pubDate>Thu, 06 Mar 2025 13:11:12 GMT</pubDate>
+            <title><![CDATA[乌克兰国防部长：（谈到美国情报共享的暂停时表示）我们正在寻求替代方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnx7601416.d.html</link>
+            <guid>4066266</guid>
+            <pubDate>Thu, 06 Mar 2025 14:02:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【我国科研人员的一项新发现揭示活性氧超氧阴离子新功能】我国科研人员的一项最新发现显示，活性氧中的超氧阴离子参与麦角碱药物分子的酶催化合成，这改变了人们对活性氧超氧阴离子功能的传统认知。相关成果3月6日在线发表于国际学术期刊《自然》。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inentpfc6605171.d.html</link>
-            <guid>4066171</guid>
-            <pubDate>Thu, 06 Mar 2025 13:10:24 GMT</pubDate>
+            <title><![CDATA[美联储哈克：担心通胀压力下降存在风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnx7601360.d.html</link>
+            <guid>4066265</guid>
+            <pubDate>Thu, 06 Mar 2025 14:02:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【全国人大代表、康缘药业董事长肖伟： 中药经典名方要“唤醒”更要“焕新”】 2025全国两会，全国人大代表、中国工程院院士、康缘药业董事长肖伟，将其建议聚焦在中药经典名方领域。在肖伟看来，为适应现代医疗需求，中药古代经典名方不但需要“唤醒”，更需要“焕新”。针对经典名方“什么成分有效、为什么有效”，肖伟认为，应加强以功效物质为核心的基础研究，而且经典名方新药研发必须以临床有效的物质基础为核心，来进一步解析中药复杂体系的功效物质、功效靶标，科学阐释经典名方新药的安全性、有效性。在中药制药方面，肖伟建议，可通过QbD（质量源于设计）理念为核心，将经典名方中的功效成分作为质量控制指标，实施从工艺技术到质量控制标准“点”的瞬间控制和“段”的工序间控制调节，以及“批”间质量的一致性控制，从根本上保证中成药的质量均一、稳定、可控。（人民财讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inentpfi0710089.d.html</link>
-            <guid>4066170</guid>
-            <pubDate>Thu, 06 Mar 2025 13:09:45 GMT</pubDate>
+            <title><![CDATA[【荷兰国际：欧洲央行未来降息路径不明朗】荷兰国际银行分析师卡斯滕·布热斯基在一份报告中说，欧洲央行这次降息25个基点后，未来的货币政策路径看起来不明朗。鉴于德国增加国防和基础设施支出的计划，欧洲央行的新预测已经显得过时了。这一事态发展将加剧有关是否需要进一步降息的辩论。如果欧元区各国政府真的接过接力棒，大规模财政刺激计划即将出台，欧洲央行将不再需要承担支持欧元区增长的繁重工作。欧洲央行可能会在下次会议上暂停降息，以评估近期事件的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttpf0591141.d.html</link>
+            <guid>4066264</guid>
+            <pubDate>Thu, 06 Mar 2025 14:02:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【英威腾：公司为满足客户对高效液冷解决方案的需求持续打造算力基础设施绿色升级产品】 英威腾在投资者互动平台表示，公司为满足客户对高效液冷解决方案的需求持续打造算力基础设施绿色升级产品，应用场景可涉及 IDC、AIDC 、通信、金融、制造、能源电力、公共服务等领域。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inentpfi0709848.d.html</link>
-            <guid>4066168</guid>
-            <pubDate>Thu, 06 Mar 2025 13:08:54 GMT</pubDate>
+            <title><![CDATA[美联储哈克：经济总体看起来还不错，但也存在威胁。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnz6485591.d.html</link>
+            <guid>4066263</guid>
+            <pubDate>Thu, 06 Mar 2025 14:01:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[蒂森克虏伯：公司寻求进一步削减汽车技术部门成本。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inentpff3379034.d.html</link>
-            <guid>4066166</guid>
-            <pubDate>Thu, 06 Mar 2025 13:08:10 GMT</pubDate>
+            <title><![CDATA[美联储哈克：我越来越担心可能威胁美元储备货币地位的因素。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttpc3260109.d.html</link>
+            <guid>4066262</guid>
+            <pubDate>Thu, 06 Mar 2025 14:01:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【分析师：欧洲央行实现通胀目标迎来曙光】分析师Alexander Weber表示，谈到欧洲央行的核心使命——通胀，官员们本周收到了一些积极的消息。他们最近非常关注的服务业价格涨幅自4月份以来首次跌至3.9%以下。第四季度工资增长也有所放缓。这一切都表明，近年来的通胀飙升几乎已经对经济产生了连锁反应，这让政策制定者相信，在未来几个月里，2%的通胀目标确实可以实现。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inentpfc6604320.d.html</link>
-            <guid>4066165</guid>
-            <pubDate>Thu, 06 Mar 2025 13:07:35 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：贷款增长正在加快。如果工资或利润增长超出预期，通胀可能会上升。如果货币政策比预期更大程度地抑制需求，通胀可能会意外走低。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnz6485180.d.html</link>
+            <guid>4066261</guid>
+            <pubDate>Thu, 06 Mar 2025 14:00:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【全国温室气体自愿减排交易市场首批核证自愿减排量完成登记】 3月6日，全国温室气体自愿减排交易市场首批核证自愿减排量（CCER）完成登记。这是我国自愿碳市场建设取得的重要实质进展，对推动和激励我国更广泛的行业企业参与绿色低碳发展具有重要意义。（生态环境部）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inentpff3378782.d.html</link>
-            <guid>4066164</guid>
-            <pubDate>Thu, 06 Mar 2025 13:07:24 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：地缘政治紧张局势造成了双边通胀风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnx7600462.d.html</link>
+            <guid>4066260</guid>
+            <pubDate>Thu, 06 Mar 2025 13:59:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英镑兑日元最新报189.98，日内跌1.00%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inentpfi0709390.d.html</link>
-            <guid>4066163</guid>
-            <pubDate>Thu, 06 Mar 2025 13:07:12 GMT</pubDate>
+            <title><![CDATA[【惠誉：欧元区经济疲软，欧洲央行将进一步降息】惠誉评级分析师查尔斯·塞维利亚表示，随着关税威胁加剧，欧元区经济已经陷入困境，欧洲央行今年将继续降息。鉴于欧洲央行政策制定者面临的经济增长疲弱和通胀放缓问题，今日其下调关键利率的举措并不令人意外。尽管需求可能会从德国国防支出的增加中得到提振，但低迷的经济和美国关税的威胁将促使欧洲央行在2025年进一步降息。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnx7600422.d.html</link>
+            <guid>4066259</guid>
+            <pubDate>Thu, 06 Mar 2025 13:58:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中海地产2月份销售额132亿元 同比上升55.5%】中国海外发展（又称“中海地产”）发布公告称，2月份，中国海外系列公司的合约物业销售金额约132亿元，同比上升55.5%；而相应的销售面积约为65.27万平方米，同比上升53.0%。2025年1月至2月，中国海外系列公司累计合约物业销售金额约252.2亿元，相应的累计已售楼面面积约124.59万平方米，同比分别上升32.8%、26.2%。此外，截至2025年2月28日，中国海外系列公司录得已认购物业销售约70.86亿元，预期将于往后数月内转化为合约物业销售。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inentpez7719342.d.html</link>
-            <guid>4066162</guid>
-            <pubDate>Thu, 06 Mar 2025 13:06:50 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：关税的上升将削弱欧元区的经济增长；国防开支的增加可能会促进经济增长，可能会推动通胀。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttpc3259424.d.html</link>
+            <guid>4066258</guid>
+            <pubDate>Thu, 06 Mar 2025 13:58:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：美国参议员要求司法部调查X对广告商的施压。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inentpff3378522.d.html</link>
-            <guid>4066161</guid>
-            <pubDate>Thu, 06 Mar 2025 13:06:47 GMT</pubDate>
+            <title><![CDATA[美联储哈克：与行政命令保持一致的工作正在进行中。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnx7600150.d.html</link>
+            <guid>4066257</guid>
+            <pubDate>Thu, 06 Mar 2025 13:57:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【英伟达：GeForce RTX 5070现已开放购买 AI性能提升3倍】英伟达发文宣布：GeForce RTX 5070现已开放购买，帧率轻松破百。得益于Blackwell 架构加速3D渲染，AI性能提升3倍，视频导出速度提升6倍。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inentpfc6603403.d.html</link>
-            <guid>4066160</guid>
-            <pubDate>Thu, 06 Mar 2025 13:04:57 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：大多数通胀预期指标支持回归2%的目标。欧元区通胀仍然高企，增长风险偏向下行。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttpf0589875.d.html</link>
+            <guid>4066256</guid>
+            <pubDate>Thu, 06 Mar 2025 13:56:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【河南许昌将投资10亿元建3个机场？官方：暂未进行具体规划】 许昌市委网信办针对网民举报进行调查，发现某平台账号发布视频称许昌市将建设禹州、襄城、鄢陵3个机场，其中禹州市通用机场总投资10亿元，占地1000亩。经相关部门查证，三地通用机场均处于前期谋划阶段，暂未对选址、占地及金额进行具体规划，视频内容为不实信息。网信办提醒网民理性看待网络信息，遵守法律法规，对散布谣言、扰乱社会秩序的行为将依法追究法律责任。（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inentpff3377170.d.html</link>
-            <guid>4066158</guid>
-            <pubDate>Thu, 06 Mar 2025 13:02:23 GMT</pubDate>
+            <title><![CDATA[【美国上周首次申领失业救济人数降至22.1万人 回到年初时的低水平】美国上周首次申领失业救济人数下降，回到年初时的低水平。截至3月1日当周的首次申领失业救济人数减少21,000人，降至221,000人。接受彭博调查的经济学家预测中值为233,000人。根据美国劳工部周四公布的数据，截至之前一周的持续申领失业救济人数上升至190万人。该数字接近1月触及的三年高点，表明失业者找到新工作的难度加大。随着特朗普政府采取行动缩减联邦政府规模，以及对关税影响的担忧影响企业决策，经济学家们正在密切关注每周申领失业救济人数，以寻找是否有劳动力市场恶化的迹象。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttpc3259093.d.html</link>
+            <guid>4066255</guid>
+            <pubDate>Thu, 06 Mar 2025 13:56:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【微信大“瘦身”，新功能可一键清理聊天中的原图、原视频】近日，微信于iOS/安卓双端上线新功能，“清理缓存”选项中，新增可清理“已接收的原图、原视频”和“已发出的原图、原视频”。此功能可进一步实现存储空间优化，助力存储空间再次“瘦身”，有望彻底解决一些用户被微信占空间困扰的问题。目前，已有用户实测，清理体积庞大的互发原图/原视频后，手机成功“减重”超三分之一。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inentpff3377146.d.html</link>
-            <guid>4066157</guid>
-            <pubDate>Thu, 06 Mar 2025 13:02:19 GMT</pubDate>
+            <title><![CDATA[【中航泰达：烟气治理与AI模型结合仍处于测试阶段 尚未形成产品及销售】中航泰达发布股票交易异常波动公告，近期，公司关注到雪球股吧等媒体平台出现一些信息将公司与机器人概念、AI模型概念相关联。经公司核实，截至公告披露之日，公司已与下游客户进行技术交流，但尚未签订业务订单。烟气治理与AI模型结合仍处于测试阶段，尚未形成产品及销售，无相关营业收入。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttpf0589772.d.html</link>
+            <guid>4066254</guid>
+            <pubDate>Thu, 06 Mar 2025 13:56:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【保利置业完成发行2025年第一期公司债 规模15亿元】保利置业集团有限公司发布关于全资附属公司上海保利置业公开发行国内公司债券。公告显示，保利置业宣布全资附属公司保利置业集团有限公司向专业投资者发行的2025年第一期公司债券已于2025年3月6日成功发行。2025年第一期公司债券的规模为15亿元，发行年期为3+2年，票面年利率为2.66%。保利置业表示，发债将用于置换偿还回售公司债券本金的自有资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inentpff3377033.d.html</link>
-            <guid>4066156</guid>
-            <pubDate>Thu, 06 Mar 2025 13:01:59 GMT</pubDate>
+            <title><![CDATA[【冯德莱恩再提“重新武装欧洲” 重申对乌支持：欧盟将加快对乌供武】当地时间6日，欧盟委员会主席冯德莱恩在社交媒体上发文，重申对乌克兰总统泽连斯基的支持，以及对乌克兰公正、持久和平的支持。她表示，通过“重新武装欧洲”计划，欧盟将加快向乌克兰运送武器和弹药。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttpf0589737.d.html</link>
+            <guid>4066253</guid>
+            <pubDate>Thu, 06 Mar 2025 13:56:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[消息人士：巴格达关于恢复库尔德地区石油的会议没有达成协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inentpfi0707875.d.html</link>
-            <guid>4066155</guid>
-            <pubDate>Thu, 06 Mar 2025 13:01:30 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：各国政府应确保公共财政的可持续性，欧盟竞争力指南应迅速采用。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnx7599538.d.html</link>
+            <guid>4066252</guid>
+            <pubDate>Thu, 06 Mar 2025 13:55:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲央行行长拉加德：制造业疲软成为拖累因素】欧洲央行行长拉加德：去年的增长模式仍在持续。制造业疲软成为拖累因素，不确定性抑制投资。不确定性增加，将对投资产生超出预期的负面影响。服务业表现强劲，消费者信心脆弱。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-06/detail-inenttnx7599421.d.html</link>
+            <guid>4066251</guid>
+            <pubDate>Thu, 06 Mar 2025 13:54:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
