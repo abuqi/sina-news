@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 22 Mar 2025 20:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Mar 2025 21:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【胡塞武装：美军5次空袭也门马里卜省】据胡塞武装消息，当地时间22日晚间，美军对也门马里卜省进行了5次空袭。胡塞武装当天稍早前称，美军当晚对也门荷台达省进行了3次空袭，空袭目标包括荷台达国际机场。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-23/detail-ineqqshv7945271.d.html</link>
+            <guid>4098235</guid>
+            <pubDate>Sat, 22 Mar 2025 21:15:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国总统签署《基本法》修正案放宽“债务刹车”限制】 德国联邦总统发言人塞尔斯廷·加梅林22日在社交媒体上宣布，德国总统施泰因迈尔当天签署了此前联邦议院和联邦参议院通过的《基本法》修正案，放宽“债务刹车”条款限制，允许政府大规模举债投资国防和基础设施建设。该修正案放松限制联邦政府新增债务的“债务刹车”条款，允许联邦政府在国防领域的支出超过国内生产总值1%时，通过举债筹集资金，不计入《基本法》规定的债务限制。此外，允许联邦政府设立一个不受“债务刹车”条款约束的5000亿欧元特别基金，用于交通、电网等基础设施建设。其中，1000亿欧元注入现有的气候与转型基金。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-23/detail-ineqqmza9431630.d.html</link>
+            <guid>4098234</guid>
+            <pubDate>Sat, 22 Mar 2025 20:31:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【胡塞武装：美军三次空袭也门荷台达省】据胡塞武装消息，当地时间22日晚间，美军对也门荷台达省进行了三次空袭，空袭目标包括荷台达国际机场。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2025-03-23/detail-ineqqmza9430918.d.html</link>
@@ -280,18 +292,6 @@
             <link>https://finance.sina.cn/7x24/2025-03-22/detail-ineqpzmc8274885.d.html</link>
             <guid>4098184</guid>
             <pubDate>Sat, 22 Mar 2025 14:38:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【运达股份与崇阳县政府签署战略合作协议】 3月22日，运达股份与湖北省咸宁市崇阳县政府正式签署《崇阳县风电配套储能项目开发协议》及《崇阳县全钒液流储能系统整装基地投资合作协议》。根据协议，运达股份将分两期在崇阳县投资建设总规模为80MW/320MWh的独立储能电站项目，配套400MW风电设施。项目采用全钒液流电池技术，具备长时储能、高安全性及环保优势，建成后可为区域电网提供稳定调峰能力，大幅提升可再生能源消纳水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-22/detail-ineqpzmc8274214.d.html</link>
-            <guid>4098183</guid>
-            <pubDate>Sat, 22 Mar 2025 14:32:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苏丹武装部队称在首都地区取得重大军事进展 控制更多地区】当地时间3月22日，苏丹武装部队发言人纳比勒·阿卜杜拉发表声明说，苏丹武装部队当天在苏丹首都喀土穆市中心继续取得重大军事进展，从苏丹快速支援部队手中收复了包括苏丹中央银行总部、情报总局大楼以及多所高校在内的更多地区。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-22/detail-ineqpzmc8274113.d.html</link>
-            <guid>4098182</guid>
-            <pubDate>Sat, 22 Mar 2025 14:31:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
