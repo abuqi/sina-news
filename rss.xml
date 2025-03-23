@@ -4,11 +4,69 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 23 Mar 2025 19:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Mar 2025 20:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[土耳其财政部长西姆塞克表示他坚守在自己的岗位上。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-24/detail-ineqsvhe3959759.d.html</link>
+            <guid>4099132</guid>
+            <pubDate>Sun, 23 Mar 2025 20:19:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊拉克石油部长Hayyan Abdul Ghani：伊拉克石油出口量达到约335万桶/日。在两次减产后，伊拉克石油产量约为400万桶/日。]]></title>
+            <guid>4099131</guid>
+            <pubDate>Sun, 23 Mar 2025 20:18:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【胡塞武装称美军空袭也门首都萨那 致多人伤亡】根据胡塞武装控制的马西拉电视台报道，当地时间3月23日晚，美军空袭也门首都萨那。据胡塞武装消息，空袭造成多人伤亡。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-24/detail-ineqsvhe3958868.d.html</link>
+            <guid>4099130</guid>
+            <pubDate>Sun, 23 Mar 2025 20:13:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：哈马斯媒体：以色列对加沙医院的袭击致哈马斯政治局成员伊斯梅尔·巴胡姆（Ismail Barhoum）死亡。]]></title>
+            <guid>4099129</guid>
+            <pubDate>Sun, 23 Mar 2025 20:08:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以军空袭加沙南部一医院 致多人受伤】当地时间23日从巴勒斯坦方面获悉，以军当晚空袭了加沙地带南部城市汗尤尼斯的纳赛尔医院，造成多人受伤。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-24/detail-ineqsvha7183670.d.html</link>
+            <guid>4099128</guid>
+            <pubDate>Sun, 23 Mar 2025 20:07:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列军方称其在加沙纳赛尔医院附近地区击毙了哈马斯的 “关键” 武装人员。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-24/detail-ineqsvhe3957347.d.html</link>
+            <guid>4099127</guid>
+            <pubDate>Sun, 23 Mar 2025 20:01:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【土耳其股市被暂时禁止做空】土耳其资本市场委员会禁止伊斯坦布尔证券交易所卖空交易1个月。决定在进行信贷资本市场交易时放宽股本比率要求，取消上市公司股票回购总额的上限。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-24/detail-ineqsvha7182773.d.html</link>
+            <guid>4099126</guid>
+            <pubDate>Sun, 23 Mar 2025 20:01:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加沙卫生部称，以色列空袭了加沙纳赛尔医院的外科部门。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-24/detail-ineqsvfx4109521.d.html</link>
+            <guid>4099125</guid>
+            <pubDate>Sun, 23 Mar 2025 20:00:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其资本市场委员会：禁止伊斯坦布尔证券交易所的卖空交易，为期 1 个月。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-24/detail-ineqsvhe3956302.d.html</link>
+            <guid>4099124</guid>
+            <pubDate>Sun, 23 Mar 2025 19:53:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【胡塞武装称美军空袭也门首都萨那】根据胡塞武装控制的马西拉电视台报道，当地时间3月23日晚，美军空袭也门首都萨那。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-24/detail-ineqsqya8356157.d.html</link>
+            <guid>4099123</guid>
+            <pubDate>Sun, 23 Mar 2025 19:20:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【约旦副首相与伊朗外长通电话 讨论地区局势】当地时间3月23日，约旦副首相兼外交与侨务大臣萨法迪与伊朗外长阿拉格齐通电话，双方讨论了地区局势发展以及当前严重的紧张升级。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2025-03-24/detail-ineqsqyh4081553.d.html</link>
@@ -241,63 +299,6 @@
             <link>https://finance.sina.cn/7x24/2025-03-23/detail-ineqsksk4180020.d.html</link>
             <guid>4099082</guid>
             <pubDate>Sun, 23 Mar 2025 15:54:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰国防部长：乌克兰-美国会谈在利雅得开始。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-23/detail-ineqsksk4179625.d.html</link>
-            <guid>4099081</guid>
-            <pubDate>Sun, 23 Mar 2025 15:49:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统特朗普：我爱特朗普币，他们中最伟大的。随后TRUMP币涨超10%，现报12美元/枚。]]></title>
-            <guid>4099080</guid>
-            <pubDate>Sun, 23 Mar 2025 15:47:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统特使威特科夫：美国期待与俄罗斯在沙特阿拉伯举行的会谈取得切实进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-23/detail-ineqsksh7403823.d.html</link>
-            <guid>4099079</guid>
-            <pubDate>Sun, 23 Mar 2025 15:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[迪士尼：真人版《白雪公主》北美（美国+加拿大）周末首映票房达到4300万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-23/detail-ineqsksk4176647.d.html</link>
-            <guid>4099078</guid>
-            <pubDate>Sun, 23 Mar 2025 15:17:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[尼日利亚石油重镇Rivers State一个天然气输送管道发生火情，这是最近一周内第三起事故。目前，尼日利亚（非洲第一大产油国）正处于紧急状态。]]></title>
-            <guid>4099077</guid>
-            <pubDate>Sun, 23 Mar 2025 15:16:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以军称在加沙多地行动 沿加沙边界扩大缓冲区】当地时间23日，以色列国防军表示，以军近几天在加沙地带多地展开军事行动，沿加沙边界扩大以军的缓冲区范围。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-23/detail-ineqsksc4337938.d.html</link>
-            <guid>4099076</guid>
-            <pubDate>Sun, 23 Mar 2025 15:15:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【王毅会见日本前首相福田康夫】当地时间3月23日，中共中央政治局委员、外交部长王毅在东京会见日本前首相、博鳌亚洲论坛前理事长福田康夫。王毅赞赏福田康夫在日本率先赞同支持习近平主席提出的人类命运共同体理念，牵头成立“亚洲共同体文化交流机构”。希望福田康夫和各界友人继续积极促进两国民间交流、民心相通，为中日关系健康稳定发展作出新的贡献。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-23/detail-ineqskse8456702.d.html</link>
-            <guid>4099075</guid>
-            <pubDate>Sun, 23 Mar 2025 15:14:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中东股市｜沙特阿美两天反弹将近3%，以色列股指跌超3.2%】 周日（3月23日），沙特证交所全股指数收跌0.56%，报11694.77点。沙特阿美（ARAMCO.AB）收涨0.39%，报25.80沙特里亚尔，连续两个交易日反弹（累计涨幅2.99%）。在沙特上市的Albilad南方东英MSCI香港中国股票ETF收跌2.32%，报10.53沙特里亚尔。埃及证交所EGX 30指数收涨0.81%，报31933.76点。卡塔尔证交所指数收跌0.74%，报10267.61点。科威特证交所超级市场价格回报指数收跌0.01%，报8546.37点。以色列特拉维夫交易所35指数收跌3.25%，报2420.33点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-23/detail-ineqsksh7401629.d.html</link>
-            <guid>4099074</guid>
-            <pubDate>Sun, 23 Mar 2025 15:14:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其银行业协会声明：银行业与土耳其央行举行“技术性会议”。银行业将有效地使用所有工具，从而实现（金融市场的）稳定性。]]></title>
-            <guid>4099073</guid>
-            <pubDate>Sun, 23 Mar 2025 15:01:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿斯利康全球CEO：将“中国造”药品送到全球超70个国家和地区】 阿斯利康全球首席执行官苏博科(Pascal Soriot)23日说，中国供应链是阿斯利康全球业务的重要稳定支柱，依托其高质量、高性价比及高效产能，我们将中国制造的药品送到全球70多个国家和地区。当天，中国发展高层论坛2025年年会在北京举行，苏博科在论坛期间表示，中国持续对外开放的重要性不言而喻，其核心在于合作，合作是新药研发成功的关键，中国这种开放的环境将催生更多合作机遇。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-23/detail-ineqskse8453404.d.html</link>
-            <guid>4099072</guid>
-            <pubDate>Sun, 23 Mar 2025 14:54:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
