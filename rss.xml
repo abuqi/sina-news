@@ -4,13 +4,124 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 30 Mar 2025 21:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Mar 2025 22:20:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[新西兰联储官员Quigley：计划建立一个基于证据的框架，以对银行业资本制度进行审查。资本比率变动无需立法。看到国际资本标准有所放宽。]]></title>
+            <title><![CDATA[市场消息：美国总统特朗普将于五月访问沙特阿拉伯。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-31/detail-inernxku8466332.d.html</link>
+            <guid>4112909</guid>
+            <pubDate>Sun, 30 Mar 2025 22:16:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：日本将制定家族企业治理准则。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-31/detail-inernxkw7427758.d.html</link>
+            <guid>4112908</guid>
+            <pubDate>Sun, 30 Mar 2025 22:16:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚证券和投资委员会：此外，澳大利亚证券投资委员会（ASIC）指示澳大利亚证券交易所（ASX）聘请一位经澳大利亚证券投资委员会批准的专家，对澳大利亚证券交易所清算所电子登记系统（CHESS）进行技术审查。]]></title>
+            <guid>4112907</guid>
+            <pubDate>Sun, 30 Mar 2025 22:13:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高盛上调美国经济衰退概率和关税税率预期】高盛在今日凌晨的研报中大幅上调了其对美国2025年关税的预期，并警告称贸易紧张局势升级或将严重影响经济增长、通胀和就业。该行目前预计2025年美国平均关税税率将上升15个百分点，高于此前10个百分点的基线。上调的主要原因是，预计特朗普将于4月2日宣布的全面“对等关税”将对所有美国贸易伙伴征收平均15%的关税，关税的平均实际影响预计将增加9个百分点。高盛将美国2025年年底核心PCE通胀预期上调0.5个百分点至3.5%，理由是进口成本上涨对通胀的影响。预计第四季度GDP增长率将放缓至1.0%，较之前预期下调0.5个百分点，失业率预计将在年底攀升至4.5%。高盛将美国12个月内经济衰退的概率提高至35%，理由是消费者和企业情绪疲软，而且有迹象表明，决策者可能更愿意接受近期经济的痛苦，以追求更广泛的政策目标。由于实际收入增长已经减速，经济可能正在进入一个更加脆弱的阶段，情绪和政策风险对经济的拖累比近年来更大。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-31/detail-inernxky4201769.d.html</link>
+            <guid>4112906</guid>
+            <pubDate>Sun, 30 Mar 2025 22:13:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚证券和投资委员会：澳大利亚储备银行和澳大利亚证券与投资委员会采取进一步措施，以应对对澳大利亚证券交易所（ASX）运营风险管理日益增长的担忧。]]></title>
+            <guid>4112905</guid>
+            <pubDate>Sun, 30 Mar 2025 22:12:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：高盛将美国经济衰退概率从 20% 上调至 35%，并预计美联储将在7月、9月和11月降息。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-31/detail-inernxma1455503.d.html</link>
+            <guid>4112904</guid>
+            <pubDate>Sun, 30 Mar 2025 22:09:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美联储5月维持利率不变的概率为83.3%】据CME“美联储观察”： 美联储5月维持利率不变的概率为83.3%，降息25个基点的概率为16.7%。美联储到6月维持利率不变的概率为23.3%，累计降息25个基点的概率为64.7%，累计降息50个基点的概率为12%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-31/detail-inernxkw7426453.d.html</link>
+            <guid>4112903</guid>
+            <pubDate>Sun, 30 Mar 2025 22:07:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【WTI原油高开0.6美元】WTI原油高开0.6美元，特朗普在周日对伊朗和俄罗斯发出威胁。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-31/detail-inerntay7556102.d.html</link>
+            <guid>4112902</guid>
+            <pubDate>Sun, 30 Mar 2025 22:03:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【黄金周一开盘创新高】现货黄金周一高开5美元，将历史新高刷新至3090美元/盎司，特朗普言论推升避险需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-31/detail-inerntaw8594864.d.html</link>
+            <guid>4112901</guid>
+            <pubDate>Sun, 30 Mar 2025 22:02:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股三大股指期货周一开跌，其中纳指期货跌0.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-31/detail-inerntca4330182.d.html</link>
+            <guid>4112900</guid>
+            <pubDate>Sun, 30 Mar 2025 22:02:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【西藏拉萨市当雄县发生3.8级地震】中国地震台网正式测定：03月31日05时44分在西藏拉萨市当雄县（北纬29.97度，东经90.21度）发生3.8级地震，震源深度30千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-31/detail-inerntca4329949.d.html</link>
+            <guid>4112899</guid>
+            <pubDate>Sun, 30 Mar 2025 22:00:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经济日报金观平：教育既要久久为功又是当务之急】中国式现代化是人口规模巨大的现代化，教育强国建设是人口高质量发展的战略工程。在推进教育强国建设中，我们不仅要关注“有没有”，更要关注“好不好”；既要着眼当下，更要久久为功。随着社会不断发展，人口规模和结构发生变化，教育领域迎来不少新挑战，如学位供给过剩与紧缺并存、教师队伍结构不均衡等。这些问题事关教育公平和群众切身利益，需要集中力量切实解决。如在基础教育领域，针对城镇挤、乡村弱现象，“以城带乡、整体推进”，全面推进城乡学校共同体建设；针对校际办学质量差距问题，加强师资队伍建设，制定校长和优秀骨干教师交流轮岗具体实施方案等。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-31/detail-inerntay7555036.d.html</link>
+            <guid>4112898</guid>
+            <pubDate>Sun, 30 Mar 2025 21:59:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚国债价格开盘上涨，10年期澳债收益率在悉尼盘初跌7个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-31/detail-inerntce1581761.d.html</link>
+            <guid>4112897</guid>
+            <pubDate>Sun, 30 Mar 2025 21:42:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新西兰联储董事会主席Quigley：任命新西兰联储主席的程序将很快启动，但整个过程可能需要六到九个月。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-31/detail-inerntaw8591346.d.html</link>
+            <guid>4112896</guid>
+            <pubDate>Sun, 30 Mar 2025 21:38:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【报道称马斯克周一将与CIA局长就政府效率问题会面】据报道，美国中央情报局（CIA）局长John Ratcliffe邀请马斯克本周与他会面。中情局发言人表示：“局长已经邀请马斯克与他在中情局会面，讨论政府效率问题。”记者称会面将于周一举行。本月早些时候，中情局解雇了数目不详的试用期员工和近期招聘员工，有报道称迄今已有多达80人被解雇。马斯克两周前还会见了美国国家安全局局长，国家安全局发言人称这是为了确保该机构与新政府的优先事项“保持一致”。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-31/detail-inerntca4324838.d.html</link>
+            <guid>4112895</guid>
+            <pubDate>Sun, 30 Mar 2025 21:31:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：俄罗斯主权财富基金负责人德米特里耶夫表示，俄罗斯与美国已开始就稀土金属及在俄罗斯的项目展开了会谈。]]></title>
+            <guid>4112894</guid>
+            <pubDate>Sun, 30 Mar 2025 21:29:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息 ：特朗普团队在权衡更广泛、更高的关税政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-31/detail-inerntca4324573.d.html</link>
+            <guid>4112893</guid>
+            <pubDate>Sun, 30 Mar 2025 21:29:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【警告美国 伊媒：伊朗导弹随时准备发射】伊朗《德黑兰时报》周日晚间在社交媒体平台“X”称，收到的信息显示，伊朗的导弹 “已装载到所有地下导弹城的发射架上，随时准备发射”。帖子称，“打开潘多拉魔盒将让美国政府及其盟友付出沉重的代价”。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-31/detail-inerntay7549095.d.html</link>
+            <guid>4112892</guid>
+            <pubDate>Sun, 30 Mar 2025 21:22:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新西兰财部威利斯：欢迎新西兰联储对资本要求展开评估，更高的资本要求会提高借贷成本。]]></title>
+            <guid>4112891</guid>
+            <pubDate>Sun, 30 Mar 2025 21:22:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新西兰联储主席：计划建立一个基于证据的框架 以对银行业资本制度进行审查】新西兰联储主席Quigley表示，计划建立一个基于证据的框架，以对银行业资本制度进行审查，将在年底前进行审查；资本比率变动无需立法，看到国际资本标准有所放宽。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-31/detail-inerntaw8588979.d.html</link>
             <guid>4112890</guid>
             <pubDate>Sun, 30 Mar 2025 21:10:57 GMT</pubDate>
         </item>
@@ -186,116 +297,6 @@
             <link>https://finance.sina.cn/7x24/2025-03-31/detail-inernnvh1692349.d.html</link>
             <guid>4112860</guid>
             <pubDate>Sun, 30 Mar 2025 18:16:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【左手科技右手红利 基金偏好双线布局】随着上市公司年报及一季报密集披露，公募基金调仓动向逐渐明晰。梳理发现，兼具AI技术落地能力与业绩兑现能力的科技公司，以及现金流充裕、分红率稳定的企业，正成为基金经理配置的核心方向。这一趋势既反映了市场对新技术商业化前景的乐观预期，也体现了公募基金对风险收益比的审慎权衡。从近期基金持仓变动可以看出，部分基金经理已形成“AI业绩线+高分红线”的双线布局策略。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-31/detail-inernnva7647204.d.html</link>
-            <guid>4112855</guid>
-            <pubDate>Sun, 30 Mar 2025 17:55:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【知名基金经理隐形重仓股曝光 科技板块成布局主战场】随着2024年基金年报陆续披露，公募基金的隐形重仓股也随之浮出水面。葛兰管理的基金，隐形重仓股依然聚焦于创新药械领域。周蔚文则将目光投向多个行业，包括银行、保险、航空、游戏等，同时，他也在年报中表达了对2025年人工智能行情的乐观看法。傅鹏博保持了较高的持股集中度，明确表示将在未来的投研工作中继续加大对科技行业的关注。展望2025年，知名基金经理纷纷调整投资策略，重点抓住新兴行业和创新技术的机会，为市场提供了重要的投资风向标。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-31/detail-inernnvh1689162.d.html</link>
-            <guid>4112851</guid>
-            <pubDate>Sun, 30 Mar 2025 17:52:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阳光私募重仓八大行业 有色金属持仓市值居首】从已公布年报来看，截至2024年底，阳光私募持仓市值超10亿元共有八大行业，分别是有色金属、电子、基础化工、商贸零售、机械设备、电力设备、计算机、医药生物。持仓市值最高的是有色金属行业，合计64.99亿元。有色金属行业共4家公司获阳光私募持仓，分别为紫金矿业、赤峰黄金、国城矿业、宏创控股。据数据宝统计，截至目前，阳光私募持仓的115家公司中，2024年实现盈利的公司占比超过八成，其中同比增长（含扭亏为盈）的公司有62家，占比达到五成以上。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-31/detail-inernnvh1688833.d.html</link>
-            <guid>4112847</guid>
-            <pubDate>Sun, 30 Mar 2025 17:49:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【汉诺威工业博览会举行开幕式 展会聚焦“工业转型”】当地时间3月30日傍晚，2025年汉诺威工业博览会在德国汉诺威举行开幕仪式。德国总理朔尔茨在开幕式上发表致辞并表示，希望汉诺威工业博览会能够发出国际合作的明确信号。朔尔茨表示，当前自由贸易正面临危险，欧盟在这方面的立场很明确，希望继续致力于自由和公平的世界贸易。朔尔茨指出，“很显然，欧盟将对美国的关税政策做出明确和果断的回应”。 他表示，包括加拿大等国在内，扩大与今年展会合作伙伴国的贸易往来，才是此时的正确答案。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-31/detail-inernnvh1688271.d.html</link>
-            <guid>4112845</guid>
-            <pubDate>Sun, 30 Mar 2025 17:43:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【缅甸震后救援工作面临困难 政府正全力协调】缅甸社会福利与救济安置部重建司司长敏登30日在内比都接受总台记者采访。他表示，震后救援工作面临巨大困难，政府正协调各部门通力合作，全力救援被困人员。敏登对中国第一时间向缅甸派出救援队表示衷心感谢。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-31/detail-inernhpe7770879.d.html</link>
-            <guid>4112818</guid>
-            <pubDate>Sun, 30 Mar 2025 17:08:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【格陵兰岛新总理称美国不会得到格陵兰岛】格陵兰岛新总理尼尔森在社交网络脸书的自己页面写道：“特朗普表示美国“将得到格陵兰岛”。请允许我解释一下：美国不会得到格陵兰岛。我们不属于其他人。我们自己决定自己的未来。”他补充说，格陵兰岛人不应该害怕特朗普的言论，而应该"冷静、不卑不亢地和团结地 "对此做出反应。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-31/detail-inernhpe7770584.d.html</link>
-            <guid>4112817</guid>
-            <pubDate>Sun, 30 Mar 2025 17:06:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄称打击乌安全局和乌情报总局临时部署点】俄罗斯国防部当地时间30日通报称，俄军对乌克兰安全局和乌克兰情报总局特种部队的临时部署点发动了导弹袭击，打死约170名乌军及外国雇佣兵。乌克兰方面暂未对此消息作出回应。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-31/detail-inernhph4544358.d.html</link>
-            <guid>4112815</guid>
-            <pubDate>Sun, 30 Mar 2025 17:01:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以色列公布“自愿移民事务局”局长人选】以色列国防部长卡茨办公室当地时间3月30日发表声明称，卡茨已任命国防部副总干事雅科夫·布利茨坦（Yaakov Blitstein）为“自愿移民事务局”局长。卡茨办公室称，布利茨坦曾在外交部、能源部和交通部担任高级职位，拥有丰富的管理经验。“自愿移民事务局”将为有意离开加沙地带的巴勒斯坦人提供“安全监督下的离境通道和手续”，可能在加沙特定口岸设置步行通道和安全检查点，还将协调海、陆、空等途径将这些巴勒斯坦人转移至有意接收他们的国家。卡茨表示，以方将让那些希望移居世界各地的加沙居民自愿移民，根据以色列的调查结果，“至少有40%的加沙居民有兴趣移民”。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-31/detail-inernhpe7769373.d.html</link>
-            <guid>4112814</guid>
-            <pubDate>Sun, 30 Mar 2025 16:58:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国能源市场报告：2025 年 3 月 13 日晚上 9 点 51 分至 3 月 31 日晚上 11 点，巴罗（北码头）600 万立方米 / 天的天然气处理厂因非计划原因无法运行。]]></title>
-            <guid>4112812</guid>
-            <pubDate>Sun, 30 Mar 2025 16:48:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新华社快讯：当地时间3月30日晚，中国国际救援队抵达缅甸内比都军用机场。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-31/detail-inernhpe7767526.d.html</link>
-            <guid>4112810</guid>
-            <pubDate>Sun, 30 Mar 2025 16:46:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：特朗普不排除寻求第三届总统任期，称有办法做到。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-31/detail-inernhpe7763980.d.html</link>
-            <guid>4112802</guid>
-            <pubDate>Sun, 30 Mar 2025 16:28:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国海啸预警中心解除汤加海啸警报】努库阿洛法消息：美国国家气象局国家海啸预警中心30日说，依据现有数据，汤加当天早些时候发生地震所带来的海啸威胁已经过去。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-31/detail-inernhpe7763121.d.html</link>
-            <guid>4112801</guid>
-            <pubDate>Sun, 30 Mar 2025 16:22:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗总统：间接谈判始终开放 谈判前景取决于美方行动】伊朗总统佩泽希齐扬30日表示，已通过阿曼向美方递交回信，拒绝了与美国进行直接谈判，但间接谈判始终开放，美方行动将决定谈判前景。据伊朗总统府30日发表的声明，佩泽希齐扬是在当天的内阁会议上作出上述表态的。他强调，伊朗从未回避谈判，但“违背承诺的行为”给谈判带来阻碍，“美国的行动决定着谈判的前路”。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-31/detail-inernhpa8819273.d.html</link>
-            <guid>4112800</guid>
-            <pubDate>Sun, 30 Mar 2025 16:21:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息 ：诺和诺德披露司美格鲁肽2.4mg（剂量）研究分析的细节信息，分析表明心血管病风险降低。]]></title>
-            <guid>4112799</guid>
-            <pubDate>Sun, 30 Mar 2025 16:19:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩国山火主要火点已被扑灭】韩国中央灾难安全对策本部30日宣布，在庆尚南道和庆尚北道蔓延的大型山火主要火点已经全部被扑灭。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-31/detail-inernhpe7761571.d.html</link>
-            <guid>4112798</guid>
-            <pubDate>Sun, 30 Mar 2025 16:15:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国总理朔尔茨：我们站在加拿大一边，加拿大不是属于任何其他国家的一个州。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-31/detail-inernhpe7761505.d.html</link>
-            <guid>4112797</guid>
-            <pubDate>Sun, 30 Mar 2025 16:14:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国总理朔尔茨：欧洲的目标是合作，但如果美国让我们别无选择，比如在钢铁、铝关税问题上，欧盟将团结一致作出回应。]]></title>
-            <guid>4112795</guid>
-            <pubDate>Sun, 30 Mar 2025 16:13:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：孟买证券交易所在 3 月 30 日（周日）宣布，其董事会已批准按每持有一股送两股红利股的比例向股东发行红利股。]]></title>
-            <guid>4112793</guid>
-            <pubDate>Sun, 30 Mar 2025 16:13:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[格陵兰岛总理：特朗普称美国 “将得到格陵兰”，但我明确表示，美国不会得逞。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-30/detail-inernhph4532549.d.html</link>
-            <guid>4112783</guid>
-            <pubDate>Sun, 30 Mar 2025 15:59:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
