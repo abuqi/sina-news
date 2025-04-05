@@ -4,11 +4,29 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 05 Apr 2025 16:26:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Apr 2025 17:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【马斯克希望美国和欧洲迈向零关税自由贸易区】埃隆・马斯克在意大利一场联盟党活动上对与会者表示，他希望美国和欧洲之间建立一个 “零关税” 体系，从而有效地在欧洲和北美之间创建 “一个自由贸易区”。马斯克在周六对意大利副总理马泰奥・萨尔维尼说：“在我看来，最理想的情况是，欧洲和美国都应朝着零关税的方向发展。这就是我所希望看到的情况。”]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-06/detail-inescvcp6289358.d.html</link>
+            <guid>4126846</guid>
+            <pubDate>Sat, 05 Apr 2025 16:52:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克：希望美国和欧洲能朝着零关税协议迈进。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-06/detail-inescvcm9514470.d.html</link>
+            <guid>4126845</guid>
+            <pubDate>Sat, 05 Apr 2025 16:50:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以军首次在“莫拉格走廊”开展军事行动】以色列国防军当地时间4月5日发布声明称，以军第36师部队已重返加沙地带作战，并开始在“莫拉格走廊”进行军事行动。这也是以色列国防军首次在该区域开展行动。以军表示，这些行动是在加沙地带及其他战线更广泛军事行动的一部分。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-06/detail-inescvcp6285511.d.html</link>
+            <guid>4126834</guid>
+            <pubDate>Sat, 05 Apr 2025 16:30:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【缅甸强震已致该国3471人死亡】当地时间4月5日晚间获悉，最新统计数据显示，缅甸3月28日发生的强震已在该国造成3471人死亡、超4000人受伤，另有214人失踪。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2025-04-06/detail-inescvcp6283776.d.html</link>
@@ -283,17 +301,6 @@
             <link>https://finance.sina.cn/7x24/2025-04-05/detail-inesckpr9735276.d.html</link>
             <guid>4126723</guid>
             <pubDate>Sat, 05 Apr 2025 12:03:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[本周大盘主力资金累计净流入-1111.33亿元，电力、多元金融板块净流入居前，个股中航产融、永辉超市净流入最多。]]></title>
-            <guid>4126721</guid>
-            <pubDate>Sat, 05 Apr 2025 12:00:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【微软前CEO鲍尔默：特朗普关税将对科技行业造成重大破坏】微软公司前CEO史蒂夫·鲍尔默周五对美国总统特朗普的新关税可能导致全球动荡并对消费者产生负面影响表示担忧，尤其是在微软股价今年已大幅下跌的情况下。鲍尔默在一次采访中警告称，美国政府不断升级的关税将对经济产生深远影响，包括对消费者和投资者构成重大挑战。他说：“作为微软的股东，这种事情并不好。”他指出，对进口商品征收的新关税——影响100多个国家——可能会造成重大破坏，尤其是在依赖全球贸易的行业，比如科技行业。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-05/detail-inesckpr9734013.d.html</link>
-            <guid>4126718</guid>
-            <pubDate>Sat, 05 Apr 2025 11:55:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
