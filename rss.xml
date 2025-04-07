@@ -4,19 +4,179 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Mon, 07 Apr 2025 18:31:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Apr 2025 19:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[沪金夜盘收跌0.50%，沪银收涨0.07%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-08/detail-ineskpri4199562.d.html</link>
-            <guid>4129874</guid>
-            <pubDate>Mon, 07 Apr 2025 18:30:38 GMT</pubDate>
+            <title><![CDATA[美国总统特朗普：与内塔尼亚胡就伊朗和贸易问题进行了很棒的讨论。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-08/detail-inesktxc7311991.d.html</link>
+            <guid>4129905</guid>
+            <pubDate>Mon, 07 Apr 2025 19:17:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[上期所原油期货2405合约夜盘收跌6.41%，报477.40元人民币/桶。]]></title>
+            <title><![CDATA[市场消息：美国财政部长贝森特将主导与日本的贸易谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-08/detail-inesktxc7311915.d.html</link>
+            <guid>4129904</guid>
+            <pubDate>Mon, 07 Apr 2025 19:17:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普关税加剧经济衰退担忧 美国原油周一收跌2.1%】美国油价周一下跌约2%，延续了上周后期的大幅下跌。原油市场交易商担心美国总统特朗普的全球关税将导致美国甚至世界经济陷入衰退。纽约商品交易所5月交割的西得克萨斯中质原油（WTI）期价下跌1.29美元，跌幅为2.08%，收于每桶60.70美元。该商品价格上周四收跌6.6%、周五跌7.4%。周一盘中，WTI原油最低下跌至每桶58.95美元，创2021年以来的最低盘中价格。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-08/detail-inesktxk5367737.d.html</link>
+            <guid>4129903</guid>
+            <pubDate>Mon, 07 Apr 2025 19:16:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美元指数7日上涨】衡量美元对六种主要货币的美元指数当天上涨0.24%，在汇市尾市收于103.267。截至纽约汇市尾市，1欧元兑换1.0928美元，低于前一交易日的1.0943美元；1英镑兑换1.2755美元，低于前一交易日的1.2881美元。1美元兑换148.03日元，高于前一交易日的146.91日元；1美元兑换0.8572瑞士法郎，低于前一交易日的0.8606瑞士法郎；1美元兑换1.4200加元，低于前一交易日的1.4238加元；1美元兑换10.0758瑞典克朗，高于前一交易日的10.0390瑞典克朗。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-08/detail-inesktxk5367260.d.html</link>
+            <guid>4129902</guid>
+            <pubDate>Mon, 07 Apr 2025 19:12:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[在岸人民币兑美元（CNY）北京时间03:00收报7.3220元，较上周四（清明节休市前）夜盘收盘跌400点。成交量444.04亿美元。]]></title>
+            <guid>4129901</guid>
+            <pubDate>Mon, 07 Apr 2025 19:09:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国财政部长贝森将领导与日本的关税谈判，日元问题在议程之列。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-08/detail-inesktxf4083153.d.html</link>
+            <guid>4129900</guid>
+            <pubDate>Mon, 07 Apr 2025 19:05:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[智利国有铜矿公司Codelco：美国关税不会影响长期铜需求。预计2025年第一季度的产量将略微超过2024年第一季度。尽管二月份出现了电力中断，仍维持2025年产量指导预测。]]></title>
+            <guid>4129898</guid>
+            <pubDate>Mon, 07 Apr 2025 19:03:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：特朗普团队考虑设立出口商税收抵免，以抵消关税带来的风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-08/detail-inesktxf4081905.d.html</link>
+            <guid>4129897</guid>
+            <pubDate>Mon, 07 Apr 2025 19:02:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[芝加哥期权交易所（CBOE）：富时比特币指数期货将于2025年4月28日推出。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-08/detail-inesktxc7306754.d.html</link>
+            <guid>4129896</guid>
+            <pubDate>Mon, 07 Apr 2025 19:01:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒生指数主连夜盘收跌0.64%，报19653.00点。恒生科技指数主连夜盘收跌0.09%，报4401.00点。]]></title>
+            <guid>4129895</guid>
+            <pubDate>Mon, 07 Apr 2025 19:00:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国2月消费信贷变动 -8.1亿美元，预期 150亿美元，前值 180.84亿美元。]]></title>
+            <guid>4129894</guid>
+            <pubDate>Mon, 07 Apr 2025 19:00:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国计划将对加拿大木材征收的现有关税提高一倍以上】当地时间4月7日获悉，美国计划将加拿大进口软木木材的现有反倾销税和反补贴关税提高一倍以上。根据《联邦公报》上公布和未公布的文件，作为年度审查程序的一部分，美国商务部计划将关税从14.4%提高到34.45%。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-08/detail-inesktxc7306078.d.html</link>
+            <guid>4129893</guid>
+            <pubDate>Mon, 07 Apr 2025 18:59:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美众议院议长：众议院仍将为特朗普全球关税计划 “开绿灯”】据美媒Politico报道，美国众议院议长约翰逊周一表示，即便一些共和党议员公开恳请特朗普在周三关税生效前协商出取消关税的办法，众议院仍会为特朗普实施其大规模的全球关税制度提供 “空间”。约翰逊说：“我们会给他实施政策所必需的空间，然后看看事情将如何发展。”这位议长接着称，特朗普正在 “积极参与并试图解决” 贸易逆差问题。共和党内的反对意见以两党联合立法的形式呈现，该立法旨在从总统手中收回国会在关税方面的权力。此前民主党参议员Maria Cantwell和爱荷华州共和党参议员Chuck Grassley提出的限制总统单方面征收关税权力的立法。美国众议员唐・培根（内布拉斯加州共和党人）计划在周一提出该立法的众议院版本。由于遭到一群财政保守派人士的强烈反对，约翰逊周一拒绝公开承诺本周会将重新修订的参议院预算计划提交众议院进行表决。然而，一些共和党高级助手表示，目前的计划仍是按原计划在周三下午进行最终投票。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-08/detail-inesktxc7305373.d.html</link>
+            <guid>4129892</guid>
+            <pubDate>Mon, 07 Apr 2025 18:58:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普经济顾问Miran：在4月9日对等关税生效之前，无法确认是否会达成任何关税协议，最终决定将由美国总统特朗普做出。]]></title>
+            <guid>4129891</guid>
+            <pubDate>Mon, 07 Apr 2025 18:53:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普经济顾问Miran：美元的主导地位是件好事，但也有一些可能产生问题的副作用。]]></title>
+            <guid>4129890</guid>
+            <pubDate>Mon, 07 Apr 2025 18:50:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【研究发现，智利的锂储量比以前估计的多28%】智利国家矿业机构ENAMI周一表示，根据对安托法加斯塔地区北部盐滩的新研究，智利的锂资源总量比之前估计的高出28%。据ENAMI称，一项新的分析显示，拉伊斯拉盐田的锂储量为213万吨，比之前的估计增加了150%，而阿吉拉尔盐田的锂储量略低于100万吨，增加了40%。这两项合计使智利的锂资源总量增加了305万吨，而美国地质调查局之前估计的资源总量为1100万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-08/detail-ineskprn5492537.d.html</link>
+            <guid>4129889</guid>
+            <pubDate>Mon, 07 Apr 2025 18:49:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国财长贝森特将领导与日本的贸易谈判】美国财政部长贝森特表示，他将领导与日本首相石破茂进行贸易谈判。贝森特在X平台上发帖称，特朗普总统要求他和美国贸易代表与石破茂及其内阁“展开谈判”。贝森特在X平台上发帖称：“日本仍然是美国最亲密的盟友之一，我期待著我们即将就关税、非关税贸易壁垒、汇率问题和政府补贴进行富有成效的接触。”美国总统特朗普周一早些时候表示，他已经与石破茂进行了交谈。根据特朗普的计划，日本将面临24%的关税税率。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-08/detail-ineskpri4207184.d.html</link>
+            <guid>4129888</guid>
+            <pubDate>Mon, 07 Apr 2025 18:49:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高盛公司给予蜜雪冰城股份有限公司买进的初始评级，目标价484港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-08/detail-ineskprn5492093.d.html</link>
+            <guid>4129887</guid>
+            <pubDate>Mon, 07 Apr 2025 18:47:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伦铜跌破8500美元关口 有买家趁机出手大举买入】交易员表示，有买家趁着周一铜价跌破每吨8500美元大幅增购，这在全球其他市场跌势进一步加剧的情况下推动了铜价的强劲反弹。伦敦金属交易所(LME)开盘后仅15分钟内，铜价一度暴跌多达7.7%，随后走势迅速反转，在短短两个多小时内回升近1,000美元，创自2009年以来最大日间波动幅度。交易异常火爆，LME开盘后第二小时的铜交易量更是创下2016年特朗普首次当选总统以来的单小时最高纪录。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-08/detail-ineskpri4204759.d.html</link>
+            <guid>4129886</guid>
+            <pubDate>Mon, 07 Apr 2025 18:43:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苹果计划从印度采购更多iPhone以应对关税影响】知情人士称，苹果公司计划从印度向美国出口更多iPhone手机，以抵消关税带来的高成本。这些调整是苹果公司试图争取获得特朗普政府关税豁免的权宜之计，该公司首席执行官库克(Tim Cook)在特朗普第一任期内曾获得过此类豁免。上述知情人士称，苹果公司认为，当前形势过于不明朗，因此不会颠覆其在供应链方面的长期投资。iPhone是苹果公司的标志性产品，约占其收入的50%。该公司严重依赖全球化制造，这让担心其受关税影响的投资者感到不安，导致该公司股价三日下跌20%，创下近25年来最差的三日表现。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-08/detail-ineskpri4204116.d.html</link>
+            <guid>4129885</guid>
+            <pubDate>Mon, 07 Apr 2025 18:41:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[哥斯达黎加检察官指控总统查韦斯和文化部长涉嫌涉及中美洲经济一体化银行的影响力操纵计划。]]></title>
+            <guid>4129884</guid>
+            <pubDate>Mon, 07 Apr 2025 18:40:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【交易员点评美国股市天翻地覆的15分钟：用如坐针毡这个词根本不足以形容】 周一上午，美东时间10点（北京时间22:00）刚过，位于曼哈顿中心的Siebert交易大厅突然迸发出叫喊声。该公司首席投资官Mark Malek冲出办公室，就听到首席交易员大喊总统唐纳德·特朗普正考虑暂停实施导致多日来股市大跌的全面对等关税。Malek并不买账。“我觉得这是胡扯，” 他脱口而出道。然而只过了几秒钟，他就惊讶地发现股市疯狂上攻，标普500指数一举收复了早盘的全部失地，还一度大涨了3.4%。“市场非常敏感，”Malek说，“用如坐针毡这个词根本不足以形容。”]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-08/detail-ineskpri4202828.d.html</link>
+            <guid>4129883</guid>
+            <pubDate>Mon, 07 Apr 2025 18:38:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国证监会公布加密交易圆桌会议议程】美国证券交易委员会（SEC）的加密货币特别工作组已公布了其4月11日圆桌会议的议程和小组成员名单，此次圆桌会议的主题为“两难困境：为加密货币交易量身定制监管措施”。此次圆桌会议将于北京时间4月12日凌晨1点至5点在美国证券交易委员会总部举行。该活动将向公众开放，并在美国证券交易委员会的网站上进行现场网络直播。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-08/detail-ineskpre1039883.d.html</link>
+            <guid>4129882</guid>
+            <pubDate>Mon, 07 Apr 2025 18:38:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国天然气期货延续跌势，因产量创纪录且担忧关税可能削减需求，价格下跌5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-08/detail-ineskpre1038896.d.html</link>
+            <guid>4129881</guid>
+            <pubDate>Mon, 07 Apr 2025 18:34:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【泽连斯基：乌克兰正最大限度提高无人机产量】当地时间4月7日，乌克兰总统泽连斯基在其晚间例行视频讲话中表示，当天召开了一次最高统帅部会议，听取了有关乌克兰无人机生产情况的汇报。泽连斯基表示，目前乌克兰正在最大限度提高无人机产量，其中包括远程无人机等在内的各种类型的无人机。此外他表示，乌克兰正在研发光纤无人机，仅今年年初以来，就已生产出20多架带有光纤控制系统的新型无人机样品。目前乌克兰的11家企业已经掌握了此类无人机的生产技术，目前的任务是实现大规模量产。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-08/detail-ineskprf7426313.d.html</link>
+            <guid>4129880</guid>
+            <pubDate>Mon, 07 Apr 2025 18:34:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿尔及利亚宣布对马里关闭该国领空】阿尔及利亚国防部当地时间4月7日晚间发表声明宣布对马里关闭该国领空。声明说，“由于马里一再侵犯阿尔及利亚领空”，阿尔及利亚政府决定自2025年4月7日起对往返马里的空中交通关闭其领空。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-08/detail-ineskprf7426082.d.html</link>
+            <guid>4129878</guid>
+            <pubDate>Mon, 07 Apr 2025 18:33:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普经济顾问Miran：美国的政策，包括放松监管的议程，将会保持通胀在可控范围内。]]></title>
+            <guid>4129877</guid>
+            <pubDate>Mon, 07 Apr 2025 18:32:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI 5月原油期货收跌1.29美元，跌幅2.08%，报60.70美元/桶。NYMEX 5月天然气期货收跌超4.74%，报3.6550美元/百万英热单位。NYMEX 5月汽油期货收报2.0201美元/加仑，NYMEX 5月取暖油期货收报2.0699美元/加仑。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-08/detail-ineskpre1038619.d.html</link>
+            <guid>4129876</guid>
+            <pubDate>Mon, 07 Apr 2025 18:32:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧盟特使：尚未与美国就放松对俄罗斯制裁进行磋商】欧盟尚未就放松对俄制裁作为停火协议的一部分与特朗普政府进行过沟通，欧盟负责该事务的最高特使表示。“我们目前尚未就制裁问题与美国人进行任何讨论，”欧盟负责制裁事务的最高官员David O’Sullivan表示，“华盛顿方面尚未就俄罗斯提出的放松制裁要求与欧盟接触。”据悉，放松制裁是俄罗斯对特朗普政府正力图达成的临时停火协议提出的关键条件之一。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-08/detail-ineskpri4199926.d.html</link>
+            <guid>4129875</guid>
+            <pubDate>Mon, 07 Apr 2025 18:31:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沪金主力合约收跌0.50%，报713元/克，沪银主力合约收涨0.07%，报7668元/千克，SC原油主力合约收跌6.41%，报477元/桶。]]></title>
             <link>https://finance.sina.cn/7x24/2025-04-08/detail-ineskprf7424899.d.html</link>
             <guid>4129873</guid>
             <pubDate>Mon, 07 Apr 2025 18:30:18 GMT</pubDate>
@@ -138,169 +298,6 @@
             <link>https://finance.sina.cn/7x24/2025-04-08/detail-ineskprf7417224.d.html</link>
             <guid>4129852</guid>
             <pubDate>Mon, 07 Apr 2025 18:11:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗北部发生矿难至少7人死亡】伊朗迈赫尔通讯社7日援引该国紧急部门发言人哈立迪的话报道说，伊朗北部塞姆南省达姆甘当天发生一起矿难，数名工人被困，目前已造成7人死亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-08/detail-ineskpri4191581.d.html</link>
-            <guid>4129851</guid>
-            <pubDate>Mon, 07 Apr 2025 18:10:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普经济顾问Miran：由于美元具备储备功能，致使汇率处于不正常状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-08/detail-ineskpre1033683.d.html</link>
-            <guid>4129850</guid>
-            <pubDate>Mon, 07 Apr 2025 18:08:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瑞银首席策略师预计2025年美国企业盈利面临零增长风险】瑞银投资银行首席策略师Bhanu Baweja表示，美国总统唐纳德·特朗普的关税可能会打击消费者需求，或导致标普500指数成份股公司今年的盈利毫无增长。Baweja周一在与记者的电话会议上表示，美国国内生产总值(GDP)增速每下降1个百分点通常伴随着盈利增速下降6.9个百分点。“我们接下来的情况可能会更糟，”这位策略师表示，“在美国，盈利可能出现零增长，甚至可能出现负增长，这种情况也不无可能。”]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-08/detail-ineskpri4190316.d.html</link>
-            <guid>4129849</guid>
-            <pubDate>Mon, 07 Apr 2025 18:08:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：乌克兰总统泽连斯基承认乌克兰军队在俄罗斯别尔哥罗德州的存在。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-08/detail-ineskprf7415152.d.html</link>
-            <guid>4129848</guid>
-            <pubDate>Mon, 07 Apr 2025 18:06:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧股“十一罗汉”｜阿斯利康收跌超6.9%，阿斯麦跌2.5%跌幅最小，诺和诺德涨约0.5%】 周一（4月7日），阿斯麦控股荷兰阿姆斯特丹股价（ASML.NA）收跌2.50%，报550.00欧元。诺和诺德哥本哈根股价（NOVOB.DC）收涨0.49%，报434.10（丹麦克朗）。阿斯利康收跌6.96%，葛兰素史克和罗氏制药至少跌6%，诺华跌5.34%，赛诺菲、雀巢、德国思爱普Sap、LVMH集团跌4.78%-4.23%，欧莱雅跌3.96%。]]></title>
-            <guid>4129847</guid>
-            <pubDate>Mon, 07 Apr 2025 17:58:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[唐宁街发言人表示，英国首相斯塔默与新加坡总理黄循财一致认为，志同道合的伙伴共同努力维持全球经济稳定至关重要。]]></title>
-            <guid>4129846</guid>
-            <pubDate>Mon, 07 Apr 2025 17:56:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[唐宁街发言人表示，英国首相斯塔默周一与新加坡总理黄循财通电话时，讨论了美国关税问题，并一致认为贸易战没有赢家。]]></title>
-            <guid>4129845</guid>
-            <pubDate>Mon, 07 Apr 2025 17:55:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国30年期国债收益率攀升22个基点，至日内高点4.63%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-08/detail-ineskpre1030644.d.html</link>
-            <guid>4129844</guid>
-            <pubDate>Mon, 07 Apr 2025 17:54:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元兑美元维持0.2%的跌幅，报1.0941。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-08/detail-ineskpri4184974.d.html</link>
-            <guid>4129843</guid>
-            <pubDate>Mon, 07 Apr 2025 17:54:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[埃及总统府：四位领导人讨论了确保在加沙达成紧急停火并解救人质的方法。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-08/detail-ineskpri4184574.d.html</link>
-            <guid>4129842</guid>
-            <pubDate>Mon, 07 Apr 2025 17:53:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉确认美光科技的评级为“BBB”，展望稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-08/detail-ineskpre1030251.d.html</link>
-            <guid>4129841</guid>
-            <pubDate>Mon, 07 Apr 2025 17:53:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以军过去一天对加沙行动造成近60人死亡】加沙地带卫生部门7日宣布，过去一天，以色列国防军对加沙地带多地展开军事行动，已造成57人死亡，137人受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-08/detail-ineskpre1030199.d.html</link>
-            <guid>4129840</guid>
-            <pubDate>Mon, 07 Apr 2025 17:53:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【墨西哥寻求避免对美国征收报复性关税，但不排除这种可能性】墨西哥总统辛鲍姆周一表示，针对美国总统特朗普的全面关税计划，墨西哥政府希望避免对美国征收关税，但她表示不能排除这种可能性。墨西哥有近80%的出口产品运往美国，但墨西哥并没有被列入特朗普上周宣布的对全球各国征收全面关税的清单，辛鲍姆称这是一项重大成功。墨西哥仍然受到特朗普此前实施的关税影响，包括对钢铁、铝和汽车征收25%的关税，以及对不符合区域性《美墨加协定》（USMCA）规定的商品征收关税。辛鲍姆在上午的新闻发布会上说："我们希望尽可能避免征收对等关税。"]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-08/detail-ineskprf7409736.d.html</link>
-            <guid>4129839</guid>
-            <pubDate>Mon, 07 Apr 2025 17:52:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[埃及总统府：埃及总统塞西、法国总统马克龙和约旦国王阿卜杜拉与特朗普进行电话通话。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-08/detail-ineskprf7409617.d.html</link>
-            <guid>4129838</guid>
-            <pubDate>Mon, 07 Apr 2025 17:52:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟委员会提议对一系列美国进口商品征收25%的反制关税】据路透社报道，文件显示，欧盟委员会提议对一系列美国进口商品征收25%的反制关税，将于从5月16日起生效。欧盟委员会将美国波旁威士忌从其拟征收反制关税的商品清单中剔除。文件称，对上述部分商品征收的关税将于5月16日生效，而其他商品的关税则在今年晚些时候，即12月1日生效。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-08/detail-ineskpri4181719.d.html</link>
-            <guid>4129835</guid>
-            <pubDate>Mon, 07 Apr 2025 17:46:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[机械相关个股卡特彼勒（CAT）一度跌约7%，康明斯（CMI）一度跌约6%，马丁-玛丽埃塔材料（MLM）一度跌约5.5%，帕卡（PCAR）一度跌5.2%，火神材料（VMC）一度跌约5%。瑞银集团担心，机械相关行业将面临更多痛苦。]]></title>
-            <guid>4129834</guid>
-            <pubDate>Mon, 07 Apr 2025 17:42:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[斯泰兰蒂斯公司聘请麦肯锡公司为玛莎拉蒂、阿尔法·罗密欧提供咨询。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-08/detail-ineskprf7405686.d.html</link>
-            <guid>4129833</guid>
-            <pubDate>Mon, 07 Apr 2025 17:42:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【埃及、法国和约旦三国领导人举行峰会 呼吁加沙立即停火】当地时间7日，埃及、法国和约旦三方峰会在埃及首都开罗举行。埃及总统塞西、法国总统马克龙和约旦国王阿卜杜拉二世出席会议。会议讨论了加沙局势及其发展问题。会后，三国领导人发表了联合声明。三国领导人共同呼吁立即恢复加沙地带停火，保护巴勒斯坦人并确保他们立即获得全面的紧急人道主义援助。声明强调，必须执行各方1月19日签署的停火协议，释放所有被扣押人员。与会领导人强调，必须保护平民和人道主义工作者安全、并确保充分的人道主义援助。三方对当前局势表示严重关切，呼吁停止一切破坏“两国方案”、加剧紧张局势的单边措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-08/detail-ineskprf7405166.d.html</link>
-            <guid>4129832</guid>
-            <pubDate>Mon, 07 Apr 2025 17:40:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普500指数、道琼斯指数跌幅收窄，纳斯达克指数转涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-08/detail-ineskpri4179576.d.html</link>
-            <guid>4129831</guid>
-            <pubDate>Mon, 07 Apr 2025 17:40:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【 白宫表示特朗普将否决参议院限制总统关税权力的议案】美国白宫表示，如果参议院试图加强国会对关税的控制权的法案递交到总统办公桌上，总统特朗普将予以否决。根据华盛顿州民主党参议员Maria Cantwell和艾奥瓦州共和党参议员Chuck Grassley上周提出的《贸易审查法》(Trade Review Act)，总统实施的关税将在60天后失效，除非国会投票批准。该法案还将要求总统在新关税措施实施后48小时内通知国会，并赋予立法部门通过投票终止关税的权力。白宫在一份声明中表示：“如果该法案获得通过，将严重损害总统决定美国外交政策和保护美国国家安全的权力和责任。”该法案得到了六位以上共和党参议员的联名支持，包括肯塔基州参议员麦康奈尔(Mitch McConnell)和北卡罗来纳州参议员Thom Tillis。该法案需要60票才能克服参议院的阻挠议案门槛，还需要在共和党领导的众议院获得通过。如果特朗普否决该法案，国会两院将需要三分之二的绝对多数票才能在没有总统签字的情况下通过该法案，使其成为法律。]]></title>
-            <guid>4129830</guid>
-            <pubDate>Mon, 07 Apr 2025 17:38:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗总统：伊朗寻求谈判但“不会不惜代价”】据伊朗总统府7日发表的声明，伊朗总统佩泽希齐扬6日表示，伊朗寻求就其核计划进行谈判，但“不会不惜代价”。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-08/detail-ineskprf7403339.d.html</link>
-            <guid>4129829</guid>
-            <pubDate>Mon, 07 Apr 2025 17:36:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴方称在加沙拉法死亡的15名医护人员遭以军“蓄意杀害”】巴勒斯坦红新月会当地时间7日在拉姆安拉举行发布会，并表示根据法医报告显示，此前在拉法死亡的15名医疗及民防救援人员是死于以军的“蓄意杀害”，以军行为是完全的“战争罪”。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-08/detail-ineskpri4174729.d.html</link>
-            <guid>4129828</guid>
-            <pubDate>Mon, 07 Apr 2025 17:27:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【白宫取消与以色列总理的新闻发布会】白宫取消了此前安排的与以色列总理内塔尼亚胡举行的周一新闻发布会，有关美国总统特朗普关税的问题原本将成为此次发布会的焦点。内塔尼亚胡正在白宫访问，以色列正在寻求关税减免，预计两位领导人还将讨论加沙和伊朗问题。预计记者们将在美东时间下午2点前往椭圆形办公室报道两位领导人的双边会晤。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-08/detail-ineskprn5474832.d.html</link>
-            <guid>4129827</guid>
-            <pubDate>Mon, 07 Apr 2025 17:25:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以军称拦截一架来自该国以东方向的无人机】当地时间7日晚间，以色列国防军发表声明称，一架来自该国以东方向的无人机在进入以色列境内前被以军拦截，因此未触发防空警报。以色列媒体援引相关消息称，也门胡塞武装宣称对该无人机袭击负责。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-08/detail-ineskpri4173787.d.html</link>
-            <guid>4129826</guid>
-            <pubDate>Mon, 07 Apr 2025 17:25:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【加拿大总理卡尼：美国经济衰退可能性大幅上升，将对加拿大造成重大负面影响】加拿大总理卡尼周一表示，由于美国总统特朗普加征关税，美国经济衰退的可能性大幅上升，这将对加拿大经济产生重大负面影响。卡尼在电视新闻发布会上还称，他周一与加拿大央行总裁麦克勒姆以及加拿大创新、科学及工业部长商鹏飞就市场动荡问题进行了交谈，并表示对两位官员充满信心。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-08/detail-ineskprf7397278.d.html</link>
-            <guid>4129825</guid>
-            <pubDate>Mon, 07 Apr 2025 17:19:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【招商港口、招商蛇口、招商积余：将加快实施回购公司股份】招商港口、招商蛇口、招商积余同日公告称，基于对公司未来持续发展的信心和对公司价值的认可，公司将加快实施回购公司股份，以维护广大投资者的利益，增强投资者对公司的投资信心，稳定及提升公司价值。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-08/detail-ineskpri4171210.d.html</link>
-            <guid>4129824</guid>
-            <pubDate>Mon, 07 Apr 2025 17:18:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧元区法意西希四国主权债收益率至多涨约10个基点】 周一（4月7日）欧市尾盘，法国10年期国债收益率涨6.6个基点，报3.399%。意大利10年期国债收益率涨9.8个基点，报3.866%。西班牙10年期国债收益率涨7.1个基点，报3.345%。希腊10年期国债收益率涨7.3个基点，报3.542%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-08/detail-ineskprn5473402.d.html</link>
-            <guid>4129823</guid>
-            <pubDate>Mon, 07 Apr 2025 17:17:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储在固定利率逆回购操作中总计接纳了30个对手方的1481.46亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-08/detail-ineskprf7395816.d.html</link>
-            <guid>4129821</guid>
-            <pubDate>Mon, 07 Apr 2025 17:16:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
