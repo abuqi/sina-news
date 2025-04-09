@@ -4,13 +4,276 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Wed, 09 Apr 2025 19:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 20:24:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[美国总统特朗普：将会考虑豁免一些美国公司。]]></title>
+            <title><![CDATA[西方石油公司初步数据显示，一季度实现油价71.01美元/桶，分析师预期70.58美元。]]></title>
+            <guid>4136123</guid>
+            <pubDate>Wed, 09 Apr 2025 20:20:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[开市客/好市多3月总体同店销售增长6.4%，美国同店销售（不含汽油）涨8.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhaz5661615.d.html</link>
+            <guid>4136122</guid>
+            <pubDate>Wed, 09 Apr 2025 20:16:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫官员：除能源和钾肥征收10%的关税外，对加拿大和墨西哥的非美墨加协定下的交易征收25%的关税仍然有效。]]></title>
+            <guid>4136121</guid>
+            <pubDate>Wed, 09 Apr 2025 20:15:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国罗素2000指数收高8.66%，为2020年3月24日以来最大单日百分比涨幅。]]></title>
+            <guid>4136120</guid>
+            <pubDate>Wed, 09 Apr 2025 20:15:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周三（4月9日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘涨7.53%，报82600美元。CME以太币期货DCR主力合约涨12.49%，报1648.50美元。]]></title>
+            <guid>4136119</guid>
+            <pubDate>Wed, 09 Apr 2025 20:15:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普政府助手：特朗普将签署行政命令，废除阻碍市场准入的法规。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhch6249604.d.html</link>
+            <guid>4136118</guid>
+            <pubDate>Wed, 09 Apr 2025 20:08:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【世贸组织总理事会主席将开会磋商经济形势】世界贸易组织官员当地时间8日表示，世贸组织总理事会主席萨克尔·阿卜杜拉·穆克比勒计划下周就当前经济形势及其对多边贸易体制的影响举行非正式磋商，探讨如何应对最新贸易局势。穆克比勒已就该计划致函世贸组织各成员代表。世贸组织总干事伊维拉日前在回应美国的所谓“对等关税”政策时说，美国加征关税将对全球贸易和经济增长前景造成巨大影响。根据世贸组织初步估计，美国自今年初推出的关税措施可能导致2025年全球商品贸易量总体萎缩约1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhch6249543.d.html</link>
+            <guid>4136117</guid>
+            <pubDate>Wed, 09 Apr 2025 20:08:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【封锁长达18个月 加沙面粉危机达到前所未有程度】加沙地带媒体办公室当地时间9日晚间发布消息称，该办公室正在与国际组织沟通紧急协调人道主义援助，特别是面粉，但以军设置的障碍使得实际操作变得极其复杂。目前在加沙当地生产面粉的方式遭到了打击，面粉只得完全依赖进口。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhch6249273.d.html</link>
+            <guid>4136116</guid>
+            <pubDate>Wed, 09 Apr 2025 20:06:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普政府助手：特朗普将签署放松对水电器具监管的行政命令。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhch3590377.d.html</link>
+            <guid>4136115</guid>
+            <pubDate>Wed, 09 Apr 2025 20:05:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普政府助手：：特朗普将签署有关外国防务销售的行政令。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhch3590214.d.html</link>
+            <guid>4136114</guid>
+            <pubDate>Wed, 09 Apr 2025 20:03:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普政府助手：特朗普将签署国防采购行政令，将启动对现有采购项目的审查。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhaz5657647.d.html</link>
+            <guid>4136113</guid>
+            <pubDate>Wed, 09 Apr 2025 20:01:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：股市今日表现良好，股市的创纪录表现应该会继续。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhcc2432005.d.html</link>
+            <guid>4136112</guid>
+            <pubDate>Wed, 09 Apr 2025 20:00:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【纳斯达克中国金龙指数收涨4.5%】纳斯达克中国金龙指数收盘涨4.53%。热门中概股集体走高，理想汽车、哔哩哔哩、京东、小鹏汽车涨超6%，阿里巴巴、蔚来涨超5%，百度涨超4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhaz5657387.d.html</link>
+            <guid>4136111</guid>
+            <pubDate>Wed, 09 Apr 2025 20:00:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【纳指收涨12%创历史第二大单日涨幅 特斯拉、英伟达、苹果等科技股大幅反弹】美股三大指数收盘集体大涨，纳指涨12.16%，为2001年1月3日以来最大单日百分比涨幅，第二大纪录涨幅；标普500指数涨9.52%，录得2008年10月28日以来最大单日百分比涨幅；道指涨7.87%。大型科技股大幅走高，特斯拉涨超22%，英伟达涨超18%，苹果涨超15%，Meta涨超14%，亚马逊涨超11%，微软涨超10%，谷歌涨超9%。费城半导体指数涨19%，单日涨幅创纪录，Arm Holdings涨超24%，超微公司涨超23%，恩智浦涨超21%，美光科技、英特尔涨超18%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhaz5657368.d.html</link>
+            <guid>4136110</guid>
+            <pubDate>Wed, 09 Apr 2025 20:00:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国官员：对加拿大和墨西哥的关税没有调整。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhaz5656449.d.html</link>
+            <guid>4136109</guid>
+            <pubDate>Wed, 09 Apr 2025 19:56:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国官员：对汽车、钢铁、铝的关税没有调整。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhch3589103.d.html</link>
+            <guid>4136108</guid>
+            <pubDate>Wed, 09 Apr 2025 19:55:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西总统卢拉：任意关税会破坏国际经济稳定并抬高物价。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhch6247742.d.html</link>
+            <guid>4136107</guid>
+            <pubDate>Wed, 09 Apr 2025 19:54:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行错过加拿大石油重镇Alberta省最新一轮欧元债标售。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhch3588876.d.html</link>
+            <guid>4136106</guid>
+            <pubDate>Wed, 09 Apr 2025 19:53:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳斯达克100指数涨超12%，创2008年10月份以来最大盘中涨幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhaz5655267.d.html</link>
+            <guid>4136105</guid>
+            <pubDate>Wed, 09 Apr 2025 19:52:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：特朗普预计将于周四召开内阁会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhaz5655055.d.html</link>
+            <guid>4136104</guid>
+            <pubDate>Wed, 09 Apr 2025 19:51:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【土耳其证实与以色列在安全领域保持接触】土耳其外长费丹当地时间9日证实，当前土耳其与以色列在安全领域保持接触，双方有可能在叙利亚建立缓和机制，以避免局势升级。土方指出，当前土以关系的核心问题在于加沙局势。若要推动两国关系正常化，前提必须是在加沙实现全面停火。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhcc2428837.d.html</link>
+            <guid>4136103</guid>
+            <pubDate>Wed, 09 Apr 2025 19:48:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【洪都拉斯总统：拉美和加勒比地区不是全球资本主义发展的牺牲品】当地时间9日，拉美和加勒比国家共同体（拉共体）第九届峰会在轮值主席国洪都拉斯首都特古西加尔巴举行。洪都拉斯总统卡斯特罗在开幕致辞中指出，拉美及加勒比地区作为一个主权主体，不是全球资本主义发展的牺牲品。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhch3587927.d.html</link>
+            <guid>4136102</guid>
+            <pubDate>Wed, 09 Apr 2025 19:47:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【纽约可可涨超7.4%，原糖和阿拉比卡咖啡至多涨超2.9%】 周三（4月9日）纽约尾盘，ICE原糖期货跌2.29%，ICE白糖期货跌2.41%。ICE阿拉比卡咖啡期货涨2.95%，咖啡“C”期货涨2.99%。罗布斯塔咖啡期货跌0.08%。纽约可可期货涨7.46%，报8297美元/吨，北京时间16:45曾“低开”至7613美元，逼近2024年11月13日底部6934美元。伦敦可可期货涨5.76%。ICE棉花期货涨1.46%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhcc2427460.d.html</link>
+            <guid>4136101</guid>
+            <pubDate>Wed, 09 Apr 2025 19:44:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【所谓“对等关税”是“开错方、吃错药” 中方在世贸组织发言引发广泛呼应】世界贸易组织当地时间9日在瑞士日内瓦召开货物贸易理事会年度首次会议。中方主动设置议题，对美国“对等关税”措施及其恶劣影响表达严重关切，要求美方切实遵守世贸组织规则，避免对全球经济和多边贸易体制造成负面冲击。欧盟、英国、加拿大、日本、瑞士、挪威、韩国、马来西亚、巴西、秘鲁、哈萨克斯坦、乍得等46个世贸组织成员在此议程下发言，对美国“对等关税”措施表达关注，呼吁美国切实遵守世贸组织规则。中方表示，美国是多边贸易体制的创建者和主要受益方，以货物贸易平衡与否评判在国际贸易中的整体获益高低是极其片面的。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhcc2426839.d.html</link>
+            <guid>4136100</guid>
+            <pubDate>Wed, 09 Apr 2025 19:42:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美媒：特朗普终究无法免受华尔街的影响】文章称，美国总统特朗普于4月9日撤回了一周前“解放日”宣布的一些最严厉关税，令所有人大吃一惊。4月9日华盛顿时间下午1点18分，华尔街、普通民众、以及可能不止几位曾向特朗普宣誓效忠的首席执行官们，都齐刷刷地松了一口气。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhaz5651817.d.html</link>
+            <guid>4136099</guid>
+            <pubDate>Wed, 09 Apr 2025 19:40:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马克龙说法国可能在6月承认巴勒斯坦国】法国总统马克龙在法国电视五台9日播出的访谈节目中说，法国可能在今年6月承认巴勒斯坦国。马克龙在访谈中表示，法国与沙特阿拉伯计划于今年6月在美国纽约联合举办有关巴勒斯坦问题的会议，法国届时可能承认巴勒斯坦国。他认为，在适当时机承认巴勒斯坦国“是正当的”。马克龙强调政治解决巴以冲突的重要性，同时呼吁一些支持巴勒斯坦的国家也承认以色列。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhch3586518.d.html</link>
+            <guid>4136098</guid>
+            <pubDate>Wed, 09 Apr 2025 19:39:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【芝加哥玉米期货涨1.2%，大豆涨约2%，大豆油涨约2.7%】 周三（4月9日）纽约尾盘，彭博谷物分类指数上涨1.30%，报31.8669点，北京时间01:42涨至31.9445点，最近三个交易日累计反弹2.98%。CBOT玉米期货涨1.21%，报4.8050美元/蒲式耳。CBOT小麦期货涨0.42%，报5.4225美元/蒲式耳。CBOT大豆期货涨1.99%，报10.1250美元/蒲式耳，豆粕期货涨1.31%，豆油期货涨2.67%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhch3586203.d.html</link>
+            <guid>4136097</guid>
+            <pubDate>Wed, 09 Apr 2025 19:37:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：与同类国家相比，巴哈马的高利息和债务负担使其评级受限。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhcc2425259.d.html</link>
+            <guid>4136096</guid>
+            <pubDate>Wed, 09 Apr 2025 19:37:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：巴哈马的评级反映其高人均国内生产总值和强有力的治理。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhaz5650653.d.html</link>
+            <guid>4136095</guid>
+            <pubDate>Wed, 09 Apr 2025 19:36:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥总统：墨西哥在很大程度上支撑着美国经济。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhcc2424647.d.html</link>
+            <guid>4136094</guid>
+            <pubDate>Wed, 09 Apr 2025 19:34:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳指尾盘涨幅扩大至12%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhaz5649965.d.html</link>
+            <guid>4136093</guid>
+            <pubDate>Wed, 09 Apr 2025 19:34:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国联盟党与社民党公布联合执政协议】由基督教民主联盟和基督教社会联盟组成的德国联盟党与德国社会民主党（社民党）当地时间9日在新闻发布会上公布一份联合执政协议。根据协议，执政联盟希望通过减税减轻德国公民和企业负担；执政联盟一致同意收紧难民政策；执政联盟同意在联邦总理府设立国家安全委员会，协调综合安全政策问题，对局势进行联合评估。此外，上述协议规定了执政联盟各党派的部门分配：基督教民主联盟掌控外交部、经济事务和能源部等6个部门以及总理府，社民党掌控财政部、国防部等7个部门，基督教社会联盟掌控内政部等3个部门。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhch3585333.d.html</link>
+            <guid>4136092</guid>
+            <pubDate>Wed, 09 Apr 2025 19:31:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“债券天王”比尔·格罗斯：为什么要持有那些“股价会遭受美国总统（POTUS）影响”的股票？]]></title>
+            <guid>4136091</guid>
+            <pubDate>Wed, 09 Apr 2025 19:30:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一季度经济实现良好开局 多领域销售收入稳步提升】增值税发票数据显示，一季度，制造业销售收入同比增长4.8%，占全国销售比重达29.1%，较上年同期提高0.8个百分点，为经济持续增长提供重要支撑。其中，装备制造业销售收入同比增长9.7%，保持较快增长。同时，创新动能不断积蓄。一季度，我国高技术产业销售收入同比增长13.4%，延续较快增长势头。随着我国在人工智能领域取得突破和应用，带动科研技术服务业、信息技术服务业销售收入，均保持两位数以上的增长。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhch3585218.d.html</link>
+            <guid>4136090</guid>
+            <pubDate>Wed, 09 Apr 2025 19:30:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普称债券市场“很漂亮”】特朗普周三表示，在决定暂停对等关税的同时，他正在密切关注债券市场。特朗普在白宫对记者说：“现在的债券市场很漂亮。我昨晚看到人们有点不安。”特朗普宣布推迟征收关税后，债券市场立即发生了翻天覆地的变化。由于对关税影响的普遍担忧，长期债券收益率一直在飙升，但现在已经下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhch3585120.d.html</link>
+            <guid>4136089</guid>
+            <pubDate>Wed, 09 Apr 2025 19:29:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普500指数涨幅超过9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhch3585022.d.html</link>
+            <guid>4136088</guid>
+            <pubDate>Wed, 09 Apr 2025 19:28:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥主要股指上涨超4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhaz5648186.d.html</link>
+            <guid>4136087</guid>
+            <pubDate>Wed, 09 Apr 2025 19:27:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国际油价9日上涨】国际油价9日上涨。截至当天收盘，纽约商品交易所5月交货的轻质原油期货价格上涨2.77美元，收于每桶62.35美元，涨幅为4.65%；6月交货的伦敦布伦特原油期货价格上涨2.66美元，收于每桶65.48美元，涨幅为4.23%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhaz5647851.d.html</link>
+            <guid>4136086</guid>
+            <pubDate>Wed, 09 Apr 2025 19:26:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[前美国财长萨默斯：远远没有脱离险境。鲁莽地“即兴表演”并非什么（有用的）策略。多个市场崩塌之后，特朗普政府现在受到惊吓。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhaz5647144.d.html</link>
+            <guid>4136085</guid>
+            <pubDate>Wed, 09 Apr 2025 19:23:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“末日博士”鲁比尼：美联储不会为特朗普大打贸易战救场】 鲁里埃尔·鲁比尼对华尔街发出了新的警讯：交易员应该减少对美联储会加大降息力度来缓解总统特朗普所发动贸易战影响的押注。因准确预测到全球金融危机而被称为“末日博士”的著名经济学家鲁比尼此次认为，美国将躲过衰退，在关税相关政策争端缓和后，美联储今年剩余时间将维持利率不变。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhcc2421309.d.html</link>
+            <guid>4136084</guid>
+            <pubDate>Wed, 09 Apr 2025 19:23:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【纳指涨幅扩大至11%】纳指涨幅扩大至11%，标普500指数涨8.5%，道指涨超7%。个股方面，特斯拉涨超20%，英伟达涨超17%，苹果涨超13%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhch3583904.d.html</link>
+            <guid>4136083</guid>
+            <pubDate>Wed, 09 Apr 2025 19:21:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院批准特朗普提名的罗纳德·约翰逊（Ronald Johnson）出任驻墨西哥大使。]]></title>
+            <guid>4136082</guid>
+            <pubDate>Wed, 09 Apr 2025 19:20:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国首相办公室：贸易战无益于任何一方，英国将冷静而沉着地继续谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhaz5645903.d.html</link>
+            <guid>4136081</guid>
+            <pubDate>Wed, 09 Apr 2025 19:20:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货白银向上触及31美元/盎司，日内涨4.02%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhch6242342.d.html</link>
+            <guid>4136080</guid>
+            <pubDate>Wed, 09 Apr 2025 19:19:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：今天观看了摩根大通CEO戴蒙的采访，他在采访中也表示我们必须马上采取行动。]]></title>
+            <guid>4136079</guid>
+            <pubDate>Wed, 09 Apr 2025 19:19:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：随着时间的推移，将会审视一些公司的运行状况。将会考虑豁免一些美国公司。]]></title>
             <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhch6242076.d.html</link>
             <guid>4136078</guid>
             <pubDate>Wed, 09 Apr 2025 19:18:01 GMT</pubDate>
@@ -28,7 +291,7 @@
             <pubDate>Wed, 09 Apr 2025 19:15:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国总统特朗普：债券市场现在形势大好，已经关注债市。]]></title>
+            <title><![CDATA[美国总统特朗普：债券市场现在形势大好，已经关注债市，关注到今天（4月9日）的市场变化。]]></title>
             <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhch3582260.d.html</link>
             <guid>4136075</guid>
             <pubDate>Wed, 09 Apr 2025 19:15:02 GMT</pubDate>
@@ -37,271 +300,6 @@
             <title><![CDATA[巴西出口商协会 CECAFE ：巴西 3 月出口 295 万袋 60 公斤装的生咖啡，较去年同期下降 26.5%；出口138,582袋60公斤装的罗巴斯塔咖啡，较上年同期下降83.9%。]]></title>
             <guid>4136074</guid>
             <pubDate>Wed, 09 Apr 2025 19:14:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统特朗普：将与各方达成协议，事情的进展或许比我预想的要快。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhch6240630.d.html</link>
-            <guid>4136073</guid>
-            <pubDate>Wed, 09 Apr 2025 19:12:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普500指数涨超8%，道指涨2615点涨幅6.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhch3581792.d.html</link>
-            <guid>4136072</guid>
-            <pubDate>Wed, 09 Apr 2025 19:11:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统特朗普：将为每个人提供公平的交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhaz5642797.d.html</link>
-            <guid>4136071</guid>
-            <pubDate>Wed, 09 Apr 2025 19:10:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统特朗普：人们对关税有些担忧。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhaz5642119.d.html</link>
-            <guid>4136069</guid>
-            <pubDate>Wed, 09 Apr 2025 19:07:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统特朗普：已在短期内取消关税。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhaz5641950.d.html</link>
-            <guid>4136068</guid>
-            <pubDate>Wed, 09 Apr 2025 19:06:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恒指期货夜盘收跌0.04%，报20180点，低水84点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhaz5640741.d.html</link>
-            <guid>4136067</guid>
-            <pubDate>Wed, 09 Apr 2025 19:01:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【白宫：谈判期间关税水平将降至普遍的10%】在特朗普发布关于暂停关税的帖子后，美国白宫发言人表示，将继续进行量身定制的谈判，关税水平将在谈判期间降至普遍的10%。白宫在x上发文称， 暂停90天并降低对大部分国家对等关税至10%，立即生效。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhch6239130.d.html</link>
-            <guid>4136066</guid>
-            <pubDate>Wed, 09 Apr 2025 19:01:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“末日博士”鲁比尼：美联储不会为特朗普救场。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhaz5640474.d.html</link>
-            <guid>4136064</guid>
-            <pubDate>Wed, 09 Apr 2025 19:00:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普在白宫讲话时大肆宣扬股市上涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhcc2414965.d.html</link>
-            <guid>4136063</guid>
-            <pubDate>Wed, 09 Apr 2025 19:00:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股有望创下史上最大单日市值涨幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhaz5640341.d.html</link>
-            <guid>4136062</guid>
-            <pubDate>Wed, 09 Apr 2025 18:59:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国前财长萨默斯：市场崩溃后（美国）政府确实感到恐慌。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhaz5639851.d.html</link>
-            <guid>4136061</guid>
-            <pubDate>Wed, 09 Apr 2025 18:58:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【加拿大宣布对美国汽车征收对等关税于9日生效】加拿大财政部8日宣布，对美国汽车对等征收25%关税措施将于美国东部时间9日零时1分生效。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhch3579859.d.html</link>
-            <guid>4136060</guid>
-            <pubDate>Wed, 09 Apr 2025 18:57:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普关税大逆转 美股暴涨 道指狂飙2400点】美股周三尾盘暴涨，道指上涨超过2400点。特朗普对多数国家暂时将关税降至10%。截止发稿，道指涨2408.45点，涨幅为6.40%，报40054.04点；纳指涨1508.17点，涨幅为9.88%，报16776.08点；标普500指数涨380.15点，涨幅为7.71%，报5362.92点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhaz5639092.d.html</link>
-            <guid>4136059</guid>
-            <pubDate>Wed, 09 Apr 2025 18:54:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国前财长萨默斯：远未脱离险境。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhcc2413601.d.html</link>
-            <guid>4136058</guid>
-            <pubDate>Wed, 09 Apr 2025 18:54:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委维勒鲁瓦：庆幸美国回归经济理性。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhcc2413303.d.html</link>
-            <guid>4136057</guid>
-            <pubDate>Wed, 09 Apr 2025 18:53:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【高盛在特朗普的关税暂停决定后撤回经济衰退预期】在美国总统唐纳德·特朗普决定对之前宣布的大部分关税暂停90天之后，高盛集团经济学家撤回了对美国经济衰退的预测。“今天早些时候，在特朗普总统宣布之前，鉴于今天上午生效的针对特定国家的额外关税，我们转向了经济衰退这种基线预期，”以Jan Hatzius为首的高盛团队周三在报告中称，“我们现在回归之前的非衰退基线预测。”]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhch6237625.d.html</link>
-            <guid>4136056</guid>
-            <pubDate>Wed, 09 Apr 2025 18:51:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委维勒鲁瓦：不要指望欧洲和法国的通胀率会上升。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhcc2412115.d.html</link>
-            <guid>4136055</guid>
-            <pubDate>Wed, 09 Apr 2025 18:48:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利外长：希望特朗普的90天关税暂停能够促进谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhaz5637478.d.html</link>
-            <guid>4136054</guid>
-            <pubDate>Wed, 09 Apr 2025 18:48:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委维勒鲁瓦：我们预计不会偏离2%的通胀目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhch3578037.d.html</link>
-            <guid>4136053</guid>
-            <pubDate>Wed, 09 Apr 2025 18:47:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委维勒鲁瓦：我们在对抗通胀的战斗中取得了胜利。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhcc2411758.d.html</link>
-            <guid>4136052</guid>
-            <pubDate>Wed, 09 Apr 2025 18:47:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：黑客入侵了巴菲特旗下的航空租赁公司奈特捷(NetJets)，窃取客户数据。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhcc2411612.d.html</link>
-            <guid>4136051</guid>
-            <pubDate>Wed, 09 Apr 2025 18:46:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委维勒鲁瓦：不过美国的不确定性是积极的，保护主义仍然是一项糟糕的政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhaz5636859.d.html</link>
-            <guid>4136050</guid>
-            <pubDate>Wed, 09 Apr 2025 18:46:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【分析师：关税暂停只是暂时喘息 市场观望情绪仍然浓重】机构分析师Chris Stadele表示，尽管关税暂停是好消息，但我们仍需思考是否有什么实质性变化。再次强调，这只是 90 天的暂停，这次关税战争仍未结束。这种“暂停”可能会给需要今天做出决策但提前数月规划的企业带来更多不确定性。在宣布之前， 芝商所（CME）的Emini S&P 500 期货交易量相当低，这表明鉴于最近几天我们所看到的波动性，投资者对承担看涨或看跌风险持谨慎态度。在这个早期阶段，没有人知道过去一小时内发生的反弹是空头回补还是投资者“风险偏好”。我不是想听起来像一只“超级熊”，我只是想提醒大家保持谨慎，至于关税，我们还没有走出困境。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhch6236343.d.html</link>
-            <guid>4136049</guid>
-            <pubDate>Wed, 09 Apr 2025 18:45:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委维勒鲁瓦：美国政治充满巨大不确定性，这种不确定性损害增长和信心。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesrhaz5636491.d.html</link>
-            <guid>4136047</guid>
-            <pubDate>Wed, 09 Apr 2025 18:44:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普暂停部分关税后，"美股七巨头"市值上涨1万亿美元】在美国总统特朗普批准暂停征收关税90天后，"美股七巨头 "股票有望在周三上涨超过1万亿美元的市值，这缓解了科技巨头在最近几个交易日暴跌的压力。包括人工智能芯片巨头英伟达、苹果、特斯拉和微软在内的这些公司股价上涨了7.8%至13%，推动市场反弹，推动纳斯达克指数上涨8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesqzvf2541433.d.html</link>
-            <guid>4136046</guid>
-            <pubDate>Wed, 09 Apr 2025 18:42:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【分析师：“暂停”还是“降低”，特朗普措辞模糊】纽约牛津经济公司首席分析师约翰·卡纳万：从特朗普总统的措辞方式，我们并不完全清楚是真的暂停（关税），或者只是将对等关税降低到10%。但无论如何，很明显，特朗普在这里放弃了一些最糟糕的关税威胁，我认为这显然对风险资产来说是一个可以持续的净积极因素。它没有做到的一件事是消除不确定性，这种不确定性是因为关税水平似乎每天都在变化。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesqzvf2540695.d.html</link>
-            <guid>4136045</guid>
-            <pubDate>Wed, 09 Apr 2025 18:39:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[保时捷汽车北美公司：第一季度在美国的零售交付总量为18,884辆汽车。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesqzvf2540349.d.html</link>
-            <guid>4136044</guid>
-            <pubDate>Wed, 09 Apr 2025 18:38:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普宣布暂停加征关税后，高盛撤回经济衰退预测。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesqzvk6365820.d.html</link>
-            <guid>4136043</guid>
-            <pubDate>Wed, 09 Apr 2025 18:38:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[离岸人民币兑美元收复7.35关口，日内涨超1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesqzvk3706922.d.html</link>
-            <guid>4136042</guid>
-            <pubDate>Wed, 09 Apr 2025 18:37:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【经济学家：可能会回到特朗普1.0的剧本】特朗普暂停关税后，法国外贸银行驻纽约首席美国经济学家克里斯托弗•霍奇，我认为公平地说，通过双边谈判，外国关税可能会降低一点。在像韩国这样的自由贸易国家，关税下调空间不大的地方，情况会更棘手。我们可能会回到特朗普1.0版的剧本，外国同意从美国购买更多的特定商品。这可能会略微改善贸易逆差，但不会像政府所希望的那样从根本上改变贸易关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesqzvf2539188.d.html</link>
-            <guid>4136041</guid>
-            <pubDate>Wed, 09 Apr 2025 18:34:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI 5月原油期货收涨2.77美元，涨幅将近4.65%，报62.35美元/桶。NYMEX 5月天然气期货收涨将近10.13%，报3.8160美元/百万英热单位。NYMEX 5月汽油期货收报2.0384美元/加仑，NYMEX 5月取暖油期货收报2.1136美元/加仑。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesqzvk3706103.d.html</link>
-            <guid>4136040</guid>
-            <pubDate>Wed, 09 Apr 2025 18:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股服装股上涨，露露柠檬股价上涨15%，李维斯股价上涨20%，安德玛股价上涨17%，拉夫·劳伦上涨16%。]]></title>
-            <guid>4136039</guid>
-            <pubDate>Wed, 09 Apr 2025 18:32:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上期所原油期货2404合约夜盘收涨3.46%，报484.20元人民币/桶。沪金夜盘收涨1.48%，沪银收涨2.21%。]]></title>
-            <guid>4136038</guid>
-            <pubDate>Wed, 09 Apr 2025 18:30:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在美国特朗普暂停大部分关税之后，并且由于天然气产量下降、需求增加的预期以及液化天然气（LNG）出口流量创纪录，美国天然气期货延续涨势。]]></title>
-            <guid>4136037</guid>
-            <pubDate>Wed, 09 Apr 2025 18:29:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国信用风险指标创2020年4月以来最大跌幅】美国主要信用风险指标创下2020年4月以来最大降幅，当时美联储表示将购买一些垃圾级公司债以支持中小企业。Markit CDX北美投资级指数的利差一度收窄11个基点至71.4个基点，该指数下降表明信用风险减轻。Markit CDX北美高收益指数一度上涨2.5点，达到103.9点，该指数在风险下降时会上升。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesqzvf2537899.d.html</link>
-            <guid>4136036</guid>
-            <pubDate>Wed, 09 Apr 2025 18:29:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【众议院共和党人据悉采取行动阻止废除特朗普关税案的投票】 一位知情人士说，众议院共和党人计划周三采取行动，阻止民主党人迫使他们对总统特朗普的全球关税行动进行公开投票。虽然民主党的废除关税决议无论如何最终都可能会被总统否决，但众议院投票将迫使每位议员就可能推高消费者价格的进口关税公开表明立场。共和党人的这一策略可能会将原定于周三就特朗普税收与支出计划进行的关键程序性投票，变成一次对特朗普全面关税政策的间接公投。自上周宣布这些关税以来，市场受到极大惊扰，并引发对经济将陷入衰退的预测。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesqzvk3705653.d.html</link>
-            <guid>4136035</guid>
-            <pubDate>Wed, 09 Apr 2025 18:28:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国参议院多数议员支持特朗普提名的霍克斯特拉（Hoekstra）担任驻加拿大大使，投票仍在继续。]]></title>
-            <guid>4136034</guid>
-            <pubDate>Wed, 09 Apr 2025 18:27:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[大众汽车：仍预计2020财年汽车净现金流将达到20亿欧元至50亿欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesqzvk3705448.d.html</link>
-            <guid>4136033</guid>
-            <pubDate>Wed, 09 Apr 2025 18:27:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【WTI原油日内暴涨8%】WTI原油日内暴涨8.00%，现报62.22美元/桶。布伦特原油涨6.7%，现报65.49美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesqzvk6364135.d.html</link>
-            <guid>4136032</guid>
-            <pubDate>Wed, 09 Apr 2025 18:26:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【策略师警告：纳指20分钟内涨8%并不比跌8%健康得多】费城全国投资管理集团首席市场策略师马克·哈克特表示，特朗普暂停关税绝对是好消息，因为这表明谈判处于足够好的状态，他们认为通过最初的对话已经完成了他们需要完成的任务。但我想提出一个非常重要的警告，因为纳斯达克指数在20分钟内上涨8%并不比下跌8%健康得多……所以我现在很小心，不能给你一个安全警报。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesqzvk6364045.d.html</link>
-            <guid>4136031</guid>
-            <pubDate>Wed, 09 Apr 2025 18:25:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳斯达克中国金龙指数涨幅扩大至5%，京东(JD.O)、小鹏汽车(XPEV.N)、理想汽车(LI.O)均涨超7%。]]></title>
-            <guid>4136030</guid>
-            <pubDate>Wed, 09 Apr 2025 18:25:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国财长贝森特否认关税政策调整受到债市的影响】美国财政部长贝森特表示，暂缓90天执行对部分国家加征对等关税的决定是由特朗普的“策略”推动的。贝森特说是特朗普决定等到今天宣布的。贝森特表示，市场之前没有意识到，特朗普最初宣布的关税是“最高水平”。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesqzvc5761778.d.html</link>
-            <guid>4136029</guid>
-            <pubDate>Wed, 09 Apr 2025 18:22:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[大众汽车：第一季度营收初步数据780亿欧元，预估785.6亿欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesqzvk6363521.d.html</link>
-            <guid>4136028</guid>
-            <pubDate>Wed, 09 Apr 2025 18:21:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[交易员押注的美联储2025年降息幅度不到75个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesqzvk3704704.d.html</link>
-            <guid>4136027</guid>
-            <pubDate>Wed, 09 Apr 2025 18:21:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股“七巨头”持续飙升】美股“七巨头”持续飙升，特斯拉(TSLA.O)涨近18%，英伟达(NVDA.O)涨超15%，Meta Platforms(META.O)涨近12%，亚马逊(AMZN.O)、苹果(AAPL.O)涨近10%，微软(MSFT.O)涨超8%，Alphabet(GOOG.O) 涨近8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-10/detail-inesqzvf2535994.d.html</link>
-            <guid>4136026</guid>
-            <pubDate>Wed, 09 Apr 2025 18:20:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
