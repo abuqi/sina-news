@@ -4,27 +4,269 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Thu, 10 Apr 2025 22:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Apr 2025 23:22:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[美元兑日元回落至144下方，日内跌0.30%。]]></title>
+            <title><![CDATA[消息人士：委内瑞拉国家石油公司暂停向雪佛龙的石油装船授权。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvsf8608723.d.html</link>
+            <guid>4139111</guid>
+            <pubDate>Thu, 10 Apr 2025 23:20:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑瑞郎USD/CHF跌至0.8220，为2015年1月来最低水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvsi2889343.d.html</link>
+            <guid>4139110</guid>
+            <pubDate>Thu, 10 Apr 2025 23:19:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：一架直升机在哈德逊河坠毁，看来（机上的）六个人都不在了。交通部长及其得力助手正在着手调查，相关公告将很快公布。]]></title>
+            <guid>4139109</guid>
+            <pubDate>Thu, 10 Apr 2025 23:17:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特斯拉产业链企业：保持观望 开拓新业务应对风险】“关税的影响短期内暂时看不出来，但从长远看，不排除汽车价格上涨，可能会抑制消费者的购买欲。”一家特斯拉零组件供应商相关负责人表示，目前比较担心的是未来终端需求下降，进而间接导致订单不足。受关税影响，特斯拉是否会将一部分成本转嫁给供应商？对此，部分供应链企业仍在保持观望。“客户还没有找我们谈价格问题，我们猜测客户会希望是在政策比较确定的时候，去调整产品定价的模式。”上述负责人称，关于定价问题，还要看政策落地情况。“如果将这份超额成本转嫁给我们的话，我们是不会接受的。”另一家特斯拉一级供应商相关人士表示，公司内部对业务的利润率是有相应规划的，不会亏本做业务。值得一提的是，部分供应商还在拓展新业务以应对可能面对的风险。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvsa5215254.d.html</link>
+            <guid>4139108</guid>
+            <pubDate>Thu, 10 Apr 2025 23:16:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑日元跌至去年10月2日以来最低点143.845。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvse1831900.d.html</link>
+            <guid>4139107</guid>
+            <pubDate>Thu, 10 Apr 2025 23:13:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[由于特朗普政府的审查力度加大，IBM(IBM.N)通知员工缩减多元化、公平与包容（DEI）计划。]]></title>
+            <guid>4139106</guid>
+            <pubDate>Thu, 10 Apr 2025 23:13:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新西兰标普/新西兰证交所50指数下跌1.2%，至12056.05点。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvsi2887492.d.html</link>
+            <guid>4139105</guid>
+            <pubDate>Thu, 10 Apr 2025 23:09:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【639家深市公司2024年度涉及分红金额累计逾2700亿元】数据显示，截至4月10日，深圳证券交易所市场已有639家公司披露了2024年年报。其中，有497家公司晒出分红预案，占比高达77.78%。值得注意的是，若将中期分红等一并纳入考量，已披露年报公司在2024年度涉及分红金额累计将达2755.58亿元，同比增长20.58%，占公司当年合计净利润的46.83%。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvsi2887318.d.html</link>
+            <guid>4139104</guid>
+            <pubDate>Thu, 10 Apr 2025 23:08:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[秘鲁央行表示，由于对外贸易限制措施带来的高度不确定性，全球经济活动前景已经恶化。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvse1828747.d.html</link>
+            <guid>4139103</guid>
+            <pubDate>Thu, 10 Apr 2025 23:03:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普因水资源问题威胁对墨西哥加征关税】美国总统特朗普表示，墨西哥一直在窃取属于得州农民的水资源。将继续升级施压力度，包括实施关税，甚至可能采取制裁，直到墨西哥履行水条约义务。墨西哥比索兑美元短线跳水，亚太盘初跌超0.4%，至20.56比索下方。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvse1828660.d.html</link>
+            <guid>4139102</guid>
+            <pubDate>Thu, 10 Apr 2025 23:03:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[埃及将燃油价格提高近15%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvsf8602912.d.html</link>
+            <guid>4139101</guid>
+            <pubDate>Thu, 10 Apr 2025 23:02:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[秘鲁央行预计核心通胀率将维持在2%左右。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvse1828018.d.html</link>
+            <guid>4139100</guid>
+            <pubDate>Thu, 10 Apr 2025 23:01:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【人民日报钟声：美“关税讹诈”严重扰乱全球产供链稳定】人民日报钟声文章指出，美“关税讹诈”严重扰乱全球产业链供应链稳定，扭曲全球市场资源配置，损人不利己。美国政府试图通过关税迫使制造业回流，但事实上，关税将通过产业链供应链逐级传导，加剧供应链断裂与产业空心化风险，不仅难以达到重振制造业的目的，反而将削弱其产业基础。历史和现实表明，以规则为基础的多边贸易体制符合各国共同利益，单边主义、保护主义破坏全球产业链、供应链和价值链，威胁世界经济稳定和发展。面对全球经济增长乏力等共同挑战，中美作为全球前两大经济体，尤其需要视对方的发展为机遇而非挑战，把对方当作伙伴而非对手，为维护全球产业链供应链稳定担起大国责任，让全球产业链供应链更具韧性、更有效率、更富活力，为世界经济发展注入确定性。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvse1827960.d.html</link>
+            <guid>4139099</guid>
+            <pubDate>Thu, 10 Apr 2025 23:01:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[秘鲁央行表示，未来的利率调整将取决于有关通胀及其决定因素的新信息。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvsf8602106.d.html</link>
+            <guid>4139098</guid>
+            <pubDate>Thu, 10 Apr 2025 23:01:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金向上触及3190美元/盎司，日内涨0.45%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvsf8602064.d.html</link>
+            <guid>4139097</guid>
+            <pubDate>Thu, 10 Apr 2025 23:00:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[秘鲁央行将基准利率维持在4.75%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvsa5212014.d.html</link>
+            <guid>4139096</guid>
+            <pubDate>Thu, 10 Apr 2025 23:00:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普就水权问题威胁对墨西哥加征关税。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvsf8601705.d.html</link>
+            <guid>4139095</guid>
+            <pubDate>Thu, 10 Apr 2025 22:59:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：我将确保墨西哥不违反我们的条约。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvse1827071.d.html</link>
+            <guid>4139094</guid>
+            <pubDate>Thu, 10 Apr 2025 22:59:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本经济复兴大臣：将达成良好结果作为关税谈判的顶级优先任务。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvsi2884286.d.html</link>
+            <guid>4139093</guid>
+            <pubDate>Thu, 10 Apr 2025 22:54:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑日元维持超过0.2%的跌幅，持稳于2024年10月以来最低位143.97日元附近。]]></title>
+            <guid>4139092</guid>
+            <pubDate>Thu, 10 Apr 2025 22:53:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本首相石破茂：启动应对对等关税的特别小组。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvsi2883251.d.html</link>
+            <guid>4139090</guid>
+            <pubDate>Thu, 10 Apr 2025 22:52:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本首相石破茂：指示日本经济再生大臣赤泽亮正在美国进行积极谈判。赤泽亮正将以关税谈判为优先事项，以获得有利的结果。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvsf8598345.d.html</link>
+            <guid>4139089</guid>
+            <pubDate>Thu, 10 Apr 2025 22:51:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[知情人士表示，美国环保署计划逐年减少碳排放报告要求。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvse1823469.d.html</link>
+            <guid>4139088</guid>
+            <pubDate>Thu, 10 Apr 2025 22:50:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本首相石破茂：美国关税可能会影响所有行业。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvsf8597725.d.html</link>
+            <guid>4139087</guid>
+            <pubDate>Thu, 10 Apr 2025 22:49:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴拿马外交部要求美方补充联合声明遗漏主权表述】巴拿马外交部10日在社交媒体上证实，巴外交部9日致函美国驻巴大使馆，对近日巴美联合声明的美方英文版本遗漏关键主权表述表达关切，请求美方尽快进行补充。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvse1822905.d.html</link>
+            <guid>4139086</guid>
+            <pubDate>Thu, 10 Apr 2025 22:48:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【科创50龙头公司业绩稳健】A股上市公司2024年年报正在密集披露中。截至4月9日，科创板50指数成分股公司中有18家已披露2024年年报，合计实现营业收入2255.99亿元，同比增长12%；实现净利润224.74亿元，同比增长36%。此外，科创50成分股公司中共有18家披露2025年度“提质增效重回报”行动方案，明确聚焦主业、提高分红、回购等一揽子计划。作为中国硬科技企业的“核心资产池”，近年来，科创50成分股公司以稳健的业绩增长、突破性的技术成果筑牢板块高质量发展支柱，进一步巩固其作为科技创新“压舱石”的战略地位，凸显了科技头部企业对市场稳定和行业发展的引领作用。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvsf8597035.d.html</link>
+            <guid>4139085</guid>
+            <pubDate>Thu, 10 Apr 2025 22:47:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【A股上市公司股份协议转让频现】2025年以来，A股市场频现股份协议转让案例，国资、产业资本等多方力量在其中交织融汇。梳理近期案例发现，股份协议转让不仅实现了单纯的资本流转功能，更逐渐演变为企业战略重构、制度创新与生态进化的综合“试验场”。与此同时，股份协议转让也有望创造出“新价值”，即通过股权关系的重新配置，实现资本、技术等多重要素的共振增值。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvsf8596376.d.html</link>
+            <guid>4139084</guid>
+            <pubDate>Thu, 10 Apr 2025 22:45:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【券商股权流转分化，行业加速洗牌】在证券行业集中度持续提升的背景下，券商股权转让市场呈现出“冰火两重天”的格局，在多家券商并购取得实质性进展的同时，部分中小券商的股权转让或拍卖则无人问津。业内人士表示，当前行业分化加剧，缺乏特色优势的中小券商股权频遭冷遇，而具备并购重组潜力的标的则成为市场争夺焦点，“马太效应”或进一步倒逼中小券商通过整合突围，加速行业洗牌。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvsf8596064.d.html</link>
+            <guid>4139083</guid>
+            <pubDate>Thu, 10 Apr 2025 22:44:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国防部长赫格塞思：签署备忘录以取消价值51亿美元的国防部合同。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvse1820780.d.html</link>
+            <guid>4139082</guid>
+            <pubDate>Thu, 10 Apr 2025 22:42:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【部分基金公司去年连收罚单，规定制度执行不严成“高危区”】 随着2024年基金年报的发布，一些基金公司及其高级管理人员去年受稽查或处罚等情况曝光，据天相投顾不完全统计，2024年受到稽查或处罚的基金公司达35家。规定和制度执行不严是多数基金公司受稽查或处罚的主要原因，也有基金公司因投资、客户权益保护、人员管理、直播等方面存在问题受到监管处罚。根据年报披露的信息，多数基金公司都已完成了整改。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvse1820415.d.html</link>
+            <guid>4139081</guid>
+            <pubDate>Thu, 10 Apr 2025 22:41:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳斯达克100指数期货上涨0.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvse1820382.d.html</link>
+            <guid>4139080</guid>
+            <pubDate>Thu, 10 Apr 2025 22:41:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【大资金持续“扫货”股票型ETF，港股相关ETF连日霸榜】 近两个交易日A股市场情绪大幅修复，宽基指数ETF成交逐渐趋于平稳。值得注意的是，恒生科技相关ETF热度不减，头部产品日成交额仍在百亿元以上，并且吸引了大量抄底资金涌入。此外，多只沪深300ETF也延续“吸金”态势。整体来看，4月7日至4月9日，A股市场的股票型ETF合计获资金净流入近1800亿元，跨境ETF合计净流入超过200亿元。短短三个交易日，超2000亿元资金涌入股票型ETF。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvsi2880669.d.html</link>
+            <guid>4139078</guid>
+            <pubDate>Thu, 10 Apr 2025 22:40:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中央气象台4月11日06时发布暴雪蓝色预警】预计4月11日08时至4月12日08时，内蒙古中东部、黑龙江西部、西藏东北部等地部分地区有大到暴雪，其中，内蒙古东北部等地局地有大暴雪（20～22毫米）。上述部分地区新增积雪深度5～10厘米，局地可达15厘米以上。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvsf8593615.d.html</link>
+            <guid>4139077</guid>
+            <pubDate>Thu, 10 Apr 2025 22:38:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【首批基金一季报出炉，绩优产品强势吸金大调仓】首批基金2025年一季报显示，一季度，部分绩优基金对投资组合进行了大幅调整，基金规模也快速攀升。面对近日的震荡行情，多家头部机构鲜明发声，看好权益资产长期配置价值。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvsf8593154.d.html</link>
+            <guid>4139076</guid>
+            <pubDate>Thu, 10 Apr 2025 22:37:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【政府引导基金、国资3月注入超1400亿元“活水”】今年以来，私募股权投资行业出现回暖迹象，尤其是政府引导基金和国资加大出资力度，为市场注入了强劲动力。LP投顾基于中基协备案基金数据、国家企业信用信息公示系统统计得出，今年3月，政府引导基金、国资累计认缴规模达1436.9亿元，相较于2月（909.4亿元）增长58.01%。母基金研究中心研究部负责人王爽对上海证券报记者表示，近期以国资为主导的资金持续加大出资力度，有效缓解了一级市场流动性紧张的状况。同时，国资的积极入场增强了社会资本的出资预期，并带动了保险、银行等资金的流入。这些资金与政府引导基金联合作为有限合伙人（LP）设立基金，不仅提振了股权投资市场信心，也为科技创新注入了强劲力量。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvse1818285.d.html</link>
+            <guid>4139075</guid>
+            <pubDate>Thu, 10 Apr 2025 22:36:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金短线拉升近10美元，最高至3188美元/盎司，续创新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvse1817675.d.html</link>
+            <guid>4139074</guid>
+            <pubDate>Thu, 10 Apr 2025 22:34:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【提醒：日内请重点关注（以下均为北京时间）】
+① 14:00 英国2月GDP、商品贸易帐、工业产出，德国3月CPI终值；
+② 美股盘前 摩根大通欧诺个、摩根士丹利、富国银行发布业绩报告；
+③ 20:30 美国3月PPI；
+④ 22:00 美国4月密歇根大学消费者信心指数初值。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvsf8591363.d.html</link>
+            <guid>4139073</guid>
+            <pubDate>Thu, 10 Apr 2025 22:31:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新西兰3月月度经季节性调整的采购经理人指数(PMI)为53.2。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvse1816539.d.html</link>
+            <guid>4139072</guid>
+            <pubDate>Thu, 10 Apr 2025 22:30:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中方在世贸组织回击美国“对等关税”的强盗逻辑】4月10日，世界贸易组织货物贸易理事会年度首次会议第二天，美国在“其他事项”下增设“对等关税”议题，宣扬其实施所谓“对等关税”的强盗逻辑。中方发言坚决回击表示，在前日会议上中方清晰阐述了对所谓“对等关税”的立场。中方对美方单方面升级贸易措施、将全球经济拖入巨大不确定性的做法深表遗憾。美方每日制造的意外与动荡，正在侵蚀各国企业和所有成员，特别是发展中成员赖以发展的稳定环境。中方坚决反对泛化和滥用国家安全的做法。中方重申《中国政府关于反对美国滥施关税的立场》中的观点，“中国是文明古国，礼仪之邦。中国人民崇尚以诚待人、以信为本。我们不惹事，也不怕事，施压和威胁不是同中方打交道的正确方式”。中方坚信，成员间的贸易分歧绝不能成为采取单边措施和发起关税战的借口。贸易战没有赢家。中方高度重视以世贸组织为核心的多边贸易体制，支持伊维拉总干事的呼吁，“世贸组织是重要的对话平台。在合作框架内解决问题至关重要”。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvse1815301.d.html</link>
+            <guid>4139071</guid>
+            <pubDate>Thu, 10 Apr 2025 22:26:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美前财长耶伦：美经济陷入衰退风险上升】美国前财政部长耶伦10日表示，美国新一届政府的经济政策是她所见过的“最严重的自我伤害”行为。加征关税等政策背景下，美国经济陷入衰退风险已经上升。她10日在接受美国有线电视新闻网采访时表示，美国现任政府的关税政策可能让美国普通家庭每年的支出增加近4000美元。除关税可能给消费者支出带来负面影响外，美国经济还面临着巨大的不确定性冲击。耶伦说，“面对如此大的不确定性，哪家公司会进行长期投资呢”？投资支出和消费支出的减少很有可能引发经济衰退。耶伦强调说，除关税政策外，现任政府对社会保障署、国税局等公共服务机构的削减，以及对医疗补助、食品救济等政府项目的压缩可能损害低收入家庭的利益。这一系列政策极具“破坏性”。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvsf8589714.d.html</link>
+            <guid>4139070</guid>
+            <pubDate>Thu, 10 Apr 2025 22:26:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金首次升破3180美元/盎司，纽约期金时隔一周再度升破3200美元大关。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvsf8589457.d.html</link>
+            <guid>4139069</guid>
+            <pubDate>Thu, 10 Apr 2025 22:25:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日元创去年10月以来最高】 日元下跌0.3%，报143.97日元，创2024年10月份以来新低。现货黄金涨至3181.04美元/盎司，继续创历史新高，亚太盘初涨幅超过0.1%。]]></title>
             <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvse1814302.d.html</link>
             <guid>4139068</guid>
             <pubDate>Thu, 10 Apr 2025 22:23:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场资讯：日本自民党、公明党浮动削减食品消费税。]]></title>
+            <title><![CDATA[市场资讯：日本自民党、公明党提议下调食品消费税。]]></title>
             <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvse1814253.d.html</link>
             <guid>4139067</guid>
             <pubDate>Thu, 10 Apr 2025 22:23:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【世贸组织纪念成立三十周年 各方呼吁坚持多边主义】世界贸易组织10日举行成立三十周年纪念活动。与会成员回顾多边贸易体制的历史成就，探讨当下世贸组织面临的生存挑战，并展望未来改革方向。活动期间，由瑞士、新加坡等41个中小规模经济体共同发布“多边贸易体制之友”倡议。倡议充分肯定世贸组织在过去三十年中对全球贸易自由化及发展中国家融入世界经济所发挥的重要作用，指出当前多边贸易体制面临严峻挑战，包括全球供应链中断和保护主义抬头。倡议呼吁各方重申对世贸规则的承诺，维护贸易开放，以创新方式共同推进世贸组织改革，使其更好应对当前挑战，维护以世贸组织为核心的多边贸易体制的基础性作用。]]></title>
-            <guid>4139066</guid>
-            <pubDate>Thu, 10 Apr 2025 22:21:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【奥迪畅销SUV因美国关税而无法销售】 售价4.54万美元的奥迪Q5是奥迪在美国最畅销的车型，目前正面临三项关税的冲击（进口汽车25%的关税、从墨西哥进口的25%的关税以及因不遵守自由贸易协定而征收的2.5%的费用），总计至少52.5%，使其无法销售。奥迪正在探索减轻关税影响的方法，但不断上升的贸易壁垒正在威胁其销量，并颠覆汽车制造商数十年来建立的供应链。]]></title>
@@ -65,243 +307,6 @@
             <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvsf8585414.d.html</link>
             <guid>4139059</guid>
             <pubDate>Thu, 10 Apr 2025 22:11:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国30年期国债期货延续跌势，日内下跌9个点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvsi2875232.d.html</link>
-            <guid>4139058</guid>
-            <pubDate>Thu, 10 Apr 2025 22:10:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[碧桂园：离岸债务重组取得进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvsf8585166.d.html</link>
-            <guid>4139057</guid>
-            <pubDate>Thu, 10 Apr 2025 22:10:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马斯克的DOGE入驻美国金融监管部门FDIC，但无法访问银行数据】据一封内部电子邮件显示，美国联邦存款保险公司（FDIC）正在与政府效率部 (DOGE) 的一个小团队合作，以提高效率并改进内部运营。然而，在FDIC的DOGE团队无法访问机密银行信息，其成员由持有必要许可的全职联邦雇员组成，与FDIC管理层合作。在特朗普政府的延期辞职计划导致500名员工离职后，FDIC预计将在未来几天推进收购要约和正式的裁员计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvsi2874678.d.html</link>
-            <guid>4139056</guid>
-            <pubDate>Thu, 10 Apr 2025 22:07:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中央气象台4月11日06时继续发布沙尘暴蓝色预警】预计，4月11日08时至12日08时，新疆南部、青海北部、内蒙古西部、甘肃中南部、宁夏、陕西、山西、河北中南部、北京中南部、天津、山东中西部、河南等地有扬沙或浮尘天气，其中新疆南部、内蒙古西部、甘肃西部等地的部分地区有沙尘暴，内蒙古西部局地有强沙尘暴。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvse1809327.d.html</link>
-            <guid>4139055</guid>
-            <pubDate>Thu, 10 Apr 2025 22:06:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据泰晤士报：过去一年，申请英国签证的移民人数减少了逾三分之一，这一迹象表明，移民数量将从创纪录水平大幅下降。]]></title>
-            <guid>4139054</guid>
-            <pubDate>Thu, 10 Apr 2025 22:04:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周五亚太盘初，标普股指期货涨0.02%，道指期货跌0.05%，纳指期货涨0.09%。]]></title>
-            <guid>4139053</guid>
-            <pubDate>Thu, 10 Apr 2025 22:03:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美联储5月维持利率不变的概率为73.4%】据CME“美联储观察”： 美联储5月维持利率不变的概率为73.4%，降息25个基点的概率为26.6%。美联储到6月维持利率不变的概率为13.9%，累计降息25个基点的概率为64.6%，累计降息50个基点的概率为21.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestvse1807784.d.html</link>
-            <guid>4139052</guid>
-            <pubDate>Thu, 10 Apr 2025 22:02:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金周五开盘创新高，最高至3178.7美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestrki8713060.d.html</link>
-            <guid>4139051</guid>
-            <pubDate>Thu, 10 Apr 2025 22:02:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫贸易顾问纳瓦罗：今天的收益率下降对于寻求抵押贷款的人来说是个“好消息”。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestrke5330696.d.html</link>
-            <guid>4139050</guid>
-            <pubDate>Thu, 10 Apr 2025 22:02:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：美国银行监管机构没有对被黑客入侵的电子邮件账户采取安全措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestrkh1937965.d.html</link>
-            <guid>4139049</guid>
-            <pubDate>Thu, 10 Apr 2025 22:00:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中央气象台4月11日06时解除大雾黄色预警。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestrki8712289.d.html</link>
-            <guid>4139048</guid>
-            <pubDate>Thu, 10 Apr 2025 21:59:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中央气象台4月11日06时发布暴雨蓝色预警】预计，4月11日08时至12日08时，湖北大部、河南东南部、安徽中南部、浙江西部、福建西北部、江西中北部、湖南东部和南部、广西北部、四川盆地西部、西藏东南部等地部分地区有大到暴雨，其中，湖南东部、江西西部和北部等地局地有大暴雨（100～120毫米）。上述部分地区伴有短时强降水（最大小时降雨量30～50毫米，局地可超过60毫米），局地有雷暴大风等强对流天气。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestrke5330361.d.html</link>
-            <guid>4139047</guid>
-            <pubDate>Thu, 10 Apr 2025 21:59:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中央气象台4月11日06时继续发布强对流天气蓝色预警】预计4月11日08时至12日08时，江汉东部、江淮西部、江南、东北地区南部、黄淮东北部等地的部分地区将有8级以上雷暴大风或冰雹天气，其中，湖北东部、安徽南部、湖南东北部、江西北部、福建西北部等地的部分地区将有10级以上雷暴大风，最大风力可达11级以上；西南地区东部、江汉南部、江淮中西部、江南、东北地区东南部、黄淮东北部等地的部分地区将有小时雨量大于20毫米的短时强降水天气，其中，湖北东部、安徽中南部、湖南中北部、江西北部、浙江西部等地的部分地区小时雨量大于50毫米，最大可达60毫米以上。预计，强对流的主要影响时段为今天中午至前半夜。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestrki8712244.d.html</link>
-            <guid>4139046</guid>
-            <pubDate>Thu, 10 Apr 2025 21:59:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【经济日报：警惕AI玩具带来隐私风险】文章称，制造商在开发AI玩具时，必须在技术创新和隐私保护之间找到平衡。AI技术为玩具带来了更多功能和互动体验，但儿童的隐私和数据安全也需要得到充分保障。在数据处理上，应遵循“数据最小化”原则，仅调用必要的敏感信息，并明确规定其保存期限，避免数据的冗余存储与外泄滥用。在设计环节也应致力于风险的可感可知。例如，允许家长控制数据采集范围，追踪数据流向，并对异常行为发出警告。通过责任驱动的技术创新和透明的安全保障，让AI玩具成为儿童成长的有益伙伴，而非隐私泄露的隐患源头。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestrkm3003702.d.html</link>
-            <guid>4139045</guid>
-            <pubDate>Thu, 10 Apr 2025 21:59:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴拿马外交部：与美国签署的谅解备忘录中没有放弃主权】当地时间4月10日，巴拿马外交部发布公告表示，巴拿马和美国签署的谅解备忘录中，巴拿马没有放弃一寸主权。这份协议旨在建立广泛合作，在出现实际威胁时保卫运河。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestrkm3002787.d.html</link>
-            <guid>4139044</guid>
-            <pubDate>Thu, 10 Apr 2025 21:55:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美法官支持特朗普政府移民登记令11日实施】美国联邦法官特雷弗·尼尔·麦克法登在当日的裁决中，允许特朗普政府推进一项要求所有非法移民在联邦政府登记的规定。此前，特朗普政府曾宣布将要求无证移民进行登记。3月7日，美国国土安全部发布了一项新规定，解释了登记系统将如何运作。据悉，这项新规定将于当地时间4月11日开始实施。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestrkh1936057.d.html</link>
-            <guid>4139043</guid>
-            <pubDate>Thu, 10 Apr 2025 21:54:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全球最大白银ETF--iShares Silver Trust持仓较上日增加59.42吨，当前持仓量为13981.46吨。]]></title>
-            <guid>4139042</guid>
-            <pubDate>Thu, 10 Apr 2025 21:48:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国纽约市长亚当斯：在哈德逊河坠毁的直升机上有6人，其中有3名儿童和3名成人，所有人均已遇难。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestrki8709109.d.html</link>
-            <guid>4139041</guid>
-            <pubDate>Thu, 10 Apr 2025 21:48:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据每日电讯报：英国军队可能在乌克兰进行为期五年的驻军。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestrki8706022.d.html</link>
-            <guid>4139040</guid>
-            <pubDate>Thu, 10 Apr 2025 21:38:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【多米尼加宣布延长全国哀悼期3天】当地时间4月10日，多米尼加总统阿比纳德尔宣布，延长全国哀悼期3天，从11日延至13日，以悼念4月8日凌晨在首都圣多明各一俱乐部屋顶坍塌事故中死亡的人员。多米尼加政府当天上午公布，事故已造成221人死亡，另有189人被送院治疗。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestrki8704985.d.html</link>
-            <guid>4139039</guid>
-            <pubDate>Thu, 10 Apr 2025 21:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗考虑与美国达成临时核协议 以争取更多谈判时间】消息人士表示，伊朗正考虑在与美国的谈判中提议，在就全面协议进行谈判之前，两国先达成一项临时核协议。此前美国总统特朗普为与伊朗就一项新的核协议进行谈判设定了两个月的最后期限，同时下令在中东加强美国军事力量。如果没有达成协议，特朗普可能会下令美国对伊朗的核设施进行军事打击，或者支持以色列的打击。消息人士称，伊朗认为在两个月内达成一项复杂且技术性很强的核协议是不现实的，他们希望有更多的时间来避免事态升级。国际危机组织伊朗项目主任阿里·瓦伊兹表示，伊朗似乎认为，在特朗普设想的时间框架内不太可能达成一项可持续的协议。因此，可能有必要考虑一项临时协议作为过渡。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestrkh1929609.d.html</link>
-            <guid>4139038</guid>
-            <pubDate>Thu, 10 Apr 2025 21:31:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[哈雷戴维森考虑以超过10亿美元的价格出售金融部门。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestrkh1928890.d.html</link>
-            <guid>4139037</guid>
-            <pubDate>Thu, 10 Apr 2025 21:28:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西央行行长将于周五会见银行高管。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestrkm2998333.d.html</link>
-            <guid>4139036</guid>
-            <pubDate>Thu, 10 Apr 2025 21:28:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【奶茶连锁店霸王茶姬启动美国IPO】 4月10日，珍珠奶茶连锁店霸王茶姬正寻求在美国进行首次公开募股(IPO)，募资4.11亿美元。提交给美国证券交易委员会（SEC）的文件显示，该公司将以每股26-28美元的价格发行1,468万份美国存托股票（ADS）。按照文件中提供的已发行股票数量，发行价区间高端对应的该公司市值约33亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestrkm2998038.d.html</link>
-            <guid>4139035</guid>
-            <pubDate>Thu, 10 Apr 2025 21:27:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【白宫关税团队权力洗牌 鹰派阵营的商务部长及贸易顾问被边缘化】据Politico报道，接近白宫的人士透露，美国财政部长贝森特现在已掌控贸易全局。与此同时，贸易顾问、民粹主义者纳瓦罗被边缘化，而华尔街“出气筒”商务部长卢特尼克则被重新认为是“坏警察”（严厉、强硬的角色）。这反映了本周围绕特朗普贸易政策的动荡，以及政策向贝森特一直倡导的“公平贸易”的转变。一位接近特朗普和纳瓦罗的人士表示，这位贸易鹰派仍能影响总统。特朗普尊重纳瓦罗的激进民粹主义思想，但这并不意味着他处于核心位置。另一位人士表示，白宫认为可以利用卢特尼克难缠的性格在谈判中发挥作用。此次角色变动发生在白宫内部公平贸易阵营与保护主义阵营之间的拉锯战之际。一位前特朗普政府官员表示，“特朗普喜欢先制造混乱，然后平静下来，再制造混乱，再恢复平静，只是为了让人捉摸不透。”这种状态同样存在于特朗普的核心圈中，各方势力不断进出影响力范围。虽然特朗普第一任期中常见的内部斗争在其第二任期中基本消失，但关税政策领导层的地位变化提醒人们，权力争夺和影响力的竞争仍未结束。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestrkh1927836.d.html</link>
-            <guid>4139034</guid>
-            <pubDate>Thu, 10 Apr 2025 21:25:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【10年期美债收益率涨超9个基点，两年期美债收益率于美国CPI发布日跌约5个基点】周四（4月10日）纽约尾盘，美国10年期基准国债收益率上涨9.34个基点，刷新日高至4.4249%，全天震荡上行，北京时间08:43刷新日低至4.2562%，20:30发布美国CPI通胀调查结果时回落至4.2754%。两年期美债收益率跌约4.77个基点，报3.8620%，全天处于下跌状态，持续震荡下行，23:36刷新日低至3.7810%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestrkh1927399.d.html</link>
-            <guid>4139033</guid>
-            <pubDate>Thu, 10 Apr 2025 21:23:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富时A50期指连续夜盘收跌0.44%，报12724点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestrkh1924565.d.html</link>
-            <guid>4139032</guid>
-            <pubDate>Thu, 10 Apr 2025 21:15:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据AXIOS网站：伊朗希望在与美国的谈判中探讨临时核协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestrke5322774.d.html</link>
-            <guid>4139031</guid>
-            <pubDate>Thu, 10 Apr 2025 21:14:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储柯林斯：央行信誉对价格稳定至关重要。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestrkm2995833.d.html</link>
-            <guid>4139030</guid>
-            <pubDate>Thu, 10 Apr 2025 21:13:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【实体企业应对美“对等关税” 坚持出海 坚定创新】近日，美国“对等关税”政策引发市场对中国医药企业出口业务的关注。从多家药企的最新回应来看，得益于前瞻性的全球化布局、供应链韧性及创新升级，短期看冲击尚在有限范围内。与此同时，中国生物医药产业正以前所未有的速度融入国际市场，通过差异化创新与国际协作，在挑战中挖掘新机遇，展现行业应对变局的智慧与韧性。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestrkm2995770.d.html</link>
-            <guid>4139029</guid>
-            <pubDate>Thu, 10 Apr 2025 21:13:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“对等关税”风波中的黄金交易】美国“对等关税”政策对黄金有三个层面影响：一是由于此次政策明确了金锭在加征对等关税的商品范围之外，COMEX-LBMA（纽约商品交易所黄金期货和伦敦金银市场协会现货黄金）价差快速收敛；二是避险情绪因超出预期的关税中枢以及意料之外的关税计算方法而加强；三是市场普遍预期美国将面临滞胀更为严重的前景。目前，黄金仍是各类资产中的“避险王者”，向上空间或进一步打开。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestrke5322334.d.html</link>
-            <guid>4139028</guid>
-            <pubDate>Thu, 10 Apr 2025 21:12:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“组团”自购、仓位高企 头部私募积极布局中国资产】私募证券投资基金正积极加码中国资产。多家头部私募加大了投资力度，积极布局优质产业中的优质公司，宽德投资、因诺投资等私募逢低自购旗下多头策略产品。在业内人士看来，基于政策持续发力、经济修复趋势不改、科技浪潮依旧汹涌的背景，后续机构资金有望加速涌入A股和港股。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestrkh1923282.d.html</link>
-            <guid>4139027</guid>
-            <pubDate>Thu, 10 Apr 2025 21:12:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【委内瑞拉国民议会通过经济紧急法令应对美关税】当地时间4月10日，委内瑞拉国民议会表决通过了经济紧急法令，以应对美国对委实施的制裁和关税措施。美国政府4月2日宣布对从委内瑞拉进口的商品加征“对等关税”，还对进口委石油和天然气的国家征收25%的“二级关税”。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestrkh1923194.d.html</link>
-            <guid>4139026</guid>
-            <pubDate>Thu, 10 Apr 2025 21:12:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美法官阻止特朗普政府撤销数十万在美移民临时合法身份】当地时间4月10日，美国地区法官英迪拉·塔尔瓦尼（Indira Talwani）裁定，阻止特朗普政府撤销数十万在美古巴、海地、尼加拉瓜和委内瑞拉公民的临时合法身份。塔尔瓦尼在裁决中指出，国土安全部缩短这些移民两年“假释期”的决定是“对法律的错误解读”。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestrkh1922697.d.html</link>
-            <guid>4139025</guid>
-            <pubDate>Thu, 10 Apr 2025 21:10:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【维持中国经济增速预测 外资机构看好A股韧性 建议投资组合增加相关配置】美国“对等关税”政策扰动市场预期，外资机构如何判断中国市场？综合各大国际投行最新观点来看，在维持对中国2025年国内生产总值（GDP）增速预测的同时，多家外资机构均对A股市场的韧性充满信心。在外资机构看来：一方面，当前A股的估值与全球其他市场相比仍处于低位，较低的估值提供了下行保护；另一方面，由于A股与全球市场的相关性较低，A股是投资组合中分散风险的较佳选项。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestrkh1922357.d.html</link>
-            <guid>4139024</guid>
-            <pubDate>Thu, 10 Apr 2025 21:09:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【储能行业迈入商业化转折之年 企业多举措应对挑战】4月10日，第十三届储能国际峰会暨展览会（ESIE 2025）在北京开幕。作为每年最大的储能行业展会之一，ESIE 2025的热点话题成为观察储能行业关键动态的窗口。记者在现场了解到，于中国储能市场而言，2025年是从规模化发展阶段向全面商业化阶段的转折点。而在海外，中国储能企业还要面对国际贸易摩擦的严峻形势。“当今世界，无论从市场还是从技术来看，中国都已经是实至名归的行业领导者。然而，很多企业依然是追随者心态，缺乏领导者的担当。”作为主办方代表，中关村储能产业技术联盟常务副理事长俞振华表示，“我们希望，中国企业从被动应对转向主动塑造国际市场规则，通过‘技术+市场+金融’三维突围，将外部压力转化为全球能源转型领导力。”（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestrki8696738.d.html</link>
-            <guid>4139023</guid>
-            <pubDate>Thu, 10 Apr 2025 21:09:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【股票策略产品一季度平均收益率逾5%】受经济基本面持续修复、国内科创产业快速发展、全球市场情绪起伏等因素影响，今年以来A股市场结构性机会表现突出。来自第三方机构的第一季度证券私募机构业绩监测数据显示，第一季度国内股票策略产品平均收益率5.23%，在五大主流策略中排名第一，但仍有约两成产品在当季出现亏损。整体来看，不同机构对于第一季度市场节奏、结构性主线等方面的把控和整体策略适应性的强弱，成为了业绩表现分化的关键原因。展望第二季度，经历了近期全球股市的剧烈震荡之后，多数私募机构对A股市场仍继续保持中性偏积极的投资预期。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestrkh1921564.d.html</link>
-            <guid>4139022</guid>
-            <pubDate>Thu, 10 Apr 2025 21:07:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富国银行维持对保德信金融 的“持股观望”股票评级。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestrki8695932.d.html</link>
-            <guid>4139021</guid>
-            <pubDate>Thu, 10 Apr 2025 21:07:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【逾百家上市公司获券商重仓 看好半导体等品种投资机遇】上市公司2024年年报密集披露之际，市场重要参与机构——券商的重仓股名单也逐渐清晰。Wind数据显示，截至4月10日中国证券报记者发稿时，A股已有102家上市公司前十大流通股东中出现券商身影，持仓总市值超过227亿元（按2024年底收盘价计算）。从持仓变动情况看，2024年四季度共有19家上市公司获其券商大股东加仓，其中8家公司获加仓超百万股以上，煤炭、医药生物行业标的更受青睐；新进个股方面，58家公司2024年四季度前十大流通股东中新出现券商身影，电子、有色金属等行业公司受到重视。从投资出发，结合对当下市场环境的分析，煤炭、半导体、黄金等细分品种布局价值获得券商关注。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestrkh1921368.d.html</link>
-            <guid>4139020</guid>
-            <pubDate>Thu, 10 Apr 2025 21:07:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【题材板块多点开花 A股市场普涨】4月10日，A股市场出现普涨行情，消费、机器人、消费电子、黄金珠宝、CPO等题材板块多点开花。上证指数涨逾1%，深证成指、创业板指均涨逾2%，上证指数站上3200点。整个A股市场成交额超1.6万亿元，超4900只股票上涨，逾170只股票涨停。增量资金持续流入市场，Wind数据显示，4月7日-9日股票型ETF资金合计净流入超1700亿元，4月10日沪深两市主力资金净流入超70亿元，资金情绪继续回暖。分析人士认为，在财政和货币政策仍有较大空间的情况下，我国宏观大局保持稳定可期，资本市场预计呈现出相对稳定的形势，A股市场在当前位置有较强的支撑。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-11/detail-inestrki8695663.d.html</link>
-            <guid>4139019</guid>
-            <pubDate>Thu, 10 Apr 2025 21:06:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
