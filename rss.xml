@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 12 Apr 2025 19:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Apr 2025 20:22:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【以色列防长：以军攻势将很快扩展到加沙大部分地区】以色列国防部长卡茨12日发表声明说，以军攻势将很快扩展到加沙地带大部分地区。卡茨说，这是结束战争的“最后时刻”。鉴于预期的军事行动，他呼吁加沙地带居民“必须撤离”。根据美国的计划，他们可以“自愿过境前往其他国家”。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-13/detail-inesycqf6657408.d.html</link>
+            <guid>4142653</guid>
+            <pubDate>Sat, 12 Apr 2025 20:17:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏丹北达尔富尔州两起袭击造成至少114名平民死亡】喀土穆消息：苏丹西部北达尔富尔州卫生部长哈提尔12日说，靠近该州首府法希尔市的扎姆扎姆难民营和法希尔市一处难民应急中心11日和12日分别遭到苏丹快速支援部队袭击，造成至少114名平民死亡。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-13/detail-inesxxhi6780600.d.html</link>
+            <guid>4142652</guid>
+            <pubDate>Sat, 12 Apr 2025 19:20:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【德国候任总理：特朗普的关税政策恐引发金融危机 倡导欧美自由贸易】德国候任总理默茨表示，特朗普的关税政策提高了发生金融危机的风险，并倡导达成美欧自由贸易协定，这一想法曾引起特朗普的敌对反应。“是的，我希望达成新的跨大西洋自由贸易协定，”援引默茨在接受采访时的话说。“对所有商品实行零关税。这对双方都更有利。”欧盟已向美国提议对工业产品实行“零关税”的互惠政策。特朗普周一对记者表示，这一提议还不够，建议欧洲通过购买美国能源来予以抵消。 默茨表示，如果美国决定完全退出全球贸易，欧洲将不得不专注于非美国市场。]]></title>
             <link>https://finance.sina.cn/7x24/2025-04-13/detail-inesxxhe3392846.d.html</link>
@@ -291,18 +303,6 @@
             <link>https://finance.sina.cn/7x24/2025-04-12/detail-inesxnsp7002395.d.html</link>
             <guid>4142601</guid>
             <pubDate>Sat, 12 Apr 2025 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：被认为载有美国使者的车队离开了与伊朗的会谈地点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-12/detail-inesxnsn0227734.d.html</link>
-            <guid>4142600</guid>
-            <pubDate>Sat, 12 Apr 2025 13:58:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泽连斯基：已与美方讨论购买防空武器】乌克兰总统泽连斯基11日晚在视频讲话中说，防空是乌克兰当前首要问题，乌方愿通过购买方式获得额外防空系统，并与美国总统特朗普讨论了此事。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-12/detail-inesxnsn0227229.d.html</link>
-            <guid>4142599</guid>
-            <pubDate>Sat, 12 Apr 2025 13:54:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
