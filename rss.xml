@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 19 Apr 2025 20:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Apr 2025 21:19:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【胡塞武装称美军空袭也门已致10人死伤】据胡塞武装卫生部门消息，当地时间19日晚间，美军针对也门首都萨那市和萨那省的空袭已造成10人死伤。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-20/detail-inettzmc6359040.d.html</link>
+            <guid>4155146</guid>
+            <pubDate>Sat, 19 Apr 2025 20:48:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【甘肃武威市古浪县发生3.0级地震 震源深度10千米】中国地震台网正式测定：4月20日04时27分，在甘肃武威市古浪县（北纬37.27度，东经102.95度）发生3.0级地震，震源深度10千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-20/detail-inettzmc6358573.d.html</link>
+            <guid>4155145</guid>
+            <pubDate>Sat, 19 Apr 2025 20:45:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[特朗普政府官员称，美国和伊朗在直接和间接的商讨中取得了非常好的进展，并同意于下周再次会面。]]></title>
             <guid>4155144</guid>
@@ -282,18 +294,6 @@
             <link>https://finance.sina.cn/7x24/2025-04-19/detail-inettkpm6700489.d.html</link>
             <guid>4154976</guid>
             <pubDate>Sat, 19 Apr 2025 14:09:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【普京宣布临时停火30小时】当地时间今天（4月19日）下午，俄罗斯总统普京在克里姆林宫听取俄武装力量总参谋长格拉西莫夫有关特别军事行动的汇报。格拉西莫夫表示，俄军已经夺回了库尔斯克州99.5%被乌方控制地区，总计1260平方公里。目前战斗正在奥列什尼亚和戈尔纳利两个邻近乌克兰边境的区域进行。普京称，俄军在整个战线进展顺利。在复活节期间，俄军将从4月19日18:00到4月21日0:00停止一切军事行动。普京表示，停火出于人道主义考虑，并出于对乌克兰方面能采取相同举措的希望。与此同时，俄军必须保持高度戒备，随时准备应对敌方可能违反停火协议的挑衅行为及任何侵略行径。普京还表示，俄方的停火行为将能够检验乌克兰方面对于停火的诚意以及是否有遵守停火的能力，以及参加和平谈判和消除乌克兰危机最初根源的意愿和能力。（CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-19/detail-inettkpm6700412.d.html</link>
-            <guid>4154975</guid>
-            <pubDate>Sat, 19 Apr 2025 14:09:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗外交部长：与美国的下一轮核谈判将于下周六（4月26日）在阿曼举行。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-19/detail-inettkpm6700283.d.html</link>
-            <guid>4154972</guid>
-            <pubDate>Sat, 19 Apr 2025 14:08:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
