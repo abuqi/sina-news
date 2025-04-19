@@ -4,11 +4,22 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 19 Apr 2025 18:28:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Apr 2025 19:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：作为与美国关税谈判的一部分，日本正考虑放宽进口汽车的安全规定。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-20/detail-inettvcf6475735.d.html</link>
+            <guid>4155136</guid>
+            <pubDate>Sat, 19 Apr 2025 18:53:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列总理内塔尼亚胡：不会屈服于过早结束战争的呼吁，以色列处于加沙战争的决定性时刻。]]></title>
+            <guid>4155135</guid>
+            <pubDate>Sat, 19 Apr 2025 18:31:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[伊朗外长：在罗马（进行的相关会谈中）存在着相对积极的氛围，这使得在可能达成的协议的原则和目标方面取得了进展。]]></title>
             <guid>4155134</guid>
@@ -284,17 +295,6 @@
             <link>https://finance.sina.cn/7x24/2025-04-19/detail-inettkpi9923720.d.html</link>
             <guid>4154959</guid>
             <pubDate>Sat, 19 Apr 2025 13:53:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京：战线上的局势接触正在发展，俄军正在向前推进。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-19/detail-inettkpm6698142.d.html</link>
-            <guid>4154957</guid>
-            <pubDate>Sat, 19 Apr 2025 13:52:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大总理卡尼承诺2025-26财政年度赤字为623亿加元，占GDP的1.96%。承诺在未来4年内新增1292亿加元支出。承诺扩大赤字，用于基础设施建设和减税。]]></title>
-            <guid>4154955</guid>
-            <pubDate>Sat, 19 Apr 2025 13:52:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
