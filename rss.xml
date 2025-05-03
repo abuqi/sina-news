@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 03 May 2025 18:29:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 May 2025 19:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【苏丹外交部：苏丹西部一城市约300名平民遭杀害】喀土穆消息：苏丹外交部3日发表声明说，苏丹快速支援部队2日和3日在该国西部西科尔多凡州努胡德市杀害了约300名平民。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-04/detail-ineviqvf0293816.d.html</link>
+            <guid>4178024</guid>
+            <pubDate>Sat, 03 May 2025 18:47:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【萨利姆·萨利赫·本·布里克被任命为也门新总理】当地时间5月3日获悉，也门总统领导委员会任命萨利姆·萨利赫·本·布里克为新任也门总理。萨利姆被任命前担任也门政府财政部长。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-04/detail-ineviqvk3179302.d.html</link>
+            <guid>4178014</guid>
+            <pubDate>Sat, 03 May 2025 18:34:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【加沙多地接连发生抢夺物资事件】总部位于伦敦的泛阿拉伯媒体机构《新阿拉伯人报》当地时间5月3日报道称，近期加沙多地接连发生仓库、商铺及人道救援物资被抢事件。报道称，不明身份武装人员近期多次利用夜间时段，闯入国际组织和地方机构的仓库，劫掠食品援助、面包房物资和慈善厨房库存，造成财产重大损失。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2025-05-04/detail-inevikpn3308076.d.html</link>
@@ -285,17 +297,6 @@
             <link>https://finance.sina.cn/7x24/2025-05-03/detail-ineviefq3409342.d.html</link>
             <guid>4177916</guid>
             <pubDate>Sat, 03 May 2025 14:46:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴菲特：美国的财政问题并非美国独有的问题】巴菲特被问及是否采取措施应对美元走弱时表示，伯克希尔几乎不会因为要使得一个季度或一年的财报更好看去做任何事情。他也强调，不会想持有任何他们认为会贬得一文不值的货币资产。巴菲特同时表示，美国的财政问题令他害怕，但这也不是美国独有的问题。对于增持日元资产，他表示日本的情况不一样，现在借日元的成本也非常低。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-03/detail-ineviefn6634732.d.html</link>
-            <guid>4177915</guid>
-            <pubDate>Sat, 03 May 2025 14:46:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴菲特表示，各国应当努力树立起长期而言拥有坚挺货币的形象。他还表示，“出现失控性通货膨胀”的可能性很大时，投资就会变得非常困难。]]></title>
-            <guid>4177914</guid>
-            <pubDate>Sat, 03 May 2025 14:45:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
