@@ -4,11 +4,40 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 18 May 2025 18:30:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 May 2025 19:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[声明显示：美国副总统万斯会见加拿大总理卡尼，双方讨论了美国和加拿大的共同利益与目标，包括公平贸易政策以及两国持续的长久关系。]]></title>
+            <guid>4200844</guid>
+            <pubDate>Sun, 18 May 2025 19:13:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【波兰总统选举第一轮投票结束】当地时间5月18日21时，波兰总统选举第一轮投票结束。出口民调显示，拉法乌·特沙斯科夫斯基的支持率为30.8%，卡罗尔·纳夫罗茨基的支持率为29.1%，斯瓦沃米尔·门岑的支持率为15.4%。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inewzpnn8265644.d.html</link>
+            <guid>4200842</guid>
+            <pubDate>Sun, 18 May 2025 19:12:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【出口民调：葡萄牙总理领导的中右翼民主联盟赢得议会选举最多席位】出口民调显示，葡萄牙现任总理蒙特内格罗领导的中右翼民主联盟在18日举行的议会选举中获得最多席位，但未获绝对多数。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inewzpnn8264915.d.html</link>
+            <guid>4200837</guid>
+            <pubDate>Sun, 18 May 2025 19:01:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【A股“稳中有进”趋势有望延续】上周，A股市场呈现震荡上行后的高位整固格局。沪指上半周在大金融的带动下收复3400点，下半周板块轮动加快，指数缩量调整。机构观点分析认为，短期市场风险偏好回升和基本面预期改善，A股主要指数向上突破4月初缺口。在总量政策定力持续强化，中长线资金入市的背景下，A股“稳中有进”的趋势有望延续。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inewzpnn8263949.d.html</link>
+            <guid>4200812</guid>
+            <pubDate>Sun, 18 May 2025 18:45:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国信证券袁超：中国资产正转向“技术驱动+资产重估”】近日，《中美日内瓦经贸会谈联合声明》发布后，中国资产市场有积极反应。未来，中美贸易政策走向及其对中国资产的影响备受关注。国信证券经济研究所的高管袁超表示，前期中国已打出政策组合拳，增强中国资产应对外部环境变化的能力，当前关键在于用好用足现有政策。袁超认为，中国经济韧性足、潜力大，在超大规模市场纵深、全产业链体系加速重构的背景下，中国经济中长期发展具备坚实基础，资产重估的内在逻辑并未改变。他谈到，目前中国资产的吸引力已从“估值修复”向“技术驱动+资产重估”切换，未来如果政策红利持续释放、科技突破转化为盈利增长且地缘风险边际缓和，外资主动型长线资金或将加速入场。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inewzpnn8263906.d.html</link>
+            <guid>4200810</guid>
+            <pubDate>Sun, 18 May 2025 18:44:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美联邦调查局确认加州棕榈泉市爆炸事件嫌疑人】当地时间5月18日，美国联邦调查局确认，加利福尼亚州棕榈泉市一家医疗健康机构外发生的爆炸事件嫌疑人为盖伊·爱德华·巴特库斯（Guy Edward Bartkus）。联邦调查局官员称，该局正在对嫌疑人的住所执行搜查令，且不认为存在持续的公共安全威胁。官员表示，嫌疑人试图直播爆炸过程。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2025-05-19/detail-inewzpnm1488525.d.html</link>
@@ -272,36 +301,6 @@
             <link>https://finance.sina.cn/7x24/2025-05-18/detail-inewzawr1722488.d.html</link>
             <guid>4200659</guid>
             <pubDate>Sun, 18 May 2025 14:19:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿曼液化天然气与维多亚洲签署协议强化供应】据阿曼官方通讯社报道，阿曼液化天然气公司（Oman LNG）与维多亚洲公司（Vitol Asia）签署协议，以完善其供应组合。协议规定将提升约 80 万公吨液化天然气的商业附加值，计划于 2026 年生效。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-18/detail-inewzawr1722166.d.html</link>
-            <guid>4200658</guid>
-            <pubDate>Sun, 18 May 2025 14:15:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国海军收到霍尔木兹海峡附近 GPS 干扰报告】 英国海上贸易行动部门（UK Maritime Trade Operations）收到多艘船只报告称，在霍尔木兹海峡附近遭遇 GPS 干扰，信号中断持续数小时，导致导航系统失灵，船只被迫依赖备用导航方式。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-18/detail-inewzawr1722011.d.html</link>
-            <guid>4200657</guid>
-            <pubDate>Sun, 18 May 2025 14:14:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【法国官员：美国关税政策不确定性将拖累对美投资】法国投资总秘书处秘书长布鲁诺·博内尔日前告诉法国媒体，美国现任政府关税政策造成的不确定性最终将拖累全球对美投资。法新社援引博内尔的话报道，“美国政府做出的决定完全无法确定……完全无法预测”，特朗普政府带来的不确定性将对企业造成压力，事实上法国对美投资形势“已经降温不少”。日前，法国经济与财政部长埃里克·隆巴尔在谈及美国现任政府通过高关税强迫企业在美投资的做法时强调，“欧洲政治和监管稳定，拥有相当健全的法治体系”。欧洲央行行长拉加德日前接受法国《星期日论坛报》采访时说：“我们看到美国的法治、法院和贸易规则受到挑战，不确定性持续存在。”世界贸易组织总干事伊维拉13日在日本东京说，美国的关税措施对全球贸易构成挑战。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-18/detail-inewzawr1721826.d.html</link>
-            <guid>4200656</guid>
-            <pubDate>Sun, 18 May 2025 14:12:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“金价一跌再跌，网友直呼亏麻了”成为微博热议话题】 近日，“金价一跌再跌，网友直呼亏麻了”成为微博热议话题。截至发稿，该话题阅读量已突破6000万。数据显示，5月以来境内黄金ETF被赎回了1490万份，近几个交易日，空头的力量更是偏强。业内人士认为，黄金短期投资还需谨慎，要关注近期波动的风险。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-18/detail-inewzaws8496325.d.html</link>
-            <guid>4200655</guid>
-            <pubDate>Sun, 18 May 2025 14:12:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【高温明起波及10余省份】据@中国天气 ，明后天将是西北地区东部、华北、黄淮一带高温范围最广、强度最强的时段。陕西关中盆地、河北南部、河南西北部等地最高气温可达37℃至39℃，局地40℃，部分站点会出现5月少见、甚至破纪录的高温。 总的来看，此轮高温至少波及新疆、甘肃、宁夏、陕西、山西、河南、湖北、河北、山东、安徽、江苏等10余省区，37℃以上波及陕西、山西、河北、山东、河南、湖北6省。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-18/detail-inewzawu3623767.d.html</link>
-            <guid>4200650</guid>
-            <pubDate>Sun, 18 May 2025 14:04:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
