@@ -4,28 +4,279 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Mon, 19 May 2025 16:30:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 May 2025 17:21:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[戴尔科技：与英伟达推出下一代企业人工智能解决方案。]]></title>
-            <guid>4202691</guid>
-            <pubDate>Mon, 19 May 2025 16:30:34 GMT</pubDate>
+            <title><![CDATA[巴西央行行长：在市场失灵时我们会进行外汇操作，我们不以汇率水平为目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcsmm0535557.d.html</link>
+            <guid>4202738</guid>
+            <pubDate>Mon, 19 May 2025 17:19:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[戴尔科技：计划支持英伟达VERA CPU；计划用新款戴尔PowerEdge XE服务器支持英伟达VERA RUBIN平台。]]></title>
+            <title><![CDATA[巴西央行行长：巴西雷亚尔与风险资产之间存在天然的相关性。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcsmm0535508.d.html</link>
+            <guid>4202737</guid>
+            <pubDate>Mon, 19 May 2025 17:18:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储在固定利率逆回购操作中总计接纳了39个对手方的1804.17亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcsms1910732.d.html</link>
+            <guid>4202735</guid>
+            <pubDate>Mon, 19 May 2025 17:17:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【普京称愿与乌就和平条约起草备忘录】当地时间5月19日晚，北京时间今天（5月20日）凌晨，俄罗斯总统普京在与美国总统特朗普通话后对媒体表示，通话超过两个小时，“内容非常充实和开放”。普京认为，“这次通话非常有益，极具建设性。”普京指出，俄罗斯赞成和平解决乌克兰危机，但是应该确定更有效的通向和平之路。普京称与特朗普达成协议，俄方将提出建议并愿意与乌克兰方面共同就未来可能达成的和平条约起草备忘录——这一备忘录应包含若干条款，比如达成和平的原则，和平条约的签署时间，以及在达成若干协议后于特定时期停火。 普京表示，伊斯坦布尔谈判的恢复表明各方整体上在沿着正确的道路行进，而当前的问题在于，俄罗斯和乌克兰方面均应最大程度体现对和平的努力，并且找到让各方都满意的折中方案。 普京强调，俄罗斯的立场是明确的，即应当消除危机的根源。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcsmm0535420.d.html</link>
+            <guid>4202734</guid>
+            <pubDate>Mon, 19 May 2025 17:16:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储官员洛根在金融会议上未就货币政策或经济前景发表评论。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcsmq2475160.d.html</link>
+            <guid>4202733</guid>
+            <pubDate>Mon, 19 May 2025 17:16:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西央行行长戴维：我们希望维持外汇市场的流动性和深度，但这些特性存在副作用。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcsmm0535351.d.html</link>
+            <guid>4202732</guid>
+            <pubDate>Mon, 19 May 2025 17:15:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储洛根：美债和货币市场强劲，但并非坚不可摧。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcsmq2475059.d.html</link>
+            <guid>4202730</guid>
+            <pubDate>Mon, 19 May 2025 17:15:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士央行行长施莱格尔：2025年某些月份的通胀率可能为负。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcsmq2474891.d.html</link>
+            <guid>4202729</guid>
+            <pubDate>Mon, 19 May 2025 17:13:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英伟达向竞争对手开放AI生态系统，力争实现全球扩张】英伟达CEO黄仁勋概述了允许客户在基于其技术构建的数据中心中部署竞争对手芯片的计划，此举承认了微软和亚马逊等主要客户内部半导体开发的增长。周一，黄仁勋近两个小时的演讲大部分时间都用于庆祝本地供应链合作伙伴的工作。但他最重要的宣布是一款新的 NVLink Fusion 系统，该系统允许构建更加定制的人工智能基础设施，首次将英伟达的高速链路与其他供应商的半导体相结合。迄今为止，英伟达只提供用自己的组件构建的完整计算机系统。这一变化为数据中心客户提供了更大的灵活性，并允许一定程度的竞争，同时仍然保持英伟达技术的核心地位。 NVLink Fusion产品将为客户提供将自己的中央处理器与 英伟达的AI芯片一起使用的选项，或者将英伟达芯片与其他公司的AI加速器配对。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcsmm0535028.d.html</link>
+            <guid>4202728</guid>
+            <pubDate>Mon, 19 May 2025 17:12:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[戴尔股价升至盘中高点，受英伟达合作推动。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcsms1909697.d.html</link>
+            <guid>4202727</guid>
+            <pubDate>Mon, 19 May 2025 17:08:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士央行行长施莱格尔：不确定性不利于经济增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcsmm0534305.d.html</link>
+            <guid>4202726</guid>
+            <pubDate>Mon, 19 May 2025 17:06:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 戴尔科技集团宣布与英伟达在人工智能领域合作的最新进展，包括推出PowerEdge XE9780和XE9785服务器。]]></title>
+            <guid>4202725</guid>
+            <pubDate>Mon, 19 May 2025 17:04:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士央行行长：瑞士法郎是避风港。国内外投资者都在买入瑞郎。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcsmm0534068.d.html</link>
+            <guid>4202724</guid>
+            <pubDate>Mon, 19 May 2025 17:03:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳斯达克100指数转涨，稍早一度下跌1.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcsmq2473453.d.html</link>
+            <guid>4202723</guid>
+            <pubDate>Mon, 19 May 2025 17:02:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【普京：俄罗斯已准备好与乌克兰就和平谈判的备忘录展开合作】据俄罗斯官方媒体报道，俄罗斯总统普京表示，他于周一与美国总统特朗普进行了富有成效的电话交谈。特朗普在谈话中表达了他对停火的立场。普京对美国参与恢复俄乌之间的直接对话表示感谢，并称莫斯科已准备好与乌克兰就未来和平谈判的相关备忘录展开合作。一旦达成相关协议，俄乌停火是可能的。俄罗斯赞成停止战斗，但必须找到最有效的和平道路。俄乌之间的备忘录可能包括停火和解决原则等问题。总体而言，我们走在正确的轨道上。俄乌必须找到对双方都合适的妥协方案。我们应该消除危机的根源。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcsms1908910.d.html</link>
+            <guid>4202722</guid>
+            <pubDate>Mon, 19 May 2025 17:01:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际铜夜盘收涨0.65%，沪铜收涨0.54%，沪铝收跌0.62%，沪锌收跌0.27%，沪铅收跌0.71%，沪镍收跌0.31%，沪锡收涨0.15%。氧化铝夜盘收涨1.23%。不锈钢夜盘收跌1.16%。]]></title>
+            <guid>4202721</guid>
+            <pubDate>Mon, 19 May 2025 17:01:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西将2025年GDP增速预估从2.3%上调至2.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcsmq2473298.d.html</link>
+            <guid>4202720</guid>
+            <pubDate>Mon, 19 May 2025 17:00:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【持续超2小时 俄美领导人通话结束】当地时间19日，美国总统特朗普和俄罗斯总统普京的通话结束，共持续2个多小时。普京在通话结束后发表声明表示，通话超过两个小时，内容非常充实和开放。普京称，通话是非常有益的。俄罗斯赞成和平解决乌克兰危机，但是应该确定更有效的通向和平的道路。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcsmn7308193.d.html</link>
+            <guid>4202719</guid>
+            <pubDate>Mon, 19 May 2025 16:59:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士央行行长：通胀主要来自国内服务，外国对通胀的贡献为负。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcsms1908605.d.html</link>
+            <guid>4202718</guid>
+            <pubDate>Mon, 19 May 2025 16:58:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国 - 法国 - 加拿大领导人联合声明：若以色列不停止在加沙重新发动的军事进攻并解除援助限制，将采取“具体行动”。]]></title>
+            <guid>4202717</guid>
+            <pubDate>Mon, 19 May 2025 16:57:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士央行行长：目前瑞士的通胀前景非常不明朗。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcsms1908463.d.html</link>
+            <guid>4202716</guid>
+            <pubDate>Mon, 19 May 2025 16:57:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普500指数转涨，早前一度跌超1%；道指现涨0.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcsms1908344.d.html</link>
+            <guid>4202715</guid>
+            <pubDate>Mon, 19 May 2025 16:56:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫官员：特朗普与俄罗斯总统普京的通话已经结束。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcsms1908201.d.html</link>
+            <guid>4202714</guid>
+            <pubDate>Mon, 19 May 2025 16:55:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士央行行长施莱格尔：瑞士央行必须在不确定时期确保价格稳定。政策利率是我们的主要工具，但在必要时我们也可以干预外汇市场。]]></title>
+            <guid>4202713</guid>
+            <pubDate>Mon, 19 May 2025 16:54:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国有线电视新闻网（CNN）：特朗普与俄罗斯普京的通话已结束。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcsmn7307635.d.html</link>
+            <guid>4202712</guid>
+            <pubDate>Mon, 19 May 2025 16:53:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：05月20日00时41分在新疆阿克苏地区库车市（北纬41.28度，东经84.01度）发生3.0级地震，震源深度10千米。]]></title>
+            <guid>4202711</guid>
+            <pubDate>Mon, 19 May 2025 16:53:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【LME金属期货多数收跌】LME金属期货多数收跌，LME期铜收涨76美元，报9524美元/吨。LME期铝收跌32美元，报2450美元/吨。LME期锌收跌15美元，报2676美元/吨。LME期铅收跌38美元，报1962美元/吨。LME期镍收跌86美元，报15562美元/吨。LME期锡收涨83美元，报32899美元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcsmn7307322.d.html</link>
+            <guid>4202710</guid>
+            <pubDate>Mon, 19 May 2025 16:52:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士央行行长施莱格尔：目前的不确定性非常高。在不确定时期，瑞郎通常被视为避风港。瑞士2025年经济增长将低于预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcsmm0532773.d.html</link>
+            <guid>4202709</guid>
+            <pubDate>Mon, 19 May 2025 16:51:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：我们总体上走在正确的轨道上。俄罗斯和乌克兰必须找到对双方都合适的妥协方案。佩斯科夫或乌沙科夫稍后将澄清与特朗普谈话的细节。]]></title>
+            <guid>4202708</guid>
+            <pubDate>Mon, 19 May 2025 16:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国政府最终液化天然气研究显示，美国出口液化天然气符合美国公众的最佳利益。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcsms1907217.d.html</link>
+            <guid>4202707</guid>
+            <pubDate>Mon, 19 May 2025 16:50:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[文件显示，美国能源部将就向未与美国签订自由贸易协定的国家出口液化天然气（LNG）的待批申请发布最终命令。]]></title>
+            <guid>4202706</guid>
+            <pubDate>Mon, 19 May 2025 16:49:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：俄罗斯赞成停止战斗，但必须找到最有效的和平道路。俄罗斯与乌克兰之间的备忘录可能包括停火和解决原则等问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcsms1907053.d.html</link>
+            <guid>4202705</guid>
+            <pubDate>Mon, 19 May 2025 16:49:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：应消除危机根源。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcsmn7306754.d.html</link>
+            <guid>4202704</guid>
+            <pubDate>Mon, 19 May 2025 16:49:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[塔斯社援引普京的话称，俄罗斯和乌克兰必须找到对双方都合适的妥协方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcsms1906526.d.html</link>
+            <guid>4202703</guid>
+            <pubDate>Mon, 19 May 2025 16:47:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：特朗普在谈话中表达了他对停火的立场。对美国参与恢复俄罗斯和乌克兰之间的直接对话表示感谢。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcsmq2470850.d.html</link>
+            <guid>4202701</guid>
+            <pubDate>Mon, 19 May 2025 16:46:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：俄罗斯愿与基辅就未来和平谈判的备忘录展开合作。一旦达成相关协议，俄乌停火是可能的。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcsms1906301.d.html</link>
+            <guid>4202700</guid>
+            <pubDate>Mon, 19 May 2025 16:45:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士央行行长施莱格尔：瑞士央行短期内容忍负通胀。瑞士企业推迟投资决定，关税形势对一些企业来说非常具有挑战性。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcsmq2470753.d.html</link>
+            <guid>4202699</guid>
+            <pubDate>Mon, 19 May 2025 16:45:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[普京：特朗普称俄罗斯赞成和平解决乌克兰危机。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcsmq2470720.d.html</link>
+            <guid>4202698</guid>
+            <pubDate>Mon, 19 May 2025 16:45:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据俄新社援引普京的话报道称，特朗普和普京的通话内容非常丰富，非常有帮助。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcsmq2470662.d.html</link>
+            <guid>4202697</guid>
+            <pubDate>Mon, 19 May 2025 16:45:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[克里姆林宫：俄罗斯总统普京与美国总统特朗普的通话结束。通话持续了两个多小时。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcncp0662023.d.html</link>
+            <guid>4202696</guid>
+            <pubDate>Mon, 19 May 2025 16:44:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总务管理局（GSA）：Salesforce将为每个联邦机构提供企业版Slack人工智能近70%的单用户折扣。]]></title>
+            <guid>4202695</guid>
+            <pubDate>Mon, 19 May 2025 16:43:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【甘肃省白银市一煤矿发生透水事故 3人失联】总台记者从甘肃省白银市平川区了解到，5月19日19时43分，甘肃靖煤能源有限公司王家山煤矿分公司一号井二204工作面突发透水涉险事故。事故发生时，作业面共有133人。事故发生后，平川区立即启动应急预案，开展紧急救援。截至当晚23时53分，130人已安全撤出，仍有3名作业人员失联，目前，现场抢险救援工作仍在进行中。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcncq7436065.d.html</link>
+            <guid>4202694</guid>
+            <pubDate>Mon, 19 May 2025 16:42:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【瑞达利欧：穆迪仍然低估了美国国债面临的风险】桥水基金创始人瑞达利欧警告称，虽然穆迪下调美国主权信用评级，但“你应该知道，信用评级低估了信用风险，因为它们只评估了政府不偿还债务的风险……它们没有考虑到更大的风险，即负债国家会印钞偿还债务，从而导致债券持有人因所获资金价值下跌（而不是资金数量减少）而蒙受损失……换句话说，对于那些关心资金价值的人来说，美国政府债务的风险比评级机构传达的要大。”]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcncp0661488.d.html</link>
+            <guid>4202693</guid>
+            <pubDate>Mon, 19 May 2025 16:41:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【参议院民主党成员沃伦牵头调查美国气候政策倒退，华尔街成目标】 美国参议院民主党成员、“反垄断斗士”沃伦（Elizabeth Warren）牵头调查美国的气候投资倒退问题，华尔街沦为被针对的对象。沃伦和谢尔登·怀特豪斯发起了一项调查，调查华尔街背弃气候承诺的行为，美国最大的几家银行也因此成为调查目标。一份信件草稿显示，这项调查旨在查明银行在多大程度上屈服于共和党和化石燃料利益集团的压力，放弃管理气候变化带来的金融风险的受托责任。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcncp0659202.d.html</link>
+            <guid>4202692</guid>
+            <pubDate>Mon, 19 May 2025 16:31:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[戴尔科技表示，计划支持英伟达VERA CPU，新款戴尔PowerEdge XE服务器支持英伟达VERA RUBIN平台，与英伟达推出下一代企业人工智能解决方案。]]></title>
             <guid>4202690</guid>
             <pubDate>Mon, 19 May 2025 16:30:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[戴尔科技：推出搭载高通AI 100 PC推理卡的戴尔Pro Max Plus笔记本电脑]]></title>
+            <title><![CDATA[戴尔科技：推出搭载高通AI 100 PC推理卡的戴尔Pro Max Plus笔记本电脑。]]></title>
             <guid>4202689</guid>
             <pubDate>Mon, 19 May 2025 16:30:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国政府估计，与欧盟达成动植物卫生检疫（SPS）协议可能使英国对欧盟的主要农产品出口增加约16%，并使从欧盟的进口增加约8%。]]></title>
+            <title><![CDATA[英国政府估计，与欧盟达成卫生与动植物检疫协定（SPS）可使英国对欧盟的主要农产品出口增加约16%，并使从欧盟的进口增加约8%。]]></title>
             <guid>4202688</guid>
             <pubDate>Mon, 19 May 2025 16:29:10 GMT</pubDate>
         </item>
@@ -46,257 +297,6 @@
             <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcncs2597563.d.html</link>
             <guid>4202685</guid>
             <pubDate>Mon, 19 May 2025 16:24:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴西2025年登革热疑似及确诊病例超131万例】根据巴西卫生部当地时间5月19日发布的消息，巴西今年登革热疑似及确诊病例上升至1311086例，死亡病例上升至930例，另有806例疑似死亡病例正在调查当中。目前，巴西登革热最严重的地区分别为圣保罗州、米纳斯吉拉斯州以及巴拉那州三州。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcncp0657184.d.html</link>
-            <guid>4202684</guid>
-            <pubDate>Mon, 19 May 2025 16:22:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【第三名与英首相住宅纵火案有关联的男子被捕】英国伦敦大都会警察局19日发表声明说，第三名与英国首相住宅纵火案有关联的男子当天在伦敦切尔西地区被捕。声明说，一名34岁男子于19日早上被捕。警方指控其“涉嫌密谋实施危及生命的纵火行为”。该男子目前已被拘留。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcncu2032051.d.html</link>
-            <guid>4202683</guid>
-            <pubDate>Mon, 19 May 2025 16:20:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合国援助负责人：要减少劫掠现象，就必须通过多种途径实现援助的正常流动，并且商业物资应辅助人道主义救援行动。]]></title>
-            <guid>4202682</guid>
-            <pubDate>Mon, 19 May 2025 16:19:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[委内瑞拉内政部长：在外国人因涉嫌阴谋而被捕之后，暂停与哥伦比亚的航班往来。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcncq7430792.d.html</link>
-            <guid>4202681</guid>
-            <pubDate>Mon, 19 May 2025 16:18:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合国救援机构负责人：周一以色列允许9辆运送援助物资的卡车经凯雷姆沙洛姆口岸进入加沙。这只是加沙当前紧急需求物资中的九牛一毛。从周二起，必须允许更多人道主义援助物资进入加沙地带。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcncp0656231.d.html</link>
-            <guid>4202680</guid>
-            <pubDate>Mon, 19 May 2025 16:17:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿斯利康：与单独使用沙丁胺醇相比，AirSupra（一种药物）在轻度哮喘中可使严重病情加重风险降低47%。]]></title>
-            <guid>4202679</guid>
-            <pubDate>Mon, 19 May 2025 16:17:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[一位知情人士称，在特朗普于周一与普京通话之前，乌克兰总统泽连斯基已与特朗普通了电话。]]></title>
-            <guid>4202678</guid>
-            <pubDate>Mon, 19 May 2025 16:17:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通CEO戴蒙：监管提高了房贷成本。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcncq7430404.d.html</link>
-            <guid>4202677</guid>
-            <pubDate>Mon, 19 May 2025 16:16:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[道指转涨，成分股联合健康涨超6%，宝洁涨1%，麦当劳涨0.7%表现第三，迪士尼、雪佛龙、高盛、苹果、耐克仍然至多跌约1.8%。]]></title>
-            <guid>4202676</guid>
-            <pubDate>Mon, 19 May 2025 16:11:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西股指首次突破140,000点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcncq7428863.d.html</link>
-            <guid>4202675</guid>
-            <pubDate>Mon, 19 May 2025 16:10:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以称已有物资获准进入加沙 加沙媒体办公室：杯水车薪】以色列外交部官员埃登·巴尔·塔尔当地时间19日表示，当天，婴儿食品已开始通过卡车运输进入加沙地带。他表示，未来几天，以色列将为数十辆援助卡车进入加沙提供便利。另据一名以色列官员消息，还有一批面粉、婴儿食品和医疗用品将获准进入加沙地带。加沙地带媒体办公室称，这些物资只是“杯水车薪”。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcncq7428649.d.html</link>
-            <guid>4202674</guid>
-            <pubDate>Mon, 19 May 2025 16:09:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通CEO戴蒙：在欧洲重建经济之际，我希望美国与北约伙伴站在一起。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcncq7428458.d.html</link>
-            <guid>4202673</guid>
-            <pubDate>Mon, 19 May 2025 16:09:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统特朗普邀请教宗访问华盛顿。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcncq7428281.d.html</link>
-            <guid>4202672</guid>
-            <pubDate>Mon, 19 May 2025 16:08:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国支持的叙利亚民主力量表示，他们的一名战士在叙利亚代尔祖尔遭到极端组织“伊斯兰国”伏击身亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcncp0653198.d.html</link>
-            <guid>4202671</guid>
-            <pubDate>Mon, 19 May 2025 16:06:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫新闻秘书莱维特：美国正在接受卡塔尔的飞机。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcncp0653087.d.html</link>
-            <guid>4202670</guid>
-            <pubDate>Mon, 19 May 2025 16:06:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞银CEO：我们需要政府提供的下一个基础设施是数字基础设施。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcncu2028477.d.html</link>
-            <guid>4202669</guid>
-            <pubDate>Mon, 19 May 2025 16:05:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【埃及总统敦促以色列立即无条件从黎巴嫩撤军】埃及总统塞西19日敦促以色列立即无条件从黎巴嫩领土撤军。据埃及总统府发表的声明，塞西当天与到访的黎巴嫩总统奥恩在开罗举行联合新闻发布会。塞西在发布会上重申了埃及支持黎巴嫩实现稳定，维护黎巴嫩主权，坚决反对以色列对黎巴嫩领土反复侵犯的坚定立场。他说，埃及支持黎巴嫩的重建工作，呼吁国际社会履行在黎巴嫩重建方面的责任。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcncp0652720.d.html</link>
-            <guid>4202668</guid>
-            <pubDate>Mon, 19 May 2025 16:04:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯罗斯托夫州长表示，受霜冻影响，罗斯托夫地区进入农业紧急状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcncp0652331.d.html</link>
-            <guid>4202667</guid>
-            <pubDate>Mon, 19 May 2025 16:03:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储官员Raphael Bostic表示，穆迪的评级下调可能对经济产生连锁反应。]]></title>
-            <guid>4202666</guid>
-            <pubDate>Mon, 19 May 2025 16:02:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通CEO戴蒙：从来就不相信欧洲像人们描述的那么糟糕。我笃信“美国例外论”。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcncs2591911.d.html</link>
-            <guid>4202665</guid>
-            <pubDate>Mon, 19 May 2025 16:01:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞银CEO：在人工智能上的投资80%是为了提高效率，20%是为了盈利。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcncu2027387.d.html</link>
-            <guid>4202664</guid>
-            <pubDate>Mon, 19 May 2025 16:01:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[微软推出GitHub Copilot编码助手。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcncs2591773.d.html</link>
-            <guid>4202663</guid>
-            <pubDate>Mon, 19 May 2025 16:00:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[微软(MSFT.O)将通过Azure数据中心为xAI的Grok、Mistral和Black Forest Labs的AI模型提供托管服务。]]></title>
-            <guid>4202662</guid>
-            <pubDate>Mon, 19 May 2025 16:00:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【一架埃及军机坠毁 机组人员全部遇难】当地时间19日，埃及军方在一份声明中宣布，一架空军军用飞机在一次训练活动中由于技术故障坠毁，机组人员全部遇难。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcncp0651634.d.html</link>
-            <guid>4202661</guid>
-            <pubDate>Mon, 19 May 2025 16:00:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大巴车高速上撞山致2死2伤 广东肇庆警方通报】5月19日晚，广东省肇庆市公安局交通警察支队发布警情通报：2025年5月19日6时许，G55二广高速广宁古水路段发生一起单方面交通事故。一辆大巴车从四川仪陇开往深圳方向行驶至上述路段时，穿越道路中间隔离带，撞上一侧山体，造成车内人员2人死亡、2人重伤。目前，伤者救治、事故调查、善后处置等工作正在加紧进行中。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-20/detail-inexcncu2027112.d.html</link>
-            <guid>4202660</guid>
-            <pubDate>Mon, 19 May 2025 16:00:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【达恩当选罗马尼亚总统】根据罗马尼亚中央选举办公室19日发布的最终统计结果，独立候选人、布加勒斯特市长尼库绍尔·达恩在总统选举第二轮投票中获胜，当选罗马尼亚总统。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexcncq7425918.d.html</link>
-            <guid>4202659</guid>
-            <pubDate>Mon, 19 May 2025 15:58:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通CEO戴蒙：银行业将有机会对监管活动提出异议。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexcncq7425832.d.html</link>
-            <guid>4202658</guid>
-            <pubDate>Mon, 19 May 2025 15:57:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通CEO戴蒙：银行业监管机构的做法“远远超出合理范围”。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexcncp0651305.d.html</link>
-            <guid>4202657</guid>
-            <pubDate>Mon, 19 May 2025 15:57:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国首次当选联合国教科文组织1970年《公约》缔约国大会主席国】联合国教科文组织1970年《关于禁止和防止非法进出口文化财产和非法转让其所有权的方法的公约》第八届缔约国大会19日在巴黎开幕，中国当选为本届缔约国大会主席国。这是中国首次当选《公约》缔约国大会主席国。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexcncq7425804.d.html</link>
-            <guid>4202656</guid>
-            <pubDate>Mon, 19 May 2025 15:57:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通CEO戴蒙：即使降低后的关税税率也是“相当极端的”。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexcncp0651176.d.html</link>
-            <guid>4202655</guid>
-            <pubDate>Mon, 19 May 2025 15:56:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通CEO戴蒙：美国债务和贸易政策方面存在大量的自满情绪。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexcncu2026471.d.html</link>
-            <guid>4202654</guid>
-            <pubDate>Mon, 19 May 2025 15:54:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通CEO戴蒙：美国债务占GDP比重过高。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexcncp0650893.d.html</link>
-            <guid>4202653</guid>
-            <pubDate>Mon, 19 May 2025 15:53:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美联储副主席杰斐逊：将穆迪调降美国评级作为制定政策的一般数据处理】美联储副主席杰斐逊周一表示，美联储决策者将把穆迪下调美国信用评级的消息与制定货币政策的任何其他数据一样对待。杰斐逊在亚特兰大联邦储备银行金融市场会议上表示：“我们将以对待所有新信息的角度来看待这次评级下调：这对我们完成政策任务目标有何影响？我们不会评论这次评级下调会带来什么政治经济方面的影响。”]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexcncu2026282.d.html</link>
-            <guid>4202652</guid>
-            <pubDate>Mon, 19 May 2025 15:53:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通CEO戴蒙：自关税措施实施以来，我们失去了一些全球客户，因为他们选择本地贷款机构。]]></title>
-            <guid>4202651</guid>
-            <pubDate>Mon, 19 May 2025 15:52:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通CEO戴蒙：现行监管规定促使公司远离公开市场。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexcncp0650694.d.html</link>
-            <guid>4202650</guid>
-            <pubDate>Mon, 19 May 2025 15:51:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[力拓： 合资公司将开发和运营智利马里昆加盐湖的锂项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexcncp0650624.d.html</link>
-            <guid>4202649</guid>
-            <pubDate>Mon, 19 May 2025 15:51:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伦铅跌幅达2%，报1965.5美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexcncp0650494.d.html</link>
-            <guid>4202648</guid>
-            <pubDate>Mon, 19 May 2025 15:49:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通CEO戴蒙称，该行能够轻松应对动荡的市场。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexcncp0650491.d.html</link>
-            <guid>4202647</guid>
-            <pubDate>Mon, 19 May 2025 15:49:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亚美尼亚总理表示高度重视深化对华友好合作】亚美尼亚总理帕什尼扬19日表示，亚美尼亚政府高度重视深化对华友好合作，愿同中方密切高层交往，增进政治互信，推动亚中关系迈上新台阶，更好造福两国人民。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexcncp0650314.d.html</link>
-            <guid>4202646</guid>
-            <pubDate>Mon, 19 May 2025 15:47:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI原油日内涨幅达0.5%，报62.29美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexcncs2589833.d.html</link>
-            <guid>4202645</guid>
-            <pubDate>Mon, 19 May 2025 15:47:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通CEO戴蒙：不会排除美国经济陷入滞胀的可能性。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexcncs2589816.d.html</link>
-            <guid>4202644</guid>
-            <pubDate>Mon, 19 May 2025 15:46:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[商品货币澳元兑美元涨1%，至0.6460上方。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexcncu2025218.d.html</link>
-            <guid>4202643</guid>
-            <pubDate>Mon, 19 May 2025 15:46:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[智利国家铜业公司选择力拓(RIO.N)作为马里昆加锂项目的合作伙伴，后者将为该项目投资高达9亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inexcncp0649951.d.html</link>
-            <guid>4202642</guid>
-            <pubDate>Mon, 19 May 2025 15:44:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
