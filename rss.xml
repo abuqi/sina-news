@@ -4,13 +4,226 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Tue, 03 Jun 2025 19:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jun 2025 20:27:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[市场消息：以色列军队正在袭击叙利亚德拉省的地区。]]></title>
+            <title><![CDATA[周二（6月3日），“特朗普关税输家”指数涨1.84%，报95.49点。成分股FLNC收涨7.43%，北极星PII涨6.98%，纽威NWL涨6.34%，美元树涨6.01%，Five Below涨4%，Wayfair涨3.39%。四只成分股收跌，斯凯奇SKX跌0.02%，AEO跌0.19%，ONON跌1.03%，Gap跌2.1%。]]></title>
+            <guid>4224497</guid>
+            <pubDate>Tue, 03 Jun 2025 20:26:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫：英国钢关税将暂时维持在25%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvvku3136552.d.html</link>
+            <guid>4224496</guid>
+            <pubDate>Tue, 03 Jun 2025 20:23:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普政府废除拜登时代有关紧急堕胎的政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvvkr0825696.d.html</link>
+            <guid>4224495</guid>
+            <pubDate>Tue, 03 Jun 2025 20:22:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国钢铁公司（X）美股盘后跌0.037%。美国白宫称，特朗普钢铁关税将从美东时间6月4日00:01生效。]]></title>
+            <guid>4224494</guid>
+            <pubDate>Tue, 03 Jun 2025 20:21:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普：乌克兰债务评级下调至“D”；选择性违约“SD”评级及长期发行人信用评级为“CCC+/C”不变。]]></title>
+            <guid>4224493</guid>
+            <pubDate>Tue, 03 Jun 2025 20:19:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：钢铁关税将于美东时间6月4日凌晨00:01（北京时间6月5日中午12:01）生效。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvvkr0825534.d.html</link>
+            <guid>4224492</guid>
+            <pubDate>Tue, 03 Jun 2025 20:18:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[联合国安理会决议草案：要求立即解除对进入加沙的所有援助限制，并在整个加沙大规模安全、无阻地进行分配。]]></title>
+            <guid>4224491</guid>
+            <pubDate>Tue, 03 Jun 2025 20:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股七巨头收盘播报｜英伟达收涨超2.9%，市值超过微软和苹果，谷歌A跌约1.7%】美国科技股七巨头（Magnificent 7）指数涨0.55%，报163.30点。英伟达收涨2.93%，苹果涨0.78%，特斯拉涨0.46%，微软涨0.22%，亚马逊则收跌0.45%，Meta Platforms跌0.60%，谷歌A跌1.69%。目前，英伟达（收盘）市值3.45万亿美元，微软3.44万亿美元，苹果3.04万亿美元，亚马逊和谷歌A略超2万亿美元。此外，AMD收涨2.34%，台积电ADR涨1.42%，礼来制药涨0.49%，巴菲特旗下伯克希尔哈撒韦B类股则收跌0.99%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvvkv9910660.d.html</link>
+            <guid>4224490</guid>
+            <pubDate>Tue, 03 Jun 2025 20:14:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳斯达克公司5月美国证券期权成交量3.16亿合约，同比增长22%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvvkr0825209.d.html</link>
+            <guid>4224489</guid>
+            <pubDate>Tue, 03 Jun 2025 20:12:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国田纳西州连锁折扣店Dollar General Corporation（DG）收涨15.8%，创历史上最佳单日表现。]]></title>
+            <guid>4224488</guid>
+            <pubDate>Tue, 03 Jun 2025 20:09:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【韩国总统大选计票工作结束 李在明得票率为49.42%】当地时间6月4日5时03分左右，韩国第21届总统大选计票工作结束。根据计票结果，共同民主党候选人李在明的得票率为49.42%，国民力量党候选人金文洙得票率为41.15%，改革新党候选人李俊锡得票率为8.34%。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvvku3135821.d.html</link>
+            <guid>4224487</guid>
+            <pubDate>Tue, 03 Jun 2025 20:08:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠普企业（HPE）财务主管称，得益于关税豁免，惠普企业将减少对供应链重组和提价的严重依赖。]]></title>
+            <guid>4224486</guid>
+            <pubDate>Tue, 03 Jun 2025 20:06:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠与第二财季净营收76.3亿美元，分析师预期74.6亿美元。预计第三财季净营收82亿-85亿美元，分析师预期81.9亿美元。预计全年调整后每股收益在1.78-1.90美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvvkv9910115.d.html</link>
+            <guid>4224485</guid>
+            <pubDate>Tue, 03 Jun 2025 20:05:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列国防部长卡茨：叙利亚总统应对任何针对以色列的威胁负责。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvvkv9910108.d.html</link>
+            <guid>4224484</guid>
+            <pubDate>Tue, 03 Jun 2025 20:05:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“网红券商”Robinhood收涨5.5%，为2021年以来首次创收盘历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvvkv9910079.d.html</link>
+            <guid>4224483</guid>
+            <pubDate>Tue, 03 Jun 2025 20:04:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美伊核谈判细节披露：美提议临时允许伊朗继续铀浓缩活动】记者当地时间6月3日获悉，据匿名的伊朗和欧洲官员称，美国提议在美伊核谈判中采取临时措施，允许伊朗在美国与其他国家制定更详细方案期间，继续进行低浓度铀浓缩活动。《纽约时报》3日报道称，美国和其他国家将制定一项更详细的方案，旨在阻止伊朗发展核武器，但允许其获得新核电站所需的燃料。根据该方案，美国将协助伊朗建造核反应堆，并就由地区国家联盟管理的铀浓缩设施的建设进行谈判。一旦伊朗开始获得上述承诺利益，就必须停止其境内的所有铀浓缩活动。伊朗和欧洲官员透露称，该方案已提交给伊朗。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvvkv9910040.d.html</link>
+            <guid>4224482</guid>
+            <pubDate>Tue, 03 Jun 2025 20:03:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：特朗普周三将在白宫接待政府官员。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvvkv9910007.d.html</link>
+            <guid>4224481</guid>
+            <pubDate>Tue, 03 Jun 2025 20:02:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富国银行股价盘后上涨6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvvkv9909930.d.html</link>
+            <guid>4224480</guid>
+            <pubDate>Tue, 03 Jun 2025 20:01:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【纳斯达克中国金龙指数收涨0.56% 热门中概股多数上涨】纳斯达克中国金龙指数收涨0.56%，热门中概股多数上涨，理想汽车涨超6%，爱奇艺涨超3%，拼多多、小鹏汽车涨近2%，哔哩哔哩跌超2%，京东跌超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvvkr0824464.d.html</link>
+            <guid>4224479</guid>
+            <pubDate>Tue, 03 Jun 2025 20:00:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰外交部长：俄罗斯在伊斯坦布尔会谈中未对基辅的和平提议作出回应，提出了“旧的最后通牒”。需要取得更切实的成果。]]></title>
+            <guid>4224478</guid>
+            <pubDate>Tue, 03 Jun 2025 20:00:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储解除富国银行资产上限限制。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvvkr0824378.d.html</link>
+            <guid>4224477</guid>
+            <pubDate>Tue, 03 Jun 2025 20:00:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股三大指数集体收涨 热门科技股多数上涨】美股三大指数集体收涨，道指涨0.51%，纳指涨0.81%，标普500指数涨0.58%，热门科技股多数上涨，博通涨超3%，英伟达涨超2%。计算机硬件、加密货币概念股涨幅居前，安森美半导体涨超11%，纳微半导体涨超7%，超微电脑、Coinbase涨近5%，美光科技涨超4%，戴尔科技、希捷科技涨超3%，英特尔、AMD涨超2%。]]></title>
+            <guid>4224476</guid>
+            <pubDate>Tue, 03 Jun 2025 20:00:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫预算管理办公室（OMB）：白宫已经发送Rescission Package给国会山。]]></title>
+            <guid>4224475</guid>
+            <pubDate>Tue, 03 Jun 2025 19:58:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克：明年11月（中期选举），我们将解雇所有背叛美国人民的政客。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvvkv9909653.d.html</link>
+            <guid>4224474</guid>
+            <pubDate>Tue, 03 Jun 2025 19:56:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列多地拉响防空警报 本-古里安国际机场关闭】当地时间6月3日晚，以色列本土守备司令部发表声明称，耶路撒冷和以色列特拉维夫的289处地点当晚拉响防空警报，一枚从胡塞武装控制区向特拉维夫附近本-古里安国际机场发射的弹道导弹被拦截。本-古里安国际机场因袭击已暂时关闭。此外，以色列本土守备司令部还称，当晚另有两枚火箭弹自叙利亚南部向以色列境内发射并落入空旷地带。以色列军方随后发表声明称，以军当晚炮击了叙利亚南部地区，以回应以色列境内当晚遭受的火箭弹袭击。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvvku3135059.d.html</link>
+            <guid>4224473</guid>
+            <pubDate>Tue, 03 Jun 2025 19:52:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[汽车制造商斯泰兰蒂斯Stellantis：将美国员工定价计划延长至6月份。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvvkv9909479.d.html</link>
+            <guid>4224472</guid>
+            <pubDate>Tue, 03 Jun 2025 19:50:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【芝加哥大豆期货涨0.7%，纽约可可涨3.1%，咖啡期货跌超1.2%】周二（6月3日）纽约尾盘，彭博谷物分类指数涨0.13%，报30.6194点。CBOT玉米期货持平，报4.3825美元/蒲式耳。CBOT小麦期货跌0.56%，报5.3575美元/蒲式耳。CBOT大豆期货涨0.70%，报10.41美元/蒲式耳，豆粕期货涨0.10%，豆油期货涨1.15%。ICE原糖期货涨0.41%，ICE白糖期货涨0.98%。ICE阿拉比卡咖啡期货跌1.28%，咖啡“C”期货跌1.26%。罗布斯塔咖啡期货跌1.27%。纽约可可期货涨3.11%，报9769美元/吨。伦敦可可期货涨0.95%。ICE棉花期货跌0.23%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvvks4942676.d.html</link>
+            <guid>4224471</guid>
+            <pubDate>Tue, 03 Jun 2025 19:44:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[文件显示，特朗普预计将略过对超过五千万美元项目的国会批准要求。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvvku3134574.d.html</link>
+            <guid>4224470</guid>
+            <pubDate>Tue, 03 Jun 2025 19:40:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[文件显示，预计特朗普将根据《国防生产法》豁免法定要求，以帮助促进国内关键矿产和武器的生产。]]></title>
+            <guid>4224469</guid>
+            <pubDate>Tue, 03 Jun 2025 19:39:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储洛根：支持结束灵活的平均通胀目标制。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvvku3134293.d.html</link>
+            <guid>4224468</guid>
+            <pubDate>Tue, 03 Jun 2025 19:31:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储洛根：美联储应考虑如何更好地传达关键风险、不确定性以及政策应对措施，应关注实现充分就业时的超调情况，而不仅仅是就业不足的问题。应专注于实现2%的通胀目标，而不是试图弥补过去的通胀不足。货币政策框架应具备应对各种情景的弹性。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvvks4941940.d.html</link>
+            <guid>4224465</guid>
+            <pubDate>Tue, 03 Jun 2025 19:30:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【泽连斯基：反对单方面重启扎波罗热核电站】当地时间6月3日，乌克兰总统泽连斯基与国际原子能机构总干事格罗西举行会谈。泽连斯基表示，双方讨论了乌克兰核设施的安全问题，此外双方还讨论了赫梅利尼茨基核电站竣工、铀矿开采以及切尔诺贝利核电站受损石棺的修复等问题。泽连斯基表示，俄罗斯任何关于在没有乌克兰参与的情况下重启扎波罗热核电站的想法都是荒谬且危险的。他强调国际原子能机构为此应该驻扎在核电站。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvvku3134256.d.html</link>
+            <guid>4224464</guid>
+            <pubDate>Tue, 03 Jun 2025 19:30:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【泽连斯基高级助手与特朗普特使Witkoff在美国会晤】乌克兰总统泽连斯基的高级助手Andriy Yermak表示，他与美国总统特使Steve Witkoff会晤。Yermak表示，他和Witkoff讨论了乌克兰和俄罗斯代表团在伊斯坦布尔的会谈。Yermak重申乌克兰已准备好停火并举行领导人会晤，以实现和平。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvvks4941889.d.html</link>
+            <guid>4224463</guid>
+            <pubDate>Tue, 03 Jun 2025 19:28:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国劳工局：将于周五纠正4月就业报告 影响可以忽略不计】美国劳工局表示，将于周五纠正4月就业报告，失业率等大部分指标并未受到影响。许多数字需要纠正，但影响可以忽略不计。此次更正与家庭调查样本的权重有关。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvvku3134095.d.html</link>
+            <guid>4224462</guid>
+            <pubDate>Tue, 03 Jun 2025 19:26:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【厄瓜多尔通过宪法修正案 允许外国军事基地入驻】当地时间6月3日，厄瓜多尔国民代表大会（议会）全体会议在第二次辩论中，以82票赞成，60票反对和6票弃权通过宪法修正案，允许外国在厄瓜多尔建驻军事基地。该宪法修正案还需公民投票表决。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvvkr0822801.d.html</link>
+            <guid>4224461</guid>
+            <pubDate>Tue, 03 Jun 2025 19:25:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：特朗普邀请共和党参议院财政委员会周三到白宫开会。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvvku3134080.d.html</link>
+            <guid>4224460</guid>
+            <pubDate>Tue, 03 Jun 2025 19:25:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[小唐纳德·特朗普：即将推出我们的官方（加密货币）钱包。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvvkv9908506.d.html</link>
+            <guid>4224458</guid>
+            <pubDate>Tue, 03 Jun 2025 19:23:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：以色列军队正在袭击叙利亚达拉地区。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvvkv9908346.d.html</link>
             <guid>4224457</guid>
             <pubDate>Tue, 03 Jun 2025 19:18:52 GMT</pubDate>
         </item>
@@ -81,221 +294,6 @@
             <title><![CDATA[马斯克：“太空探索技术公司（SpaceX）明年来自太空业务的商业营收将超过美国国家航空航天局（NASA）的全部预算。”]]></title>
             <guid>4224444</guid>
             <pubDate>Tue, 03 Jun 2025 19:04:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恒生指数主连夜盘收涨0.12%，报23397点。恒生科技指数主连夜盘收跌0.02%，报5173点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvvku3132929.d.html</link>
-            <guid>4224443</guid>
-            <pubDate>Tue, 03 Jun 2025 19:01:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[得克萨斯州将贝莱德集团从该州的化石燃料抵制名单中移除。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvvkv9907389.d.html</link>
-            <guid>4224442</guid>
-            <pubDate>Tue, 03 Jun 2025 19:00:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列军方表示，两次导弹从叙利亚方向发射，向以色列方向飞来，落在空旷地区。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvvkv9907365.d.html</link>
-            <guid>4224441</guid>
-            <pubDate>Tue, 03 Jun 2025 18:59:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国航空公司请求美国联邦航空管理局（FAA）延长要求新客机设置驾驶舱二级防护栏的最后期限。]]></title>
-            <guid>4224440</guid>
-            <pubDate>Tue, 03 Jun 2025 18:52:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[泽连斯基对乌克兰军队进行新的人事任命。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvvkv9905764.d.html</link>
-            <guid>4224438</guid>
-            <pubDate>Tue, 03 Jun 2025 18:34:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国参议院共和党领袖图恩：大家会看到赤字减少。希望马斯克对法案能得出不同的结论，我与他之间存在“意见分歧”。我们寻求在7月4日之前的最后一周对税收法案进行全体投票。]]></title>
-            <guid>4224437</guid>
-            <pubDate>Tue, 03 Jun 2025 18:32:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI 7月原油期货收报63.41美元/桶。NYMEX 7月天然气期货收报3.7220美元/百万英热单位。NYMEX 7月汽油期货收报2.0788美元/加仑，NYMEX 7月取暖油期货收报2.0999美元/加仑。]]></title>
-            <guid>4224436</guid>
-            <pubDate>Tue, 03 Jun 2025 18:31:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上期所原油期货2407合约夜盘收涨0.86%，报469.00元人民币/桶。沪金夜盘收跌0.46%，沪银收涨0.20%。]]></title>
-            <guid>4224435</guid>
-            <pubDate>Tue, 03 Jun 2025 18:30:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【卡塔尔宣布向叙利亚提供电力和财政支持】据卡塔尔通讯社3日报道，卡塔尔首相兼外交大臣穆罕默德当天在多哈会见到访的叙利亚外交部门负责人希巴尼。双方会见后发表联合声明说，卡塔尔将向叙利亚提供电力和财政支持。声明说，双方就深化能源、经济、贸易、金融、旅游等领域的双边合作进行了深入探讨。卡塔尔将向叙利亚提供电力支持，卡塔尔与沙特阿拉伯将共同协助解决叙利亚对世界银行的债务问题，并将联合提供财政支持，用于支付叙利亚公共部门员工为期三个月的工资。声明还说，希巴尼代表叙利亚方面高度赞赏卡塔尔在支持叙利亚重建进程中所作出的积极努力。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvrau5068911.d.html</link>
-            <guid>4224434</guid>
-            <pubDate>Tue, 03 Jun 2025 18:27:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波兰总理：将于下周举行政府信任投票】波兰总理图斯克3日说，波兰议会将于11日对其领导的政府举行信任投票。图斯克在当天内阁会议前表示，此次信任投票将为政府自2023年10月议会选举后上任以来的工作提供评估的机会。对政府整体及各部委工作的评估将是7月的主要任务。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvraw3261343.d.html</link>
-            <guid>4224433</guid>
-            <pubDate>Tue, 03 Jun 2025 18:18:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国众议院议长约翰逊称马斯克对税收法案的看法“大错特错”】美国众议长约翰逊：马斯克对总统特朗普支持的税收立法草案的立场让人非常失望。我们昨天进行了长时间的交谈，我和他在电话里聊了超过20分钟。马斯克的言论令人非常失望，“埃隆完全错过了”。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvrat0949274.d.html</link>
-            <guid>4224432</guid>
-            <pubDate>Tue, 03 Jun 2025 18:13:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【白宫证实写信“催”贸易谈判伙伴“交方案”】当地时间6月3日，美国白宫新闻秘书表示，她可以确认有关贸易谈判截止日期的信函内容的真实性。她表示，美国贸易代表办公室向贸易伙伴发送这封信只是为了提醒这些国家截止日期即将到来，美国总统特朗普期待达成良好协议。据路透社此前报道，距离对等关税恢复期限仅剩五周，特朗普政府发出紧急信函要求各国在本周三前提交贸易谈判的最佳方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvrau5068140.d.html</link>
-            <guid>4224431</guid>
-            <pubDate>Tue, 03 Jun 2025 18:13:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储贴现利率会议纪要：一些董事表示，他们所在地区的企业已表示未来可能需要裁员，以吸收与关税和某些行业政府资金减少相关的成本。]]></title>
-            <guid>4224430</guid>
-            <pubDate>Tue, 03 Jun 2025 18:10:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储贴现利率会议纪要：几位理事就与关税相关的预期价格压力发表了评论，包括消费者价格上涨。劳动力市场状况依然健康，一些董事指出人员流动率低且裁员人数有限。鉴于不确定性加剧，许多董事注意到消费者和企业对其支出和未来计划变得更加谨慎。虽然大多数董事认为近期经济状况总体稳定，但他们也对不断变化的贸易和其他政策对经济活动、价格和就业的潜在影响表示担忧。]]></title>
-            <guid>4224429</guid>
-            <pubDate>Tue, 03 Jun 2025 18:10:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰陆军司令德拉帕特宣布将继续留任】当地时间6月3日获悉，乌克兰武装部队陆军司令米哈伊洛·德拉帕特宣布将继续留任。据此前消息，德拉帕特当地时间1日通过社交媒体宣布，基于对第239号训练场悲剧所肩负的个人责任，他决定辞去现有职务。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvrau5067718.d.html</link>
-            <guid>4224428</guid>
-            <pubDate>Tue, 03 Jun 2025 18:08:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【高盛警告称：美元兑欧元融资需求减弱】 高盛公司表示，衡量全球货币需求的一项关键指标显示，投资者对欧元融资的偏好正在上升。高盛分析师Simon Freycenet和Friedrich Schaper在一份报告中写道：“在欧元区历史上的大部分时间里，投资者一直在支付溢价以在交叉货币基差互换市场中获得美元融资。展望未来，我们的分析表明，欧洲央行的政策以及大西洋两岸的储蓄投资动态与基差随时间推移而上升，美元借款的溢价将变成折价。”高盛认为，推动欧元兑美元溢价上升的因素包括：“与美联储相比，欧洲央行的资产负债表缩减还有很长的路要走。”美国长期存在的预算赤字相对于欧洲稳固的净国际投资头寸。美元资产（尤其是美国股票）的外汇对冲增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvrat0948639.d.html</link>
-            <guid>4224427</guid>
-            <pubDate>Tue, 03 Jun 2025 18:07:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国向贸易伙伴施压 要求周三前提供谈判“最佳方案”】美国总统特朗普4月2日公布了面向全球广泛的对等关税，引发全球贸易市场轩然大波。4月9日，特朗普暂停了对大多数美国贸易伙伴的对等关税，暂停期限为90天，将高额关税的生效期推迟到7月9日。据路透社报道，距离对等关税恢复期限仅剩五周，特朗普政府发出紧急信函要求各国在本周三前提交贸易谈判的最佳方案。报道称，该草案表明，美国政府内部对完成交易存在紧迫感。尽管白宫国家经济委员会主任凯文·哈西特反复承诺多项协议即将达成，但迄今为止，美国仅与英国这一主要贸易伙伴达成协议，且该协议更像是持续谈判的框架而非最终交易。报道称，目前尚不清楚这封信会具体发送给哪些国家，但目标是那些正在进行积极谈判的包括日本、越南、印度等国家以及欧盟。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvraw3260313.d.html</link>
-            <guid>4224426</guid>
-            <pubDate>Tue, 03 Jun 2025 18:02:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美媒：特朗普提议伊核协议新框架 伊朗将数日后回应】据纽约时报报道，特朗普政府正提议达成一项协议，允许伊朗继续进行低浓度铀浓缩活动，同时美国和其他国家将制定更详细的计划，以阻止伊朗发展核武器，同时允许其获得用于新核电站的核燃料。该提议是当前局势与美国目标之间的桥梁，当前伊朗正在迅速生产接近武器级的浓缩铀，而美国的目标是伊朗在其本土完全不进行铀浓缩活动。根据该提议，美国将协助伊朗建造核电站，并就由地区国家组成的财团管理浓缩设施的建设进行谈判。一旦伊朗从这些承诺中获得任何好处，就必须停止在该国进行的所有铀浓缩活动。欧洲官员描述了这项潜在协议的大纲，这项提议于周末提交给了伊朗。伊朗官员表示，将在几天后做出回应。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvraw3260253.d.html</link>
-            <guid>4224425</guid>
-            <pubDate>Tue, 03 Jun 2025 18:01:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储发布贴现利率政策会议的纪要。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvray0034701.d.html</link>
-            <guid>4224424</guid>
-            <pubDate>Tue, 03 Jun 2025 18:00:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国在伊朗核谈判中提议采取临时步骤，允许一定程度的铀浓缩。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvrat0947994.d.html</link>
-            <guid>4224423</guid>
-            <pubDate>Tue, 03 Jun 2025 17:59:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[布伦特原油日内涨幅达2.0%，报65.93美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvray0034505.d.html</link>
-            <guid>4224422</guid>
-            <pubDate>Tue, 03 Jun 2025 17:56:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫新闻秘书莱维特：美国总统特朗普将在今天签署钢、铝关税令，将于明日将钢、铝进口关税提高一倍至 50%并生效。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvrau5066303.d.html</link>
-            <guid>4224421</guid>
-            <pubDate>Tue, 03 Jun 2025 17:50:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事库克：美联储关于缩减资产负债表的目标尚未改变。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvray0034058.d.html</link>
-            <guid>4224420</guid>
-            <pubDate>Tue, 03 Jun 2025 17:47:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国斯巴鲁：2025年5月汽车销量为52,292辆。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvrat0947048.d.html</link>
-            <guid>4224419</guid>
-            <pubDate>Tue, 03 Jun 2025 17:46:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫新闻秘书莱维特：知晓有关以色列军队向加沙寻求援助者开火的报道。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvraw3259485.d.html</link>
-            <guid>4224418</guid>
-            <pubDate>Tue, 03 Jun 2025 17:45:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[卡塔尔证券交易所因开斋节假期于6月5日至9日休市。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvray0033734.d.html</link>
-            <guid>4224417</guid>
-            <pubDate>Tue, 03 Jun 2025 17:42:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫新闻秘书莱维特：美国总统特朗普事先未被告知乌克兰无人机袭击事件。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvrat0946711.d.html</link>
-            <guid>4224416</guid>
-            <pubDate>Tue, 03 Jun 2025 17:41:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事库克：始终关注市场运行情况，债券市场在4月压力之下表现出韧性。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvraw3259193.d.html</link>
-            <guid>4224415</guid>
-            <pubDate>Tue, 03 Jun 2025 17:41:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫新闻秘书莱维特： 美国总统特朗普对波兰选举结果感到满意。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvray0033658.d.html</link>
-            <guid>4224414</guid>
-            <pubDate>Tue, 03 Jun 2025 17:40:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫新闻秘书莱维特： 美国总统特朗普知道马斯克在预算草案方面的立场。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvraw3259086.d.html</link>
-            <guid>4224413</guid>
-            <pubDate>Tue, 03 Jun 2025 17:39:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【初步计票结果显示李在明赢得韩国总统大选】截至当地时间6月4日凌晨2时30分，韩国第21届总统大选开票率已达94%，共同民主党总统候选人李在明以48.8%的得票率确定当选韩国第21届总统。韩国第21届总统大选正式投票于当地时间6月3日6时正式开始。韩国中央选举管理委员会此前预计，最终计票结果在当地时间4日6时左右得出。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvray0033543.d.html</link>
-            <guid>4224412</guid>
-            <pubDate>Tue, 03 Jun 2025 17:38:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事库克：无法预先判断联邦公开市场委员会（FOMC）将如何调整利率。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvrat0946481.d.html</link>
-            <guid>4224411</guid>
-            <pubDate>Tue, 03 Jun 2025 17:38:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事库克：美联储在人工智能（AI）方面的工作非常有限且谨慎，美联储必须对所有可能性保持“开放”态度。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvray0033404.d.html</link>
-            <guid>4224410</guid>
-            <pubDate>Tue, 03 Jun 2025 17:35:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫新闻秘书莱维特：美国贸易代表格里尔在巴黎与贸易伙伴会面，很快将发布协议公告。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvrat0946195.d.html</link>
-            <guid>4224409</guid>
-            <pubDate>Tue, 03 Jun 2025 17:34:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马斯克：开支草案“让人感到厌恶”】马斯克在社交媒体发文称，目前这项规模庞大、荒唐可笑、充斥着政治目的国会支出法案令人厌恶至极。那些投票支持的人是可耻的：你们知道自己做错了。这将使本已巨大的预算赤字大幅增加到2.5万亿美元，并使美国公民背负难以承受的债务负担。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvrat0946182.d.html</link>
-            <guid>4224408</guid>
-            <pubDate>Tue, 03 Jun 2025 17:33:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫新闻秘书莱维特：白宫将于今日提交削减开支方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-04/detail-ineyvray0033252.d.html</link>
-            <guid>4224407</guid>
-            <pubDate>Tue, 03 Jun 2025 17:31:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫新闻秘书莱维特：美国国会山共和党成员们反对总统特朗普支持的“大漂亮法案”（草案）是错误的做法，国会预算办公室（CBO）在经济影响方面一直存在历史性误判。]]></title>
-            <guid>4224406</guid>
-            <pubDate>Tue, 03 Jun 2025 17:30:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
