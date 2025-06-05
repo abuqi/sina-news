@@ -6,8 +6,266 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 4228121,
+            "content_html": "",
+            "title": "比特币失守101000美元/枚，日内跌幅3.55%。",
+            "date_modified": "2025-06-05T20:21:54.000Z"
+        },
+        {
+            "id": 4228120,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqt7870041.d.html",
+            "title": "【马斯克：特朗普应该被弹劾】在转发有关是否应该对美国总统特朗普进行弹劾的帖子中，马斯克表示赞同。",
+            "date_modified": "2025-06-05T20:20:50.000Z"
+        },
+        {
+            "id": 4228119,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqs1095450.d.html",
+            "title": "特朗普称希望税收法案“毫无延误地”获得通过。",
+            "date_modified": "2025-06-05T20:18:46.000Z"
+        },
+        {
+            "id": 4228118,
+            "content_html": "",
+            "title": "博通第二财季调整后净营收150亿美元，分析师预期149.6亿美元。 第二财季半导体解决方案营收84.1亿美元，分析师预期83.9亿美元。 预计第三财季营收大约158亿美元，分析师预期157.2亿美元。 博通盘后跌3.66%。",
+            "date_modified": "2025-06-05T20:16:22.000Z"
+        },
+        {
+            "id": 4228117,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqs1095302.d.html",
+            "title": "马斯克讲话后ROCKET LAB股价盘后大涨5%。",
+            "date_modified": "2025-06-05T20:15:05.000Z"
+        },
+        {
+            "id": 4228116,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqq2997352.d.html",
+            "title": "特斯拉美股盘后跌幅扩大至3%，加密货币短线下挫，以太坊跌破2500美元/枚，日内跌4.22%。",
+            "date_modified": "2025-06-05T20:14:40.000Z"
+        },
+        {
+            "id": 4228115,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqv5987284.d.html",
+            "title": "摩根大通称新兴市场货币受到美国例外论减弱的支撑。",
+            "date_modified": "2025-06-05T20:14:32.000Z"
+        },
+        {
+            "id": 4228114,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqs1095202.d.html",
+            "title": "【葡萄牙新政府宣誓就职】葡萄牙社民党主席、民主联盟领导人蒙特内格罗5日下午正式就任葡萄牙新一届政府总理，新政府的16名部长也同时宣誓就职。新政府中，上一届政府绝大多数关键部长留任，体现了新政府的政策延续性。（新华社）",
+            "date_modified": "2025-06-05T20:12:23.000Z"
+        },
+        {
+            "id": 4228113,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqv5987191.d.html",
+            "title": "马斯克：鉴于总统关于取消我的政府合同的声明，spacex将立即开始让龙飞船退役。",
+            "date_modified": "2025-06-05T20:11:47.000Z"
+        },
+        {
+            "id": 4228112,
+            "content_html": "",
+            "title": "旧金山网络签名服务商DocuSign（DOCU）美股盘后跳水12.81%。该公司一季度营收7.637亿美元，分析师预期7.481亿美元。预计全年营收31.5亿-31.6亿美元，公司原本预计31.3亿-31.4亿美元。预计二季度营收7.77亿-7.81亿美元，分析师预期7.746亿美元。",
+            "date_modified": "2025-06-05T20:10:49.000Z"
+        },
+        {
+            "id": 4228111,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqq2997158.d.html",
+            "title": "葡萄牙将于2025年提前实现2%的国防开支目标。",
+            "date_modified": "2025-06-05T20:08:43.000Z"
+        },
+        {
+            "id": 4228110,
+            "content_html": "",
+            "title": "露露柠檬（LULU）美股盘后跳水11.12%，该公司维持全年净销售预期在111.5亿-113.0亿美元不变，分析师预期112.9亿美元。预计二季度净营收25.4亿-25.6亿美元，分析师预期25.7亿美元。",
+            "date_modified": "2025-06-05T20:08:06.000Z"
+        },
+        {
+            "id": 4228109,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqs1095035.d.html",
+            "title": "美国总统特朗普：我不介意马斯克反对我，但他应该早几个月就这么做了。",
+            "date_modified": "2025-06-05T20:08:01.000Z"
+        },
+        {
+            "id": 4228108,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqt7869466.d.html",
+            "title": "美国财政部发布特朗普再度担任总统以来首份半年度汇率报告。",
+            "date_modified": "2025-06-05T20:05:54.000Z"
+        },
+        {
+            "id": 4228107,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqq2996845.d.html",
+            "title": "稳定币发行人Circle美国IPO首日收涨168%。",
+            "date_modified": "2025-06-05T20:02:12.000Z"
+        },
+        {
+            "id": 4228106,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqq2996817.d.html",
+            "title": "特斯拉收跌14%，创3月10日以来最差单日表现。",
+            "date_modified": "2025-06-05T20:01:45.000Z"
+        },
+        {
+            "id": 4228105,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqs1094762.d.html",
+            "title": "CoreWeave收跌17%，创3月份美国IPO以来最差单日表现。",
+            "date_modified": "2025-06-05T20:01:39.000Z"
+        },
+        {
+            "id": 4228104,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqs1094739.d.html",
+            "title": "美国财政部：财政部发布关于美国主要贸易伙伴宏观经济和外汇政策的报告。",
+            "date_modified": "2025-06-05T20:01:09.000Z"
+        },
+        {
+            "id": 4228103,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqs1094718.d.html",
+            "title": "美国称没有将任何国家列为汇率操纵国。",
+            "date_modified": "2025-06-05T20:00:44.000Z"
+        },
+        {
+            "id": 4228102,
+            "content_html": "",
+            "title": "纳斯达克金龙中国指数初步收涨约0.5%。热门中概股新东方初步收涨3.5%，小马智行、百度、网易涨超1%，京东则跌0.9%，小鹏跌1.8%，蔚来跌3.7%，文远知行跌5.2%。中概ETF YINN、CQQQ、KWEB、DRAG至多涨1.8%。",
+            "date_modified": "2025-06-05T20:00:24.000Z"
+        },
+        {
+            "id": 4228101,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqt7869166.d.html",
+            "title": "【美股三大指数集体收跌 特斯拉跌超14%】美股三大指数集体收跌，道指跌0.25%，纳指跌0.83%，标普500指数跌0.53%，热门科技股多数下跌，特斯拉跌超14%，为3月10日以来最差单日表现，苹果、英伟达跌超1%。金属原材料与采矿涨幅居前，泛美白银涨超7%，美洲白银公司涨超4%，南方铜业涨超2%。加密货币、太空概念股跌幅居前，Bit Digital跌近9%，维珍银河跌超7%，Coinbase跌超4%。",
+            "date_modified": "2025-06-05T20:00:17.000Z"
+        },
+        {
+            "id": 4228100,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqs1094622.d.html",
+            "title": "纳斯达克首席执行官表示，尽管关税担忧，但IPO需求提振。",
+            "date_modified": "2025-06-05T19:59:05.000Z"
+        },
+        {
+            "id": 4228099,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqv5986522.d.html",
+            "title": "【以军对黎南部村庄发出新一轮撤离警告】当地时间5日晚，以色列国防军向黎巴嫩南部艾因卡纳（Ain Qana）村的居民发出紧急警告，要求当地居民立即撤离指定建筑物及其毗邻的建筑物，并警告其位于真主党的设施附近。据黎巴嫩国际广播公司援引据黎军方消息人士的话称，黎巴嫩军队5日晚试图通过联系协调机制对受以军威胁地点进行视察，来阻止以色列对贝鲁特南郊的空袭，但是遭到以色列国防军的拒绝。",
+            "date_modified": "2025-06-05T19:56:36.000Z"
+        },
+        {
+            "id": 4228098,
+            "content_html": "",
+            "title": "消息人士：城堡证券总裁表示公司正着眼于加密货币领域的扩张，目前尚无围绕该事件采取任何行动的计划。",
+            "date_modified": "2025-06-05T19:55:23.000Z"
+        },
+        {
+            "id": 4228096,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqs1094322.d.html",
+            "title": "城堡证券总裁Esposito：公司支持隔夜交易。",
+            "date_modified": "2025-06-05T19:52:02.000Z"
+        },
+        {
+            "id": 4228095,
+            "content_html": "",
+            "title": "周四（6月5日）纽约尾盘，ICE美元指数涨0.03%，报98.811点，日内交投区间为98.351-98.941点，北京时间21:00-00:00出现一波V形反转。彭博美元指数跌0.06%，报1208点，日内交投区间为1209.67-1204.31点。",
+            "date_modified": "2025-06-05T19:51:31.000Z"
+        },
+        {
+            "id": 4228094,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqs1093795.d.html",
+            "title": "日本宇航研究开发机构正在努力与其月球着陆器建立联系。",
+            "date_modified": "2025-06-05T19:43:12.000Z"
+        },
+        {
+            "id": 4228093,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqt7867919.d.html",
+            "title": "以色列军方警告黎巴嫩南部村庄居民在空袭前撤离。",
+            "date_modified": "2025-06-05T19:37:45.000Z"
+        },
+        {
+            "id": 4228091,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqs1093387.d.html",
+            "title": "【美联储官员Schmid：评估关税影响时需要保持灵活性】堪萨斯城联邦储备银行行长Jeff Schmid表示，他和他的同事在评估关税将如何影响经济时需要保持灵活性。Schmid为周四在堪萨斯城一场活动事先准备好的讲稿中表示：“虽然关税可能会推高价格，但幅度尚不确定，而且可能在一段时间内不会完全显现出来。同样，对经济增长和就业的拖累程度也尚不明确。”他指出，尽管数据显示经济依然强劲，而且接近美联储最大就业和物价稳定的双重目标，但前景“非常不明朗”。",
+            "date_modified": "2025-06-05T19:36:59.000Z"
+        },
+        {
+            "id": 4228090,
+            "content_html": "",
+            "title": "海南省气象台2025年06月06日03时24分发布海上雷雨大风黄色预警信号：本岛南部海面04时到11时可能出现雷雨大风天气，风力达7～9级，并伴有强雷电。",
+            "date_modified": "2025-06-05T19:36:02.000Z"
+        },
+        {
+            "id": 4228089,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqt7867405.d.html",
+            "title": "【特朗普与马斯克关系破裂 特斯拉市值迅速蒸发千亿美元】当地时间5日，在美国总统特朗普与特拉斯首席执行官马斯克的关系公开破裂后，特斯拉股价暴跌，市值蒸发约1000亿美元。截至当日下午3时14分，特斯拉股价下跌15.59%。",
+            "date_modified": "2025-06-05T19:26:10.000Z"
+        },
+        {
+            "id": 4228088,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqt7867332.d.html",
+            "title": "【轰炸仍在持续 以军半小时内9次轰炸黎首都南部多座建筑】当地时间5日晚，在过去的半小时内，以色列无人机9次轰炸了黎巴嫩首都贝鲁特南郊的多座建筑物。目前以军对贝鲁特南郊的空袭仍在持续。稍早前，以军向黎巴嫩贝鲁特南郊民众发出撤离令，随后对目标地区发动无人机空袭，而当地平民仍在试图逃离。",
+            "date_modified": "2025-06-05T19:24:53.000Z"
+        },
+        {
+            "id": 4228087,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqq2994661.d.html",
+            "title": "特朗普媒体科技集团跌幅一度扩大至9%。",
+            "date_modified": "2025-06-05T19:24:42.000Z"
+        },
+        {
+            "id": 4228086,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqq2994624.d.html",
+            "title": "【国际油价5日上涨】国际油价5日上涨。截至当天收盘，纽约商品交易所7月交货的轻质原油期货价格上涨52美分，收于每桶63.37美元，涨幅为0.83%；8月交货的伦敦布伦特原油期货价格上涨48美分，收于每桶65.34美元，涨幅为0.74%。",
+            "date_modified": "2025-06-05T19:23:44.000Z"
+        },
+        {
+            "id": 4228085,
+            "content_html": "",
+            "title": "美国参议院多数党领导人Thune：马斯克与总统特朗普的纷争不至于影响到参议院的税收立法草案（进程）。",
+            "date_modified": "2025-06-05T19:21:18.000Z"
+        },
+        {
+            "id": 4228084,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqv5984348.d.html",
+            "title": "纳斯达克100指数跌幅扩大至1%，标普500指数跌0.7%。",
+            "date_modified": "2025-06-05T19:18:52.000Z"
+        },
+        {
+            "id": 4228083,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqt7867040.d.html",
+            "title": "比特币跌破102000美元/枚，日内跌2.58%。",
+            "date_modified": "2025-06-05T19:18:37.000Z"
+        },
+        {
+            "id": 4228082,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqs1092489.d.html",
+            "title": "随着特朗普与马斯克互相攻击，特斯拉股价跌幅扩大至。",
+            "date_modified": "2025-06-05T19:17:15.000Z"
+        },
+        {
             "id": 4228081,
             "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqt7866969.d.html",
             "title": "以色列军方表示，其正在攻击贝鲁特南部郊区的真主党（Hezbollah）目标。",
             "date_modified": "2025-06-05T19:16:47.000Z"
         },
@@ -86,265 +344,6 @@
             "content_html": "",
             "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1790元，较周三夜盘收盘跌30点。成交量481.05亿美元。",
             "date_modified": "2025-06-05T19:04:42.000Z"
-        },
-        {
-            "id": 4228069,
-            "content_html": "",
-            "title": "美国证券交易委员会（SEC）新任主席要求员工停止发送有关工作活动的要点式电子邮件。",
-            "date_modified": "2025-06-05T19:04:28.000Z"
-        },
-        {
-            "id": 4228068,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqt7866428.d.html",
-            "title": "在特朗普6月14日的阅兵式期间，华盛顿特区的里根国家机场将关闭长达四个小时。",
-            "date_modified": "2025-06-05T19:04:20.000Z"
-        },
-        {
-            "id": 4228067,
-            "content_html": "",
-            "title": "标准普尔维持巴西“BB/B”评级；前景稳定。",
-            "date_modified": "2025-06-05T19:02:05.000Z"
-        },
-        {
-            "id": 4228065,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqt7866300.d.html",
-            "title": "恒指期货夜盘收涨0.11%，报23822点，低水85点。",
-            "date_modified": "2025-06-05T19:00:37.000Z"
-        },
-        {
-            "id": 4228064,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqs1091785.d.html",
-            "title": "英国财政大臣里夫斯：最新的国内生产总值（GDP）和商业调查显示，我们正开始好转。",
-            "date_modified": "2025-06-05T19:00:14.000Z"
-        },
-        {
-            "id": 4228063,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqt7866260.d.html",
-            "title": "【巴西总统呼吁法国支持南共市-欧盟自贸协定】正在法国进行国事访问的巴西总统卢拉5日在巴黎呼吁法国总统马克龙支持南方共同市场（南共市）-欧盟自由贸易协定。卢拉当天在法国总统府与马克龙共同举行的记者会上说，在美国全球范围内加征关税的背景下，南共市-欧盟自贸协定“将是我们在单边主义和关税保护主义卷土重来所造成的不确定环境中能作出的最佳回应”。卢拉说，他即将担任南共市轮值主席，在其6个月任期内，他将努力促成签署这项协定。（新华社）",
-            "date_modified": "2025-06-05T18:59:47.000Z"
-        },
-        {
-            "id": 4228062,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqq2993605.d.html",
-            "title": "【联合国缅怀2024年因公殉职工作人员】联合国5日在纽约总部举行一年一度的追悼仪式，缅怀2024年因公殉职的168名联合国工作人员。联合国秘书长古特雷斯在追悼仪式上说，因公殉职的联合国工作人员体现了联合国使命的本质。当冲突爆发时，他们为和平奔波；当暴力和灾难来临时，他们提供救命物资；当弱者需要帮助时，他们努力确保不落下一人。在国际合作和多边主义遭质疑的今天，他们早逝的生命更具有激励作用。",
-            "date_modified": "2025-06-05T18:57:50.000Z"
-        },
-        {
-            "id": 4228061,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqv5983383.d.html",
-            "title": "市场消息：美国参议院共和党成员们寻求保护国家航空航天局（NASA）的那些项目。官员们讨论将大约100亿美元资金投向阿尔忒弥斯（Artemis）计划以及国际空间站。",
-            "date_modified": "2025-06-05T18:54:38.000Z"
-        },
-        {
-            "id": 4228060,
-            "content_html": "",
-            "title": "特斯拉股价最新下跌12.1%，特朗普暗示他可能会终止美国政府给予埃隆·马斯克旗下公司的合同和补贴。",
-            "date_modified": "2025-06-05T18:54:25.000Z"
-        },
-        {
-            "id": 4228059,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqs1091443.d.html",
-            "title": "纳斯达克CEO：公司已在所有产品路线图中构建人工智能能力。",
-            "date_modified": "2025-06-05T18:52:11.000Z"
-        },
-        {
-            "id": 4228058,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqt7865845.d.html",
-            "title": "马斯克：特朗普要求他离开的说法是一个“谎言”。",
-            "date_modified": "2025-06-05T18:50:20.000Z"
-        },
-        {
-            "id": 4228057,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqq2993028.d.html",
-            "title": "【哈马斯高级官员：准备进行谈判 以彻底结束冲突】当地时间5日晚，巴勒斯坦伊斯兰抵抗运动（哈马斯）高级官员哈利勒·哈亚表示，哈马斯方面正准备进行谈判，以彻底结束冲突并允许援助物资进入加沙。（央视新闻）",
-            "date_modified": "2025-06-05T18:48:52.000Z"
-        },
-        {
-            "id": 4228056,
-            "content_html": "",
-            "title": "纳斯达克CEO：（得克萨斯州正在成为资本市场中心）为亲商环境且是公司的增长区域，公司希望在该州拥有强大的影响力。",
-            "date_modified": "2025-06-05T18:48:25.000Z"
-        },
-        {
-            "id": 4228055,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqq2992730.d.html",
-            "title": "纳斯达克CEO：（谈及隔夜交易）公司可能在一年内启动并运行隔夜交易。公司首先专注于引入每周5天、每天24小时的交易制度。",
-            "date_modified": "2025-06-05T18:46:06.000Z"
-        },
-        {
-            "id": 4228054,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqv5982611.d.html",
-            "title": "特斯拉日内跌超11%，马斯克与特朗普持续相互批评。",
-            "date_modified": "2025-06-05T18:45:06.000Z"
-        },
-        {
-            "id": 4228053,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqs1090590.d.html",
-            "title": "纳斯达克CEO：（谈加密货币市场时）美国围绕加密货币交易所的监管环境仍在不断形成之中。随着监管环境变得清晰，将关注相关机遇。",
-            "date_modified": "2025-06-05T18:41:10.000Z"
-        },
-        {
-            "id": 4228052,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqs1090319.d.html",
-            "title": "【特朗普称省钱最简单的方法就是终止马斯克的合同】美国总统特朗普在社交媒体表示，马斯克此前“状态不佳”，我曾让他离开（政府效率部），还取消了他推行的电动车强制销售规定——这项规定强迫所有人购买没人想要的电动车（而他几个月前就知道我会这么做！），结果他彻底疯了！在我们的预算中节省数百亿、数千亿美元最简单的方法，就是终止马斯克的政府补贴和合同。我一直很惊讶拜登居然没这么做！",
-            "date_modified": "2025-06-05T18:38:33.000Z"
-        },
-        {
-            "id": 4228051,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqq2991927.d.html",
-            "title": "德国总理默茨：对华盛顿之行“非常满意”。",
-            "date_modified": "2025-06-05T18:38:14.000Z"
-        },
-        {
-            "id": 4228050,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqq2991793.d.html",
-            "title": "巴西贸易官员：5月家禽出口下降是由于禽流感病例导致的限制措施",
-            "date_modified": "2025-06-05T18:36:36.000Z"
-        },
-        {
-            "id": 4228048,
-            "content_html": "",
-            "title": "纳斯达克CEO：（当谈及IPO市场）受到关税影响的公司正采取观望态度，等待时机进行上市。过去几年一直存在大量积压的需求和供应。",
-            "date_modified": "2025-06-05T18:34:45.000Z"
-        },
-        {
-            "id": 4228047,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqv5981551.d.html",
-            "title": "市场消息：新日铁与美国钢铁公司有望在本月晚些时候的交易截止日期前敲定交易。",
-            "date_modified": "2025-06-05T18:34:00.000Z"
-        },
-        {
-            "id": 4228046,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqt7864414.d.html",
-            "title": "德国总理默茨：今日为七国集团（G7）和北约框架下与特朗普的良好会谈奠定基础。",
-            "date_modified": "2025-06-05T18:32:44.000Z"
-        },
-        {
-            "id": 4228045,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqv5981395.d.html",
-            "title": "德国总理默茨：已同意在贸易问题上加强与白宫的合作。",
-            "date_modified": "2025-06-05T18:32:16.000Z"
-        },
-        {
-            "id": 4228044,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqt7864352.d.html",
-            "title": "纳斯达克CEO：美国经济的基本面持续展现出韧性。",
-            "date_modified": "2025-06-05T18:31:52.000Z"
-        },
-        {
-            "id": 4228043,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqt7864325.d.html",
-            "title": "德国总理默茨：试图向美国总统特朗普解释欧洲联盟的作用，强调这并非对美国的攻击。与美国总统特朗普的贸易会谈进行得非常顺利。",
-            "date_modified": "2025-06-05T18:31:23.000Z"
-        },
-        {
-            "id": 4228042,
-            "content_html": "",
-            "title": "WTI 7月原油期货收报63.37美元/桶。NYMEX 7月天然气期货收报3.6770美元/百万英热单位。NYMEX 7月汽油期货收报2.0629美元/加仑，NYMEX 7月取暖油期货收报2.0945美元/加仑。",
-            "date_modified": "2025-06-05T18:30:56.000Z"
-        },
-        {
-            "id": 4228041,
-            "content_html": "",
-            "title": "上期所原油期货2407合约夜盘收涨0.52%，报467.10元人民币/桶。沪金夜盘收跌0.46%，沪银收涨2.89%。",
-            "date_modified": "2025-06-05T18:30:21.000Z"
-        },
-        {
-            "id": 4228040,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqs1089752.d.html",
-            "title": "德国总理默茨：美国国会将对俄罗斯采取何种措施尚不确定。",
-            "date_modified": "2025-06-05T18:30:13.000Z"
-        },
-        {
-            "id": 4228039,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqt7864212.d.html",
-            "title": "德国总理默茨：与特朗普的讨论非常好。",
-            "date_modified": "2025-06-05T18:29:23.000Z"
-        },
-        {
-            "id": 4228038,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqt7864180.d.html",
-            "title": "【发布撤离令后 以军对黎巴嫩贝鲁特南郊发动无人机空袭】当地时间6月5日夜间，在威胁轰炸贝鲁特南郊后，以色列国防军已开始发动初步无人机空袭，而当地平民仍在试图逃离目标地区。（央视新闻）",
-            "date_modified": "2025-06-05T18:29:10.000Z"
-        },
-        {
-            "id": 4228037,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqv5981145.d.html",
-            "title": "【联合国秘书长对加沙决议遭否决失望】当地时间6月5日上午，在回答央视记者徐德智的提问时，联合国秘书长古特雷斯表示对此前一天美国在安理会独家否决加沙决议感到失望。古特雷斯说，联合国会尽一切努力，但显然只有实现加沙地带永久停火，立即无条件释放所有人质，以及为人道主义援助提供无限制准入的情况下，才能真正有效地支持加沙人民。（CCTV国际时讯）",
-            "date_modified": "2025-06-05T18:28:49.000Z"
-        },
-        {
-            "id": 4228036,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqt7864079.d.html",
-            "title": "德国总理默茨：已邀请美国总统特朗普前往德国。",
-            "date_modified": "2025-06-05T18:28:09.000Z"
-        },
-        {
-            "id": 4228035,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqq2990958.d.html",
-            "title": "哈马斯领导人：其组织没有拒绝美国中东特使维特科夫的加沙停火提议，而是要求做出一些改变和改进以确保战争结束。准备开启新一轮停火谈判，加沙停火谈判正在与调解人进行中。",
-            "date_modified": "2025-06-05T18:24:17.000Z"
-        },
-        {
-            "id": 4228034,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqt7863577.d.html",
-            "title": "【加拿大4月商品贸易逆差达71亿加元 创历史最高纪录】当地时间5日，加拿大统计局发布数据显示，由于美国关税导致出口急剧下降，加拿大对全球的商品贸易逆差从3月份的23亿加元扩大至4月的71亿加元，为有记录以来的最大逆差。数据显示，4月份加拿大整体出口额下降了10.8%，至604亿加元，为2023年6月以来的最低水平。汽车及零部件、消费品、能源产品等行业的出口出现显著下降。4月份进口总额下降3.5%，至676亿加元，其中汽车及零部件、工业机械设备及零部件、消费品以及电子电器设备及零部件的进口均出现大幅下降。（央视新闻）",
-            "date_modified": "2025-06-05T18:23:32.000Z"
-        },
-        {
-            "id": 4228033,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqq2990816.d.html",
-            "title": "AWS：宣布亚马逊 EC2 NVIDIA GPU 加速实例最高降价 45%。",
-            "date_modified": "2025-06-05T18:22:28.000Z"
-        },
-        {
-            "id": 4228032,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezaiqv5980668.d.html",
-            "title": "【美军举行“立即响应25”大规模军演】美国军队5月26日至6月9日在希腊、阿尔巴尼亚和保加利亚等八个国家和地区举行代号为“立即响应25”（Immediate Response 25）的大规模军事演习，超过12000人参加了军演。军演内容包括实弹演习、网络演习、水上渡河演习和针对化学、生物、放射性与核爆炸物的演习。",
-            "date_modified": "2025-06-05T18:21:32.000Z"
-        },
-        {
-            "id": 4228031,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezachv7993734.d.html",
-            "title": "特斯拉股价延续跌势，最新下跌10%。",
-            "date_modified": "2025-06-05T18:18:47.000Z"
-        },
-        {
-            "id": 4228030,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-06-06/detail-inezachx6111051.d.html",
-            "title": "【马斯克：将于今年晚些时候上线下一代AI芯片Dojo 2】马斯克表示，特斯拉Dojo AI 训练计算机正在取得进展。我们将于今年晚些时候上线下一代AI芯片Dojo 2。一项新技术要经过三次重大迭代才能成为伟大的技术。Dojo 2已经很好了，但Dojo 3一定会更棒。",
-            "date_modified": "2025-06-05T18:16:18.000Z"
         }
     ]
 }
