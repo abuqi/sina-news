@@ -4,11 +4,160 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Tue, 10 Jun 2025 20:27:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jun 2025 21:23:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[OpenAI首席执行官Sam Altman：随着数据中心生产的自动化，人工智能成本最终将接近电费。ChatGPT平均一次查询耗电约0.34 瓦时，相当于烤箱一秒钟多一点的耗电量，或高效灯泡几分钟的耗电量。还会消耗大约0.000085加仑的水，大约是十五分之一茶匙的水。]]></title>
+            <guid>4234015</guid>
+            <pubDate>Tue, 10 Jun 2025 21:22:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【两年期美债收益率涨约1.5个基点，投资者等待美国CPI通胀数据】 周二（6月10日）纽约尾盘，美国10年期基准国债收益率跌0.39个基点，报4.4698%。两年期美债收益率涨1.47个基点，报4.0181%。20年期美债收益率跌0.87个基点，30年期美债收益率跌1.223个基点。三年期美债收益率涨0.88个基点，五年期美债收益率涨0.35个基点，七年期美债收益率跌0.26个基点。三个月期国库券/10年期美债收益率利差涨0.849个基点，报+12.646个基点。02/10年期美债收益率利差跌2.074个基点，报+44.758个基点。美国10年期通胀保值国债（TIPS）收益率涨0.55个基点，报2.1575%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrxpq2828438.d.html</link>
+            <guid>4234014</guid>
+            <pubDate>Tue, 10 Jun 2025 21:19:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿根廷最高法院维持对前总统克里斯蒂娜欺诈罪判决】当地时间6月10日，阿根廷最高法院裁决，维持对前总统克里斯蒂娜·费尔南德斯的欺诈罪名判决，以及对其6年监禁及剥夺公职权利处罚。对此克里斯蒂娜否认有任何不当行为，并称自己是政治迫害的受害者。本月稍早前克里斯蒂娜已宣布计划参加定于今年9月举行的立法选举。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrxpr9602864.d.html</link>
+            <guid>4234013</guid>
+            <pubDate>Tue, 10 Jun 2025 21:18:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【超六成主动权益基金收复“失地” 把握科技热点决胜后市】距离4月7日A股大幅回调已有两个月的时间。截至6月9日，超六成的主动权益类基金（包括普通股票型、偏股混合型、平衡混合型、灵活配置型基金）已顺利“爬坑”，基金净值重回两个月前的水平。其中，重仓创新药等板块的医药主题基金高歌猛进，向着半年度主动权益类基金“冠军宝座”发起冲击。6月初以算力为代表的人工智能（AI）产业链开始发力，多只重仓AI标的基金净值大涨，刚刚抹平过去两个月的回撤。临近年中阶段，市场风格切换引发市场热议。部分业内人士提示，近期创新药、新消费板块出现调整迹象，市场内部轮动相对充分，资金存量博弈下要警惕短期调整。6月中旬开始，红利资产将进入集中分红的时间窗口，除息日后或有兑现压力。若资金从防御类资产流出，或对其他风格的资产构成资金面利好，理论上偏进攻的科技方向会极大受益，具备产业催化因素的科技低位品种或存在超额收益机会。 (中国证券报)]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrxpr9602743.d.html</link>
+            <guid>4234012</guid>
+            <pubDate>Tue, 10 Jun 2025 21:16:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富时A50期指连续夜盘收涨0.09%，报13312点。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrxpq2828198.d.html</link>
+            <guid>4234011</guid>
+            <pubDate>Tue, 10 Jun 2025 21:15:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美媒：马斯克DOGE团队不顾政府反对在白宫安装星链】据《华盛顿邮报》，马斯克的DOGE团队今年2月不顾政府安全专家的反对，在白宫安装了星链卫星互联网系统。白宫通信专家以国家安全为由，对安装该系统表示担忧。安装星链还引发了DOGE员工与特勤局之间的冲突。DOGE工作人员在没有通知白宫通信团队的情况下，在艾森豪威尔行政办公大楼楼顶安装了星链终端，这使得白宫可以在没有标准跟踪或认证保障措施的情况下通过星链接入互联网，可能导致数据泄露或黑客入侵。目前还不清楚在马斯克退出白宫并与特朗普公开决裂后，白宫是否还安装了星链终端，但据报道，其他政府机构也使用了星链。不过特勤局发言人称： “我们知道DOGE打算改善园区的互联网接入，并不认为此事是一起安全事件或安全漏洞。”]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrtft9733289.d.html</link>
+            <guid>4234010</guid>
+            <pubDate>Tue, 10 Jun 2025 21:13:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周二（6月10日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报7.1887元，较周一纽约尾盘跌59点，日内整体交投于7.1778-7.1943元区间。]]></title>
+            <guid>4234009</guid>
+            <pubDate>Tue, 10 Jun 2025 21:07:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【6月10日美股成交额前20：OpenAI计划借助谷歌云提高算力】周二美股成交额第3名谷歌A类股收高1.43%，成交107.23亿美元。据报道，OpenAI计划使用Google云服务以获取额外的计算能力。加拿大丰业银行指出，这是“谷歌云业务的一大胜利”，不过“人们仍持续担忧ChatGPT正逐渐成为对谷歌搜索主导地位的更大威胁”。分析师Nat Schindler补充道，“鉴于两者之间的竞争，这一结果多少有些令人意外，”但他指出，“这凸显了双方愿意在激烈竞争中搁置分歧，以满足巨大的计算需求。”该公司对GOOGL评级为行业跑赢大盘，目标价为200美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrtfq5121074.d.html</link>
+            <guid>4234008</guid>
+            <pubDate>Tue, 10 Jun 2025 21:06:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全国夏粮小麦收获进度过七成 麦收重心转移至山东、河北等地】截至目前，全国夏粮小麦已收2.6亿亩，总体进度过七成。湖北、四川，安徽、河南麦收相继结束，麦收重心转移至山东、河北、陕西等小麦主产区。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrtfs2957974.d.html</link>
+            <guid>4234007</guid>
+            <pubDate>Tue, 10 Jun 2025 21:01:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国农业部长罗林斯（Rollins）将签署豁免令，允许阿肯色州、爱达荷州和犹他州禁止部分食品进入食品券计划。]]></title>
+            <guid>4234006</guid>
+            <pubDate>Tue, 10 Jun 2025 21:00:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国法官定于本周四举行听证会，审理加州关于限制军方在洛杉矶执法活动的请求。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrtfq5120710.d.html</link>
+            <guid>4234005</guid>
+            <pubDate>Tue, 10 Jun 2025 21:00:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[微软：宣布季度股息为每股0.83美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrtfs2957877.d.html</link>
+            <guid>4234004</guid>
+            <pubDate>Tue, 10 Jun 2025 20:59:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【郑钦文世界排名重回第五位 追平个人历史最高排名】6月9日，WTA官方公布了最新一期世界排名。闯入八强创造法网最佳战绩的郑钦文，本期排名从第7位升至第5位，追平了她在去年的年终总决赛后创下的个人历史最高排名。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrtfs2957696.d.html</link>
+            <guid>4234003</guid>
+            <pubDate>Tue, 10 Jun 2025 20:56:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国医学会：通过紧急决议，要求参议院对关于美国疾控中心和免疫实践咨询委员会（ACIP）的行动进行调查。（此前美国卫生部长小罗伯特·肯尼迪表示已解除了疾控中心和ACIP全部成员的职务。）]]></title>
+            <guid>4234002</guid>
+            <pubDate>Tue, 10 Jun 2025 20:55:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大工业部长Melanie Joly：加拿大将恢复实施电动汽车补贴政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrtft9732071.d.html</link>
+            <guid>4234001</guid>
+            <pubDate>Tue, 10 Jun 2025 20:55:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：将使用一切资源来平息洛杉矶的暴力事件，洛杉矶遭到“外国敌人”入侵。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrtft9731955.d.html</link>
+            <guid>4234000</guid>
+            <pubDate>Tue, 10 Jun 2025 20:53:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【纽约期金跌0.3%，涨穿3370美元之后转跌】 周二（6月10日）纽约尾盘，现货黄金跌0.10%，报3222.71美元/盎司，北京时间10:30跌至3302.03美元刷新日低，随后反弹，21:47涨至3349.18美元刷新日高。COMEX黄金期货跌0.31%，报3344.40美元/盎司，日内交投区间为3370.40-3321.30美元。费城金银指数收跌1.56%，报202.03点，日内微幅高开，随后转跌，日内大部分时间低位窄幅震荡。现货白银跌0.58%，报36.5462美元/盎司。COMEX白银期货跌0.40%，报36.650美元/盎司。COMEX铜期货跌0.18%，报4.8915美元/磅。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrtfs2957387.d.html</link>
+            <guid>4233999</guid>
+            <pubDate>Tue, 10 Jun 2025 20:52:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：正与参议员们合作推动针对焚烧国旗行为判处监禁刑罚的相关事宜。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrtft9731496.d.html</link>
+            <guid>4233998</guid>
+            <pubDate>Tue, 10 Jun 2025 20:44:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[拉美航空：2025年5月的综合运力较2024年5月增长7.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrtft9731392.d.html</link>
+            <guid>4233997</guid>
+            <pubDate>Tue, 10 Jun 2025 20:42:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【消息称美国与墨西哥即将就钢铁关税达成协议】据知情人士透露，美国和墨西哥即将达成一项协议，取消特朗普对一定数量以下的钢铁进口征收50%的关税。特朗普没有直接参与谈判，谈判由美国商务部长卢特尼克领导。上述人士称，根据目前的条款，只要美国买家将总发货量控制在基于历史贸易量的水平以下，就可以免税进口墨西哥钢材。新的上限将高于特朗普第一任期内的一项类似协议所允许的上限。美国商务部数据显示，去年美国从墨西哥进口的钢铁总量约为320万吨，占美国钢铁总进口量的12%。在特朗普第一个任期内，美国与墨西哥在2019年达成了一项协议，同意防止进口量超过2015-2017年期间的平均水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrtfs2956787.d.html</link>
+            <guid>4233996</guid>
+            <pubDate>Tue, 10 Jun 2025 20:40:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【行业周报：美国上周API原油库存下降不到40万桶，汽油库存增约300万桶】 美国石油协会（API）数据显示，6月6日当周，美国API原油库存 -37.0万桶，之前一周 -328万桶。上周API库欣原油库存 -72.8万桶，前值 +95.2万桶。上周API成品油汽油库存 +296.9万桶（前值 +473万桶）、馏分油库存 +371.2万桶（前值 +76.1万桶）。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrtft9731090.d.html</link>
+            <guid>4233995</guid>
+            <pubDate>Tue, 10 Jun 2025 20:37:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：日本和美国政府正在安排日本首相石破茂与美国总统唐纳德·特朗普举行会晤，以配合6月15日至17日在加拿大举行的G-7峰会。]]></title>
+            <guid>4233994</guid>
+            <pubDate>Tue, 10 Jun 2025 20:35:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国务卿鲁比奥：对以色列的制裁无助于美国主导的实现停火、让所有人质回家并结束战争的努力。]]></title>
+            <guid>4233993</guid>
+            <pubDate>Tue, 10 Jun 2025 20:35:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国务卿鲁比奥：美国谴责英国、加拿大、挪威、新西兰和澳大利亚政府对以色列内阁两名现任成员实施的制裁。]]></title>
+            <guid>4233992</guid>
+            <pubDate>Tue, 10 Jun 2025 20:34:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳斯达克5月下旬空头持仓较5月中旬下降了2.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrtfs2956322.d.html</link>
+            <guid>4233991</guid>
+            <pubDate>Tue, 10 Jun 2025 20:31:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【龙头上市引爆全景相机产业链 投资机构看好行业前景】随着影石创新成功登陆A股，全景相机这一影像细分赛道正引发资本市场的高度关注。在内容创作需求激增和短视频形态多元化的推动下，终端影像设备市场迎来快速增长。行业数据显示，全球全景相机零售市场规模预计将从2017年的25.1亿元攀升至2027年的78.5亿元，年复合增长率超过10%，这一蓝海市场正吸引众多硬件厂商积极布局，有消息称，全球无人机巨头大疆将于下月推出其首款消费级全景相机。以全景相机为代表的整个产业也受到资本的高度关注，接受证券时报记者采访的多家投资机构表示，看好行业的发展前景，人工智能（AI）的发展会给行业带来新的机会。 (证券时报)]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrtfs2956311.d.html</link>
+            <guid>4233990</guid>
+            <pubDate>Tue, 10 Jun 2025 20:31:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【星巴克与科技巨头合作开发AI助手 拟将每份订单缩短至四分钟】星巴克计划本月将与微软Azure的OpenAI平台合作开发的生成式人工智能助手推广至35家门店，作为其简化咖啡师工作、提高咖啡店服务速度战略的一部分。周二，星巴克向1.4万多名北美地区的门店经理展示了这项新技术。“绿点助手”（ Green Dot Assist）平台计划在秋季开始的2026财年在美国和加拿大全面推出。此次为期三天的活动正值星巴克努力重振其在美国的低迷销售之际，正如首席执行官尼科尔自去年上任以来所描述的那样，要“回归星巴克”。尼科尔的首要任务包括将每份订单的服务时间缩短至四分钟。快速、准确地回答咖啡师的问题有助于实现这一目标。]]></title>
             <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrtft9730501.d.html</link>
@@ -37,12 +186,6 @@
             <title><![CDATA[马斯克：特斯拉的人工智能/自动驾驶可能已经可以在赛道上击败最好的人类车手了，人的反应能力根本无法与机器匹敌。]]></title>
             <guid>4233984</guid>
             <pubDate>Tue, 10 Jun 2025 20:13:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马斯克父亲爆料：自产之前，马斯克曾试图在俄罗斯购买火箭】 亿万富翁马斯克的父亲埃罗尔・马斯克在“2050未来论坛”上表示，在埃隆・马斯克火箭制造生涯的初期，他曾试图在俄罗斯购买一枚火箭，但因被视为玩笑而遭到拒绝。“他当时在俄罗斯，试图在那里购买火箭——众所周知，俄罗斯制造了最好的火箭，”这位企业家的父亲笑着说，“他们没有把火箭卖给他，觉得他在开玩笑。”其父称，在那之后，马斯克开始在自己的SpaceX公司内着手自主生产火箭。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrtfw8455754.d.html</link>
-            <guid>4233983</guid>
-            <pubDate>Tue, 10 Jun 2025 20:11:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[美国证交会文件显示，美国超导申请发行普通股，规模未披露。]]></title>
@@ -75,12 +218,14 @@
             <pubDate>Tue, 10 Jun 2025 20:02:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[纳斯达克金龙中国指数初步收涨0.3%。热门中概股蔚来初步收涨5.4%，新东方涨2.5%，百胜中国、小鹏涨超1%，拼多多、网易、阿里巴巴至多涨0.8%，腾讯则跌0.6%，小米跌0.9%，百度跌1.2%，文远知行跌2.4%，理想跌3.6%，小马智行和房多多跌超5%。中概ETF YINN涨1.2%，DRAG涨0.4%，KWEB则跌0.3%，CQQQ跌1.2%。]]></title>
+            <title><![CDATA[【热门中概股涨跌不一 纳斯达克中国金龙指数涨0.3%】热门中概股涨跌不一，纳斯达克中国金龙指数涨0.3%。蔚来涨超5%，爱奇艺、新东方涨超2%；腾讯音乐跌近1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrtfs2954798.d.html</link>
             <guid>4233977</guid>
             <pubDate>Tue, 10 Jun 2025 20:00:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[标普500指数初步收涨0.4%，能源、可选消费、电信板块涨超1%，工业板块跌0.5%。纳斯达克100指数初步收涨0.5%，成分股英特尔涨7.8%，特斯拉涨5.5%，Grail涨5.9%，华纳兄弟探索涨4.9%，科磊和拉姆研究涨超3%，MercadoLibre、吉利德科学、AXON、核电概念股CEG则跌超2%。费城半导体指数涨约2%，银行指数涨0.4%；美国科技股七巨头指数涨0.7%，“特朗普关税输家指数”涨1.1%。]]></title>
+            <title><![CDATA[【美股收盘：三大指数均创至少3个月以来收盘新高 英特尔创2个月以来最大单日涨幅】美股三大指数集体收涨，纳指涨0.63%，标普500指数涨0.55%，道指涨0.25%。其中，纳指、标普500指数续创2月底以来收盘新高，道指创3月初以来收盘新高。大型科技股多数上涨，英特尔涨近8%，创2个月以来最大单日涨幅；特斯拉涨逾5%，谷歌、Meta涨超1%，苹果、英伟达、亚马逊小幅上涨；奈飞跌超1%，微软小幅下跌。Circle跌超8%，此前上市3日累涨超270%。麦当劳（MCD）连续七个交易日收跌，创2013年以来最长连跌天数。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrtft9729293.d.html</link>
             <guid>4233976</guid>
             <pubDate>Tue, 10 Jun 2025 20:00:13 GMT</pubDate>
         </item>
@@ -151,147 +296,6 @@
             <title><![CDATA[【芝加哥玉米期货涨约1.3%，小麦期货跌约1.3%，罗布斯塔咖啡跌超2.8%，纽约可可跌约4.4%】 周二（6月10日）纽约尾盘，彭博谷物分类指数跌0.08%，报30.6961点。CBOT玉米期货涨1.27%，报4.39美元/蒲式耳。CBOT小麦期货跌1.28%，报5.3525美元/蒲式耳。CBOT大豆期货涨0.14%，报10.5775美元/蒲式耳，豆粕期货涨0.10%，豆油期货涨0.75%。ICE原糖期货跌1.26%，ICE白糖期货跌1.16%。ICE阿拉比卡咖啡期货跌1.70%，咖啡“C”期货跌1.72%。罗布斯塔咖啡期货跌2.83%。纽约可可期货跌4.39%，报9041美元/吨。伦敦可可期货跌3.23%。ICE棉花期货跌0.99%。]]></title>
             <guid>4233964</guid>
             <pubDate>Tue, 10 Jun 2025 19:32:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：Joe Gebbia料将加入负责监督美国政府效率部（DOGE）的一个委员会。]]></title>
-            <guid>4233963</guid>
-            <pubDate>Tue, 10 Jun 2025 19:29:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美以官员透露：特朗普已告知内塔尼亚胡其反对军事打击伊朗】当地时间10日，有美国及以色列官员透露，美国总统特朗普告诉以色列总理内塔尼亚胡，他反对对伊朗实施军事行动，因为其认为当前存在与伊朗达成核协议的可能。伊朗外交部10日凌晨发表声明说，伊朗将于15日与美国举行下一轮会谈。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrtfw8453180.d.html</link>
-            <guid>4233962</guid>
-            <pubDate>Tue, 10 Jun 2025 19:27:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纽约州总检察长詹姆斯：我办公室与一群州总检察长正起诉 23andMe公司，以保护美国人的私人信息不被卖给出价最高者。]]></title>
-            <guid>4233961</guid>
-            <pubDate>Tue, 10 Jun 2025 19:22:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【胡塞武装称两次袭击以色列本-古里安机场】当地时间10日晚间，也门胡塞武装军方发言人叶海亚·萨雷亚发表声明称，胡塞武装当日对以色列本-古里安机场进行了两次导弹袭击，分别使用了高超音速“巴勒斯坦2”型导弹和“佐勒菲卡尔”型导弹。胡塞武装称，其中一枚导弹成功突破拦截，直接命中目标。胡塞武装在声明中再次警告各航空公司必须立即停止往返上述机场的航班。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrtfq5115217.d.html</link>
-            <guid>4233960</guid>
-            <pubDate>Tue, 10 Jun 2025 19:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【民调显示近半美国民众反对向洛杉矶派兵】民调机构舆观调查公司10日发布的最新民调结果显示，近半美国民众不支持特朗普政府向加利福尼亚州洛杉矶地区部署海军陆战队和国民警卫队的行为。在10日完成的一项民调中，47%的受访者反对向洛杉矶地区派遣海军陆战队支持联邦机构针对非法移民的执法行动，34%的人表示赞成。反对和支持调遣国民警卫队进驻洛杉矶地区的比例分别为45%和38%。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrtft9727239.d.html</link>
-            <guid>4233959</guid>
-            <pubDate>Tue, 10 Jun 2025 19:18:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国等五国宣布制裁2名以色列极右翼部长】10日，英国、加拿大、澳大利亚、新西兰、挪威发布联合声明，宣布对以色列两名极右翼部长——以色列国家安全部部长本-格维尔和以色列财政部长斯莫特里赫实施制裁。原因是他们多次煽动针对巴勒斯坦人的极端暴力行为。制裁措施包括冻结其资产和禁止入境。对此，以色列外交部长萨尔回应称，这一制裁是不可接受的。以色列政府将举行特别会议商讨如何应对。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrtfq5114943.d.html</link>
-            <guid>4233958</guid>
-            <pubDate>Tue, 10 Jun 2025 19:17:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在新兴市场货币中，哥伦比亚比索兑美元领跌。媒体报道称，该国将暂停执行财政制度。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrtfs2952625.d.html</link>
-            <guid>4233957</guid>
-            <pubDate>Tue, 10 Jun 2025 19:16:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：谷歌向搜索和广告部门的员工提供买断（工龄等）计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrtfq5114860.d.html</link>
-            <guid>4233956</guid>
-            <pubDate>Tue, 10 Jun 2025 19:15:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国加州请求法院阻止特朗普政府向该州派兵】美国加利福尼亚州州长纽森和总检察长邦塔10日向法院提交临时限制令动议，请求法院立即采取行动，阻止特朗普政府动用美军和加州国民警卫队在加州各社区“巡逻并参与其他执法活动”。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrtfs2952501.d.html</link>
-            <guid>4233955</guid>
-            <pubDate>Tue, 10 Jun 2025 19:13:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【在岸人民币兑美元较周一夜盘收盘跌82点】在岸人民币兑美元（CNY）北京时间03:00收报7.1870元，较周一夜盘收盘跌82点。成交量375.15亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrtfq5114634.d.html</link>
-            <guid>4233954</guid>
-            <pubDate>Tue, 10 Jun 2025 19:12:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美元指数10日上涨】衡量美元对六种主要货币的美元指数当天上涨0.16%，在汇市尾市收于99.099。截至纽约汇市尾市，1欧元兑换1.1420美元，低于前一交易日的1.1428美元；1英镑兑换1.3494美元，低于前一交易日的1.3563美元。1美元兑换144.96日元，高于前一交易日的144.56日元；1美元兑换0.8230瑞士法郎，高于前一交易日的0.8213瑞士法郎；1美元兑换1.3690加元，高于前一交易日的1.3677加元；1美元兑换9.6032瑞典克朗，高于前一交易日的9.5872瑞典克朗。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrtft9726659.d.html</link>
-            <guid>4233953</guid>
-            <pubDate>Tue, 10 Jun 2025 19:08:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【标普和纳指涨0.5%刷新日高，中概指数和富时A50夜期也涨幅扩大】 标普500指数涨幅扩大至0.5%，纳指涨0.56%，双双刷新日高；道指也涨超0.2%。费城半导体指数涨超2%。纳斯达克金龙中国指数V形反转，日内涨幅重新扩大至0.35%。富时A50夜期涨幅重新扩大至将近0.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrtfs2951892.d.html</link>
-            <guid>4233951</guid>
-            <pubDate>Tue, 10 Jun 2025 19:04:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统特朗普正准备废除拜登对发电厂污染的限制措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrtfs2951854.d.html</link>
-            <guid>4233950</guid>
-            <pubDate>Tue, 10 Jun 2025 19:03:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美客机与军机相撞事故调查听证会将于7月30日起进行】当地时间10日，美国国家运输安全委员会主席表示，该机构将于7月30日起就今年1月美客机与军机相撞坠河致67人死亡的事件举行为期三天的调查听证会。美国东部时间1月29日晚，华盛顿里根国家机场附近一架载有64人的客机与一架载有3名军人的“黑鹰”直升机相撞，两机随后坠入波托马克河。此次事故中没有幸存者。美国媒体报道说，这起事故是1982年以来华盛顿最严重的航空事故。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrtft9726332.d.html</link>
-            <guid>4233949</guid>
-            <pubDate>Tue, 10 Jun 2025 19:03:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恒指期货夜盘收涨0.15%，报24111点，低水52点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrtfs2951702.d.html</link>
-            <guid>4233947</guid>
-            <pubDate>Tue, 10 Jun 2025 19:01:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标准普尔500指数和纳斯达克100指数升至日高。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrtfs2951521.d.html</link>
-            <guid>4233946</guid>
-            <pubDate>Tue, 10 Jun 2025 18:58:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[百思买（Best Buy）成交量飙升，股价上涨，最新涨幅达3.0%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrtft9726016.d.html</link>
-            <guid>4233945</guid>
-            <pubDate>Tue, 10 Jun 2025 18:58:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉日内涨幅扩大至5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrtfw8451369.d.html</link>
-            <guid>4233944</guid>
-            <pubDate>Tue, 10 Jun 2025 18:58:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳斯达克指数刚刚突破19700.00关口，最新报19701.60，日内涨0.56%。]]></title>
-            <guid>4233943</guid>
-            <pubDate>Tue, 10 Jun 2025 18:57:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰总统泽连斯基称赞欧盟对俄罗斯的新制裁是“重要一步”。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrnxv9856706.d.html</link>
-            <guid>4233942</guid>
-            <pubDate>Tue, 10 Jun 2025 18:56:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据报道：美国总统特朗普告诉以色列总理内塔尼亚胡，他仍希望通过谈判而非轰炸来化解伊朗危机。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrnxu3082169.d.html</link>
-            <guid>4233941</guid>
-            <pubDate>Tue, 10 Jun 2025 18:55:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国参议院共和党领袖图恩：参议院税收法案草案中将保留小费免征税的内容。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrnxs5243482.d.html</link>
-            <guid>4233939</guid>
-            <pubDate>Tue, 10 Jun 2025 18:49:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：斯洛伐克不会在没有能源协议的情况下支持对俄罗斯的制裁。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrnxy8580628.d.html</link>
-            <guid>4233938</guid>
-            <pubDate>Tue, 10 Jun 2025 18:45:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国原油期货收跌0.3%，纽约天然气跌2.8%】 WTI 7月原油期货收跌0.31美元，跌幅超过0.47%，报64.98美元/桶。NYMEX 7月天然气期货收跌超2.80%，报3.5330美元/百万英热单位。NYMEX 7月汽油期货收报2.0880美元/加仑，NYMEX 7月取暖油期货收报2.1416美元/加仑。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-11/detail-inezrnxv9855675.d.html</link>
-            <guid>4233937</guid>
-            <pubDate>Tue, 10 Jun 2025 18:45:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
