@@ -4,325 +4,304 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 22 Jun 2025 23:22:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jun 2025 02:08:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【卫星通信站上移动通信主舞台】 在刚刚落幕的2025上海世界移动通信大会（MWC上海）上，卫星通信技术正成为展示和讨论的焦点。多位行业人士认为，卫星通信技术正在进入移动通信的主舞台，重塑偏远地区的网络接入方式，为全球尚未接入互联网的人口带来网络连接，开启数字经济的全新篇章。卫星产业则有望在未来10年引领整个通信行业发生革命性的改变。工业和信息化部国际经济技术合作中心副主任朱刚表示，我国卫星产业正处于机遇与挑战并存的关键时期，“我国卫星产业在产业结构、竞争环境、技术研发、商业模式以及生态建设等方面仍存在较大的发展空间。推进卫星产业高质量发展，需要政府部门、企业、智库机构、行业协会、高等院校等多方智慧和努力。”（中国证券报）]]></title>
-            <guid>4254310</guid>
-            <pubDate>Sun, 22 Jun 2025 23:22:23 GMT</pubDate>
+            <title><![CDATA[【南向资金净买入超30亿港元】截至目前，南向资金净买入超30亿港元，其中港股通（沪）买入超25.02亿港元，港股通（深）买入超4.98亿港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmip7591244.d.html</link>
+            <guid>4254553</guid>
+            <pubDate>Mon, 23 Jun 2025 02:06:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【韩国电力公司第三季度电价冻结在现有水平】 韩国电力公司公布7月至9月燃料成本调整单价计算明细，第三季度适用的电价将冻结在现有水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazezq0889145.d.html</link>
-            <guid>4254307</guid>
-            <pubDate>Sun, 22 Jun 2025 23:19:05 GMT</pubDate>
+            <title><![CDATA[【以总理称对伊朗行动目标“非常接近完成”】据《以色列时报》23日报道，以色列总理内塔尼亚胡22日说，伊朗核项目和导弹项目已受到“重创”，以色列行动目标“非常接近完成”。内塔尼亚胡在一场新闻发布会上说，以色列不会与伊朗陷入消耗战，但在任务完成前不会停火。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmip7591080.d.html</link>
+            <guid>4254552</guid>
+            <pubDate>Mon, 23 Jun 2025 02:06:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【13只浮动费率基金成立 募集总规模超126亿元】 6月21日，华夏基金、富国基金、汇添富基金等8家公募公告，各家公司旗下的浮动费率基金宣告成立，包括这8只产品在内，首批26只新型浮动费率基金中已有13只成立，募集总规模逾126亿元。具体看，13只基金中有3只募集规模超过10亿元。其中，东方红核心价值以19.91亿元的募集规模位居第一，跟随其后的是易方达成长进取和平安价值优享，募集规模分别为17.04亿元和13.22亿元。其余10只基金规模在10亿元以下，但彼此之间规模分化较为明显。银华成长智选、天弘品质价值、嘉实成长共赢3只产品募集规模在9亿元以上，宏利睿智领航、汇添富均衡潜力优选募集规模在8亿元以上。此外，华安竞争优势和广发价值稳进的募集规模均在7亿元以下，分别为5.10亿元和6.94亿元。博时卓睿成长募集规模为2.59亿元，是13只基金中成立规模最小的一只。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazezq0888900.d.html</link>
-            <guid>4254306</guid>
-            <pubDate>Sun, 22 Jun 2025 23:18:05 GMT</pubDate>
+            <title><![CDATA[【谷歌突破性研究，破解RSA加密算法的量子门槛有望降低95%】 谷歌量子研究团队近日发表突破性研究，指出破解目前广泛应用于保护银行帐户、电子商务与加密货币钱包的RSA加密算法，所需的量子资源可能比原先预估少整整20倍。等同于破解RSA的量子门槛有望降低达95%，将先前的安全假设彻底打破。基于最新的研究进展，现在破解一组2048位元的RSA加密，只需不到100万个量子位元，且在不到一周时间内即可完成破解。根据2019年的估算，这一过程需要一台具备2000万个有杂讯的量子位元的量子电脑，运行约8小时。虽然这项研究主要针对RSA算法，但影响却遍及整个加密世界。比特币与其他主流加密货币普遍采用的椭圆曲线密码学(ECC)，其安全性也建立在类似的数学难题之上。理论上，一旦量子电脑能破解RSA，也可威胁ECC。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmin0815720.d.html</link>
+            <guid>4254551</guid>
+            <pubDate>Mon, 23 Jun 2025 02:04:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[教皇利奥警告称，人工智能应服务人类，“而非取代人类”。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazezr7663365.d.html</link>
-            <guid>4254305</guid>
-            <pubDate>Sun, 22 Jun 2025 23:17:52 GMT</pubDate>
+            <title><![CDATA[【2025年全国节能宣传周今天启动】今天（6月23日），以“节能增效，焕‘新’引领”为主题的2025年全国节能宣传周在山东青岛启动。活动期间，国家有关部门和地方将围绕节能成效、绿色消费、数字赋能、全民行动等开展多场现场活动，并同步策划节能降碳主题展览。同时，相关部门将围绕碳达峰碳中和重大宣示5周年、能效标识制度实施20周年等关键节点，聚焦节能降碳工作重点，组织开展工业领域能效提升、建筑领域节能降碳、交通运输绿色低碳转型等专题进行宣传活动。据介绍，2025年全国节能宣传周定为6月23日至29日。自1991年以来，全国节能宣传周已举办34届，对节能提高能效、促进经济社会发展全面绿色转型发挥了积极作用。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmip7590009.d.html</link>
+            <guid>4254550</guid>
+            <pubDate>Mon, 23 Jun 2025 02:03:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据努尔新闻报道，以色列空袭了帕尔钦，该地是位于德黑兰东南部的一个大型伊朗军事综合体所在地。]]></title>
-            <guid>4254304</guid>
-            <pubDate>Sun, 22 Jun 2025 23:16:55 GMT</pubDate>
+            <title><![CDATA[【核污染防治板块短线拉升，中电环保涨超10%】 核污染防治板块短线拉升，中电环保涨超10%，嘉戎技术、捷强装备、三达膜、中金辐照、谱尼测试等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmit0249592.d.html</link>
+            <guid>4254549</guid>
+            <pubDate>Mon, 23 Jun 2025 02:02:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[佰泽医疗集团通过香港IPO净筹资4.678亿港元，股票将于6月23日起在香港交易所挂牌交易。佰泽医疗集团将香港IPO定价为每股4.22港元，为每股4.22港元至6.75港元的指导区间下限。]]></title>
-            <guid>4254303</guid>
-            <pubDate>Sun, 22 Jun 2025 23:15:50 GMT</pubDate>
+            <title><![CDATA[印尼基准股指跌幅扩大至2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmiq9701387.d.html</link>
+            <guid>4254548</guid>
+            <pubDate>Mon, 23 Jun 2025 02:02:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本外务大臣就美国袭击伊朗核设施发表声明：尽快平息局势至关重要。强烈希望恢复对话解决伊朗核问题。]]></title>
-            <guid>4254302</guid>
-            <pubDate>Sun, 22 Jun 2025 23:14:56 GMT</pubDate>
+            <title><![CDATA[【新疆维吾尔自治区哈密市委常委、政法委书记杜海涛接受纪律审查和监察调查】据新疆维吾尔自治区纪委监委消息：新疆维吾尔自治区哈密市委常委、政法委书记杜海涛涉嫌严重违纪违法，目前正接受新疆维吾尔自治区纪委监委纪律审查和监察调查。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmit0248912.d.html</link>
+            <guid>4254547</guid>
+            <pubDate>Mon, 23 Jun 2025 02:01:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[、现货铂金刚刚突破1260.00美元/盎司关口，最新报1260.53美元/盎司，日内跌1.55%；Nymex铂金期货主力最新报1256.4美元/盎司，日内跌0.64%。]]></title>
-            <guid>4254299</guid>
-            <pubDate>Sun, 22 Jun 2025 23:11:13 GMT</pubDate>
+            <title><![CDATA[印尼基准股指跌超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmit0248605.d.html</link>
+            <guid>4254546</guid>
+            <pubDate>Mon, 23 Jun 2025 02:01:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[华兴证券(香港)：给予地平线买进的初始评级，目标价8.60港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazezr7661789.d.html</link>
-            <guid>4254298</guid>
-            <pubDate>Sun, 22 Jun 2025 23:09:56 GMT</pubDate>
+            <title><![CDATA[【化工板块震荡拉升 兴化股份等多股涨停】油气股持续走强，带动化工板块大面积补涨，兴化股份反包涨停走出7天3板，六国化工、中毅达、丹化科技、渤海化学涨停，金牛化工、红墙股份、赤天化、阳煤化工等涨幅靠前。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmiq9700209.d.html</link>
+            <guid>4254543</guid>
+            <pubDate>Mon, 23 Jun 2025 02:00:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本航空公司：无意在要约收购中出让其股份，要约收购不可行或可行性非常有限。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazezr7661724.d.html</link>
-            <guid>4254297</guid>
-            <pubDate>Sun, 22 Jun 2025 23:09:33 GMT</pubDate>
+            <title><![CDATA[【港股半导体板块持续走强，华虹半导体涨超5%】 港股半导体板块持续走强，华虹半导体涨超5%，中芯国际涨超3%，晶门半导体、上海复旦等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmin0813747.d.html</link>
+            <guid>4254542</guid>
+            <pubDate>Mon, 23 Jun 2025 02:00:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【伊朗德黑兰等地防空系统启动】当地时间23日获悉，当天凌晨伊朗德黑兰、卡拉季等地防空系统启动。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazezr7661300.d.html</link>
-            <guid>4254296</guid>
-            <pubDate>Sun, 22 Jun 2025 23:07:37 GMT</pubDate>
+            <title><![CDATA[泰国财政部长：政府正在密切关注中东局势。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmiq9699384.d.html</link>
+            <guid>4254540</guid>
+            <pubDate>Mon, 23 Jun 2025 01:59:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【37小时后 最后一架美军B-2轰炸机返回密苏里州基地】据央视新闻报道，美国官员当地时间6月22日表示，参与袭击伊朗三处核设施的十多架B-2轰炸机中的最后一架已安全返回密苏里州怀特曼空军基地，这些飞机的往返飞行耗时长达37小时。当天，美国总统特朗普也在社交媒体平台发文表示，参与袭击伊朗三处核设施的B-2轰炸机安全降落在密苏里州。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazezs9765210.d.html</link>
-            <guid>4254295</guid>
-            <pubDate>Sun, 22 Jun 2025 23:05:52 GMT</pubDate>
+            <title><![CDATA[中央气象台6月23日10时继续发布暴雨蓝色预警。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmip7587550.d.html</link>
+            <guid>4254539</guid>
+            <pubDate>Mon, 23 Jun 2025 01:58:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[伊朗通讯社：伊朗首都德黑兰中部地区启动防空系统，以应对 “敌方目标”。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazezs9764877.d.html</link>
-            <guid>4254294</guid>
-            <pubDate>Sun, 22 Jun 2025 23:03:24 GMT</pubDate>
+            <title><![CDATA[泰国财政部长：资本市场强劲，准备好应对中东紧张局势后的波动。]]></title>
+            <guid>4254538</guid>
+            <pubDate>Mon, 23 Jun 2025 01:58:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[澳大利亚6月标普全球综合PMI初值 51.2，前值50.5。澳大利亚6月标普全球制造业PMI初值 51，前值51。]]></title>
-            <guid>4254293</guid>
-            <pubDate>Sun, 22 Jun 2025 23:00:14 GMT</pubDate>
+            <title><![CDATA[【特朗普被曝早已决定对伊朗动武 称“两周内决定”为烟雾弹】当地时间6月22日，据美国有线电视新闻网援引多位知情人士报道，美国总统特朗普在数日前已基本决定对伊朗采取军事行动，却授意幕僚向媒体宣称“将在两周内决定是否动武”，以此误导伊朗、掩盖真实计划。据悉，特朗普对外部关于其已决定打击伊朗的报道颇为不满，担心泄露军事动向。19日与前顾问班农共进午餐前，他指示白宫新闻秘书莱维特对外宣称“尚未做出决定”。数小时后，莱维特即在记者会上传达了这一说法。消息人士称，尽管最终批准空袭的决定是在21日轰炸机起飞后做出的，但特朗普此前已频繁听取相关简报，与国家安全高层每日会面或通话，几乎已下定决心。这一操作被媒体解读为“故布烟幕”，旨在对伊朗实施空袭前通过战略欺敌为行动争取时间。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmiq9699005.d.html</link>
+            <guid>4254537</guid>
+            <pubDate>Mon, 23 Jun 2025 01:58:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[除了头版内容，今天《人民日报》涉及财经的主要内容还包括：
-1、自然资源部完善耕地保护政策措施 逐步有序恢复或置换耕地
-2、以高质量发展推进共同现代化（和音）——始终秉持并不断发扬光大“中国—中亚精神”④
-3、跨国公司何以选择从中国“链接世界”（和音）
-4、王小洪在浙江调研时强调 完整准确全面贯彻新发展理念 推动高质量发展持续向优向新
-5、京津冀区域出口总值创历史新高
-6、十大产业集群规模均超千亿元 北京做强高精尖产业（活力中国调研行）
-7、透视“小体量”的大能量（评论员观察）——直击2025经济新现象①
-8、账期不超60天关键看行动（纵横）
-9、国产鸿蒙操作系统开发者超800万
-10、加强烘储减损 助力粮食丰收
-11、浙江嵊州小笼包依托平台经济开拓海外市场 一屉蒸笼 五洲飘香
-12、跨境支付通业务正式上线 内地与香港快速支付系统实现互联互通
-13、人民币跨境支付系统与6家外资机构签约
-14、广西海洋生产总值年均增长9.4%
-15、安徽生态质量指数达63.75
-16、内蒙古新能源装机规模突破1.4亿千瓦
-17、首届全球南方经济论坛在阿联酋举行 凝聚全球南方力量 共谋团结发展合作
-18、让人与城的“双向奔赴”更美好（财经眼·为新型城镇化战略提供有力资金保障）。]]></title>
-            <guid>4254291</guid>
-            <pubDate>Sun, 22 Jun 2025 22:55:02 GMT</pubDate>
+            <title><![CDATA[泰国财政部长：证券交易所本周将缩小股价涨跌幅限制。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmiq9698886.d.html</link>
+            <guid>4254536</guid>
+            <pubDate>Mon, 23 Jun 2025 01:58:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[今天《人民日报》头版的主要内容有：
-1、山西加快建设新型能源体系（奋勇争先，决战决胜“十四五”）
-2、各地扎实开展学习教育——查摆问题动真碰硬 集中整治务求实效（锲而不舍落实中央八项规定精神）
-3、王沪宁会见泰国国会主席兼下议院议长万诺
-4、十大产业集群规模均超千亿元 北京做强高精尖产业（活力中国调研行）
-5、前5月国家铁路发送货物16.41亿吨 日均装车18.1万车
-6、前5月绿电交易量超2200亿千瓦时 同比增长近50%
-7、最大直径水下盾构隧道完成黄河段掘进。]]></title>
-            <guid>4254290</guid>
-            <pubDate>Sun, 22 Jun 2025 22:54:46 GMT</pubDate>
+            <title><![CDATA[【军工板块震荡走强，长城军工涨停】 军工板块震荡走强，长城军工涨停，观想科技涨超10%，航天发展涨超8%，航天长峰、雷科防务跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmip7587003.d.html</link>
+            <guid>4254534</guid>
+            <pubDate>Mon, 23 Jun 2025 01:57:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[WTI原油冲高后持续回调，涨幅收窄至2%以内，现报75美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazezq0884526.d.html</link>
-            <guid>4254289</guid>
-            <pubDate>Sun, 22 Jun 2025 22:53:29 GMT</pubDate>
+            <title><![CDATA[特朗普：“抹去“这个词很准确。]]></title>
+            <guid>4254533</guid>
+            <pubDate>Mon, 23 Jun 2025 01:57:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国地震台网正式测定：06月23日06时30分在新疆昌吉州呼图壁县（北纬44.12度，东经86.84度）发生3.4级地震，震源深度15千米。]]></title>
-            <guid>4254288</guid>
-            <pubDate>Sun, 22 Jun 2025 22:51:11 GMT</pubDate>
+            <title><![CDATA[菲律宾比索兑美元下跌多达0.7%，至1美元兑57.539比索，为4月9日以来的最低水平。]]></title>
+            <guid>4254532</guid>
+            <pubDate>Mon, 23 Jun 2025 01:56:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【特朗普所说核设施被彻底摧毁遭反驳】当地时间6月22日凌晨，美军战机轰炸了伊朗三处核设施：伊斯法罕、纳坦兹和福尔多。 通过一组卫星图像来看，其中的伊斯法罕和纳坦兹这两处核设施遭袭后地面建筑有一定程度损毁。 不过据伊朗方面表示，遭袭前核设施内的核材料已转移，核设施损毁程度可修复，并非如美国总统特朗普所说“被彻底摧毁”。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazezq0883778.d.html</link>
-            <guid>4254287</guid>
-            <pubDate>Sun, 22 Jun 2025 22:45:28 GMT</pubDate>
+            <title><![CDATA[泰国财政部长：资本市场强劲，准备好应对中东紧张局势后的波动。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmiq9697937.d.html</link>
+            <guid>4254531</guid>
+            <pubDate>Mon, 23 Jun 2025 01:56:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美媒：伊朗上周威胁称，若遭攻击将启用美国境内的“沉睡特工”】据NBC报道，消息人士透露，在美国对伊朗核设施发动袭击的前几天，伊朗曾向特朗普政府发出信息，警告称如果遭到攻击，将激活潜伏在美国境内的“沉睡特工”（sleeper cells）实施“恐怖活动”。该信息是通过一名中间人在加拿大举行的G7峰会期间传达给特朗普的。知情人士透露，特朗普在6月16日提前离开峰会，以考虑应对以色列与伊朗冲突的选项。目前白宫尚未回应，伊朗驻联合国代表团也拒绝置评。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazezr7658185.d.html</link>
-            <guid>4254286</guid>
-            <pubDate>Sun, 22 Jun 2025 22:44:10 GMT</pubDate>
+            <title><![CDATA[特朗普：伊朗所有核设施均遭受巨大破坏。最严重破坏发生在远低于地面的地方。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmiq9697803.d.html</link>
+            <guid>4254530</guid>
+            <pubDate>Mon, 23 Jun 2025 01:56:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美国务院发布全球警报 建议海外美国公民提高警惕】美国国务院周日发布了全球安全警报，建议全球的美国公民“提高警惕”。美国国务院在美国袭击伊朗核设施后表示，“以色列与伊朗之间的冲突已导致中东地区旅行受阻和空域周期性关闭。此外，在海外针对美国公民和利益的示威活动也有可能发生。”]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazezq0882340.d.html</link>
-            <guid>4254285</guid>
-            <pubDate>Sun, 22 Jun 2025 22:33:11 GMT</pubDate>
+            <title><![CDATA[富时中国A50指数期货盘中跌逾1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmip7586071.d.html</link>
+            <guid>4254529</guid>
+            <pubDate>Mon, 23 Jun 2025 01:55:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【周一（6月23日）重点关注财经事件和经济数据】①待定 美国对多种钢制家电加征关税；②待定 伊朗外长阿拉格奇与俄罗斯总统普京进行会谈；③15:15 法国6月制造业PMI初值；④15:30 德国6月制造业PMI初值；⑤16:00 欧元区6月制造业PMI初值；⑥16:30 英国6月制造业PMI初值、6月服务业PMI初值；⑦21:00 欧洲央行行长拉加德作介绍性发言；⑧21:45 美国6月标普全球制造业PMI初值、6月标普全球服务业PMI初值；⑨22:00 美国5月成屋销售总数年化、美联储理事鲍曼发表讲话；⑩次日01:10 美联储古尔斯比参加活动问答；⑪次日02:30 美联储库格勒和威廉姆斯主持活动。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazezq0882265.d.html</link>
-            <guid>4254284</guid>
-            <pubDate>Sun, 22 Jun 2025 22:32:27 GMT</pubDate>
+            <title><![CDATA[【银行板块短线跳水，长沙银行、苏农银行跌超2%】 银行板块短线跳水，长沙银行、苏农银行跌超2%，中信银行、西安银行、齐鲁银行、青岛银行纷纷下挫。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmit0245724.d.html</link>
+            <guid>4254528</guid>
+            <pubDate>Mon, 23 Jun 2025 01:55:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【破局“增产不增利”，造纸企业谋求打造“绿色生态圈”】 过去十年间，A股造纸行业上市公司ESG信息披露率从21%升至逾79%，环境议题特别是减少碳排放成为这类公司ESG信息披露的焦点。多家龙头企业不仅详细核算并披露了范围一至三的碳排放数据，还设定了清晰的减碳目标并取得了初步成效。然而，在“向绿而行”的同时，造纸行业正面临增长挑战。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazezn3200602.d.html</link>
-            <guid>4254283</guid>
-            <pubDate>Sun, 22 Jun 2025 22:28:56 GMT</pubDate>
+            <title><![CDATA[港股半导体板块持续走强，华虹半导体(01347.HK)涨超4%，中芯国际(00981.HK)涨超3%，晶门半导体(02878.HK)、上海复旦(01385.HK)等跟涨。]]></title>
+            <guid>4254527</guid>
+            <pubDate>Mon, 23 Jun 2025 01:55:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【外资巨头密集发声 中国资产看多信号显现】近期，高盛、瑞银、联博、景顺等国际机构密集发声，释放了强烈看多中国资产的信号。瑞银报告显示，欧洲投资者对中国股票正从低配转向中性，甚至超配；高盛测算称，中国在AI领域的突破或引发2000亿美元资金流入，推动股票合理价值提升15%至20%。此外，高盛给予腾讯、阿里巴巴等中国十大领先企业买入评级。机构普遍认为，随着DeepSeek等国产AI模型重塑科技叙事、消费刺激政策预期升温，科技与消费板块正成为外资布局的核心主线。 (上证报)]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazezq0881823.d.html</link>
-            <guid>4254282</guid>
-            <pubDate>Sun, 22 Jun 2025 22:28:20 GMT</pubDate>
+            <title><![CDATA[富时中国A50指数期货下跌1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmip7585756.d.html</link>
+            <guid>4254526</guid>
+            <pubDate>Mon, 23 Jun 2025 01:55:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【持续吸金 多只红利ETF年内净值涨逾10%】今年以来，红利ETF持续获得资金净流入，红利ETF份额激增178.68亿份，资金净流入额达202.2亿元。多只港股红利ETF表现尤为亮眼，部分产品净值涨幅超过10%。多家机构认为，红利资产凭借高股息、低波动特性成为资金避风港，而港股红利资产更因估值优势和政策支持迎来价值重估。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazezn3200488.d.html</link>
-            <guid>4254281</guid>
-            <pubDate>Sun, 22 Jun 2025 22:27:32 GMT</pubDate>
+            <title><![CDATA[【南向资金净买入超20亿港元】 截至目前，南向资金净买入超20亿港元，其中港股通（沪）买入超18.78亿港元，港股通（深）买入超2.33亿港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmiq9697290.d.html</link>
+            <guid>4254525</guid>
+            <pubDate>Mon, 23 Jun 2025 01:54:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【伊朗击落一架以色列“赫尔墨斯”900型无人机】伊朗防空系统当地时间23日凌晨在中央省上空击落一架以色列“赫尔墨斯”900型无人机。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazezr7656245.d.html</link>
-            <guid>4254280</guid>
-            <pubDate>Sun, 22 Jun 2025 22:27:07 GMT</pubDate>
+            <title><![CDATA[特朗普将于美国东部时间周一下午1点会见国家安全团队。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmip7585619.d.html</link>
+            <guid>4254524</guid>
+            <pubDate>Mon, 23 Jun 2025 01:54:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[伊朗外长阿拉格奇：他将与俄罗斯总统普京讨论应对共同挑战与威胁。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazezn3200289.d.html</link>
-            <guid>4254279</guid>
-            <pubDate>Sun, 22 Jun 2025 22:23:44 GMT</pubDate>
+            <title><![CDATA[【澳大利亚外长：支持美国对伊打击 呼吁局势降级并重启对话】澳大利亚外交部长黄英贤表示，澳方支持美国对伊朗的打击，同时呼吁各方保持克制、重返外交途径。黄英贤在接受采访时表示，“我们支持美国为阻止伊朗获得核武器所采取的行动。”同时她强调“不希望看到事态升级”。目前约有2900名澳大利亚公民滞留伊朗，另有1300人滞留伊拉克，均正寻求撤离。黄英贤称，在美国打击伊朗核设施后，澳方已暂停从以色列的巴士撤离行动，但正为以领空重新开放后的潜在撤离做准备。澳大利亚已派遣两架军用运输机前往中东执行非作战任务，协助平民撤离工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmiq9697056.d.html</link>
+            <guid>4254523</guid>
+            <pubDate>Mon, 23 Jun 2025 01:54:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[墨西哥总统辛鲍姆：墨西哥国家石油公司（PEMEX）供应商债务将于 7 月正常化。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazezr7655968.d.html</link>
-            <guid>4254278</guid>
-            <pubDate>Sun, 22 Jun 2025 22:22:53 GMT</pubDate>
+            <title><![CDATA[【华谊兄弟等入股杭州壹茗人工智能公司】天眼查App显示，近日，杭州壹茗人工智能科技有限公司发生工商变更，新增华谊兄弟互娱（天津）投资有限公司等为股东。杭州壹茗人工智能科技有限公司成立于2023年8月，法定代表人为杨炎，注册资本1000万人民币，经营范围包括日用百货销售、互联网销售、数字文化创意内容应用服务、供应链管理服务等，现由杭州空歌科技有限公司及上述新增股东共同持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmin0810992.d.html</link>
+            <guid>4254522</guid>
+            <pubDate>Mon, 23 Jun 2025 01:54:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【跨境支付通正式上线，首笔业务落地深圳】 6月22日，跨境支付通正式上线，标志着内地与香港快速支付系统已实现互联互通。记者从中国人民银行深圳市分行处获悉，当日，全国首笔跨境支付通内地居民南向、香港居民北向汇款业务落地深圳。汇款额度方面，个人对个人的汇款额度有所限制。跨境支付通南向便利化汇款，沿用现行的每人每年上限5万美元的购汇额度；北向便利化汇款，每人每日上限1万港元，每人每年上限20万港元（以每家参与机构计算）。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazezr7655584.d.html</link>
-            <guid>4254277</guid>
-            <pubDate>Sun, 22 Jun 2025 22:18:48 GMT</pubDate>
+            <title><![CDATA[【何猷君接手王思聪名下寰聚商业】天眼查App显示，近日，北京寰聚商业管理有限公司发生工商变更，王思聪间接持股的杭州艾亢企业管理有限公司、杭州杯盏商业管理有限公司、九桓置业发展（北京）有限公司退出股东行列，新增何猷君名下武汉星竞威武文体发展有限公司以及海南思桓投资有限公司、武汉市兴华羽网络科技有限公司、杭州梦芒文化科技有限公司为股东；同时多位高管发生变更，新增何猷君为董事长。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmip7585425.d.html</link>
+            <guid>4254521</guid>
+            <pubDate>Mon, 23 Jun 2025 01:54:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【大摩：油价驱动的美元空头挤压将随着基本面的稳固而消退】 尽管美元疲软仍是摩根士丹利的基本预期，但油价持续上涨将对这一观点构成关键风险。摩根士丹利分析师David S. Adams等在一份报告中写道：“鉴于市场普遍预期，地缘政治因素驱动的油价供应侧冲击对美元构成了轧空的关键风险——可能达到2%甚至更高。” 供应驱动的油价上涨可能引发市场普遍预期的美元空头轧空，但中期基本面仍表明美元强势正在消退。短期不确定性可能会限制投资者做空美元和对油价敏感的外汇的兴趣，因为市场交易越来越依赖于交易条件，类似于2022年3月的情况。然而，历史表明，美元指数往往会在地缘政治升级后迅速见顶并走弱，而美元与股市的正相关性可能会限制美元的强势。中期美元看跌因素依然存在，短暂的地缘政治冲击可能成为美元空头重新入场的诱人时机。继续做多欧元/美元、做空美元/日元和加元/瑞郎，但投资者应谨慎管理风险，考虑到市场波动的风险，可能需要设置更大范围的止损。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazezr7655288.d.html</link>
-            <guid>4254276</guid>
-            <pubDate>Sun, 22 Jun 2025 22:16:02 GMT</pubDate>
+            <title><![CDATA[新加坡股市一度下跌1%，至3875.78点，为5月8日以来的最低点。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmip7585096.d.html</link>
+            <guid>4254520</guid>
+            <pubDate>Mon, 23 Jun 2025 01:53:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【钙钛矿图像传感器性能大幅提升】瑞士苏黎世联邦理工学院与瑞士联邦材料科学与技术研究所联合团队开发出新型钙钛矿图像传感器，大幅提升了光利用效率和空间分辨率。这项成果发表于最新一期《自然》杂志。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazezr7655233.d.html</link>
-            <guid>4254275</guid>
-            <pubDate>Sun, 22 Jun 2025 22:15:13 GMT</pubDate>
+            <title><![CDATA[港股中国天瑞水泥(01252.HK)今日复牌，盘初一度涨逾60%，现涨40%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmip7585069.d.html</link>
+            <guid>4254519</guid>
+            <pubDate>Mon, 23 Jun 2025 01:53:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【光钟信号与电信数据首次实现同传】来自美国国家标准与技术研究院等机构的研究团队在新一期《光学》期刊发表研究称，他们首次证明在数十公里的实际部署多芯光纤中，超稳定光学原子钟信号可以与电信数据同时兼容传输。这表明新兴的高容量光纤网络不仅能传输海量数据，还有望精准同步世界各地的原子钟，为基础科学、精密测量乃至全球时间标准的演进打开新大门。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazezq0880687.d.html</link>
-            <guid>4254274</guid>
-            <pubDate>Sun, 22 Jun 2025 22:14:35 GMT</pubDate>
+            <title><![CDATA[【伊朗外交部发言人回应美方袭击：是“对外交的背叛”，战争后果必须由美国和以色列承担】伊朗外交部发言人巴加埃对美国有线电视新闻网 (CNN) 说，美方此次袭击是“对外交的背叛”。他表示，“没有人知道接下来会发生什么，但可以肯定的是，这场战争的后果必须由美国和以色列承担”。巴加埃拒绝透露伊朗将如何回应美国的袭击，但表示伊朗有权“行使自卫权”。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmin0810522.d.html</link>
+            <guid>4254518</guid>
+            <pubDate>Mon, 23 Jun 2025 01:53:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[布伦特原油大幅高开后涨幅收窄，目前报79.66美元，涨幅约3.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infayytq3330295.d.html</link>
-            <guid>4254273</guid>
-            <pubDate>Sun, 22 Jun 2025 22:13:15 GMT</pubDate>
+            <title><![CDATA[【美国打击伊朗后 巴林和科威特防范冲突外溢】美国突然空袭伊朗三处核设施后，设有美军基地的巴林和科威特22日为冲突可能外溢至本国做准备。与伊朗隔海相望的巴林是美国海军第五舰队总部所在地。巴林内政部22日通过社交媒体敦促民众驾车时尽量避开主干道，以便相关部门更有效利用。按巴林内政部的说法，鉴于近期地区安全局势趋紧，这一措施意在保护公共安全。巴林政府同时要求70%的政府机构工作人员居家办公，直至另行通知。此前，巴林政府已启用一个应急中心，为紧急情况做准备，并开始在全国范围测试警报系统。科威特设有多座美军基地。科威特财政部22日说，科威特已在政府大楼设立多处避难所，可容纳约900人，以应对突发状况。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmip7584524.d.html</link>
+            <guid>4254517</guid>
+            <pubDate>Mon, 23 Jun 2025 01:52:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[比特币重新涨回10万美元大关，跌幅收窄至1.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infayytq3330085.d.html</link>
-            <guid>4254272</guid>
-            <pubDate>Sun, 22 Jun 2025 22:10:17 GMT</pubDate>
+            <title><![CDATA[【智元机器人在上海新设盈丰科技公司】 企查查APP显示，近日，上海智元盈丰科技有限公司成立，法定代表人为邓泰华，经营范围包含：信息技术咨询服务；会议及展览服务；市场营销策划；企业形象策划等。企查查股权穿透显示，该公司由智元机器人关联公司上海智元新创技术有限公司全资持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmit0243668.d.html</link>
+            <guid>4254516</guid>
+            <pubDate>Mon, 23 Jun 2025 01:51:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美联储7月维持利率不变的概率为84.5%】据CME“美联储观察”：美联储7月维持利率不变的概率为84.5%，降息25个基点的概率为15.5%。美联储9月维持利率不变的概率为30%，累计降息25个基点的概率为60%，累计降息50个基点的概率为10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infayytt7785613.d.html</link>
-            <guid>4254271</guid>
-            <pubDate>Sun, 22 Jun 2025 22:07:33 GMT</pubDate>
+            <title><![CDATA[【固态电池概念股持续拉升，泰和科技涨超10%】 固态电池概念股持续拉升，泰和科技涨超10%，湘潭电化此前涨停，国轩高科涨超7%，华正新材、华友钴业跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmin0809741.d.html</link>
+            <guid>4254515</guid>
+            <pubDate>Mon, 23 Jun 2025 01:51:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【叙利亚自杀式袭击死伤人数升至85人】叙利亚国家通讯社22日援引叙卫生部门消息报道，当天发生在首都大马士革东部一教堂的自杀式袭击已造成22人丧生、63人受伤。叙内政部门在一份声明中说，极端组织“伊斯兰国”恐怖分子闯入位于大马士革杜维拉地区的一座东正教教堂，开枪射击后引爆身上的炸弹。安全人员已封锁现场并展开调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infayytu9890577.d.html</link>
-            <guid>4254270</guid>
-            <pubDate>Sun, 22 Jun 2025 22:06:32 GMT</pubDate>
+            <title><![CDATA[南向资金净买入超10亿港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmiq9693889.d.html</link>
+            <guid>4254514</guid>
+            <pubDate>Mon, 23 Jun 2025 01:48:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[WTI原油日内大涨4.00%，现报76.60美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infayyts1011013.d.html</link>
-            <guid>4254269</guid>
-            <pubDate>Sun, 22 Jun 2025 22:06:13 GMT</pubDate>
+            <title><![CDATA[【中国石化等成立油气勘探开发新公司】 企查查APP显示，近日，河南中原豫地油气勘探开发有限公司成立，注册资本9亿元，经营范围包含：石油天然气技术服务；工程和技术研究和试验发展；矿产资源储量评估服务等。企查查股权穿透显示，该公司由中国石化等共同持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmiq9692740.d.html</link>
+            <guid>4254513</guid>
+            <pubDate>Mon, 23 Jun 2025 01:46:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国12月10年期国债期货在早盘交易中上涨3个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infayyts1010462.d.html</link>
-            <guid>4254268</guid>
-            <pubDate>Sun, 22 Jun 2025 22:01:10 GMT</pubDate>
+            <title><![CDATA[港股消费股走弱，名创优品(09896.HK)跌超3%，泡泡玛特(09992.HK)跌超2%，海天味业(03288.HK)、布鲁可(00325.HK)等跟跌。]]></title>
+            <guid>4254512</guid>
+            <pubDate>Mon, 23 Jun 2025 01:45:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【黄金、原油周一开盘大涨 美股期货走低】受周末中东局势升级影响，现货黄金周一高开24美元，最高至3398美元/盎司；纳指期货跌0.9%。WTI原油高开3.7%。布伦特原油期货开盘上涨5.7%，至81.4美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infayyts1010414.d.html</link>
-            <guid>4254267</guid>
-            <pubDate>Sun, 22 Jun 2025 22:00:37 GMT</pubDate>
+            <title><![CDATA[【蔚来成立神玑技术公司 含集成电路芯片业务】 企查查APP显示，近日，安徽神玑技术有限公司成立，注册资本1000万元，经营范围包含：集成电路芯片设计及服务；集成电路芯片及产品销售；集成电路设计；人工智能应用软件开发等。企查查股权穿透显示，该公司由蔚来控股有限公司间接全资持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmit0240383.d.html</link>
+            <guid>4254511</guid>
+            <pubDate>Mon, 23 Jun 2025 01:45:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美国预计驻伊拉克和叙利亚美军基地将遭到袭击】《纽约时报》援引一位美国官员的话报道称，美国军方和情报官员已经发现了伊朗支持的民兵组织准备袭击美国在伊拉克的基地的迹象，“可能”还包括在叙利亚的美军基地。这些未被点名的武装组织迄今尚未发动袭击，伊拉克官员正在努力劝阻民兵组织采取行动。伊朗驻联合国大使周日早些时候表示，德黑兰对美国袭击的回应时间、性质和规模将由武装部队决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infayytt7784544.d.html</link>
-            <guid>4254266</guid>
-            <pubDate>Sun, 22 Jun 2025 21:56:32 GMT</pubDate>
+            <title><![CDATA[ 【萝卜快跑在湖北鄂州成立新公司，注册资本500万】 天眼查App显示，6月19日，萝卜运力（鄂州）科技有限公司成立，法定代表人为毕然，注册资本500万人民币，经营范围含,人工智能应用软件开发、人工智能基础软件开发、计算机系统服务、互联网数据服务、数据处理和存储支持服务、信息系统集成服务、信息系统运行维护服务等，由萝卜快跑关联公司萝卜运力（北京）科技有限公司全资持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmip7581437.d.html</link>
+            <guid>4254510</guid>
+            <pubDate>Mon, 23 Jun 2025 01:45:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【特朗普盟友：特朗普认为伊朗在玩把戏，需采取行动重置国际关系】美国参议员、特朗普的亲密盟友林赛·格雷厄姆员周日接受《华尔街日报》的采访。在谈及与德黑兰时，格雷厄姆表示，特朗普认为伊朗“一直在玩把戏”，而且“并不真心实意”。他提到，特朗普曾多次考虑的一个问题是：“如果你现在采取行动，就能抹去拜登从阿富汗撤军所带来的负面影响。” 这将重置美国与世界其他国家的关系。以色列已经做得非常出色，但我们也必须留下我们的印记。（关于特朗普是否需要国会授权进行打击）“根据宪法第二条，总统拥有开展保卫国家所需军事行动的所有权力。但他不能单方面正式宣战——那是国会的权限。”国会能做的另一件事是“如果不认同总统的做法，可以通过切断资金来制约他”。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infayyts1009515.d.html</link>
-            <guid>4254265</guid>
-            <pubDate>Sun, 22 Jun 2025 21:47:22 GMT</pubDate>
+            <title><![CDATA[【半导体、光刻机概念股盘初走强】 半导体、光刻机概念股盘初走强，大为股份、波长光电触及涨停，晶方科技、芯导科技、台基股份涨幅居前。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmin0806819.d.html</link>
+            <guid>4254509</guid>
+            <pubDate>Mon, 23 Jun 2025 01:44:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国际原子能机构：伊朗福尔道核设施受损情况暂无法评估】国际原子能机构22日表示，由于福尔道铀浓缩设施建在伊朗中部一座深山中，鉴于其地下位置和美国所用炸弹的穿透性，暂时无法评估受损程度。国际原子能机构总干事格罗西在该机构当天发表的声明中说：“很明显，福尔道也受到了直接影响，但无法确定铀浓缩车间内的损坏程度。”声明说，美国夜间发动空袭后，伊朗福尔道、纳坦兹和伊斯法罕三处核设施被击中。此前遭以色列多次袭击的伊斯法罕核设施遭到更多破坏。国际原子能机构曾报告说伊斯法罕核设施综合体的几座建筑物受损，其中一些建筑物内可能有核材料。美国的袭击进一步破坏了这处核设施的建筑物。国际原子能机构已确定地下隧道的入口受到了影响。格罗西说，伊朗核监管机构已通知国际原子能机构，三处核设施遭袭击后，场外辐射水平没有上升。格罗西在声明中呼吁相关国家紧急采取外交手段，以结束敌对行动，并使国际原子能机构能够恢复在伊朗的核查活动。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infayytt7783020.d.html</link>
-            <guid>4254264</guid>
-            <pubDate>Sun, 22 Jun 2025 21:26:12 GMT</pubDate>
+            <title><![CDATA[【菜鸟建立中东海湾六国跨境互发物流网络】 菜鸟全球物流网络建设取得重大进展：建立了中东海湾六国之间互发包裹的跨境物流网络，最快3天即可送达。在一众中国出海企业中，菜鸟是首家打通了中东海湾六国互发快递的全球性物流公司，是中国物流企业迈向全球化发展的一项里程碑。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmip7581293.d.html</link>
+            <guid>4254508</guid>
+            <pubDate>Mon, 23 Jun 2025 01:44:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【以色列总理称不会陷入消耗战】 当地时间6日22日，以色列总理内塔尼亚胡在一段预先录制的视频声明中，对于美国袭击伊朗核设施表示“赞赏”。他同时强调，以色列不会被卷入消耗战，但在实现所有目标之前，也不会结束这场“历史性的战役”。内塔尼亚胡表示，一旦以色列在伊朗实现了目标，便不会继续进行不必要的行动，但同时也绝不会过早收手。他指出，以色列已经取得了重大进展，如今在美国总统特朗普的协助下，离其所设定的目标更近了一步。内塔尼亚胡称，他和特朗普都决心消除威胁。（CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infayytq3326559.d.html</link>
-            <guid>4254263</guid>
-            <pubDate>Sun, 22 Jun 2025 21:11:30 GMT</pubDate>
+            <title><![CDATA[【桂林旅游等成立新公司 含蓄电池租赁业务】 企查查APP显示，桂林智行旅游网络科技有限公司成立，法定代表人为朱锦芳，注册资本50万元，经营范围包含：蓄电池租赁；电动汽车充电基础设施运营；充电控制设备租赁等。企查查股权穿透显示，该公司由桂林旅游全资子公司桂林旅游汽车运输有限责任公司等共同持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmiq9691020.d.html</link>
+            <guid>4254507</guid>
+            <pubDate>Mon, 23 Jun 2025 01:43:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【公募REITs“货架”再度上新，业内：市场规模有望持续提升】 上周，南方基金、华夏基金、创金合信基金等多家公募旗下REITs布局迎来新进展。其中，首批数据中心REITs的正式获批，填补了数据中心领域的市场空白，让不断多样化的REITs产品又多了一个新品。截至6月20日收盘，全市场的公募REITs产品数量已超过了85只，底层资产已扩展至十大类型。业内人士表示，政策支持叠加市场运行效率、底层资产多样性、投资者认知水平等方面的持续改善，公募REITs有望迎来进一步发展。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infayytt7782141.d.html</link>
-            <guid>4254262</guid>
-            <pubDate>Sun, 22 Jun 2025 21:08:57 GMT</pubDate>
+            <title><![CDATA[【吉林省：给予用人单位生育假期成本补贴，每名生育女职工补贴2000元】 据“吉林发布”，日前，吉林省卫生健康委员会联合吉林省财政厅印发《吉林省生育假期成本补贴制度实施细则》，明确2025年1月1日后，对吉林省内落实生育女职工180天产假、为生育女职工参保并缴纳企业职工基本养老保险和基本医疗保险费的用人单位，给予用人单位生育假期成本补贴，每名生育女职工补贴2000元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmip7580090.d.html</link>
+            <guid>4254506</guid>
+            <pubDate>Mon, 23 Jun 2025 01:42:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国总统特朗普：美国B - 2飞行员已在密苏里州安全着陆。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infayytu9887066.d.html</link>
-            <guid>4254261</guid>
-            <pubDate>Sun, 22 Jun 2025 21:07:33 GMT</pubDate>
+            <title><![CDATA[【北京高温橙警中小学减少户外活动】北京市气象台今日发布高温橙色预警信号，预计6月23日至24日，每日12时至18时，本市平原大部分地区最高气温将达到38℃左右。 北京市教委发布提示：幼儿园、中小学和中等职业学校减少当日高温时段室外体育课程、军事训练和户外活动。全面排查学生宿舍、教室空调等设备，采取有效措施降低宿舍、教室温度，增加室内通风；保证充足的饮水供应和饮用水安全，严格落实食品安全制度，防止发生食物中毒事件。如遇突发情况，要及时报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmip7580007.d.html</link>
+            <guid>4254505</guid>
+            <pubDate>Mon, 23 Jun 2025 01:42:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美元盘初走强约0.5%】周一汇市盘初，美元指数DXY涨0.46%，报99.23；欧元兑美元EUR/USD跌0.34%，报1.1456；美元兑日元USD/JPY涨0.45%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infayytt7782069.d.html</link>
-            <guid>4254260</guid>
-            <pubDate>Sun, 22 Jun 2025 21:07:24 GMT</pubDate>
+            <title><![CDATA[【三大指数全线翻红】指数低开高走，沪指拉升翻红，创业板指拉升涨近0.1%。油气、航运、数字货币等方向涨幅居前，沪深京三市上涨个股近3100只。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmip7579580.d.html</link>
+            <guid>4254504</guid>
+            <pubDate>Mon, 23 Jun 2025 01:41:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[以色列驻联合国大使：不作为的代价将是灾难性的，一个拥有核武的伊朗将是一张“死亡判决书”。]]></title>
-            <guid>4254259</guid>
-            <pubDate>Sun, 22 Jun 2025 21:05:45 GMT</pubDate>
+            <title><![CDATA[【IMF总裁警告称 美国打击伊朗可能造成超出能源市场的更广泛风险】国际货币基金组织(IMF)总裁克利斯塔利娜·格奥尔基耶娃警告称，随着全球不确定性加剧，美国对伊朗的打击可能会产生超出能源领域的更广泛影响。格奥尔基耶娃周一接受采访时说道：“我们认为，在本就高度不确定的环境中，这又是一个不确定性的来源。” 迄今为止，最大的冲击是对能源价格，IMF正密切关注这一点，但“也可能出现二级甚至三级影响。假设出现更多动荡，冲击大型经济体的增长前景，那么就会触发一波下调全球增长展望。”]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmin0804964.d.html</link>
+            <guid>4254503</guid>
+            <pubDate>Mon, 23 Jun 2025 01:41:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[以色列驻联合国大使：当其他所有防线都失效时，这就是最后一道防线的样子。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infayytq3326197.d.html</link>
-            <guid>4254258</guid>
-            <pubDate>Sun, 22 Jun 2025 21:04:12 GMT</pubDate>
+            <title><![CDATA[休闲食品板块盘初调整，有友食品跌停，好想你、一致魔芋、三只松鼠、盐津铺子、甘源食品、立高食品等跟跌。]]></title>
+            <guid>4254502</guid>
+            <pubDate>Mon, 23 Jun 2025 01:41:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[以色列驻联合国特使：伊朗利用谈判作掩护，争取时间制造导弹、进行铀浓缩活动。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infayytu9886881.d.html</link>
-            <guid>4254257</guid>
-            <pubDate>Sun, 22 Jun 2025 21:03:07 GMT</pubDate>
+            <title><![CDATA[【固态电池概念延续强势 湘潭电化3连板】早盘固态电池概念延续强势，湘潭电化3连板，海新能科涨超10%，海辰药业、泰和科技、德龙激光、光华科技、科力远等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmit0236994.d.html</link>
+            <guid>4254501</guid>
+            <pubDate>Mon, 23 Jun 2025 01:40:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【特朗普谈及伊朗政权变动可能性】美国总统特朗普：使用‘政权更迭’这个词在政治上是不正确的，但如果当前的伊朗政权无法让伊朗再次伟大，为什么不进行政权更迭呢？]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infayytu9886744.d.html</link>
-            <guid>4254256</guid>
-            <pubDate>Sun, 22 Jun 2025 20:58:49 GMT</pubDate>
+            <title><![CDATA[菲律宾股指跌幅扩大至1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-23/detail-infazmit0236880.d.html</link>
+            <guid>4254500</guid>
+            <pubDate>Mon, 23 Jun 2025 01:40:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
