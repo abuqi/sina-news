@@ -4,11 +4,40 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 28 Jun 2025 19:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jun 2025 20:25:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【马斯克炮轰参议院税改草案新版本：严重损害未来产业】特斯拉CEO埃隆·马斯克在社交平台X转发了有关参议院法案“提高了所有尚未开工建设的风电和太阳能项目的税率”贴文，并回复称：“参议院最新的法案草案将摧毁美国数百万个工作岗位，并对我们国家造成巨大的战略损害！极其疯狂和破坏性。它给过去的产业提供施舍，却严重损害未来的产业。”]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-29/detail-infcspka6001524.d.html</link>
+            <guid>4264603</guid>
+            <pubDate>Sat, 28 Jun 2025 20:08:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国地质调查局（USGS）：危地马拉圣何塞港西南偏南31公里处发生5.1级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-29/detail-infcspiy9226300.d.html</link>
+            <guid>4264602</guid>
+            <pubDate>Sat, 28 Jun 2025 19:53:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[参议员Sheehy：将对推进特朗普的税收法案投赞成票。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-29/detail-infcspix1462268.d.html</link>
+            <guid>4264601</guid>
+            <pubDate>Sat, 28 Jun 2025 19:47:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国务卿鲁比奥敦促伊朗确保国际原子能机构人员的安全。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-06-29/detail-infcspiv0913028.d.html</link>
+            <guid>4264600</guid>
+            <pubDate>Sat, 28 Jun 2025 19:21:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院第二号共和党人巴拉索表示，参议院将于下午4点就特朗普减税法案举行首次程序性投票。]]></title>
+            <guid>4264599</guid>
+            <pubDate>Sat, 28 Jun 2025 19:20:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[参议员SHEEHY：将投票反对推进特朗普土地销售税法案。]]></title>
             <link>https://finance.sina.cn/7x24/2025-06-29/detail-infcsiaa9355718.d.html</link>
@@ -270,36 +299,6 @@
             <link>https://finance.sina.cn/7x24/2025-06-28/detail-infcsatx9127885.d.html</link>
             <guid>4264551</guid>
             <pubDate>Sat, 28 Jun 2025 15:21:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深汕特别合作区解除暴雨黄色预警信号】 目前我区降雨已减弱，深圳市气象台2025年06月28日23时16分解除深汕特别合作区、深汕海域暴雨黄色预警信号，市民仍需注意远离河道和危险边坡等。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-28/detail-infcsatx9127484.d.html</link>
-            <guid>4264550</guid>
-            <pubDate>Sat, 28 Jun 2025 15:18:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗为在以色列袭击中遇难的同胞举行悼念仪式】伊朗28日在首都德黑兰为在以色列袭击中遇难的同胞举行悼念仪式。伊朗总统佩泽希齐扬、议长卡利巴夫、司法总监埃杰伊、外长阿拉格齐、内政部长莫梅尼、最高领袖政治顾问沙姆哈尼等伊朗高级官员、军事指挥官和遇难者家属出席仪式。参加仪式的人群沿着革命广场和自由广场游行，手举遇难军事指挥官和核科学家的照片，其中包括伊朗伊斯兰革命卫队总司令萨拉米、伊朗武装部队总参谋长巴盖里、伊朗伊斯兰革命卫队航空航天部队司令哈吉扎德等。人们在仪式现场挥舞着伊朗国旗，并高喊反以色列和反美国的口号。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-28/detail-infcsauc1697727.d.html</link>
-            <guid>4264549</guid>
-            <pubDate>Sat, 28 Jun 2025 15:14:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家防减救灾委针对贵州紧急提升国家救灾响应级别至三级 派工作组赴灾区】6月28日，针对贵州省黔东南州等地近期严重洪涝灾害，国家防灾减灾救灾委员会紧急将国家救灾应急响应级别提升至三级，派出工作组赴灾区实地查看灾情，指导和协助地方做好受灾群众基本生活保障等灾害救助工作。国家防灾减灾救灾委员会办公室、应急管理部根据贵州省严重洪涝灾害影响，会同国家粮食和物资储备局向贵州省紧急调拨折叠床、夏凉被、家庭应急包等1.5万件中央救灾物资，支持地方做好受灾群众紧急转移安置和生活保障工作。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-28/detail-infcsatz1149331.d.html</link>
-            <guid>4264548</guid>
-            <pubDate>Sat, 28 Jun 2025 15:12:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【长联科技：公司没有直接出口美国业务】 长联科技6月27日在机构调研中表示，公司海外市场主要是在东南亚地区，没有直接出口美国业务。截至目前，公司暂无海外建厂的相关计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-28/detail-infcsatx9126106.d.html</link>
-            <guid>4264547</guid>
-            <pubDate>Sat, 28 Jun 2025 15:06:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【滨州建投与侨银股份签署框架合作协议 组建合资公司推行城市大管家综合业务】 据侨银股份官微消息，6月27日，侨银城市管理股份有限公司（简称“侨银股份”）与滨州城建投资集团有限公司（简称“滨州建投”）签署框架合作协议，双方将携手组建合资公司推行城市大管家综合业务，强强联合，以数智科技赋能城市发展，全面提升城市管理水平和发展质量效益。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-06-28/detail-infcsatx9126098.d.html</link>
-            <guid>4264546</guid>
-            <pubDate>Sat, 28 Jun 2025 15:06:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
