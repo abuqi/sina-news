@@ -4,306 +4,315 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Tue, 01 Jul 2025 14:24:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Jul 2025 15:26:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[美国参议院成员们被要求参加全体会议，特朗普的“大漂亮”税收立法草案（参议院修订版）临近最终表决时刻。]]></title>
-            <guid>4268326</guid>
-            <pubDate>Tue, 01 Jul 2025 14:23:18 GMT</pubDate>
+            <title><![CDATA[美国国土安全部部长：我们正在与司法部合作，以确定是否能够起诉美国有线电视新闻网（CNN）。]]></title>
+            <guid>4268395</guid>
+            <pubDate>Tue, 01 Jul 2025 15:26:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[墨西哥总统：与美国关于全面牛肉出口的谈判将继续进行。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxe3236509.d.html</link>
-            <guid>4268325</guid>
-            <pubDate>Tue, 01 Jul 2025 14:22:39 GMT</pubDate>
+            <title><![CDATA[美国总统特朗普：CNN很可能会因报道移民相关应用程序而受到起诉。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxe3260634.d.html</link>
+            <guid>4268394</guid>
+            <pubDate>Tue, 01 Jul 2025 15:24:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【今年上半年北京好天气同比增加13天】 记者今天（7月1日）从北京市生态环境局获悉，2025年上半年，北京市细颗粒物（PM2.5）平均浓度为28.5微克/立方米，同比下降17.4%；优良天数142天，同比增加13天。水生态环境质量同比向好，土壤环境状况保持良好，生态系统质量稳中向好。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxa6461733.d.html</link>
-            <guid>4268324</guid>
-            <pubDate>Tue, 01 Jul 2025 14:21:57 GMT</pubDate>
+            <title><![CDATA[恒天然：7月11日全球乳品贸易（GDT）拍卖价格指数下降4.1%，奶粉各合同期FAS拍卖均价4,274美元/吨。批发奶粉价格指数下降5.1%，报3,859美元/吨。]]></title>
+            <guid>4268393</guid>
+            <pubDate>Tue, 01 Jul 2025 15:22:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[交易商表示，俄罗斯从黑海图普斯港出口的石油产品计划于七月达到103.5万吨，而六月份预计出口为84.6万吨。]]></title>
-            <guid>4268323</guid>
-            <pubDate>Tue, 01 Jul 2025 14:21:45 GMT</pubDate>
+            <title><![CDATA[新西兰至7月1日全球乳制品贸易价格指数 -4.1%，前值-1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxe3259579.d.html</link>
+            <guid>4268392</guid>
+            <pubDate>Tue, 01 Jul 2025 15:21:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【宝明科技：三名股东拟分别减持0.0107%、0.0714%、0.0107%股份】  宝明科技晚间公告，公司董事、副总经理巴音及合、监事会主席丁雪莲、职工代表监事焦江华计划在2025年7月23日至2025年10月22日期间，通过集中竞价交易或大宗交易方式减持股份。巴音及合拟减持不超过19500股，占总股本0.0107%；丁雪莲拟减持13万股，占总股本0.0714%；焦江华拟减持19500股，占总股本0.0107%。减持原因系股东个人资金需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytwy8632813.d.html</link>
-            <guid>4268322</guid>
-            <pubDate>Tue, 01 Jul 2025 14:21:26 GMT</pubDate>
+            <title><![CDATA[特朗普：有信心税改法案能在众议院获得通过。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytwy8649009.d.html</link>
+            <guid>4268391</guid>
+            <pubDate>Tue, 01 Jul 2025 15:21:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美国5月份职位空缺意外增加 但劳动力市场显露疲态】美国5月JOLTs职位空缺达到776.9万，远超路透调查经济学家预期的730万。当月招聘人数减少11.2万至550.3万，裁员人数下降18.8万至160.1万。5月职位空缺意外增加，但招聘人数下降进一步表明，在特朗普政府征收进口关税的不确定性下，劳动力市场已进入减速阶段。当前为期90天的对等关税暂停期即将结束。经济学家指出，7月9日特朗普政府90天关税暂停期届满后的政策走向不明，导致企业难以制定长期规划。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxa6461172.d.html</link>
-            <guid>4268321</guid>
-            <pubDate>Tue, 01 Jul 2025 14:20:43 GMT</pubDate>
+            <title><![CDATA[亚特兰大联储GDPNow模型预计美国第二季度GDP增速为2.5%，此前预计为2.9%。]]></title>
+            <guid>4268390</guid>
+            <pubDate>Tue, 01 Jul 2025 15:18:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【鲍威尔：美国联邦财政路径不可持续 必须早日加以解决】美联储主席鲍威尔表示，美国联邦财政路径不可持续，虽然债务水平可持续，但路径不可持续。由于债务增长路径不可持续，因此必须早日加以解决。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxf5192931.d.html</link>
-            <guid>4268320</guid>
-            <pubDate>Tue, 01 Jul 2025 14:19:37 GMT</pubDate>
+            <title><![CDATA[美国参议院共和党领袖图恩：似乎有足够的票数通过税收法案。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxe3258638.d.html</link>
+            <guid>4268389</guid>
+            <pubDate>Tue, 01 Jul 2025 15:18:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美国制造业活动连续第四个月萎缩 订单和就业指标加速下滑】 美国制造业连续第四个月收缩，订单和就业加速下滑，行业持续处于困境之中。据周二公布的数据，供应管理学会(ISM)制造业指数上月微升0.5至49，低于50意味着行业收缩。原材料采购价格指数显示通胀略有加快。订单指标创三个月来最大降幅，这已经是连续第五个月下滑，可能反映出关税提高和整体经济放缓的影响。积压订单指标下跌2.8至44.3，降幅为一年来最大。该指标连续33个月处于萎缩区间，时间之长创下纪录最高。需求疲软和积压订单减少部分解释了制造业就业下降速度加快的原因。ISM就业指标降至三个月低点，且连续五个月位于萎缩区间。与此同时，ISM调查显示，材料成本上升仍困扰生产商。价格指标升至69.7，接近2022年6月以来最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxf5192922.d.html</link>
-            <guid>4268319</guid>
-            <pubDate>Tue, 01 Jul 2025 14:19:34 GMT</pubDate>
+            <title><![CDATA[【普京签署法令 允许“不友好国家”投资者在俄投资】当地时间7月1日，俄罗斯总统普京签署总统令，为外国投资者设立新的投资机制。该法令对特别军事行动开始后实行的反制西方制裁做出若干例外规定，允许来自“不友好国家”的投资者对俄进行投资活动。此外，还将设立用于外国投资者交易的专门账户，可用于俄罗斯公司证券的交易和资金跨境划转等，为外国投资者权益提供了额外保障。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxa6483671.d.html</link>
+            <guid>4268388</guid>
+            <pubDate>Tue, 01 Jul 2025 15:16:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【小米汽车辟谣提前交付】7月1日，小米汽车发布小米汽车答网友问（第166集）。对于“网上有人自称小米汽车交付专员，宣称可以提前交付车辆，是真的吗？”小米汽车表示：“如有收到类似短信，请大家切勿相信，更不要涉及金钱交易，以避免经济损失。涉及类似“提前交付”、“提前交付需转账给个人”或“支付插队费”等信息，请大家一定要仔细甄别。涉及交付周期的，请参考小米汽车APP展示的预计交付周期。为保护您的个人隐私，订单、手机号等个人隐私信息请注意不要发给他人或其他公开平台。您的专属交付专员正在陆续建立企业微信交付群。当前订单量较大，请您耐心等待，感谢您的理解与支持！”]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxe3235172.d.html</link>
-            <guid>4268318</guid>
-            <pubDate>Tue, 01 Jul 2025 14:19:15 GMT</pubDate>
+            <title><![CDATA[【美国银行：美股创新高之际遭遇客户10周来最大净卖出】美国银行汇总的数据显示，标普500指数创出新高的同时美国股市录得了10周以来最大规模的净卖出。美国银行策略师Jill Carey Hall说，上周该行客户三周来首次净卖出美国股票。Hall指出，卖出由机构客户主导，对冲基金则是第二周卖出，私人客户是六周以来第一次。他表示，客户在八个板块卖出股票，其中工业和房地产居首；这两个板块已连续四周出现资金流出。与此同时，公用事业股近期遭遇的卖出时间最长；该板块和清洁技术股“受到参议院/众议院法案协调版不确定性的阻碍”。客户在卖出个股的同时买入了ETF，推动股票ETF流入创下4月以来的最高纪录。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxe3258027.d.html</link>
+            <guid>4268387</guid>
+            <pubDate>Tue, 01 Jul 2025 15:16:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德国外交部：伊朗大使今日因一名男子被指控监视犹太机构而被召见。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxf5192718.d.html</link>
-            <guid>4268317</guid>
-            <pubDate>Tue, 01 Jul 2025 14:18:48 GMT</pubDate>
+            <title><![CDATA[德国总理默茨：对美欧贸易协议持乐观态度，但不确定协议是否会达成。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxe3257546.d.html</link>
+            <guid>4268386</guid>
+            <pubDate>Tue, 01 Jul 2025 15:14:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧洲央行行长拉加德：由于碎片化问题不仅是风险，而且已经成为现实，大家都面临挑战。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxa6460451.d.html</link>
-            <guid>4268316</guid>
-            <pubDate>Tue, 01 Jul 2025 14:18:27 GMT</pubDate>
+            <title><![CDATA[【鲍威尔回应特朗普攻击：将100%专注美联储法定职责】在葡萄牙举行的欧洲央行活动上，有人提问美联储主席鲍威尔“美国总统特朗普频繁的人身攻击是否增加其工作难度”，对此，鲍威尔回答道：“我只专注于做好本职工作。重要的是使用我们的工具来实现国会给我们的目标：最大限度的就业、价格稳定，以及金融稳定。这就是我们100%专注的方向。”现场听众和包括欧洲央行行长拉加德在内的其他与会者报以掌声。后续被问及明年五月主席任期结束后会否留任美联储时，鲍威尔称今日对此无可奉告。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxe3257080.d.html</link>
+            <guid>4268385</guid>
+            <pubDate>Tue, 01 Jul 2025 15:13:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美国职位空缺意外升至去年11月以来最高】美国5月份的职位空缺意外上升至去年11月以来的最高水平，裁员人数下降，表明尽管经济存在不确定性，但劳动力市场保持稳定。美国劳工统计局周二公布的数据显示，就业岗位从4月份修正后的740万个增至777万个，这超出了经济学家的预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytwy8631374.d.html</link>
-            <guid>4268315</guid>
-            <pubDate>Tue, 01 Jul 2025 14:16:30 GMT</pubDate>
+            <title><![CDATA[【美联储主席鲍威尔：关税带来不确定性 导致降息推迟】当地时间7月1日，美联储主席鲍威尔在葡萄牙辛特拉出席会议时表示，如果不是因为美国总统特朗普的关税政策，美联储2025年就会开始降息，目前也会采取更宽松的货币政策。在被问及美国政府现行关税制度造成的不确定性是否导致美联储推迟降息时，鲍威尔给出了肯定答复，他补充说，由于关税的影响，几乎所有对于美国通胀率的预测都在大幅上升。鲍威尔承认，尽管美国政府施加的压力越来越大，但美联储仍进入维持利率的模式。鲍威尔同时表示，鉴于当前经济前景的不稳定性，目前美联储还在观望局势，以了解更多信息。此外，在被问及7月份降息的可能性时，鲍威尔表示，他不会排除任何可能性，也不会“直接将其摆上台面”，这将取决于数据如何演变。鲍威尔表示，美联储利率制定委员会的“绝大多数”成员确实预计今年晚些时候再次降息是合适的。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxe3256588.d.html</link>
+            <guid>4268384</guid>
+            <pubDate>Tue, 01 Jul 2025 15:11:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[萨尔瓦多4月份经济活动同比增长2.47%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytwy8631165.d.html</link>
-            <guid>4268314</guid>
-            <pubDate>Tue, 01 Jul 2025 14:15:40 GMT</pubDate>
+            <title><![CDATA[Prosus于6月23-27日当周按均价47.5978欧元回购股票337.9017万股，总计1.608亿欧元（折合1.869亿美元）。Naspers同期按均价5492.2382南非兰特回购股票43.4976万股，总计23.890亿兰特（折合1.341亿美元）。]]></title>
+            <guid>4268383</guid>
+            <pubDate>Tue, 01 Jul 2025 15:08:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【金力泰：被实施退市风险警示和其他风险警示 股票简称变更为“*ST金泰”】 金力泰公告称，公司股票于2025年7月2日继续停牌一天，于2025年7月3日开市起复牌，自复牌起被实施“退市风险警示”和“其他风险警示”，股票简称由“金力泰”变更为“*ST金泰”。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxa6459246.d.html</link>
-            <guid>4268313</guid>
-            <pubDate>Tue, 01 Jul 2025 14:14:25 GMT</pubDate>
+            <title><![CDATA[耐克逆势涨近4%，绩后累涨18%。消息面上，6月27日，该公司披露的第四财季财务数据显示，当季耐克实现营收111亿美元，同比下滑12%，但仍较市场预测的107.2亿美元高出3.8%。]]></title>
+            <guid>4268382</guid>
+            <pubDate>Tue, 01 Jul 2025 15:08:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：互换额度方面没有任何变化。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxf5191527.d.html</link>
-            <guid>4268312</guid>
-            <pubDate>Tue, 01 Jul 2025 14:14:00 GMT</pubDate>
+            <title><![CDATA[美国股市持续跌势，纳斯达克指数下跌1.00%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxe3255644.d.html</link>
+            <guid>4268381</guid>
+            <pubDate>Tue, 01 Jul 2025 15:08:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美元兑瑞士法郎收复部分失地，最新下跌0.28%，报0.7910瑞士法郎。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytwy8630611.d.html</link>
-            <guid>4268311</guid>
-            <pubDate>Tue, 01 Jul 2025 14:13:22 GMT</pubDate>
+            <title><![CDATA[【巴勒斯坦媒体：以军袭击加沙多地造成至少51人死亡】据巴勒斯坦通讯社7月1日报道，以色列军队当天袭击加沙地带多地，造成巴方至少51人死亡。报道说，以军当天轰炸了加沙地带南部汗尤尼斯地区一栋房屋和北部杰巴利耶地区的人群，共造成至少17人死亡。此外，以军还轰炸了加沙地带中部迈加齐难民营等地，造成人员伤亡。以军在加沙地带多处袭击导致至少16名等待领取援助物资的巴勒斯坦人死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxa6480329.d.html</link>
+            <guid>4268380</guid>
+            <pubDate>Tue, 01 Jul 2025 15:05:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[韩国央行行长李昌镛：金融危机期间的美元流动性支持对恢复稳定至关重要。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxa6458880.d.html</link>
-            <guid>4268310</guid>
-            <pubDate>Tue, 01 Jul 2025 14:13:11 GMT</pubDate>
+            <title><![CDATA[墨西哥央行调查：私营部门分析师预计2026年核心通胀率为3.71%，而此前调查中的预期为3.70%。]]></title>
+            <guid>4268379</guid>
+            <pubDate>Tue, 01 Jul 2025 15:02:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[航运情报公司Kpler：沙特6月原油出口量环比增加45万桶/日至633万桶/日，为一年多来最高水平。]]></title>
-            <guid>4268309</guid>
-            <pubDate>Tue, 01 Jul 2025 14:10:07 GMT</pubDate>
+            <title><![CDATA[墨西哥央行调查：私营部门分析师预计2025年核心通胀率为4.00%，而此前调查中的预期为3.98%。]]></title>
+            <guid>4268378</guid>
+            <pubDate>Tue, 01 Jul 2025 15:02:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国央行行长贝利：碎片化不利于世界经济活动。必须重返多边合作进程。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxa6457837.d.html</link>
-            <guid>4268308</guid>
-            <pubDate>Tue, 01 Jul 2025 14:10:01 GMT</pubDate>
+            <title><![CDATA[墨西哥央行调查：私营部门分析师预计2026年底基准利率为6.88%，而此前调查结果为7.00%。]]></title>
+            <guid>4268377</guid>
+            <pubDate>Tue, 01 Jul 2025 15:02:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国参议员Thune：相信共和党已经达成协议，通过特朗普的税收法案。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytwy8629581.d.html</link>
-            <guid>4268307</guid>
-            <pubDate>Tue, 01 Jul 2025 14:09:42 GMT</pubDate>
+            <title><![CDATA[墨西哥央行调查：私营部门分析师预计2025年底汇率为20.13比索兑1美元，而上次调查结果为20.50比索兑1美元。]]></title>
+            <guid>4268376</guid>
+            <pubDate>Tue, 01 Jul 2025 15:02:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[在职位空缺数据好于预期之后，美元兑日元收复部分失地，最新下跌0.46%，报143.325日元。]]></title>
-            <guid>4268306</guid>
-            <pubDate>Tue, 01 Jul 2025 14:09:22 GMT</pubDate>
+            <title><![CDATA[墨西哥央行调查：私营部门分析师预计2026年经济增长率为1.40%，而此前调查中的预期为1.41%。]]></title>
+            <guid>4268375</guid>
+            <pubDate>Tue, 01 Jul 2025 15:01:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国参议员Hoeven：参议院即将对特朗普税改法案进行最后投票。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxf5190097.d.html</link>
-            <guid>4268305</guid>
-            <pubDate>Tue, 01 Jul 2025 14:08:44 GMT</pubDate>
+            <title><![CDATA[截至23:00收盘，国内期货主力合约涨跌不一。烧碱涨超2%，螺纹钢涨近1%。跌幅方面，白糖、PX、PTA跌超1%。]]></title>
+            <guid>4268374</guid>
+            <pubDate>Tue, 01 Jul 2025 15:00:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：2025年无疑是一个重要的年份，市场将会发生许多变化。对于特朗普的抨击，我专注于做好自己的工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxf5189986.d.html</link>
-            <guid>4268304</guid>
-            <pubDate>Tue, 01 Jul 2025 14:08:22 GMT</pubDate>
+            <title><![CDATA[现货铂金刚刚突破1340.00美元/盎司关口，最新报1339.66美元/盎司，日内跌0.72%；Nymex铂金期货主力最新报1363.4美元/盎司，日内涨1.52%.]]></title>
+            <guid>4268373</guid>
+            <pubDate>Tue, 01 Jul 2025 15:00:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[交易员在JOLTs数据公布后略微减少对美联储降息的预期，预计九月开始降息的可能性最大，七月降息的概率为21%。]]></title>
-            <guid>4268303</guid>
-            <pubDate>Tue, 01 Jul 2025 14:06:48 GMT</pubDate>
+            <title><![CDATA[【利率、通胀、关税...五大央行掌门人论坛发言重点一览】
+美联储主席鲍威尔：
+1. 利率：无法说7月份考虑降息是否为时过早。不会排除任何一次会议，这将取决于数据。
+2. 经济：美国经济处于相当良好的状态。只要美国经济保持坚挺，谨慎的做法是等待。
+3. 通胀：预期夏季期间将出现更高的通胀水平。若忽略关税因素，通胀将按预期运行。
+4. 债务：美国联邦财政路径不可持续，虽然债务水平可持续，但路径不可持续。
+5. 政治压力：（对于特朗普的攻击）我非常专注于做好我的工作；应当避免介入政治事务。
+欧洲央行行长拉加德：
+1. 利率：不会承诺未来的利率路径，数据将会揭示答案。
+2. 通胀：并未宣告任务完成，但目标已达到。必须保持对通胀的高度警惕。
+3. 汇率：欧洲央行将在预测中考虑汇率因素。汇率反映了经济的强劲程度。
+英国央行行长贝利：
+1. 利率：利率的走向仍然呈现下行趋势。终端利率的水平存在巨大的不确定性。
+2. 通胀：英国的通胀完全由价格管理引起的。目前尚未看到关税对物价的影响。
+3. 政策立场：货币政策仍然具有限制性，并将继续保持紧缩，预计程度将变得更加中性。
+日本央行行长植田和男：
+1. 利率：当前利率低于中性水平。任何加息措施都将取决于通胀动态的三个要素。
+2. 通胀：潜在通胀低于物价目标。预计潜在通胀将缓慢上升。
+韩国央行行长李昌镛：
+1. 利率：仍继续处于宽松周期中。在决定是否进一步降息时，将密切关注金融稳定风险。
+2. 关税：关税政策倾向于具有通缩效应。26%的关税和行业关税的影响将超过国内生产总值的1%。
+3. 汇率：韩元在过去两个月中显著升值，从某种意义上说，这实际上是货币的某种“正常化”。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxf5204724.d.html</link>
+            <guid>4268372</guid>
+            <pubDate>Tue, 01 Jul 2025 15:00:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【华岭股份回应收入下滑：晶圆测试和成品测试业务量均有所下降】华岭股份回复了交易所的年报问询函。针对经营业绩，公司表示，2024年集成电路产业结构性分化，消费类芯片测试需求低迷，高端测试需求增长未弥补缺口，导致公司晶圆测试和成品测试业务量下降，收入同比下滑，亏损4202.56万元。对于临港项目，华岭股份称整体建设进度及投产情况与原计划基本一致，不存在提前或延期转固，承建方与公司及关联方无关联关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxf5189374.d.html</link>
-            <guid>4268302</guid>
-            <pubDate>Tue, 01 Jul 2025 14:06:25 GMT</pubDate>
+            <title><![CDATA[富国银行将Reddit目标股价从每股115.00美元上调至118.00美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytwy8643889.d.html</link>
+            <guid>4268371</guid>
+            <pubDate>Tue, 01 Jul 2025 15:00:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[韩国央行行长李昌镛：韩元在过去两个月中显著升值，但我认为这主要是由于我们所处的特殊情况所致。此前，由于政治风险加上经济放缓，实际导致韩元贬值程度远超出基本面所能解释的范围。所以从某种意义上说，过去两个月我们观察到的升值，实际上是货币的某种“正常化”。]]></title>
-            <guid>4268301</guid>
-            <pubDate>Tue, 01 Jul 2025 14:06:17 GMT</pubDate>
+            <title><![CDATA[【我国蔬菜种子自给率接近91%番茄育种芯片年内上市】据了解，我国的蔬菜种子自给率接近91%，有力保障了“菜篮子”的丰富性。在北京通州国际种业园区的实验室，工作人员向记者展示了今年刚刚研发成功的国产固相芯片检测设备和固相芯片，基于这项芯片技术的突破，他们在今年5月份启动了全国首个番茄育种自主化固相基因芯片项目。据了解，他们研发的番茄育种芯片预计在今年年底上市，正式商业化应用后，基因检测成本将从每份样品120元降低到40元，应用范围将覆盖上游番茄分子育种、品种选育，以及下游的品种鉴定。 (央视财经)]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxe3252937.d.html</link>
+            <guid>4268370</guid>
+            <pubDate>Tue, 01 Jul 2025 14:59:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美联储主席鲍威尔：关税将在今年夏季对物价产生影响】美联储主席杰罗姆·鲍威尔重申，关税影响预计将在未来几个月的通胀数据中显现，但他也承认不确定因素依然存在。鲍威尔周二在央行领导人讨论会上说， “我们正在关注，预计夏季会看到一些更高的数字”。但他补充道，关税影响有可能“高于或低于预期，到来的时间可能早于或晚于预期”，政策制定者对这些有心理准备。尽管特朗普就降息施加强大压力，但美联储今年迄今尚未下调利率，部分原因是要观察关税引发的价格上涨是否会演变为更持久的通胀。然而，到目前为止，物价并未因为通胀而明显升高。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytwy8628422.d.html</link>
-            <guid>4268300</guid>
-            <pubDate>Tue, 01 Jul 2025 14:05:48 GMT</pubDate>
+            <title><![CDATA[美国总统特朗普：如果政府效率部（DOGE）关注到埃隆·马斯克，我们将节省一大笔财富。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxe3252535.d.html</link>
+            <guid>4268369</guid>
+            <pubDate>Tue, 01 Jul 2025 14:58:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[巴西监管机构批准Enel圣保罗公司上调能源电价。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxe3230814.d.html</link>
-            <guid>4268299</guid>
-            <pubDate>Tue, 01 Jul 2025 14:05:11 GMT</pubDate>
+            <title><![CDATA[【伊朗称过去两周在东南部逮捕50余名以色列有关人员】当地时间7月1日，伊朗宣布在伊斯兰革命卫队和当地情报部门的配合下，过去两周内，成功在该国东南部锡斯坦-俾路支斯坦省逮捕了50多名与以色列有关联的人员，并打死2名以色列相关人员。在搜查和逮捕过程中，行动人员缴获了大量武器装备。据称，这些人员试图在伊朗东南部地区制造混乱，破坏当地的基础设施和经济活动。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxe3252437.d.html</link>
+            <guid>4268368</guid>
+            <pubDate>Tue, 01 Jul 2025 14:57:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[官方数据显示，截至6月29日，2024 - 2025年度欧盟软小麦出口量为2019万吨，而上年同期为3107万吨。]]></title>
-            <guid>4268298</guid>
-            <pubDate>Tue, 01 Jul 2025 14:05:01 GMT</pubDate>
+            <title><![CDATA[美国总统特朗普：不担心马斯克对税收法案的批评。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxa6477841.d.html</link>
+            <guid>4268367</guid>
+            <pubDate>Tue, 01 Jul 2025 14:57:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[彭博美元指数在ism制造业公布后收复失地。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytwy8628066.d.html</link>
-            <guid>4268297</guid>
-            <pubDate>Tue, 01 Jul 2025 14:04:35 GMT</pubDate>
+            <title><![CDATA[美国总统特朗普：政府效率部（DOGE）将关注埃隆·马斯克。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytwy8643471.d.html</link>
+            <guid>4268366</guid>
+            <pubDate>Tue, 01 Jul 2025 14:57:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：随着最后期限的临近，欧盟对特朗普关税的立场变得强硬。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxa6456010.d.html</link>
-            <guid>4268296</guid>
-            <pubDate>Tue, 01 Jul 2025 14:04:24 GMT</pubDate>
+            <title><![CDATA[ AXIOS：以色列战略事务部长罗恩·德默将于周二在华盛顿会见美国副总统 JD 万斯、国务卿马可·鲁比奥和特使史蒂夫·维特科夫。]]></title>
+            <guid>4268365</guid>
+            <pubDate>Tue, 01 Jul 2025 14:56:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【明后两天，S2线、通密线、怀柔-密云线部分列车临时停运】因降雨影响，2025年7月2日，S2线S203次、S206次、S205次临时停运；通密线S604次、S601次、S612次临时停运；怀柔-密云线S514次、S513次、S503次、S504次、S523次、S517次、S518次临时停运； 2025年7月3日，S2线S202次、S201次临时停运；通密线S611次、S602次、S603次临时停运；怀柔-密云线S512次、S515次、S524次、S522次、S521次、S511次、S501次、S502次临时停运。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxe3230342.d.html</link>
-            <guid>4268295</guid>
-            <pubDate>Tue, 01 Jul 2025 14:03:54 GMT</pubDate>
+            <title><![CDATA[特朗普：我们需要更多墙。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxa6477111.d.html</link>
+            <guid>4268364</guid>
+            <pubDate>Tue, 01 Jul 2025 14:55:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中南文化：江阴澄邦及江阴新国联持股比例被动增至30.16%】 中南文化公告，中南文化注销回购股份导致控股股东江阴澄邦企业管理发展中心（有限合伙）及江阴市新国联电力发展有限公司持有中南文化的股份比例由29.97%被动增加至30.16%。本次收购是因中南文化注销回购股份而减少股本，导致收购人拥有中南文化的股份占上市公司全部已发行股份的比例被动增至30.00%以上，符合《回购规则》第十六条、《9号指引》第十一条第三款规定的免于发出要约的情形。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxf5188416.d.html</link>
-            <guid>4268294</guid>
-            <pubDate>Tue, 01 Jul 2025 14:03:19 GMT</pubDate>
+            <title><![CDATA[美国总统特朗普：重申美国已摧毁伊朗核设施。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxa6476914.d.html</link>
+            <guid>4268363</guid>
+            <pubDate>Tue, 01 Jul 2025 14:55:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国国债收益率在制造业和JOLTS数据公布后继续上涨，10年期国债收益率上涨2个基点，至4.248%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytwy8627603.d.html</link>
-            <guid>4268293</guid>
-            <pubDate>Tue, 01 Jul 2025 14:03:09 GMT</pubDate>
+            <title><![CDATA[美国总统特朗普：与以色列总理内塔尼亚胡的会晤将是一次“短暂的庆祝”。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxe3251354.d.html</link>
+            <guid>4268362</guid>
+            <pubDate>Tue, 01 Jul 2025 14:54:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[苹果股价触及六周高位，最新上涨1.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxa6455351.d.html</link>
-            <guid>4268292</guid>
-            <pubDate>Tue, 01 Jul 2025 14:02:39 GMT</pubDate>
+            <title><![CDATA[美国总统特朗普：将密切关注俄罗斯的动向。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxa6476716.d.html</link>
+            <guid>4268361</guid>
+            <pubDate>Tue, 01 Jul 2025 14:54:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【鲍威尔：无法断言7月降息是否过早 不排除任何一次会议】在葡萄牙辛特拉的欧洲经济论坛上，当被问及如果关税没有引发通胀，美联储是否会进一步放松货币政策时，美联储主席鲍威尔表示：“在评估关税规模后，我们便决定暂缓行动。”他预计受关税影响，今夏通胀将小幅走高，因此在经济依然稳健的情况下，美联储选择保持耐心，等待是最审慎的做法。鲍威尔称，无法断言7月降息是否为时过早，但强调“不会预先排除任何会议的可能性”，下一步行动将完全取决于数据表现。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxe3229643.d.html</link>
-            <guid>4268291</guid>
-            <pubDate>Tue, 01 Jul 2025 14:02:00 GMT</pubDate>
+            <title><![CDATA[美国总统特朗普：（就税收法案）听说我们的情况不错。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytwy8642685.d.html</link>
+            <guid>4268360</guid>
+            <pubDate>Tue, 01 Jul 2025 14:53:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【航行警告！南海部分海域实弹射击】汕头海事局发布航行警告，7月2日和4日，每天8时至18时，南海部分海域进行实弹射击，禁止驶入。（中国海事局网站）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxf5187441.d.html</link>
-            <guid>4268290</guid>
-            <pubDate>Tue, 01 Jul 2025 14:00:51 GMT</pubDate>
+            <title><![CDATA[【波罗的海干散货运价指数触及近一个月低位，因海岬型船需求下滑】周二，波罗的海干散货运价指数连续第五个交易日下跌，至一个月低位附近，因对海岬型船的需求下滑。波罗的海干散货运价指数下跌31点或2.1%，报1458点，为自6月3日以来最低水平。海岬型船运价指数下滑100点或4.7%，至2011点，为5月28日以来最低位。海岬型船日均获利下降833美元，至16677美元。巴拿马型船运价指数持平，报1500点。巴拿马型船日均获利下降4美元，至13498美元。超灵便型散货船运价指数上涨6点，至1018点。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxa6476096.d.html</link>
+            <guid>4268359</guid>
+            <pubDate>Tue, 01 Jul 2025 14:52:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国5月营建支出月率 -0.3%，预期-0.2%，前值由-0.40%修正为-0.2%。
-美国6月ISM制造业PMI 49，预期48.8，前值48.5。
-美国6月ISM就业指数 45，预期47，前值46.8。
-美国6月ISM制造业物价支付指数 69.7，预期69，前值69.4。
-美国6月ISM新订单指数 46.4，前值47.6。
-美国6月ISM产出指数 50.3，前值45.4。
-美国6月ISM库存指数 49.2，前值46.7。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxa6454505.d.html</link>
-            <guid>4268289</guid>
-            <pubDate>Tue, 01 Jul 2025 14:00:13 GMT</pubDate>
+            <title><![CDATA[【机构今日首次关注11只个股】Wind数据显示，机构今日首次关注11只个股，其中海信视像获国信证券给予“优于大市”评级，目标价24.89至29.63元，最新收盘价23.49元；美好医疗获中邮证券给予“买入”评级，最新收盘价18.14元。江淮汽车、银龙股份等个股在列。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytwy8641855.d.html</link>
+            <guid>4268358</guid>
+            <pubDate>Tue, 01 Jul 2025 14:49:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国5月JOLTs职位空缺 776.9万人，预期730万人，前值由739.1万人修正为739.5万人。]]></title>
-            <guid>4268288</guid>
-            <pubDate>Tue, 01 Jul 2025 14:00:10 GMT</pubDate>
+            <title><![CDATA[【花旗聘请前野村控股资深投资银行家 拟扩大日本业务】 花旗集团周二表示，已从野村控股聘请资深投资银行家Akira Kiyota，并提拔内部人士Taiji Nagasaka为日本投资银行业务联席主管。上述任命将于10月1日生效，突显出在并购活动反弹以及企业在更有利的利率环境下寻求战略交易之后，华尔街银行正努力扩大在日本的业务。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytwy8641485.d.html</link>
+            <guid>4268357</guid>
+            <pubDate>Tue, 01 Jul 2025 14:47:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【*ST三圣：潘先文持股比例降至17.26%】 *ST三圣公告，信息披露义务人潘先文因司法拍卖导致持股比例从24.20%降至17.26%。本次权益变动后，潘先文持有公司股份7455.42万股，仍为控股股东。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxa6454405.d.html</link>
-            <guid>4268287</guid>
-            <pubDate>Tue, 01 Jul 2025 13:59:54 GMT</pubDate>
+            <title><![CDATA[【特朗普施压美联储将利率降至1%】当地时间6月30日，美国总统特朗普再次“炮轰”美国联邦储备委员会主席鲍威尔，称美联储应尽早将利率降至1%。白宫新闻秘书当天还在记者会上宣读了一封特朗普写给鲍威尔的手写信。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxa6473731.d.html</link>
+            <guid>4268356</guid>
+            <pubDate>Tue, 01 Jul 2025 14:46:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【湖北消金增资获批 注册资本增至13.589亿元】 湖北消费金融股份有限公司官网信息显示，公司已收到湖北金融监管局关于湖北消金变更注册资本及调整股权结构的批复。据此，湖北消金注册资本获批由10.058亿元增至13.589亿元，增资后各股东出资比例分别为：湖北银行49.61%、新疆特易数科18.11%、北京宇信科技9.45%、TCL科技集团7.87%、万得信息技术7.87%、武汉商联集团3.54%、武商集团3.54%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxe3228870.d.html</link>
-            <guid>4268286</guid>
-            <pubDate>Tue, 01 Jul 2025 13:59:37 GMT</pubDate>
+            <title><![CDATA[纳斯达克指数刚刚跌突破20200.00关口，最新报20199.91，日内跌0.83%。英伟达日内跌幅达3%。]]></title>
+            <guid>4268355</guid>
+            <pubDate>Tue, 01 Jul 2025 14:46:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：我个人认为情景分析非常有用。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxe3228798.d.html</link>
-            <guid>4268285</guid>
-            <pubDate>Tue, 01 Jul 2025 13:59:21 GMT</pubDate>
+            <title><![CDATA[【阿联酋航空开通深圳直飞迪拜航线】7月1日，阿联酋航空正式开通深圳直飞迪拜航线。该航线开通后，深圳宝安国际机场往返迪拜的航线由原来的每周4班增至每周11班，实现“每天飞”，既便利了深圳与中东地区的经贸文旅往来，也为粤港澳大湾区居民往来迪拜、经迪拜中转至全球各地提供了更加高效便捷的空中通道。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxa6473384.d.html</link>
+            <guid>4268354</guid>
+            <pubDate>Tue, 01 Jul 2025 14:45:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：我们将在秋季讨论沟通策略和各种情景预案。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxe3228708.d.html</link>
-            <guid>4268284</guid>
-            <pubDate>Tue, 01 Jul 2025 13:59:03 GMT</pubDate>
+            <title><![CDATA[【鲍威尔预计关税对通胀影响将在今夏显现，但未排除7月降息可能】 美联储主席鲍威尔重申，关税影响预计将在未来几个月的通胀数据中显现，但他也承认不确定因素依然存在。鲍威尔周二在央行领导人讨论会上说， “我们正在关注，预计夏季会看到一些更高的数字”。但他补充道，关税影响有可能“高于或低于预期，到来的时间可能早于或晚于预期”，政策制定者对这些有心理准备。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxa6472276.d.html</link>
+            <guid>4268353</guid>
+            <pubDate>Tue, 01 Jul 2025 14:44:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[印度石油部部长：希望财政部能向国有燃料零售商发放液化石油气补偿。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxe3228433.d.html</link>
-            <guid>4268283</guid>
-            <pubDate>Tue, 01 Jul 2025 13:57:59 GMT</pubDate>
+            <title><![CDATA[比特币失守106000美元/枚，日内跌幅1.10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxe3246343.d.html</link>
+            <guid>4268352</guid>
+            <pubDate>Tue, 01 Jul 2025 14:43:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国国债收益率从高位回落，目前整条收益率曲线趋于平缓，因为美联储的鲍威尔表示无法确定7月降息是否为时过早。]]></title>
-            <guid>4268282</guid>
-            <pubDate>Tue, 01 Jul 2025 13:57:51 GMT</pubDate>
+            <title><![CDATA[乌克兰总统泽连斯基：我与阿塞拜疆总统阿利耶夫进行了通话。我们同意举行联合政府间经济合作委员会会议。两国政府官员正在加紧工作。]]></title>
+            <guid>4268351</guid>
+            <pubDate>Tue, 01 Jul 2025 14:43:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧洲央行行长拉加德：欧洲央行将更加系统性地采用情景分析的办法。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxe3228372.d.html</link>
-            <guid>4268281</guid>
-            <pubDate>Tue, 01 Jul 2025 13:57:43 GMT</pubDate>
+            <title><![CDATA[阿斯利康ADR涨幅迅速扩大至2.67%刷新日高，伦敦股价涨1.2%刷新日高。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytwy8639587.d.html</link>
+            <guid>4268350</guid>
+            <pubDate>Tue, 01 Jul 2025 14:42:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[北京 市规划自然资源委提示：7月2日12时至7月3日12时房山区、昌平区、延庆区、怀柔区、密云区、平谷区山区道路沿线局部路段山体斜坡有发生崩塌灾害的风险，请注意防范。]]></title>
-            <guid>4268280</guid>
-            <pubDate>Tue, 01 Jul 2025 13:57:40 GMT</pubDate>
+            <title><![CDATA[泰晤士报：阿斯利康首席执行官已讨论将上市地点迁往美国。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxa6467921.d.html</link>
+            <guid>4268349</guid>
+            <pubDate>Tue, 01 Jul 2025 14:38:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【拉卡拉：联想控股计划减持不超过2%公司股份】拉卡拉(300773.SZ)公告称，股东联想控股计划在未来三个月内以集中竞价和大宗交易方式合计减持公司不超过2.00%的股份，即不超过1576万股。减持原因是自身业务安排及需要。减持价格将根据市场情况确定。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxa6453776.d.html</link>
-            <guid>4268279</guid>
-            <pubDate>Tue, 01 Jul 2025 13:57:31 GMT</pubDate>
+            <title><![CDATA[提示：全球主要央行行长小组会谈结束。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxa6467652.d.html</link>
+            <guid>4268348</guid>
+            <pubDate>Tue, 01 Jul 2025 14:38:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[在鲍威尔发表评论后，标准普尔500指数和纳斯达克指数挽回了一些损失。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytwy8625775.d.html</link>
-            <guid>4268278</guid>
-            <pubDate>Tue, 01 Jul 2025 13:56:37 GMT</pubDate>
+            <title><![CDATA[巴西全国谷物出口商协会（Anec）：巴西6月玉米出口量预计达566,435吨，而上次预估为982,812吨。]]></title>
+            <guid>4268347</guid>
+            <pubDate>Tue, 01 Jul 2025 14:36:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本央行行长植田和男：当前利率低于中性水平。中性利率的估算范围非常宽泛。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxf5186441.d.html</link>
-            <guid>4268277</guid>
-            <pubDate>Tue, 01 Jul 2025 13:56:13 GMT</pubDate>
+            <title><![CDATA[俄罗斯莫斯科交易所 6 月总交易量达 125.9 万亿卢布。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-01/detail-infcytxe3240546.d.html</link>
+            <guid>4268346</guid>
+            <pubDate>Tue, 01 Jul 2025 14:35:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
