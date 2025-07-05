@@ -4,11 +4,29 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 05 Jul 2025 18:31:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Jul 2025 19:18:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：伊朗最高领袖哈梅内伊出席活动，这是他数周来首次公开露面。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-06/detail-infenexa6095630.d.html</link>
+            <guid>4274573</guid>
+            <pubDate>Sat, 05 Jul 2025 19:11:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【香港举办学校教育展 超200所学校参展】香港一条龙学校教育展正在香港亚洲国际博览馆举行，超过200所香港学校参展，提供在港就读中、小学和幼儿园等最新信息。该展览自7月4日持续至6日。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-06/detail-infenewy9320911.d.html</link>
+            <guid>4274572</guid>
+            <pubDate>Sat, 05 Jul 2025 19:05:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【泰国33个府拉响灾情警报】泰国防灾减灾局5日下午向北部、东北部、中部和南部的33个府发布了紧急灾情警报，警告近期可能会发生山洪暴发、森林径流、山体滑坡和河流水位上涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-06/detail-infenexa6094322.d.html</link>
+            <guid>4274570</guid>
+            <pubDate>Sat, 05 Jul 2025 18:42:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【印尼发现疑似巴厘海峡沉船残骸】由印度尼西亚多方组成的联合搜救队5日晚表示，在巴厘海峡海底40至60米处发现疑似为沉没渡轮“图努·普拉塔马·贾亚”号的残骸。据安塔拉等印尼媒体报道，印尼国家搜救局搜救与应急准备行动负责人里布特·埃科·苏扬托在新闻发布会上介绍，交通部导航局在水下探测中发现一处可疑物体，其形状与尺寸与失事轮渡高度相似。不过，他表示，仍需借助印尼海军配备的声纳等专业设备进一步核实确认。]]></title>
             <link>https://finance.sina.cn/7x24/2025-07-06/detail-infenewy9319152.d.html</link>
@@ -279,24 +297,6 @@
             <title><![CDATA[ 据猫眼专业版预测票房数据显示，《F1：狂飙飞车》预测票房连续4天上涨，预测总票房超4.05亿。]]></title>
             <guid>4274463</guid>
             <pubDate>Sat, 05 Jul 2025 14:25:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国政府宣布追加提供9450万英镑援助计划，为叙利亚人提供紧急人道主义援助]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-05/detail-infemuih6327132.d.html</link>
-            <guid>4274462</guid>
-            <pubDate>Sat, 05 Jul 2025 14:22:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国政府表示，外交大臣拉米访问大马士革是为了强调英国支持叙利亚政府履行其承诺。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-05/detail-infemuic1655905.d.html</link>
-            <guid>4274461</guid>
-            <pubDate>Sat, 05 Jul 2025 14:22:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国得州中部洪水开始退去 救援人员继续搜寻遇难者】当地时间周六，一场紧急搜救仍在进行，寻找得州中部一家百年历史的基督教女子营地中约 24 名失踪人员。此前该地区的山洪暴发在美国独立日周末伊始造成至少 24 人死亡，并促使救援人员营救了数百人。当局称，对救援人员而言，情况出现转机：周六，圣安东尼奥西北约 85 英里（137 公里）处瓜达卢佩河周边地区的洪水正在退去。该区域至少 237 人已被营救，其中 100 多人通过直升机获救。神秘夏令营（Camp Mystic）另有 23 至 25 人失踪，据报大多数为年轻女孩。营地附近的河流水位曾迅速上涨 29 英尺。美国国家气象局表示，得州丘陵地带中南部克尔县部分地区（圣安东尼奥西北约 65 英里 / 105 公里）的山洪紧急状态已基本结束。此前，雷暴在周五清晨带来了高达一英尺的降雨。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-05/detail-infemuii8216582.d.html</link>
-            <guid>4274460</guid>
-            <pubDate>Sat, 05 Jul 2025 14:22:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
