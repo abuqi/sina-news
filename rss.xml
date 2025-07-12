@@ -4,11 +4,55 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 12 Jul 2025 18:32:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Jul 2025 19:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[海南省气象台2025年07月13日03时12分发布海上雷雨大风黄色预警信号：本岛西部海面03时15分到08时可能出现雷雨大风天气，风力达7～9级，并伴有强雷电，建议有关单位和人员做好防范工作。]]></title>
+            <guid>4284639</guid>
+            <pubDate>Sat, 12 Jul 2025 19:18:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗外长说将继续坚持铀浓缩权利】 伊朗外交部长阿拉格齐12日说，伊朗愿就其核计划进行谈判，但不会接受任何不承认其铀浓缩权利的协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-13/detail-inffhaty5933606.d.html</link>
+            <guid>4284638</guid>
+            <pubDate>Sat, 12 Jul 2025 19:17:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国土安全部部长诺姆：作为改革措施的一部分，特朗普可能将联邦紧急事务管理局重新命名。]]></title>
+            <guid>4284637</guid>
+            <pubDate>Sat, 12 Jul 2025 18:54:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥总统：墨西哥的主权不容谈判。]]></title>
+            <guid>4284636</guid>
+            <pubDate>Sat, 12 Jul 2025 18:49:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥总统：相信将在8月1日关税生效前与美国达成协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-13/detail-inffhaty5932113.d.html</link>
+            <guid>4284635</guid>
+            <pubDate>Sat, 12 Jul 2025 18:47:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【泽连斯基：将继续在俄领土开展无人机作战】当地时间12日晚间，乌克兰总统泽连斯基发表视频讲话表示，乌克兰正全力以赴争取更多无人机和导弹拦截装备。作为对俄方袭击的回应，乌克兰将继续在俄罗斯领土上开展无人机作战。乌方将采取不对称战术，这一战术已被证明卓有成效。俄方对此暂无回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-13/detail-inffhaty5932017.d.html</link>
+            <guid>4284634</guid>
+            <pubDate>Sat, 12 Jul 2025 18:46:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国土安全部部长诺姆：正在与五个共和党主导的州进行谈判，以建设另一个受“鳄鱼恶魔岛”启发的拘留场所。]]></title>
+            <guid>4284633</guid>
+            <pubDate>Sat, 12 Jul 2025 18:43:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【知情人士：哥大即将与特朗普政府达成和解以重获被冻结资金】据两名知情人士透露，经过数月谈判，哥伦比亚大学即将与特朗普政府达成协议，以恢复该校的联邦资金。 一位知情人士称，哥伦比亚大学预计将支付数百万美元的和解金，修改其多元化、公平与包容政策，提高招聘和招生工作的透明度，并采取其他措施改善校园内犹太学生的安全保障。 该知情人士表示，作为回报，该校将重新获得特朗普政府今年早些时候剥夺的超过4亿美元联邦资金。 这位知情人士还称，特朗普政府官员与哥伦比亚大学官员预计将于下周在白宫会面。该协议尚未最终敲定，仍有可能发生变动。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-13/detail-inffhatw9157185.d.html</link>
+            <guid>4284632</guid>
+            <pubDate>Sat, 12 Jul 2025 18:40:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[以色列官员：哈马斯坚持“不让调解人推动达成协议的立场”。]]></title>
             <link>https://finance.sina.cn/7x24/2025-07-13/detail-inffhatw9155912.d.html</link>
@@ -255,54 +299,6 @@
             <title><![CDATA[德国批发与外贸协会（BGA）：自特朗普4月首次宣布加征关税以来，全球贸易陷入混乱。]]></title>
             <guid>4284590</guid>
             <pubDate>Sat, 12 Jul 2025 15:28:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国贸易行业协会BGA：新宣布的关税是特朗普谈判策略的一部分。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-12/detail-infffsee6171085.d.html</link>
-            <guid>4284589</guid>
-            <pubDate>Sat, 12 Jul 2025 15:27:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【富国劳动力人口迎来下降拐点】据法国《回声报》网站7月10日报道，这是历史性的转折点。在经济合作与发展组织(经合组织)的大多数富裕国家，20岁至64岁的劳动适龄人口已经停止增长。据经合组织估计，2024年其所有国家的劳动适龄人口为8.205亿。今年这一数字预计为8.202亿。在周三发布的就业展望报告序言中，经合组织就业与社会事务司司长斯特凡诺·斯卡尔佩塔预测：“随着婴儿潮一代退出劳动力市场，经合组织国家的劳动适龄人口已经开始下降，预计这一趋势将持续到2060年。”（参考消息）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-12/detail-infffsee6170773.d.html</link>
-            <guid>4284588</guid>
-            <pubDate>Sat, 12 Jul 2025 15:23:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普4天发23份最后通牒】继4月对世界各国提出“对等关税”后，时隔3个月，美国开始实施新一轮极限施压。7日以来，特朗普政府已经接连向23个国家下“最后通牒”，威胁如果不在8月1日前答应美国的要求，就对他们施加高额关税。《纽约时报》11日刊文称，美国在关税问题上的反复无常令世界备受冲击。这种不确定性是全球经济的“毒药”。（央视网）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-12/detail-infffsea9395657.d.html</link>
-            <guid>4284587</guid>
-            <pubDate>Sat, 12 Jul 2025 15:16:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【LV英国公司遭黑客窃取部分客户数据】 法国奢侈品牌Louis Vuitton英国公司确认，于本月2日遭未经授权的第三方入侵系统，遭窃取顾客姓名、联络方式及购买纪录等个人资料。LV母公司LVMH表示，没有外泄银行资料或其他财务信息。Louis Vuitton英国已于周五向受影响顾客发出电邮通知，指无证据显示被盗资料已遭滥用，但不排除可能出现钓鱼电邮、诈骗或资料被不当使用等风险。公司已就事件通报当地信息专员办公室及相关监管机构。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-12/detail-infffsee6170151.d.html</link>
-            <guid>4284586</guid>
-            <pubDate>Sat, 12 Jul 2025 15:16:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【7月周末美团骑手日收入增长111%，超40万众包骑手日入500元以上】7月12日20:47分，美团即时零售订单量再创新高，达1.3亿。其中，微信等社交平台小程序下单额屡创新高，好友之间互相分享优惠券多次触及微信社交裂变阈值，成为美团订单成交重要通道。当日，美团再次披露一组骑手相关数据：随着7月接连迎来订单峰值，骑手单量和收入双双稳增，以7月周末为例，骑手日收入增长111%，日单量增长33%，超40万众包骑手日收入超500元。此外，6月期间，全国众包高频骑手月收入达9793元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-12/detail-infffsea9395600.d.html</link>
-            <guid>4284585</guid>
-            <pubDate>Sat, 12 Jul 2025 15:16:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瑞银预计补贴大战至少打到双11】瑞银预期，当前竞争形势至少会持续至今年双11。网经社电子商务研究中心数字生活分析师陈礼腾表示，对于商家而言，补贴大战的影响呈现阶段性差异。短期来看，订单暴增带来运营压力：中小商家可能面临“爆单”现象，但需承担部分补贴成本，叠加原材料消耗激增和人力不足，可能导致出餐延迟、品质下降。长期而言，行业将加速整合。市场集中度向供应链效率高、品牌力强的头部企业倾斜。同时，监管介入倒逼平台优化补贴结构，减少商家负担。持续补贴侵蚀利润，竞争格局正从“资金战”转向“效率战”。真正的赢家需平衡用户低价需求、骑手权益保障与商家可持续盈利，而非单纯依赖价格战。（第一财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-12/detail-infffsef7925032.d.html</link>
-            <guid>4284584</guid>
-            <pubDate>Sat, 12 Jul 2025 15:15:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉：Grok现已直接在你的特斯拉可用。Grok目前处于测试阶段，不会向你的车辆发出指令 —— 现有的语音指令保持不变。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-12/detail-infffscz1362949.d.html</link>
-            <guid>4284583</guid>
-            <pubDate>Sat, 12 Jul 2025 15:06:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟：将采取一切必要措施维护自身利益】欧盟委员会主席冯德莱恩12日说，美国对欧盟出口产品征收30%的关税将扰乱重要的跨大西洋供应链，损害大西洋两岸企业和消费者的利益。欧盟将采取一切必要措施维护自身利益，包括在必要时对等反制。 冯德莱恩在当天发表的声明中说，欧盟始终寻求与美国通过谈判解决问题，仍然准备在8月1日之前继续努力达成协议。与此同时，欧盟将继续深化全球伙伴关系，坚决维护以规则为基础的国际贸易体系。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-12/detail-infffsea9394521.d.html</link>
-            <guid>4284582</guid>
-            <pubDate>Sat, 12 Jul 2025 15:05:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
