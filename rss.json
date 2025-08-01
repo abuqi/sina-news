@@ -6,334 +6,347 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 4319304,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprkh4307390.d.html",
+            "title": "特朗普谈关税税率：基本已定。",
+            "date_modified": "2025-08-01T21:23:40.000Z"
+        },
+        {
+            "id": 4319303,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprkh4307373.d.html",
+            "title": "白宫贸易顾问纳瓦罗 ：需要更准确的数据，以便美联储可以做出更好的决定。",
+            "date_modified": "2025-08-01T21:23:30.000Z"
+        },
+        {
+            "id": 4319302,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprki8386796.d.html",
+            "title": "白宫贸易顾问纳瓦罗 ：我们（特朗普政府）需要良好的数据，但我们并没有看到。",
+            "date_modified": "2025-08-01T21:22:28.000Z"
+        },
+        {
+            "id": 4319301,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprki8386776.d.html",
+            "title": "白宫贸易顾问纳瓦罗 ：我很久都没有相信过劳工统计局的数据了。",
+            "date_modified": "2025-08-01T21:22:18.000Z"
+        },
+        {
+            "id": 4319300,
+            "content_html": "",
+            "title": "标普道琼斯指数公司：将Kodiak Gas Services Inc.（KGS）纳入标普小盘股600指数。",
+            "date_modified": "2025-08-01T21:20:44.000Z"
+        },
+        {
+            "id": 4319299,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprke7532479.d.html",
+            "title": "【万斯和劳工部吹捧美国就业数据，现在却让特朗普憎恨】美国副总统万斯和劳工部长德雷姆（Lori Chavez-DeRemer）试图给疲弱的就业数据带来积极的影响。万斯在X上转发了一张图表，显示本土出生的工人数量增加，而外国出生的工人的就业率下降，这表明这是特朗普政府移民政策的结果。德雷姆表示，虽然这些修订出乎意料，但自特朗普重新入主白宫以来，就业增长仍处于积极的轨道上。她说，特朗普上任以来创造了近50万个新工作岗位，包括医疗保健和建筑业。几小时后，他们的老板特朗普解雇了负责监管数据的人，并在没有证据的情况下声称，这份令人沮丧的报告是出于政治动机。",
+            "date_modified": "2025-08-01T21:17:35.000Z"
+        },
+        {
+            "id": 4319298,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprkm2964892.d.html",
+            "title": "特朗普：会考虑将关税收入以“分红”形式发给美国民众。",
+            "date_modified": "2025-08-01T21:16:30.000Z"
+        },
+        {
+            "id": 4319297,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprkh4307009.d.html",
+            "title": "富时A50期指连续夜盘收跌0.23%，报13632点。",
+            "date_modified": "2025-08-01T21:15:40.000Z"
+        },
+        {
+            "id": 4319296,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprkh4306964.d.html",
+            "title": "特朗普：希望为加沙民众提供援助。",
+            "date_modified": "2025-08-01T21:14:30.000Z"
+        },
+        {
+            "id": 4319295,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprkh4306933.d.html",
+            "title": "特朗普：将公布白宫宴会厅赞助人的名单。",
+            "date_modified": "2025-08-01T21:14:01.000Z"
+        },
+        {
+            "id": 4319294,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprkh4306927.d.html",
+            "title": "欧洲地中海地震中心消息：阿富汗兴都库什地区发生5.5级地震。",
+            "date_modified": "2025-08-01T21:13:52.000Z"
+        },
+        {
+            "id": 4319293,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprke7532273.d.html",
+            "title": "特朗普：我一直对就业数据存疑。",
+            "date_modified": "2025-08-01T21:13:25.000Z"
+        },
+        {
+            "id": 4319292,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprkh4306866.d.html",
+            "title": "特朗普（关于下一任劳工统计局负责人）：将任命一个诚实的人。",
+            "date_modified": "2025-08-01T21:13:16.000Z"
+        },
+        {
+            "id": 4319291,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprki8386163.d.html",
+            "title": "CHATGPT首席运营官称其付费企业用户已超过500万。",
+            "date_modified": "2025-08-01T21:11:44.000Z"
+        },
+        {
+            "id": 4319290,
+            "content_html": "",
+            "title": "特朗普媒体与科技二季度营收88万美元。二季度每股亏损0.08美元，分析师预期亏损0.10美元。",
+            "date_modified": "2025-08-01T21:10:44.000Z"
+        },
+        {
+            "id": 4319289,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprkh4306663.d.html",
+            "title": "特朗普：谈及核问题，我们必须做好准备。",
+            "date_modified": "2025-08-01T21:10:35.000Z"
+        },
+        {
+            "id": 4319288,
+            "content_html": "",
+            "title": "国际货币基金组织（IMF）下调了阿根廷直至2026年的国际净储备计划目标，2027年目标保持不变。",
+            "date_modified": "2025-08-01T21:10:01.000Z"
+        },
+        {
+            "id": 4319287,
+            "content_html": "",
+            "title": "周五（8月1日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报7.1938元，较周四纽约尾盘涨153点，日内整体交投于7.2241-7.1882元区间。",
+            "date_modified": "2025-08-01T21:08:34.000Z"
+        },
+        {
+            "id": 4319286,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprki8385780.d.html",
+            "title": "【美股收盘下跌 市值蒸发逾1万亿美元】当地时间8月1日，受美关税政策及7月就业数据远逊于预期影响，美国股市收盘下跌。道琼斯工业平均指数收盘下跌601点，跌幅0.74%；标准普尔500指数收跌0.37%，录得自5月以来最大单日跌幅；纳斯达克指数大跌473.75点，创4月以来最大跌幅。美国股市市值蒸发逾1万亿美元。芝加哥商品交易所美联储观察工具1日早间公布的数据显示，美联储在9月货币政策会议上降息25个基点的概率从前一日的37.7%大幅升至75.5%。（央视新闻）",
+            "date_modified": "2025-08-01T21:07:38.000Z"
+        },
+        {
+            "id": 4319285,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprke7531785.d.html",
+            "title": "特朗普：美国与韩国关系良好。",
+            "date_modified": "2025-08-01T21:06:53.000Z"
+        },
+        {
+            "id": 4319284,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprki8385522.d.html",
+            "title": "【特朗普政府冻结美国疾控中心多个公共健康项目资金】当地时间8月1日，记者获悉，特朗普政府正阻止向美国疾病控制与预防中心（CDC）一系列公共健康项目拨款，此前这些项目已获得国会批准。知情人士透露，白宫管理与预算办公室在本周一份拨款备忘录脚注中下达了冻结指令，多个CDC项目因此将无法获得全额资金。",
+            "date_modified": "2025-08-01T21:03:25.000Z"
+        },
+        {
+            "id": 4319283,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprke7531578.d.html",
+            "title": "【哥伦比亚大学与美政府达成超2亿美元和解协议】记者当地时间8月1日获悉，哥伦比亚大学与白宫达成2.21亿美元和解协议，并同意协助联邦政府加强对国际学生的监管。协议规定，校方将上报包括非法侵入等轻微违规行为，涉事学生或将面临联邦调查。该举措引发对国际学生处境与学校收入来源的担忧。",
+            "date_modified": "2025-08-01T21:03:10.000Z"
+        },
+        {
+            "id": 4319282,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprki8385484.d.html",
+            "title": "法国人工智能初创公司Mistral AI计划按100亿美元估值推动新一轮融资。",
+            "date_modified": "2025-08-01T21:02:51.000Z"
+        },
+        {
+            "id": 4319281,
+            "content_html": "",
+            "title": "周五（8月1日）纽约尾盘，标普500股指期货最终下跌1.64%，道指期货跌1.26%，纳斯达克100股指期货跌2.02%。罗素2000股指期货跌1.94%。",
+            "date_modified": "2025-08-01T21:02:00.000Z"
+        },
+        {
+            "id": 4319280,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprkh4305896.d.html",
+            "title": "【8月1日美股成交额前20：亚马逊跌逾8%，市值蒸发超2000亿美元】周五美股成交额第3名亚马逊收跌8.27%，成交258.91亿美元。周五当天，亚马逊市值蒸发超过2000亿美元。该公司在公布季度财报后股价大跌，原因是投资者对其云计算业务的增长寄予了更高期望。不过，一些分析师却在上调其目标价。亚马逊周四盘后公布了最新财报，虽然整体营收超出市场预期，但其股价依旧大跌。摩根大通认为，导致亚马逊股价下跌的“罪魁祸首”很可能是亚马逊云服务（AWS）。",
+            "date_modified": "2025-08-01T20:59:09.000Z"
+        },
+        {
+            "id": 4319279,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprkh4305885.d.html",
+            "title": "【日元在非农日猛涨超2.2%】周五（8月1日）纽约尾盘，美元兑日元下跌2.23%，报147.36日元，本周累计下跌0.21%，7月28-31日持续震荡上行，8月1日发布非农就业报告后跳水，整体交投区间为150.92-147.30日元。欧元兑日元跌0.70%，报170.88日元，本周累跌1.49%；英镑兑日元跌1.66%，报195.786日元，本周累跌1.40%。",
+            "date_modified": "2025-08-01T20:58:57.000Z"
+        },
+        {
+            "id": 4319278,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprke7531039.d.html",
+            "title": "库克：我们的产品线是“了不起的”。",
+            "date_modified": "2025-08-01T20:55:05.000Z"
+        },
+        {
+            "id": 4319277,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprke7531003.d.html",
+            "title": "库克：苹果自研芯片将是人工智能战略的关键。",
+            "date_modified": "2025-08-01T20:54:32.000Z"
+        },
+        {
+            "id": 4319276,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprke7530962.d.html",
+            "title": "苹果公司首席执行官库克在全体员工大会上表示：人工智能“完全属于我们”。",
+            "date_modified": "2025-08-01T20:54:02.000Z"
+        },
+        {
+            "id": 4319275,
+            "content_html": "",
+            "title": "COMEX黄金期货10月合约涨2%，报3415.70美元/盎司，本周累涨0.69%。COMEX白银期货涨1.03%，报37.090美元/盎司，本周累跌3.30%。",
+            "date_modified": "2025-08-01T20:52:08.000Z"
+        },
+        {
+            "id": 4319274,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprki8384632.d.html",
+            "title": "特朗普解释转移潜艇的原因：我们必须谨慎行事。",
+            "date_modified": "2025-08-01T20:51:22.000Z"
+        },
+        {
+            "id": 4319273,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprki8384266.d.html",
+            "title": "周五（8月1日）纽约尾盘，WTI原油期货维持3%的跌幅，暂报67.17美元。",
+            "date_modified": "2025-08-01T20:45:58.000Z"
+        },
+        {
+            "id": 4319272,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprkm2962414.d.html",
+            "title": "特朗普谈美国劳工统计局：考虑三个人选。",
+            "date_modified": "2025-08-01T20:43:05.000Z"
+        },
+        {
+            "id": 4319271,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprke7529757.d.html",
+            "title": "美元兑瑞郎跌1.07%，暂报0.8035。",
+            "date_modified": "2025-08-01T20:40:12.000Z"
+        },
+        {
+            "id": 4319270,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprke7529738.d.html",
+            "title": "特朗普：听说印度将不再从俄罗斯购买石油。",
+            "date_modified": "2025-08-01T20:40:03.000Z"
+        },
+        {
+            "id": 4319269,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprkh4304334.d.html",
+            "title": "特朗普：与维特科夫交谈过，他开了很多很棒的会议。",
+            "date_modified": "2025-08-01T20:39:38.000Z"
+        },
+        {
+            "id": 4319268,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprke7529650.d.html",
+            "title": "特朗普：昨天与瑞士讨论了巨额逆差问题。",
+            "date_modified": "2025-08-01T20:38:50.000Z"
+        },
+        {
+            "id": 4319267,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprki8383592.d.html",
+            "title": "特朗普：昨日与瑞士就巨额财政赤字问题进行了交流。",
+            "date_modified": "2025-08-01T20:38:32.000Z"
+        },
+        {
+            "id": 4319266,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprkm2961958.d.html",
+            "title": "【美国蒙大拿州一商业场所发生多人中枪事件 4人死亡】当地时间8月1日，美国酒精、烟草、火器和爆炸物管理局称，蒙大拿州西部阿纳康达一处商业场所发生多人中枪事件，已造成4人死亡，嫌犯仍在逃。执法部门确认，嫌犯为现年45岁的当地居民迈克尔·布朗（Michael Brown），其持有武器，极其危险。蒙大拿公路巡警局表示，目前阿纳康达已实施封锁，多支执法力量正在重点区域搜索。",
+            "date_modified": "2025-08-01T20:37:50.000Z"
+        },
+        {
+            "id": 4319265,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprke7529567.d.html",
+            "title": "特朗普谈劳工统计局：有很多优秀的候选人。",
+            "date_modified": "2025-08-01T20:37:33.000Z"
+        },
+        {
+            "id": 4319263,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprkh4304091.d.html",
+            "title": "【美联储理事库格勒将于8日辞职 特朗普可提前进行人事任命】记者当地时间8月1日获悉，美联储理事阿德里亚娜·库格勒宣布将于8月8日正式辞去职务。美联储在一份声明中表示，库格勒将于今秋重返乔治城大学担任教授。库格勒的理事任期原定于明年1月结束，其提前离职使得美国总统特朗普可提前几个月对美联储董事会进行新一轮人事任命。美联储并未对库格勒辞职作进一步说明。库格勒此前在拜登政府期间被提名，并于2023年获参议院确认成为美联储首位拉丁裔女性理事。（央视新闻）",
+            "date_modified": "2025-08-01T20:36:02.000Z"
+        },
+        {
+            "id": 4319262,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprke7529446.d.html",
+            "title": "特朗普：很高兴美联储理事会有空缺职位。",
+            "date_modified": "2025-08-01T20:35:13.000Z"
+        },
+        {
+            "id": 4319261,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprkh4304045.d.html",
+            "title": "特朗普谈美联储理事KUGLER：理解她不同意鲍威尔。",
+            "date_modified": "2025-08-01T20:34:58.000Z"
+        },
+        {
+            "id": 4319259,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprkh4303953.d.html",
+            "title": "特朗普谈巴西：他可以随时与我交谈。",
+            "date_modified": "2025-08-01T20:32:42.000Z"
+        },
+        {
+            "id": 4319258,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprkh4303944.d.html",
+            "title": "特朗普：需要看到一些诚实的报道。",
+            "date_modified": "2025-08-01T20:32:25.000Z"
+        },
+        {
+            "id": 4319257,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprki8383252.d.html",
+            "title": "特朗普谈普京：看看会发生什么。",
+            "date_modified": "2025-08-01T20:31:55.000Z"
+        },
+        {
+            "id": 4319256,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprkh4303827.d.html",
+            "title": "市场消息：白宫上周在备忘录中冻结了部分医疗资金。",
+            "date_modified": "2025-08-01T20:30:28.000Z"
+        },
+        {
+            "id": 4319255,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprkh4303778.d.html",
+            "title": "达美航空：本公司并没有利用人工智能（AI）来获取个人数据和制定（机票）费用。",
+            "date_modified": "2025-08-01T20:29:25.000Z"
+        },
+        {
+            "id": 4319254,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprkh4303756.d.html",
+            "title": "市场消息：特朗普政府阻止为疾控中心的卫生项目提供资金。",
+            "date_modified": "2025-08-01T20:28:55.000Z"
+        },
+        {
             "id": 4319253,
             "content_html": "",
             "title": "周五（8月1日），“特朗普关税输家”指数跌1.73%，报101.98点，本周累计下跌4.04%，整体持续走低。",
             "date_modified": "2025-08-01T20:23:53.000Z"
-        },
-        {
-            "id": 4319252,
-            "content_html": "",
-            "title": "周五（8月1日），散户抱团概念股指数/迷因股（meme stock）指数跌1.66%，报13.14点，本周类下跌11.01%，整体持续下挫。",
-            "date_modified": "2025-08-01T20:23:48.000Z"
-        },
-        {
-            "id": 4319251,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprki8382656.d.html",
-            "title": "【美股七巨头收盘播报｜亚马逊市值单日蒸发超2000亿美元】周五（8月1日），美国科技股七巨头（Magnificent 7）指数下跌2.90%，报179.80点，本周累计下跌1.38%，微软业绩向好之际、7月31日曾高开至188.78点。亚马逊收跌8.27%，Meta Platforms跌3.03%，苹果跌2.50%，英伟达跌2.33%，特斯拉跌1.83%，微软跌1.76%，谷歌A跌1.44%。此外，台积电ADR收跌2.65%，AMD跌2.64%，巴菲特旗下伯克希尔哈撒韦B类股则收涨0.20%，礼来制药涨3.01%。",
-            "date_modified": "2025-08-01T20:22:17.000Z"
-        },
-        {
-            "id": 4319250,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprke7528501.d.html",
-            "title": "美联储：美国上周银行存款18.322万亿美元，之前一周18.297万亿美元。",
-            "date_modified": "2025-08-01T20:18:46.000Z"
-        },
-        {
-            "id": 4319249,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infiprke7528351.d.html",
-            "title": "恐慌指数VIX收高3.66点，报20.38，创6月以来最高收盘价。",
-            "date_modified": "2025-08-01T20:16:16.000Z"
-        },
-        {
-            "id": 4319248,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infipmak4433543.d.html",
-            "title": "哈塞特：白宫尊重美联储的独立性。",
-            "date_modified": "2025-08-01T20:12:11.000Z"
-        },
-        {
-            "id": 4319247,
-            "content_html": "",
-            "title": "马斯克：特斯拉将提出上诉。（此前佛罗里达州陪审团命令特斯拉支付3.29亿美元的自动驾驶撞车赔偿金）",
-            "date_modified": "2025-08-01T20:11:00.000Z"
-        },
-        {
-            "id": 4319246,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infipmah7658753.d.html",
-            "title": "【国际油价1日下跌】国际油价1日下跌。截至当天收盘，纽约商品交易所9月交货的轻质原油期货价格下跌1.93美元，收于每桶67.33美元，跌幅为2.79%；10月交货的伦敦布伦特原油期货价格下跌2.03美元，收于每桶69.67美元，跌幅为2.83%。",
-            "date_modified": "2025-08-01T20:08:16.000Z"
-        },
-        {
-            "id": 4319245,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infipmah7658629.d.html",
-            "title": "【美国蒙大拿州一商业场所发生多人中枪事件】当地时间8月1日，美国酒精、烟草、火器和爆炸物管理局称，蒙大拿州西部阿纳康达一处商业场所发生多人中枪事件。",
-            "date_modified": "2025-08-01T20:06:31.000Z"
-        },
-        {
-            "id": 4319244,
-            "content_html": "",
-            "title": "伊士曼化工（Eastman Chemical Co.，EMN）收跌19%，创该公司美国IPO以来最差单日表现，此前所给三季度业绩指引逊色于市场预期。",
-            "date_modified": "2025-08-01T20:05:00.000Z"
-        },
-        {
-            "id": 4319243,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infipmap3090528.d.html",
-            "title": "纳斯达克100指数收盘下跌2%，创4月份以来最大单日跌幅。",
-            "date_modified": "2025-08-01T20:03:02.000Z"
-        },
-        {
-            "id": 4319242,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infipmap3090461.d.html",
-            "title": "标普500指数收盘下跌1.6%，创5月以来最大单日跌幅。",
-            "date_modified": "2025-08-01T20:02:29.000Z"
-        },
-        {
-            "id": 4319241,
-            "content_html": "",
-            "title": "美国证券交易委员会（SEC）：特别工作组将致力于开发人工智能赋能的工具和系统，以负责任地提升员工能力、加速创新并提高效率与准确性。",
-            "date_modified": "2025-08-01T20:02:20.000Z"
-        },
-        {
-            "id": 4319240,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infipmam8512003.d.html",
-            "title": "亚马逊收跌8.3%，市值单日蒸发超2000亿美元。",
-            "date_modified": "2025-08-01T20:02:11.000Z"
-        },
-        {
-            "id": 4319239,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infipmam8511857.d.html",
-            "title": "【美股三大指数收盘齐跌】道指跌1.23％，纳指跌2.24％，标普500指数跌1.60％。可选消费板块跌3.5%，科技、金融、能源、电信、工业板块至多跌约2%。成分股联合健康跌4.8%，3M跌3.2%，Salesforce、摩根大通、苹果、英伟达至少跌超2%，和亚马逊领跌，默克制药、可口可乐、强生、家得宝则涨超1%，SHW涨4%。",
-            "date_modified": "2025-08-01T20:01:03.000Z"
-        },
-        {
-            "id": 4319238,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infipmah7658286.d.html",
-            "title": "【纳斯达克中国金龙指数收跌1.82%】纳斯达克中国金龙指数收跌1.82%。热门中概股里，文远知行、B站、理想、腾讯至少跌超3%，拼多多、小马智行、台积电、网易至少跌超2%，新东方则涨超1%，蔚来涨2.8%。",
-            "date_modified": "2025-08-01T20:00:33.000Z"
-        },
-        {
-            "id": 4319237,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infipmah7658028.d.html",
-            "title": "【美国劳工部长：Wiatrowski将出任劳工统计局代理局长】在美国总统特朗普宣布将解雇劳工统计局局长后，劳工部长Lori Chavez-DeRemer表示，William Wiatrowski将担任劳工统计局代理局长。Chavez-Deremer写道：“在物色替代人选期间，副局长William Wiatrowski将出任代理局长”。",
-            "date_modified": "2025-08-01T19:55:05.000Z"
-        },
-        {
-            "id": 4319236,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infipmap3089615.d.html",
-            "title": "美元兑日元汇率当日下跌2.25%，有望创下自2023年1月以来的最大单日跌幅。",
-            "date_modified": "2025-08-01T19:49:00.000Z"
-        },
-        {
-            "id": 4319234,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infipmak4432259.d.html",
-            "title": "特朗普：鲍威尔也没比“被操纵的”就业数据好到哪去。",
-            "date_modified": "2025-08-01T19:48:07.000Z"
-        },
-        {
-            "id": 4319233,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infipmap3089488.d.html",
-            "title": "特朗普：美国劳工统计局对近期的数据修订是“彻头彻尾的骗局”。",
-            "date_modified": "2025-08-01T19:47:17.000Z"
-        },
-        {
-            "id": 4319231,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infipmah7657533.d.html",
-            "title": "特朗普：今天的就业数据是被人为操纵的，目的是让我看起来更糟糕。",
-            "date_modified": "2025-08-01T19:45:49.000Z"
-        },
-        {
-            "id": 4319230,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infipmak4431970.d.html",
-            "title": "交易员加大对美联储9月份降息的押注。",
-            "date_modified": "2025-08-01T19:43:19.000Z"
-        },
-        {
-            "id": 4319229,
-            "content_html": "",
-            "title": "美国两年期国债收益率短线略微走低，刷新日低至3.6714%，日内整体重挫28.36个基点。",
-            "date_modified": "2025-08-01T19:41:43.000Z"
-        },
-        {
-            "id": 4319228,
-            "content_html": "",
-            "title": "现货黄金短线涨幅扩大，突破3360美元/盎司，为7月25日来首次，日内涨2.12%。",
-            "date_modified": "2025-08-01T19:39:43.000Z"
-        },
-        {
-            "id": 4319227,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infipmam8510259.d.html",
-            "title": "投机交易员将美元空头押注削减至4月以来最低。",
-            "date_modified": "2025-08-01T19:37:35.000Z"
-        },
-        {
-            "id": 4319226,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infipmak4431581.d.html",
-            "title": "美元跌幅扩大，美元指数当日最新下跌1.19%，报98.84。",
-            "date_modified": "2025-08-01T19:37:16.000Z"
-        },
-        {
-            "id": 4319225,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infipmam8510128.d.html",
-            "title": "美国两年期国债收益率最新下跌26.9个基点，至3.682%。",
-            "date_modified": "2025-08-01T19:36:21.000Z"
-        },
-        {
-            "id": 4319224,
-            "content_html": "",
-            "title": "美联储称理事库格勒将于8月8日起辞职后，美国国债收益率进一步下跌，10年期国债收益率最新下跌14.6个基点，至4.214%。",
-            "date_modified": "2025-08-01T19:36:11.000Z"
-        },
-        {
-            "id": 4319223,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infipmap3088521.d.html",
-            "title": "【美联储理事库格勒将于下周辞职 特朗普迎来任命先机】美联储在一份声明中表示，美联储理事库格勒将于下周辞职，这为特朗普提前提供了一个机会，使其能够任命一位青睐的候选人，该候选人可能会担任央行领导层职务。库格勒的职位原定于明年1月才会出现空缺，而由7人组成的美联储理事会目前没有其他空缺职位。如今，特朗普将有机会立即任命一位理事，以向主席鲍威尔施压——并且这位理事有可能接替鲍威尔的职位。声明称，库格勒将于下周五（8月8日）卸任，回到乔治敦大学担任教授。库格勒没有参加本周的美联储政策会议，理事会称其因个人事务缺席。库格勒曾担任美国劳工部首席经济学家，于2023年由拜登总统任命为美联储理事。",
-            "date_modified": "2025-08-01T19:35:59.000Z"
-        },
-        {
-            "id": 4319222,
-            "content_html": "",
-            "title": "美国商品期货交易委员会（CFTC）数据显示，截至7月29日当周，纽约商品交易所（COMEX）铜期货投机客将净多头头寸削减654份合约，至35,526份合约。",
-            "date_modified": "2025-08-01T19:35:06.000Z"
-        },
-        {
-            "id": 4319221,
-            "content_html": "",
-            "title": "美国商品期货交易委员会（CFTC）：截至7月29日当周，投机者将芝加哥期货交易所（CBOT）美国2年期国债期货净空头头寸削减45,415份合约，至1,203,237份合约；5年期国债期货净空头头寸增加41,959份合约，至2,511,883份合约；10年期国债期货净空头头寸增加147,096份合约，至896,630份合约。",
-            "date_modified": "2025-08-01T19:34:58.000Z"
-        },
-        {
-            "id": 4319220,
-            "content_html": "",
-            "title": "美国商品期货交易委员会（CFTC）数据显示，截至7月29日当周，股票基金经理将芝加哥商业交易所（CME）标普500指数净多头头寸增加18743份合约，至869641份合约；净空头头寸增加32,269份合约，至363,032份合约。",
-            "date_modified": "2025-08-01T19:34:27.000Z"
-        },
-        {
-            "id": 4319219,
-            "content_html": "",
-            "title": "美国商品期货交易委员会（CFTC）数据显示，截至2025年7月29日当周，日元净多头头寸为89,243份合约。",
-            "date_modified": "2025-08-01T19:33:51.000Z"
-        },
-        {
-            "id": 4319218,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infipmap3088378.d.html",
-            "title": "现货黄金短线走高，日内大涨2%，现报3356.11美元/盎司。",
-            "date_modified": "2025-08-01T19:31:55.000Z"
-        },
-        {
-            "id": 4319217,
-            "content_html": "",
-            "title": "美国商品期货交易委员会（CFTC）数据显示，截至7月29日当周，WTI原油净多头头寸增加5127份合约，至33370份合约。",
-            "date_modified": "2025-08-01T19:31:51.000Z"
-        },
-        {
-            "id": 4319216,
-            "content_html": "",
-            "title": "英国外交、联邦及发展事务部：外交、联邦及发展事务部建议除必要旅行外，避免前往巴基斯坦部分地区。",
-            "date_modified": "2025-08-01T19:31:31.000Z"
-        },
-        {
-            "id": 4319215,
-            "content_html": "",
-            "title": "美国商品期货交易委员会（CFTC）：截至2025年7月29日当周，比特币净空头头寸为-1008份合约。",
-            "date_modified": "2025-08-01T19:31:00.000Z"
-        },
-        {
-            "id": 4319214,
-            "content_html": "",
-            "title": "美国商品期货交易委员会（CFTC）：截至2025年7月29日当周，英镑净空头头寸为12,028份合约。",
-            "date_modified": "2025-08-01T19:30:52.000Z"
-        },
-        {
-            "id": 4319213,
-            "content_html": "",
-            "title": "美国商品期货交易委员会（CFTC）：截至2025年7月29日当周，欧元净多头头寸为123,359份合约。",
-            "date_modified": "2025-08-01T19:30:42.000Z"
-        },
-        {
-            "id": 4319212,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infipmah7656643.d.html",
-            "title": "美联储理事库格勒表示，将于8月8日起辞去美联储职务。",
-            "date_modified": "2025-08-01T19:30:30.000Z"
-        },
-        {
-            "id": 4319211,
-            "content_html": "",
-            "title": "美国商品期货交易委员会（CFTC）数据显示，截至7月29日当周，纽约商品交易所（COMEX）黄金投机客将净多头头寸削减28,021份合约，至142,846份合约。",
-            "date_modified": "2025-08-01T19:30:25.000Z"
-        },
-        {
-            "id": 4319210,
-            "content_html": "",
-            "title": "美国商品期货交易委员会（CFTC）数据显示，截至7月29日当周，纽约商品交易所（COMEX）白银投机客将净多头头寸削减1631份合约，至43633份合约。",
-            "date_modified": "2025-08-01T19:30:21.000Z"
-        },
-        {
-            "id": 4319209,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infipmap3087904.d.html",
-            "title": "穆迪确认特斯拉Baa3评级，前景展望稳定。",
-            "date_modified": "2025-08-01T19:23:46.000Z"
-        },
-        {
-            "id": 4319208,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infipmak4430861.d.html",
-            "title": "【美国特使访问美以控制的援助物资分发点】当地时间8月1日，美国中东问题特使威特科夫与美国驻以色列大使迈克·赫卡比访问了位于加沙地带南部的人道主义援助物资分发点。这一物资发放点由美以支持的“加沙人道主义基金会”运营。自5月下旬以来，这一私营组织在美国和以色列支持下，绕开联合国机构，单方面接管加沙地带援助物资分发，而以军频繁在援助点附近向巴勒斯坦民众开火。",
-            "date_modified": "2025-08-01T19:22:06.000Z"
-        },
-        {
-            "id": 4319207,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infipmam8509341.d.html",
-            "title": "【美元指数在非农日跌0.9%，本周仍然涨1.4%】周五（8月1日）纽约尾盘，ICE美元指数跌0.92%，报99.051点，本周累计上涨1.44%，整体交投区间为97.492-100.257点，美国非农就业报告发布前持续震荡上行，数据发布后急剧跳水。彭博美元指数跌0.71%，报1213.03点，本周累涨1.21%，整体交投区间为1196.82-1224.64点。",
-            "date_modified": "2025-08-01T19:21:23.000Z"
-        },
-        {
-            "id": 4319206,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infipmak4430739.d.html",
-            "title": "【市场人士评特朗普解雇劳工统计局长：这极不健康】特朗普因不满非农数据而解雇劳工统计局长。对此，Creative Planning公司总裁皮特-马卢克(Peter Mallouk)评论道，特朗普的推文初看像拙劣模仿，\"难以置信所见景象。这极不健康——不能因不满意数据就解雇历经多届政府的技术官员。\"",
-            "date_modified": "2025-08-01T19:18:30.000Z"
-        },
-        {
-            "id": 4319205,
-            "content_html": "",
-            "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1930元，较周四夜盘收盘涨68点。成交量440.14亿美元。",
-            "date_modified": "2025-08-01T19:17:53.000Z"
-        },
-        {
-            "id": 4319204,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infipmam8509103.d.html",
-            "title": "【外媒：高盛在铜价暴跌前一天告诉客户做多铜】高盛集团的销售人员建议他们的对冲基金客户押注美国铜价飙升，就在美国总统特朗普的关税决定导致市场出现有史以来最大的崩溃的前一天。据知情人士透露，在周二与客户的电话会议上，高盛认为特朗普可能会继续对铜征收50%的关税，并建议购买短期看涨期权，如果美国铜价飙升11%，这些看涨期权将获得回报。实际上，美国总统周三下午只征收了有限的关税，完全免除了铜的主要交易形式的关税，导致纽约铜价在几小时内下跌22%。当天晚上，高盛的大宗商品销售部门向客户发送了一封题为“不征收铜关税，认错”的电子邮件。",
-            "date_modified": "2025-08-01T19:16:25.000Z"
-        },
-        {
-            "id": 4319203,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infipmap3087337.d.html",
-            "title": "美国劳工部长：WILLIAM WIATROWSKI将担任劳工统计局代理局长。",
-            "date_modified": "2025-08-01T19:13:33.000Z"
-        },
-        {
-            "id": 4319202,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-08-02/detail-infipmak4430291.d.html",
-            "title": "【特朗普不满非农数据 怒而解雇劳工统计局长】周五（8月1日），美国劳工统计局公布美国7月就业增长几近停滞，这份数据令美国总统特朗普不满。非农就业报告公布数小时后，特朗普宣布解雇该局局长。他在Truth Social发文中将矛头同时指向美联储主席鲍威尔，指控劳工统计局长埃里卡·麦克恩塔弗（Erika McEntarfer）是一名操纵就业数据的政治任命官员。“刚获悉我国的‘就业数据’由拜登任命的劳工统计局长埃里卡·麦克恩塔弗博士编制，她在选举前伪造就业数据企图为哈里斯助选。”特朗普写道，“我们需要准确的就业数据。已命令团队立即解雇这名拜登政治任命官员，将改任更有能力者。”据美国的几家新闻机构证实，麦克恩塔弗已被解职。",
-            "date_modified": "2025-08-01T19:13:07.000Z"
         }
     ]
 }
