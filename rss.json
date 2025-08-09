@@ -6,6 +6,37 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 4329659,
+            "content_html": "",
+            "title": "摩根士丹利股票策略师Michael Wilson：疲软的就业数据，再加上对关税相关通胀的担忧，可能成为…… 美股回调的诱因，尤其是在季节性表现疲软的第三季度。我们会在回调时买入。",
+            "date_modified": "2025-08-09T21:17:37.000Z"
+        },
+        {
+            "id": 4329658,
+            "content_html": "",
+            "title": "晨星财富（Morningstar Wealth）首席多资产策略师Dominic Pappalardo：我确实认为美股已做好小幅回调的准备，潜在的担忧情绪正在积聚。",
+            "date_modified": "2025-08-09T21:10:49.000Z"
+        },
+        {
+            "id": 4329657,
+            "content_html": "",
+            "title": "中国地震台网正式测定：08月10日04时40分在危地马拉沿岸近海（北纬13.60度，西经92.30度）发生6.0级地震，震源深度10千米。",
+            "date_modified": "2025-08-09T21:08:25.000Z"
+        },
+        {
+            "id": 4329656,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-08-10/detail-infkmsep7378650.d.html",
+            "title": "德国地球科学研究中心（GFZ）：墨西哥恰帕斯州海岸附近发生5.84级地震。",
+            "date_modified": "2025-08-09T20:49:37.000Z"
+        },
+        {
+            "id": 4329655,
+            "content_html": "",
+            "title": "美国国家飓风中心（NHC）：“伊沃”（IVO）正在减弱，预计到周日晚些时候将转变为温带气旋。",
+            "date_modified": "2025-08-09T20:39:41.000Z"
+        },
+        {
             "id": 4329654,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-08-10/detail-infkmsei1968132.d.html",
@@ -306,40 +337,6 @@
             "content_html": "",
             "title": "美联储的鲍曼：放松监管、降低税收以及利于商业发展的环境可能会抵消关税相关因素对经济活动和物价的影响。",
             "date_modified": "2025-08-09T16:15:57.000Z"
-        },
-        {
-            "id": 4329608,
-            "content_html": "",
-            "title": "美联储的鲍曼：正在研究社区银行的监管框架。美联储将于10月9日主办社区银行业务会议。",
-            "date_modified": "2025-08-09T16:15:43.000Z"
-        },
-        {
-            "id": 4329607,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-08-10/detail-infkmfqm7631816.d.html",
-            "title": "美联储的鲍曼：应考虑修改社区银行的杠杆率。",
-            "date_modified": "2025-08-09T16:15:22.000Z"
-        },
-        {
-            "id": 4329606,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-08-10/detail-infkmfqp2210184.d.html",
-            "title": "美联储的鲍曼赞成今年三次降息。",
-            "date_modified": "2025-08-09T16:15:08.000Z"
-        },
-        {
-            "id": 4329604,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-08-10/detail-infkmfqt0532999.d.html",
-            "title": "得克萨斯州检察长：逮捕令针对的是那些逃走的立法者。",
-            "date_modified": "2025-08-09T16:14:02.000Z"
-        },
-        {
-            "id": 4329603,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-08-10/detail-infkmfqt7616527.d.html",
-            "title": "美国得克萨斯州检察长帕克斯顿在加利福尼亚州提起诉讼，以执行逮捕令。",
-            "date_modified": "2025-08-09T16:13:18.000Z"
         }
     ]
 }
