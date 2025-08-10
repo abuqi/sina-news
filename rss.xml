@@ -4,11 +4,40 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 10 Aug 2025 16:30:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Aug 2025 17:20:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：美国财政部长预计贸易问题将在10月前解决。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-11/detail-infkpqvq9343021.d.html</link>
+            <guid>4330033</guid>
+            <pubDate>Sun, 10 Aug 2025 17:09:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国地球科学研究中心（GFZ）：土耳其发生6.19级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-11/detail-infkpqvu0309491.d.html</link>
+            <guid>4330032</guid>
+            <pubDate>Sun, 10 Aug 2025 16:58:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥政府：该决定保护了生产者权益，防止了市场扭曲，并确保了国内供应。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-11/detail-infkpqvq9336713.d.html</link>
+            <guid>4330031</guid>
+            <pubDate>Sun, 10 Aug 2025 16:52:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥政府：已确定新鲜番茄出口的最低价格，此举是在与美国的反倾销调查中止协议结束之后做出的。]]></title>
+            <guid>4330030</guid>
+            <pubDate>Sun, 10 Aug 2025 16:47:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【机构最新研判！继续看好大盘上行趋势】本周，A股三大指数周线集体飘红。上证指数在周五盘中续创今年以来新高，全周上涨逾2%；深证成指、创业板指周涨幅分别为1.25%、0.49%。在业内机构看来，在流动性驱动下，大盘上行趋势稳固。同时，随着政策组合拳持续发力，供需格局将持续优化，全A盈利与ROE有望企稳改善；当前市场风格正从传统周期性板块逐步转向科技板块，优质科技资产在三季度或有显著超额收益。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-11/detail-infkpqvm0998915.d.html</link>
+            <guid>4330029</guid>
+            <pubDate>Sun, 10 Aug 2025 16:42:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【马斯克再次回应解散Dojo超级计算机团队】当所有路径都明确指向 AI6芯片时，我不得不关停 Dojo 项目，并做出一些艰难的人事调整，因为 Dojo 2 如今已沦为一条进化死胡同。可以说，Dojo 3 以单块电路板上集成大量 AI6 系统级芯片（SoC）的形式延续了生命。]]></title>
             <link>https://finance.sina.cn/7x24/2025-08-11/detail-infkpqvr6412617.d.html</link>
@@ -266,36 +295,6 @@
             <link>https://finance.sina.cn/7x24/2025-08-10/detail-infkpkps9439010.d.html</link>
             <guid>4329984</guid>
             <pubDate>Sun, 10 Aug 2025 13:41:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本人口已连续第16年减少 ，暗藏哪些新变化？东京都为何成日本人口增长独苗 ？】日本高龄少子化的危机，正在进一步加剧。 日本内阁府最新公布的数据显示，2024年，日本总人口（包含在日居住的外国人）略高于1.2433亿，比2023年减少了约55.45万人，下降幅度约为0.44%。 如果不计入在日本居住的外国人，日本人口下降到1.2065亿人，比去年减少了约90.8万人，创历史新低。日本人口的变化也引发了美国企业家埃隆·马斯克的关注。近日，他在帖文中表示，日本今年将减少几乎100万人，“这一无法避免的人口趋势始于半个世纪前。”马斯克称，人工智能是唯一可以扭转局面的“希望”。 日本人口已连续第16年减少。去年的降幅约为0.75%，是自1968年日本开始记录人口数据以来的最大降幅。 日本本国民众的数量在2009年达到1.27亿的峰值。此后，逐年下降，最新预测显示，2026年日本本国民众的数量将跌破1.2亿。 从年龄段看，日本65岁以上老年人口约有3569.3万，占比约为29.6%；15岁至64岁劳动人口约为7123.5万，占比约为59%，劳动人口持续减少。 如果以地区来划分，在日本的47个都道府县中，有46个行政区划的人数减少。唯一出现人口上涨的地方则东京都，涨幅为0.13%。日媒分析认为，日本首都地区的人口增加，很大一部分来自东京奥运村和残奥村的重新利用。（第一财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-10/detail-infkpkps9438286.d.html</link>
-            <guid>4329983</guid>
-            <pubDate>Sun, 10 Aug 2025 13:37:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【7月份广东CPI环比由负转正，PPI环比降幅收窄】据中新网报道，国家统计局广东调查总队10日发布的数据显示，7月份，受扩内需政策效应和暑期出游旺季等因素影响，广东居民消费价格指数(CPI)环比由负转正，广东工业生产者出厂价格指数(PPI)环比降幅收窄。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-10/detail-infkpkpt6521587.d.html</link>
-            <guid>4329982</guid>
-            <pubDate>Sun, 10 Aug 2025 13:35:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌称打击俄一指挥所 指挥官和参谋长在内多人死亡】当地时间8月10日，乌克兰武装部队总参谋部通报称，乌克兰空军打击了位于赫尔松州奥列什基地区的俄军营级指挥所。据初步信息，约25名俄军被打死，至少11人受伤。情报显示，被打死人员中包括该营指挥官、参谋长等人。俄方对此暂无回应。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-10/detail-infkpefu9567828.d.html</link>
-            <guid>4329981</guid>
-            <pubDate>Sun, 10 Aug 2025 13:31:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【长安汽车朱华荣拜访华为任正非：敬佩任总视野格局】8月9日晚，长安汽车董事长朱华荣微博发文，称周五前往深圳拜访华为CEO任正非，并围绕产业竞争态势、未来竞争格局等交流学习。朱华荣表示，任正非还就支持长安汽车、阿维塔品牌等提出针对性、指导性意见。“任总的视野、格局、睿智、激情，我等感触颇深，受益匪浅，令人敬佩。”另外，他还对徐直军总、余承东总等领导的交流支持表达感谢。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-10/detail-infkpefv6650336.d.html</link>
-            <guid>4329980</guid>
-            <pubDate>Sun, 10 Aug 2025 13:21:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中际旭创：目前公司产能仍在持续扩建中】中际旭创(300308)今日在互动平台表示，目前公司产能仍在持续扩建中。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-10/detail-infkpefv6649604.d.html</link>
-            <guid>4329979</guid>
-            <pubDate>Sun, 10 Aug 2025 13:14:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
