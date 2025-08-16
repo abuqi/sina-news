@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 16 Aug 2025 18:32:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Aug 2025 19:18:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【外交部副部长苗得雨出席印度独立日招待会】2025年8月15日，外交部副部长苗得雨应邀出席印度驻华使馆举办的印度独立日招待会，并会见印度驻华大使罗国栋。双方一致同意要落实好习近平主席和印度总理莫迪去年10月喀山会晤达成的重要共识，加强各领域交往合作，推动中印关系不断改善发展。（外交部）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-17/detail-infmfitv5169431.d.html</link>
+            <guid>4339323</guid>
+            <pubDate>Sat, 16 Aug 2025 18:42:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【俄称控制两个定居点 乌称摧毁俄无人机】俄罗斯国防部16日称，过去一天，俄军在第聂伯罗彼得罗夫斯克州以及顿涅茨克地区各控制了一个定居点。俄军对乌军弹药库、远程无人机存储点等实施了打击，摧毁乌军5枚‌制导航空炸弹、1枚美制“海马斯”火箭弹以及169架无人机。
 乌克兰空军16日称，当地时间15日夜间到16日凌晨，俄罗斯向乌克兰发射一枚弹道导弹。乌克兰武装部队总参谋部16日称，过去24小时内，乌俄双方发生139次地面交火。乌军袭击了俄军军事装备集中区、指挥所和弹药库等，摧毁了俄军152架无人机。（央视新闻）]]></title>
@@ -296,12 +302,6 @@
             <link>https://finance.sina.cn/7x24/2025-08-16/detail-infmexcs0113370.d.html</link>
             <guid>4339216</guid>
             <pubDate>Sat, 16 Aug 2025 13:48:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【余承东：做鸿蒙系统是一个非常大的冒险，但华为也很笃定】如何看待外界的不看好？余承东表示，做鸿蒙系统是一个非常大的冒险，但华为也很笃定，在内核做了自己的创新，拥有更高的安全性，先进性领先这个时代，敢于使用新技术。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-16/detail-infmexcv3132913.d.html</link>
-            <guid>4339215</guid>
-            <pubDate>Sat, 16 Aug 2025 13:47:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
