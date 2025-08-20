@@ -4,11 +4,192 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Wed, 20 Aug 2025 22:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Aug 2025 23:21:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ 北京地铁：为做好今日早高峰降雨应对工作，地铁公司各线采取最大运力投放时长延长1小时措施，计划加开临客34列。各单位加强重点部位值守力量及巡视检查；地面及高架线路视降雨情况启动雨天行车组织预案，保障列车运行安全和乘客出行安全；各车站加强出入口、通道、闸机、电扶梯等重点部位客流疏导，及时铺设防滑垫、摆放提示牌，为有需要的乘客发放一次性雨衣。]]></title>
+            <guid>4345419</guid>
+            <pubDate>Wed, 20 Aug 2025 23:19:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【温彬：年内再度降准降息的时点可能后移 LPR报价下调时点也会相应延后】中国民生银行首席经济学家兼研究院院长温彬指出，结合近期数据看，7月以来多项指标显示实体经济修复出现一定波折，社零增速有所回落，地产投资仍在承压，信贷需求有待增加，外需面临的不确定性风险尚未完全出清，一定程度上意味着宏观政策保持加码的必要性仍在。下半年为稳信用、促内需、强协同，保持政策连续、稳定，货币政策仍将保持支持性立场。温彬还称，考虑到个人消费贷款和服务业经营主体贷款贴息政策有效降低实体融资成本，结构性政策更能精准发力、避免资金空转，以及存款加速活化、物价温和回升的趋势，年内再度降准降息的时点可能后移，LPR报价下调时点也会相应延后。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-21/detail-infmsutr4717817.d.html</link>
+            <guid>4345418</guid>
+            <pubDate>Wed, 20 Aug 2025 23:19:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：韩国企业将宣布在美国投资 1500 亿美元的计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-21/detail-infmsutp6228913.d.html</link>
+            <guid>4345417</guid>
+            <pubDate>Wed, 20 Aug 2025 23:19:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【LPR连续三月不变 货币政策聚焦防空转、优结构和降非息成本】综合业内分析来看，8月LPR报价保持不变主要有三点原因：一是5月降息降准等宽货币工具落地后，总量政策工具进入成效观察期，LPR的定价锚——7天期逆回购利率保持稳定；二是2025年二季度末商业银行净息差进一步降至1.42%，较一季度末下降0.01个百分点，商业银行缺乏下调LPR报价加点的动力；三是央行在《2025年第二季度中国货币政策执行报告》明确强调要“落实落细适度宽松的货币政策”，指向后续货币政策重心在于抓好落实，短期内继续加码宽松的概率不高。（21财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-21/detail-infmsutr4716900.d.html</link>
+            <guid>4345416</guid>
+            <pubDate>Wed, 20 Aug 2025 23:16:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国副总统万斯在福克斯新闻节目中表示：欧洲国家将不得不承担安全方面的“主要责任”。]]></title>
+            <guid>4345415</guid>
+            <pubDate>Wed, 20 Aug 2025 23:15:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【为Meta最大数据中心供电 安特吉获批新建三座天然气电厂】据安特吉(ETR.US)周三发布的新闻稿，路易斯安那州公用事业监管机构已批准其新建三座天然气发电厂的计划，旨在为Meta(META.US)最大的数据中心供电。Meta这座最新且规模最大的数据中心位于路易斯安那州乡村地区，占地面积达400万平方英尺(约37万平方米)，旨在支持该公司最先进的人工智能(AI)模型运行。满负荷运转时，其年耗电量预计最高可达5吉瓦。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-21/detail-infmsutp6227545.d.html</link>
+            <guid>4345414</guid>
+            <pubDate>Wed, 20 Aug 2025 23:14:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【EIA：2025年美国新增发电容量中太阳能或占一半】美国能源信息署（EIA）周三表示，开发商今年有望在美国增加33吉瓦的太阳能发电能力，约占2025年美国计划新增发电容量的一半。如果这些计划得以实现，美国大型太阳能发电装机量将创下历史新高。此外，用于储存太阳能发电厂及其他能源电力的电池储能系统，在2025年的年度增量也可能达到历史纪录。得州去年已超越加州，成为拥有最多大型太阳能发电能力的州。年内美国新增的太阳能发电量中，超过四分之一来自得州。值得一提的是，在特朗普政府执政下，过去几年推动太阳能发展的许多联邦政府财政激励措施将会消失，给这项技术的未来发展增添了不确定性。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-21/detail-infmsutr4716083.d.html</link>
+            <guid>4345413</guid>
+            <pubDate>Wed, 20 Aug 2025 23:13:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【外媒关注：达成多项成果共识，中印关系“重大修复”】对于中印关系回暖，国际舆论给予积极评价。英国《卫报》称，在美国总统特朗普的关税政策引发全球地缘政治动荡之际，中印关系升温显得尤为重要。报道认为，两国在恢复直航、便利签证、重启边境贸易等方面的举措，为双方关系注入了实质性动力。美国《华尔街日报》评论称，特朗普的贸易政策反而加速了中印关系缓和的步伐。报道援引学者观点称，两国都意识到需要拓展彼此的贸易与经济合作，以减轻关税冲击。中印相互视作“伙伴和机遇，而非对手或威胁”，这种定位变化对双方都有利。美联社报道则强调，王毅此访标志着两国在2020年边境冲突后关系的“重大修复”。莫迪与王毅的会见释放出“稳步积极进展”的信号，也为莫迪本月底7年来的首次赴华铺平道路。“德国之声”认为，亚洲两大国在地区和全球事务中逐步形成合作而非对抗的趋势。（环球时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-21/detail-infmsutr4715231.d.html</link>
+            <guid>4345412</guid>
+            <pubDate>Wed, 20 Aug 2025 23:09:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2025年科隆国际游戏展开幕】作为全球游戏行业重要展会，2025年科隆国际游戏展20日在科隆开幕。本届展会参展商数量创下新高，来自世界各地的游戏厂商集中展示最新作品，共同探讨行业动向。本届展会将持续至8月24日，共吸引来自世界各地的1500多家参展商。主办方介绍，今年展区面积扩大至23.3万平方米，内容涵盖游戏互动体验、COSPLAY表演、独立游戏、棋牌卡牌、艺术家专区、校园招聘以及游戏周边产品销售等多个板块。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-21/detail-infmsutr4714509.d.html</link>
+            <guid>4345411</guid>
+            <pubDate>Wed, 20 Aug 2025 23:06:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以防长批准接管加沙城计划 德法齐反对】据多家以色列媒体20日报道，以国防部长卡茨19日批准以军接管加沙城的作战计划。对此，德、法多国表示明确反对，呼吁实现持久停火并寻求政治解决方案。另据路透社20日发布的一份民意调查结果，多数美国人支持国际社会承认巴勒斯坦国，认为以色列在巴勒斯坦加沙地带过度使用武力。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-21/detail-infmsutp6225197.d.html</link>
+            <guid>4345410</guid>
+            <pubDate>Wed, 20 Aug 2025 23:04:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【友邦保险上半年新业务价值增长16% 受香港保单热销提振】友邦保险上半年新业务价值强劲增长，主要受香港保单热销推动。这家总部位于香港的保险公司周四报告，衡量新保单未来盈利能力的指标上半年同比增长16%，至28.4亿美元。若剔除汇率波动影响，增幅为14%。友邦保险董事会将中期股息提高10%，至每股0.49港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-21/detail-infmsutp6225113.d.html</link>
+            <guid>4345409</guid>
+            <pubDate>Wed, 20 Aug 2025 23:04:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚8月标普全球综合PMI初值 54.9，前值53.8。
+澳大利亚8月标普全球服务业PMI初值 55.1，前值54.1。
+澳大利亚8月标普全球制造业PMI初值 52.9，前值51.3。]]></title>
+            <guid>4345408</guid>
+            <pubDate>Wed, 20 Aug 2025 23:00:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[除了头版内容，今天《人民日报》涉及财经的主要内容还包括：
+1、前7月新改建农村公路5.1万公里 “十四五”规划有关目标任务已提前完成
+2、我国建设改造一大批现代化智能化煤矿
+3、互联网平台企业基本信息首次报送进展顺利
+4、李强在北京调研生物医药产业发展时强调 加大高质量科技供给和政策支持 着力推动生物医药产业提质升级
+5、韩正会见丹麦诺和诺德公司董事会主席龙海歌
+6、创新“机”遇，共享智能红利（和音）
+7、财政部：规范PPP存量项目建设和运营
+8、从新职业看中国经济活力（评论员观察）
+9、安徽全面推行涉企“综合查一次”改革
+10、依法依规治理企业无序竞争
+11、绿色技术赋能 应对用电高峰（经济聚焦）
+12、从赛场到市场，人形机器人蓄势待发（经济时评）
+13、“宁电入湘”工程正式投产送电
+14、前7月我国对上合组织其他成员国进出口2.11万亿元
+15、铁路暑运累计发送旅客7.44亿人次
+16、优举措 强服务 促成长 天津积极推动民营经济发展
+17、广州启动2025年夜间消费季
+18、小县城如何撬动大市场（新视窗·新供给引领新消费新需求）——县域消费新趋势观察
+19、长城汽车巴西工厂竣工投产——“迎接一个更科技化、更绿色的未来”。]]></title>
+            <guid>4345407</guid>
+            <pubDate>Wed, 20 Aug 2025 22:57:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[今天《人民日报》头版的主要内容有：
+1、率中央代表团出席西藏自治区成立60周年庆祝活动 习近平抵达拉萨 王沪宁蔡奇同机抵达
+2、习近平在听取西藏自治区党委和政府工作汇报时强调 全面贯彻新时代党的治藏方略 努力建设团结富裕文明和谐美丽的社会主义现代化新西藏 王沪宁蔡奇参加汇报会
+3、习近平接见西藏各族各界代表 王沪宁蔡奇参加接见
+4、习近平观看庆祝西藏自治区成立60周年文艺晚会《雪域欢歌》 王沪宁蔡奇出席观看
+5、西藏自治区成立60周年庆祝大会21日上午在拉萨举行 习近平将出席大会。]]></title>
+            <guid>4345406</guid>
+            <pubDate>Wed, 20 Aug 2025 22:57:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【AI数据分析平台Databricks自称估值达到1000亿美元】AI数据分析初创平台Databricks在官网宣布正在进行K轮融资，使其估值超过1000亿美元。此次潜在融资距离该公司完成100亿美元的J轮融资以及一笔52.5亿美元的债务工具融资仅过去7个月，当时公司的估值仅为620亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-21/detail-infmsutm9716204.d.html</link>
+            <guid>4345405</guid>
+            <pubDate>Wed, 20 Aug 2025 22:56:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【OpenAI单月收入突破10亿美元，算力严重不足，急需“星际之门”】据OpenAI首席财务官Sarah Friar透露，今年7月份OpenAI首次实现单月收入突破10亿美元大关。Friar表示，由于GPT-5的发布以及新的订阅服务推出，算力仍然不够用面临巨大压力。所以，这也是OpenAI联合甲骨文、软银等投资5000亿美元打造全球最大算力平台“星际之门”（ Stargate）的主要原因。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-21/detail-infmsutt8206248.d.html</link>
+            <guid>4345404</guid>
+            <pubDate>Wed, 20 Aug 2025 22:55:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据知情人士透露，机器人初创公司Field AI近期通过贝佐斯家族理财室和英伟达风投公司共融资4.05亿美元，使得估值达到20亿美元。比尔·盖茨也是该公司的投资者。]]></title>
+            <guid>4345403</guid>
+            <pubDate>Wed, 20 Aug 2025 22:46:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“出走”议员回归 美得州通过关于重划国会选区的法案】当地时间8月20日，美国得克萨斯州众议院通过关于重划国会选区的法案。该选区划分图应美国总统特朗普的要求绘制，旨在明年的中期选举为共和党增加五个席位。
+今年7月中旬，美国总统特朗普敦促得州共和党人通过国会选区重划，使共和党在明年中期选举中多得5个国会众议院席位。由于共和党以压倒性优势掌控得州州议会，在缺乏其他“阻止工具”的情况下，50多名民主党州众议员8月初集体离开得州前往外地，使得州众院无法达到立法所需法定人数，州众议长伯罗斯多次召集立法会议失败。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-21/detail-infmsutr4710144.d.html</link>
+            <guid>4345402</guid>
+            <pubDate>Wed, 20 Aug 2025 22:46:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新西兰7月贸易帐 -5.78亿纽元，前值 1.42亿纽元。
+新西兰7月出口 67.1亿纽元，前值 66.3亿纽元。]]></title>
+            <guid>4345401</guid>
+            <pubDate>Wed, 20 Aug 2025 22:45:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“断代”危机加剧，日本神户推出使用年限15年的“定期墓地”】《朝日新闻》20日报道称，为应对“无缘化”（描述墓地因缺乏后人祭扫、管理而逐渐荒废，与现世失去关联的现象）趋势，神户市首次尝试试点建造“定期墓地”，并于本月启动市民申请通道。“定期墓地”的使用年限为15年，到期后由市政府统一拆除墓碑、将遗骸迁至集体安葬区域，总费用为35万日元（100日元约合4.9元人民币）。神户市墓园管理中心主任田中孝司表示：“人们对墓地的使用不再以继承为主，预计今后对定期墓地的需求将持续上升。”据日本厚生劳动省统计，该国仅有12%的公共墓地追踪了墓主子女及其他亲属信息。（环球时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-21/detail-infmsutp6219840.d.html</link>
+            <guid>4345400</guid>
+            <pubDate>Wed, 20 Aug 2025 22:40:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美联储曾发现超过2.2万笔类似特朗普“房管局局长”Pulte提到的抵押贷款问题】美国费城联储的研究人员在2023年的一份报告中评估了抵押贷款市场中“欺诈性投资者”的数量，他们将其定义为在发放第一笔自住房屋购房贷款后的四个季度内拥有多笔自住房屋购房贷款的人。该论文的数据涵盖了2005-17年期间发放的584,499笔贷款。其中，22,431笔被视为欺诈性贷款。在2008年金融危机爆发前，声称入住房屋以获得更优惠抵押贷款条件的贷款比例达到峰值，但在随后十年的大部分时间里，这一比例一直稳定在2%至3%左右。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-21/detail-infmsutr4708169.d.html</link>
+            <guid>4345399</guid>
+            <pubDate>Wed, 20 Aug 2025 22:38:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【周四重要财经信息提醒（以下均为北京时间）】
+① 08:00 韩国8月进出口20天；
+② 08:30 日本8月制造业、服务业、综合PMI初值；
+③ 时间待定 俄罗斯外交部长拉夫罗夫与印度外交部长苏杰生举行会谈；
+④ 13:00 印度8月制造业、服务业、综合PMI初值；
+⑤ 15:00 商务部召开8月第1次例行新闻发布会；
+⑥ 15:15 法国8月制造业、服务业、综合PMI初值；
+⑦ 15:30 德国8月制造业、服务业、综合PMI初值；
+⑧ 16:00 欧元区8月制造业、服务业、综合PMI初值；
+⑨ 港股收盘之后 B站发布业绩报告；
+⑩ 16:30 英国8月制造业、服务业、综合PMI初值；
+⑪ 美股盘前 沃尔玛发布业绩报告；
+⑫ 19:30 美国亚特兰大联储主席博斯蒂克（2027年FOMC票委）就经济前景讲话；
+⑬ 时间待定 杰克逊霍尔全球央行年会在美国怀俄明州堪萨斯城开幕，至8月23日；
+⑭ 20:30 美国8月16日当周首次申请失业救济人数；
+⑮ 21:45 美国8月Markit制造业、服务业、综合PMI初值；
+⑯ 22:00 美国7月成屋销售总数年化和谘商会领先指标，欧元区8月消费者信心指数初值；
+⑰ 23:45 瑞士央行副行长Martin在苏黎世讲话。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-21/detail-infmsutm9710411.d.html</link>
+            <guid>4345398</guid>
+            <pubDate>Wed, 20 Aug 2025 22:32:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【机构密集调研苹果产业链公司】数据显示，三季度以来，机构密集调研水晶光电、工业富联、鹏鼎控股、环旭电子、蓝思科技、大族激光、京东方、东山精密等30多家苹果产业链公司。水晶光电、工业富联、鹏鼎控股、环旭电子等10家苹果产业链公司均获得50家以上机构调研。记者了解到，目前苹果iPhone 17已进入大规模量产阶段。机构认为，随着苹果新机备货，产业链相关公司有望受益。 (中证报)]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-21/detail-infmsutt8199580.d.html</link>
+            <guid>4345397</guid>
+            <pubDate>Wed, 20 Aug 2025 22:26:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：得克萨斯州众议院批准了由特朗普支持的国会选区划分方案，该方案旨在让共和党人在国会获得更多席位，从而引发了全国性的选区重划之争。]]></title>
+            <guid>4345396</guid>
+            <pubDate>Wed, 20 Aug 2025 22:22:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[巴西联邦警察：法庭文件显示，发现前总统博索纳罗向阿根廷米莱请求政治庇护的文件。]]></title>
             <link>https://finance.sina.cn/7x24/2025-08-21/detail-infmsutm9708740.d.html</link>
@@ -158,143 +339,6 @@
             <link>https://finance.sina.cn/7x24/2025-08-21/detail-infmsqmt4823591.d.html</link>
             <guid>4345370</guid>
             <pubDate>Wed, 20 Aug 2025 21:04:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新西兰储备银行行长：隧道尽头已现曙光，经济周期在第二季度触底。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-21/detail-infmsqmr6333906.d.html</link>
-            <guid>4345369</guid>
-            <pubDate>Wed, 20 Aug 2025 21:02:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【受银行净息差等影响 LPR连续三个月不变】8月20日，最新一期贷款市场报价利率（LPR）出炉。中国人民银行授权全国银行间同业拆借中心公布：1年期LPR为3.0%，5年期以上LPR为3.5%。两个期限LPR连续三个月“按兵不动”。LPR保持不变，符合市场预期。东方金诚首席宏观分析师王青表示，政策利率7天期逆回购操作利率保持稳定，意味着当月LPR的定价基础没有变化；受“反内卷”牵动市场预期等影响，近期市场利率有所上行，在商业银行净息差处于历史最低点的背景下，报价行缺乏主动下调LPR报价加点的动力。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-21/detail-infmsqmv8321765.d.html</link>
-            <guid>4345368</guid>
-            <pubDate>Wed, 20 Aug 2025 21:01:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韩国7月PPI年率 0.5%，前值由0.50%修正为0.5%。韩国7月PPI月率 0.4%，前值由0.1%修正为0.1%。]]></title>
-            <guid>4345367</guid>
-            <pubDate>Wed, 20 Aug 2025 21:00:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【A股持续走高 保险资金顺势加仓】从多家险资机构获悉，今年以来，在监管部门政策引导、负债端产品结构变化等多重因素助推下，保险资金积极加仓权益市场，重点布局高股息、科技、创新药、军工等领域权益类资产。金融监管总局最新数据显示，截至二季度末，财产险公司和人身险公司合计持有股票资产约3.07万亿元，较一季度末增长2513亿元，增幅约为8.92%。从配置比例看，财产险公司和人身险公司配置股票资产比例均实现上升，分别较一季度末提升0.77个百分点和0.38个百分点。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-21/detail-infmsqmv8321612.d.html</link>
-            <guid>4345366</guid>
-            <pubDate>Wed, 20 Aug 2025 21:00:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周三（8月20日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘涨1.03%，逼近11.45万美元。CME以太币期货DCR主力合约涨5.06%，报4358美元。]]></title>
-            <guid>4345365</guid>
-            <pubDate>Wed, 20 Aug 2025 20:56:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【公募REITs指数调整 一批产品将迎解禁潮】8月以来，公募REITs市场走势趋弱，截至8月20日，中证REITs全收益指数下跌近4%，8月11至19日连收7根阴线。机构认为，近期市场对于大类资产系统性重估的分歧加剧，权益市场走强，债市持续承压，与债市联动性较强的REITs市场也相应走弱。同时，9月至12月，一批REITs产品的战略配售份额将迎来解禁潮。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-21/detail-infmsqmp9831247.d.html</link>
-            <guid>4345364</guid>
-            <pubDate>Wed, 20 Aug 2025 20:56:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【港交所上半年业绩刷新同期历史纪录】8月20日，港交所发布2025年上半年业绩，营收和净利润均创历史新高。报告期内，港交所实现总收入140.76亿港元，同比增长33%；净利润85.19亿港元，同比增长39%。在港股市场回暖、全球投资者对非美元资产的兴趣增加等因素带动下，上半年港股现货市场、衍生品市场及沪深港通的成交量均创新高，港交所新股市场融资额重回全球交易所榜首。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-21/detail-infmsqmr6333034.d.html</link>
-            <guid>4345363</guid>
-            <pubDate>Wed, 20 Aug 2025 20:56:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日元一度在美股早盘短暂地涨穿147，纽元在新西兰联储降息日跌约1.2%】周三（8月20日）纽约尾盘，美元兑日元跌0.19%，报147.39日元，日内交投区间为147.82-146.87日元。欧元兑日元跌0.16%，英镑兑日元跌0.46%。欧元兑美元涨0.03%，英镑兑美元跌0.27%，美元兑瑞郎跌0.44%。商品货币对中，澳元兑美元跌0.31%，纽元兑美元跌1.17%、北京时间10:00新西兰联储意外宣布降息时显著跳水随后持续低位窄幅震荡，美元兑加元涨0.05%。瑞典克朗兑美元涨0.04%，挪威克朗兑美元涨0.37%。丹麦克朗兑美元涨0.04%，波兰兹罗提兑美元跌0.08%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-21/detail-infmsqmr6332971.d.html</link>
-            <guid>4345362</guid>
-            <pubDate>Wed, 20 Aug 2025 20:55:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新西兰储备银行行长：市场可能认为 50 个基点的降息是恐慌之举。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-21/detail-infmsqmp9830867.d.html</link>
-            <guid>4345361</guid>
-            <pubDate>Wed, 20 Aug 2025 20:51:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【现货黄金涨1%，上探3350美元】周三（8月20日）纽约尾盘，现货黄金涨0.99%，报3348.46美元/盎司，全天持续震荡上行，整体交投区间为3311.60-3350.24美元。日线图上，金价4月22日涨至3500.10美元创历史最高，随后持续高位震荡，3200美元形成强有力的支撑。COMEX黄金期货涨0.99%，报3391.90美元/盎司。费城金银指数收涨2.21%，报230.27点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-21/detail-infmsqmt4821177.d.html</link>
-            <guid>4345360</guid>
-            <pubDate>Wed, 20 Aug 2025 20:50:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【8月20日美股成交额前20：谷歌Pixel10系列新品加强AI整合 对标苹果】周三美股成交额第11名谷歌A类股收跌1.12%，成交57.35亿美元。Alphabet旗下谷歌周三发布了一系列新的消费电子产品，包括多款智能手机、一款智能手表以及新的无线耳机，旨在展示该公司在人工智能领域的最新进展。新款手机阵容包括Pixel 10（800美元）、Pixel 10 Pro（1000美元）、Pixel 10 Pro XL（1200美元）和Pixel 10 Pro Fold（1800美元）。Pixel Watch 4的41mm和45mm尺寸分别标价350美元和400美元。该公司最新的入门级无线耳机Pixel Buds 2a售价为130美元。大部分机型的起售价与前代产品相同，除了存储空间翻倍的Pixel 10 Pro XL。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-21/detail-infmsqmt4821000.d.html</link>
-            <guid>4345359</guid>
-            <pubDate>Wed, 20 Aug 2025 20:48:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿根廷主权债价格下跌，总统米莱对财政紧缩的否决行动在国会遇挫】该草案要求针对低收入群体加大公共财政开支，米莱在10月中期选举之前反对这样的开支，但他的这一决定在下议院遭到172-73票的压倒性否决。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-21/detail-infmsqmp9830491.d.html</link>
-            <guid>4345358</guid>
-            <pubDate>Wed, 20 Aug 2025 20:45:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新西兰储备银行行长：目前通胀已得到控制，我们已处于这一进程的尾声。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-21/detail-infmsqmr6331590.d.html</link>
-            <guid>4345357</guid>
-            <pubDate>Wed, 20 Aug 2025 20:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：CVS 健康暂未将吉利德科学的新型 HIV 预防注射剂 Yeztugo 纳入其商业保险或 ACA 保险计划。]]></title>
-            <guid>4345356</guid>
-            <pubDate>Wed, 20 Aug 2025 20:40:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[工会称：至少 600 名美国疾控中心员工将收到最终解雇通知。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-21/detail-infmsqmt4819485.d.html</link>
-            <guid>4345355</guid>
-            <pubDate>Wed, 20 Aug 2025 20:37:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西兰联储首席经济学家：预计新西兰房价将保持平稳，至少在未来一年内我们将维持这一预测。]]></title>
-            <guid>4345354</guid>
-            <pubDate>Wed, 20 Aug 2025 20:25:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新西兰储备银行行长：到目前为止，市场对我们降息举措的反应比预期更为迟缓。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-21/detail-infmsqmr6328548.d.html</link>
-            <guid>4345353</guid>
-            <pubDate>Wed, 20 Aug 2025 20:20:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国路易斯安那州公用事业监管部门批准Entergy Corp.新建三座天然气工厂的计划。那些工厂将向扎克伯格旗下Meta Platform在当地庞大的数据中心提供电力支持。]]></title>
-            <guid>4345352</guid>
-            <pubDate>Wed, 20 Aug 2025 20:18:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[泽连斯基办公室主任：若俄罗斯延长冲突或破坏领导人会议相关协议，乌克兰正与盟友制定应对计划。]]></title>
-            <guid>4345351</guid>
-            <pubDate>Wed, 20 Aug 2025 20:18:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[泽连斯基办公室主任：乌克兰盟友“已开始积极开展”安全保障军事方面的工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-21/detail-infmsqmv8318029.d.html</link>
-            <guid>4345350</guid>
-            <pubDate>Wed, 20 Aug 2025 20:17:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国马里兰州一购物中心附近发生枪击 致1死1伤】当地时间8月20日，美国马里兰州乔治王子县警方证实，该县发生枪击事件，造成一人当场死亡、一人受伤。二者均为男性，年龄未知。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-21/detail-infmsqmt4816684.d.html</link>
-            <guid>4345349</guid>
-            <pubDate>Wed, 20 Aug 2025 20:14:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普：因厄瓜多尔融资渠道增多，将其展望从负面调整为稳定；确认其“B-”评级]]></title>
-            <guid>4345348</guid>
-            <pubDate>Wed, 20 Aug 2025 20:12:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[13G报告显示，Jane Street对CoreWeave持股5.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-21/detail-infmsqmr6327435.d.html</link>
-            <guid>4345347</guid>
-            <pubDate>Wed, 20 Aug 2025 20:10:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴基斯坦季风暴雨已致750人死亡】巴基斯坦国家灾害管理局20日说，过去24小时，强季风降雨引发的灾害造成该国至少43人死亡、11人受伤。自6月26日进入雨季以来，季风暴雨已在巴全国范围内造成750人死亡。据巴国家灾害管理局最新发布的统计报告，43名遇难者中，20人来自西北部开伯尔-普什图省，南部信德省和北部吉尔吉特-伯尔蒂斯坦地区各有11人，西南部俾路支省1人。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-21/detail-infmsqmr6326881.d.html</link>
-            <guid>4345346</guid>
-            <pubDate>Wed, 20 Aug 2025 20:05:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
