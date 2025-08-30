@@ -4,11 +4,28 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 30 Aug 2025 19:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Aug 2025 20:23:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【芝加哥市长签署行政令，应对特朗普威胁实施的打击行动】芝加哥市长约翰逊签署一项行政令，禁止联邦执法人员佩戴口罩或伪装；此举旨在应对美国总统特朗普提出的将打击犯罪行动扩大到芝加哥的威胁。特朗普称这座由民主党执政的城市 “一团糟”，并威胁要像在华盛顿特区那样派遣国民警卫队前往该市打击犯罪、清理无家可归者营地。约翰逊表示，这项新行政令旨在保护芝加哥居民的宪法权利，并补充称，该市将采取一切法律手段抵制联邦政府单方面的部署行动。约翰逊在一份新闻声明中称：“我们不希望街道上出现军事检查站或装甲车，也不希望看到家庭被拆散。我们将采取一切必要行动，保护所有芝加哥人的权利。”]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-31/detail-infnvcmv9538325.d.html</link>
+            <guid>4362222</guid>
+            <pubDate>Sat, 30 Aug 2025 20:05:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会主席冯德莱恩：借助 “欧洲天空之盾倡议”防空项目，我们正打造欧洲最急需的防御能力。我们将重点推进泛欧合作项目，涵盖无人机、网络防御及防空系统等领域。例如，构建一套全面的欧洲防空体系。这将成为欧盟防务团结的鲜明象征。]]></title>
+            <guid>4362221</guid>
+            <pubDate>Sat, 30 Aug 2025 19:46:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国地质调查局：内华达州瓦尔米地区发生 5.3 级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-31/detail-infnvcmy2814279.d.html</link>
+            <guid>4362220</guid>
+            <pubDate>Sat, 30 Aug 2025 19:22:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【俄军公布春夏季军事行动战果】俄罗斯武装力量总参谋长格拉西莫夫30日表示，自今年3月以来，俄军在军事行动中控制超过3500平方公里土地和149个居民点，目前战略主动权掌握在俄军手中。俄国防部当天在社交媒体发布格拉西莫夫总结俄军春夏季军事行动的视频，内容包括俄军控制地区的具体分布等。格拉西莫夫表示，在与俄接壤的乌克兰东北部苏梅州和哈尔科夫州，俄军正推进设立安全缓冲区。格拉西莫夫说，春夏攻势中，俄军76次打击乌克兰重要军事设施和军工综合体设施，重点目标是导弹和远程无人机生产企业。（新华社）]]></title>
             <link>https://finance.sina.cn/7x24/2025-08-31/detail-infnvcmu1047214.d.html</link>
@@ -287,22 +304,6 @@
             <link>https://finance.sina.cn/7x24/2025-08-30/detail-infnunpy4671401.d.html</link>
             <guid>4362097</guid>
             <pubDate>Sat, 30 Aug 2025 13:12:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[格拉西莫夫：俄罗斯控制了乌克兰卢甘斯克地区99.7%、顿涅茨克地区79%、扎波罗热地区74%以及赫尔松地区76%的区域。]]></title>
-            <guid>4362082</guid>
-            <pubDate>Sat, 30 Aug 2025 13:03:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄军事首长格拉西莫夫表示，在乌克兰苏梅州和哈尔科夫州边境沿线创建缓冲区的任务正在顺利完成。]]></title>
-            <guid>4362081</guid>
-            <pubDate>Sat, 30 Aug 2025 13:02:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄军事首长格拉西莫夫：俄军队正在整条前线持续发动进攻。（国际文传电讯社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-30/detail-infnunqc9884627.d.html</link>
-            <guid>4362080</guid>
-            <pubDate>Sat, 30 Aug 2025 13:01:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
