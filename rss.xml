@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 30 Aug 2025 17:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Aug 2025 18:29:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【特朗普：美军不会进驻乌克兰】美国总统特朗普表示，对基辅的安全保证可能包括美欧战机在乌克兰领空巡逻，但强调不会有美军士兵驻扎乌克兰。特朗普在接受采访时说：“我们的士兵不会在那里”。他还说，美国准备提供空中支援，但主要是欧洲飞机。特朗普还表示，如果没有“任何形式”的安全保证，将无法解决乌克兰危机。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-31/detail-infnuxcu4449536.d.html</link>
+            <guid>4362196</guid>
+            <pubDate>Sat, 30 Aug 2025 17:47:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【石宇奇晋级羽毛球世锦赛男单决赛】当地时间30日下午，2025年世界羽毛球锦标赛迎来男单半决赛。本届赛事头号种子、中国选手石宇奇对阵加拿大选手赖浩俊。最终石宇奇以总比分2-1战胜对手，晋级决赛。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-31/detail-infnuxcu4448254.d.html</link>
+            <guid>4362191</guid>
+            <pubDate>Sat, 30 Aug 2025 17:32:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[越南将越南盾每日参考汇率设定为 1 美元兑 25240 越南盾。]]></title>
             <link>https://finance.sina.cn/7x24/2025-08-31/detail-infnuxea2936793.d.html</link>
@@ -290,17 +302,6 @@
             <link>https://finance.sina.cn/7x24/2025-08-30/detail-infnunpy4665230.d.html</link>
             <guid>4362060</guid>
             <pubDate>Sat, 30 Aug 2025 12:36:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【习近平会见埃及总理马德布利】8月30日下午，国家主席习近平在天津迎宾馆会见来华出席2025年上海合作组织峰会的埃及总理马德布利。 习近平指出，埃及是第一个同新中国建交的阿拉伯和非洲国家，中埃关系正处于历史最好时期。明年两国将迎来建交70周年，双方要以此为契机，推动双边关系朝着构建面向新时代中埃命运共同体的目标前进，为中阿、中非关系增添新动力，为维护世界和平稳定、促进全球发展繁荣作出更大贡献。 习近平强调，新形势下，中埃双方要做坚定相互支持的好兄弟，不断巩固政治互信，在涉及彼此核心利益和重大关切问题上继续相互支持。要做深化互利合作的好伙伴，推进共建“一带一路”倡议同“2030愿景”倡议对接，以苏伊士经贸合作区等园区合作为牵引，在经贸、联合制造、新能源等领域加强合作。要做密切多边协作的好朋友，担负同为全球南方重要成员的历史使命和大国责任，维护二战胜利成果，共同反对单边主义和霸凌行径，捍卫以联合国为核心的国际体系和以国际法为基础的国际秩序。（新华社）]]></title>
-            <guid>4362044</guid>
-            <pubDate>Sat, 30 Aug 2025 12:19:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2025数博会100个数字经济项目实现供需对接】2025中国国际大数据产业博览会今天在贵州贵阳闭幕。本届数博会聚焦数据产业、人工智能等领域进行供需对接，涉及100个数字经济项目，吸引投资463.36亿元；围绕数据基础设施等方面，发布行业标准、报告、技术成果等90项。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-30/detail-infnunqa1389567.d.html</link>
-            <guid>4362043</guid>
-            <pubDate>Sat, 30 Aug 2025 12:18:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
