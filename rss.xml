@@ -4,11 +4,38 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 13 Sep 2025 19:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Sep 2025 20:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据AXIOS：以色列总理内塔尼亚胡将询问美国总统特朗普是否支持约旦河西岸吞并计划。]]></title>
+            <guid>4384412</guid>
+            <pubDate>Sat, 13 Sep 2025 20:03:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国汽车工人联合会：通用电气航空的工会成员达成一份条款优厚的临时协议，该协议期限为 5 年，批准投票将于 9 月 19 日举行。]]></title>
+            <guid>4384411</guid>
+            <pubDate>Sat, 13 Sep 2025 20:00:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据AXIOS：以色列总理内塔尼亚胡将向美国国务卿鲁比奥询问约旦河西岸吞并事宜。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-14/detail-infqkxcv1237637.d.html</link>
+            <guid>4384410</guid>
+            <pubDate>Sat, 13 Sep 2025 19:59:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美法官延长暂停驱逐危地马拉无陪伴未成年人期限】当地时间9月13日，美国联邦法官蒂莫西·凯利裁定，继续冻结特朗普政府试图驱逐危地马拉无陪伴未成年移民的政策，暂延至16日，以便有更多时间审理相关争议。案件源于特朗普政府8月31日拟强制驱逐76名危地马拉未成年人，当时孩子们在清晨被叫醒并准备登机，后因法官紧急下令而中止。司法部律师最初称“所有孩子的父母都要求他们回国”，但随后被发现说法不实。危地马拉总检察长办公室的报告显示，大部分孩子的父母无法联系到，部分家长明确表示不希望子女被送回。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-14/detail-infqkxcw7849184.d.html</link>
+            <guid>4384409</guid>
+            <pubDate>Sat, 13 Sep 2025 19:54:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：特朗普政府寻求 5800 万美元资金用于额外安保，安保资金申请面向行政部门与司法部门。]]></title>
+            <guid>4384397</guid>
+            <pubDate>Sat, 13 Sep 2025 19:26:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：卡塔尔将向凸版印刷（Toppan）的芯片材料部门投资 5400 万美元。]]></title>
             <guid>4384393</guid>
@@ -266,36 +293,6 @@
             <link>https://finance.sina.cn/7x24/2025-09-13/detail-infqkhhf6527967.d.html</link>
             <guid>4384308</guid>
             <pubDate>Sat, 13 Sep 2025 14:09:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国机电商会：支持商务部对美相关产品及措施发起调查】9月13日，中国商务部发布公告，决定对原产于美国的进口相关模拟芯片发起反倾销调查，就美国对华集成电路领域相关措施发起反歧视调查。中国机电产品进出口商会（以下简称“中国机电商会”）高度关注并支持中国商务部依法捍卫中国产业企业正当权益。一段时间以来，美国政府泛化国家安全概念，滥用出口管制和“长臂管辖”，在集成电路领域对华采取一系列禁止和限制措施。这些单边主义做法损害中国企业和产业正当权益，扰乱了全球产业链和供应链，中国机电商会对此坚决反对。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-13/detail-infqkhhk3456193.d.html</link>
-            <guid>4384302</guid>
-            <pubDate>Sat, 13 Sep 2025 14:03:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[罗永浩转发新华社文章：不怕你预制，怕你不告诉我。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-13/detail-infqkhhe8189462.d.html</link>
-            <guid>4384297</guid>
-            <pubDate>Sat, 13 Sep 2025 14:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【机构人士：高盛从未发布上调胜宏科技目标价研报】近日就有市场传闻称，高盛基于胜宏科技第二季度业绩及AI业务增长潜力，将其目标价从380元大幅上调至895元，将其2027年净利润预期从原预测值上调至270亿元‌。不过，有接近高盛的机构人士向记者表示，该传闻不实，高盛方面并没有发过相关研报。记者通过各大研报平台也未查到相关研报内容。 (21世纪经济报道)]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-13/detail-infqkhhf6525083.d.html</link>
-            <guid>4384287</guid>
-            <pubDate>Sat, 13 Sep 2025 13:51:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国零售商Sainsbury：确认正在就将Argos出售给京东一事进行讨论。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-13/detail-infqkhhc1588532.d.html</link>
-            <guid>4384286</guid>
-            <pubDate>Sat, 13 Sep 2025 13:50:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 【中国文旅产业供应链交易洽谈活动成交额超8亿元】正在武汉举行的2025中国文化旅游产业博览会上，5场围绕不同细分领域开展的文旅产业供应链交易洽谈活动累计达成8.075亿元现场交易额，以精准对接、深度合作为文旅产业高质量发展注入强劲动能。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-13/detail-infqkhhe8186743.d.html</link>
-            <guid>4384282</guid>
-            <pubDate>Sat, 13 Sep 2025 13:45:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
