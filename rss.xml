@@ -4,11 +4,39 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 14 Sep 2025 16:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Sep 2025 17:16:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[苹果将于9月16日正式推出iOS 26。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-15/detail-infqnvve2200162.d.html</link>
+            <guid>4384972</guid>
+            <pubDate>Sun, 14 Sep 2025 17:10:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：德国执政联盟在北莱茵－威斯特法伦州（总理默茨老家，德国人口第一大州）输掉地方选举。这样的形势，恐怕会让默茨政府在恢复经济增长和推进改革方面承受更大的压力。]]></title>
+            <guid>4384965</guid>
+            <pubDate>Sun, 14 Sep 2025 16:59:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：因支持巴勒斯坦抗议活动，环西班牙自行车赛最后赛段取消，约纳斯・温格高夺冠。]]></title>
+            <guid>4384959</guid>
+            <pubDate>Sun, 14 Sep 2025 16:48:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊拉克总理：伊拉克与法国道达尔能源、卡塔尔能源签署液化天然气联合运营协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-15/detail-infqnvux0265506.d.html</link>
+            <guid>4384946</guid>
+            <pubDate>Sun, 14 Sep 2025 16:27:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【罗永浩提议与贾国龙公开直播对质】9月15日凌晨消息，罗永浩针对西贝创始人贾国龙在行业群里发言并提及自身一事发文称：“贾总，你说我是网络黑社会，我认为你是诬蔑诽谤。这次的事件，总是我说几句，你说几句，容易各说各话，媒体转来转去也容易出现信息偏差，我们还是找一个大的网络平台直播，当面公平公正冷静理性地对一次话吧。相信这也能澄清西贝的真相，并且对中国预制菜产业和餐饮行业的健康发展做一些贡献@西贝贾国龙。”（新浪科技）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-15/detail-infqnvuy6924463.d.html</link>
+            <guid>4384944</guid>
+            <pubDate>Sun, 14 Sep 2025 16:25:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【中美在西班牙就有关经贸问题举行会谈】当地时间9月14日，中美双方在西班牙马德里就有关经贸问题举行会谈。这是会谈前，中共中央政治局委员、国务院副总理何立峰与美国财政部长贝森特合影。（玉渊谭天）]]></title>
             <link>https://finance.sina.cn/7x24/2025-09-15/detail-infqnvve2189931.d.html</link>
@@ -274,24 +302,6 @@
             <link>https://finance.sina.cn/7x24/2025-09-14/detail-infqnrnz0367086.d.html</link>
             <guid>4384831</guid>
             <pubDate>Sun, 14 Sep 2025 13:38:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【航行警告 渤海海峡部分海域军事任务】据中国海事局网站消息，大连海事局发布航行警告，9月15日7时至24时，9月15日12时30分至13时30分和9月15日20时30分至21时30分，9月15日15时至16时，渤海海峡相关海域执行军事任务，禁止驶入。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-14/detail-infqnrph2282694.d.html</link>
-            <guid>4384825</guid>
-            <pubDate>Sun, 14 Sep 2025 13:32:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[牙买加选手奥布莱·塞维利亚在世界田径锦标赛男子100米比赛中夺得金牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-14/detail-infqnrpa7015472.d.html</link>
-            <guid>4384822</guid>
-            <pubDate>Sun, 14 Sep 2025 13:26:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中际旭创：与瑞可达设立合资公司开发铜连接解决方案】有投资者问中际旭创，公司说陆续与合作伙伴设立了铜连接解决方案公司，这个合作伙伴是哪些公司？中际旭创在互动平台表示，公司与瑞可达设立了合资公司开发相关业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-14/detail-infqnrph2280044.d.html</link>
-            <guid>4384815</guid>
-            <pubDate>Sun, 14 Sep 2025 13:17:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
