@@ -4,11 +4,30 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 20 Sep 2025 19:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Sep 2025 20:21:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：委内瑞拉总统马杜罗提议与美国进行直接对话。此前，美国总统特朗普敦促委内瑞拉立即接收所有囚犯。]]></title>
+            <guid>4396289</guid>
+            <pubDate>Sat, 20 Sep 2025 20:09:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【微软等公司警告H-1B签证持有者避免境外旅行】在美国总统特朗普对应用广泛的 H-1B 签证计划征收 10 万美元申请费后，微软公司、谷歌母公司Alphabet、亚马逊及其他科技公司于周六警告持该签证的员工返回美国，并避免境外旅行。一名白宫官员周六称，该费用仅适用于新申请的签证，不适用于签证续签或现有签证持有者，且将在即将到来的抽签流程中实施。
+周六下午晚些时候，白宫在 X 平台的账号发布消息称，特朗普的这一宣布不适用于现有签证持有者，并补充道：“该公告不影响任何现有签证持有者往返美国的出行能力。”即便如此，新规在实施与执行方式上的不确定性，仍在美国企业界引发混乱与不安，企业及移民律师也因此敦促现有签证持有者保持谨慎。
+微软向员工表示，公司理解 “这些事态发展给许多人带来了不确定性”，并补充道：“虽然目前我们无法解答所有问题，但恳请大家优先遵循上述建议。”亚马逊还警告 H-4 附属签证持有者（此类签证面向 H-1B 签证持有者的配偶及家属）需留在美国。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-21/detail-infreuyy3207364.d.html</link>
+            <guid>4396288</guid>
+            <pubDate>Sat, 20 Sep 2025 20:08:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【白宫：10万美元H-1B签证新费用仅适用于新申请人】美国白宫于周六表示，特朗普政府针对应用广泛的 H-1B 签证项目新设的 10 万美元申请费，将仅适用于新申请的签证。白宫在 X 平台的一篇帖子中指出，该费用不适用于已持有 H-1B 签证或正在办理签证续签的人员。在今年 H-1B 签证抽签中中签、且签证将于10月1日生效的人员，无需缴纳此项费用。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-21/detail-infreqta3336797.d.html</link>
+            <guid>4396286</guid>
+            <pubDate>Sat, 20 Sep 2025 19:24:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：特朗普政府将取消美国农业部一项衡量全美粮食不安全状况的年度调查。]]></title>
             <link>https://finance.sina.cn/7x24/2025-09-21/detail-infreqta3336244.d.html</link>
@@ -284,24 +303,6 @@
             <link>https://finance.sina.cn/7x24/2025-09-20/detail-infreech3567456.d.html</link>
             <guid>4395965</guid>
             <pubDate>Sat, 20 Sep 2025 14:02:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委斯托纳拉斯：2028 年的通胀率很可能会接近2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-20/detail-infreech3567378.d.html</link>
-            <guid>4395964</guid>
-            <pubDate>Sat, 20 Sep 2025 14:01:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委斯托纳拉斯：我们正处于“良好的平衡状态”。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-20/detail-infreech3567332.d.html</link>
-            <guid>4395963</guid>
-            <pubDate>Sat, 20 Sep 2025 14:01:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委斯托纳拉斯：目前没有理由调整利率。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-20/detail-infreech3567286.d.html</link>
-            <guid>4395962</guid>
-            <pubDate>Sat, 20 Sep 2025 14:00:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
