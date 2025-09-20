@@ -4,13 +4,35 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 20 Sep 2025 18:28:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Sep 2025 19:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[谷歌母公司Alphabet：路透社获取的邮件显示，持有效 H1-B 签证且目前在美国境外者，需计划在 9 月 21 日前返美入境。]]></title>
+            <title><![CDATA[市场消息：特朗普政府将取消美国农业部一项衡量全美粮食不安全状况的年度调查。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-21/detail-infreqta3336244.d.html</link>
+            <guid>4396282</guid>
+            <pubDate>Sat, 20 Sep 2025 19:07:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国国防部要求记者允许政府审查信息】美国国防部要求，记者若想获得接触其信息的权限，必须同意将所有关于国防部的报道内容提交政府审批。这是特朗普政府在和平时期为控制公众获取军事行动相关信息所做的最新努力。这项新规定是本周向新闻机构推出的记者证审批流程更新内容之一，源自美国国防部发言人发布的一份备忘录。备忘录称，记者需签署一份 10 页的文件，这是获取和持有报道国防部所需记者证的前提条件。任何签署该文件的人都需同意：“国防部相关信息（即便非机密）在发布前，必须经相关授权官员审批，方可向公众发布。”为证明这项新限制的合理性，美国国防部表示，其必须保护机密国家安全信息，以及所有被列为 “受控非机密信息” 的内容。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-21/detail-infreqsw8069677.d.html</link>
+            <guid>4396273</guid>
+            <pubDate>Sat, 20 Sep 2025 18:51:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[谷歌母公司Alphabet：初步收到的建议为，重新入境需按每份申请强制缴纳 10 万美元，此举可能导致严重延误或阻碍入境美国。]]></title>
+            <guid>4396254</guid>
+            <pubDate>Sat, 20 Sep 2025 18:36:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[谷歌母公司Alphabet：公司强烈建议员工不要进行任何国际旅行，H1-B 签证持有者需留在美国。]]></title>
+            <guid>4396249</guid>
+            <pubDate>Sat, 20 Sep 2025 18:30:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[谷歌母公司Alphabet：持有效 H1-B 签证且目前在美国境外者，需计划在 9 月 21 日前返美入境。]]></title>
             <guid>4396246</guid>
             <pubDate>Sat, 20 Sep 2025 18:28:37 GMT</pubDate>
         </item>
@@ -280,30 +302,6 @@
             <link>https://finance.sina.cn/7x24/2025-09-20/detail-infreech3567286.d.html</link>
             <guid>4395962</guid>
             <pubDate>Sat, 20 Sep 2025 14:00:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【比亚迪仰望U9 Xtreme全球限量发售30台】记者20日从比亚迪获悉，仰望U9赛道特别版车型定名为仰望U9 Xtreme（简称仰望U9X），全球限量发售30台，并为每一台提供独一无二的整车定制方案。日前，仰望U9X凭借496.22km/h的成绩，取代燃油车登顶全球汽车极速榜首。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-20/detail-infreeca8301187.d.html</link>
-            <guid>4395961</guid>
-            <pubDate>Sat, 20 Sep 2025 13:59:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【山西前8个月抽采煤层气近百亿立方米】记者近日从山西省统计部门获悉，今年前8个月山西省煤层气总产量达98.1亿立方米，超过2022年全年产量，创历史同期新高，约占全国同期煤层气产量的81.3%。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-20/detail-infreecc6597852.d.html</link>
-            <guid>4395956</guid>
-            <pubDate>Sat, 20 Sep 2025 13:50:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国驻菲律宾大使馆紧急提醒在菲中国公民进一步提高安全防范】9月21日，菲律宾马尼拉黎刹公园、EDSA大道沿线多地以及宿务等城市将举行大规模游行示威。中国驻菲律宾使领馆特此提醒在菲同胞进一步提高安全防范意识，尽量避免外出。确需出行的，务必做好交通规划，远离游行示威和人员密集场所，留意集会引发的交通管制，并随身携带有效证件，确保人身安全。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-20/detail-infreech3565864.d.html</link>
-            <guid>4395955</guid>
-            <pubDate>Sat, 20 Sep 2025 13:49:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比亚迪汽车：496.22km/h，仰望U9X成全球极速第一。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-20/detail-infreecc6597500.d.html</link>
-            <guid>4395954</guid>
-            <pubDate>Sat, 20 Sep 2025 13:48:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
