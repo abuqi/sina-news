@@ -6,6 +6,313 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 4407604,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrwcie0331021.d.html",
+            "title": "X公司：反对墨西哥联邦税法第30-B条。",
+            "date_modified": "2025-09-26T17:18:43.000Z"
+        },
+        {
+            "id": 4407603,
+            "content_html": "",
+            "title": "美银全球投资策略主管Elyas Galou：财政部国际资本(TIC)数据显示，截至7月，外国投资者持有的美国股票规模今年有望增加2.8万亿美元。",
+            "date_modified": "2025-09-26T17:16:59.000Z"
+        },
+        {
+            "id": 4407602,
+            "content_html": "",
+            "title": "周五（9月26日），美联储隔夜逆回购协议（RRP）使用规模为480.73亿美元，上个交易日报253.69亿美元。",
+            "date_modified": "2025-09-26T17:16:38.000Z"
+        },
+        {
+            "id": 4407601,
+            "content_html": "",
+            "title": "美联储数据显示：第二季度外国投资者购买创下纪录水平，美股目前占外国投资者美国资产配置的近32%，打破了自1968年以来保持的纪录。截至6月30日的三个月，外国投资者向美国股市注入了2907亿美元资金。外国投资者持有约18万亿美元美国股票，占近60万亿美元股市总市值的约30%，创1945年以来最高水平。",
+            "date_modified": "2025-09-26T17:16:33.000Z"
+        },
+        {
+            "id": 4407600,
+            "content_html": "",
+            "title": "美国众议院民主党领袖杰弗里斯谈政府关门：民主党人来到国会大厦，愿意和任何人谈判，距离政府关门还有四天，而特朗普却在参加高尔夫活动？他没时间与领导人会面吗？",
+            "date_modified": "2025-09-26T17:12:02.000Z"
+        },
+        {
+            "id": 4407598,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrwcii4628642.d.html",
+            "title": "【陕西镇坪煤矿垮塌事故搜救出1名被困人员 已无生命体征】记者从陕西省镇坪县有关部门了解到，9月26日23时20分左右，救援人员搜救出1名被困人员，经确认已无生命体征。另外两名被困人员正在搜救中。9月25日15时30分左右，镇坪县上竹镇发龙村余老二煤矿巷道发生垮塌，有3名工人被困。当地安排消防、医疗救护人员赶往现场救援。因救援作业面有限，不适宜机械作业施救，加之现场持续降雨，冒顶处随时伴有垮塌风险，救援现场情况复杂。（央视新闻）",
+            "date_modified": "2025-09-26T17:04:11.000Z"
+        },
+        {
+            "id": 4407597,
+            "content_html": "",
+            "title": "国际铜夜盘收跌0.75%，沪铜收跌0.79%，沪铝收跌0.55%，沪锌收跌1.50%，沪铅收跌0.09%，沪镍收跌0.86%，沪锡收跌0.12%。氧化铝夜盘收跌1.68%，铝合金收跌0.64%。不锈钢夜盘收跌0.66%。",
+            "date_modified": "2025-09-26T17:03:42.000Z"
+        },
+        {
+            "id": 4407596,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrwcif6139676.d.html",
+            "title": "鲍曼：现在应该果断主动采取行动来保护就业。",
+            "date_modified": "2025-09-26T17:03:23.000Z"
+        },
+        {
+            "id": 4407595,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrwcif6139530.d.html",
+            "title": "鲍曼：经济可能正从近期的技术进步中经历长期的生产率飙升。",
+            "date_modified": "2025-09-26T17:02:52.000Z"
+        },
+        {
+            "id": 4407594,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrwcie0328826.d.html",
+            "title": "鲍曼：忽略关税的一次性影响是合适的。",
+            "date_modified": "2025-09-26T17:02:50.000Z"
+        },
+        {
+            "id": 4407593,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrwcie0328803.d.html",
+            "title": "鲍曼：预计在关税一次性调整后，通胀将回归 2%的目标水平。",
+            "date_modified": "2025-09-26T17:02:47.000Z"
+        },
+        {
+            "id": 4407592,
+            "content_html": "",
+            "title": "鲍曼：如果这些情况持续下去，美联储将需要加快政策调整步伐，并在未来进行更大幅度的政策调整。",
+            "date_modified": "2025-09-26T17:02:45.000Z"
+        },
+        {
+            "id": 4407591,
+            "content_html": "",
+            "title": "鲍曼：包括基准薪资修正数据在内的近期数据显示，我们极有可能已经滞后于形势发展，面临严重风险。",
+            "date_modified": "2025-09-26T17:02:38.000Z"
+        },
+        {
+            "id": 4407590,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrwcif6139477.d.html",
+            "title": "鲍曼：认为人口增长放缓和人口老龄化是拉低中性利率的更显著因素。",
+            "date_modified": "2025-09-26T17:02:35.000Z"
+        },
+        {
+            "id": 4407589,
+            "content_html": "",
+            "title": "鲍曼：联邦公开市场委员会（FOMC）是时候果断且主动出击，以应对劳动力市场活力下降以及初现的脆弱迹象了。",
+            "date_modified": "2025-09-26T17:02:32.000Z"
+        },
+        {
+            "id": 4407588,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrwcii4628250.d.html",
+            "title": "鲍曼：资产负债表倾向于更多短期证券将提供更大灵活性。",
+            "date_modified": "2025-09-26T17:02:29.000Z"
+        },
+        {
+            "id": 4407587,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrwcie0328644.d.html",
+            "title": "鲍曼：较低的准备金水平可能会促使银行在准备金头寸和流动性风险管理方面更加积极。",
+            "date_modified": "2025-09-26T17:02:24.000Z"
+        },
+        {
+            "id": 4407586,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrwcif6139440.d.html",
+            "title": "鲍曼：积极的资产负债表管理将更及时地显示市场压力和市场运行问题。",
+            "date_modified": "2025-09-26T17:02:21.000Z"
+        },
+        {
+            "id": 4407585,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrwcie0328574.d.html",
+            "title": "鲍曼：需要果断降息以抵消劳动力市场风险。",
+            "date_modified": "2025-09-26T17:02:16.000Z"
+        },
+        {
+            "id": 4407584,
+            "content_html": "",
+            "title": "鲍曼：对依赖数据采取僵化、教条的观点会导致对经济的看法滞后，这必然会让我们始终落后于形势。",
+            "date_modified": "2025-09-26T17:02:08.000Z"
+        },
+        {
+            "id": 4407583,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrwcii4628158.d.html",
+            "title": "鲍曼：鉴于预测人士普遍预计明年通胀率将大幅下降，这种转变是恰当的。",
+            "date_modified": "2025-09-26T17:02:05.000Z"
+        },
+        {
+            "id": 4407582,
+            "content_html": "",
+            "title": "鲍曼：资产负债表规模占国内生产总值（GDP）的比例降低，使美联储在应对未来冲击时有更多选择。",
+            "date_modified": "2025-09-26T17:02:01.000Z"
+        },
+        {
+            "id": 4407581,
+            "content_html": "",
+            "title": "鲍曼：改革强化补充杠杆率将解决一些问题，而常备回购便利等常设工具正是为缓解这些问题而设计的。",
+            "date_modified": "2025-09-26T17:01:58.000Z"
+        },
+        {
+            "id": 4407580,
+            "content_html": "",
+            "title": "鲍曼：期待就出售抵押贷款支持证券（MBS）展开讨论；被动缩表无法在可信的时间框架内使资产组合仅回归至持有国债状态。",
+            "date_modified": "2025-09-26T17:01:55.000Z"
+        },
+        {
+            "id": 4407579,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrwcif6139334.d.html",
+            "title": "鲍曼：强烈支持仅持有美国国债。",
+            "date_modified": "2025-09-26T17:01:52.000Z"
+        },
+        {
+            "id": 4407578,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrwcii4628021.d.html",
+            "title": "鲍曼：倾向于尽可能小的资产负债表。",
+            "date_modified": "2025-09-26T17:01:23.000Z"
+        },
+        {
+            "id": 4407577,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrwcie0328222.d.html",
+            "title": "鲍曼：货币政策应灵活应对变化。",
+            "date_modified": "2025-09-26T17:01:07.000Z"
+        },
+        {
+            "id": 4407576,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrwcie0328144.d.html",
+            "title": "美国9月26日当周总钻井数 549，前值 542。",
+            "date_modified": "2025-09-26T17:00:50.000Z"
+        },
+        {
+            "id": 4407575,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrwcie0328106.d.html",
+            "title": "鲍曼：美联储的紧急工具不应成为永久性的。",
+            "date_modified": "2025-09-26T17:00:43.000Z"
+        },
+        {
+            "id": 4407574,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrwcie0328024.d.html",
+            "title": "鲍曼：应该考虑出售抵押贷款支持证券。",
+            "date_modified": "2025-09-26T17:00:32.000Z"
+        },
+        {
+            "id": 4407573,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrwcie0327949.d.html",
+            "title": "鲍曼：我倾向于将储备余额控制在稀缺水平，而不是充足水平。",
+            "date_modified": "2025-09-26T17:00:17.000Z"
+        },
+        {
+            "id": 4407572,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrwcie0327549.d.html",
+            "title": "波音公司与国防工人联盟同意重启谈判。",
+            "date_modified": "2025-09-26T16:58:42.000Z"
+        },
+        {
+            "id": 4407570,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrwcie0326806.d.html",
+            "title": "巴西旅游部长塞尔索·萨比诺辞职。",
+            "date_modified": "2025-09-26T16:56:31.000Z"
+        },
+        {
+            "id": 4407569,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrwcii4626278.d.html",
+            "title": "【LME金属期货收盘多数下跌】LME期铜收跌78美元，报10182美元/吨。LME期铝收跌3美元，报2656美元/吨。LME期锌收跌38美元，报2888美元/吨。LME期铅收跌13美元，报2002美元/吨。LME期镍收跌104美元，报15175美元/吨。LME期锡收涨63美元，报34503美元/吨。LME期钴收平，报35000美元/吨。",
+            "date_modified": "2025-09-26T16:51:55.000Z"
+        },
+        {
+            "id": 4407568,
+            "content_html": "",
+            "title": "惠誉：预计智利2025年国内生产总值（GDP）增长率为2.4%，高于此前预测的2%。",
+            "date_modified": "2025-09-26T16:48:14.000Z"
+        },
+        {
+            "id": 4407567,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrwcii4625379.d.html",
+            "title": "白宫：最新药品关税不适用于已达成贸易协议的国家。",
+            "date_modified": "2025-09-26T16:45:51.000Z"
+        },
+        {
+            "id": 4407566,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrwcif6136472.d.html",
+            "title": "【俄外交部将英国财政副大臣等人列入“禁止入境名单”】俄罗斯外交部当地时间9月26日表示，将英国财政副大臣等部分英国人士列入俄罗斯的“禁止入境名单”。俄外交部表示，过去几天，英国对俄实施新一轮信息操纵，并宣布对俄实施经济限制。作为对英国方面持续对抗行为的回应，俄方决定将“鼓吹支持非法单边限制”“参与对俄破坏活动”“包括编造诽谤性臆测和传播涉俄虚假信息”的部分英国人士列入俄罗斯的“禁止入境名单”。",
+            "date_modified": "2025-09-26T16:45:05.000Z"
+        },
+        {
+            "id": 4407565,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrwcie0322742.d.html",
+            "title": "乌克兰总统泽连斯基：没想到自己能在俄乌冲突后撑这么久。",
+            "date_modified": "2025-09-26T16:43:42.000Z"
+        },
+        {
+            "id": 4407564,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrwcif6135957.d.html",
+            "title": "达拉斯联储：核心个人消费支出（PCE）物价指数8月同比上涨2.8%。",
+            "date_modified": "2025-09-26T16:41:20.000Z"
+        },
+        {
+            "id": 4407562,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrwcif6134727.d.html",
+            "title": "COMEX白银期货涨超3%，报44.465美元/盎司。",
+            "date_modified": "2025-09-26T16:33:38.000Z"
+        },
+        {
+            "id": 4407561,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrwcie0320571.d.html",
+            "title": "丰田在美国召回约1500辆2020-2022款Supra车型。",
+            "date_modified": "2025-09-26T16:33:22.000Z"
+        },
+        {
+            "id": 4407560,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrwcie0320525.d.html",
+            "title": "软银与方舟基金正洽谈参与泰达币（Tether）大型融资轮投资。",
+            "date_modified": "2025-09-26T16:33:07.000Z"
+        },
+        {
+            "id": 4407559,
+            "content_html": "",
+            "title": "法国社会党发言人德拉波尔特在评论总理勒科尔尼的提议时表示，勒科尔尼似乎是想遭到弹劾。",
+            "date_modified": "2025-09-26T16:31:47.000Z"
+        },
+        {
+            "id": 4407558,
+            "content_html": "",
+            "title": "南非国家能源监管局：市场调查将主要聚焦于市政固定费用和南非国家电力公司拆分后的发电电价。",
+            "date_modified": "2025-09-26T16:30:57.000Z"
+        },
+        {
+            "id": 4407557,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrvwzh0450738.d.html",
+            "title": "南非国家能源监管局：启动对电力行业固定费用和容量费用的市场调查。",
+            "date_modified": "2025-09-26T16:29:55.000Z"
+        },
+        {
+            "id": 4407556,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrvwzh0450660.d.html",
+            "title": "安哥拉将11月石油出口计划下调至108万桶/日（原定114万桶/日）。",
+            "date_modified": "2025-09-26T16:29:19.000Z"
+        },
+        {
             "id": 4407555,
             "content_html": "",
             "title": "吉米·坎摩尔的节目复播后收视创下纪录，他向特朗普致谢：总统先生，没有您我们办不到。",
@@ -24,331 +331,6 @@
             "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrvwzh0448543.d.html",
             "title": "乌克兰总统泽连斯基向特朗普请求购买战斧导弹，期望以此迫使俄罗斯达成和平协议。",
             "date_modified": "2025-09-26T16:18:21.000Z"
-        },
-        {
-            "id": 4407552,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrvwzm4751775.d.html",
-            "title": "【我国首批200名高技能人才被授予“大国工匠”称号】在刚刚结束的第三届大国工匠创新交流大会暨大国工匠论坛上，我国首批200名高技能人才，经过一年多的培育正式被授予“大国工匠”人才称号。",
-            "date_modified": "2025-09-26T16:16:41.000Z"
-        },
-        {
-            "id": 4407551,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrvwzi6262816.d.html",
-            "title": "【中企拿下全球53%造船订单】美国战略与国际研究中心（CSIS）25日发布的一份分析报告显示，今年前8个月，中国企业以吨位计承接了全球53%的商业造船订单，与2023年全年水平持平。",
-            "date_modified": "2025-09-26T16:15:29.000Z"
-        },
-        {
-            "id": 4407550,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrvwzm4751254.d.html",
-            "title": "意大利央行第四季度维持银行资本要求为零。",
-            "date_modified": "2025-09-26T16:13:21.000Z"
-        },
-        {
-            "id": 4407549,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrvwzi6261319.d.html",
-            "title": "白银连续主力合约日内涨2%，现报10841.00元/吨。",
-            "date_modified": "2025-09-26T16:07:14.000Z"
-        },
-        {
-            "id": 4407548,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrvwzh0445864.d.html",
-            "title": "【SHOPLINE获新加坡金管局原则性批准 有望取得主要支付机构牌照】SHOPLINE宣布旗下子公司Instage Technology Pte Ltd获得新加坡金融管理局（MAS）授予的原则性批准（IPA），有望取得主要支付机构（MPI）牌照。若最终获批，SHOPLINE将可在新加坡提供五项受监管支付服务，包括账户开设、本地及跨境汇款、商户拓展以及电子货币发行。 SHOPLINE是欢聚集团于2019年战略投资的全球零售解决方案商，可为全球品牌卖家提供一站式解决方案。获得原则性批准标志着 SHOPLINE Payments 在监管合规方面取得关键性里程碑。据介绍，目前，SHOPLINE Payments 已建立完善的治理、合规及运营基础设施。取得支付机构牌照后，SHOPLINE将能够为商家提供更具竞争力的定价、更快的结算速度，并强化交易安全与用户体验。同时，多货币支持能力也将助力商家实现真正的全球业务覆盖。（新浪科技）",
-            "date_modified": "2025-09-26T16:07:02.000Z"
-        },
-        {
-            "id": 4407547,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrvwzm4749953.d.html",
-            "title": "英特尔涨幅持续扩大至5%，现报35.83美元，9月以来已累升超27%。",
-            "date_modified": "2025-09-26T16:06:26.000Z"
-        },
-        {
-            "id": 4407546,
-            "content_html": "",
-            "title": "苹果公司请求法官驳回一项诉讼，该诉讼称苹果公司误导了客户有关iPhone 16系列中Apple Intelligence驱动的Siri部署延迟。",
-            "date_modified": "2025-09-26T16:06:19.000Z"
-        },
-        {
-            "id": 4407544,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrvwzh0443661.d.html",
-            "title": "【内塔尼亚胡猛烈批评西方国家支持巴勒斯坦建国的立场】以色列总理内塔尼亚胡今天（9月26日）在第80届联合国大会一般性辩论发表演讲时称，他的讲话正通过加沙地带边境的扬声器“直接向人质进行广播”。内塔尼亚胡称，他“特意在以色列一侧的加沙边境设置了扬声器”，将他的讲话内容传入巴勒斯坦地区，希望被扣押在那里的人质能听到他“承诺他们不会被遗忘”。内塔尼亚胡在发言中还以迄今为止最严厉的措辞，猛烈批评西方国家支持巴勒斯坦建国的立场，指责这些国家传递出“杀害犹太人有回报”的信息。 （CCTV国际时讯）",
-            "date_modified": "2025-09-26T16:02:24.000Z"
-        },
-        {
-            "id": 4407543,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrvwzi6259891.d.html",
-            "title": "美国官员：印度需要解决美国的市场准入担忧、贸易逆差问题以及购买俄罗斯石油的问题。",
-            "date_modified": "2025-09-26T16:02:06.000Z"
-        },
-        {
-            "id": 4407542,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrvwzm4748316.d.html",
-            "title": "美国官员：印美贸易谈判“进展积极”。",
-            "date_modified": "2025-09-26T16:01:11.000Z"
-        },
-        {
-            "id": 4407541,
-            "content_html": "",
-            "title": "人工智能云公司Northern Data遭到德国监管部门的突击检查，该公司的投资方包括泰达币发行人Tether Holdings Ltd.。此前，瑞典公诉人调查该公司是否在其境内挖矿比特币，该公司有四人因牵涉到大规模的增值税欺诈调查而被捕。德国政府此次调查或与瑞典问题有关。",
-            "date_modified": "2025-09-26T16:01:07.000Z"
-        },
-        {
-            "id": 4407540,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-27/detail-infrvwzh0442612.d.html",
-            "title": "白银连续主力合约日内涨3%，现报10853.00元/吨。",
-            "date_modified": "2025-09-26T16:00:00.000Z"
-        },
-        {
-            "id": 4407539,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrvwzh0442547.d.html",
-            "title": "福特股价一度上涨6%。",
-            "date_modified": "2025-09-26T15:59:32.000Z"
-        },
-        {
-            "id": 4407538,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrvwzi6259103.d.html",
-            "title": "【黑客攻破美政府防火墙】黑客已攻破美政府内部使用的思科防火墙，初步评估， 美政府关键基础设施已受影响。9月26日，美国网络安全与基础设施安全局透露了这一消息。 美国网络安全与基础设施安全局发布紧急指令，要求联邦机构排查思科防火墙漏洞，识别并清除潜在入侵。 目前受攻击的具体部门及严重程度尚未披露，但该局评估认为相关攻击已触及关键基础设施。 思科公司在报告中称，本次攻击高度疑似是2024年发起“ArcaneDoor”黑客行动的同一批黑客所为。",
-            "date_modified": "2025-09-26T15:59:13.000Z"
-        },
-        {
-            "id": 4407537,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrvwzm4747844.d.html",
-            "title": "【王文涛部长会见联合国副秘书长、开发计划署代理署长徐浩良】9月25日，商务部部长王文涛在美国纽约会见联合国副秘书长、开发计划署代理署长徐浩良。会后，双方签署了《中华人民共和国商务部与联合国开发计划署关于在上海设立联合国开发计划署全球可持续发展中心的合作意向声明》。（商务部网站）",
-            "date_modified": "2025-09-26T15:58:31.000Z"
-        },
-        {
-            "id": 4407536,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrvwzm4747681.d.html",
-            "title": "微软：摩根士丹利将公司目标价从582.00美元上调至625.00美元。",
-            "date_modified": "2025-09-26T15:56:17.000Z"
-        },
-        {
-            "id": 4407535,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrvwzm4747542.d.html",
-            "title": "【欧洲多国告知俄准备击落俄军机】知情人士透露，有欧洲外交官本周在与俄罗斯方面举行的一次会谈中警告称，“北约已准备好全力应对进一步侵犯其领空的行为，包括击落俄军机”。对这一报道，俄总统新闻秘书佩斯科夫今天（9月26日）表示，他“甚至不想谈论此事”，所谓“准备好击落俄军机”是“非常不负责任的说法”。而事实上，北约公开喊话背后也是分歧显著。",
-            "date_modified": "2025-09-26T15:55:33.000Z"
-        },
-        {
-            "id": 4407534,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrvwzm4746996.d.html",
-            "title": "波兰总统签署援助乌克兰侨民的法律。",
-            "date_modified": "2025-09-26T15:53:10.000Z"
-        },
-        {
-            "id": 4407533,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrvwzm4746644.d.html",
-            "title": "埃及：阿拉伯国家支持特朗普结束加沙战争的努力。",
-            "date_modified": "2025-09-26T15:51:52.000Z"
-        },
-        {
-            "id": 4407531,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrvwzi6256630.d.html",
-            "title": "白银连续主力合约日内涨3%，现报10842.00元/吨。",
-            "date_modified": "2025-09-26T15:47:10.000Z"
-        },
-        {
-            "id": 4407530,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrvwzh0438161.d.html",
-            "title": "【李强出席第80届联合国大会一般性辩论并发表讲话】当地时间9月26日，国务院总理李强在纽约联合国总部出席第80届联合国大会一般性辩论并发表讲话。李强表示，今年是世界反法西斯战争胜利80周年，也是联合国成立80周年。回首既往，我们可以得出一些宝贵启示：和平与发展是各国人民最热切的共同期盼，团结合作是人类进步最强大的力量源泉，公平正义是国际社会最重要的价值追求。李强强调，中国作为联合国创始会员国，始终积极参与全球事务，努力推动提升人类福祉。这些年，习近平主席先后提出构建人类命运共同体理念和全球发展倡议、全球安全倡议、全球文明倡议、全球治理倡议，为应对世界变局、破解紧迫难题贡献了中国智慧和中国方案。特别是这个月初在上海合作组织天津峰会上提出的全球治理倡议，强调奉行主权平等、遵守国际法治、践行多边主义、倡导以人为本、注重行动导向，为建设一个更加公正合理的全球治理体系指引了正确方向，提供了重要路径。中方愿同各方一道采取协调有力行动，解决更多实际问题，推进世界和平与发展。（新华社）",
-            "date_modified": "2025-09-26T15:46:03.000Z"
-        },
-        {
-            "id": 4407529,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrvwzm4744797.d.html",
-            "title": "法国总理勒科尔尼：没有暂停可再生能源的计划。",
-            "date_modified": "2025-09-26T15:44:52.000Z"
-        },
-        {
-            "id": 4407528,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrvwzi6255960.d.html",
-            "title": "世界贸易组织：欧盟就对从印度尼西亚进口生物柴油征收关税的争端小组报告提出上诉。",
-            "date_modified": "2025-09-26T15:44:37.000Z"
-        },
-        {
-            "id": 4407527,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrvwzm4744482.d.html",
-            "title": "波兰总统签署法案，冻结第四季度电力价格。",
-            "date_modified": "2025-09-26T15:43:23.000Z"
-        },
-        {
-            "id": 4407526,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrvwzh0437151.d.html",
-            "title": "塞拉利昂央行将政策利率下调300个基点至18.75%。",
-            "date_modified": "2025-09-26T15:42:51.000Z"
-        },
-        {
-            "id": 4407525,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrvwzi6255230.d.html",
-            "title": "法国总理勒科尔尼：暂停养老金改革无助于解决关键问题。",
-            "date_modified": "2025-09-26T15:41:19.000Z"
-        },
-        {
-            "id": 4407524,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrvwzm4743833.d.html",
-            "title": "法国总理勒科尔尼：我尤其热衷于与社会党接触。",
-            "date_modified": "2025-09-26T15:40:09.000Z"
-        },
-        {
-            "id": 4407523,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrvwzm4743584.d.html",
-            "title": "法国总理勒科尔尼：我希望在不使用宪法第49.3条的情况下通过预算法案。",
-            "date_modified": "2025-09-26T15:38:17.000Z"
-        },
-        {
-            "id": 4407522,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrvwzm4743510.d.html",
-            "title": "法国总理勒科尔尼：政府并未考虑重新开征财富税。",
-            "date_modified": "2025-09-26T15:37:52.000Z"
-        },
-        {
-            "id": 4407521,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrvwzm4743449.d.html",
-            "title": "惠誉：上调汤森路透评级至A-。",
-            "date_modified": "2025-09-26T15:37:29.000Z"
-        },
-        {
-            "id": 4407520,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrvwzi6254572.d.html",
-            "title": "欧盟就发行计划下的进一步融资需求发出征求建议书。",
-            "date_modified": "2025-09-26T15:36:56.000Z"
-        },
-        {
-            "id": 4407519,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrvwzh0434834.d.html",
-            "title": "现货钯金涨4%，现报1280.00美元/盎司。",
-            "date_modified": "2025-09-26T15:36:07.000Z"
-        },
-        {
-            "id": 4407518,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrvwzm4743219.d.html",
-            "title": "法国总理勒科尔尼：祖克曼税并非法国的正确应对之策。",
-            "date_modified": "2025-09-26T15:35:52.000Z"
-        },
-        {
-            "id": 4407517,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrvwzm4743189.d.html",
-            "title": "法国总理勒科尔尼：在我规划的预算案中，部分税种税率将上调，部分则会下调。",
-            "date_modified": "2025-09-26T15:35:17.000Z"
-        },
-        {
-            "id": 4407516,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrvwzm4743150.d.html",
-            "title": "法国总理勒科尔尼：目前没有计划恢复2017年废除的财富税。",
-            "date_modified": "2025-09-26T15:35:00.000Z"
-        },
-        {
-            "id": 4407515,
-            "content_html": "",
-            "title": "法国总理勒科尔尼：到2029年将赤字率降至3%是我们对合作伙伴的承诺，也是降低我国债务的门槛。",
-            "date_modified": "2025-09-26T15:34:38.000Z"
-        },
-        {
-            "id": 4407514,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrvwzm4743014.d.html",
-            "title": "法国总理勒科尔尼：国际货币基金组织不会找上门来干预法国事务。",
-            "date_modified": "2025-09-26T15:34:20.000Z"
-        },
-        {
-            "id": 4407513,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrvwzh0433193.d.html",
-            "title": "法国总理勒科尔尼：如果从现在到今年年底无法制定出法国预算，赤字可能会达到6%。",
-            "date_modified": "2025-09-26T15:32:34.000Z"
-        },
-        {
-            "id": 4407512,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrvwzi6253776.d.html",
-            "title": "法国总理勒科尔尼：着眼于一项计划，据此2026年赤字率可能在4.7%左右。",
-            "date_modified": "2025-09-26T15:31:51.000Z"
-        },
-        {
-            "id": 4407511,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrvwzi6253743.d.html",
-            "title": "【欧洲主要股指收盘普涨】欧洲斯托克指数上涨0.81%，欧元区蓝筹股指数上涨0.97%。法国CAC 40指数上涨0.89%；西班牙IBEX指数上涨1.28%，英国富时100指数上涨0.73%，德国DAX指数上涨0.84%。",
-            "date_modified": "2025-09-26T15:31:44.000Z"
-        },
-        {
-            "id": 4407510,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrvwzm4742302.d.html",
-            "title": "法国总理勒科尔尼：2026年的赤字目标与2029年的3%目标相兼容。",
-            "date_modified": "2025-09-26T15:30:50.000Z"
-        },
-        {
-            "id": 4407509,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrvwzm4741975.d.html",
-            "title": "【英德法院通报“公车私用”：情况属实，将对相关人员作出严肃处理】近日，部分网友和媒体反映我院工作人员公车私用的问题，引起社会关注。我院第一时间开展核查工作，经核实该警车系我院公务用车。9月18日上午9时34分，我院两名工作人员从法院出发，前往广州市花都区、番禺区送达法律文书。因下午还有其他送达任务，当日中午13时31分至15时35分，工作人员就近将警车停放在番禺海印又一城停车场，前往商场内山姆超市购买午餐（牛肉卷2份、饼干1盒、饮料1组）及部分私人生活用品。用餐后，工作人员在未着制服的情况下，驾驶警车离开停车场，继续开展送达工作，并于当日返回单位。我院工作人员利用公务期间的便利驾车前往超市购买私人物品，属于公车私用，且未按规定着装驾驶警车，违反了公务用车和警车使用管理相关规定。接下来，我院将依规依纪对相关人员作出严肃处理。此事件反映出我院公务用车管理不严，个别工作人员纪律意识淡薄等问题。下一步，我院将深刻汲取教训，严格规范公务用车管理及外出工作人员行为监管。同时，对我院工作人员在未全面调查的情况下擅自对外作出回应，造成公众误解，深表歉意。衷心感谢广大网友及媒体朋友对我院工作的监督。",
-            "date_modified": "2025-09-26T15:29:03.000Z"
-        },
-        {
-            "id": 4407508,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrvwzi6253142.d.html",
-            "title": "法国总理勒科尔尼：仍打算提交一份预算案。",
-            "date_modified": "2025-09-26T15:28:29.000Z"
-        },
-        {
-            "id": 4407507,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrvwzm4741824.d.html",
-            "title": "法国总理勒科尔尼：将提议削减60亿欧元的国家开支并调整生活水平标准。",
-            "date_modified": "2025-09-26T15:27:51.000Z"
-        },
-        {
-            "id": 4407506,
-            "content_html": "",
-            "title": "伊拉克国家石油营销组织（SOMO）总干事表示，从库尔德地区油田出口石油的协议将于周六开始执行。",
-            "date_modified": "2025-09-26T15:27:06.000Z"
-        },
-        {
-            "id": 4407505,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrvwzi6252863.d.html",
-            "title": "法国总理勒科尔尼：2026年紧缩预算是不可能的。",
-            "date_modified": "2025-09-26T15:26:56.000Z"
-        },
-        {
-            "id": 4407504,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrvwzm4741546.d.html",
-            "title": "【欧盟开会拟建无人机墙】近期，波兰、罗马尼亚、爱沙尼亚等国先后称本国领空“遭到俄罗斯无人机或军机的侵犯”，引发欧洲对自身安全和北约东翼局势的担忧。尽管俄方数次回应称这一指控毫无依据，但欧盟依然在今天（9月26日）召开了关于建立“无人机墙”的会议，旨在利用集合无人机侦察以及拦截的系统进行防御反制。 据悉，该“无人机墙”计划将由德国牵头，通过“全覆盖、无死角的无人监视系统”，构建一道从挪威延伸到波兰且连绵密集的无人机网络系统。",
-            "date_modified": "2025-09-26T15:26:34.000Z"
         }
     ]
 }
