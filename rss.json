@@ -6,6 +6,267 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 4411051,
+            "content_html": "",
+            "title": "因OpenAI与Etsy以及Shopify合作在ChatGPT上推出即时结账功能，Etsy和Shopify股价上涨约5%。",
+            "date_modified": "2025-09-29T17:19:50.000Z"
+        },
+        {
+            "id": 4411048,
+            "content_html": "",
+            "title": "加拿大养老金计划投资委员会（CPPIB）CEO格雷厄姆：全球投资不存在安全避风港。",
+            "date_modified": "2025-09-29T17:18:56.000Z"
+        },
+        {
+            "id": 4411047,
+            "content_html": "",
+            "title": "周一（9月29日），美联储隔夜逆回购协议（RRP）使用规模为562.20亿美元，上个交易日报480.73亿美元。",
+            "date_modified": "2025-09-29T17:16:20.000Z"
+        },
+        {
+            "id": 4411046,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-30/detail-infseumz8129794.d.html",
+            "title": "英国民航局：运营从斯坦斯特德机场出发航班的普拉亚航空公司已停止运营。",
+            "date_modified": "2025-09-29T17:16:15.000Z"
+        },
+        {
+            "id": 4411045,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-30/detail-infseunc3004059.d.html",
+            "title": "意大利总理办公室表示，意大利正与倍耐力及其股东合作，以保持该公司在市场的竞争力。",
+            "date_modified": "2025-09-29T17:16:09.000Z"
+        },
+        {
+            "id": 4411042,
+            "content_html": "",
+            "title": "苹果发布iOS 26.0.1系统，修复iPhone 17机型的Wi-Fi、蜂窝网络和相机问题。",
+            "date_modified": "2025-09-29T17:14:03.000Z"
+        },
+        {
+            "id": 4411039,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-30/detail-infseunc3003758.d.html",
+            "title": "中部非洲国家银行将基准利率维持在4.5%。",
+            "date_modified": "2025-09-29T17:10:45.000Z"
+        },
+        {
+            "id": 4411038,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-30/detail-infseunf1492439.d.html",
+            "title": "摩根大通将国电南瑞评级上调至超配。",
+            "date_modified": "2025-09-29T17:08:38.000Z"
+        },
+        {
+            "id": 4411037,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-30/detail-infseunf1492368.d.html",
+            "title": "Etsy和Shopify股价上涨。",
+            "date_modified": "2025-09-29T17:07:34.000Z"
+        },
+        {
+            "id": 4411036,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-30/detail-infseumz8128450.d.html",
+            "title": "美国监管机构负责人呼吁与英国实现加密货币“护照制度”，同时她透露了卸任计划。",
+            "date_modified": "2025-09-29T17:06:50.000Z"
+        },
+        {
+            "id": 4411035,
+            "content_html": "",
+            "title": "穆迪：埃尔特尼恩特矿（El Teniente）的生产中断可能会推迟智利国家铜业公司（Codelco）恢复到2020-2021年每年160万吨铜产量水平的努力。",
+            "date_modified": "2025-09-29T17:06:11.000Z"
+        },
+        {
+            "id": 4411034,
+            "content_html": "",
+            "title": "穆迪：智利国家铜业公司（Codelco）埃尔特尼恩特矿（El Teniente）的运营中断对该公司信用状况产生负面影响。",
+            "date_modified": "2025-09-29T17:05:58.000Z"
+        },
+        {
+            "id": 4411033,
+            "content_html": "",
+            "title": "OpenAI：通过与Etsy和Shopify合作，在ChatGPT中推出即时结账功能。",
+            "date_modified": "2025-09-29T17:04:07.000Z"
+        },
+        {
+            "id": 4411032,
+            "content_html": "",
+            "title": "亚马逊：预计在配送服务合作伙伴（DSP）计划中投入19亿美元，这将有助于配送服务合作伙伴将司机时薪提高至全国平均近23美元。",
+            "date_modified": "2025-09-29T17:04:00.000Z"
+        },
+        {
+            "id": 4411031,
+            "content_html": "",
+            "title": "OpenAI：ChatGPT已经帮助数百万人找到想要购买的商品。现在，它也能帮助他们完成购买。我们与Etsy和Shopify合作，在ChatGPT中引入了即时结账功能，并开源了由Stripe构建的、支持该功能的Agentic Commerce协议，以便更多商家和开发者能够集成Agentic结账功能。",
+            "date_modified": "2025-09-29T17:03:49.000Z"
+        },
+        {
+            "id": 4411030,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-30/detail-infseunc3002883.d.html",
+            "title": "亚马逊：向配送服务合作伙伴计划投资19亿美元。",
+            "date_modified": "2025-09-29T17:02:54.000Z"
+        },
+        {
+            "id": 4411029,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-30/detail-infseunc3002824.d.html",
+            "title": "【哈马斯：尚未收到新停火计划 会认真考虑释放以方被扣押人员】当地时间9月29日，巴勒斯坦伊斯兰抵抗运动（哈马斯）高级官员塔希尔·努努在接受阿拉伯媒体采访时表示，到目前为止，哈马斯方面还没有收到美方提出的加沙停火计划的副本。他强调，抵抗力量的武器与建立巴勒斯坦国有关，而释放以色列被扣押人员则与战争结束和以色列撤出加沙地带有关。哈马斯会认真考虑释放以方被扣押人员，这是结束加沙战争并确保以色列撤军的协议的一部分。",
+            "date_modified": "2025-09-29T17:02:37.000Z"
+        },
+        {
+            "id": 4411027,
+            "content_html": "",
+            "title": "国际铜夜盘收涨2.07%，沪铜收涨1.96%，沪铝收涨0.31%，沪锌收涨1.22%，沪铅收跌0.09%，沪镍收涨0.78%，沪锡收涨2.62%。氧化铝夜盘收跌0.52%，铝合金收涨0.22%。不锈钢夜盘收涨0.20%。",
+            "date_modified": "2025-09-29T17:00:44.000Z"
+        },
+        {
+            "id": 4411023,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-30/detail-infseumz8126316.d.html",
+            "title": "日本在领导人峰会上向斯里兰卡提供更多经济和安全援助。",
+            "date_modified": "2025-09-29T16:59:51.000Z"
+        },
+        {
+            "id": 4411022,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-30/detail-infseunf1490338.d.html",
+            "title": "印度正在考虑从俄罗斯采购最新型S-500导弹。",
+            "date_modified": "2025-09-29T16:58:52.000Z"
+        },
+        {
+            "id": 4411021,
+            "content_html": "",
+            "title": "美股铜概念股震荡走强，Hudbay Minerals涨近8%，麦克莫兰铜金、泰克资源有限公司涨超5%，南方铜业涨近4%。高盛指出，电网升级与AI需求将推动铜价持续上涨。",
+            "date_modified": "2025-09-29T16:57:25.000Z"
+        },
+        {
+            "id": 4411020,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-30/detail-infseumz8125032.d.html",
+            "title": "查理·柯克刺杀案将于十月举行听证会，辩方称泰勒·罗宾逊将亲自出庭。",
+            "date_modified": "2025-09-29T16:56:31.000Z"
+        },
+        {
+            "id": 4411018,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-30/detail-infseunf1489160.d.html",
+            "title": "俄罗斯宣布重点农业区进入紧急状态。",
+            "date_modified": "2025-09-29T16:53:40.000Z"
+        },
+        {
+            "id": 4411016,
+            "content_html": "",
+            "title": "美国参议院少数党领袖舒默：共和党感受到了压力，并同意进行谈判。我们准备好行动了，是时候了。",
+            "date_modified": "2025-09-29T16:52:52.000Z"
+        },
+        {
+            "id": 4411015,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-30/detail-infseumz8123813.d.html",
+            "title": "【LME金属期货收盘涨跌不一】LME期铜收涨232美元，报10414美元/吨。LME期铝收涨24美元，报2679美元/吨。LME期锌收涨52美元，报2940美元/吨。LME期铅收跌8美元，报1995美元/吨。LME期镍收涨143美元，报15318美元/吨。LME期锡收涨987美元，报35490美元/吨。LME期钴收平，报35000美元/吨。",
+            "date_modified": "2025-09-29T16:52:05.000Z"
+        },
+        {
+            "id": 4411011,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-30/detail-infseunf1488571.d.html",
+            "title": "【离婚被分走1675万股股份后，美妆大佬再遭前妻起诉：孩子也要1675万股】9月29日，丽人丽妆发布公告，控股股东、实际控制人黄韬因涉及离婚后的财产纠纷，收到上海市徐汇区人民法院的举证通知书及应诉通知书，成为被告。案件中请求将登记在黄韬名下的1674.75万股公司股份过户至其子女黄逸琪名下。当前案件尚未开庭，尚无法判断诉讼结果，因此控股股东、实际控制人权益是否发生变动存在不确定性。",
+            "date_modified": "2025-09-29T16:50:19.000Z"
+        },
+        {
+            "id": 4411009,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-30/detail-infseunc2999553.d.html",
+            "title": "无人机威胁不断升级，丹麦紧急召集预备役士兵。",
+            "date_modified": "2025-09-29T16:48:54.000Z"
+        },
+        {
+            "id": 4411007,
+            "content_html": "",
+            "title": "白俄罗斯总统卢卡申科猛烈抨击北约近期威胁击落俄罗斯飞机，警告称此类行动将引发俄方立即回应，并质疑北约是否会冒险袭击波兰边境附近的总统直升机或军事护卫队。他称北约的言论“大胆”且危险，并指责北约加剧了局势升级。",
+            "date_modified": "2025-09-29T16:48:17.000Z"
+        },
+        {
+            "id": 4411005,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-30/detail-infseunf1487789.d.html",
+            "title": "麦格理将CoreWeave的目标股价从每股115美元上调至140美元。",
+            "date_modified": "2025-09-29T16:45:58.000Z"
+        },
+        {
+            "id": 4411004,
+            "content_html": "",
+            "title": "船运运营商称，悬挂荷兰国旗的货船“米内尔瓦格拉赫特号”（Minervagracht）在亚丁湾遭爆炸装置袭击后严重受损。",
+            "date_modified": "2025-09-29T16:40:22.000Z"
+        },
+        {
+            "id": 4411003,
+            "content_html": "",
+            "title": "船运运营商称，荷兰货船“米内尔瓦格拉赫特”号（Minervagracht）船上起火，两名船员在被爆炸装置击中后受伤。 荷兰货船运营方称，该货船船员正在被疏散至附近船只。",
+            "date_modified": "2025-09-29T16:40:04.000Z"
+        },
+        {
+            "id": 4411001,
+            "content_html": "",
+            "title": "标普：因申请第11章破产保护，第一品牌集团有限责任公司评级从“CC”下调至“D”。",
+            "date_modified": "2025-09-29T16:38:46.000Z"
+        },
+        {
+            "id": 4410999,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-30/detail-infseunf1485694.d.html",
+            "title": "惠誉：确认迪士尼信用评级为 “A-”。",
+            "date_modified": "2025-09-29T16:33:35.000Z"
+        },
+        {
+            "id": 4410998,
+            "content_html": "",
+            "title": "两名美国民主党参议员敦促汽车安全监管机构解决有关特斯拉全自动驾驶系统被报道存在无法检测铁路道口并做出响应故障的问题。",
+            "date_modified": "2025-09-29T16:31:53.000Z"
+        },
+        {
+            "id": 4410997,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-30/detail-infseunc2996558.d.html",
+            "title": "哥伦比亚内政部长：哥伦比亚全体内阁成员应放弃美国签证。",
+            "date_modified": "2025-09-29T16:31:20.000Z"
+        },
+        {
+            "id": 4410995,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-30/detail-infseunf1485161.d.html",
+            "title": "以色列总理内塔尼亚胡在白宫与卡塔尔首相通话中就多哈袭击事件道歉。",
+            "date_modified": "2025-09-29T16:30:21.000Z"
+        },
+        {
+            "id": 4410994,
+            "content_html": "",
+            "title": "贝莱德的iShares Bitcoin Trust已取代Coinbase的Deribit平台，成为最大的比特币期权交易平台。",
+            "date_modified": "2025-09-29T16:28:11.000Z"
+        },
+        {
+            "id": 4410993,
+            "content_html": "",
+            "title": "土耳其总统埃尔多安：除了少数几个国家，几乎没有人愿意与以色列和内塔尼亚胡政府并肩站在一起，或者与他们合影。",
+            "date_modified": "2025-09-29T16:27:17.000Z"
+        },
+        {
+            "id": 4410992,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-30/detail-infseunc2995622.d.html",
+            "title": "捷豹路虎在英国政府贷款担保基础上再获20亿英镑额外融资。",
+            "date_modified": "2025-09-29T16:25:31.000Z"
+        },
+        {
+            "id": 4410988,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-30/detail-infseunf1484129.d.html",
+            "title": "美国国土安全部估计，自特朗普上任以来，已有160万非法移民自行离境。",
+            "date_modified": "2025-09-29T16:24:04.000Z"
+        },
+        {
             "id": 4410987,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-09-30/detail-infseunc2995171.d.html",
@@ -72,269 +333,6 @@
             "url": "https://finance.sina.cn/7x24/2025-09-30/detail-infseunf1481069.d.html",
             "title": "以色列人质家属在特拉维夫美国领事馆前集会。",
             "date_modified": "2025-09-29T16:07:10.000Z"
-        },
-        {
-            "id": 4410977,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-30/detail-infseunf1480936.d.html",
-            "title": "卡塔尔高级代表团已从多哈抵达华盛顿，敲定释放人质的协议。",
-            "date_modified": "2025-09-29T16:06:33.000Z"
-        },
-        {
-            "id": 4410976,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-30/detail-infseumz8111670.d.html",
-            "title": "刺杀美国保守派活动人士查理·柯克的嫌疑人泰勒·罗宾逊出庭接受初步听证。",
-            "date_modified": "2025-09-29T16:05:08.000Z"
-        },
-        {
-            "id": 4410975,
-            "content_html": "",
-            "title": "塔塔钢铁公司：塔塔钢铁董事会将在达成最终有约束力的定制协议的过程中考虑做出最终投资决策。",
-            "date_modified": "2025-09-29T16:04:15.000Z"
-        },
-        {
-            "id": 4410974,
-            "content_html": "",
-            "title": "塔塔钢铁：就综合脱碳及健康措施项目与荷兰北荷兰省签署无约束力意向书，各方将在未来几个月继续努力达成最终的定制化协议。",
-            "date_modified": "2025-09-29T16:04:05.000Z"
-        },
-        {
-            "id": 4410973,
-            "content_html": "",
-            "title": "Apollo分析师Torsten Slok：美联储的美国经济模型发现，10%的贬值导致通胀率上升0.3%。",
-            "date_modified": "2025-09-29T16:01:42.000Z"
-        },
-        {
-            "id": 4410972,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-30/detail-infseumz8108921.d.html",
-            "title": "民调显示：法国极右翼政党将在总统选举首轮投票中胜出。",
-            "date_modified": "2025-09-29T16:00:46.000Z"
-        },
-        {
-            "id": 4410971,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-29/detail-infseunc2990026.d.html",
-            "title": "现货黄金涨幅扩大，最新上涨近2%，达到每盎司3833.01美元的创纪录高位。",
-            "date_modified": "2025-09-29T15:55:13.000Z"
-        },
-        {
-            "id": 4410970,
-            "content_html": "",
-            "title": "在澳大利亚总理安东尼·阿尔巴尼斯10月20日访问白宫之前，对该（奥库斯）协议的审查将结束。",
-            "date_modified": "2025-09-29T15:54:27.000Z"
-        },
-        {
-            "id": 4410969,
-            "content_html": "",
-            "title": "特朗普政府将维持原计划时间表，其中包括从2032年起向堪培拉出售3艘弗吉尼亚级核潜艇。",
-            "date_modified": "2025-09-29T15:53:01.000Z"
-        },
-        {
-            "id": 4410968,
-            "content_html": "",
-            "title": "市场资讯：特朗普政府将推进把美国、英国和澳大利亚联系在一起的“奥库斯”（AUKUS）国防协议。",
-            "date_modified": "2025-09-29T15:52:47.000Z"
-        },
-        {
-            "id": 4410967,
-            "content_html": "",
-            "title": "美国黄金储备首次突破1万亿美元，美国目前持有的黄金约是世界第二大黄金储备国德国的2.4倍。",
-            "date_modified": "2025-09-29T15:52:16.000Z"
-        },
-        {
-            "id": 4410966,
-            "content_html": "",
-            "title": "市场资讯：澳英美联盟（AUKUS）通过美国国防部评估，美国对澳潜艇销售将继续推进。",
-            "date_modified": "2025-09-29T15:52:01.000Z"
-        },
-        {
-            "id": 4410965,
-            "content_html": "",
-            "title": "克里姆林宫发言人佩斯科夫谴责欧洲近期关于可能击落俄罗斯战机的讨论，称这些言论“鲁莽且不负责任”。",
-            "date_modified": "2025-09-29T15:51:23.000Z"
-        },
-        {
-            "id": 4410964,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-29/detail-infseunc2989584.d.html",
-            "title": "以色列：新预算法在议会获得批准。",
-            "date_modified": "2025-09-29T15:51:00.000Z"
-        },
-        {
-            "id": 4410963,
-            "content_html": "",
-            "title": "道达尔能源首席执行官：若欧盟禁止进口俄罗斯液化天然气，我们可将其运往土耳其或印度。",
-            "date_modified": "2025-09-29T15:50:01.000Z"
-        },
-        {
-            "id": 4410962,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-29/detail-infseunc2989468.d.html",
-            "title": "特朗普不断威胁称，如果佐赫兰·马姆达尼当选纽约市长，他将切断对纽约市的联邦资助。",
-            "date_modified": "2025-09-29T15:49:38.000Z"
-        },
-        {
-            "id": 4410961,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-29/detail-infseunc2989448.d.html",
-            "title": "道达尔能源首席执行官：我们假设到2030年俄罗斯亚马尔液化天然气的供应将中断。",
-            "date_modified": "2025-09-29T15:49:27.000Z"
-        },
-        {
-            "id": 4410960,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-29/detail-infseumz8106524.d.html",
-            "title": "【也门官员称胡塞武装袭击亚丁湾一艘货船】也门政府一名海军官员29日对新华社记者说，也门胡塞武装当天发射导弹袭击了也门南部亚丁湾海域一艘悬挂荷兰国旗的货船，造成两名船员受伤。",
-            "date_modified": "2025-09-29T15:48:12.000Z"
-        },
-        {
-            "id": 4410959,
-            "content_html": "",
-            "title": "边疆航空（Frontier）和Allegiant航空公司首席执行官将于周二在美国参议院航空业竞争听证会上作证。",
-            "date_modified": "2025-09-29T15:47:32.000Z"
-        },
-        {
-            "id": 4410958,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-29/detail-infseunf1477940.d.html",
-            "title": "道达尔能源首席执行官：我们还有另一个潜在买家，我们正在努力寻找。",
-            "date_modified": "2025-09-29T15:45:39.000Z"
-        },
-        {
-            "id": 4410957,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-29/detail-infseunf1477911.d.html",
-            "title": "道达尔能源首席执行官：我想要现金，所以要么他们把钱给我，要么我宁愿保留资产。",
-            "date_modified": "2025-09-29T15:45:21.000Z"
-        },
-        {
-            "id": 4410956,
-            "content_html": "",
-            "title": "道达尔能源首席执行官：关于出售尼日利亚壳牌石油开发公司（SPDC）资产一事，此前的买家难以向我们支付款项。",
-            "date_modified": "2025-09-29T15:45:00.000Z"
-        },
-        {
-            "id": 4410955,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-29/detail-infseunc2989107.d.html",
-            "title": "【Pimco首席执行官：关税不确定性导致美国股市面临风险】品浩(Pimco)首席执行官Emmanuel Roman表示，美国总统特朗普关税政策的全面影响尚未显现，其走向可能会拖累美国股市前景。他周一称，尽管经济中仍有亮点，比如数据中心的繁荣，“但如果你看看超大规模云厂商之外的情况，美国企业界的日子并不好过。”“营收没有增长，我们还不知道的一个问题是关税的影响，以及美国企业将如何应对价格转嫁或利润率下降等问题，”他说。“很多影响我们还没有真正看到。”",
-            "date_modified": "2025-09-29T15:44:52.000Z"
-        },
-        {
-            "id": 4410954,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-29/detail-infseunc2989004.d.html",
-            "title": "联合国人权事务负责人对马达加斯加对抗议活动的“暴力回应”表示“震惊”。",
-            "date_modified": "2025-09-29T15:43:43.000Z"
-        },
-        {
-            "id": 4410953,
-            "content_html": "",
-            "title": "罗马尼亚财政部数据显示，前8个月综合预算赤字占国内生产总值（GDP）的4.54%，而截至7月底时这一赤字比例为4.04%。",
-            "date_modified": "2025-09-29T15:43:02.000Z"
-        },
-        {
-            "id": 4410952,
-            "content_html": "",
-            "title": "英国财政大臣里夫斯在利物浦工党大会上的讲话被一名挥舞巴勒斯坦国旗的抗议者短暂打断。里夫斯很快恢复了发言，承认了抗议者的诉求，并强调英国已采取措施承认巴勒斯坦国。",
-            "date_modified": "2025-09-29T15:42:58.000Z"
-        },
-        {
-            "id": 4410951,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-29/detail-infseumz8105443.d.html",
-            "title": "埃法日（EIFFAGE）：每个变电站将具备750兆瓦的容量。",
-            "date_modified": "2025-09-29T15:42:27.000Z"
-        },
-        {
-            "id": 4410950,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-29/detail-infseumz8105331.d.html",
-            "title": "俄罗斯国防部：俄罗斯军队控制顿涅茨克地区的基洛夫斯克。",
-            "date_modified": "2025-09-29T15:41:48.000Z"
-        },
-        {
-            "id": 4410949,
-            "content_html": "",
-            "title": "埃法日（EIFFAGE）公司获得为法国布列塔尼南部、纳博讷南部 - 埃罗省以及福斯湾海上风电场建设三座变电站的合同，合同价值超15亿欧元。",
-            "date_modified": "2025-09-29T15:41:42.000Z"
-        },
-        {
-            "id": 4410948,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-29/detail-infseumz8104777.d.html",
-            "title": "《财富》杂志：千禧一代和Z世代推迟结婚生子，许多人放弃人寿保险。",
-            "date_modified": "2025-09-29T15:40:06.000Z"
-        },
-        {
-            "id": 4410947,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-29/detail-infseumz8104469.d.html",
-            "title": "【波兰2026年国防预算将增至GDP4.8% 重点强化领空安全】当地时间9月29日，波兰国防部长科西尼亚克-卡梅什在华沙安全论坛上宣布，2026年波兰国防预算将增至2000亿兹罗提（ 约合549亿美元），占GDP比重达4.8%。他强调，此举旨在应对波兰及北约盟国领空的安全威胁。预算提升将重点强化防空反无人机体系，包括推进欧盟共同资助的“无人机墙”建设项目。2025年波兰国防预算约占GDP的4.7%。",
-            "date_modified": "2025-09-29T15:38:59.000Z"
-        },
-        {
-            "id": 4410946,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-29/detail-infseunc2988437.d.html",
-            "title": "【美媒称美准备打击委内瑞拉境内目标】据美国全国广播公司近日报道称，美国可能会在“未来几周内”对委内瑞拉境内所谓“贩毒集团”实施打击。 委美关系近期持续紧张。美国以所谓“打击拉美贩毒集团”为由，已在委内瑞拉附近加勒比海域部署多艘军舰，迄今宣称摧毁多艘“运毒船”并打死多名“毒贩”。 （CCTV国际时讯）",
-            "date_modified": "2025-09-29T15:38:30.000Z"
-        },
-        {
-            "id": 4410945,
-            "content_html": "",
-            "title": "瑞士已提议投资美国黄金精炼行业，此举是其劝说特朗普政府降低上月开征的39%进口关税的努力之一。",
-            "date_modified": "2025-09-29T15:37:05.000Z"
-        },
-        {
-            "id": 4410944,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-29/detail-infseunf1476685.d.html",
-            "title": "路威酩轩集团旗下芬迪：西尔维娅·文图里尼卸任芬迪创意总监，将留任名誉主席。",
-            "date_modified": "2025-09-29T15:36:02.000Z"
-        },
-        {
-            "id": 4410943,
-            "content_html": "",
-            "title": "国际原子能机构总干事格罗西：扎波罗热核电站已停电六天；国际原子能机构正在努力协助恢复电力。",
-            "date_modified": "2025-09-29T15:35:33.000Z"
-        },
-        {
-            "id": 4410942,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-29/detail-infseumz8102846.d.html",
-            "title": "【投资逻辑重塑 华尔街逐渐接受股票高估值新常态】近期股票估值已飙升至极高水平，引发市场怀疑论者的强烈不满，他们警告称当前并非买入良机。然而，因股票看似“昂贵”而回避投资的策略历来经不起时间考验，这削弱了依赖传统估值指标作为择时工具的实用性。如今，越来越多的华尔街分析师建议投资者或许该抛开对市盈率的固有认知，尤其当该指标的平均倍数在数十年间持续攀升之际。以资深华尔街策略师Jim Paulsen的近期分析为例：本世纪以来平均估值区间已大幅跃升，表明参照历史数据进行比较的做法存在缺陷。其分析指出，标普500指数过去30年的平均市盈率在1990年代初约为14倍，如今已升至19.5倍左右。在此上升趋势之前，该比率自1900年至1990年代中期始终维持在13.5至15.5倍的窄幅区间内。",
-            "date_modified": "2025-09-29T15:33:43.000Z"
-        },
-        {
-            "id": 4410941,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-29/detail-infseunc2986958.d.html",
-            "title": "美国以3.715%的高利率出售6个月期国库券，以该高利率中标比例为61.66%。",
-            "date_modified": "2025-09-29T15:32:35.000Z"
-        },
-        {
-            "id": 4410940,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-29/detail-infseumz8102291.d.html",
-            "title": "【欧洲主要股指收盘普涨】欧洲斯托克指数上涨0.37%；欧元区蓝筹股指数上涨0.32%。英国富时100指数上涨0.31%；德国DAX指数上涨0.16%。法国CAC 40指数上涨0.34%；西班牙IBEX指数持平。",
-            "date_modified": "2025-09-29T15:32:17.000Z"
-        },
-        {
-            "id": 4410939,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-29/detail-infseumz8101899.d.html",
-            "title": "【两名中国公民在埃及吉萨省交通事故中身亡】据中国驻埃及大使馆29日消息，埃及吉萨省当天发生一起交通事故，造成两名中国公民身亡，另有3名中国公民受伤。",
-            "date_modified": "2025-09-29T15:30:41.000Z"
-        },
-        {
-            "id": 4410938,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-29/detail-infseunf1474642.d.html",
-            "title": "市场资讯：阿斯利康在美国上市一事应引起伦敦方面的担忧。",
-            "date_modified": "2025-09-29T15:24:54.000Z"
         }
     ]
 }
