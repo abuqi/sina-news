@@ -6,6 +6,335 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 4421531,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazqe2521484.d.html",
+            "title": "卡塔尔首相将于周三在埃及参加有关特朗普中东和平计划的会谈。",
+            "date_modified": "2025-10-07T17:20:03.000Z"
+        },
+        {
+            "id": 4421530,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazqa4032712.d.html",
+            "title": "【伊朗革命卫队航空航天部队：受损设施已修复 战备能力全面恢复】当地时间7日，伊朗伊斯兰革命卫队航空航天部队司令赛义德·马吉德·穆萨维在介绍该部队在今年6月伊以冲突中的表现及战后采取的主要措施时表示，经过对受损设施的全面修复，目前部队已具备充分能力，能够迅速而有力地应对任何来自敌方的威胁与挑衅。",
+            "date_modified": "2025-10-07T17:19:49.000Z"
+        },
+        {
+            "id": 4421529,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazpz1026484.d.html",
+            "title": "德国警方：北威州一新当选市长遭袭事件“没有政治动机”。",
+            "date_modified": "2025-10-07T17:18:43.000Z"
+        },
+        {
+            "id": 4421528,
+            "content_html": "",
+            "title": "周二（10月7日），美联储隔夜逆回购协议（RRP）使用规模为46.22亿美元，上个交易日报217.76亿美元。",
+            "date_modified": "2025-10-07T17:16:19.000Z"
+        },
+        {
+            "id": 4421527,
+            "content_html": "",
+            "title": "美国高级官员对中东地区本周达成协议的可能性表示乐观，并强调特朗普的特使贾里德·库什纳和史蒂夫·维特科夫不会在未达成释放人质和结束战争的协议的情况下离开埃及。",
+            "date_modified": "2025-10-07T17:13:32.000Z"
+        },
+        {
+            "id": 4421525,
+            "content_html": "",
+            "title": "欧洲央行行长拉加德：所有欧盟机构都在关注法国，希望能找到一条途径，使其尊重包括预算方面在内的国际承诺。",
+            "date_modified": "2025-10-07T17:08:30.000Z"
+        },
+        {
+            "id": 4421524,
+            "content_html": "",
+            "title": "摩根大通CEO戴蒙：美国政府关门“是个坏主意”，但表示从长远来看，这不太可能拖累股市。",
+            "date_modified": "2025-10-07T17:07:37.000Z"
+        },
+        {
+            "id": 4421523,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazqa4032174.d.html",
+            "title": "摩根大通CEO戴蒙：政府关门不会损害市场。",
+            "date_modified": "2025-10-07T17:06:38.000Z"
+        },
+        {
+            "id": 4421522,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazqa4032052.d.html",
+            "title": "国际货币基金组织报告：经济不确定性将考验外汇市场的韧性。",
+            "date_modified": "2025-10-07T17:05:42.000Z"
+        },
+        {
+            "id": 4421521,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazqe2520668.d.html",
+            "title": "美国三年期国债收益率在拍卖后延续跌势，最新下跌3.7个基点，至3.578%。",
+            "date_modified": "2025-10-07T17:04:08.000Z"
+        },
+        {
+            "id": 4421520,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazqa4031651.d.html",
+            "title": "美国3年期国债收益率为3.576%。",
+            "date_modified": "2025-10-07T17:02:42.000Z"
+        },
+        {
+            "id": 4421519,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazqa4031343.d.html",
+            "title": "英国首相斯塔默：正在与欧盟就钢铁关税进行讨论。",
+            "date_modified": "2025-10-07T17:01:03.000Z"
+        },
+        {
+            "id": 4421518,
+            "content_html": "",
+            "title": "伦敦与象限住房信托基金：英国金融行为监管局（FCA）批准了与25亿英镑欧洲中期票据计划相关的基础发售通函。",
+            "date_modified": "2025-10-07T16:59:52.000Z"
+        },
+        {
+            "id": 4421517,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazqe2519892.d.html",
+            "title": "【美加领导人在白宫举行会谈 讨论关税等议题】当地时间10月7日，美国总统特朗普在白宫与到访的加拿大总理卡尼举行会谈，双方就贸易和加沙等议题进行讨论。特朗普表示，正在就加沙问题进行认真谈判，他认为中东有可能实现和平。特朗普称，美国和加拿大将在美国“金穹”导弹防御计划上进行合作。特朗普称美国将对加拿大征收关税，他认为加拿大会非常乐意接受，美国将公平对待加拿大。",
+            "date_modified": "2025-10-07T16:59:39.000Z"
+        },
+        {
+            "id": 4421516,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazqe2519858.d.html",
+            "title": "知情人士：苏富比正与投资者就部分现有债务的再融资协议进行谈判。",
+            "date_modified": "2025-10-07T16:59:22.000Z"
+        },
+        {
+            "id": 4421515,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazqa4030919.d.html",
+            "title": "市场资讯：美国进口的重型卡车70%来自墨西哥。",
+            "date_modified": "2025-10-07T16:58:10.000Z"
+        },
+        {
+            "id": 4421514,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazqa4030857.d.html",
+            "title": "土耳其情报局长卡林将于明天在沙姆沙伊赫市参加加沙谈判。",
+            "date_modified": "2025-10-07T16:57:40.000Z"
+        },
+        {
+            "id": 4421513,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazqa4030490.d.html",
+            "title": "在美国政府停摆之际，参议院民主党领袖舒默质疑与阿根廷的200亿美元互换额度。",
+            "date_modified": "2025-10-07T16:54:53.000Z"
+        },
+        {
+            "id": 4421512,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazqa4030046.d.html",
+            "title": "【LME金属期货收盘多数收涨】LME期铜收涨106美元，报10761美元/吨。LME期铝收涨16美元，报2742美元/吨。LME期锌收涨39美元，报3046美元/吨。LME期铅收涨6美元，报2011美元/吨。LME期镍收涨7美元，报15489美元/吨。LME期锡收跌258美元，报36540美元/吨。LME期钴收涨2490美元，报38960美元/吨。",
+            "date_modified": "2025-10-07T16:52:15.000Z"
+        },
+        {
+            "id": 4421511,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazqe2517906.d.html",
+            "title": "【哈马斯称坚持所有不可剥夺民族权利】10月7日，哈马斯发言人法齐·巴尔胡姆在巴以新一轮大规模冲突两周年之际表示，当前首要任务是“立即停止以色列对加沙地带的侵略和灭绝战争”，哈马斯再次承诺“坚持所有不可剥夺的民族权利，捍卫巴勒斯坦人民对解放、改革和独立的渴望”。",
+            "date_modified": "2025-10-07T16:45:56.000Z"
+        },
+        {
+            "id": 4421510,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazqa4028742.d.html",
+            "title": "日元兑美元跌至151.41，为2月20日以来最低。",
+            "date_modified": "2025-10-07T16:43:26.000Z"
+        },
+        {
+            "id": 4421509,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazqe2517415.d.html",
+            "title": "英伟达CEO黄仁勋：英伟达将继续为H-1B签证申请人提供支持。",
+            "date_modified": "2025-10-07T16:42:54.000Z"
+        },
+        {
+            "id": 4421508,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazqe2517147.d.html",
+            "title": "消息人士称，目前尚不清楚美国官员对土耳其哈克银行附有条件的和解提议作何回应。",
+            "date_modified": "2025-10-07T16:41:29.000Z"
+        },
+        {
+            "id": 4421507,
+            "content_html": "",
+            "title": "两位消息人士称，土耳其官员上月在特朗普与埃尔多安的会面中提出了潜在规模达1亿美元的土耳其人民银行和解方案。",
+            "date_modified": "2025-10-07T16:41:05.000Z"
+        },
+        {
+            "id": 4421506,
+            "content_html": "",
+            "title": "盖洛普民意调查：只有28%的成年人相信媒体能够“全面、准确和公正地”报道新闻，这是该公司自1972年首次调查该问题以来的历史最低水平。",
+            "date_modified": "2025-10-07T16:40:22.000Z"
+        },
+        {
+            "id": 4421505,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazqe2516897.d.html",
+            "title": "特朗普：我接到民主党人的电话，他们想会面。",
+            "date_modified": "2025-10-07T16:39:49.000Z"
+        },
+        {
+            "id": 4421504,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazqa4028036.d.html",
+            "title": "特朗普：卡尼是一位伟大的总理，是一位非常强有力的领导人。",
+            "date_modified": "2025-10-07T16:39:09.000Z"
+        },
+        {
+            "id": 4421503,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazqa4027934.d.html",
+            "title": "黄仁勋：英伟达将继续赞助H-1B签证。",
+            "date_modified": "2025-10-07T16:38:46.000Z"
+        },
+        {
+            "id": 4421502,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazpz1017012.d.html",
+            "title": "特朗普：将在四五天后告知将被裁撤的岗位情况。",
+            "date_modified": "2025-10-07T16:38:26.000Z"
+        },
+        {
+            "id": 4421501,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazpz1016785.d.html",
+            "title": "特朗普谈贸易协议：我认为加拿大人会再次“爱上”我们。",
+            "date_modified": "2025-10-07T16:37:34.000Z"
+        },
+        {
+            "id": 4421500,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazqa4027696.d.html",
+            "title": "特朗普：由于政府停摆，我们将取消很多事项。",
+            "date_modified": "2025-10-07T16:37:11.000Z"
+        },
+        {
+            "id": 4421499,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazqe2516433.d.html",
+            "title": "特朗普：与加拿大的协议将包括乳制品等一切。",
+            "date_modified": "2025-10-07T16:37:02.000Z"
+        },
+        {
+            "id": 4421498,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazpz1016588.d.html",
+            "title": "特朗普：与加拿大达成的贸易协议将是全面的。",
+            "date_modified": "2025-10-07T16:36:50.000Z"
+        },
+        {
+            "id": 4421497,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazqe2516309.d.html",
+            "title": "特朗普：“你们会知道”加拿大给予了什么回报。",
+            "date_modified": "2025-10-07T16:36:19.000Z"
+        },
+        {
+            "id": 4421496,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazqe2516210.d.html",
+            "title": "【特朗普称停薪员工能否获得补发工资要看是谁】美国总统特朗普表示，并非所有联邦工作人员都能获得政府停摆期间未收到的工资。在白宫被问及所有联邦雇员是否都会拿到补发工资时，特朗普回应称，这取决于“你指的是谁”。",
+            "date_modified": "2025-10-07T16:35:42.000Z"
+        },
+        {
+            "id": 4421495,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazqe2516032.d.html",
+            "title": "特朗普：舒默没有能力达成协议。",
+            "date_modified": "2025-10-07T16:34:27.000Z"
+        },
+        {
+            "id": 4421494,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazpz1016020.d.html",
+            "title": "瑞银将富国银行的目标股价从每股95美元下调至93美元。",
+            "date_modified": "2025-10-07T16:33:27.000Z"
+        },
+        {
+            "id": 4421493,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazpz1015976.d.html",
+            "title": "特朗普：一旦加沙地带协议达成，我们将竭尽全力确保各方遵守协议。",
+            "date_modified": "2025-10-07T16:33:09.000Z"
+        },
+        {
+            "id": 4421492,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazpz1015925.d.html",
+            "title": "特朗普谈美墨加协议：可能会让协议对个别国家更好。",
+            "date_modified": "2025-10-07T16:32:57.000Z"
+        },
+        {
+            "id": 4421491,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazpz1015891.d.html",
+            "title": "瓦莱罗（Valero）位于得克萨斯州休斯顿的炼油厂今日上午报告发生意外停电事故。",
+            "date_modified": "2025-10-07T16:32:43.000Z"
+        },
+        {
+            "id": 4421490,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazpz1015739.d.html",
+            "title": "丰田召回约5.5万辆2025款丰田赛那车型。",
+            "date_modified": "2025-10-07T16:31:55.000Z"
+        },
+        {
+            "id": 4421489,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazqe2515614.d.html",
+            "title": "特朗普：我们可以重新谈判《美墨加协定》。",
+            "date_modified": "2025-10-07T16:31:38.000Z"
+        },
+        {
+            "id": 4421488,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazqa4026806.d.html",
+            "title": "市场资讯：美国能源投资旨在降低瑞士关税。",
+            "date_modified": "2025-10-07T16:31:20.000Z"
+        },
+        {
+            "id": 4421487,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazpz1015594.d.html",
+            "title": "特朗普：芬太尼危机尚未结束。",
+            "date_modified": "2025-10-07T16:30:57.000Z"
+        },
+        {
+            "id": 4421486,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazpz1015585.d.html",
+            "title": "【欧洲议会通过决议 允许暂停或永久中止部分国家免签待遇】当地时间7日，欧洲议会在斯特拉斯堡举行的全体会议上以518票赞成、96票反对、24票弃权的结果通过了一项决议。决议允许欧盟暂时或永久中止对有资格短期前往申根区的第三国公民的免签证制度。目前包括美国、以色列、澳大利亚等数十个国家和地区与申根国家签有免签协议。最新变化规定，如果出现某些特定威胁则可能暂停其签证。新规还允许对违规国家的政府官员单独限制免签待遇。最初暂停程序可能是暂时的，但如果违规行为得不到纠正，则有可能转为永久中止。欧盟还考虑，如果格鲁吉亚在10月26日议会选举期间未能完全遵守标准，将暂时中止与格鲁吉亚的免签证制度。",
+            "date_modified": "2025-10-07T16:30:52.000Z"
+        },
+        {
+            "id": 4421485,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazpz1015485.d.html",
+            "title": "卡塔尔国民银行集团获埃及央行批准成立数字银行 “EZBANK”。",
+            "date_modified": "2025-10-07T16:30:32.000Z"
+        },
+        {
+            "id": 4421484,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftazqa4026597.d.html",
+            "title": "特朗普：中东已非常接近达成协议。",
+            "date_modified": "2025-10-07T16:29:54.000Z"
+        },
+        {
+            "id": 4421483,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhc1146088.d.html",
+            "title": "特朗普：政府关门就像民主党发动的“神风特攻”，他们没什么可失去的。",
+            "date_modified": "2025-10-07T16:29:09.000Z"
+        },
+        {
             "id": 4421482,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhh2645917.d.html",
@@ -18,335 +347,6 @@
             "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhh2645828.d.html",
             "title": "特朗普拒绝透露他是否会援引《叛乱法》。",
             "date_modified": "2025-10-07T16:26:59.000Z"
-        },
-        {
-            "id": 4421480,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhe4157052.d.html",
-            "title": "特朗普：我们将公平对待加拿大。",
-            "date_modified": "2025-10-07T16:26:53.000Z"
-        },
-        {
-            "id": 4421479,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhh2645649.d.html",
-            "title": "特朗普：我们是受关税拖累最严重的一方。",
-            "date_modified": "2025-10-07T16:25:34.000Z"
-        },
-        {
-            "id": 4421478,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhe4156805.d.html",
-            "title": "宝马汽车决定下调第四季度中国市场销量预期。",
-            "date_modified": "2025-10-07T16:24:53.000Z"
-        },
-        {
-            "id": 4421477,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhc1145470.d.html",
-            "title": "特朗普：将对加拿大加征关税。",
-            "date_modified": "2025-10-07T16:24:38.000Z"
-        },
-        {
-            "id": 4421476,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhh2645527.d.html",
-            "title": "半导体行业迅速扩大，跌幅下跌4.4%。",
-            "date_modified": "2025-10-07T16:24:29.000Z"
-        },
-        {
-            "id": 4421475,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhh2645493.d.html",
-            "title": "宝马汽车：在华销量增长目标仍低于预期。",
-            "date_modified": "2025-10-07T16:24:10.000Z"
-        },
-        {
-            "id": 4421474,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhe4156699.d.html",
-            "title": "特朗普：我认为加拿大在关税问题上会非常满意。",
-            "date_modified": "2025-10-07T16:24:01.000Z"
-        },
-        {
-            "id": 4421473,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhe4156641.d.html",
-            "title": "特朗普：美加正就“黄金穹顶”事宜密切合作。",
-            "date_modified": "2025-10-07T16:23:30.000Z"
-        },
-        {
-            "id": 4421472,
-            "content_html": "",
-            "title": "宝马：考虑到上述这些报销款项以及对利润的影响，预计2025年汽车业务板块的自由现金流将超过25亿欧元。",
-            "date_modified": "2025-10-07T16:22:59.000Z"
-        },
-        {
-            "id": 4421471,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhe4156541.d.html",
-            "title": "宝马：股息支付率保持在归属于宝马集团股东的净利润的30%至40%区间内。",
-            "date_modified": "2025-10-07T16:22:50.000Z"
-        },
-        {
-            "id": 4421470,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhe4156512.d.html",
-            "title": "加拿大总理卡尼：在我们（加拿大与美国）存在竞争的领域，我们必须达成可行的协议。",
-            "date_modified": "2025-10-07T16:22:39.000Z"
-        },
-        {
-            "id": 4421469,
-            "content_html": "",
-            "title": "宝马：与此前的假设相反，集团目前预计，美国和德国当局总计达数亿欧元的关税退款不会在2025年收到，而是要到2026年才会支付。",
-            "date_modified": "2025-10-07T16:22:22.000Z"
-        },
-        {
-            "id": 4421468,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhh2645086.d.html",
-            "title": "宝马：调整2025指引。",
-            "date_modified": "2025-10-07T16:21:17.000Z"
-        },
-        {
-            "id": 4421467,
-            "content_html": "",
-            "title": "欧洲央行行长拉加德：呼吁（欧盟）各国政府努力将欧元打造成真正的全球货币，以促进该地区经济繁荣。",
-            "date_modified": "2025-10-07T16:21:10.000Z"
-        },
-        {
-            "id": 4421466,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhh2644752.d.html",
-            "title": "特朗普：现在这个国家的一切都以功绩为依据。",
-            "date_modified": "2025-10-07T16:18:53.000Z"
-        },
-        {
-            "id": 4421465,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhc1144369.d.html",
-            "title": "特朗普：我们从华盛顿特区驱逐了1700人。",
-            "date_modified": "2025-10-07T16:18:38.000Z"
-        },
-        {
-            "id": 4421464,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhe4155765.d.html",
-            "title": "特朗普：华盛顿哥伦比亚特区不存在犯罪问题。",
-            "date_modified": "2025-10-07T16:17:19.000Z"
-        },
-        {
-            "id": 4421463,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhh2644441.d.html",
-            "title": "通用汽车：迪士尼+将登陆部分雪佛兰、凯迪拉克和GMC品牌的SUV车型。",
-            "date_modified": "2025-10-07T16:16:45.000Z"
-        },
-        {
-            "id": 4421462,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhe4155600.d.html",
-            "title": "特朗普：如果州长做不好这份工作，我们会出手搞定。",
-            "date_modified": "2025-10-07T16:16:12.000Z"
-        },
-        {
-            "id": 4421461,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhh2644363.d.html",
-            "title": "特朗普：《叛乱法》此前已被援引过。",
-            "date_modified": "2025-10-07T16:16:09.000Z"
-        },
-        {
-            "id": 4421460,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhh2644296.d.html",
-            "title": "特朗普：（美国）庞大的市场是相当大的优势。",
-            "date_modified": "2025-10-07T16:15:39.000Z"
-        },
-        {
-            "id": 4421459,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhe4155509.d.html",
-            "title": "【卡塔尔说谈论加沙停火谈判结果尚早】哈马斯与以色列代表团10月7日继续以间接方式在埃及举行停火谈判。卡塔尔外交部发言人马吉德·安萨里表示，由于目前谈判仍在进行，现在谈论结果还为时过早，卡塔尔方面无法给出乐观或悲观的评价。他还指责以色列继续对加沙地带发动袭击。埃及外长阿卜杜勒阿提7日宣布，由美国中东问题特使威特科夫率领的美国代表团将于8日加入在沙姆沙伊赫举行的加沙问题谈判。",
-            "date_modified": "2025-10-07T16:15:30.000Z"
-        },
-        {
-            "id": 4421458,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhc1143738.d.html",
-            "title": "特朗普：我们希望加拿大发展得好，但我们在争夺相同的业务。",
-            "date_modified": "2025-10-07T16:15:09.000Z"
-        },
-        {
-            "id": 4421457,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhh2644091.d.html",
-            "title": "特朗普：希望在美国生产汽车，希望加拿大发展良好。",
-            "date_modified": "2025-10-07T16:14:05.000Z"
-        },
-        {
-            "id": 4421456,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhe4155249.d.html",
-            "title": "特朗普：美国人不想购买加拿大制造的汽车。",
-            "date_modified": "2025-10-07T16:13:40.000Z"
-        },
-        {
-            "id": 4421455,
-            "content_html": "",
-            "title": "美国能源信息署（EIA）预计，2026年美国原油进口量将减少，石油产品进口量将增加。",
-            "date_modified": "2025-10-07T16:13:24.000Z"
-        },
-        {
-            "id": 4421454,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhh2643901.d.html",
-            "title": "特朗普：我们希望在美国本土生产汽车。",
-            "date_modified": "2025-10-07T16:13:03.000Z"
-        },
-        {
-            "id": 4421453,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhh2643835.d.html",
-            "title": "特朗普：不想从国外进口钢铁。",
-            "date_modified": "2025-10-07T16:12:38.000Z"
-        },
-        {
-            "id": 4421452,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhe4155015.d.html",
-            "title": "特朗普谈加拿大：我们甚至在钢铁问题上也做出了妥协。",
-            "date_modified": "2025-10-07T16:12:19.000Z"
-        },
-        {
-            "id": 4421451,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhe4154900.d.html",
-            "title": "特朗普：我们与加拿大存在天然的商业冲突。",
-            "date_modified": "2025-10-07T16:11:37.000Z"
-        },
-        {
-            "id": 4421450,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhh2643650.d.html",
-            "title": "摩根大通牵头为Qualtrics交易提供50亿美元贷款融资。",
-            "date_modified": "2025-10-07T16:11:29.000Z"
-        },
-        {
-            "id": 4421449,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhh2643573.d.html",
-            "title": "美国能源信息署（EIA）表示，今年夏季全球石油需求有可能高于其目前的预估水平。",
-            "date_modified": "2025-10-07T16:11:04.000Z"
-        },
-        {
-            "id": 4421448,
-            "content_html": "",
-            "title": "美联储卡什卡利：美联储利率制定委员会致力于基于数据和分析来做决策，而非出于政治考量。",
-            "date_modified": "2025-10-07T16:10:38.000Z"
-        },
-        {
-            "id": 4421447,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhc1142589.d.html",
-            "title": "特朗普：将讨论降低对加拿大各行业的关税。",
-            "date_modified": "2025-10-07T16:10:00.000Z"
-        },
-        {
-            "id": 4421446,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhc1142554.d.html",
-            "title": "特朗普：我们将讨论关税问题。",
-            "date_modified": "2025-10-07T16:09:50.000Z"
-        },
-        {
-            "id": 4421445,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhc1142445.d.html",
-            "title": "美国能源信息署（EIA）预计欧佩克+产量将继续低于宣布的目标水平。",
-            "date_modified": "2025-10-07T16:09:31.000Z"
-        },
-        {
-            "id": 4421444,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhh2643283.d.html",
-            "title": "美联储卡什卡利：如果美联储大幅降息，预计经济将出现一轮高通胀。",
-            "date_modified": "2025-10-07T16:09:25.000Z"
-        },
-        {
-            "id": 4421443,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhc1142360.d.html",
-            "title": "美联储卡什卡利：小幅降息可能不会导致抵押贷款利率下降。",
-            "date_modified": "2025-10-07T16:09:14.000Z"
-        },
-        {
-            "id": 4421442,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhe4154359.d.html",
-            "title": "特朗普：另一支团队刚刚出发就加沙计划进行谈判。",
-            "date_modified": "2025-10-07T16:08:41.000Z"
-        },
-        {
-            "id": 4421441,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhc1142108.d.html",
-            "title": "美联储卡什卡利：并不确信几次降息会转化为更低的抵押贷款利率。",
-            "date_modified": "2025-10-07T16:08:36.000Z"
-        },
-        {
-            "id": 4421440,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhh2643084.d.html",
-            "title": "特朗普就加沙谈判：我们的团队现在就在那里。",
-            "date_modified": "2025-10-07T16:08:26.000Z"
-        },
-        {
-            "id": 4421439,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhe4154248.d.html",
-            "title": "特朗普：我会让卡尼很受欢迎，我喜欢他。",
-            "date_modified": "2025-10-07T16:08:06.000Z"
-        },
-        {
-            "id": 4421438,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhh2642917.d.html",
-            "title": "特朗普：将与卡尼讨论贸易和加沙问题。",
-            "date_modified": "2025-10-07T16:07:42.000Z"
-        },
-        {
-            "id": 4421437,
-            "content_html": "",
-            "title": "EIA预计全球石油库存将在2026年持续上升，这将对未来几个月的油价造成显著下行压力。",
-            "date_modified": "2025-10-07T16:07:27.000Z"
-        },
-        {
-            "id": 4421436,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhh2642785.d.html",
-            "title": "特朗普在白宫与加拿大总理卡尼会晤时发表讲话。",
-            "date_modified": "2025-10-07T16:07:10.000Z"
-        },
-        {
-            "id": 4421435,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhh2642701.d.html",
-            "title": "美联储卡什卡利：如果增加电力需求，全国平均电价将会上涨。",
-            "date_modified": "2025-10-07T16:06:49.000Z"
-        },
-        {
-            "id": 4421434,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-08/detail-inftavhh2642322.d.html",
-            "title": "里海管道联盟将2025年的石油输送计划从7600万吨下调至7400万吨。",
-            "date_modified": "2025-10-07T16:04:41.000Z"
-        },
-        {
-            "id": 4421433,
-            "content_html": "",
-            "title": "美国能源信息署（EIA）预计2025年布伦特原油均价为每桶68.64美元，此前预测为每桶67.8美元；预计2026年为每桶52.16美元（此前预测为每桶51.43美元）。",
-            "date_modified": "2025-10-07T16:03:33.000Z"
         }
     ]
 }
