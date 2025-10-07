@@ -4,11 +4,280 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Tue, 07 Oct 2025 04:27:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Oct 2025 05:21:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[汇丰银行将莱茵集团目标价从41欧元上调至44欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infszyaq4601468.d.html</link>
+            <guid>4420649</guid>
+            <pubDate>Tue, 07 Oct 2025 05:20:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【微软承认多开 Office 应用会导致 Copilot AI 无法启动】科技媒体 bleepingcomputer 昨日（10 月 6 日）发布博文，报道称微软承认同时运行多个 Office 应用（如 Excel、Word、PowerPoint 等）时，由于 WebView2 实例冲突，可能导致 Microsoft 365 的 Copilot 无法启动。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infszyaq4601452.d.html</link>
+            <guid>4420648</guid>
+            <pubDate>Tue, 07 Oct 2025 05:19:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本20年期国债收益率在标售结果公布后回吐涨幅，最新上涨0.5个基点至2.695%。]]></title>
+            <guid>4420647</guid>
+            <pubDate>Tue, 07 Oct 2025 05:17:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度总理莫迪将于10月8日为孟买新国际机场一期工程揭幕。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infszyaq4601071.d.html</link>
+            <guid>4420646</guid>
+            <pubDate>Tue, 07 Oct 2025 05:15:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[贝宝（PayPal）首席执行官：贝宝的愿景是打造一个任何数字钱包都能连接的平台。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infszyas3089748.d.html</link>
+            <guid>4420645</guid>
+            <pubDate>Tue, 07 Oct 2025 05:14:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚标普 / 澳交所 200 指数收盘下跌 0.3%，报 8956.80 点。]]></title>
+            <guid>4420644</guid>
+            <pubDate>Tue, 07 Oct 2025 05:13:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗集团将阿斯麦目标价从550欧元上调至650欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infszyap1478849.d.html</link>
+            <guid>4420643</guid>
+            <pubDate>Tue, 07 Oct 2025 05:12:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【丹麦允许乌克兰在其境内扩大国防产品生产】丹麦与乌克兰签署协议，允许乌方在丹境内扩大武器及防御系统生产。声明显示，丹麦已与乌克兰签署一项协议，允许其在丹麦领土上扩大武器及防御系统的生产规模。目前，两国将着手遴选可在丹麦设立机构的乌克兰企业。丹麦商务大臣Bodskov表示：“我们可以从乌克兰身上学习经验，为丹麦国防工业获取更多新的解决方案。”]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infszyas3089534.d.html</link>
+            <guid>4420642</guid>
+            <pubDate>Tue, 07 Oct 2025 05:12:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[政府官员：泰国内阁批准拨款440亿泰铢用于“共同支付”刺激计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infszyap1477892.d.html</link>
+            <guid>4420641</guid>
+            <pubDate>Tue, 07 Oct 2025 05:08:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[贝宝（PayPal）首席执行官：统一支付接口（UPI）是贝宝全球首个接入的支付系统合作伙伴。]]></title>
+            <guid>4420640</guid>
+            <pubDate>Tue, 07 Oct 2025 05:07:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本30年期国债收益率下跌3.5个基点至3.25%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztur1607918.d.html</link>
+            <guid>4420639</guid>
+            <pubDate>Tue, 07 Oct 2025 05:05:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本30年期国债收益率在债券招标后逆转涨势。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztur1607660.d.html</link>
+            <guid>4420638</guid>
+            <pubDate>Tue, 07 Oct 2025 05:05:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泰国内阁批准财政刺激措施以提振消费。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztuu3219473.d.html</link>
+            <guid>4420637</guid>
+            <pubDate>Tue, 07 Oct 2025 05:05:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本国民民主党领袖玉木雄一郎：日本央行应参考数据，对货币政策作出恰当判断。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztus4730667.d.html</link>
+            <guid>4420636</guid>
+            <pubDate>Tue, 07 Oct 2025 05:04:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度央行官员：正在与几家银行合作，将使用央行数字货币的批发端作为底层架构。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztus4730557.d.html</link>
+            <guid>4420635</guid>
+            <pubDate>Tue, 07 Oct 2025 05:03:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度央行官员：将于10月8日启动存款代币化试点项目。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztus4730517.d.html</link>
+            <guid>4420634</guid>
+            <pubDate>Tue, 07 Oct 2025 05:03:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  印度首席财务官们将数字化转型列为优先事项，强调战略性地连接企业绩效管理（EPM）和企业资源规划（ERP）系统以充分发挥其潜力。]]></title>
+            <guid>4420633</guid>
+            <pubDate>Tue, 07 Oct 2025 05:03:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本8月份同期指数初值为113.4，预估113.1。
+日本8月份初值领先指数报107.4，预估107.1。]]></title>
+            <guid>4420632</guid>
+            <pubDate>Tue, 07 Oct 2025 05:01:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[爱沙尼亚9月份消费者价格指数环比下降1.1%。
+爱沙尼亚9月份消费者价格同比上涨5.2%。]]></title>
+            <guid>4420631</guid>
+            <pubDate>Tue, 07 Oct 2025 05:00:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本8月同步指标月率初值 -0.7%，前值-1.8%。
+日本8月领先指标月率初值 1.3%，前值1.1%。]]></title>
+            <guid>4420630</guid>
+            <pubDate>Tue, 07 Oct 2025 05:00:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[达美乐披萨任命迪特尔·哈伯尔为达美乐日本公司首席执行官。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztus4730056.d.html</link>
+            <guid>4420629</guid>
+            <pubDate>Tue, 07 Oct 2025 04:59:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加拿大政府推行预算新规刺激投资】加拿大财政部6日宣布对国家预算编制方式进行重大改革，引入全新的“资本预算框架”，以应对加拿大在商业投资领域增长乏力的严峻挑战。据加财政部发布的新闻稿，“资本预算框架”将明确区分政府的“日常运营支出”与旨在刺激公共和私营部门资本形成的“资本投资支出”。资本投资支出被定义为任何有助于公共或私营部门资本形成的政府开支或税收优惠，主要包括用于基础设施建设的资本转移支付、激励企业资本形成的所得税优惠、联邦政府自有资产的摊销费用、支持企业研发和商业化的资金，吸引大规模私人投资的补贴以及加速住房供应的措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztur1605367.d.html</link>
+            <guid>4420628</guid>
+            <pubDate>Tue, 07 Oct 2025 04:57:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【15家公募跻身ETF“千亿俱乐部”，4家年内规模翻倍】Wind数据显示，截至9月30日，55家公募机构合计管理5.63万亿元规模的ETF产品。其中，华夏基金管理ETF规模达9035.59亿元，率先突破9000亿元大关；易方达基金紧随其后，ETF管理规模达8621.53亿元，年内新增规模达2603.12亿元，增量规模保持领先地位，大有加快步伐追赶的势头。华夏基金和易方达基金一线“双雄”齐头并进向前冲，华泰柏瑞基金ETF管理规模也逐步逼近6000亿元，不过年内新增规模为1277.79亿元，增量仅为前两名的一半左右，因此只能暂居唯一的“准一线”阵营。截至9月30日，已有15家基金公司ETF管理规模超1000亿元，相较年初增添了3家。其中，汇添富基金从年初的674.26亿元飙涨至1351.92亿元，年内实现规模翻倍。海富通基金和鹏华基金年内分别新增687.33亿元和585.53亿元，年内规模也实现翻倍，跻身ETF“千亿元俱乐部”。（每经）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztuu3218590.d.html</link>
+            <guid>4420627</guid>
+            <pubDate>Tue, 07 Oct 2025 04:56:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日本30年期国债标售的投标倍数高于12个月平均水平】日本30年期国债标售所吸引的需求高于12个月平均水平，缓解了主张刺激政策的高市早苗意外当选执政党党首后引发的投资者担忧。此次标售的投标倍数为3.41，高于上次标售的3.31，也超过12个月平均水平3.37。标售结果公布后，日本国债期货收窄跌幅。在标售前夕，日本30年期国债收益率触及纪录新高，市场担心高市早苗的政策将增加政府支出并推高通胀。高市的胜选也削弱了对于日本央行本月加息的预期，她的经济政策顾问本田悦朗认为加息更好的时间是在12月份。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztur1604809.d.html</link>
+            <guid>4420626</guid>
+            <pubDate>Tue, 07 Oct 2025 04:55:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【卢拉同特朗普通话 要求美方取消加征关税】据巴西总统府6日发布的公告，巴西总统卢拉当地时间6日上午同美国总统特朗普通电话，再次要求美国撤销对巴西输美产品加征的关税。根据公告，此次通话时长30分钟，“气氛友好”。卢拉要求美方取消对巴西产品加征的40%关税以及对巴西官员实施的限制措施。公告说，特朗普指派美国国务卿鲁比奥与巴方共同推进后续谈判。巴方谈判人员包括副总统阿尔克明、外长维埃拉及财政部长费尔南多·阿达等。双方同意尽快举行会晤。公告说，卢拉表示愿意访问美国，建议两国领导人在马来西亚东盟峰会期间会面，并邀请特朗普出席将于11月在巴西举行的《联合国气候变化框架公约》第三十次缔约方大会。公告还说，两国领导人互换了私人联系方式，“以建立直接沟通渠道”。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztuu3218405.d.html</link>
+            <guid>4420625</guid>
+            <pubDate>Tue, 07 Oct 2025 04:54:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[杰富瑞将嘉信理财目标价从110美元上调至112美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztur1604556.d.html</link>
+            <guid>4420624</guid>
+            <pubDate>Tue, 07 Oct 2025 04:53:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印尼经济统筹部长：将于周二晚间与美国贸易代表办公室官员会面。两国政府仍通过线上会议推进谈判，重点聚焦协议的法律审查与起草工作。]]></title>
+            <guid>4420623</guid>
+            <pubDate>Tue, 07 Oct 2025 04:53:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本国民民主党领袖玉木雄一郎：预计本财年税收收入将突破80万亿日元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztur1603931.d.html</link>
+            <guid>4420622</guid>
+            <pubDate>Tue, 07 Oct 2025 04:51:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德意志银行：将阿里巴巴目标价由172港元上调至220港元】德意志银行分析师Peter Milliken在一份报告中表示，凭借其全球业务布局、强劲的财务状况，以及在模型、基础设施、芯片和软件等领域具备竞争力的全栈人工智能能力，阿里巴巴旗下的阿里云有望发展成为超级人工智能云服务提供商。他补充称，这家中国互联网巨头在超级人工智能、大型语言模型集成以及人工智能云方面所传递的信息表明，人工智能云领域拥有庞大的潜在市场规模，但核心参与者较少。Milliken对阿里巴巴把握盈利机会持乐观态度，认为其将受益于不断增长的人工智能工作负载，从而推动未来云业务收入实现更快增长。德意志银行维持对阿里巴巴的“买入”评级，并将其美国存托凭证（ADR）目标价从176美元上调至225美元，港股目标价从172港元上调至220港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztur1603267.d.html</link>
+            <guid>4420621</guid>
+            <pubDate>Tue, 07 Oct 2025 04:50:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新加坡元小幅走强 市场静待美联储9月会议纪要】亚洲交易时段，因交易员等待新的市场催化因素，新加坡元兑美元汇率小幅走强。澳大利亚联邦银行全球经济与市场研究团队在报告中指出，即便美国政府持续停摆，美联储仍有可能在周三发布9月货币政策会议纪要。该团队补充称，这份纪要或会披露美联储决定重启降息背后的讨论细节，以及联邦公开市场委员会后续降息的可能性与速度。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztus4728943.d.html</link>
+            <guid>4420620</guid>
+            <pubDate>Tue, 07 Oct 2025 04:49:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【报道：马斯克任命前摩根士丹利高管为xAI首席财务官】据报道，马斯克任命前摩根士丹利高管担仼xAI首席财务官；他这位盟友将协助管理美国最大的AI新创公司之一。该报援引知情人士的话称报道，Anthony Armstrong将负责xAI和社交媒体服务X的财务职能。报道指出，这位曾帮助马斯克完成以440亿美元收购X的高管，将负责带领这家社群媒体平台恢复财务健康。马斯克的xAI上个月才筹资，使该公司估值 达2000亿美元，成为全球估值最高的新创公司之一。随着OpenAI、Alphabet和Meta Platforms等公司在资料中心上投入了数百亿美元，马斯克一直在寻求融资，试图在这场激烈的竞争中保持领先。今年稍早有报道称，由于基础设施成本高昂，xAI每月亏损10亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztus4728790.d.html</link>
+            <guid>4420619</guid>
+            <pubDate>Tue, 07 Oct 2025 04:47:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[野村证券：资生堂持股比例升至6.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztus4728441.d.html</link>
+            <guid>4420617</guid>
+            <pubDate>Tue, 07 Oct 2025 04:43:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京口岸迎假日出入境高峰 单日将突破7万人次】伴随国庆中秋双节长假步入尾声，北京口岸于10月7日起正式迎来返程客流高峰。记者从北京边检总站了解到，10月1日至6日，北京边检机关累计查验出入境旅客35万人次，同比增长18%；查验出入境航班2200余架次，同比增长12%，双节期间口岸出入境流量实现显著提升。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztuu3217028.d.html</link>
+            <guid>4420616</guid>
+            <pubDate>Tue, 07 Oct 2025 04:42:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【耐克CEO称公司扭亏为盈计划初显成效】耐克CEO Elliott Hill周一表示，公司的扭亏为盈计划已初显成效，但要恢复盈利增长仍需一段时间。至于被问及预期能够恢复中、高个位数的收入增长和强劲的利润率时，Hill承认需要时间，但他表示，公司有实现该目标的途径。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztus4728047.d.html</link>
+            <guid>4420615</guid>
+            <pubDate>Tue, 07 Oct 2025 04:41:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本国民民主党领袖玉木雄一郎：希望政策落地，而非在高市早苗内阁中任职。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztur1600107.d.html</link>
+            <guid>4420614</guid>
+            <pubDate>Tue, 07 Oct 2025 04:40:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[大华继显将赣锋锂业评级从“买入”下调至“持有”。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztur1599703.d.html</link>
+            <guid>4420613</guid>
+            <pubDate>Tue, 07 Oct 2025 04:39:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[哈马斯与以色列间接谈判将于周二继续。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztuu3216521.d.html</link>
+            <guid>4420612</guid>
+            <pubDate>Tue, 07 Oct 2025 04:38:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其正义与发展党的ZEYBEKCI：土耳其无法长期维持高利率。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztur1599557.d.html</link>
+            <guid>4420611</guid>
+            <pubDate>Tue, 07 Oct 2025 04:38:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克转发：Grok-4在真实世界预测性能测试中，表现优于OpenAI的GPT-4o-mini 以及谷歌的Gemini 2.5 Flash。]]></title>
+            <guid>4420610</guid>
+            <pubDate>Tue, 07 Oct 2025 04:36:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【墨西哥两周内确认第二例螺旋蝇蛆病例】墨西哥农业部6日说，在该国东北部地区新发现一例牛感染螺旋蝇蛆病例。这是墨西哥近期确认第二例螺旋蝇蛆病例。美联社援引墨西哥农业部一份声明报道，受感染的牛来自墨西哥南部地区，被运输至新莱昂州城镇蒙特莫雷洛斯时遭拦截。新莱昂州位于墨西哥东北部，与美国得克萨斯州接壤。检疫人员表示，按照规定，牲畜在运输前需采取强制杀虫等措施，因此发现这一病例时，牛身上的螺旋蝇蛆已经处于死亡或将死状态。此外，同一批运输的其他动物均无感染。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztuu3216115.d.html</link>
+            <guid>4420609</guid>
+            <pubDate>Tue, 07 Oct 2025 04:35:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日经225指数刚刚跌破48200.00关口，最新报48193.71，日内涨0.52%。]]></title>
+            <guid>4420608</guid>
+            <pubDate>Tue, 07 Oct 2025 04:33:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[荷兰9月份消费者价格指数同比上涨3.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztuu3215472.d.html</link>
+            <guid>4420607</guid>
+            <pubDate>Tue, 07 Oct 2025 04:32:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[荷兰9月份最终协调CPI同比上涨3.0%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztuu3215445.d.html</link>
+            <guid>4420606</guid>
+            <pubDate>Tue, 07 Oct 2025 04:32:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[荷兰9月消费者价格指数环比下降0.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztuu3215285.d.html</link>
+            <guid>4420605</guid>
+            <pubDate>Tue, 07 Oct 2025 04:31:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[荷兰9月份调和CPI终值环比下降0.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztus4726490.d.html</link>
+            <guid>4420604</guid>
+            <pubDate>Tue, 07 Oct 2025 04:31:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【埃克森美孚预计第三季炼油利润按季增5亿美元】埃克森美孚预计第三季炼油利润出现反弹，将按季增加约5亿美元。公司称，第三季能源生产部门的利润将增加3亿至7亿美元；化学品部门利润将升约2亿美元，并指汽油价格的变动对盈利的影响轻微。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztur1596259.d.html</link>
+            <guid>4420603</guid>
+            <pubDate>Tue, 07 Oct 2025 04:28:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【特朗普称“环保少女”是疯狂的麻烦制造者】当地时间10月6日，美国总统特朗普称瑞典“环保少女”格蕾塔·通贝里是麻烦制造者，并指出她不再专注于环境保护问题。 特朗普在白宫与记者交流时，在评论关于通贝里被以色列驱逐的问题时表示：“她不再关注环境了。她是个麻烦制造者，有愤怒管理问题。我认为她应该去看医生。”此外，特朗普还称通贝里是“邪恶且疯狂的”。]]></title>
             <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztur1595612.d.html</link>
@@ -32,266 +301,6 @@
             <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztus4724962.d.html</link>
             <guid>4420599</guid>
             <pubDate>Tue, 07 Oct 2025 04:22:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯防空部队一夜之间击落184架乌克兰无人机。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztus4724637.d.html</link>
-            <guid>4420598</guid>
-            <pubDate>Tue, 07 Oct 2025 04:21:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄副外长：欧方利用无人机挑衅意在支持军费开支】俄罗斯外交部副部长亚历山大·格鲁什科6日在莫斯科表示，欧洲国家利用无人机事件发起挑衅，是为了迫使其本国议会投票支持军费开支。 据塔斯社6日报道，格鲁什科说，如果波兰认为不明无人机可能来自俄方，应当与俄方联络。由于波方“未就此事与俄方接洽，这意味着其没有兴趣查明情况，而只想把此事变成又一个关于俄罗斯威胁的恐怖故事”。他认为，从解决问题的角度看，部分欧洲国家因无人机事件而谋求启动《北大西洋公约》第四条进行磋商毫无意义。 格鲁什科说，西方国家向乌克兰提供越来越多的远程和致命武器，在北约所在地区东部开展的演习数量增多，演习的攻击特点日益显著，这些都说明紧张局势升级的风险很大。 格鲁什科还表示，如果欧洲国家没收被其冻结的俄罗斯资产，俄将采取严厉的报复措施。 近期，德国、丹麦、挪威和波兰等欧洲国家分别报告其上空出现来历不明的无人机。欧盟多国以及北约、乌克兰方面同意打造具备侦察、追踪和拦截功能的“无人机墙”。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztur1592903.d.html</link>
-            <guid>4420597</guid>
-            <pubDate>Tue, 07 Oct 2025 04:14:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【李在明不满驻韩美军威慑中国】据参考消息援引共同社10月5日报道，驻韩美军正试图将任务范围由防御朝鲜扩大至“威慑中国”，但韩国与中国在地理上邻近且经济联系紧密，韩方强烈担忧美军此举引发不必要的误解和反弹。韩国总统李在明已对此明确表示不满。 报道称，美国陆军部长丹尼尔·德里斯科尔1日在首尔近郊举行记者会，表示驻韩美军的任务不仅仅局限于针对朝鲜，也将应对中国的“威胁”。 报道称，驻韩美军于9月29日宣布，已在韩国西部的群山空军基地部署了一支由能在中高空长时间飞行的多用途MQ-9“死神”无人机组成的远征侦察大队，并解释称这支部队将承担“在印太地区的监视与侦察”任务。美军还宣布，已在首尔近郊的乌山空军基地部署新型防御系统，以应对无人机及巡航导弹。美军此举被视为其针对朝鲜和中国进行的部署。 报道称，韩国政府一方面重视韩美同盟，另一方面又不愿刺激中国。李在明曾在8月对媒体表示，对驻韩美军角色的变化“难以赞同”。9月，他又在社交网站发布长文，强调“必须开辟强有力的自主国防之路”，并主张“不应被卷入外部军事冲突”。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztuu3212768.d.html</link>
-            <guid>4420596</guid>
-            <pubDate>Tue, 07 Oct 2025 04:13:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【第一三共：德达博妥单抗用于不适合免疫治疗的转移性三阴性乳腺癌患者一线治疗，可延长总生存期】10月7日，据第一三共消息，TROPION-Breast02 Ⅲ期研究公布了积极的主要结果：德达博妥单抗在总生存期（OS）和无进展生存期（PFS）双主要终点上统计学差异具有显著性并取得临床意义的改善。该研究比较了德达博妥单抗与研究者选择的化疗方案，用于不适合抗PD-1/PD-L1治疗的局部复发不可手术或转移性三阴性乳腺癌（TNBC）患者的一线治疗。德达博妥单抗是一款靶向TROP2的DXd抗体偶联药物（ADC），由第一三共研制并由第一三共和阿斯利康共同开发。]]></title>
-            <guid>4420595</guid>
-            <pubDate>Tue, 07 Oct 2025 04:13:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【哈马斯与以色列举行新一轮谈判】据多家阿拉伯媒体当地时间今天（10月7日）凌晨报道，哈马斯与以色列在埃及的首日间接谈判结束。哈马斯代表团表示，此次会谈取得了积极进展，但以方对加沙地带的持续轰炸对释放以方被扣押人员“构成了挑战”。巴勒斯坦方面消息人士表示，哈马斯对以色列总理内塔尼亚胡不能遵守美国提出的“20点计划”表示担忧。内塔尼亚胡5日称，在所有被扣押人员得到释放后，才会推进美方所提“20点计划”的其他条款。（CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztus4723765.d.html</link>
-            <guid>4420594</guid>
-            <pubDate>Tue, 07 Oct 2025 04:11:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[哈萨克国家石油天然气公司表示，2025年前九个月，哈萨克斯坦向德国输送的石油约达150万吨。]]></title>
-            <guid>4420593</guid>
-            <pubDate>Tue, 07 Oct 2025 04:09:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[哈萨克国家石油天然气公司表示，德国与哈萨克斯坦达成的协议规定，每月交付量将从10万 吨提高至13万吨。]]></title>
-            <guid>4420592</guid>
-            <pubDate>Tue, 07 Oct 2025 04:09:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[哈萨克国家石油天然气公司（KazMunaiGaz）董事长表示，2026年哈萨克斯坦对德国的石油供应量将增加。]]></title>
-            <guid>4420591</guid>
-            <pubDate>Tue, 07 Oct 2025 04:09:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[                                                                                                            现货铂金刚刚触及1630.00美元/盎司关口，最新报1630.80美元/盎司，日内涨0.61%；Nymex铂金期货主力最新报1661.5美元/盎司，日内涨0.13%。]]></title>
-            <guid>4420590</guid>
-            <pubDate>Tue, 07 Oct 2025 04:08:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大皇家银行将 洛克希德·马丁 目标价从440美元上调至525美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztuu3212151.d.html</link>
-            <guid>4420589</guid>
-            <pubDate>Tue, 07 Oct 2025 04:07:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2025国庆档票房破16亿】截至目前，2025年国庆档（10月1日至10月8日）档期总票房（含预售）突破16亿元。（灯塔专业版）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztuu3211801.d.html</link>
-            <guid>4420588</guid>
-            <pubDate>Tue, 07 Oct 2025 04:05:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：欧盟将限制俄罗斯外交官出行，以应对疑似间谍袭击事件。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztus4722609.d.html</link>
-            <guid>4420587</guid>
-            <pubDate>Tue, 07 Oct 2025 04:03:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全球知名的另类资产管理公司BROOKFIELD为转型基金创纪录地募集了 200 亿美元。]]></title>
-            <guid>4420586</guid>
-            <pubDate>Tue, 07 Oct 2025 04:01:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【普京73岁生日收到金正恩祝福】据俄罗斯卫星通讯社援引朝中社报道，10月7日是俄罗斯总统普京73岁的生日，朝鲜领导人金正恩向普京表示祝福。金正恩表示：“我最亲爱的普京同志，向您致以最真诚、最温暖的生日祝福。”报道称，金正恩还表示朝俄两国将友谊长存，并表示朝鲜将继续全面支持俄罗斯人民捍卫主权和领土完整的斗争。（中国新闻网）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztur1588509.d.html</link>
-            <guid>4420585</guid>
-            <pubDate>Tue, 07 Oct 2025 04:00:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全国秋粮收获进展顺利 北方部分地区需防范寒潮和初霜冻】秋粮产量占全年粮食产量的四分之三。根据“农机云”平台最新数据，截至昨天（6日），东北地区整体收获近二成，进度约17%，其中，黑龙江水稻收获超三成，玉米收获近二成；吉林玉米收获过一成；黄淮海地区整体收获过五成，进度约51%。山东近期秋雨偏多，秋收工作刚刚展开，河南秋作物已收获约29%，以玉米、花生为重点；河北秋作物已收获约20%；长江中下游地区收获近六成，进度约59%，湖南收获近八成，湖北近九成，江西超五成，安徽近两成；西南地区收获超七成，整体进度约73%，云南收获超六成，四川收获超八成。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztus4721975.d.html</link>
-            <guid>4420584</guid>
-            <pubDate>Tue, 07 Oct 2025 03:56:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【金价大涨 国内品牌金饰克价突破1150元】随着国际金价近日大涨，国内黄金饰品价格也水涨船高。从多家黄金珠宝品牌公布的足金首饰价格来看，截至目前，周生生足金饰品价格涨至1157元/克，周大福、六福珠宝、潮宏基等足金饰品价格为1155元/克，均较前一日上涨16元/克。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztur1587462.d.html</link>
-            <guid>4420583</guid>
-            <pubDate>Tue, 07 Oct 2025 03:53:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广西钦州抽水蓄能电站地下厂房主通道全线贯通】近日，国家“十四五”重点抽水蓄能工程——广西钦州抽水蓄能电站地下厂房主通道全线贯通。钦州抽水蓄能电站位于平陆运河经济带灵山段，这个假期，850多名施工人员坚守岗位，30多项施工同时推进。据介绍，该电站预计2029年建成投产，每年最多可消纳清洁能源21.6亿千瓦时，对应减少二氧化碳排放160万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztur1587135.d.html</link>
-            <guid>4420582</guid>
-            <pubDate>Tue, 07 Oct 2025 03:52:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[20年期日本国债在拍卖结果公布后回吐涨幅，最新收益率上涨0.5个基点，至2.695%。]]></title>
-            <guid>4420581</guid>
-            <pubDate>Tue, 07 Oct 2025 03:52:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10年期日本国债收益率在拍卖结果公布后回吐涨幅，最新上涨0.5个基点，至1.675%。]]></title>
-            <guid>4420580</guid>
-            <pubDate>Tue, 07 Oct 2025 03:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[泰国股市上涨1.2%，至1300.91点，创下9月19日以来的最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztus4721418.d.html</link>
-            <guid>4420579</guid>
-            <pubDate>Tue, 07 Oct 2025 03:51:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[杰富瑞将 摩根士丹利 目标价从158美元上调至175美元；将 高盛 目标价从815美元上调至892美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztus4721109.d.html</link>
-            <guid>4420578</guid>
-            <pubDate>Tue, 07 Oct 2025 03:48:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度汽车经销商协会（FADA）：如果物流和供应链运行顺畅，印度10月将迎来有史以来最旺的节日零售季。]]></title>
-            <guid>4420577</guid>
-            <pubDate>Tue, 07 Oct 2025 03:48:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度汽车经销商协会(FADA)：9月乘用车零售销量同比上涨5.8%。商品及服务税（GST）优惠、整车厂的积极促销方案以及宽松的融资条件，预计将在10月吸引新购车者与换购客户。]]></title>
-            <guid>4420576</guid>
-            <pubDate>Tue, 07 Oct 2025 03:48:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【在野党要求德国加大对以色列施压】10月6日，德国在野党之一的左翼党主席扬•范•阿肯表示，10月7日是本轮巴以冲突爆发2周年的时间，德国政府应该加大对以色列方面的施压，特别是对以色列施加更多的经济压力，以改变其在加沙地带的军事行动，因为这场残酷的战争必须结束。（CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztus4720738.d.html</link>
-            <guid>4420575</guid>
-            <pubDate>Tue, 07 Oct 2025 03:45:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MELIUS RESEARCH： 将AMD目标价从200美元上调至300美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztus4720593.d.html</link>
-            <guid>4420574</guid>
-            <pubDate>Tue, 07 Oct 2025 03:44:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[30年期国债拍卖结束后，基准10年期日本国债期货缩减跌幅，最新下跌0.08日元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztus4720419.d.html</link>
-            <guid>4420573</guid>
-            <pubDate>Tue, 07 Oct 2025 03:43:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BENCHMARK：将AMD目标价从210美元上调至270美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztuu3209158.d.html</link>
-            <guid>4420572</guid>
-            <pubDate>Tue, 07 Oct 2025 03:42:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[                                                                                                            现货黄金刚刚触及3970.00美元/盎司关口，最新报3970.43美元/盎司，日内涨0.24%；COMEX黄金期货主力最新报3992.90美元/盎司，日内涨0.42%。]]></title>
-            <guid>4420571</guid>
-            <pubDate>Tue, 07 Oct 2025 03:41:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【为期20天 每天停运3小时！大秦铁路开启秋季集中修施工】10月7日上午，我国重要能源通道大秦铁路开启2025年秋季集中修施工，将全面恢复迎峰度夏能源运输后的铁路设施设备性能，为今冬明春电煤保供夯实线路基础。此次集中修施工从10月7日至10月26日，为期20天，大秦铁路每天将停运180分钟，累计完成成段更换钢轨107.438公里、成段更换轨枕1.57万根，大机捣固线路519.408公里、大机打磨线路758公里等任务，以及隧道整治、电缆更新、接触网维修等施工。国铁太原局大规模使用大型捣固车、清筛车等大型施工机械67组，挖掘机等小型机械114台，10000余人组成126支施工队伍，同时上道，多工种立体式作业，提高施工质量和效率。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztur1583673.d.html</link>
-            <guid>4420570</guid>
-            <pubDate>Tue, 07 Oct 2025 03:40:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[埃隆·马斯克已任命前摩根士丹利银行家安东尼·阿姆斯特朗为其人工智能集团XAI的新任首席财务官。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztuu3207619.d.html</link>
-            <guid>4420569</guid>
-            <pubDate>Tue, 07 Oct 2025 03:33:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度10年期基准国债收益率微幅变动，报6.5151%；前收盘价为6.5186% 。]]></title>
-            <guid>4420568</guid>
-            <pubDate>Tue, 07 Oct 2025 03:32:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国萨克拉门托市长凯文·麦卡蒂称，在第59街以西的50号东向公路上发生了一起直升机坠毁事故。]]></title>
-            <guid>4420567</guid>
-            <pubDate>Tue, 07 Oct 2025 03:32:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德银将 阿里巴巴 目标价从172.00港元上调至220.00港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztus4717694.d.html</link>
-            <guid>4420566</guid>
-            <pubDate>Tue, 07 Oct 2025 03:29:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【鸿蒙智行：全系车型国庆假期前六天累计大定达3.56万台】10月6日晚，鸿蒙智行宣布，全系车型国庆假期前六天（10月1日-6日）累计大定达35600台。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztur1578003.d.html</link>
-            <guid>4420565</guid>
-            <pubDate>Tue, 07 Oct 2025 03:26:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PIPER SANDLER：将 埃克森美孚 目标价从145美元下调至141美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztus4716829.d.html</link>
-            <guid>4420564</guid>
-            <pubDate>Tue, 07 Oct 2025 03:23:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通将法国的跨国电信运营商 奥兰治（ORANGE SA） 目标价从16.6欧元上调至17.5欧元。]]></title>
-            <guid>4420563</guid>
-            <pubDate>Tue, 07 Oct 2025 03:22:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日元兑跌至两月低点，市场关注高市早苗组阁进展】1、日元兑美元周二跌至两个月低点，美元兑日元周二亚市一度上涨0.18%至150.61，财政立场偏向宽松的高市早苗当选自民党总裁后，市场关注其内阁人事安排。日元兑欧元同时创下历史新低，因日本国债收益率在重要标债前攀升，考验新政府下的市场需求。2、在周六的党首竞选中，高市被视为五位候选人中最为鸽派的一位。道富银行东京分行经理Bart Wakabayashi指出，美元兑日元已升破150关键心理关口，预计日本官员可能尝试口头支撑日元，市场正密切关注高市组阁动向及官方对汇率水平的表态。3、其他货币方面，欧元走势仍显脆弱。法国总理辞职事件持续发酵，欧洲央行官员释放可能降息的信号，均对欧元构成压力。美元指数周一微升0.05%至98.13，欧元兑美元报1.1705，波动有限。4、由于美国政府停摆，包括非农报告在内的多项经济数据发布推迟，市场转而聚焦美联储官员即将发表的讲话以及即将公布的9月会议纪要。在近期劳动力数据疲软的背景下，市场普遍预期美联储将于10月会议降息25个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztur1576220.d.html</link>
-            <guid>4420562</guid>
-            <pubDate>Tue, 07 Oct 2025 03:21:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲议员高呼冯德莱恩该下台了】由于欧洲议会的极右翼和极左翼党团都提出了对欧盟委员会主席冯德莱恩的不信任动议，欧洲议会定于本周四（10月9日）对此进行投票。当地时间10月6日，欧洲议会开始进行投票前的辩论。来自法国极右翼政党国民联盟和极左翼政党“不屈法国”的欧洲议会议员发言，就加沙冲突问题和美欧贸易协议问题对冯德莱恩发难，称冯德莱恩“向美国总统特朗普投降了”，“冯德莱恩该下台了”。这是冯德莱恩在三个月内第二次面临被罢免的动议。有分析指出，尽管欧洲议会主要的中间派党团议员预计将否认这两项动议，使其无法在本周四的投票中获得将冯德莱恩罢免所需的三分之二多数支持，但它们都反映出外界对冯德莱恩领导能力的更广泛不满，是对冯德莱恩的又一次严厉“警告”。（CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztuu3204895.d.html</link>
-            <guid>4420560</guid>
-            <pubDate>Tue, 07 Oct 2025 03:18:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通首次覆盖 格鲁吉亚银行 并给予“增持”评级，目标股价9200便士。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztur1575065.d.html</link>
-            <guid>4420559</guid>
-            <pubDate>Tue, 07 Oct 2025 03:17:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[台交所加权股价指数上涨2%至27296.8点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztus4715847.d.html</link>
-            <guid>4420558</guid>
-            <pubDate>Tue, 07 Oct 2025 03:15:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通将SCOUT24 SE目标价从142欧元上调至146欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztuu3204605.d.html</link>
-            <guid>4420557</guid>
-            <pubDate>Tue, 07 Oct 2025 03:15:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通将北欧地区知名的在线投资与金融服务平台NORDNET的目标股价从 245 瑞典克朗上调至 246 瑞典克朗。]]></title>
-            <guid>4420556</guid>
-            <pubDate>Tue, 07 Oct 2025 03:14:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[                                                                                                            泰股综合刚刚突破1300.00关口，最新报1300.53，日内涨1.16%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztuu3204144.d.html</link>
-            <guid>4420555</guid>
-            <pubDate>Tue, 07 Oct 2025 03:12:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[泰国 650 亿泰铢 91 天期央行票据拍卖，平均中标收益率 1.12752%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztus4715320.d.html</link>
-            <guid>4420554</guid>
-            <pubDate>Tue, 07 Oct 2025 03:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【凯德腾飞房地产信托计划收购新加坡三处工业房地产】10月7日，凯德腾飞房地产信托发布公告宣布，计划以总收购价约5.658亿新元，购入在新加坡的三处房地产。交易预计明年第一季完成。凯德腾飞房地产信托管理公司首席执行官郑伟良在公告中表示，目前，三个房地产完全出租给在科技、物流和生命科学领域知名的租户，加权平均租期（WALE）为5.5年，并有调升租金条约，加强信托收入的韧性。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-07/detail-infsztur1572109.d.html</link>
-            <guid>4420553</guid>
-            <pubDate>Tue, 07 Oct 2025 03:09:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SEAPORT RESEARCH PARTNERS：将奈飞评级从 “中性”上调至 “买入”。]]></title>
-            <guid>4420552</guid>
-            <pubDate>Tue, 07 Oct 2025 03:09:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
