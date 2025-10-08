@@ -6,6 +6,309 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 4423211,
+            "content_html": "",
+            "title": "罗萨里奥谷物交易所：阿根廷2025/2026年度小麦产量预计为2300万吨，此前预估至少为2000万吨。",
+            "date_modified": "2025-10-08T21:19:47.000Z"
+        },
+        {
+            "id": 4423210,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfraw2637019.d.html",
+            "title": "加拿大总理卡尼：期待与美墨加协定达成双边协议。",
+            "date_modified": "2025-10-08T21:18:03.000Z"
+        },
+        {
+            "id": 4423209,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfraw2636923.d.html",
+            "title": "【做多情绪强化 金价中长期仍存上涨空间】8月下旬以来，国际金价加速上涨，并不断刷新历史新高。10月8日盘中，伦敦现货黄金价格历史上首次升破4000美元/盎司关口，纽约商品交易所（COMEX）黄金期货价格一度涨破4060美元/盎司。与此同时，港股黄金股也表现亮眼，多只个股延续涨势并创下历史新高。 业内人士表示，美国政府债务问题以及去美元化交易的中长期逻辑仍在，决定了黄金的牛市格局，且美联储独立性问题长期来看仍有发酵空间，有望继续推动金价攀升。不过，考虑到近期金价上涨对利多的定价已较为充分，四季度或维持高位震荡。（中证报）",
+            "date_modified": "2025-10-08T21:15:42.000Z"
+        },
+        {
+            "id": 4423208,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfray1125678.d.html",
+            "title": "富时A50期指连续夜盘收涨0.18%，报15122点。",
+            "date_modified": "2025-10-08T21:15:25.000Z"
+        },
+        {
+            "id": 4423207,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfrau9840927.d.html",
+            "title": "【10月9日美股成交额前20：AMD再创新高，三日累计上涨43%】周三美股成交额第1名AMD收高11.37%，股价再创历史新高，成交355.35亿美元。AMD已经连续三个交易日上涨，三日累计上涨43%。日前AMD与OpenAI达成四年合作协议，将供应后者数十万个AI芯片，预计此交易将为AMD带来数百亿美元的营收增长。OpenAI还将获得AMD的认股权证，这无疑为AMD的未来发展注入了强劲动力。Jefferies将AMD评级从“持有”上调至“买入”，目标价从170美元大幅调升至300美元。",
+            "date_modified": "2025-10-08T21:14:34.000Z"
+        },
+        {
+            "id": 4423206,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfray1125578.d.html",
+            "title": "【节后A股有望迎“开门红” 结构性机会或进一步增多】国庆假期期间，全球市场多数实现第四季度“开门红”，内外部环境相对平稳，科技产业领域事件活跃度较高。 分析人士认为，节后活跃资金或将再度集结，A股有望迎来“开门红”，局部做多动能有望增强，结构性机会或进一步增多。展望后市，科技仍是核心主线，中国科技产业正处于向上突破的关键节点，未来更多科技领域“DeepSeek”时刻的到来，将持续强化中国资产重估逻辑。（中证报）",
+            "date_modified": "2025-10-08T21:13:28.000Z"
+        },
+        {
+            "id": 4423204,
+            "content_html": "",
+            "title": "SPDR黄金信托报告称，截至10月8日，其持仓量增加0.14%，即1.43吨，至1014.58吨。",
+            "date_modified": "2025-10-08T21:11:57.000Z"
+        },
+        {
+            "id": 4423203,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfraw2636650.d.html",
+            "title": "【公募基金派发“大红包” ETF站上C位】今年以来公募基金已累计派出超1800亿元的大红包。 数据显示，截至9月30日，今年以来已有超2900只基金（不同份额分开计算）合计分红1830.47亿元。其中，股票型基金的分红总额是去年同期近3倍，ETF占据大额分红榜单前列位置。混合型基金的分红总额也是去年同期的1.7倍。此外，公募REITs分红最为积极，已有62只公募REITs今年以来实施分红。（中证报）",
+            "date_modified": "2025-10-08T21:11:27.000Z"
+        },
+        {
+            "id": 4423202,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfray1125379.d.html",
+            "title": "【北交所今起全面使用920证券代码号段】10月9日起，北交所所有股票将全部切换为920新代码号段，投资者对存量股票的交易委托、行情查询，市场主体对存量股票的业务办理等均使用切换后的证券代码。投资者可通过北交所官网“服务—新旧代码对照表”栏目查询新旧代码对应关系。 多家券商发文表示已对交易终端进行了优化，建议投资者使用最新版本交易终端。（中证报）",
+            "date_modified": "2025-10-08T21:10:39.000Z"
+        },
+        {
+            "id": 4423201,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfraw2636581.d.html",
+            "title": "【一线私募把脉A股后市 多元配置实现攻守兼备】随着国庆长假的落幕，A股市场于10月9日迎来四季度首个交易日。这个假期，全球金融市场并不平静：海外股市普遍小幅走强，为A股提供了积极的外部环境；与此同时，国际金价历史性突破4000美元/盎司关口，彰显出全球资金的避险需求。国内层面，刚刚过去的黄金周展现消费韧性，出行人次与部分核心消费场景的亮眼数据，为经济基本面注入暖意。在此背景下，私募人士普遍表示，海外市场走强与国内积极因素叠加，有望共同支撑A股后市表现。（中证报）",
+            "date_modified": "2025-10-08T21:10:21.000Z"
+        },
+        {
+            "id": 4423200,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfray1125228.d.html",
+            "title": "【资金借道ETF布局恒生科技 多只基金份额增超百亿】近日，恒生科技指数创下近四年来新高。虽然相较于创新药、算力等热门板块较为“逊色”，但依旧吸引了大量资金借道ETF参与布局，证券时报记者统计发现，年内十余只份额增幅超过百亿的ETF中，港股科技板块主题基金就占据8席。 在成份股频频交出稳健增长的财报时，从基本面来看，恒生科技指数已然成为“价值”之选。此外，流动性方面，有公募人士指出美联储重启降息，美元和美债利率有望延续下行趋势，这将利好包括港股在内的新兴市场，海外资金流入港股市场的意愿正显著增强。历史数据也显示，在流动性宽松环境下，科技成长类行业通常表现优异。（证券时报）",
+            "date_modified": "2025-10-08T21:07:51.000Z"
+        },
+        {
+            "id": 4423199,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfraw2636410.d.html",
+            "title": "特朗普：（当被问及在加沙协议方面还有什么工作要做时）要么完成协议，要么签署协议。",
+            "date_modified": "2025-10-08T21:06:58.000Z"
+        },
+        {
+            "id": 4423198,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfraw2636304.d.html",
+            "title": "特朗普：我们将在中东实现和平。",
+            "date_modified": "2025-10-08T21:04:56.000Z"
+        },
+        {
+            "id": 4423197,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfraw2636243.d.html",
+            "title": "特朗普称赞美股上涨。",
+            "date_modified": "2025-10-08T21:04:02.000Z"
+        },
+        {
+            "id": 4423196,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfrau9839289.d.html",
+            "title": "特朗普：我现在必须去解决中东问题。",
+            "date_modified": "2025-10-08T21:02:04.000Z"
+        },
+        {
+            "id": 4423195,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfray1124850.d.html",
+            "title": "【光伏产业链涨价潮起融资资金加仓22股】今年以来，光伏行业“反内卷”相关政策持续推进，产业链各条线价格自底部反弹，行业有望迎来盈利修复。截至9月29日，7月以来光伏概念股（包括光伏发电和光伏设备板块个股）合计获得融资净买入161.68亿元，其中22股融资资金净买入金额在1亿元以上，阳光电源、捷佳伟创、锦浪科技居前，分别达到76.05亿元、12.42亿元、8.92亿元。",
+            "date_modified": "2025-10-08T21:01:42.000Z"
+        },
+        {
+            "id": 4423194,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfrau9839113.d.html",
+            "title": "特朗普：很可能会在政府停摆期间给军人发放薪水。",
+            "date_modified": "2025-10-08T21:00:57.000Z"
+        },
+        {
+            "id": 4423193,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfrau9838983.d.html",
+            "title": "特朗普被问及医疗补贴问题时表示，我们将在（政府）重开后讨论。",
+            "date_modified": "2025-10-08T20:59:41.000Z"
+        },
+        {
+            "id": 4423192,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfrau9838927.d.html",
+            "title": "特朗普：可能在人质获释之前或之后前往中东。",
+            "date_modified": "2025-10-08T20:58:57.000Z"
+        },
+        {
+            "id": 4423191,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfrau9838821.d.html",
+            "title": "特朗普：我们想让奥巴马医改变得更好。",
+            "date_modified": "2025-10-08T20:57:36.000Z"
+        },
+        {
+            "id": 4423190,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfray1124689.d.html",
+            "title": "【9月外储再超3.3万亿美元 央行连续11个月增持黄金】国家外汇管理局近日发布的最新统计数据显示，截至9月末，中国外汇储备规模为33387亿美元，较8月末上升165亿美元，升幅为0.5%。目前，我国外汇储备规模已连续第22个月保持在3.2万亿美元以上。最新官方储备资产数据显示，截至9月末中国官方黄金储备为7406万盎司，环比增加4万盎司。目前，中国央行已连续11个月增持黄金。",
+            "date_modified": "2025-10-08T20:57:30.000Z"
+        },
+        {
+            "id": 4423189,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfrau9838744.d.html",
+            "title": "特朗普：一些联邦工作人员将没有资格获得补发工资。",
+            "date_modified": "2025-10-08T20:56:31.000Z"
+        },
+        {
+            "id": 4423188,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfrau9838705.d.html",
+            "title": "特朗普：大多数联邦工作人员将获得补发工资。",
+            "date_modified": "2025-10-08T20:56:01.000Z"
+        },
+        {
+            "id": 4423187,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfraw2635866.d.html",
+            "title": "美国交通部长达菲：与空中交通人员配备相关的延误情况增多。",
+            "date_modified": "2025-10-08T20:55:20.000Z"
+        },
+        {
+            "id": 4423186,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfraw2635858.d.html",
+            "title": "特朗普：非常接近达成中东协议。",
+            "date_modified": "2025-10-08T20:54:58.000Z"
+        },
+        {
+            "id": 4423185,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfray1124627.d.html",
+            "title": "【节后新基金发售迎小高潮 A股市场增量资金在路上】基金公司冲刺四季度新基金发行收官。 国庆中秋“双节”后，新基金发行迎来发售高潮，基金管理人迎来本年最后的“决战季”。 Wind数据显示，10月9日当天共计有23只基金开启发售，定档10月份发行的新基金数量接近70只，其中不乏一些绩优基金经理挂帅的主动权益基金。 从新发基金类型看，主动权益基金、指数基金、含权债基成为发行主力，有望为权益市场持续带来增量资金。（证券时报）",
+            "date_modified": "2025-10-08T20:54:48.000Z"
+        },
+        {
+            "id": 4423184,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfray1124583.d.html",
+            "title": "【黄金价格涨超1.4%，白银涨超2%一度突破49美元】周三（10月8日）纽约尾盘，现货黄金涨1.44%，报4042.14美元/盎司，北京时间00:43涨至4059.31美元，创历史新高。COMEX黄金期货涨1.43%，报4061.70美元/盎司，亚太午盘以来持续高位震荡，00:42涨至4081.00美元创盘中历史新高，02:00美联储发布会议纪要后大致持稳。费城金银指数收涨2.96%，报309.12点，时隔一个交易日再创收盘历史新高。纽约证交所ARCA金矿开采商指数收涨2.08%，报2207.52点，也时隔一天再创收盘历史新高，21:30美股开盘之前大致持稳于2160点形成日内底部，之后跳空走高并持续高位震荡。现货白银涨2.09%，报48.8336美元/盎司，日内持续震荡走高，00:15涨至49.5510美元。",
+            "date_modified": "2025-10-08T20:52:20.000Z"
+        },
+        {
+            "id": 4423183,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfray1124570.d.html",
+            "title": "美国联邦航空管理局：罗纳德・里根机场因人员配备问题，地面延误平均达31分钟。",
+            "date_modified": "2025-10-08T20:51:41.000Z"
+        },
+        {
+            "id": 4423182,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfraw2635797.d.html",
+            "title": "特朗普：会考虑前往加沙。",
+            "date_modified": "2025-10-08T20:51:25.000Z"
+        },
+        {
+            "id": 4423181,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfrau9838510.d.html",
+            "title": "特朗普：我将前往中东。",
+            "date_modified": "2025-10-08T20:50:59.000Z"
+        },
+        {
+            "id": 4423180,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfraw2635785.d.html",
+            "title": "特朗普：（对于中东之行）我最有可能去埃及。",
+            "date_modified": "2025-10-08T20:50:46.000Z"
+        },
+        {
+            "id": 4423179,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfrau9838396.d.html",
+            "title": "【IMF总裁：全球经济的真正考验可能即将到来】国际货币基金组织（IMF）总裁格奥尔基耶娃8日在美国首都华盛顿非营利性智库米尔肯研究院发表讲话时说，全球经济好于预期，但没达到“所需水平”，“全球经济韧性尚未受到全面考验，而且有令人担忧的迹象表明真正的考验可能即将到来”。",
+            "date_modified": "2025-10-08T20:48:47.000Z"
+        },
+        {
+            "id": 4423178,
+            "content_html": "",
+            "title": "一份新报告称，近一半的美国医学院无视特朗普政府的政策，继续设立多元化、公平和包容性办公室。",
+            "date_modified": "2025-10-08T20:48:02.000Z"
+        },
+        {
+            "id": 4423177,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfray1124500.d.html",
+            "title": "市场资讯：哈马斯已同意一次性释放全部20名在世的人质。",
+            "date_modified": "2025-10-08T20:46:45.000Z"
+        },
+        {
+            "id": 4423176,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfraw2635667.d.html",
+            "title": "东京电力公司拟投入6.55亿美元以获取社区对核电站重启的支持。",
+            "date_modified": "2025-10-08T20:42:34.000Z"
+        },
+        {
+            "id": 4423175,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfray1124379.d.html",
+            "title": "联合国高级官员：因资金短缺，联合国将削减全球四分之一维和人员。",
+            "date_modified": "2025-10-08T20:38:55.000Z"
+        },
+        {
+            "id": 4423174,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfray1124353.d.html",
+            "title": "美国证交会调查麻省人寿保险公司的会计操作。",
+            "date_modified": "2025-10-08T20:37:59.000Z"
+        },
+        {
+            "id": 4423173,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfraw2635540.d.html",
+            "title": "好市多公布9月销售数据后，盘后股价上涨2.5%。",
+            "date_modified": "2025-10-08T20:36:51.000Z"
+        },
+        {
+            "id": 4423172,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfray1124292.d.html",
+            "title": "【国际油价8日上涨】截至当天收盘，纽约商品交易所11月交货的轻质原油期货价格上涨82美分，收于每桶62.55美元，涨幅为1.33%；12月交货的伦敦布伦特原油期货价格上涨80美分，收于每桶66.25美元，涨幅为1.22%。",
+            "date_modified": "2025-10-08T20:35:54.000Z"
+        },
+        {
+            "id": 4423171,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfraw2635520.d.html",
+            "title": "【美元指数8日上涨】衡量美元对六种主要货币的美元指数当天上涨0.34%，在汇市尾市收于98.915。截至纽约汇市尾市，1欧元兑换1.1620美元，低于前一交易日的1.1658美元；1英镑兑换1.3390美元，低于前一交易日的1.3430美元。1美元兑换152.70日元，高于前一交易日的151.83日元；1美元兑换0.8020瑞士法郎，高于前一交易日的0.7981瑞士法郎；1美元兑换1.3957加元，高于前一交易日的1.3951加元；1美元兑换9.4431瑞典克朗，高于前一交易日的9.4071瑞典克朗。",
+            "date_modified": "2025-10-08T20:35:43.000Z"
+        },
+        {
+            "id": 4423170,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfrau9837648.d.html",
+            "title": "特朗普：哥伦比亚广播公司有了“一位伟大的新主人”。",
+            "date_modified": "2025-10-08T20:33:36.000Z"
+        },
+        {
+            "id": 4423169,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfraw2635219.d.html",
+            "title": "美国已同意提供6.8亿美元作为联合国维和预算的一部分。",
+            "date_modified": "2025-10-08T20:30:15.000Z"
+        },
+        {
+            "id": 4423168,
+            "content_html": "",
+            "title": "好市多：9月份净销售额为265.8亿美元，同比增长8%，其中美国可比销售额增长5.1%，加拿大销售额增长6.3%，国际销售额增长8.5%。",
+            "date_modified": "2025-10-08T20:27:22.000Z"
+        },
+        {
+            "id": 4423167,
+            "content_html": "",
+            "title": "美国第九巡回上诉法院暂时中止因默格特法官禁止俄勒冈国民警卫队联邦化的指令，但该法官的另一项指令仍具有效力，即禁止联邦化部队在波特兰部署。",
+            "date_modified": "2025-10-08T20:26:06.000Z"
+        },
+        {
             "id": 4423166,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfraw2634870.d.html",
@@ -44,292 +347,6 @@
             "content_html": "",
             "title": "巴西财政部长哈达德：如果改变金融投资税收的措施未获批准，我将不得不与总统卢拉沟通。",
             "date_modified": "2025-10-08T20:14:37.000Z"
-        },
-        {
-            "id": 4423160,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfray1123559.d.html",
-            "title": "阿根廷利率飙升超80%，比索危机引发现金短缺。",
-            "date_modified": "2025-10-08T20:13:55.000Z"
-        },
-        {
-            "id": 4423159,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfraw2634765.d.html",
-            "title": "特朗普：芝加哥可以被拯救，其他城市已经没救了。",
-            "date_modified": "2025-10-08T20:12:22.000Z"
-        },
-        {
-            "id": 4423158,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfray1123511.d.html",
-            "title": "【安防服务公司Verisure首日上市大涨，为2022年以来欧洲最大规模IPO】安防服务集团Verisure Plc.周三首日上市股价大涨，此前其首次公开募股（IPO）融资约32亿欧元（约合37.2亿美元），成为三年来欧洲规模最大的IPO。该股周三在斯德哥尔摩收于每股16欧元，较发行价13.25欧元上涨21%。Verisure成为瑞典2000年以来规模最大的IPO，进一步巩固了这个北欧国家今年以来作为欧洲IPO首选市场的地位。欧洲IPO市场在经历多年低迷后正努力重聚动能，此次首日大涨为其他考虑上市的大型公司发出了积极信号。",
-            "date_modified": "2025-10-08T20:10:29.000Z"
-        },
-        {
-            "id": 4423157,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfraw2634719.d.html",
-            "title": "【俄罗斯就美国拟向乌克兰出售战斧导弹发出警告】俄罗斯就可能向乌克兰出售远程战斧导弹一事，向特朗普政府发出了升级警告，强调“局势升级到新的质的阶段”的风险，并强调需要美国人员操作这些武器。莫斯科已表示，如果乌克兰接收这些导弹，它将采取坚决且非对称的回应。",
-            "date_modified": "2025-10-08T20:09:17.000Z"
-        },
-        {
-            "id": 4423156,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfray1123442.d.html",
-            "title": "【今年8月赴美国际学生数量同比下降19%】美国国家旅游办公室的初步数据显示，8月份持学生签证抵达美国的国际学生数量与2024年同期相比下降了19%。",
-            "date_modified": "2025-10-08T20:06:40.000Z"
-        },
-        {
-            "id": 4423155,
-            "content_html": "",
-            "title": "哥伦比亚总统佩特罗称，最近在加勒比海被美国轰炸的船只属于哥伦比亚，船上载有哥伦比亚公民。",
-            "date_modified": "2025-10-08T20:06:08.000Z"
-        },
-        {
-            "id": 4423154,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfrau9835987.d.html",
-            "title": "AMD三日累计涨43%，创九年来最佳三日表现。",
-            "date_modified": "2025-10-08T20:02:44.000Z"
-        },
-        {
-            "id": 4423153,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfrau9835929.d.html",
-            "title": "【热门中概股周三多数上涨】周三热门中概股多数上涨，纳斯达克中国金龙指数涨0.87%。网易涨超2%，理想涨超1%，富途涨超4%，小鹏涨超2%，蔚来涨超4%，哔哩哔哩涨超2%。",
-            "date_modified": "2025-10-08T20:02:19.000Z"
-        },
-        {
-            "id": 4423152,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfrau9835711.d.html",
-            "title": "【美股三大指数涨跌不一】周三美股三大指数涨跌不一，参议院再次否决政府临时融资立法草案。道指跌1.20点，纳指涨1.12%，标普涨0.58%。英伟达涨超2%，亚马逊涨超1%，博通涨超2%，台积电涨超3%，特斯拉涨超1%，甲骨文涨超1%。",
-            "date_modified": "2025-10-08T20:01:00.000Z"
-        },
-        {
-            "id": 4423151,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfrau9835691.d.html",
-            "title": "纳指与标普500再创新高，纳指首次收在23000点上方。",
-            "date_modified": "2025-10-08T20:00:52.000Z"
-        },
-        {
-            "id": 4423150,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfrau9835515.d.html",
-            "title": "华纳兄弟探索公司与电影工作室负责人续签合同。",
-            "date_modified": "2025-10-08T19:58:59.000Z"
-        },
-        {
-            "id": 4423149,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfray1123141.d.html",
-            "title": "俄罗斯外长拉夫罗夫：特朗普的加沙计划是我们目前所看到的最佳方案。",
-            "date_modified": "2025-10-08T19:58:30.000Z"
-        },
-        {
-            "id": 4423148,
-            "content_html": "",
-            "title": "现货钯金日内大涨10%，最高报1476.28美元/盎司，创下2023年5月以来新高。",
-            "date_modified": "2025-10-08T19:53:57.000Z"
-        },
-        {
-            "id": 4423147,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfrau9835279.d.html",
-            "title": "爱丽舍宫：马克龙表示，有可能在12月31日之前完成预算。",
-            "date_modified": "2025-10-08T19:51:50.000Z"
-        },
-        {
-            "id": 4423146,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfrau9835254.d.html",
-            "title": "美国联邦调查局局长帕特尔：将前往国内每一座城市将罪犯绳之以法。",
-            "date_modified": "2025-10-08T19:51:16.000Z"
-        },
-        {
-            "id": 4423145,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfraw2634225.d.html",
-            "title": "爱丽舍宫：马克龙指出，大多数议员反对解散议会。",
-            "date_modified": "2025-10-08T19:51:01.000Z"
-        },
-        {
-            "id": 4423144,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfrau9835212.d.html",
-            "title": "爱丽舍宫：马克龙将在未来48小时内任命新总理。",
-            "date_modified": "2025-10-08T19:50:09.000Z"
-        },
-        {
-            "id": 4423142,
-            "content_html": "",
-            "title": "Penguin解决方案公司(PENG)尾盘重挫16.8%。该公司四季度营收未达预期且2026财年展望谨慎。",
-            "date_modified": "2025-10-08T19:49:10.000Z"
-        },
-        {
-            "id": 4423141,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfkuw9965930.d.html",
-            "title": "美国国土安全部长诺姆：俄勒冈州州长和波特兰市市长在掩盖正在发生的事情。",
-            "date_modified": "2025-10-08T19:47:17.000Z"
-        },
-        {
-            "id": 4423140,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfkva1253747.d.html",
-            "title": "美国司法部长邦迪：我们希望苹果和谷歌下架 “ICE Block” 类应用。",
-            "date_modified": "2025-10-08T19:46:49.000Z"
-        },
-        {
-            "id": 4423139,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfkuy2764958.d.html",
-            "title": "【特朗普：加沙停火协议“非常接近达成” 本周末或去中东】当地时间8日，美国总统特朗普表示，正在就加沙停火协议相关事宜进行交涉，该协议已经非常接近达成，与巴勒斯坦伊斯兰抵抗运动（哈马斯）的谈判“似乎进展顺利”。特朗普还称，他本周末可能前往中东，有可能是在12日。",
-            "date_modified": "2025-10-08T19:46:08.000Z"
-        },
-        {
-            "id": 4423138,
-            "content_html": "",
-            "title": "艾可菲公司(Equifax,EFX)上涨1.4%，此前该公司通过VantageScore降价与免费开放挑战FICO霸主地位 。",
-            "date_modified": "2025-10-08T19:44:54.000Z"
-        },
-        {
-            "id": 4423137,
-            "content_html": "",
-            "title": "美国司法部长邦迪：我们正在动用联邦执法部门的全部力量，打击“反法西斯行动”组织（Antifa）和其他国内恐怖组织。",
-            "date_modified": "2025-10-08T19:44:39.000Z"
-        },
-        {
-            "id": 4423136,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfkva1253624.d.html",
-            "title": "微软尾盘上涨0.2%。SWOT分析显示微软增长受云服务与AI扩张驱动。",
-            "date_modified": "2025-10-08T19:43:19.000Z"
-        },
-        {
-            "id": 4423135,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfkuy2764802.d.html",
-            "title": "英特尔上涨0.6%。汇丰银行因担忧交易驱动涨势不可持续下调英特尔评级。",
-            "date_modified": "2025-10-08T19:42:20.000Z"
-        },
-        {
-            "id": 4423134,
-            "content_html": "",
-            "title": "特斯拉尾盘上涨1.2%。该公司昨日推出低价版Model Y与Model 3，但分析师称定价仍偏高。",
-            "date_modified": "2025-10-08T19:41:11.000Z"
-        },
-        {
-            "id": 4423133,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfkuy2764681.d.html",
-            "title": "美国联邦法官正在考虑对谷歌搜索案采取补救措施。",
-            "date_modified": "2025-10-08T19:40:34.000Z"
-        },
-        {
-            "id": 4423132,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfkuw9965242.d.html",
-            "title": "特朗普：我们正在追查反法西斯行动组织（ANTIFA）。",
-            "date_modified": "2025-10-08T19:40:09.000Z"
-        },
-        {
-            "id": 4423131,
-            "content_html": "",
-            "title": "Meta Platform上涨0.7%。TD Cowen重申Meta目标股价875美元。",
-            "date_modified": "2025-10-08T19:40:02.000Z"
-        },
-        {
-            "id": 4423130,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfkuw9965201.d.html",
-            "title": "谷歌寻求将GEMINI AI应用与地图和YouTube捆绑销售的权利。",
-            "date_modified": "2025-10-08T19:39:52.000Z"
-        },
-        {
-            "id": 4423129,
-            "content_html": "",
-            "title": "国际货币基金组织（IMF）总裁格奥尔基耶娃：如果服务业通胀与关税更高的传导效应叠加，美国的通胀前景将更令人担忧。",
-            "date_modified": "2025-10-08T19:39:07.000Z"
-        },
-        {
-            "id": 4423128,
-            "content_html": "",
-            "title": "国际货币基金组织（IMF）总裁格奥尔基耶娃：IMF认为美国联邦储备委员会有进一步实施货币宽松政策的可能性。",
-            "date_modified": "2025-10-08T19:38:58.000Z"
-        },
-        {
-            "id": 4423127,
-            "content_html": "",
-            "title": "国际货币基金组织（IMF）总裁格奥尔基耶娃：相信美联储正在谨慎权衡促进经济增长前景和遏制通胀停滞之间的关系。",
-            "date_modified": "2025-10-08T19:38:46.000Z"
-        },
-        {
-            "id": 4423126,
-            "content_html": "",
-            "title": "国际货币基金组织（IMF）总裁格奥尔基耶娃：我们需要继续关注消费品行业低端领域的通胀发展情况。",
-            "date_modified": "2025-10-08T19:38:38.000Z"
-        },
-        {
-            "id": 4423125,
-            "content_html": "",
-            "title": "英伟达首席执行官黄仁勋称AMD向OpenAI提出10%股权收购\"出人意料但很精明\"。",
-            "date_modified": "2025-10-08T19:38:30.000Z"
-        },
-        {
-            "id": 4423124,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfkuy2764417.d.html",
-            "title": "【美国伊利诺伊州州长：联邦政府未就“派兵”计划与其沟通】当地时间8日，美国伊利诺伊州州长普里茨克表示，美国联邦政府没有以任何方式与其沟通军队调动事宜。美联储卡什卡利：",
-            "date_modified": "2025-10-08T19:38:26.000Z"
-        },
-        {
-            "id": 4423123,
-            "content_html": "",
-            "title": "Marex集团(MRX)股价大涨11.7%，此前该公司报告三季度营收与每股收益指引超预期。",
-            "date_modified": "2025-10-08T19:37:33.000Z"
-        },
-        {
-            "id": 4423122,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfkuy2764350.d.html",
-            "title": "巴拿马运河在2025财年的收入增长了14%，达到57.05亿巴波亚。",
-            "date_modified": "2025-10-08T19:37:06.000Z"
-        },
-        {
-            "id": 4423121,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfkuw9964627.d.html",
-            "title": "特朗普：我们将对反法西斯激进组织（ANTIFA）发出威胁。",
-            "date_modified": "2025-10-08T19:36:40.000Z"
-        },
-        {
-            "id": 4423120,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfkuw9964512.d.html",
-            "title": "再生元制药公司股价延续跌势，最新报每股566.85美元，下跌2.8%。",
-            "date_modified": "2025-10-08T19:35:35.000Z"
-        },
-        {
-            "id": 4423119,
-            "content_html": "",
-            "title": "Figma(FIG)股价飙升13.9%，此前OpenAI发布会重点展示新款应用集成功能。",
-            "date_modified": "2025-10-08T19:35:14.000Z"
-        },
-        {
-            "id": 4423118,
-            "content_html": "",
-            "title": "巴拿马运河管理局称，2025财年全年通行船只数量达13404艘，同比增长19.3%。",
-            "date_modified": "2025-10-08T19:34:36.000Z"
-        },
-        {
-            "id": 4423117,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-09/detail-inftfkuw9964182.d.html",
-            "title": "【巴西圣保罗一餐厅建筑物部分坍塌 致1死5伤】当地时间10月8日中午，巴西圣保罗贝拉维斯塔区一餐厅建筑物部分坍塌，共有6人被压在坍塌物下。其中一名女子死亡，另5人受伤被送往附近医院。",
-            "date_modified": "2025-10-08T19:33:34.000Z"
         }
     ]
 }
