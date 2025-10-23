@@ -4,298 +4,301 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Thu, 23 Oct 2025 17:21:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Oct 2025 18:34:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[周四（10月23日），韩元兑美元最终跌0.47%，报1437.59韩元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxine7519283.d.html</link>
-            <guid>4450929</guid>
-            <pubDate>Thu, 23 Oct 2025 17:20:58 GMT</pubDate>
+            <title><![CDATA[NYMEX 11月汽油期货收报1.9269美元/加仑，NYMEX 11月取暖油期货收报2.4030美元/加仑。]]></title>
+            <guid>4451018</guid>
+            <pubDate>Thu, 23 Oct 2025 18:31:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：医疗保健公司安瑟布尔健康（Ensemble Health）已聘请摩根大通，计划在2026年进行一笔价值130亿美元的出售交易或首次公开募股（IPO）。]]></title>
-            <guid>4450928</guid>
-            <pubDate>Thu, 23 Oct 2025 17:19:57 GMT</pubDate>
+            <title><![CDATA[WTI原油期货结算价报每桶61.79美元，上涨3.29美元，涨幅5.62%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxina9035553.d.html</link>
+            <guid>4451017</guid>
+            <pubDate>Thu, 23 Oct 2025 18:31:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[周四（10月23日），美联储隔夜逆回购协议（RRP）使用规模为69.41亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuximz6587375.d.html</link>
-            <guid>4450926</guid>
-            <pubDate>Thu, 23 Oct 2025 17:16:20 GMT</pubDate>
+            <title><![CDATA[美国内政部：正在将油气租赁权归还给阿拉斯加工业发展与出口管理局。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxina9035532.d.html</link>
+            <guid>4451016</guid>
+            <pubDate>Thu, 23 Oct 2025 18:31:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特斯拉股价涨幅扩大，最新上涨2.1%]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuximx1923388.d.html</link>
-            <guid>4450921</guid>
-            <pubDate>Thu, 23 Oct 2025 17:12:55 GMT</pubDate>
+            <title><![CDATA[上期所原油期货2510合约夜盘收涨3.48%，报469.80元人民币/桶。沪金夜盘收涨1.56%，沪银收涨1.48%。]]></title>
+            <guid>4451015</guid>
+            <pubDate>Thu, 23 Oct 2025 18:30:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美、布两油短线下挫近0.5美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuximz6587087.d.html</link>
-            <guid>4450920</guid>
-            <pubDate>Thu, 23 Oct 2025 17:12:51 GMT</pubDate>
+            <title><![CDATA[【美国加州亿万富翁或面临一次性5%财富税】美国加州的亿万富翁将面临一次性5%的财富税，支持者称这一措施可能为该州医疗保健成本筹集约1000亿美元。这一提案面临重大挑战，但若通过，计划将针对约200名身价10亿美元或以上的加州居民。全球前十富翁中有四位居住在加州：Meta创始人马克·扎克伯格、英伟达创始人黄仁勋、以及谷歌创始人拉里·佩奇和谢尔盖·布林，四人财富总和超过8400亿美元。若按当前估值计算，仅他们四人可能就需缴纳超过400亿美元的税款。要将这一提案纳入2026年11月的选举票选，倡导者需收集超过87万个签名。周三提交的选举提案文本还需由加州总检察长审查，并经过30天的公众审议。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxina9035424.d.html</link>
+            <guid>4451013</guid>
+            <pubDate>Thu, 23 Oct 2025 18:28:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【OpenAI收购苹果前员工创立的AI初创公司】OpenAI已收购了初创公司Software Applications，该公司开发了一个为Mac桌面提供AI驱动用户界面的应用程序。Software Applications由一群前苹果公司员工创立于2023年，其中一些人曾参与iPhone“快捷指令”应用技术的开发。OpenAI计划将该初创公司的技术整合到ChatGPT中，并吸收其大约12人的整个团队。Software Applications此前从一批知名投资者那里筹集了650万美元的资金，包括OpenAI首席执行官Sam Altman和Figma首席执行官Dylan Field。今年早些时候，Software Applications发布了Sky，这是一款旨在帮助用户执行操作或回答问题的AI助手。该功能包括一个浮动界面，能够理解用户屏幕上的内容。Sky目前尚未对外公开。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuximz6587030.d.html</link>
-            <guid>4450918</guid>
-            <pubDate>Thu, 23 Oct 2025 17:11:49 GMT</pubDate>
+            <title><![CDATA[【普京：美国新制裁不会对俄罗斯经济产生重大影响】俄罗斯总统普京23日接受媒体采访时表示，美国对俄罗斯实施新制裁旨在对俄施压，但不会对俄罗斯经济产生重大影响。普京说，美国新制裁显然是不友好举动，无助于加强刚开始恢复的俄美关系。他强调，俄罗斯始终支持继续对话。同时他认为，如果俄美能“就包括经济领域在内的长远未来展开严肃探讨，双方将在诸多领域拥有合作空间”。就美国总统特朗普关于美俄领导人会晤的最新言论，普京说，他与特朗普16日通话时，是特朗普本人提议举行会晤，地点选在匈牙利首都布达佩斯也是特朗普提议。普京表示，如果在没有充分准备的情况下草率对待此次会晤、致使会晤无法取得预期成果，将是一个错误。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxina9035265.d.html</link>
+            <guid>4451008</guid>
+            <pubDate>Thu, 23 Oct 2025 18:26:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[科威特石油部长：如果被（美国总统特朗普提出）要求，石油输出国组织（OPEC）准备增产石油。]]></title>
-            <guid>4450915</guid>
-            <pubDate>Thu, 23 Oct 2025 17:10:15 GMT</pubDate>
+            <title><![CDATA[中国地震台网正式测定：10月24日02时19分在新疆喀什地区伽师县（北纬39.57度，东经77.39度）发生4.0级地震，震源深度40千米。]]></title>
+            <guid>4451007</guid>
+            <pubDate>Thu, 23 Oct 2025 18:26:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：日本首相高市早苗计划于10月25日左右与美国总统特朗普通话。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuximx1922846.d.html</link>
-            <guid>4450913</guid>
-            <pubDate>Thu, 23 Oct 2025 17:05:50 GMT</pubDate>
+            <title><![CDATA[美国参议院民主党人阻止了共和党提出的一项法案，该法案旨在美国政府停摆期间为军人和一些联邦员工支付薪水。]]></title>
+            <guid>4451006</guid>
+            <pubDate>Thu, 23 Oct 2025 18:24:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[亚马逊：将“职业选择”计划扩展至美国所有受薪员工（四级及以上职级）。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxina9029457.d.html</link>
-            <guid>4450912</guid>
-            <pubDate>Thu, 23 Oct 2025 17:05:39 GMT</pubDate>
+            <title><![CDATA[【NBA教练与球员遭联邦指控】美国联邦调查局局长卡什·帕特尔10月23日证实，美国职业篮球联赛（NBA）名人堂球员、波特兰开拓者队主教练昌西·比卢普斯，以及迈阿密热火队后卫特里·罗齐尔等30多人遭指控。这些人涉及两起相互关联但各自独立的联邦调查赌博案件，案件波及NBA及有组织犯罪集团。（CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuximz6591664.d.html</link>
+            <guid>4450999</guid>
+            <pubDate>Thu, 23 Oct 2025 18:16:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特朗普：旧金山在打击犯罪方面齐心协力。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxina9029425.d.html</link>
-            <guid>4450911</guid>
-            <pubDate>Thu, 23 Oct 2025 17:05:19 GMT</pubDate>
+            <title><![CDATA[哥伦比亚总统：特朗普不太可能对石油加征关税，哥伦比亚可以减轻其对其他出口产品的影响。]]></title>
+            <guid>4450998</guid>
+            <pubDate>Thu, 23 Oct 2025 18:15:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特朗普：昨晚与卢里市长进行了交谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuximx1922756.d.html</link>
-            <guid>4450910</guid>
-            <pubDate>Thu, 23 Oct 2025 17:04:47 GMT</pubDate>
+            <title><![CDATA[【法塔赫与哈马斯在开罗会谈 讨论加沙战后安排事宜】当地时间23日，由哈利勒·哈亚率领的巴勒斯坦伊斯兰抵抗运动（哈马斯）代表团与由巴勒斯坦副总统侯赛因率领的巴勒斯坦民族解放运动（法塔赫）代表团在开罗举行会晤，讨论巴勒斯坦总体局势以及加沙地带在战争结束后的具体安排事宜。据悉，巴勒斯坦各派别当天在开罗举行会谈，以就加沙地带停火第二阶段等问题达成巴勒斯坦内部共识。埃及情报总局局长拉沙德当天会见了侯赛因，以推动埃及为结束加沙地带危机所做的努力。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuximz6591466.d.html</link>
+            <guid>4450997</guid>
+            <pubDate>Thu, 23 Oct 2025 18:13:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特朗普：我们周六不会增派力量前往旧金山。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuximz6586376.d.html</link>
-            <guid>4450908</guid>
-            <pubDate>Thu, 23 Oct 2025 17:04:22 GMT</pubDate>
+            <title><![CDATA[美国天然气期货日内跌超3.00%，现报3.346美元/百万英热。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuximx1927736.d.html</link>
+            <guid>4450995</guid>
+            <pubDate>Thu, 23 Oct 2025 18:13:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：美国、卡塔尔将填补欧盟禁止进口俄罗斯液化天然气后的供应缺口。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuximz6586360.d.html</link>
-            <guid>4450907</guid>
-            <pubDate>Thu, 23 Oct 2025 17:04:10 GMT</pubDate>
+            <title><![CDATA[【特朗普称将取消向旧金山派出国民警卫队】当地时间10月23日，美国总统特朗普发文表示，22日晚他与旧金山市长丹尼尔·卢里进行了电话交谈，并表示他将取消向旧金山派出国民警卫队的计划。旧金山是加利福尼亚州北部重要经济和文化中心。特朗普19日说，他将向旧金山派出国民警卫队，声称要拯救这座“曾经伟大”的城市。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxina9034415.d.html</link>
+            <guid>4450991</guid>
+            <pubDate>Thu, 23 Oct 2025 18:12:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[亚马逊：扩大技能培训目标，投资25亿美元帮助5000万人为未来职场做好准备。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxcee9160082.d.html</link>
-            <guid>4450906</guid>
-            <pubDate>Thu, 23 Oct 2025 17:03:47 GMT</pubDate>
+            <title><![CDATA[花旗首席技术官：拥有人工智能使用权限的员工中，60% 为高频使用者。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxina9034362.d.html</link>
+            <guid>4450989</guid>
+            <pubDate>Thu, 23 Oct 2025 18:11:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[OpenAI：已收购软件应用公司（Software Applications）。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxcee9160059.d.html</link>
-            <guid>4450905</guid>
-            <pubDate>Thu, 23 Oct 2025 17:03:29 GMT</pubDate>
+            <title><![CDATA[特朗普政府宣布开放阿拉斯加沿海平原进行石油钻探。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxina9034321.d.html</link>
+            <guid>4450988</guid>
+            <pubDate>Thu, 23 Oct 2025 18:10:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国财政部拍卖260亿美元五年期通胀保值国债（TIPS），得标利率1.182%，投标倍数2.51。]]></title>
-            <guid>4450901</guid>
-            <pubDate>Thu, 23 Oct 2025 17:02:43 GMT</pubDate>
+            <title><![CDATA[白宫：宴会厅建设成本为3亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxina9034173.d.html</link>
+            <guid>4450985</guid>
+            <pubDate>Thu, 23 Oct 2025 18:06:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国际铜夜盘收涨1.38%】国际铜夜盘收涨1.38%，沪铜收涨1.34%，沪铝收涨0.64%，沪锌收涨0.72%，沪铅收涨0.52%，沪镍收涨0.80%，沪锡收涨1.01%。氧化铝夜盘收跌0.07%。不锈钢夜盘收涨0.75%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxcec6716782.d.html</link>
-            <guid>4450900</guid>
-            <pubDate>Thu, 23 Oct 2025 17:01:21 GMT</pubDate>
+            <title><![CDATA[弗吉尼亚州州长宣布进入紧急状态，以在联邦政府停摆期间加快食品援助发放。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxine7522874.d.html</link>
+            <guid>4450981</guid>
+            <pubDate>Thu, 23 Oct 2025 18:05:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储：截至10月22日当周，美国经季节性调整的未偿还商业票据增加91亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxceh7648514.d.html</link>
-            <guid>4450899</guid>
-            <pubDate>Thu, 23 Oct 2025 17:00:56 GMT</pubDate>
+            <title><![CDATA[白宫就俄罗斯制裁问题表态：是否实施更多制裁由特朗普决定。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxina9034034.d.html</link>
+            <guid>4450978</guid>
+            <pubDate>Thu, 23 Oct 2025 18:03:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储：截至10月22日当周，美国未经季节性调整的未到期商业票据增加239亿美元。]]></title>
-            <guid>4450897</guid>
-            <pubDate>Thu, 23 Oct 2025 17:00:47 GMT</pubDate>
+            <title><![CDATA[白宫：制裁给俄罗斯带来了很大压力。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuximz6590943.d.html</link>
+            <guid>4450977</guid>
+            <pubDate>Thu, 23 Oct 2025 18:03:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储：截至10月22日当周，美国未经季节性调整的外国金融商业票据未偿余额增加24亿美元。]]></title>
-            <guid>4450896</guid>
-            <pubDate>Thu, 23 Oct 2025 17:00:36 GMT</pubDate>
+            <title><![CDATA[白宫：政府将继续关注旧金山。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxine7522656.d.html</link>
+            <guid>4450976</guid>
+            <pubDate>Thu, 23 Oct 2025 18:01:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【欧盟国防委员提议使用防务投资计划资金支持乌克兰】欧盟国防委员Andrius Kubilius表示，欧盟国家应当使用其1500亿欧元投资计划中的资金支持乌克兰的防务产业。Kubilius表示，一些国家已通知欧盟委员会，它们准备使用欧洲安全行动计划（SAFE）中的贷款来支持乌克兰。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxceh7648505.d.html</link>
-            <guid>4450895</guid>
-            <pubDate>Thu, 23 Oct 2025 17:00:16 GMT</pubDate>
+            <title><![CDATA[白宫：美国国务卿鲁比奥和俄罗斯外长拉夫罗夫的通话并非实施新制裁的唯一原因。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuximz6590583.d.html</link>
+            <guid>4450975</guid>
+            <pubDate>Thu, 23 Oct 2025 17:58:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【夜盘期货收盘】国际铜夜盘收涨1.38%，沪铜收涨1.34%，沪铝收涨0.64%，沪锌收涨0.72%，沪铅收涨0.52%，沪镍收涨0.80%，沪锡收涨1.01%。氧化铝夜盘收跌0.07%，铝合金收涨0.53%。不锈钢夜盘收涨0.75%。]]></title>
-            <guid>4450894</guid>
-            <pubDate>Thu, 23 Oct 2025 17:00:02 GMT</pubDate>
+            <title><![CDATA[美国国务卿鲁比奥：美国对加沙停火进展充满信心。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuximx1926804.d.html</link>
+            <guid>4450973</guid>
+            <pubDate>Thu, 23 Oct 2025 17:56:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[乌克兰总理：为应对供暖季，乌克兰将通过紧急资金拨款2亿美元用于天然气进口。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxcee9159143.d.html</link>
-            <guid>4450891</guid>
-            <pubDate>Thu, 23 Oct 2025 16:55:33 GMT</pubDate>
+            <title><![CDATA[布伦特原油期货涨幅收窄至5%，报65.73美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuximx1926754.d.html</link>
+            <guid>4450972</guid>
+            <pubDate>Thu, 23 Oct 2025 17:55:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【LME金属期货收盘涨跌不一】LME期铜收涨192美元，报10854美元/吨。LME期铝收涨56美元，报2862美元/吨。LME期锌收跌12美元，报3018美元/吨。LME期铅收涨20美元，报2010美元/吨。LME期镍收涨200美元，报15363美元/吨。LME期锡收涨408美元，报35772美元/吨。LME期钴收平美元，报48570美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxccz2051745.d.html</link>
-            <guid>4450890</guid>
-            <pubDate>Thu, 23 Oct 2025 16:54:45 GMT</pubDate>
+            <title><![CDATA[白宫：特朗普对乌克兰和俄罗斯越来越失望。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuximz6590436.d.html</link>
+            <guid>4450971</guid>
+            <pubDate>Thu, 23 Oct 2025 17:55:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国际残奥委会：俄罗斯运动员无法参加2026年冬残奥会】当地时间23日，国际残奥委会向俄罗斯塔斯社证实，由于无法按时参加资格赛，俄罗斯运动员将不能参加2026年米兰-科尔蒂纳冬残奥会。此届残奥会定于2026年3月6日至15日在意大利举行。国际残奥委会主席安德鲁·帕森斯表示，国际滑雪和单板滑雪联合会（FIS）、国际冬季两项联盟（IBU）及世界冰壶联合会目前的立场，意味着俄罗斯与白俄罗斯运动员无法参加其主办的赛事，这也导致他们失去2026年冬残奥会这些项目的参赛资格。尽管俄白两国代表队现可参加残奥冰球项目，但目前已经是资格赛的后期阶段，参加11月残奥会资格赛的6支队伍名单已确定。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxceh7647769.d.html</link>
-            <guid>4450889</guid>
-            <pubDate>Thu, 23 Oct 2025 16:54:35 GMT</pubDate>
+            <title><![CDATA[哥伦比亚总统：特朗普削减援助不会产生任何影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxine7522355.d.html</link>
+            <guid>4450970</guid>
+            <pubDate>Thu, 23 Oct 2025 17:55:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧盟国防委员库比利乌斯：希望欧盟成员国通过安全计划帮助乌克兰。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxccz2050800.d.html</link>
-            <guid>4450883</guid>
-            <pubDate>Thu, 23 Oct 2025 16:47:33 GMT</pubDate>
+            <title><![CDATA[【阿根廷总统任命新外长】阿根廷总统府23日发布公告，宣布总统米莱任命经济学家巴勃罗·基尔诺为外交、国际贸易与宗教事务部长，接替将于27日正式离任的赫拉尔多·韦特海因。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuximz6590377.d.html</link>
+            <guid>4450969</guid>
+            <pubDate>Thu, 23 Oct 2025 17:54:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[国际铅锌研究小组（ILZSG）称，全球铅市场8月转为供应短缺。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxcec6714462.d.html</link>
-            <guid>4450881</guid>
-            <pubDate>Thu, 23 Oct 2025 16:47:21 GMT</pubDate>
+            <title><![CDATA[白宫：与普京会面并非完全没有可能。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuximz6590334.d.html</link>
+            <guid>4450967</guid>
+            <pubDate>Thu, 23 Oct 2025 17:53:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【苹果被英国法院裁定收取过高佣金 或面临逾15亿英镑赔偿】苹果在英国输掉了一宗集体诉讼，法院裁定其利用市场主导地位向应用开发者收取过高佣金。竞争上诉法庭周四裁定，苹果未能证明其行为的合理性，必须就过高的佣金支付赔偿。此次诉讼指控，数百万iPhone和iPad用户因苹果在其App Store上进行购买时收取“过高”佣金而受害。苹果否认了这些指控。本案的主要原告Rachael Kent于2021年提起诉讼，她和她的律师估计，苹果可能需要支付超过15亿英镑（约142.38亿元）的赔偿金，以补偿自2015年10月以来在其设备上购买应用或订阅的约2000万名英国用户。苹果发言人表示，此裁决忽视了App Store如何帮助开发者成功。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxceh7646140.d.html</link>
-            <guid>4450879</guid>
-            <pubDate>Thu, 23 Oct 2025 16:43:56 GMT</pubDate>
+            <title><![CDATA[白宫：特朗普认为俄罗斯在推动和平方面行动不足。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuximz6590328.d.html</link>
+            <guid>4450966</guid>
+            <pubDate>Thu, 23 Oct 2025 17:53:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特斯拉股价转涨，扭转了一度高达5.7%的跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxccz2049979.d.html</link>
-            <guid>4450878</guid>
-            <pubDate>Thu, 23 Oct 2025 16:40:44 GMT</pubDate>
+            <title><![CDATA[周四（10月23日）欧市尾盘，ICE英国天然气期货涨2.24%，TTF基准荷兰天然气期货涨1.33%，ICE欧盟碳排放交易许可（期货价格）跌0.28%。]]></title>
+            <guid>4450964</guid>
+            <pubDate>Thu, 23 Oct 2025 17:52:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中东股市收盘播报｜沙特阿美本周累计上涨2.2%】周四（10月23日），沙特证交所全股指数收涨0.22%，报11611.68点，本周（连续五个自然日）累计下跌0.73%，19-21日持续下挫，之后有所反弹。沙特阿美（ARAMCO.AB）收跌0.46%，报25.86沙特里亚尔，在10月22日飙涨3.75%之后略微回吐涨幅，本周累涨2.21%。在沙特上市的Albilad南方东英MSCI香港中国股票ETF收跌1.37%，本周累跌1.39%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxcee9156493.d.html</link>
-            <guid>4450874</guid>
-            <pubDate>Thu, 23 Oct 2025 16:38:11 GMT</pubDate>
+            <title><![CDATA[市场消息：美国考虑出台加沙援助计划，该计划可能取代加沙人道主义基金会，但在部分运作方式上与该基金会类似。]]></title>
+            <guid>4450963</guid>
+            <pubDate>Thu, 23 Oct 2025 17:50:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[加拿大联邦政府和安大略省向小型模块化反应堆（SMRs）承诺，将投资30亿加元（折合21亿美元）。]]></title>
-            <guid>4450873</guid>
-            <pubDate>Thu, 23 Oct 2025 16:37:54 GMT</pubDate>
+            <title><![CDATA[比特币升破111000美元，日内涨3.34%。]]></title>
+            <guid>4450961</guid>
+            <pubDate>Thu, 23 Oct 2025 17:48:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[孩之宝首席执行官：由于宏观经济和贸易不确定性，零售商推迟了订单。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxcec6712649.d.html</link>
-            <guid>4450872</guid>
-            <pubDate>Thu, 23 Oct 2025 16:31:44 GMT</pubDate>
+            <title><![CDATA[比特币升破111000美元，日内涨3.34%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuximx1926238.d.html</link>
+            <guid>4450960</guid>
+            <pubDate>Thu, 23 Oct 2025 17:48:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[旧金山市长称特朗普取消联邦部队部署。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxceh7644066.d.html</link>
-            <guid>4450871</guid>
-            <pubDate>Thu, 23 Oct 2025 16:30:50 GMT</pubDate>
+            <title><![CDATA[纳斯达克中国金龙指数涨超2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxine7521873.d.html</link>
+            <guid>4450958</guid>
+            <pubDate>Thu, 23 Oct 2025 17:47:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据挪威电视台TV2援引运营商康菲石油公司消息报道，北海埃科菲斯克2/4 K油气平台已停产。]]></title>
-            <guid>4450869</guid>
-            <pubDate>Thu, 23 Oct 2025 16:23:33 GMT</pubDate>
+            <title><![CDATA[【中方希望加沙实现永久停火】当地时间10月23日上午，联合国安理会就巴以问题举行公开会。中国常驻联合国代表傅聪大使在会前表示，中方欢迎加沙停火第一阶段协议的达成，希望能最终实现永久停火。傅聪大使还表示，希望安理会能发挥作用，通过决议来支持停火，并就实现“两国方案”以及稳定部队等问题达成共识。（CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuximx1926143.d.html</link>
+            <guid>4450957</guid>
+            <pubDate>Thu, 23 Oct 2025 17:47:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中长期德债收益率涨2个基点】周四（10月23日）欧市尾盘，德国10年期国债收益率上涨2.0个基点，报2.583%，日内交投于2.569%-2.583%区间。两年期德债收益率涨1.7个基点，报1.926%，日内交投于1.910%-1.927%区间；30年期德债收益率涨2.0个基点，报3.168%。2/10年期德债收益率利差涨0.309个基点，报+65.523个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxceh7642679.d.html</link>
-            <guid>4450868</guid>
-            <pubDate>Thu, 23 Oct 2025 16:21:58 GMT</pubDate>
+            <title><![CDATA[【美国白宫东翼已被彻底拆除】当地时间10月23日，记者获悉，美国白宫东翼已被彻底拆除。美国总统特朗普20日说，在白宫东翼楼修建豪华宴会厅的工程已开工。据外媒报道，工程预计耗资约2.5亿美元。媒体曝光画面显示，当日白宫东翼部分建筑的拆除工作已经开始。特朗普政府此前表示，该宴会厅将由特朗普和其他私人捐助者出资建造。据特朗普介绍，宴会厅面积达8300多平方米，可容纳约1000名宾客，将取代往常在白宫南草坪搭建的临时帐篷，举行一些大型活动。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxina9032943.d.html</link>
+            <guid>4450956</guid>
+            <pubDate>Thu, 23 Oct 2025 17:46:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[费城半导体指数上涨2.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxceh7641737.d.html</link>
-            <guid>4450867</guid>
-            <pubDate>Thu, 23 Oct 2025 16:15:42 GMT</pubDate>
+            <title><![CDATA[白宫就赦免币安（Binance）创始人赵长鹏及特朗普家族加密货币相关事宜表态：特朗普正在行使宪法赋予的特赦权力。]]></title>
+            <guid>4450955</guid>
+            <pubDate>Thu, 23 Oct 2025 17:44:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【欧盟在被冻结俄资产援乌上分歧难解】10月23日，欧盟各国领导人在布鲁塞尔举行会议，将继续讨论是否同意动用被冻结的俄罗斯央行资产向乌克兰提供贷款。据多国主流媒体报道，围绕计划可能面临的法律和金融风险、以及如何具体执行，各国仍存在很多分歧。即便会议最终批准欧盟委员会为该计划起草正式提案，仍需至少几个月的时间来讨论相关细节。（CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxccz2047175.d.html</link>
-            <guid>4450866</guid>
-            <pubDate>Thu, 23 Oct 2025 16:15:34 GMT</pubDate>
+            <title><![CDATA[白宫就赦免币安创始人赵长鹏一事表态：白宫法律顾问已对赦免事宜进行审查。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxine7521595.d.html</link>
+            <guid>4450954</guid>
+            <pubDate>Thu, 23 Oct 2025 17:44:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[喜力首席执行官：不太可能出售我们旗下的任何品牌，但可能会让一些品牌逐渐消失。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxcee9152728.d.html</link>
-            <guid>4450865</guid>
-            <pubDate>Thu, 23 Oct 2025 16:14:08 GMT</pubDate>
+            <title><![CDATA[白宫就赦免币安创始人赵长鹏一事表态：此案存在过度执法情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxina9032772.d.html</link>
+            <guid>4450953</guid>
+            <pubDate>Thu, 23 Oct 2025 17:43:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[喜力首席执行官：我们可能会关闭欧洲的更多啤酒厂，同时对其他啤酒厂进行投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxcec6710750.d.html</link>
-            <guid>4450864</guid>
-            <pubDate>Thu, 23 Oct 2025 16:14:04 GMT</pubDate>
+            <title><![CDATA[【赵长鹏感谢获得特朗普赦免 承诺将帮助美国成为全球加密货币之都】币安联合创始人赵长鹏在社交平台X上发文称，他“对今天获得赦免深表感激”。他还表示，“我们将尽一切努力帮助美国成为全球加密货币之都，并推动Web3在全球的发展”。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuximx1925432.d.html</link>
+            <guid>4450952</guid>
+            <pubDate>Thu, 23 Oct 2025 17:40:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[喜力首席执行官：美国关税正在损害我们在美国的盈利能力，因为与当地竞争对手相比，我们无法提高价格。]]></title>
-            <guid>4450863</guid>
-            <pubDate>Thu, 23 Oct 2025 16:14:02 GMT</pubDate>
+            <title><![CDATA[富时A50夜期涨幅重新迅速扩大至0.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxina9032300.d.html</link>
+            <guid>4450951</guid>
+            <pubDate>Thu, 23 Oct 2025 17:40:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[喜力首席执行官：为应对美国关税而进行的任何生产转移都尚需时日。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxcee9152702.d.html</link>
-            <guid>4450862</guid>
-            <pubDate>Thu, 23 Oct 2025 16:13:56 GMT</pubDate>
+            <title><![CDATA[美股三大股指走高，纳指涨超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuximx1925291.d.html</link>
+            <guid>4450950</guid>
+            <pubDate>Thu, 23 Oct 2025 17:39:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯梅德韦杰夫：对外劳务移民领域的权力将移交给内务部。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxcee9152049.d.html</link>
-            <guid>4450861</guid>
-            <pubDate>Thu, 23 Oct 2025 16:10:13 GMT</pubDate>
+            <title><![CDATA[纳斯达克金龙中国指数短线拉升，日内涨幅扩大至将近1.9%，刷新日高。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxine7520926.d.html</link>
+            <guid>4450949</guid>
+            <pubDate>Thu, 23 Oct 2025 17:38:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：Rigetti Computing Inc.称与美国（特朗普政府）洽谈量子项目融资。]]></title>
-            <guid>4450860</guid>
-            <pubDate>Thu, 23 Oct 2025 16:08:03 GMT</pubDate>
+            <title><![CDATA[【交易数量和规模齐攀升 私募股权S交易迎三大变局】“2024年国内私募股权二级市场（S市场）共发生交易395笔，交易规模1078亿元，同比提升46%。2025年上半年交易笔数进一步攀升至542笔，已经超过2024年全年交易笔数，交易规模为784亿元。”日前，执中联合相关机构共同发布的《中国私募股权二级市场白皮书2025》显示，近五年，中国私募股权二级市场交易在交易比数和交易规模上都逐年攀升，买方卖方需求强烈，市场生态也逐渐完善。私募股权S交易，是当前一级市场退出难度上升、退出周期持续拉长的背景下，主动管理资产、实现价值最大化的重要举措。根据执中ZERONE统计，2011年至2025年上半年共备案了7.1万只私募股权投资基金，其中存续基金5.7万只，清算及注销的备案基金约1.4万只，约有80%基金仍在继续运作中。根据基金普遍存续期计算，成立时间在2011年—2020年之间的基金目前正处于退出期，该时间段内共有备案基金约4.3万只，其中清算及注销的备案基金约1.2万只，仍在运作的基金为3万只，也就是说，仍有71%的退出期基金未实现退出。该部分存续基金共投资项目超10万个，去重后共涉及未上市企业超4万家。尽管行业积极探索S交易，但此前常“雷声大雨点小”，落地难度大。记者仔细研读这份报告发现，中国私募股权领域的S交易呈现出新景象，体现在三大变化和趋势，也正是这些变化，给予了S交易市场更积极的信号和信心。 (证券时报)]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxine7520853.d.html</link>
+            <guid>4450948</guid>
+            <pubDate>Thu, 23 Oct 2025 17:37:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国国务卿鲁比奥：以色列已获得美国坚定承诺其安全的确认，并与合作伙伴沟通以落实历史性和平计划。]]></title>
-            <guid>4450859</guid>
-            <pubDate>Thu, 23 Oct 2025 16:06:03 GMT</pubDate>
+            <title><![CDATA[欧盟领导人就气候问题达成协议保持经济竞争力。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxine7520818.d.html</link>
+            <guid>4450947</guid>
+            <pubDate>Thu, 23 Oct 2025 17:37:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[微软：使用Azure存储迁移器实现从亚马逊云服务（AWS）S3到Azure Blob存储的云到云迁移正式可用。]]></title>
-            <guid>4450858</guid>
-            <pubDate>Thu, 23 Oct 2025 16:05:29 GMT</pubDate>
+            <title><![CDATA[白宫新闻秘书莱维特：特朗普周三将与韩国领导人会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuximx1924748.d.html</link>
+            <guid>4450945</guid>
+            <pubDate>Thu, 23 Oct 2025 17:34:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【委内瑞拉沿海五州启动“独立海岸200”防御演习】当地时间23日，委内瑞拉沿海五个州启动“独立海岸200”防御演习，以应对可能的外国军事威胁，维护国家主权和领土完整。演习首先在该国中北部卡拉沃沃州沿海地区展开。演习重点防御帕尔马索拉、埃尔帕利托炼油厂、卡贝略港等六个战略地点，并部署防空和通信设施以加强预警能力。与此同时，新埃斯帕塔州、法尔孔州和苏克雷州等地的演习也同时展开，当地部队表示将保持积极防御姿态，确保沿海地区安全。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxcee9150700.d.html</link>
-            <guid>4450857</guid>
-            <pubDate>Thu, 23 Oct 2025 16:04:08 GMT</pubDate>
+            <title><![CDATA[白宫新闻秘书莱维特：周二上午特朗普将与日本首相举行会谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxine7520092.d.html</link>
+            <guid>4450944</guid>
+            <pubDate>Thu, 23 Oct 2025 17:33:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[WTI原油向上触及62美元/桶，日内涨4.54%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxcee9150553.d.html</link>
-            <guid>4450856</guid>
-            <pubDate>Thu, 23 Oct 2025 16:03:34 GMT</pubDate>
+            <title><![CDATA[白宫新闻秘书莱维特：特朗普将与马来西亚总统举行会谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuximx1924622.d.html</link>
+            <guid>4450943</guid>
+            <pubDate>Thu, 23 Oct 2025 17:33:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[微软：Copilot的“小组”功能允许用户邀请最多32人进行实时协作。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxcee9150179.d.html</link>
-            <guid>4450855</guid>
-            <pubDate>Thu, 23 Oct 2025 16:02:19 GMT</pubDate>
+            <title><![CDATA[据塔斯社报道，俄罗斯已达成2025年1.35亿吨粮食收成目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxine7519714.d.html</link>
+            <guid>4450941</guid>
+            <pubDate>Thu, 23 Oct 2025 17:28:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[泽连斯基：我与意大利总理梅洛尼举行了会晤。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxceh7638765.d.html</link>
-            <guid>4450854</guid>
-            <pubDate>Thu, 23 Oct 2025 16:01:35 GMT</pubDate>
+            <title><![CDATA[【埃及等15国联合谴责以色列议会初步通过约旦河西岸主权法案】当地时间23日，埃及、约旦、卡塔尔等15国和阿拉伯国家联盟、伊斯兰合作组织发表联合声明，强烈谴责以色列议会批准的两项旨在将以色列主权扩展至约旦河西岸和非法定居点的法律草案。声明说，该法案公然违反了国际法和联合国安理会决议，特别是第2334号决议。此外，国际法院发布的咨询意见也确认了以色列占领巴勒斯坦领土的非法性以及在被占领的约旦河西岸地区建设定居点措施的无效性。声明警告以色列不要继续推行单方面非法政策，呼吁国际社会承担其法律和道义责任，迫使以色列停止其在巴勒斯坦被占领土上的危险升级和非法行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuximz6587952.d.html</link>
+            <guid>4450938</guid>
+            <pubDate>Thu, 23 Oct 2025 17:24:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sarb：通胀预期到2027年将靠近3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuxceh7638700.d.html</link>
-            <guid>4450853</guid>
-            <pubDate>Thu, 23 Oct 2025 16:01:17 GMT</pubDate>
+            <title><![CDATA[加拿大汽车工人联合会（Unifor）：向亚马逊发出谈判通知。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-24/detail-infuximz6587937.d.html</link>
+            <guid>4450937</guid>
+            <pubDate>Thu, 23 Oct 2025 17:24:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
