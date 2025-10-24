@@ -6,18 +6,170 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 4453498,
+            "content_html": "",
+            "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1215元，较周四夜盘收盘涨27点。成交量253.18亿美元。",
+            "date_modified": "2025-10-24T19:18:03.000Z"
+        },
+        {
+            "id": 4453497,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-25/detail-infuzssy7990549.d.html",
+            "title": "惠誉：改革与创新助力拉丁美洲保险债务市场走强。",
+            "date_modified": "2025-10-24T19:11:30.000Z"
+        },
+        {
+            "id": 4453496,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-25/detail-infuzssv0908313.d.html",
+            "title": "巴里克股票上涨1.5%。",
+            "date_modified": "2025-10-24T19:07:00.000Z"
+        },
+        {
+            "id": 4453495,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-25/detail-infuzsta6479200.d.html",
+            "title": "美国财政部长贝森特：佩特罗纵容贩毒集团发展壮大，且拒绝制止此类活动。",
+            "date_modified": "2025-10-24T19:06:34.000Z"
+        },
+        {
+            "id": 4453494,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-25/detail-infuzssv0908276.d.html",
+            "title": "【美国以涉毒品贩运活动为由制裁哥伦比亚总统佩特罗】当地时间10月24日，记者获悉，美国财政部海外资产控制办公室（OFAC）宣布对哥伦比亚总统古斯塔沃·佩特罗及内政部长阿曼多·贝内德蒂实施制裁，理由是涉及毒品贩运活动。此次制裁将两人及另外两名个人列入“特别指定国民名单”，标志着美国政府与哥伦比亚之间的矛盾进一步升级。哥伦比亚总统佩特罗随后表示，抗议美国将其和其家人列入制裁名单。",
+            "date_modified": "2025-10-24T19:06:10.000Z"
+        },
+        {
+            "id": 4453493,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-25/detail-infuzsta6479176.d.html",
+            "title": "纽蒙特矿业考虑就巴里克矿业在美国内华达的黄金资产达成一份协议。",
+            "date_modified": "2025-10-24T19:05:38.000Z"
+        },
+        {
+            "id": 4453492,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-25/detail-infuzsta6479134.d.html",
+            "title": "立陶宛总理：立陶宛与白俄罗斯的两个边境口岸将关闭至周日中午。",
+            "date_modified": "2025-10-24T19:03:37.000Z"
+        },
+        {
+            "id": 4453491,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-25/detail-infuzssv0908127.d.html",
+            "title": "哥伦比亚总统佩特罗：称制裁源于社会，而哥伦比亚曾助力遏制可卡因消费。",
+            "date_modified": "2025-10-24T19:01:49.000Z"
+        },
+        {
+            "id": 4453490,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-25/detail-infuzssx5571763.d.html",
+            "title": "哥伦比亚总统佩特罗：数十年打击毒品走私让我受到（美国）制裁。",
+            "date_modified": "2025-10-24T19:01:14.000Z"
+        },
+        {
+            "id": 4453489,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-25/detail-infuzssy7990188.d.html",
+            "title": "【特朗普力推新型海军军舰】白宫和海军高级官员正在进行早期讨论，计划用一支新的“金色舰队”(Golden Fleet)取代目前的军舰组合。曾批评过现代军舰外观的特朗普参与了这些计划，并与海军官员就新舰艇进行了多次对话。海军官员将该项目称为“金色舰队”，这与特朗普时代其他类似命名的举措一脉相承，例如他1月份命令军方建造的“金色穹顶”(Golden Dome)导弹防御系统和“金卡”(Gold Card)移民计划。知情人士称，新舰队将包括一些配备了更强大远程导弹的大型军舰，以及轻型护卫舰等小型舰艇。美国海军目前拥有287艘舰艇，主要是驱逐舰、巡洋舰、航空母舰、两栖舰和潜艇。一类新的护卫舰也正在筹备中。",
+            "date_modified": "2025-10-24T19:00:27.000Z"
+        },
+        {
+            "id": 4453488,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-25/detail-infuzssx5571640.d.html",
+            "title": "【美政府“停摆”进入第24天 超50万联邦雇员未能领取薪水】当地时间10月24日，随着美国政府停摆进入第24天，超过50万名联邦雇员本周未能如期领取全额薪水。参议院目前休会，停摆预计将持续至下周一。由于美国共和、民主两党在医保相关福利支出等核心议题上分歧巨大，国会参议院未能在9月30日上一财年结束前通过新的临时拨款法案，导致联邦政府维持正常运转的资金耗尽，于10月1日起“停摆”。",
+            "date_modified": "2025-10-24T18:59:19.000Z"
+        },
+        {
+            "id": 4453487,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-25/detail-infuzsta6478900.d.html",
+            "title": "VERISIGN跌幅收窄至3%，此前一度下跌10%。",
+            "date_modified": "2025-10-24T18:57:59.000Z"
+        },
+        {
+            "id": 4453486,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-25/detail-infuzssy7990085.d.html",
+            "title": "【美联储拟改革压力测试机制 提高透明度并优化模型设计】根据美联储在考虑的新计划，华尔街银行可能提前了解压力测试的标准。周五公布的文件显示，这项计划旨在改进部分模型的设计，包括信贷损失、操作风险以及证券资产。其他调整还包括在测试前征求业界对下一次压力测试中“严重不利情境”的意见。文件还包括2026年版测试的标准，其中最严峻的情境要求银行评估在全球经济衰退中的表现，设定包括股市和房地产价格暴跌，以及美国失业率达到两位数。美联储负责监管的副主席Michelle Bowman已表示，她希望在公开征求意见后，于2026年测试前正式采纳这些变化。该机构定于周五晚些时候在华盛顿的会议上表决是否正式提出这些措施。",
+            "date_modified": "2025-10-24T18:57:16.000Z"
+        },
+        {
+            "id": 4453485,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-25/detail-infuzssv0907871.d.html",
+            "title": "美国以涉毒为由制裁哥伦比亚总统佩特罗。",
+            "date_modified": "2025-10-24T18:56:10.000Z"
+        },
+        {
+            "id": 4453484,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-25/detail-infuzsta6478666.d.html",
+            "title": "布伦特原油期货结算价报每桶65.94美元，下跌5美分，跌幅0.08%。",
+            "date_modified": "2025-10-24T18:50:11.000Z"
+        },
+        {
+            "id": 4453483,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-25/detail-infuzsta6478528.d.html",
+            "title": "市场资讯：美国联邦调查局局长帕特尔将于下月访问中国。",
+            "date_modified": "2025-10-24T18:46:44.000Z"
+        },
+        {
+            "id": 4453482,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-25/detail-infuzssy7989698.d.html",
+            "title": "美国还对哥伦比亚总统和第一夫人的儿子实施制裁。",
+            "date_modified": "2025-10-24T18:46:08.000Z"
+        },
+        {
+            "id": 4453481,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-25/detail-infuzssy7989618.d.html",
+            "title": "美国还制裁了哥伦比亚内政部长。",
+            "date_modified": "2025-10-24T18:43:24.000Z"
+        },
+        {
+            "id": 4453479,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-25/detail-infuzssv0907286.d.html",
+            "title": "美国制裁哥伦比亚总统。",
+            "date_modified": "2025-10-24T18:41:01.000Z"
+        },
+        {
+            "id": 4453478,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-25/detail-infuzssv0907111.d.html",
+            "title": "景顺转涨，扭转了一度高达8.9%的跌幅。",
+            "date_modified": "2025-10-24T18:37:43.000Z"
+        },
+        {
+            "id": 4453477,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-25/detail-infuzssy7989272.d.html",
+            "title": "特朗普希望新造一批海军舰艇。",
+            "date_modified": "2025-10-24T18:36:34.000Z"
+        },
+        {
+            "id": 4453476,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-25/detail-infuzssx5570591.d.html",
+            "title": "美国农业部：不会将紧急资金用于发放食品券。",
+            "date_modified": "2025-10-24T18:34:08.000Z"
+        },
+        {
+            "id": 4453475,
+            "content_html": "",
+            "title": "加拿大安大略省省长福特表示，该省将于周一暂停在美国的广告宣传活动，以便贸易谈判能够重启。",
+            "date_modified": "2025-10-24T18:33:28.000Z"
+        },
+        {
             "id": 4453474,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-10-25/detail-infuzsta6477448.d.html",
             "title": "美国原油期货收于每桶61.50美元，下跌29美分，跌幅0.47%。",
             "date_modified": "2025-10-24T18:31:20.000Z"
-        },
-        {
-            "id": 4453473,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-25/detail-infuzsta6477361.d.html",
-            "title": "加拿大安大略省省长福特：竞选活动暂停将于周一生效。",
-            "date_modified": "2025-10-24T18:30:55.000Z"
         },
         {
             "id": 4453472,
@@ -189,151 +341,6 @@
             "url": "https://finance.sina.cn/7x24/2025-10-25/detail-infuznma8114810.d.html",
             "title": "【英国首相称将向乌提供5000枚导弹】10月24日，据乌克兰媒体报道，英国首相斯塔默宣布，英国将向乌克兰提供5000枚导弹，以加强其防空能力。",
             "date_modified": "2025-10-24T17:23:51.000Z"
-        },
-        {
-            "id": 4453446,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-25/detail-infuznma8114598.d.html",
-            "title": "洛克希德·马丁：首次载人阿尔忒弥斯任务飞行定于2026年2月发射。",
-            "date_modified": "2025-10-24T17:22:17.000Z"
-        },
-        {
-            "id": 4453445,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-25/detail-infuznkz5696566.d.html",
-            "title": "【摩尔多瓦总统提名蒙泰亚努为新总理】摩尔多瓦总统桑杜24日签署总统令，提名亚历山德鲁·蒙泰亚努为新总理。",
-            "date_modified": "2025-10-24T17:21:11.000Z"
-        },
-        {
-            "id": 4453444,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-25/detail-infuznma8113758.d.html",
-            "title": "周五（10月24日），美联储隔夜逆回购协议（RRP）使用规模为24.35亿美元。",
-            "date_modified": "2025-10-24T17:16:09.000Z"
-        },
-        {
-            "id": 4453443,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-25/detail-infuznme6602436.d.html",
-            "title": "【以军在加沙地带中部发动无人机袭击 致2人死亡】当地时间24日，据位于加沙地带中部的阿克萨烈士医院消息，以军当天在加沙地带中部代尔拜拉赫以东发动了无人机袭击，造成2名巴勒斯坦人死亡。",
-            "date_modified": "2025-10-24T17:15:14.000Z"
-        },
-        {
-            "id": 4453442,
-            "content_html": "",
-            "title": "墨西哥国家石油公司（PEMEX）首席执行官：墨西哥国家石油公司（PEMEX）已利用近期设立的金融工具向供应商偿还债务，“我们会偿还”所有欠款。",
-            "date_modified": "2025-10-24T17:13:06.000Z"
-        },
-        {
-            "id": 4453441,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-25/detail-infuznma8113135.d.html",
-            "title": "美国参议院民主党人将于下周强行推动投票，以废除针对加拿大、巴西及全球范围的关税。",
-            "date_modified": "2025-10-24T17:11:27.000Z"
-        },
-        {
-            "id": 4453440,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-25/detail-infuznme6601900.d.html",
-            "title": "南非、尼日利亚已从金融行动特别工作组的“洗钱灰色名单”中移除。",
-            "date_modified": "2025-10-24T17:11:16.000Z"
-        },
-        {
-            "id": 4453439,
-            "content_html": "",
-            "title": "墨西哥国家石油公司（PEMEX）首席执行官表示，自辛鲍姆总统上任以来，该公司欠供应商的债务已减少了50%。",
-            "date_modified": "2025-10-24T17:10:02.000Z"
-        },
-        {
-            "id": 4453438,
-            "content_html": "",
-            "title": "墨西哥国家石油公司（PEMEX）首席执行官表示，截至9月，已向供应商支付3000亿比索。",
-            "date_modified": "2025-10-24T17:09:45.000Z"
-        },
-        {
-            "id": 4453437,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-25/detail-infuznma8112802.d.html",
-            "title": "【一非法移民船在爱琴海倾覆 至少14人死亡】土耳其穆拉省省长办公室24日通报，一艘移民船在土耳其度假胜地博德鲁姆附近的爱琴海海域失事，导致至少14人死亡。",
-            "date_modified": "2025-10-24T17:08:58.000Z"
-        },
-        {
-            "id": 4453436,
-            "content_html": "",
-            "title": "中国地震台网正式测定：10月25日00时39分在日本北海道附近海域（北纬43.00度，东经145.80度）发生5.8级地震，震源深度20千米。",
-            "date_modified": "2025-10-24T17:08:16.000Z"
-        },
-        {
-            "id": 4453435,
-            "content_html": "",
-            "title": "美国食品药品监督管理局（FDA）批准Syndax公司的Revumenib用于治疗急性髓系白血病。",
-            "date_modified": "2025-10-24T17:08:05.000Z"
-        },
-        {
-            "id": 4453434,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-25/detail-infuznma8111789.d.html",
-            "title": "越南将越南盾每日参考汇率设定为1美元兑25098越南盾。",
-            "date_modified": "2025-10-24T17:03:12.000Z"
-        },
-        {
-            "id": 4453433,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-25/detail-infuznme6600362.d.html",
-            "title": "贝克休斯：美国钻井公司连续第二周增加石油和天然气钻井平台数量。",
-            "date_modified": "2025-10-24T17:02:30.000Z"
-        },
-        {
-            "id": 4453431,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-25/detail-infuznme6600065.d.html",
-            "title": "贝克休斯：截至10月24日当周，美国水平钻井平台数量减少1座，降至485座。",
-            "date_modified": "2025-10-24T17:01:18.000Z"
-        },
-        {
-            "id": 4453430,
-            "content_html": "",
-            "title": "贝克休斯数据显示，截至10月24日当周，墨西哥湾钻机数量增加4座；北达科他州钻机数量不变；宾夕法尼亚州钻机数量不变；得克萨斯州钻机数量减少1座。",
-            "date_modified": "2025-10-24T17:01:16.000Z"
-        },
-        {
-            "id": 4453429,
-            "content_html": "",
-            "title": "贝克休斯数据显示，截至10月24日当周，美国石油钻井平台数量增加2座，至420座（较去年同期减少60座）。",
-            "date_modified": "2025-10-24T17:01:13.000Z"
-        },
-        {
-            "id": 4453428,
-            "content_html": "",
-            "title": "国际铜夜盘收涨1.14%，沪铜收涨0.91%，沪铝收涨0.07%，沪锌收涨0.04%，沪铅收涨0.26%，沪镍收涨0.23%，沪锡收跌0.32%。氧化铝夜盘收涨0.39%，铝合金收跌0.05%。不锈钢夜盘收跌0.12%。",
-            "date_modified": "2025-10-24T17:00:55.000Z"
-        },
-        {
-            "id": 4453427,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-25/detail-infuznma8111181.d.html",
-            "title": "美国10月24日当周总钻井数 550，前值 548。",
-            "date_modified": "2025-10-24T17:00:51.000Z"
-        },
-        {
-            "id": 4453426,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-25/detail-infuznkz5694543.d.html",
-            "title": "【夜盘期货收盘】国际铜夜盘收涨1.14%，沪铜收涨0.91%，沪铝收涨0.07%，沪锌收涨0.04%，沪铅收涨0.26%，沪镍收涨0.23%，沪锡收跌0.32%。氧化铝夜盘收涨0.39%，铝合金收跌0.05%。不锈钢夜盘收跌0.12%。",
-            "date_modified": "2025-10-24T17:00:02.000Z"
-        },
-        {
-            "id": 4453424,
-            "content_html": "",
-            "title": "美国防长赫格塞思：美国正派遣一艘航空母舰前往拉丁美洲，此举标志着该地区军事部署大幅升级。",
-            "date_modified": "2025-10-24T16:55:41.000Z"
-        },
-        {
-            "id": 4453423,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-25/detail-infuznma8110304.d.html",
-            "title": "美国交通部长警告称，随着政府停摆持续，航班延误情况可能会增多。",
-            "date_modified": "2025-10-24T16:54:46.000Z"
         }
     ]
 }
