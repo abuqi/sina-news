@@ -4,11 +4,52 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 25 Oct 2025 19:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Oct 2025 20:24:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：软银批准对 OpenAI 剩余 225 亿美元投资。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-26/detail-infvczxy5228830.d.html</link>
+            <guid>4455192</guid>
+            <pubDate>Sat, 25 Oct 2025 20:23:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以防长称摧毁哈马斯在加沙的地下隧道是当前核心任务】当地时间25日，以色列12频道援引以国防部长卡茨表态称，哈马斯在加沙地带的地下隧道仍有60%尚未摧毁，卡茨已指示以军将摧毁这些地下隧道作为控制加沙地带“黄线”以东区域的“核心任务”。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-26/detail-infvczxz6784145.d.html</link>
+            <guid>4455191</guid>
+            <pubDate>Sat, 25 Oct 2025 20:06:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：哈马斯必须开始归还人质遗体；将密切关注接下来的48小时。]]></title>
+            <guid>4455190</guid>
+            <pubDate>Sat, 25 Oct 2025 20:04:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【卡塔尔埃米尔与美国总统举行会谈 讨论双边关系等问题】当地时间10月25日，卡塔尔埃米尔（国家元首）塔米姆在卡塔尔乌代德空军基地与美国总统特朗普举行会谈，双方重点就双边关系和地区局势进行了讨论。卡塔尔首相兼外交大臣穆罕默德参加会谈。特朗普在会谈中表示，一支负责维护加沙地带稳定的“国际安全部队”将很快部署至加沙。他还表示，希望各方遵守加沙停火协议条款，以实现加沙持久和平。另据半岛电视台报道，美国、卡塔尔等国代表将于26日在卡塔尔首都多哈就组建加沙“国际安全部队”问题进行磋商。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-26/detail-infvczxw6739113.d.html</link>
+            <guid>4455189</guid>
+            <pubDate>Sat, 25 Oct 2025 19:50:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行埃斯克里瓦：当前欧洲央行的利率水平是合适的。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-26/detail-infvczye1446960.d.html</link>
+            <guid>4455188</guid>
+            <pubDate>Sat, 25 Oct 2025 19:41:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行埃斯克里瓦：通胀确实已达到 2% 的目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-26/detail-infvczxw6738768.d.html</link>
+            <guid>4455187</guid>
+            <pubDate>Sat, 25 Oct 2025 19:41:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国首部监管法案落地后 稳定币支付规模激增70%】自今年7月美国首次通过针对稳定币的监管法案以来，消费者和企业使用稳定币进行现实世界支付与交易的速度正在迅速提升。据区块链数据提供商Artemis的报告，8月份通过稳定币进行商品、服务和转账的总额超过100亿美元，相比2月份的60亿美元增长了约70%，并且是去年8月的两倍多。这一增长紧随美国总统特朗普于7月18日将《Genius法案》签署成法律之后。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-26/detail-infvczxw6738572.d.html</link>
+            <guid>4455186</guid>
+            <pubDate>Sat, 25 Oct 2025 19:40:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[立陶宛国家危机管理中心：因气球进入空域，维尔纽斯机场已关闭。]]></title>
             <link>https://finance.sina.cn/7x24/2025-10-26/detail-infvczye1445117.d.html</link>
@@ -262,47 +303,6 @@
             <title><![CDATA[高市早苗：与特朗普进行了“友好和坦诚的”通话，期待与他一起将日美同盟提升到新高度。]]></title>
             <guid>4455000</guid>
             <pubDate>Sat, 25 Oct 2025 14:43:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[人工智能芯片初创公司Sambanova已聘请投行探索出售事宜。（The Information）]]></title>
-            <guid>4454999</guid>
-            <pubDate>Sat, 25 Oct 2025 14:39:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【逾千家A股公司披露三季报，近六成业绩同比增长】截至10月25日，A股共1087家上市公司披露三季报。其中，647家前三季度净利润实现同比增长，占比约为59.52%；55家上市公司发布三季度分红方案，38家公司拟每10股派发现金股利超1元（含税）。（中国证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-25/detail-infvcrke5465290.d.html</link>
-            <guid>4454998</guid>
-            <pubDate>Sat, 25 Oct 2025 14:35:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[     【天风证券：建议重视自主育种崛起机会及掌握引种替代资源的白鸡龙头】天风证券研报称，欧洲进入禽流感高发期，预计10月发生数量增加。法国农业部发布部长令，自10月22日起将高致病性禽流感的风险警戒级别从“中级”上调至“高级”，或表明新一季禽流感传播可能提前。当前法国为国内安伟捷系引种唯一来源；考虑到2015年法国因禽流感封关后，我国已有近10年未从法国引种，叠加全球逐渐进入禽流感高发季，需持续关注后续海外引种情况，重视引种数量和结构变化；建议重视自主育种崛起机会及掌握引种替代资源的白鸡龙头。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-25/detail-infvcmah5593883.d.html</link>
-            <guid>4454997</guid>
-            <pubDate>Sat, 25 Oct 2025 14:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[吉尔吉斯斯坦与币安合作推出国家稳定币。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-25/detail-infvcmah5593382.d.html</link>
-            <guid>4454996</guid>
-            <pubDate>Sat, 25 Oct 2025 14:20:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中联部副部长孙海燕会见新加坡前外交部长杨荣文】10月24日下午，中共中央对外联络部副部长孙海燕在北京会见新加坡前外交部长杨荣文。双方就共同关心的国际地区问题交换看法。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-25/detail-infvcmai7148939.d.html</link>
-            <guid>4454995</guid>
-            <pubDate>Sat, 25 Oct 2025 14:20:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【叶国富回应“收购原创IP一年浪费一个亿”：给予自有IP充分尝试空间】名创优品创始人叶国富日前在《罗永浩的十字路口》访谈中称，名创优品大力发展自有IP，推动从零售公司向文化创意公司的转型，一年必须要浪费一个亿才能培养出好的IP，用于富养原创IP。10月25日，叶国富回应记者称，浪费的意思是给予自有IP充分的尝试空间，从艺术家挖掘到IP孵化、运营，构建全链路IP运营平台。（澎湃新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-25/detail-infvcmah5592856.d.html</link>
-            <guid>4454993</guid>
-            <pubDate>Sat, 25 Oct 2025 14:14:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海机场：明日起执行新航季航班计划，出入境航班量同比增5%】航旅直通车-上海机场介绍，2025年10月26日至2026年3月28日，上海机场将执行2025年冬春航季航班计划。新航季中，上海机场日均计划执行航班2419架次（其中，浦东机场1643架次、虹桥机场776架次）。日均计划执行国际、港澳台航班766架次（其中，浦东机场720架次、虹桥机场46架次），同比增长5%。日均计划执行国内航班（不含港澳台地区）1653架次（其中，浦东机场923架次、虹桥机场730架次）。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-25/detail-infvcmae7103979.d.html</link>
-            <guid>4454992</guid>
-            <pubDate>Sat, 25 Oct 2025 14:13:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
