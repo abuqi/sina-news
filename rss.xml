@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 25 Oct 2025 18:31:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Oct 2025 19:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[立陶宛国家危机管理中心：因气球进入空域，维尔纽斯机场已关闭。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-26/detail-infvczye1445117.d.html</link>
+            <guid>4455185</guid>
+            <pubDate>Sat, 25 Oct 2025 19:14:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国总统特朗普：（谈与普京会面）在认为能达成和平协议之前，不会与普京会面。]]></title>
             <link>https://finance.sina.cn/7x24/2025-10-26/detail-infvcvsa5355429.d.html</link>
@@ -297,12 +303,6 @@
             <link>https://finance.sina.cn/7x24/2025-10-25/detail-infvcmae7103979.d.html</link>
             <guid>4454992</guid>
             <pubDate>Sat, 25 Oct 2025 14:13:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普与日本首相高市早苗通电话。（共同社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-25/detail-infvcmae7103075.d.html</link>
-            <guid>4454991</guid>
-            <pubDate>Sat, 25 Oct 2025 14:07:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
