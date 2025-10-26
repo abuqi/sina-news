@@ -4,11 +4,29 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 26 Oct 2025 20:25:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Oct 2025 21:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[阿根廷国家选举委员会：阿根廷中期选举登记选民投票率达 66%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-27/detail-infvhmex5536086.d.html</link>
+            <guid>4455977</guid>
+            <pubDate>Sun, 26 Oct 2025 21:06:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿根廷举行国会中期选举 改选部分参众议员席位】当地时间10月26日，阿根廷举行国会中期选举，改选众议院半数席位和参议院三分之一席位，将选出24名参议员和127名众议员。据悉，该国共有约3648万合法选民可进行投票。阿根廷全国共划分为24个选区，其中16个选区仅选举国会众议员，8个选区将同时选举众议员和参议员。选举于26日8时开始，至18时结束。本次选举首次采用单轮投票制，将直接选举出参众两院的换届议员。初步计票结果将于26日21时后开始公布，最终计票结果将在5天后在选举委员会监督下正式公布。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-27/detail-infvhmfa0199498.d.html</link>
+            <guid>4455976</guid>
+            <pubDate>Sun, 26 Oct 2025 20:59:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[受贸易消息影响，澳元上涨0.4%，新西兰元上涨0.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-27/detail-infvhmff1064237.d.html</link>
+            <guid>4455975</guid>
+            <pubDate>Sun, 26 Oct 2025 20:43:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【加州州长纽森承认：考虑角逐2028年总统大选】美国加州州长纽森表示，如果他否认正在考虑竞选总统的计划，那就是“在撒谎”。当被问及在中期选举（2026年）后是否会“认真考虑”竞选总统时，这位州长表示认同。纽森已成为反对总统特朗普的重要声音之一，他严厉批评特朗普政府在国民警卫队部署和抓捕移民等问题上的做法。由于任期限制，他将无法在2026年竞选连任州长。纽森此前曾表示，如果决定参选总统，他需要一个“理由”（“why”）。纽森说，如果一个人有“令人信服的理由”，那么无论“过程多艰难”，都能坚持下去。他说：“我认为任何竞选公职的人面临的最大挑战是，人们能一眼看穿你。如果你没有那个‘why’，那你参选就是出于错误的理由。”]]></title>
             <link>https://finance.sina.cn/7x24/2025-10-27/detail-infvhmfa0198281.d.html</link>
@@ -289,23 +307,6 @@
             <title><![CDATA[美国交通部长达菲警告称：由于政府停摆加剧了空中交通管制员的人员紧张状况，旅客将面临更多的航班延误和取消。]]></title>
             <guid>4455856</guid>
             <pubDate>Sun, 26 Oct 2025 15:46:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列国防部长办公室：以国防部长卡茨和美国特使视察了与黎巴嫩的边境。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-26/detail-infvfyri2814922.d.html</link>
-            <guid>4455852</guid>
-            <pubDate>Sun, 26 Oct 2025 15:41:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【库尔德工人党武装将从土耳其撤出】库尔德工人党今天（10月26日）发表声明，宣布将撤出其在土耳其境内的全部武装力量。声明说，库尔德工人党正在从土耳其撤出“所有可能引发冲突或容易被挑衅利用的武装力量”，对于边境沿线有类似风险的地点，该组织也正在采取相应措施。 （CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-26/detail-infvfyri2814772.d.html</link>
-            <guid>4455848</guid>
-            <pubDate>Sun, 26 Oct 2025 15:39:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长贝森特：对俄罗斯的制裁是极限施压行动，将会成功，我们可以大幅削减其石油利润。]]></title>
-            <guid>4455846</guid>
-            <pubDate>Sun, 26 Oct 2025 15:38:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
