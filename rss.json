@@ -6,6 +6,39 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 4472338,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-02/detail-infvxxux7077700.d.html",
+            "title": "IBM将收购科格尼图斯（Cognitus）以其加速全球范围内的SAP转型。",
+            "date_modified": "2025-11-01T21:16:03.000Z"
+        },
+        {
+            "id": 4472337,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-02/detail-infvxxvf2557800.d.html",
+            "title": "IBM宣布推出面向金融机构及受监管企业的全新平台，助力其迈入数字资产经济领域。",
+            "date_modified": "2025-11-01T20:52:16.000Z"
+        },
+        {
+            "id": 4472336,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-02/detail-infvxxvf2557717.d.html",
+            "title": "爱立信与加拿大出口发展局达成30亿美元合作协议。",
+            "date_modified": "2025-11-01T20:51:31.000Z"
+        },
+        {
+            "id": 4472335,
+            "content_html": "",
+            "title": "AMD宣布与美国联邦机构合作，进一步拓展联邦市场。其基于美国本土生产的人工智能服务器产品组合，将聚焦服务联邦生态系统。",
+            "date_modified": "2025-11-01T20:49:43.000Z"
+        },
+        {
+            "id": 4472334,
+            "content_html": "",
+            "title": "俄罗斯外交部周六表示，对美国在加勒比海部署的旨在打击毒品走私的军事力量规模表示不满，并重申了对委内瑞拉领导人的支持。",
+            "date_modified": "2025-11-01T20:30:37.000Z"
+        },
+        {
             "id": 4472333,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-11-02/detail-infvxxvf2553329.d.html",
@@ -309,40 +342,6 @@
             "url": "https://finance.sina.cn/7x24/2025-11-01/detail-infvxpfp3108165.d.html",
             "title": "【美专家谈俄美重启谈判的条件】11月1日，美国空军退役军官、历史学教授威廉·阿斯特尔在Youtube频道“评判自由”（Judging Freedom）上表示，唯有美国停止对乌克兰军援才可能重启与俄罗斯的谈判。 阿斯特尔指出，“美国停止持续向乌克兰提供用于袭击俄本土的情报数据和武器，将是我方为重启谈判所释放的明确信号”。他强调道，“此举正是恢复对话的关键一步”。",
             "date_modified": "2025-11-01T15:16:25.000Z"
-        },
-        {
-            "id": 4472161,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-01/detail-infvxpfi4282116.d.html",
-            "title": "美国债券市场已经持续下跌63个月，这是有史以来持续时间最长的一次。",
-            "date_modified": "2025-11-01T15:14:45.000Z"
-        },
-        {
-            "id": 4472160,
-            "content_html": "",
-            "title": "俄外交部就美国批准向乌克兰供应“战斧”导弹的报道表态：向基辅输送武器无助于达成任何解决方案。",
-            "date_modified": "2025-11-01T15:12:27.000Z"
-        },
-        {
-            "id": 4472153,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-01/detail-infvxpfm2769280.d.html",
-            "title": "【加沙地带卫生部门：以方移交巴人员遗体有遭虐待痕迹】加沙地带卫生部门11月1日表示，以色列所归还的巴勒斯坦在押人员的遗体有遭受枪击、破坏和虐待的痕迹。目前巴方只辨认出了75具遗体身份。",
-            "date_modified": "2025-11-01T15:05:20.000Z"
-        },
-        {
-            "id": 4472152,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-01/detail-infvxpfi4280404.d.html",
-            "title": "【涉嫌参与有组织团伙盗窃 一卢浮宫抢劫案嫌疑人被起诉】当地时间11月1日，一名涉嫌参与卢浮宫抢劫案的38岁女性嫌疑人被正式起诉，罪名是有组织团伙盗窃的从犯以及为实施犯罪而参与犯罪集团。当天下午，这名女子被带到法庭，由法官判决是否将她拘留。巴黎检方已要求对她继续实行拘留。当天，另一名嫌疑人也在被移送司法过程中，准备接受正式起诉。此外，多名被拘留者的拘留程序已被解除，被盗珠宝仍然下落不明。",
-            "date_modified": "2025-11-01T15:04:59.000Z"
-        },
-        {
-            "id": 4472150,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-01/detail-infvxpfc7296706.d.html",
-            "title": "美国特使巴拉克：叙利亚“有望”在领导人访问华盛顿期间加入打击“伊斯兰国”联盟。",
-            "date_modified": "2025-11-01T15:01:55.000Z"
         }
     ]
 }
