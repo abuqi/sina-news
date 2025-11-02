@@ -6,6 +6,51 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 4473365,
+            "content_html": "",
+            "title": "乌克兰海军发言人德米特罗·普莱滕丘克：乌克兰对俄罗斯图阿普谢石油码头的袭击将产生长期影响，相关企业或将寻求替代方案。",
+            "date_modified": "2025-11-02T20:11:30.000Z"
+        },
+        {
+            "id": 4473364,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-03/detail-infwaauf1500738.d.html",
+            "title": "埃及总统府：总统塞西会见匈牙利总理欧尔班。",
+            "date_modified": "2025-11-02T20:08:44.000Z"
+        },
+        {
+            "id": 4473363,
+            "content_html": "",
+            "title": "德国总理默茨表：今日与以色列总理内塔尼亚胡通电话。双方达成共识：加沙地带的停火必须持续，当地民众需要安全的人道主义援助，哈马斯最终必须交出最后几名人质的遗体。",
+            "date_modified": "2025-11-02T20:03:59.000Z"
+        },
+        {
+            "id": 4473362,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-03/detail-infwaaui1819191.d.html",
+            "title": "【以色列总理称遭严重舆论打击】以色列总理内塔尼亚胡11月2日在每周例行内阁会议上就以军虐囚视频泄露再度发酵一事表示，这对以色列和以军造成“巨大的（声誉）损害”，或许是以色列建国以来“遭受的最严重舆论打击”。内塔尼亚胡呼吁展开“独立且公正的调查”，并表示期待调查能够切实进行。",
+            "date_modified": "2025-11-02T20:01:54.000Z"
+        },
+        {
+            "id": 4473361,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-03/detail-infwaatx6009259.d.html",
+            "title": "美国国务卿鲁比奥与沙特外交大臣举行会谈。",
+            "date_modified": "2025-11-02T19:40:58.000Z"
+        },
+        {
+            "id": 4473360,
+            "content_html": "",
+            "title": "中国地震台网正式测定：11月03日03时06分在菲律宾（北纬9.75度，东经122.85度）发生5.5级地震，震源深度120千米。",
+            "date_modified": "2025-11-02T19:32:20.000Z"
+        },
+        {
+            "id": 4473359,
+            "content_html": "",
+            "title": "声明显示：欧佩克秘书处收到来自俄罗斯、伊拉克、阿拉伯联合酋长国、哈萨克斯坦和阿曼的最新补偿计划。",
+            "date_modified": "2025-11-02T19:23:36.000Z"
+        },
+        {
             "id": 4473358,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-11-03/detail-infwaauf1498973.d.html",
@@ -291,55 +336,6 @@
             "url": "https://finance.sina.cn/7x24/2025-11-03/detail-infvzwnf3125214.d.html",
             "title": "代表们称，欧佩克+正讨论在明年1-3月暂停产量增幅。",
             "date_modified": "2025-11-02T16:11:49.000Z"
-        },
-        {
-            "id": 4473205,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-03/detail-infvzwni1613571.d.html",
-            "title": "欧佩克+正考虑从明年1月起暂停产量增加。",
-            "date_modified": "2025-11-02T16:09:21.000Z"
-        },
-        {
-            "id": 4473204,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-03/detail-infvzwmz6121221.d.html",
-            "title": "代表称，欧佩克+同意12月日均增产13.7万桶。",
-            "date_modified": "2025-11-02T16:08:31.000Z"
-        },
-        {
-            "id": 4473200,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-02/detail-infvzsem1742068.d.html",
-            "title": "英伟达CEO黄仁勋：业务势头强劲，且在人工智能需求方面持续加速发展。",
-            "date_modified": "2025-11-02T15:58:13.000Z"
-        },
-        {
-            "id": 4473198,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-02/detail-infvzsep2058782.d.html",
-            "title": "美国财政部长贝森特：“补充营养援助计划”（SNAP）食品福利金或于周三重启发放。",
-            "date_modified": "2025-11-02T15:54:50.000Z"
-        },
-        {
-            "id": 4473194,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-02/detail-infvzsec6249197.d.html",
-            "title": "【最新研究：嵌入大模型的AI扫地机器人多项任务翻车，成功率仅40%】AI实验室Andon Labs最近进行的一项评估显示，搭载顶级大模型的扫地机器人在简单家务任务中表现糟糕，成功率远低于人类。实验要求机器人执行“把黄油递给人”的多步骤指令，包括跨房间定位、区分包装、寻找移动位置的人类、完成交付并返回充电。结果显示，Gemini 2.5 Pro 的成功率仅 40%，Claude Opus 4.1 为 37%，GPT-5 为 30%，明显落后于人类的表现。 研究指出，大模型在空间推理、环境理解、长期任务规划等方面依然存在明显短板。 研究团队强调，娱乐之外也有严肃隐患：某些机器人可被诱导泄露机密文件，部分机型无法识别楼梯风险而从高处跌落，暴露当前大型语言模型（LLM）与机器结合的安全漏洞。",
-            "date_modified": "2025-11-02T15:50:42.000Z"
-        },
-        {
-            "id": 4473191,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-02/detail-infvzsec6248879.d.html",
-            "title": "微软人工智能部门负责人：只有生物才能拥有意识。",
-            "date_modified": "2025-11-02T15:47:48.000Z"
-        },
-        {
-            "id": 4473187,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-02/detail-infvzsec6248413.d.html",
-            "title": "市场资讯：荷兰将把一件有3500年历史的雕塑归还给埃及。",
-            "date_modified": "2025-11-02T15:44:22.000Z"
         }
     ]
 }
