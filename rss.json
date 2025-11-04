@@ -6,6 +6,239 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 4478029,
+            "content_html": "",
+            "title": "亚马逊：第三方应用若代表用户从其他企业处代购商品，理当以公开透明的方式运营，这一点相当明确。",
+            "date_modified": "2025-11-04T19:19:26.000Z"
+        },
+        {
+            "id": 4478028,
+            "content_html": "",
+            "title": "亚马逊：关于 Perplexity 的声明，我们多次要求Perplexity将亚马逊从Comet体验中移除。",
+            "date_modified": "2025-11-04T19:17:27.000Z"
+        },
+        {
+            "id": 4478027,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhqye9960505.d.html",
+            "title": "特斯拉：AI6将使用相同的晶圆厂，但性能大约提升两倍。",
+            "date_modified": "2025-11-04T19:09:05.000Z"
+        },
+        {
+            "id": 4478026,
+            "content_html": "",
+            "title": "马斯克：2026年将有样品，或许还会有少量产品，但只有到2027年才可能实现大规模量产。",
+            "date_modified": "2025-11-04T19:08:46.000Z"
+        },
+        {
+            "id": 4478025,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhqya9543071.d.html",
+            "title": "马斯克：特斯拉AI5芯片将由台积电和三星分别制造略有不同的版本。",
+            "date_modified": "2025-11-04T19:08:02.000Z"
+        },
+        {
+            "id": 4478024,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhqye9960296.d.html",
+            "title": "【美媒：特朗普政府考虑控制委内瑞拉油田】据纽约时报报道，特朗普政府已制定出多项针对委内瑞拉的军事行动方案，包括对保护马杜罗总统的部队实施直接打击，以及可能采取行动夺取对该国油田的控制权。特朗普尚未决定是否以及如何推进，且表现出不愿让美军涉险或承受政治后果的倾向。高级顾问们正推动采取更强硬的措施，包括将马杜罗赶下台。政府已要求司法部提供法律指导意见，以论证将军事行动从缉毒任务扩展至更广泛行动的合法性。此类法律意见可能旨在为针对马杜罗的行动提供法律依据，而无需国会授权或正式宣战。",
+            "date_modified": "2025-11-04T19:07:16.000Z"
+        },
+        {
+            "id": 4478023,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhqya9542879.d.html",
+            "title": "【比特币6月以来首度跌破10万美元 避险情绪冲击加密货币】比特币抹去了整个夏季所取得的涨幅，早前华尔街热情拥护和机构大量买入所引发的涨幅遭回吐。周二纽约时段，比特币一度下跌6.5%至99,963美元，为6月以来首次跌破10万美元。该价格自一个月前达到的纪录高位已下跌逾20%。以太币跌幅一度达9.6%，多种替代币同样出现类似跌幅，使得许多交易不太简便、流动性相对较低的代币今年以来的跌幅达到了50%以上。\n转折点出现于10月中旬，当时一波猛烈的平仓潮抹去了数十亿美元的多头头寸。自那以来，交易员一直在场边观望。比特币期货未平仓合约仍远低于溃跌前的水平，即便融资成本有所好转，但愿意重新入场的人依旧寥寥无几。其结果是：比特币今年仅上涨了不到10%，落后于股票，作为投资组合对冲手段的效果依旧差强人意。\n“比特币跌至6月低点反应了一种市场结构，也就是仍在努力消化10月那场大规模平仓事件带来的心理阴影，该事件根本性地改变了市场参与人士对待总体市场下行趋势的方式，”专注于去中心化金融的Ergonia研究主管Chris Newhouse表示。",
+            "date_modified": "2025-11-04T19:06:52.000Z"
+        },
+        {
+            "id": 4478022,
+            "content_html": "",
+            "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1300元，较周一夜盘收盘跌95点。成交量452.53亿美元。",
+            "date_modified": "2025-11-04T19:03:35.000Z"
+        },
+        {
+            "id": 4478021,
+            "content_html": "",
+            "title": "电动飞机制造“独角兽”Beta Technologies（BETA）美国IPO首日平开，报34美元。",
+            "date_modified": "2025-11-04T19:02:11.000Z"
+        },
+        {
+            "id": 4478020,
+            "content_html": "",
+            "title": "向美国贸易代表办公室提交的文件显示：通用汽车、特斯拉、丰田敦促特朗普政府延长《美墨加协定》。",
+            "date_modified": "2025-11-04T19:01:33.000Z"
+        },
+        {
+            "id": 4478019,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhqyi4813737.d.html",
+            "title": "以色列总理办公室：以色列从红十字会处接收了在加沙遇难人质的遗体。",
+            "date_modified": "2025-11-04T19:01:15.000Z"
+        },
+        {
+            "id": 4478018,
+            "content_html": "",
+            "title": "恒生指数主连夜盘收涨0.03%，报25917点。恒生科技指数主连夜盘收跌0.02%，报5816点。",
+            "date_modified": "2025-11-04T19:00:24.000Z"
+        },
+        {
+            "id": 4478017,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhqya9541897.d.html",
+            "title": "【货币市场资金压力高企，华尔街押注美联储临时加大流动性投放】华尔街分析师表示，美国货币市场的流动性紧张状况可能在11月继续持续，随着融资成本持续处于高位，美联储或不得不在下月正式停止缩表前就开始加大流动性投放。上周五，货币市场经历了一个波动剧烈的月末，担保隔夜融资利率(SOFR)一天之内飙升18个基点，为2020年3月以来除加息周期外最大单日涨幅。尽管随着月末压力缓解，SOFR在周一有所下降，但仍高于美联储设定的关键政策利率，包括联邦基金利率。其他短期隔夜回购利率也持续高于美联储的政策工具利率。",
+            "date_modified": "2025-11-04T18:57:10.000Z"
+        },
+        {
+            "id": 4478016,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhqye9959043.d.html",
+            "title": "白宫就苏丹问题表态：致力于与其他国家共同努力实现和平。",
+            "date_modified": "2025-11-04T18:54:30.000Z"
+        },
+        {
+            "id": 4478015,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhqxz1053064.d.html",
+            "title": "特朗普政府在委内瑞拉制定了多种应对方案，包括控制委内瑞拉的石油资源。",
+            "date_modified": "2025-11-04T18:54:23.000Z"
+        },
+        {
+            "id": 4478014,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhqxz1053009.d.html",
+            "title": "特朗普助手向美国司法部咨询有关在委内瑞拉采取行动的相关指引。",
+            "date_modified": "2025-11-04T18:52:39.000Z"
+        },
+        {
+            "id": 4478013,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhqya9541665.d.html",
+            "title": "棒约翰复牌，股价跌幅扩大至20%。",
+            "date_modified": "2025-11-04T18:50:58.000Z"
+        },
+        {
+            "id": 4478012,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhqyi4812748.d.html",
+            "title": "棒约翰股价大跌15%。",
+            "date_modified": "2025-11-04T18:46:03.000Z"
+        },
+        {
+            "id": 4478011,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhqxz1052578.d.html",
+            "title": "白宫就美印关系表态：特朗普与莫迪经常通话。",
+            "date_modified": "2025-11-04T18:45:30.000Z"
+        },
+        {
+            "id": 4478010,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhqya9541332.d.html",
+            "title": "白宫就美印关系表态：贸易团队持续进行严肃讨论。",
+            "date_modified": "2025-11-04T18:45:24.000Z"
+        },
+        {
+            "id": 4478009,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhqxz1052563.d.html",
+            "title": "白宫谈美印关系：特朗普对美印关系持积极态度。",
+            "date_modified": "2025-11-04T18:45:20.000Z"
+        },
+        {
+            "id": 4478008,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhqya9541284.d.html",
+            "title": "标普超级综合航空指数跌幅扩大，下跌 5%。",
+            "date_modified": "2025-11-04T18:44:29.000Z"
+        },
+        {
+            "id": 4478007,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhqxz1052505.d.html",
+            "title": "白宫新闻秘书莱维特：特朗普正在密切关注尼日利亚。",
+            "date_modified": "2025-11-04T18:44:19.000Z"
+        },
+        {
+            "id": 4478006,
+            "content_html": "",
+            "title": "白宫新闻秘书莱维特：我们正以最快速度发放营养补充援助计划（SNAP）的部分补助资金。",
+            "date_modified": "2025-11-04T18:43:20.000Z"
+        },
+        {
+            "id": 4478005,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhqye9958135.d.html",
+            "title": "棒约翰股价迅速转跌，现跌7%。",
+            "date_modified": "2025-11-04T18:42:36.000Z"
+        },
+        {
+            "id": 4478004,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhqye9958076.d.html",
+            "title": "白宫新闻秘书莱维特：特朗普（下）周一将接待叙利亚政权领导人。",
+            "date_modified": "2025-11-04T18:42:09.000Z"
+        },
+        {
+            "id": 4478003,
+            "content_html": "",
+            "title": "消息人士称，阿波罗全球管理公司（Apollo Global）已撤回以每股64美元的价格将棒约翰（Papa John's）私有化的收购要约。",
+            "date_modified": "2025-11-04T18:41:30.000Z"
+        },
+        {
+            "id": 4478002,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhqya9540870.d.html",
+            "title": "白宫：正在研究就选举事宜发布行政命令。",
+            "date_modified": "2025-11-04T18:40:54.000Z"
+        },
+        {
+            "id": 4478001,
+            "content_html": "",
+            "title": "俄罗斯总统普京：俄罗斯今年将把“萨尔马特”洲际弹道导弹投入试验性战斗值班，明年该导弹将正式进入战斗值班状态。",
+            "date_modified": "2025-11-04T18:40:42.000Z"
+        },
+        {
+            "id": 4478000,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhqya9540665.d.html",
+            "title": "以色列军方表示，一名遇害人质的遗体已被移交至加沙地区的红十字会。",
+            "date_modified": "2025-11-04T18:39:50.000Z"
+        },
+        {
+            "id": 4477999,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhqya9540579.d.html",
+            "title": "【航班遭炸弹威胁 美国罗纳德·里根国家机场暂停运作】当地时间11月4日，由于美联航一架航班接到炸弹威胁，罗纳德·里根华盛顿国家机场当日暂停了所有航班。据悉，这项“地面停飞指令”将持续至当地时间当日13时30分。",
+            "date_modified": "2025-11-04T18:38:14.000Z"
+        },
+        {
+            "id": 4477998,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhqxz1051777.d.html",
+            "title": "白宫就打击毒品贩运行动表态：国务卿鲁比奥将于周三向“十二人小组”做简报。",
+            "date_modified": "2025-11-04T18:37:55.000Z"
+        },
+        {
+            "id": 4477997,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhqxz1051618.d.html",
+            "title": "比特币自6月以来首次跌破10万美元关口。",
+            "date_modified": "2025-11-04T18:36:26.000Z"
+        },
+        {
+            "id": 4477996,
+            "content_html": "",
+            "title": "白宫就美国政府停摆一事表态：美国农业部周二向各州提供了关于如何发放补充营养援助计划（SNAP）福利的指导意见。",
+            "date_modified": "2025-11-04T18:36:00.000Z"
+        },
+        {
+            "id": 4477995,
+            "content_html": "",
+            "title": "白宫新闻秘书莱维特：特朗普政府正完全遵守有关 “营养补充援助计划”（SNAP）的法院指令。",
+            "date_modified": "2025-11-04T18:35:17.000Z"
+        },
+        {
             "id": 4477994,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhqya9540066.d.html",
@@ -101,236 +334,6 @@
             "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhqyi4810224.d.html",
             "title": "红十字会从哈马斯处接收了以色列人质的遗体。",
             "date_modified": "2025-11-04T18:17:24.000Z"
-        },
-        {
-            "id": 4477979,
-            "content_html": "",
-            "title": "周二（11月4日），美联储隔夜逆回购协议（RRP）使用规模为169.83亿美元，上个交易日报237.92亿美元。",
-            "date_modified": "2025-11-04T18:16:16.000Z"
-        },
-        {
-            "id": 4477978,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhqyi4810070.d.html",
-            "title": "美国少数党领袖杰弗里斯：当前最关键的事，是让民主党重新掌控众议院。",
-            "date_modified": "2025-11-04T18:15:06.000Z"
-        },
-        {
-            "id": 4477977,
-            "content_html": "",
-            "title": "Perplexity：亚马逊正在欺压竞争对手，并试图阻止第三方人工智能购物者，以保护其广告业务，因为基于代理的购物模式正在兴起。",
-            "date_modified": "2025-11-04T18:07:50.000Z"
-        },
-        {
-            "id": 4477976,
-            "content_html": "",
-            "title": "美国联邦航空管理局（FAA）在针对里根国家机场的威胁报告解除后，取消了该机场的停飞指令。",
-            "date_modified": "2025-11-04T18:07:04.000Z"
-        },
-        {
-            "id": 4477975,
-            "content_html": "",
-            "title": "Meta Platforms周二拒绝了法国权利监督机构针对其社交网络Facebook上歧视性招聘广告的算法做出的裁决。",
-            "date_modified": "2025-11-04T18:02:44.000Z"
-        },
-        {
-            "id": 4477974,
-            "content_html": "",
-            "title": "比特币跌至四个月以来的新低；最新价格为100992美元，跌幅达5.5%。",
-            "date_modified": "2025-11-04T18:01:24.000Z"
-        },
-        {
-            "id": 4477973,
-            "content_html": "",
-            "title": "亚马逊要求Perplexity阻止其人工智能代理进行购物操作，并于上周五向该公司发送禁止令函。",
-            "date_modified": "2025-11-04T18:01:11.000Z"
-        },
-        {
-            "id": 4477972,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhksc1180304.d.html",
-            "title": "因美国联合航空公司航班收到炸弹威胁，华盛顿附近的里根华盛顿国家机场一度停飞。",
-            "date_modified": "2025-11-04T17:59:28.000Z"
-        },
-        {
-            "id": 4477971,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhksc1180257.d.html",
-            "title": "华盛顿里根机场：主跑道于下午12点50分重新开放，航班正在恢复。",
-            "date_modified": "2025-11-04T17:58:07.000Z"
-        },
-        {
-            "id": 4477970,
-            "content_html": "",
-            "title": "航班雷达消息：美国华盛顿特区里根机场在跑道检查后准备重新开放，航班将从1号跑道起飞。",
-            "date_modified": "2025-11-04T17:54:24.000Z"
-        },
-        {
-            "id": 4477969,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhkse9668884.d.html",
-            "title": "【LME金属期货收盘多数下跌】LME期铜收跌192美元，报10664美元/吨。LME期铝收跌43美元，报2859美元/吨。LME期锌收跌12美元，报3088美元/吨。LME期铅收跌4美元，报2024美元/吨。LME期镍收跌67美元，报15075美元/吨。LME期锡收跌233美元，报35814美元/吨。LME期钴收平，报48570美元/吨。",
-            "date_modified": "2025-11-04T17:53:43.000Z"
-        },
-        {
-            "id": 4477968,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhksm4939320.d.html",
-            "title": "【菲律宾南部一军用直升机坠毁致6人死亡】菲律宾空军4日晚对媒体表示，当天发生在菲南部棉兰老岛的军用直升机坠机事故造成6人死亡，死者均为失事直升机乘员。",
-            "date_modified": "2025-11-04T17:52:13.000Z"
-        },
-        {
-            "id": 4477967,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhkse9668703.d.html",
-            "title": "美国联合航空公司一架华盛顿特区航线航班因接到威胁电话，已进行人员疏散。",
-            "date_modified": "2025-11-04T17:50:28.000Z"
-        },
-        {
-            "id": 4477966,
-            "content_html": "",
-            "title": "美国联合航空公司（United Airlines）股价跌幅迅速扩大，下跌 3.7%。",
-            "date_modified": "2025-11-04T17:49:34.000Z"
-        },
-        {
-            "id": 4477965,
-            "content_html": "",
-            "title": "原巴克莱首席执行官Bob Diamond预计，在监管机构支持行业整合之际，两三年内，美国银行的数量将大幅减少3000家，而他希望能参与加快这一趋势。",
-            "date_modified": "2025-11-04T17:48:29.000Z"
-        },
-        {
-            "id": 4477964,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhksi0084530.d.html",
-            "title": "美国航空：对我们的管理和支持人员团队进行小规模裁员。",
-            "date_modified": "2025-11-04T17:45:32.000Z"
-        },
-        {
-            "id": 4477963,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhksc1179270.d.html",
-            "title": "约旦发行价值7亿美元的七年期欧元债券，票面利率5.75%。",
-            "date_modified": "2025-11-04T17:41:20.000Z"
-        },
-        {
-            "id": 4477962,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhkse9667829.d.html",
-            "title": "【巴基斯坦最高法院爆炸事件已致12人受伤】当地时间11月4日，巴基斯坦最高法院的地下室食堂发生爆炸，目前已造成12人受伤，其中2人伤势严重。爆炸发生在空调维修期间，初步调查显示事故原因为可燃气体爆炸。警方称，伤势最为严重的是空调维修技术人员。目前事件正在进一步调查中。",
-            "date_modified": "2025-11-04T17:40:02.000Z"
-        },
-        {
-            "id": 4477961,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhksi0083603.d.html",
-            "title": "美国航空股价下跌3.3%，跌至盘中低点。",
-            "date_modified": "2025-11-04T17:38:16.000Z"
-        },
-        {
-            "id": 4477960,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhksi0083336.d.html",
-            "title": "以色列总理内塔尼亚胡与国防部长卡茨目前正在举行一场安全事务会谈。",
-            "date_modified": "2025-11-04T17:34:40.000Z"
-        },
-        {
-            "id": 4477959,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhksc1178685.d.html",
-            "title": "市场资讯：随着创纪录的美国政府停摆期临近，议员们看到结束停摆的希望。",
-            "date_modified": "2025-11-04T17:33:44.000Z"
-        },
-        {
-            "id": 4477958,
-            "content_html": "",
-            "title": "阿曼液化天然气公司与西班牙国家天然气公司（Naturgy）签署了一份谅解备忘录，拟探讨一项长期液化天然气供应协议：自2030年起，为期10年，每年供应量最高可达100万吨。两家公司还将考虑与阿曼阿西亚德航运公司（Asyad Shipping）共同投资建造一艘液化天然气运输船。",
-            "date_modified": "2025-11-04T17:32:33.000Z"
-        },
-        {
-            "id": 4477957,
-            "content_html": "",
-            "title": "挪威邮轮公司股价跌幅扩大，最新下跌14.3%。皇家加勒比邮轮公司股价下跌5.8%，嘉年华集团股价下跌8.5%。",
-            "date_modified": "2025-11-04T17:30:12.000Z"
-        },
-        {
-            "id": 4477956,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhksc1177959.d.html",
-            "title": "【美国银行：全球各大债市走势异常趋同 原因不明但存获利机会】美国银行的利率策略师表示，全球各大政府债券市场的走势惊人地相似，原因尚难解释，但投资者或可从中获利。以Ralf Preusser为首的全球利率研究团队在报告中指出，包括美国、欧元区、英国、日本、澳大利亚和加拿大在内的十国集团(G-10)债券市场收益率曲线形态呈现“明显的趋同态势”，即便这些市场的“定价仍反映出货币政策周期存在相当大的分化”。具体而言，市场预计美联储和英国央行将降息，日本央行将加息，而其他主要央行则料将按兵不动。然而，报告称，这六个市场收益率曲线斜率的标准差已降至有史以来最低水平，降幅超过利率波动率的下降，与各市场期限溢价的走势相悖。尽管波动率指标大幅回落，但“仍远高于加息周期开始前的水平，而全球收益率曲线如今却比当时更加趋同。”",
-            "date_modified": "2025-11-04T17:29:19.000Z"
-        },
-        {
-            "id": 4477955,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhksm4937055.d.html",
-            "title": "【民调：超半数美国民众认为关税加剧家庭财务压力】当地时间11月4日，一项最新民调显示，多数美国民众认为特朗普政府推行的高额关税政策损害民众的家庭财务状况，并推动通胀上升。调查结果显示，约七成美国人表示，与去年相比，他们在食品杂货上的支出增加；六成称水电费支出上升；另有四成表示医疗、住房及汽油开销更高。整体上，55%的受访者认为关税政策使家庭财务状况恶化。超过六成受访者认为关税推高美国通胀，并损害本国及被征税国家的经济。",
-            "date_modified": "2025-11-04T17:28:30.000Z"
-        },
-        {
-            "id": 4477954,
-            "content_html": "",
-            "title": "华盛顿里根机场：在美联航一架航班的乘客下机期间，里根国家机场的所有航班运营均处于暂停状态。",
-            "date_modified": "2025-11-04T17:28:07.000Z"
-        },
-        {
-            "id": 4477953,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhksi0082754.d.html",
-            "title": "英伟达CEO黄仁勋将与英国科技大臣利兹·肯德尔会面。",
-            "date_modified": "2025-11-04T17:27:54.000Z"
-        },
-        {
-            "id": 4477952,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhksi0082392.d.html",
-            "title": "纳斯达克100指数续跌至盘中低点，现跌1.7%。",
-            "date_modified": "2025-11-04T17:21:06.000Z"
-        },
-        {
-            "id": 4477951,
-            "content_html": "",
-            "title": "美国国会参议院4日再次未能通过联邦政府临时拨款法案。这意味着10月1日开始的本轮联邦政府“停摆”即将打破2018年年底至2019年年初“停摆”35天的历史纪录，成为美国历史上持续时间最长的政府“停摆”。",
-            "date_modified": "2025-11-04T17:18:18.000Z"
-        },
-        {
-            "id": 4477950,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhkse9666223.d.html",
-            "title": "比特币跌破101000美元，日内跌5.29%。",
-            "date_modified": "2025-11-04T17:18:02.000Z"
-        },
-        {
-            "id": 4477949,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhksc1177353.d.html",
-            "title": "美国联邦航空管理局因安全问题下令暂停华盛顿特区国家机场航班起降。",
-            "date_modified": "2025-11-04T17:17:10.000Z"
-        },
-        {
-            "id": 4477948,
-            "content_html": "",
-            "title": "国际货币基金组织发言人：国际货币基金组织继续在达喀尔与塞内加尔当局就政策和改革问题进行讨论。",
-            "date_modified": "2025-11-04T17:16:58.000Z"
-        },
-        {
-            "id": 4477947,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhkse9666058.d.html",
-            "title": "文件显示，杰弗里・爱泼斯坦曾在高盛集团和汇丰银行开设账户。",
-            "date_modified": "2025-11-04T17:16:41.000Z"
-        },
-        {
-            "id": 4477946,
-            "content_html": "",
-            "title": "阿曼液化天然气公司与西班牙纳图尔吉集团（Naturgy）签署谅解备忘录，以探讨并磋商液化天然气的长期买卖协议。",
-            "date_modified": "2025-11-04T17:13:39.000Z"
-        },
-        {
-            "id": 4477945,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-05/detail-infwhkse9665739.d.html",
-            "title": "【“大空头”Michael Burry警告AI泡沫 旗下基金做空英伟达】Michael Burry旗下的Scion Asset Management披露持有英伟达和Palantir看跌头寸，仅几天前，这位对冲基金经理在社交媒体上向散户发出一则隐晦警告，暗示市场情绪过于亢奋。",
-            "date_modified": "2025-11-04T17:12:02.000Z"
         }
     ]
 }
