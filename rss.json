@@ -6,333 +6,338 @@
     "description": "sina news zhibo",
     "items": [
         {
-            "id": 4483524,
+            "id": 4483618,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwwp5306239.d.html",
-            "title": "纽约期银日内跌1%，现报47.54美元/盎司。",
-            "date_modified": "2025-11-06T17:22:29.000Z"
+            "title": "消息人士称，特朗普政府正考虑从周五起削减4%的航班，并在此后政府停摆每持续一天，再逐日增加1%的削减幅度。",
+            "date_modified": "2025-11-06T18:33:09.000Z"
         },
         {
-            "id": 4483523,
+            "id": 4483614,
             "content_html": "",
-            "title": "捷蓝航空：正在积极监测美国联邦航空管理局计划实施的航班削减措施，并评估其对航班时刻表可能产生的影响。",
-            "date_modified": "2025-11-06T17:22:15.000Z"
+            "title": "上期所原油期货2510合约夜盘收跌1.32%，报454.40元人民币/桶。沪金夜盘收涨0.06%，沪银收涨0.11%。",
+            "date_modified": "2025-11-06T18:30:02.000Z"
         },
         {
-            "id": 4483522,
+            "id": 4483607,
             "content_html": "",
-            "title": "消息人士：SAP即将提出让步措施，以了结欧盟反垄断调查。欧盟反垄断监管机构预计未来几周向竞争对手、客户征集反馈。",
-            "date_modified": "2025-11-06T17:21:48.000Z"
+            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwpcei3011512.d.html",
+            "title": "巴西实施2025年第四次美元债销售。",
+            "date_modified": "2025-11-06T18:18:47.000Z"
         },
         {
-            "id": 4483521,
+            "id": 4483606,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwwm3138233.d.html",
-            "title": "SAP：相信欧盟委员会将迅速且公正地结束调查。",
-            "date_modified": "2025-11-06T17:20:43.000Z"
+            "title": "周四（11月6日），美联储隔夜逆回购协议（RRP）使用规模为107.54亿美元，上个交易日报127.00亿美元。",
+            "date_modified": "2025-11-06T18:17:33.000Z"
         },
         {
-            "id": 4483520,
+            "id": 4483604,
             "content_html": "",
-            "title": "消息人士：欧盟监管机构数月前已就 SAP 的让步措施开展非正式市场测试，相关提议或获通过。",
-            "date_modified": "2025-11-06T17:20:27.000Z"
+            "title": "谷歌：推出三项面向销售端产品的全新人工智能更新——广告管理器、广告联盟和广告管理。",
+            "date_modified": "2025-11-06T18:17:05.000Z"
         },
         {
-            "id": 4483519,
+            "id": 4483600,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwwp1626959.d.html",
-            "title": "市场消息：瑞典哥德堡市机场上空发现无人机，机场交通已暂停。",
-            "date_modified": "2025-11-06T17:19:55.000Z"
+            "title": "诺和诺德：预计2026年销售面临的不利影响程度将处于0%-10%区间的下端。预计将在2月4日针对2026年披露业绩指引。",
+            "date_modified": "2025-11-06T18:07:58.000Z"
         },
         {
-            "id": 4483518,
+            "id": 4483598,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwwm3138177.d.html",
-            "title": "美联储威廉姆斯：美联储的独立性对全球经济至关重要。",
-            "date_modified": "2025-11-06T17:19:39.000Z"
+            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwpceq6599539.d.html",
+            "title": "倍耐力CEO：预计2026年关税净影响与2025年相近，主要集中在上半年。",
+            "date_modified": "2025-11-06T18:07:00.000Z"
         },
         {
-            "id": 4483517,
+            "id": 4483597,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwwm3138168.d.html",
-            "title": "美联储威廉姆斯：如果美联储决策正确，将有利于全球经济。",
-            "date_modified": "2025-11-06T17:19:30.000Z"
+            "title": "市场消息：Pytorch联席创始人Soumith Chintala离开扎克伯格的Meta Platforms。",
+            "date_modified": "2025-11-06T18:06:44.000Z"
         },
         {
-            "id": 4483516,
+            "id": 4483594,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwws6725478.d.html",
-            "title": "美国卫生部长肯尼迪：即将发布将改变美国饮食文化的膳食指南。",
-            "date_modified": "2025-11-06T17:19:18.000Z"
+            "title": "安大略省预计 2025 年 GDP 增长率为 0.8%、2026 年为 0.9%，而 5 月预测的两年增长率分别为 0.8% 和 1%。",
+            "date_modified": "2025-11-06T18:06:21.000Z"
         },
         {
-            "id": 4483515,
+            "id": 4483592,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwws6725439.d.html",
-            "title": "美联储威廉姆斯：在其他国家，央行丧失独立性对通胀造成了严重后果。",
-            "date_modified": "2025-11-06T17:18:33.000Z"
+            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwpcem1499527.d.html",
+            "title": "诺和诺德在美上市股票跌幅扩大，最新下跌3.5%。",
+            "date_modified": "2025-11-06T18:04:26.000Z"
         },
         {
-            "id": 4483514,
+            "id": 4483591,
             "content_html": "",
-            "title": "美联储威廉姆斯：有充分证据表明，独立的中央银行会做出不受欢迎的短期决策，但这些决策最终会带来回报。",
-            "date_modified": "2025-11-06T17:18:25.000Z"
+            "title": "LME期铜收跌15美元，报10682美元/吨。\nLME期铝收跌6美元，报2844美元/吨。\nLME期锌收涨4美元，报3047美元/吨。\nLME期铅收涨12美元，报2032美元/吨。\nLME期镍收涨3美元，报15038美元/吨。\nLME期锡收涨196美元，报35845美元/吨。\nLME期钴收平，报48570美元/吨。",
+            "date_modified": "2025-11-06T18:03:55.000Z"
         },
         {
-            "id": 4483513,
+            "id": 4483590,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwwp5305927.d.html",
-            "title": "美联储威廉姆斯：美联储的独立性极其重要。",
-            "date_modified": "2025-11-06T17:18:01.000Z"
+            "title": "诺和诺德：2026 年起将通过试点项目，将肥胖治疗药物纳入美国联邦医疗保险 D 部分（Medicare Part D）的承保范围，在美国医保D部分和医疗补助计划中降低诺和诺德司美格鲁肽药物的价格。",
+            "date_modified": "2025-11-06T18:03:38.000Z"
         },
         {
-            "id": 4483512,
+            "id": 4483588,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwwp5305920.d.html",
-            "title": "【Focus杂志：保时捷考虑逐步退出中国】据Focus杂志援引知情人士报道，由于交付量下降，德国跑车制造商保时捷可能正准备逐步退出中国。该公司一位代表对Focus表示，该公司将“优化”其经销商网络，目标是“到2026年底减少门店数量”。Focus援引保时捷报道，公司将继续灵活调整在当地的业务活动，以适应市场发展。",
-            "date_modified": "2025-11-06T17:17:49.000Z"
+            "title": "备忘录显示：高盛将提拔638名高管为董事总经理，为2021年以来规模最大的一次提拔。",
+            "date_modified": "2025-11-06T18:02:31.000Z"
         },
         {
-            "id": 4483511,
+            "id": 4483587,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwws6725285.d.html",
-            "title": "美国将于周四启动联合国关于国际加沙部队授权的谈判。",
-            "date_modified": "2025-11-06T17:16:08.000Z"
+            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwpcei3010611.d.html",
+            "title": "诺和诺德：目前预计2026年全球销售额增长将受到个位数低位的负面影响。",
+            "date_modified": "2025-11-06T18:02:12.000Z"
         },
         {
-            "id": 4483510,
+            "id": 4483586,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwws6725225.d.html",
-            "title": "美联储威廉姆斯：让所有人都知道美联储的通胀目标很重要。",
-            "date_modified": "2025-11-06T17:15:22.000Z"
+            "title": "巴西政府数据显示：10月大豆出口量为673万吨，去年同期为471万吨。\n10月出口474,017吨家禽，去年同期为434,664吨。\n10月纸浆出口量为185.1717万吨，去年同期为178.0036万吨。\n10月糖出口量为420万吨，去年同期为373万吨。\n10月牛肉出口量为320,558吨，去年同期为270,259吨。\n10月出口铁矿石4070万吨，去年同期为3521万吨。\n10月出口原油891万吨，去年同期为755万吨。\n10月玉米出口量为650.052万吨，去年同期为640.4878万吨。\n10月出口绿咖啡233,094吨，去年同期为279,233吨。",
+            "date_modified": "2025-11-06T18:02:04.000Z"
         },
         {
-            "id": 4483509,
+            "id": 4483585,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwwp5305731.d.html",
-            "title": "美联储威廉姆斯：2%的通胀目标是一个非常好的折中方案，对我们很有帮助。",
-            "date_modified": "2025-11-06T17:15:11.000Z"
+            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwpcei3010528.d.html",
+            "title": "巴西10月贸易盈余扩大至69.64亿美元，分析师预期贸易顺差62亿美元。",
+            "date_modified": "2025-11-06T18:00:44.000Z"
         },
         {
-            "id": 4483508,
+            "id": 4483582,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwws6725201.d.html",
-            "title": "美国总统特朗普：最高法院就关税问题作出不利裁决将“对国家造成毁灭性影响”。",
-            "date_modified": "2025-11-06T17:14:59.000Z"
+            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwpceq6598996.d.html",
+            "title": "美联储哈玛克：留意到就业市场已降温，但近期数据仍显示就业市场状况良好",
+            "date_modified": "2025-11-06T17:59:48.000Z"
         },
         {
-            "id": 4483507,
+            "id": 4483581,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwwp1626685.d.html",
-            "title": "美联储威廉姆斯：我们应尽快将通胀率降至2%，这一举措是正确的。",
-            "date_modified": "2025-11-06T17:14:41.000Z"
+            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwpcem1499233.d.html",
+            "title": "据知情人士透露透露，挪威将对巴西TFFF做出十年期内投资30亿美元的承诺。",
+            "date_modified": "2025-11-06T17:59:23.000Z"
         },
         {
-            "id": 4483506,
+            "id": 4483580,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwwm3137921.d.html",
-            "title": "美国总统特朗普：礼来、诺和诺德将在美国新建工厂。",
-            "date_modified": "2025-11-06T17:14:33.000Z"
+            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwpcei3010456.d.html",
+            "title": "挪威：政府将向新基金提供 300 亿挪威克朗，用于保护热带雨林。",
+            "date_modified": "2025-11-06T17:59:09.000Z"
         },
         {
-            "id": 4483505,
+            "id": 4483575,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwwp1626654.d.html",
-            "title": "美联储威廉姆斯：人们不喜欢高通胀。",
-            "date_modified": "2025-11-06T17:14:23.000Z"
+            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwpcei3010225.d.html",
+            "title": "美联储理事米兰：劳动力市场是在逐步恶化，而非加速恶化。",
+            "date_modified": "2025-11-06T17:55:34.000Z"
         },
         {
-            "id": 4483504,
+            "id": 4483574,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwws6725131.d.html",
-            "title": "美国总统特朗普：礼来公司将在美国投资270亿美元，诺和诺德将投资100亿美元。",
-            "date_modified": "2025-11-06T17:14:08.000Z"
+            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwpcei3010185.d.html",
+            "title": "美联储理事米兰：不需要降息75个基点，也无需弥补此前降息幅度的不足。",
+            "date_modified": "2025-11-06T17:54:44.000Z"
         },
         {
-            "id": 4483503,
+            "id": 4483573,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwws6725107.d.html",
-            "title": "礼来、诺和诺德获得美国三年关税豁免。",
-            "date_modified": "2025-11-06T17:14:00.000Z"
+            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwpcem1498913.d.html",
+            "title": "美国白宫：特朗普的制药行业相关活动即将重启。",
+            "date_modified": "2025-11-06T17:54:16.000Z"
         },
         {
-            "id": 4483502,
+            "id": 4483572,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwwp5305600.d.html",
-            "title": "美国总统特朗普：许多常用药物将以六折的价格出售。",
-            "date_modified": "2025-11-06T17:13:41.000Z"
+            "title": "美联储理事米兰：我希望以每次50个基点的幅度将利率调至中性水平；我的很多同事希望每次调整25个基点。",
+            "date_modified": "2025-11-06T17:51:36.000Z"
         },
         {
-            "id": 4483501,
+            "id": 4483571,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwwp5305559.d.html",
-            "title": "美国总统特朗普：美国人应该支付全球最低的药品价格。",
-            "date_modified": "2025-11-06T17:13:05.000Z"
+            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwpcem5178795.d.html",
+            "title": "美联储理事米兰：我预计我们将在12月降息。",
+            "date_modified": "2025-11-06T17:51:22.000Z"
         },
         {
-            "id": 4483500,
+            "id": 4483570,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwwp1626514.d.html",
-            "title": "罗素2000指数下跌1.5%。",
-            "date_modified": "2025-11-06T17:12:39.000Z"
+            "title": "Meta、谷歌母公司Alphabet、Snap等避免美国审查年轻人对社交媒体成瘾的尝试失败。",
+            "date_modified": "2025-11-06T17:50:08.000Z"
         },
         {
-            "id": 4483499,
+            "id": 4483568,
             "content_html": "",
-            "title": "美国总统特朗普：礼来公司和诺和诺德承诺，GLP - 1类药物月售价不超过149美元。",
-            "date_modified": "2025-11-06T17:12:32.000Z"
+            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwws6728982.d.html",
+            "title": "市场消息：哈萨克斯坦总统将在周四与特朗普的会面中宣布（相关事宜）。",
+            "date_modified": "2025-11-06T17:49:44.000Z"
         },
         {
-            "id": 4483498,
+            "id": 4483567,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwws6724970.d.html",
-            "title": "美联储威廉姆斯：美国的大规模人工智能投资正在影响全球资本需求。",
-            "date_modified": "2025-11-06T17:12:12.000Z"
+            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwwp1629253.d.html",
+            "title": "美联储哈玛克：货币政策是一种“钝器”，难以轻易应对经济表现分化的问题。",
+            "date_modified": "2025-11-06T17:48:57.000Z"
         },
         {
-            "id": 4483497,
+            "id": 4483565,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwwp5305449.d.html",
-            "title": "美国总统特朗普：预计新版减肥药即将问世。",
-            "date_modified": "2025-11-06T17:11:54.000Z"
+            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwwp1629138.d.html",
+            "title": "美联储哈玛克：消费正由高收入美国人推动。",
+            "date_modified": "2025-11-06T17:47:40.000Z"
         },
         {
-            "id": 4483496,
+            "id": 4483564,
             "content_html": "",
-            "title": "美国总统特朗普：感谢礼来与诺和诺德与美国达成药品价格协议，礼来和诺和诺德的GLP-1药物将纳入“最惠国”定价机制。Zepbound和Wegovy价格将下调，医疗保险和医疗补助将涵盖这些减肥药物。",
-            "date_modified": "2025-11-06T17:11:41.000Z"
+            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwwp5309257.d.html",
+            "title": "美联储哈玛克：经常听到有关经济两极分化的情况，低收入群体面临挑战。",
+            "date_modified": "2025-11-06T17:47:18.000Z"
         },
         {
-            "id": 4483495,
+            "id": 4483563,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwwm3137613.d.html",
-            "title": "Meta：全新Meta AI应用今日在欧洲全面上线。",
-            "date_modified": "2025-11-06T17:11:03.000Z"
+            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwwp1628921.d.html",
+            "title": "美联储哈玛克：美联储的独立性使央行能够做出更优决策。",
+            "date_modified": "2025-11-06T17:45:18.000Z"
         },
         {
-            "id": 4483494,
+            "id": 4483562,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwwp5305312.d.html",
-            "title": "礼来公司与白宫达成包括降低减肥药价格的协议后，其股价涨幅扩大，最新上涨2.2%。",
-            "date_modified": "2025-11-06T17:10:31.000Z"
+            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwws6728423.d.html",
+            "title": "【德债收益率跌约2个基点】周四（11月6日）欧市尾盘，德国10年期国债收益率下跌2.4个基点，刷新日低至2.649%，北京时间20:52微幅上涨至2.675%刷新日高，之后持续下跌。\n两年期德债收益率跌1.8个基点，刷新日低至1.987%，北京时间00:00之前交投于2%整数位心理关口附近，之后显著下挫；30年期德债收益率跌2.1个基点，报3.238%。\n2/10年期德债收益率利差跌0.552个基点，报+66.121个基点。法国10年期国债收益率跌1.2个基点，意大利10年期国债收益率跌1.2个基点，西班牙10年期国债收益率跌1.4个基点，希腊10年期国债收益率跌1.2个基点。",
+            "date_modified": "2025-11-06T17:44:13.000Z"
         },
         {
-            "id": 4483493,
+            "id": 4483561,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwwp5305232.d.html",
-            "title": "特朗普政府高级官员宣布与礼来、诺和诺德达成两项协议，其中包括降低减肥药价格。",
-            "date_modified": "2025-11-06T17:09:47.000Z"
+            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwwp1628807.d.html",
+            "title": "据报道，哈萨克斯坦将宣布加入《亚伯拉罕协议》。",
+            "date_modified": "2025-11-06T17:43:53.000Z"
         },
         {
-            "id": 4483492,
+            "id": 4483560,
             "content_html": "",
-            "title": "特朗普政府高级官员：2026年初“特朗普药品计划”（Trump RX）推出时，几乎所有初级保健药物都将以美国净价供应，在很多情况下还将以最惠国价格供应。",
-            "date_modified": "2025-11-06T17:09:29.000Z"
+            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwwm3139904.d.html",
+            "title": "美联储哈玛克：稳定币是一项令人兴奋的新技术。",
+            "date_modified": "2025-11-06T17:42:21.000Z"
         },
         {
-            "id": 4483491,
+            "id": 4483559,
             "content_html": "",
-            "title": "特朗普政府高级官员：礼来和诺和诺德未来在所有商业市场、医疗保险、医疗补助和现金市场推出的所有药品都将采用最惠国待遇定价。",
-            "date_modified": "2025-11-06T17:09:09.000Z"
+            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwwm3139675.d.html",
+            "title": "【英国国王签署诏书 正式剥夺安德鲁王子头衔】英国国王查尔斯三世正式签署诏书，剥夺安德鲁·蒙巴顿·温莎的“王子”头衔及“殿下”称号。根据英国王室办公室发布的公告，国王已于11月3日签署专用诏书，并在英国官方公报上正式公布。65岁的安德鲁是已故英国女王伊丽莎白二世的次子。近些年来，他因与已故性犯罪者、美国富商杰弗里·爱泼斯坦的关系深陷丑闻。当地时间10月30日，英国白金汉宫声明称，英国国王查尔斯三世已启动正式程序，剥夺其弟安德鲁王子的尊号、头衔及荣誉，并已通知他搬离王室住所。（央视新闻）",
+            "date_modified": "2025-11-06T17:41:03.000Z"
         },
         {
-            "id": 4483490,
+            "id": 4483554,
             "content_html": "",
-            "title": "据白宫消息人士透露，礼来和诺和诺德将把现有产品增加的海外收入汇回国内，并让美国各州的医疗补助计划能够享受最惠国待遇定价。",
-            "date_modified": "2025-11-06T17:08:46.000Z"
+            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwwp1628280.d.html",
+            "title": "美联储哈玛克：很高兴看到常备回购协议工具被启用，惊讶于它没有得到更大量的使用。",
+            "date_modified": "2025-11-06T17:40:03.000Z"
         },
         {
-            "id": 4483489,
+            "id": 4483553,
             "content_html": "",
-            "title": "特朗普政府高级官员：礼来公司、诺和诺德公司将把目前用于治疗糖尿病及其他适应症的GLP - 1类药物价格降至每月245美元。",
-            "date_modified": "2025-11-06T17:08:29.000Z"
+            "title": "美联储哈玛克：联邦基金（利率）市场“越来越窄”。将讨论与美联储目标利率相关的问题。充裕储备金的（政策）框架即将落地生效。",
+            "date_modified": "2025-11-06T17:39:52.000Z"
         },
         {
-            "id": 4483488,
+            "id": 4483552,
             "content_html": "",
-            "title": "特朗普政府高级官员：面向消费者的GLP - 1类药物中，注射剂平均起步价格为350美元，未来两年内将逐步降至250美元。",
-            "date_modified": "2025-11-06T17:08:17.000Z"
+            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwwp5308328.d.html",
+            "title": "美联储哈玛克：货币市场出现一定程度的波动是可以接受的。",
+            "date_modified": "2025-11-06T17:38:41.000Z"
         },
         {
-            "id": 4483487,
+            "id": 4483551,
             "content_html": "",
-            "title": "特朗普政府高级官员：面向消费者的GLP - 1类药物若获批，片剂起始售价为149美元。",
-            "date_modified": "2025-11-06T17:08:01.000Z"
+            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwwp5308293.d.html",
+            "title": "洲际交易所（ICE）阿拉比卡咖啡期货下跌近4%，至每磅3.9770美元。",
+            "date_modified": "2025-11-06T17:38:23.000Z"
         },
         {
-            "id": 4483486,
+            "id": 4483550,
             "content_html": "",
-            "title": "特朗普政府高级官员：在医疗保险方面，用于治疗糖尿病的GLP - 1制剂自付费用将为50美元。 在医疗保险和医疗补助计划中，所有获批用于治疗肥胖症的GLP - 1类药物起始价格为245美元。",
-            "date_modified": "2025-11-06T17:07:55.000Z"
+            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwwp1628183.d.html",
+            "title": "美联储哈玛克：改变美联储利率目标可能不会产生更广泛的政策影响。",
+            "date_modified": "2025-11-06T17:38:01.000Z"
         },
         {
-            "id": 4483485,
+            "id": 4483549,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwws6724471.d.html",
-            "title": "特朗普政府高级官员：约10%的医疗保险患者将有资格扩大使用GLP - 1类药物。",
-            "date_modified": "2025-11-06T17:07:22.000Z"
+            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwwp1628172.d.html",
+            "title": "美国总统特朗普在椭圆形办公室发表讲话时，一名官员晕倒，讲话随即暂停。",
+            "date_modified": "2025-11-06T17:37:48.000Z"
         },
         {
-            "id": 4483484,
+            "id": 4483548,
             "content_html": "",
-            "title": "特朗普政府高级官员：GLP-1 类药物降价安排：面向消费者的直供渠道不晚于 1 月启动降价，联邦医疗保险渠道 2026 年年中启动降价，医疗补助计划渠道则根据各州签约时间逐步持续降价。",
-            "date_modified": "2025-11-06T17:07:08.000Z"
+            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwwp1628139.d.html",
+            "title": "美联储哈玛克：美联储就其利率目标应设定在何种水平展开辩论是有益的。",
+            "date_modified": "2025-11-06T17:37:17.000Z"
         },
         {
-            "id": 4483483,
+            "id": 4483547,
             "content_html": "",
-            "title": "特朗普政府高级官员：商业健康保险公司也将能够以更低的价格获得GLP - 1类药物。",
-            "date_modified": "2025-11-06T17:06:21.000Z"
+            "title": "美联储哈玛克：美联储在管理联邦基金利率方面做得非常出色，但这是一个规模较小的市场。",
+            "date_modified": "2025-11-06T17:36:15.000Z"
         },
         {
-            "id": 4483482,
+            "id": 4483546,
             "content_html": "",
-            "title": "特朗普政府高级官员：商业健康保险公司看到的GLP - 1药物价格可能比现金市场价格和最惠国待遇价格低25%。",
-            "date_modified": "2025-11-06T17:06:07.000Z"
+            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwwp5307954.d.html",
+            "title": "【10/30年期英债收益率跌约3个基点，四名官员在决议日要求英国央行行长贝利降息】周四（11月6日）欧市尾盘，英国10年期国债收益率下跌2.9个基点，报4.433%，北京时间20:00英国央行公布利率决议、宣布下调通胀预期时波动于4.469%-4.443%区间，22:20（美股开盘前不久）刷新日低至4.424%。\n两年期英债收益率跌1.7个基点，报3.786%，英国央行宣布按兵不动时从3.8%上方跳水至3.780%，21:39（发布美国就业数据后不久）刷新日低至3.766%。\n30年期英债收益率跌3.1个基点，报5.218%；50年期英债收益率跌2.5个基点，报4.707%。2/10年期英债收益率利差跌1.192个基点，报+64.557个基点。",
+            "date_modified": "2025-11-06T17:35:43.000Z"
         },
         {
-            "id": 4483481,
+            "id": 4483545,
             "content_html": "",
-            "title": "特朗普政府高级官员：美国食品药品监督管理局将向礼来、诺和诺德等制药商的特定药品发放优先审评凭证。",
-            "date_modified": "2025-11-06T17:05:52.000Z"
+            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwws6727276.d.html",
+            "title": "美联储哈玛克：人工智能是一种结构性经济变化，不太适合通过货币政策调整来应对。",
+            "date_modified": "2025-11-06T17:34:58.000Z"
         },
         {
-            "id": 4483480,
+            "id": 4483544,
             "content_html": "",
-            "title": "诺和诺德：将在与特朗普政府达成的协议框架下降低所有注射用韦戈维（Wegovy）和奥泽美皮克（Ozempic）药品的价格。",
-            "date_modified": "2025-11-06T17:05:39.000Z"
+            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwwp5307624.d.html",
+            "title": "美联储哈玛克：人工智能热潮可能会重现互联网建设时期的情况。",
+            "date_modified": "2025-11-06T17:34:27.000Z"
         },
         {
-            "id": 4483479,
+            "id": 4483543,
             "content_html": "",
-            "title": "诺和诺德：将对美国制造业进行额外投资，若获批，还将在美国生产 Wegovy 片剂。",
-            "date_modified": "2025-11-06T17:05:28.000Z"
+            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwws6726915.d.html",
+            "title": "美国总统特朗普：美国今年的投资可能超过21万亿美元。",
+            "date_modified": "2025-11-06T17:33:39.000Z"
         },
         {
-            "id": 4483478,
+            "id": 4483541,
             "content_html": "",
-            "title": "诺和诺德：声明称，根据特朗普协议，若预期推出的司美格鲁肽（Wegovy）片剂获批，149 美元的价格适用于最低剂量产品，且适用于所有直接面向患者的产品供应。",
-            "date_modified": "2025-11-06T17:05:22.000Z"
+            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwwp5307083.d.html",
+            "title": "国际货币基金组织官员：该组织仍在同步推进塞内加尔的贷款计划以及债务误报豁免事宜。",
+            "date_modified": "2025-11-06T17:32:32.000Z"
         },
         {
-            "id": 4483477,
+            "id": 4483540,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwwp5304749.d.html",
-            "title": "据白宫消息人士透露，诺和诺德承诺在美国追加100亿美元投资。",
-            "date_modified": "2025-11-06T17:05:09.000Z"
+            "title": "国际货币基金组织官员：该组织对塞内加尔部分税收措施的“雄心程度”存在一些担忧。 塞内加尔已将地区银行贷款证券化，并延长了贷款期限；计划对一些“昂贵的”外部贷款采取同样的措施。塞内加尔已制定“大规模、激进的财政整顿”计划，并且在控制债务方面“非常认真”。可持续性分析将有助于判断塞内加尔是否需要对其债务进行重组。",
+            "date_modified": "2025-11-06T17:32:22.000Z"
         },
         {
-            "id": 4483476,
+            "id": 4483539,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwwp5304738.d.html",
-            "title": "诺和诺德：白宫协议与《降低通胀法案》框架下的谈判相互独立。",
-            "date_modified": "2025-11-06T17:05:02.000Z"
+            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwwp1627543.d.html",
+            "title": "美联储哈玛克：正在密切关注通胀预期数据。",
+            "date_modified": "2025-11-06T17:30:35.000Z"
         },
         {
-            "id": 4483475,
+            "id": 4483538,
             "content_html": "",
-            "title": "礼来公司：根据协议，自费患者购买Zepbound最低剂量版本的费用为299美元，更高剂量版本每月费用为449美元。",
-            "date_modified": "2025-11-06T17:04:51.000Z"
+            "url": "https://finance.sina.cn/7x24/2025-11-07/detail-infwnwwm3138743.d.html",
+            "title": "美联储哈玛克：目前经济相当强劲且健康。",
+            "date_modified": "2025-11-06T17:29:21.000Z"
         }
     ]
 }
