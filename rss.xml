@@ -4,13 +4,71 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 08 Nov 2025 15:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Nov 2025 16:27:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[市场消息：德国将从空客公司购买20架军用战斗直升机，价值超30亿欧元。]]></title>
+            <title><![CDATA[印度政府就德里空管技术故障表态：民航部长指示官员规划更多系统升级事宜。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-09/detail-infwtmai0991258.d.html</link>
+            <guid>4486767</guid>
+            <pubDate>Sat, 08 Nov 2025 16:20:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度政府就德里机场技术故障一事表示：系统已于11月8日下午完全恢复至自动运行模式。]]></title>
+            <guid>4486762</guid>
+            <pubDate>Sat, 08 Nov 2025 16:14:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦航空管理局因人手不足对纽约拉瓜迪亚机场发布暂停起降令。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-09/detail-infwtmaq4652181.d.html</link>
+            <guid>4486759</guid>
+            <pubDate>Sat, 08 Nov 2025 16:09:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国将依据严格的丹麦模式制定新的庇护法规。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-09/detail-infwtmaq4650685.d.html</link>
+            <guid>4486755</guid>
+            <pubDate>Sat, 08 Nov 2025 16:02:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其官方公告：土耳其周六将国家谷物局的大麦与玉米免税进口配额均从70万吨上调至100万吨。]]></title>
+            <guid>4486742</guid>
+            <pubDate>Sat, 08 Nov 2025 15:45:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄称未通过外交渠道收到美方关于恢复核试验言论说明】当地时间8日，记者获悉，俄外长拉夫罗夫称，俄方迄今尚未通过外交渠道收到美方就美国总统特朗普关于恢复核试验言论的任何说明。他还表示，俄罗斯总统普京关于核试验的指示正在执行中。拉夫罗夫称，目前尚不清楚，特朗普所言究竟指核武器运载工具试验，还是指亚临界试验。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-08/detail-infwtmaq4648751.d.html</link>
+            <guid>4486741</guid>
+            <pubDate>Sat, 08 Nov 2025 15:44:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列第12频道：以色列军队摧毁“黄线”沿线的哈马斯基础设施。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-08/detail-infwtmak9474214.d.html</link>
+            <guid>4486739</guid>
+            <pubDate>Sat, 08 Nov 2025 15:41:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【罗德里戈·帕斯·佩雷拉宣誓就任玻利维亚总统】当地时间11月8日，罗德里戈·帕斯·佩雷拉在玻利维亚行政首都拉巴斯宣誓就职，出任玻利维亚新一任总统。帕斯现年58岁，曾任玻利维亚南部塔里哈市市长和塔里哈省参议员。今年10月19日，他在总统选举第二轮投票中战胜右翼“自由”联盟候选人、前总统豪尔赫·基罗加，赢得总统选举。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-08/detail-infwtmaq4645668.d.html</link>
+            <guid>4486737</guid>
+            <pubDate>Sat, 08 Nov 2025 15:25:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沙特部长称，在推动豪华旅游后，沙特阿拉伯将目标转向更广泛的旅游市场。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-08/detail-infwtmam3225741.d.html</link>
+            <guid>4486736</guid>
+            <pubDate>Sat, 08 Nov 2025 15:22:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列国防军：以色列国防军在黎巴嫩南部打击并消灭了一名真主党恐怖分子。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-08/detail-infwtmai0982117.d.html</link>
+            <guid>4486735</guid>
+            <pubDate>Sat, 08 Nov 2025 15:21:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：德国将从空客公司购买20架军用战斗直升机，价值超10亿欧元。]]></title>
             <link>https://finance.sina.cn/7x24/2025-11-08/detail-infwteup3356164.d.html</link>
             <guid>4486734</guid>
             <pubDate>Sat, 08 Nov 2025 15:18:58 GMT</pubDate>
@@ -238,59 +296,6 @@
             <title><![CDATA[胡塞武装：成功开展了一次高质量的安全行动，挫败了他们的阴谋。此次行动逮捕了一个隶属于美国中央情报局、以色列摩萨德和沙特情报机构联合行动室的间谍网络，该网络设在沙特境内。]]></title>
             <guid>4486671</guid>
             <pubDate>Sat, 08 Nov 2025 13:12:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马杜罗：美国电影里拉美人永远是坏人】11月6日，委内瑞拉总统马杜罗在一场活动中表示，尽管“美国佬”14周以来一直在威胁委内瑞拉，不断加强军事部署，但委内瑞拉“不为所动”。他批评美国政客信奉力量至上主义，看什么都像电影一样，而拉美人在好莱坞电影中总是坏人。9月以来，美国特朗普政府已宣称在委内瑞拉外海国际水域击沉多艘所谓“贩毒船”。而美国缉毒署近年报告显示，委内瑞拉并非流入美国毒品的主要来源地。委内瑞拉政府多次指责美国意图通过军事威胁在委内瑞拉策动政权更迭，并在拉美进行军事扩张。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-08/detail-infwsynq9712056.d.html</link>
-            <guid>4486670</guid>
-            <pubDate>Sat, 08 Nov 2025 13:03:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以军称在黎巴嫩南部打死2名真主党武装人员】当地时间8日，以色列国防军发布通告称，当天在黎巴嫩南部发动军事打击，打死两名隶属于“黎巴嫩抵抗旅”的武装人员。以军称，该组织由黎真主党直接领导。据以军通报，这两名武装人员涉嫌参与为黎真主党走私武器。黎巴嫩真主党对此暂无回应。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-08/detail-infwsynr3460787.d.html</link>
-            <guid>4486669</guid>
-            <pubDate>Sat, 08 Nov 2025 12:56:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯对乌克兰发动大规模空袭 乌多地能源和交通设施受损】俄罗斯国防部8日通报说，俄武装部队7日夜间至8日凌晨使用高精度武器对乌克兰军工企业及配套能源设施实施大规模打击，目标均被命中。通报说，俄方使用的高精度武器包括“匕首”高超音速弹道导弹。俄防空系统在过去一昼夜击落178架乌克兰无人机及2枚制导航空炸弹。据乌克兰空军和各级政府机构8日发布的消息，7日晚至8日凌晨，俄军对乌克兰发动大规模导弹和无人机袭击，波尔塔瓦州、哈尔科夫州、基辅州、第聂伯罗彼得罗夫斯克州等地的能源和铁路设施遭袭受损，包括基辅市、基辅州、哈尔科夫州在内的多地实施紧急停电。截至8日上午，袭击已造成4人死亡。乌克兰国家电力公司当天在社交媒体发文说，受空袭影响，乌克兰多个州实施紧急停电，工业用户继续实施限电。乌克兰国家石油天然气公司当天在社交媒体发文说，本轮空袭是10月以来俄军对乌能源基础设施发动的第九轮大规模袭击，乌克兰负责“提供天然气和供暖”的工业设施遭袭，生产设施受损。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-08/detail-infwsynp1222024.d.html</link>
-            <guid>4486668</guid>
-            <pubDate>Sat, 08 Nov 2025 12:54:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【太原理工连增两名学术副校长：80后上交大特聘教授杨晓伟上任】太原理工大学连续迎来两名学术副校长。据学校官网“现任领导”栏目资料，上海交通大学化学化工学院研究员、特聘教授杨晓伟于今年11月任太原理工大学学术副校长。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-08/detail-infwsynq9710616.d.html</link>
-            <guid>4486667</guid>
-            <pubDate>Sat, 08 Nov 2025 12:53:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海关数据库出现故障 乌克兰关闭出入境通道】当地时间8日，乌克兰国家边防局发布消息称，由于海关数据库出现故障，乌克兰边境的出入境通道已暂时关闭。据悉，此次边境关闭的直接原因是技术故障导致海关系统无法正常运作，进而使得过境所需的通关手续无法完成。受此影响，乌克兰各边境检查站可能会出现人员排队和交通延误等情况。边防部门提醒计划出入境的民众及旅客，及时关注官方后续发布的信息。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-08/detail-infwsynu4879124.d.html</link>
-            <guid>4486665</guid>
-            <pubDate>Sat, 08 Nov 2025 12:49:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[泽连斯基：当晚，乌克兰国防军击落了400多架无人机。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-08/detail-infwsynu4878473.d.html</link>
-            <guid>4486664</guid>
-            <pubDate>Sat, 08 Nov 2025 12:45:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[泽连斯基：夜间袭击过后，恢复工作正在进行中。此次袭击规模庞大，敌方发射了大量弹道导弹，包括至少 25 枚弹道导弹，此外还有空射弹道导弹、巡航导弹，以及 450 多架各类型无人机。这是一次极其肆无忌惮的袭击，在很大程度上带有示威性质。]]></title>
-            <guid>4486663</guid>
-            <pubDate>Sat, 08 Nov 2025 12:44:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【格鲁吉亚总理：中国是现代化发展的典范 维护和平的榜样】近日，格鲁吉亚总理科巴希泽接受总台《高端访谈》栏目专访时谈到他眼中的中国：是现代化发展的典范，更是维护和平的榜样！格鲁吉亚总理 科巴希泽称近几十年的历史已经证明，中国是当今世界上坚持和平发展的大国，这一点非常值得肯定。众所周知中国重视和平与稳定，也一直在本地区乃至更广泛区域推动和平进程。这样的立场和定位理应得到国际社会的广泛尊重与认可。中国不仅是现代化发展的典范，更是维护和平的榜样。我们都能看到，当前世界各地仍存在不少军事冲突和各类战乱，在这样的背景下，中国展现出了完全不同的方式，我们对此高度赞赏。也正因为如此，加强与中国的战略伙伴关系，对我们而言具有尤为重要的价值。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-08/detail-infwsynu4878283.d.html</link>
-            <guid>4486662</guid>
-            <pubDate>Sat, 08 Nov 2025 12:43:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【饶清华不再担任江西省自然资源厅党组成员、省地质局党组书记】江西省自然资源厅、江西省地质局官网11月8日前后更新显示，饶清华已不再担任江西省自然资源厅党组成员、省地质局党组书记。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-08/detail-infwsynu4877949.d.html</link>
-            <guid>4486661</guid>
-            <pubDate>Sat, 08 Nov 2025 12:41:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
