@@ -4,11 +4,40 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 08 Nov 2025 21:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Nov 2025 22:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[特朗普政府称，芝加哥发生针对移民官员的枪击事件。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-09/detail-infwtzya9108657.d.html</link>
+            <guid>4486897</guid>
+            <pubDate>Sat, 08 Nov 2025 22:14:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院休会至明日下午1点30分。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-09/detail-infwtvse9239018.d.html</link>
+            <guid>4486895</guid>
+            <pubDate>Sat, 08 Nov 2025 22:03:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：叙利亚总统抵达美国进行正式访问。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-09/detail-infwtvsf2995772.d.html</link>
+            <guid>4486894</guid>
+            <pubDate>Sat, 08 Nov 2025 21:42:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德黑兰将实行夜间限水措施】伊朗能源部长阿巴斯·阿里阿巴迪8日表示，由于气候干旱和供水设施老化，伊朗面临缺水问题，首都德黑兰将实行夜间限水措施。伊朗伊斯兰共和国广播电视台援引阿里阿巴迪的话说，德黑兰部分地区夜间可能会停水。他建议市民安装蓄水罐和增压泵，以便在限水期间维持用水。阿里阿巴迪还表示，因部分输水管道在今年6月与以色列的冲突中受损，政府正通过降低管网水压来控制漏损。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-09/detail-infwtvse9237335.d.html</link>
+            <guid>4486871</guid>
+            <pubDate>Sat, 08 Nov 2025 21:20:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：11月09日05时04分在日本本州东部远海（北纬39.30度，东经143.55度）发生5.1级地震，震源深度10千米。]]></title>
+            <guid>4486870</guid>
+            <pubDate>Sat, 08 Nov 2025 21:20:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：玻利维亚与美国将恢复大使级外交关系。]]></title>
             <link>https://finance.sina.cn/7x24/2025-11-09/detail-infwtvse9237171.d.html</link>
@@ -276,34 +305,6 @@ Meta的这份内部文件显示，这家社交媒体巨头在过去至少三年�
             <link>https://finance.sina.cn/7x24/2025-11-08/detail-infwtmam3225741.d.html</link>
             <guid>4486736</guid>
             <pubDate>Sat, 08 Nov 2025 15:22:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列国防军：以色列国防军在黎巴嫩南部打击并消灭了一名真主党恐怖分子。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-08/detail-infwtmai0982117.d.html</link>
-            <guid>4486735</guid>
-            <pubDate>Sat, 08 Nov 2025 15:21:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：德国将从空客公司购买20架军用战斗直升机，价值超10亿欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-08/detail-infwteup3356164.d.html</link>
-            <guid>4486734</guid>
-            <pubDate>Sat, 08 Nov 2025 15:18:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[根据一份政府文件显示，德国议会即将批准价值超过30亿欧元的国防装备采购计划，这是大规模军事扩充计划的一部分。]]></title>
-            <guid>4486733</guid>
-            <pubDate>Sat, 08 Nov 2025 15:17:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利银行业协会主席敦促各贷款机构为2026年更加严峻的形势做好准备。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-08/detail-infwteun9599678.d.html</link>
-            <guid>4486726</guid>
-            <pubDate>Sat, 08 Nov 2025 15:05:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰国家能源公司（Centrenergo）通报：乌境内所有国有火电厂已停运，发电完全中断。]]></title>
-            <guid>4486719</guid>
-            <pubDate>Sat, 08 Nov 2025 14:53:25 GMT</pubDate>
         </item>
     </channel>
 </rss>

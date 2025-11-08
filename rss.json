@@ -6,6 +6,40 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 4486897,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-09/detail-infwtzya9108657.d.html",
+            "title": "特朗普政府称，芝加哥发生针对移民官员的枪击事件。",
+            "date_modified": "2025-11-08T22:14:46.000Z"
+        },
+        {
+            "id": 4486895,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-09/detail-infwtvse9239018.d.html",
+            "title": "美国参议院休会至明日下午1点30分。",
+            "date_modified": "2025-11-08T22:03:48.000Z"
+        },
+        {
+            "id": 4486894,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-09/detail-infwtvsf2995772.d.html",
+            "title": "市场消息：叙利亚总统抵达美国进行正式访问。",
+            "date_modified": "2025-11-08T21:42:40.000Z"
+        },
+        {
+            "id": 4486871,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-09/detail-infwtvse9237335.d.html",
+            "title": "【德黑兰将实行夜间限水措施】伊朗能源部长阿巴斯·阿里阿巴迪8日表示，由于气候干旱和供水设施老化，伊朗面临缺水问题，首都德黑兰将实行夜间限水措施。伊朗伊斯兰共和国广播电视台援引阿里阿巴迪的话说，德黑兰部分地区夜间可能会停水。他建议市民安装蓄水罐和增压泵，以便在限水期间维持用水。阿里阿巴迪还表示，因部分输水管道在今年6月与以色列的冲突中受损，政府正通过降低管网水压来控制漏损。",
+            "date_modified": "2025-11-08T21:20:52.000Z"
+        },
+        {
+            "id": 4486870,
+            "content_html": "",
+            "title": "中国地震台网正式测定：11月09日05时04分在日本本州东部远海（北纬39.30度，东经143.55度）发生5.1级地震，震源深度10千米。",
+            "date_modified": "2025-11-08T21:20:32.000Z"
+        },
+        {
             "id": 4486864,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-11-09/detail-infwtvse9237171.d.html",
@@ -311,39 +345,6 @@
             "url": "https://finance.sina.cn/7x24/2025-11-08/detail-infwtmam3225741.d.html",
             "title": "沙特部长称，在推动豪华旅游后，沙特阿拉伯将目标转向更广泛的旅游市场。",
             "date_modified": "2025-11-08T15:22:13.000Z"
-        },
-        {
-            "id": 4486735,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-08/detail-infwtmai0982117.d.html",
-            "title": "以色列国防军：以色列国防军在黎巴嫩南部打击并消灭了一名真主党恐怖分子。",
-            "date_modified": "2025-11-08T15:21:39.000Z"
-        },
-        {
-            "id": 4486734,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-08/detail-infwteup3356164.d.html",
-            "title": "市场消息：德国将从空客公司购买20架军用战斗直升机，价值超10亿欧元。",
-            "date_modified": "2025-11-08T15:18:58.000Z"
-        },
-        {
-            "id": 4486733,
-            "content_html": "",
-            "title": "根据一份政府文件显示，德国议会即将批准价值超过30亿欧元的国防装备采购计划，这是大规模军事扩充计划的一部分。",
-            "date_modified": "2025-11-08T15:17:31.000Z"
-        },
-        {
-            "id": 4486726,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-08/detail-infwteun9599678.d.html",
-            "title": "意大利银行业协会主席敦促各贷款机构为2026年更加严峻的形势做好准备。",
-            "date_modified": "2025-11-08T15:05:11.000Z"
-        },
-        {
-            "id": 4486719,
-            "content_html": "",
-            "title": "乌克兰国家能源公司（Centrenergo）通报：乌境内所有国有火电厂已停运，发电完全中断。",
-            "date_modified": "2025-11-08T14:53:25.000Z"
         }
     ]
 }
