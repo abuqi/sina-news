@@ -4,11 +4,76 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 09 Nov 2025 19:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Nov 2025 20:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：共和党拨款法案限制致醉大麻产品销售。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwvyre8111699.d.html</link>
+            <guid>4488038</guid>
+            <pubDate>Sun, 09 Nov 2025 20:15:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比特币升破105000美元，日内涨2.63%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwvyrf1902909.d.html</link>
+            <guid>4488028</guid>
+            <pubDate>Sun, 09 Nov 2025 20:05:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【政府“停摆”有望结束？美参议院多数党领袖：已有潜在协议】当地时间11月9日，美国参议院多数党领袖约翰·图恩当天表示，一项关于结束政府“停摆”的潜在协议“正在逐步达成”。但图恩同时表示，该协议并不能保证达成，参议院的议员们需要时间阅读提案，且可能需要数小时才能采取具体行动。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwvyre8110937.d.html</link>
+            <guid>4488025</guid>
+            <pubDate>Sun, 09 Nov 2025 19:58:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据PunchBowl：白宫支持参议院拨款框架。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwvyre8110840.d.html</link>
+            <guid>4488024</guid>
+            <pubDate>Sun, 09 Nov 2025 19:56:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院共和党领袖图恩：协议已接近达成。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwvyre8110772.d.html</link>
+            <guid>4488020</guid>
+            <pubDate>Sun, 09 Nov 2025 19:53:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据Politico：欧盟委员会提议修改下一个七年期欧盟预算，以避免欧洲议会反对。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwvyra9621992.d.html</link>
+            <guid>4488019</guid>
+            <pubDate>Sun, 09 Nov 2025 19:52:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院共和党披露一份立法草案，其中包括在（总统特朗普的）政府关门期间要求向退伍军人事务部（DVA）和军事建设项目提供资金支持。]]></title>
+            <guid>4488018</guid>
+            <pubDate>Sun, 09 Nov 2025 19:52:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[民主党众议员弗里德曼：政府停摆“百分之百”是共和党的错。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwvyrk3321600.d.html</link>
+            <guid>4488017</guid>
+            <pubDate>Sun, 09 Nov 2025 19:51:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据PunchBowl：美国共和党的开支草案包含让美联储裁员的条款。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwvyre8110648.d.html</link>
+            <guid>4488016</guid>
+            <pubDate>Sun, 09 Nov 2025 19:49:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[航空交通管制部门发言人：比利时列日机场在周日晚间发现无人机后恢复运营。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwvyre8110536.d.html</link>
+            <guid>4488015</guid>
+            <pubDate>Sun, 09 Nov 2025 19:44:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[斯洛伐克两列火车相撞，伤亡细节暂未公布，应急部门正赶赴事故现场。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwvyra9620807.d.html</link>
+            <guid>4488014</guid>
+            <pubDate>Sun, 09 Nov 2025 19:25:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[达美航空：预计将有更多航班取消。]]></title>
             <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwvyra9619423.d.html</link>
@@ -227,72 +292,6 @@
             <title><![CDATA[美国财长贝森特：美国总统特朗普暗示民众可能会获得至少 2000 美元的关税“红利”，这可能通过减税来实现。它可能就体现在总统议程中的各项减税措施上 —— 例如对小费、加班费、社会保障金免征税款，以及汽车贷款可抵扣税款等。]]></title>
             <guid>4487849</guid>
             <pubDate>Sun, 09 Nov 2025 16:10:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【通用汽车中国公司总裁：与上汽的合资企业是在华竞争力的核心】“今年是通用汽车连续第八年参加进博会，我们始终对中国市场充满信心，本次参展车型也以各个维度的本土创新成果呈现了我们对个人出行的未来展望。”通用汽车高级副总裁兼通用汽车中国公司总裁何思文（Steve Hill）说。通用方面强调，“通用汽车在中国新能源市场积累的深厚经验与专业实力，也为我们开拓国际市场提供了领先优势。”“中国日新月异的消费趋势和技术进步正为全球协同共行创造新的机遇，而我们与上汽集团的两家合资企业是通用汽车在华保持竞争力的核心，并将持续驱动本土创新不断深化。”何思文表示。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-09/detail-infwvpzm2142412.d.html</link>
-            <guid>4487845</guid>
-            <pubDate>Sun, 09 Nov 2025 15:59:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币升破104000美元，日内涨1.67%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-09/detail-infwvpzk8352013.d.html</link>
-            <guid>4487844</guid>
-            <pubDate>Sun, 09 Nov 2025 15:53:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗将启动货币改革 删除面值末四个零】伊朗伊斯兰共和国通讯社8日报道，伊朗宪法监护委员会已批准伊朗货币面值调整计划，将通过货币改革，删除伊朗货币面值末四个零。该调整将在未来五年内逐步完成。伊朗中央银行官员表示，此次面值调整更多是结构性与象征性改革，并不会改变货币的实际价值。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-09/detail-infwvpzk8351805.d.html</link>
-            <guid>4487843</guid>
-            <pubDate>Sun, 09 Nov 2025 15:50:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国加州州长纽森：将在中期选举后决定是否参选总统。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-09/detail-infwvpzh9862878.d.html</link>
-            <guid>4487842</guid>
-            <pubDate>Sun, 09 Nov 2025 15:48:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫经济顾问哈塞特：对2%的通胀率感到满意。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-09/detail-infwvpzk8351564.d.html</link>
-            <guid>4487841</guid>
-            <pubDate>Sun, 09 Nov 2025 15:47:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长贝森特：政府停摆对经济的影响正在恶化。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-09/detail-infwvpzq3560580.d.html</link>
-            <guid>4487840</guid>
-            <pubDate>Sun, 09 Nov 2025 15:47:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长贝森特：在控制通胀方面取得了实质性进展，并预计未来几个月物价将下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-09/detail-infwvpzk8351482.d.html</link>
-            <guid>4487839</guid>
-            <pubDate>Sun, 09 Nov 2025 15:47:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统特朗普在社交媒体言语攻击前总统拜登，并称其为“AUTOPEN”。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-09/detail-infwvpzh9862265.d.html</link>
-            <guid>4487838</guid>
-            <pubDate>Sun, 09 Nov 2025 15:42:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫经济顾问哈塞特：若航空中断持续，第四季度经济或面临负增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-09/detail-infwvpzk8350339.d.html</link>
-            <guid>4487837</guid>
-            <pubDate>Sun, 09 Nov 2025 15:36:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴勒斯坦媒体：加沙城互联网与移动电话服务中断。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-09/detail-infwvpzk8350194.d.html</link>
-            <guid>4487836</guid>
-            <pubDate>Sun, 09 Nov 2025 15:35:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[文件显示，德国将斥资10亿欧元再购入20架空客直升机。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-09/detail-infwvpzk8350157.d.html</link>
-            <guid>4487835</guid>
-            <pubDate>Sun, 09 Nov 2025 15:35:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
