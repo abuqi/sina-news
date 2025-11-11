@@ -6,9 +6,141 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 4492891,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-12/detail-infxanvm1544547.d.html",
+            "title": "英国央行行长贝利：量化宽松政策从长期来看将抵消其成本。",
+            "date_modified": "2025-11-11T19:18:27.000Z"
+        },
+        {
+            "id": 4492890,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-12/detail-infxanvq6810839.d.html",
+            "title": "委内瑞拉副总统：1-10月税收收入同比增长13.5%。",
+            "date_modified": "2025-11-11T19:12:58.000Z"
+        },
+        {
+            "id": 4492889,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-12/detail-infxanvq6810807.d.html",
+            "title": "超威半导体（AMD）股价最新下跌1.9%。",
+            "date_modified": "2025-11-11T19:12:14.000Z"
+        },
+        {
+            "id": 4492888,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-12/detail-infxanvs5325383.d.html",
+            "title": "沙特国防大臣在白宫会见美国国务卿鲁比奥与中东问题特使威特科夫。",
+            "date_modified": "2025-11-11T19:07:06.000Z"
+        },
+        {
+            "id": 4492887,
+            "content_html": "",
+            "title": "罗马尼亚能源部长：罗马尼亚必须接管卢克石油公司在罗马尼亚的子公司，以确保国际制裁得以执行、保障就业并维持能源稳定。",
+            "date_modified": "2025-11-11T19:06:05.000Z"
+        },
+        {
+            "id": 4492885,
+            "content_html": "",
+            "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1178元，较周一夜盘收盘涨12点。成交量293.40亿美元。",
+            "date_modified": "2025-11-11T19:04:56.000Z"
+        },
+        {
+            "id": 4492884,
+            "content_html": "",
+            "title": "谷歌公司为智能手机产品Pixel推出类似苹果的信息汇总/摘要（Message Summaries）功能。",
+            "date_modified": "2025-11-11T19:03:06.000Z"
+        },
+        {
+            "id": 4492883,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-12/detail-infxanvm1543554.d.html",
+            "title": "法国央行：法国三季度经济增长0.5%后，四季度预计将实现小幅季度增长。",
+            "date_modified": "2025-11-11T19:02:40.000Z"
+        },
+        {
+            "id": 4492882,
+            "content_html": "",
+            "title": "罗马尼亚能源部长称，罗马尼亚不会请求美国延长针对卢克石油公司制裁所设定的11月21日最后期限。",
+            "date_modified": "2025-11-11T19:02:15.000Z"
+        },
+        {
+            "id": 4492881,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-12/detail-infxanvp3905237.d.html",
+            "title": "法国央行：法国经济四季度将 “小幅” 增长。",
+            "date_modified": "2025-11-11T19:01:22.000Z"
+        },
+        {
+            "id": 4492880,
+            "content_html": "",
+            "title": "恒生指数主连夜盘收涨0.43%，报26865点。恒生科技指数主连夜盘收涨0.29%，报5953点。",
+            "date_modified": "2025-11-11T19:00:21.000Z"
+        },
+        {
+            "id": 4492879,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-12/detail-infxanvq6809724.d.html",
+            "title": "以色列媒体：以色列战略事务部长罗恩·德尔默辞职。",
+            "date_modified": "2025-11-11T18:57:18.000Z"
+        },
+        {
+            "id": 4492878,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-12/detail-infxanvq6809707.d.html",
+            "title": "【欧洲央行质疑纯粹的离线数字欧元提案】欧洲央行正在反对欧洲议会提出的一项提案，该提案旨在仅以离线形式推出计划中的数字欧元。11月11日，欧洲央行数字欧元理事会顾问Alessandro Giovannini发言支持布鲁塞尔欧盟执行机构的倡议，而非某位议员的替代方案。他对记者表示：“我们确实认为欧盟委员会的提案是合理的，而欧盟委员会的提案设想的是同时推出在线和离线版本。”",
+            "date_modified": "2025-11-11T18:57:04.000Z"
+        },
+        {
+            "id": 4492877,
+            "content_html": "",
+            "title": "西方石油公司首席执行官：该公司不会在市场供应过剩的情况下激进地向市场投放大量额外的石油。",
+            "date_modified": "2025-11-11T18:45:10.000Z"
+        },
+        {
+            "id": 4492876,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-12/detail-infxanvm1542416.d.html",
+            "title": "AMD股价转涨。",
+            "date_modified": "2025-11-11T18:43:25.000Z"
+        },
+        {
+            "id": 4492875,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-12/detail-infxanvq6808729.d.html",
+            "title": "AMD：预计未来3-5年年均营收增长率将达到35%，预计数据中心整体业务年复合增长率将超过60%。",
+            "date_modified": "2025-11-11T18:41:13.000Z"
+        },
+        {
+            "id": 4492874,
+            "content_html": "",
+            "title": "AMD：预计服务器CPU市场份额将超过 50%，预计个人电脑市场的CPU份额将超过 40%。",
+            "date_modified": "2025-11-11T18:40:36.000Z"
+        },
+        {
+            "id": 4492873,
+            "content_html": "",
+            "title": "AMD：预计2027年数据中心收入将为“数百亿美元”。数据中心业务增长目标聚焦于数据中心领域的人工智能芯片。",
+            "date_modified": "2025-11-11T18:39:23.000Z"
+        },
+        {
+            "id": 4492872,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-12/detail-infxanvq6808633.d.html",
+            "title": "AMD ：预计数据中心业务复合年增长率（CAGR）将超过 80%。",
+            "date_modified": "2025-11-11T18:38:52.000Z"
+        },
+        {
+            "id": 4492871,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-12/detail-infxanvm1541935.d.html",
+            "title": "AMD一度下跌3.3%。",
+            "date_modified": "2025-11-11T18:35:10.000Z"
+        },
+        {
             "id": 4492870,
             "content_html": "",
-            "title": "通用汽车中国宣布管理层人事变动：任命Steve Hill为负责全球出口与零售创新高级副总裁（SVP）。",
+            "title": "通用汽车中国宣布管理层人事变动：任命Steve Hill为负责全球出口与零售创新高级副总裁（SVP）。任命John Roth为通用汽车中国总裁，接替Steve Hill。",
             "date_modified": "2025-11-11T18:33:51.000Z"
         },
         {
@@ -205,140 +337,6 @@
             "content_html": "",
             "title": "美国总统唐纳德·特朗普周二宣布，美国最近订购了多架升级版的B2轰炸机，称它们是艺术品。",
             "date_modified": "2025-11-11T17:37:21.000Z"
-        },
-        {
-            "id": 4492838,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-12/detail-infxahps6935268.d.html",
-            "title": "欧洲央行管委Escriva：西班牙经济将继续按类似的幅度增长。",
-            "date_modified": "2025-11-11T17:29:40.000Z"
-        },
-        {
-            "id": 4492837,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-12/detail-infxahps6934892.d.html",
-            "title": "标普500指数转涨。",
-            "date_modified": "2025-11-11T17:23:41.000Z"
-        },
-        {
-            "id": 4492836,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-12/detail-infxahpp1668248.d.html",
-            "title": "【土耳其坠毁军机残骸已找到 搜救持续进行】当地时间11日，土耳其内政部长表示，此前在格鲁吉亚境内坠毁的C-130军用运输机的残骸已被找到，搜救工作仍在持续进行。当天，土耳其国防部证实，这架军机在从阿塞拜疆起飞后不久坠毁，机上共载有包括机组成员在内的20人。（央视新闻）",
-            "date_modified": "2025-11-11T17:21:20.000Z"
-        },
-        {
-            "id": 4492835,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-12/detail-infxahpp1668117.d.html",
-            "title": "法国总统马克龙：法国将与巴勒斯坦权力机构成立联合委员会，以推动巴勒斯坦国的巩固。",
-            "date_modified": "2025-11-11T17:19:27.000Z"
-        },
-        {
-            "id": 4492834,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-12/detail-infxahps6934458.d.html",
-            "title": "【德债收益率微幅下挫，投资者关注英国就业报告】周二（11月11日）欧市尾盘，德国10年期国债收益率跌1.0个基点，报2.658%，日内交投于2.674%-2.650%区间，北京时间21:16出现一波显著的下挫行情，23:00瞬间“冲高回落”。两年期德债收益率跌0.4个基点，报2.001%，日内交投于2.007%-1.995%区间；30年期德债收益率跌0.7个基点，报3.254%。2/10年期德债收益率利差跌0.609个基点，报+65.490个基点。",
-            "date_modified": "2025-11-11T17:17:27.000Z"
-        },
-        {
-            "id": 4492833,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-12/detail-infxahpp1667912.d.html",
-            "title": "法国总统埃马克龙和巴勒斯坦总统阿巴斯在爱丽舍宫会谈后举行联合新闻发布会。",
-            "date_modified": "2025-11-11T17:16:43.000Z"
-        },
-        {
-            "id": 4492832,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-12/detail-infxahpp1667773.d.html",
-            "title": "俄罗斯总统普京在克里姆林宫会见哈萨克斯坦总统。",
-            "date_modified": "2025-11-11T17:15:04.000Z"
-        },
-        {
-            "id": 4492831,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-12/detail-infxahpr4025901.d.html",
-            "title": "据Politico：特朗普政府宣布消费者金融保护局拨款非法。",
-            "date_modified": "2025-11-11T17:07:44.000Z"
-        },
-        {
-            "id": 4492830,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-12/detail-infxahpp1667182.d.html",
-            "title": "京东：双十一订单量与海外销售额大幅增长。",
-            "date_modified": "2025-11-11T17:07:19.000Z"
-        },
-        {
-            "id": 4492829,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-12/detail-infxahpp1667003.d.html",
-            "title": "【俄称在红军城对乌军展开攻势 乌称袭击俄炼油厂】当地时间11日，俄罗斯国防部发布战报称，过去24小时，俄军在苏梅、哈尔科夫、顿涅茨克、扎波罗热等方向发动攻势。在顿涅茨克地区红军城（乌称波克罗夫斯克），俄军在中央区西北部、东部街区及火车站区域持续对乌军展开攻势，并挫败包围圈内乌军部队的突围企图。在哈尔科夫州库皮扬斯克，俄军第6集团军突击部队持续打击被围乌军，库皮扬斯克东部区域已全面被俄军控制。 乌克兰武装部队总参谋部11日发布截至当天8时的战况信息称，过去一天，乌军在多个方向击退俄军进攻。在波克罗夫斯克方向，乌军击退俄军63次进攻。同一天，乌克兰国家安全与国防委员会方面表示，乌军使用无人机袭击了俄罗斯萨拉托夫炼油厂。 另据乌克兰空军11日通报，自10日18时起，俄军使用119架无人机对乌克兰发动袭击，主要目标是顿涅茨克、哈尔科夫、敖德萨等地前线地区。截至11日当天9时30分，乌军成功击落或压制53架无人机。 基辅市政府11日称，由于俄军对乌基础设施发动大规模袭击，基辅市将实施停电措施，电力交通运营可能出现临时调整。（央视新闻）",
-            "date_modified": "2025-11-11T17:04:49.000Z"
-        },
-        {
-            "id": 4492828,
-            "content_html": "",
-            "title": "美国总统特朗普：美国众议院议长约翰逊和参议院共和党领袖图恩在临时开支草案协议上“取得重大胜利”。",
-            "date_modified": "2025-11-11T17:03:40.000Z"
-        },
-        {
-            "id": 4492826,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-12/detail-infxahpu5444623.d.html",
-            "title": "阿拉斯加航空集团股价下跌1%，捷蓝航空股价下跌2.1%",
-            "date_modified": "2025-11-11T17:01:27.000Z"
-        },
-        {
-            "id": 4492825,
-            "content_html": "",
-            "title": "美国航空股价下跌2%，联合航空股价下跌2.4%，达美航空股价下跌1.7%，西南航空股价下跌2.4%。",
-            "date_modified": "2025-11-11T17:01:24.000Z"
-        },
-        {
-            "id": 4492824,
-            "content_html": "",
-            "title": "【夜盘期货收盘】国际铜夜盘收涨0.09%，沪铜收涨0.08%，沪铝收涨0.23%，沪锌收跌0.29%，沪铅收涨0.29%，沪镍收跌0.25%，沪锡收涨1.14%。氧化铝夜盘收平，铝合金收涨0.31%。不锈钢夜盘收跌0.36%。",
-            "date_modified": "2025-11-11T17:00:02.000Z"
-        },
-        {
-            "id": 4492823,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-12/detail-infxahpu5443892.d.html",
-            "title": "【数据显示美国劳动力市场放缓 美债期货应声上涨】美国国债期货跃升，美元走软。此前ADP Research发布的数据释放美国劳动力市场放缓的信号。美国国债现货市场因退伍军人节假期休市。ADP数据发布后，10年期美国国债期货上涨。该变幅对应10年期国债收益率下跌约4个基点。该期限国债收益率周一收于4.12%。货币市场也上调了对美联储降息的押注，与美联储会期挂钩的互换合约显示，市场预期下个月降息的可能性超过60%。对降息的预期升温导致彭博美元指数大幅下跌，触及本月最低点，而欧元和日元兑美元均升至盘中高点。周二公布的数据“与劳动力市场已趋稳定的观点相悖”，T. Rowe Price首席美国经济学家Blerina Uruci对Bloomberg Surveillance表示，“我们正在密切予以关注，但同时也意识到10月数据有很多干扰因素，而且会受到政府停摆的影响。”",
-            "date_modified": "2025-11-11T16:57:34.000Z"
-        },
-        {
-            "id": 4492822,
-            "content_html": "",
-            "title": "诺和诺德：诺和诺德印度公司将司美格鲁肽（Wegovy）2.4毫克注射笔（Wegovy FLXT 2.4MG）的价格降至每周4100印度卢比。",
-            "date_modified": "2025-11-11T16:56:25.000Z"
-        },
-        {
-            "id": 4492821,
-            "content_html": "",
-            "title": "墨西哥能源部长Luz Elena Gonzalez：墨方并没有在商业活动上青睐本国公司Pemex和CFE，而轻视那些美国石油公司。",
-            "date_modified": "2025-11-11T16:55:52.000Z"
-        },
-        {
-            "id": 4492820,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-12/detail-infxahps6932318.d.html",
-            "title": "道琼斯指数涨幅扩大，最新上涨0.6%。",
-            "date_modified": "2025-11-11T16:54:49.000Z"
-        },
-        {
-            "id": 4492819,
-            "content_html": "",
-            "title": "诺和诺德：诺和诺德印度公司为惠及患者下调司美格鲁肽注射液（Wegovy）价格；降价 37% 后，现每周费用仅为 2712 印度卢比。",
-            "date_modified": "2025-11-11T16:52:42.000Z"
-        },
-        {
-            "id": 4492818,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-12/detail-infxahpr4023176.d.html",
-            "title": "【美国最大中概股ETF的管理公司大幅增持拼多多和好未来等】彭博对Krane Funds Advisors LLC之13F文件进行的分析显示，该公司第三季大幅增持爱奇艺、好未来、拼多多、腾讯音乐等个股及自身管理的美国上市最大中概股基金KraneShares金瑞中证中国互联网ETF(KWEB)，减持标的则包括晶科能源和极氪。",
-            "date_modified": "2025-11-11T16:49:38.000Z"
         }
     ]
 }

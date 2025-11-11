@@ -4,13 +4,125 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Tue, 11 Nov 2025 18:34:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Nov 2025 19:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[通用汽车中国宣布管理层人事变动：任命Steve Hill为负责全球出口与零售创新高级副总裁（SVP）。]]></title>
+            <title><![CDATA[英国央行行长贝利：量化宽松政策从长期来看将抵消其成本。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-12/detail-infxanvm1544547.d.html</link>
+            <guid>4492891</guid>
+            <pubDate>Tue, 11 Nov 2025 19:18:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[委内瑞拉副总统：1-10月税收收入同比增长13.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-12/detail-infxanvq6810839.d.html</link>
+            <guid>4492890</guid>
+            <pubDate>Tue, 11 Nov 2025 19:12:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[超威半导体（AMD）股价最新下跌1.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-12/detail-infxanvq6810807.d.html</link>
+            <guid>4492889</guid>
+            <pubDate>Tue, 11 Nov 2025 19:12:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沙特国防大臣在白宫会见美国国务卿鲁比奥与中东问题特使威特科夫。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-12/detail-infxanvs5325383.d.html</link>
+            <guid>4492888</guid>
+            <pubDate>Tue, 11 Nov 2025 19:07:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[罗马尼亚能源部长：罗马尼亚必须接管卢克石油公司在罗马尼亚的子公司，以确保国际制裁得以执行、保障就业并维持能源稳定。]]></title>
+            <guid>4492887</guid>
+            <pubDate>Tue, 11 Nov 2025 19:06:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[在岸人民币兑美元（CNY）北京时间03:00收报7.1178元，较周一夜盘收盘涨12点。成交量293.40亿美元。]]></title>
+            <guid>4492885</guid>
+            <pubDate>Tue, 11 Nov 2025 19:04:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[谷歌公司为智能手机产品Pixel推出类似苹果的信息汇总/摘要（Message Summaries）功能。]]></title>
+            <guid>4492884</guid>
+            <pubDate>Tue, 11 Nov 2025 19:03:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国央行：法国三季度经济增长0.5%后，四季度预计将实现小幅季度增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-12/detail-infxanvm1543554.d.html</link>
+            <guid>4492883</guid>
+            <pubDate>Tue, 11 Nov 2025 19:02:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[罗马尼亚能源部长称，罗马尼亚不会请求美国延长针对卢克石油公司制裁所设定的11月21日最后期限。]]></title>
+            <guid>4492882</guid>
+            <pubDate>Tue, 11 Nov 2025 19:02:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国央行：法国经济四季度将 “小幅” 增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-12/detail-infxanvp3905237.d.html</link>
+            <guid>4492881</guid>
+            <pubDate>Tue, 11 Nov 2025 19:01:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒生指数主连夜盘收涨0.43%，报26865点。恒生科技指数主连夜盘收涨0.29%，报5953点。]]></title>
+            <guid>4492880</guid>
+            <pubDate>Tue, 11 Nov 2025 19:00:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列媒体：以色列战略事务部长罗恩·德尔默辞职。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-12/detail-infxanvq6809724.d.html</link>
+            <guid>4492879</guid>
+            <pubDate>Tue, 11 Nov 2025 18:57:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲央行质疑纯粹的离线数字欧元提案】欧洲央行正在反对欧洲议会提出的一项提案，该提案旨在仅以离线形式推出计划中的数字欧元。11月11日，欧洲央行数字欧元理事会顾问Alessandro Giovannini发言支持布鲁塞尔欧盟执行机构的倡议，而非某位议员的替代方案。他对记者表示：“我们确实认为欧盟委员会的提案是合理的，而欧盟委员会的提案设想的是同时推出在线和离线版本。”]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-12/detail-infxanvq6809707.d.html</link>
+            <guid>4492878</guid>
+            <pubDate>Tue, 11 Nov 2025 18:57:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[西方石油公司首席执行官：该公司不会在市场供应过剩的情况下激进地向市场投放大量额外的石油。]]></title>
+            <guid>4492877</guid>
+            <pubDate>Tue, 11 Nov 2025 18:45:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AMD股价转涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-12/detail-infxanvm1542416.d.html</link>
+            <guid>4492876</guid>
+            <pubDate>Tue, 11 Nov 2025 18:43:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AMD：预计未来3-5年年均营收增长率将达到35%，预计数据中心整体业务年复合增长率将超过60%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-12/detail-infxanvq6808729.d.html</link>
+            <guid>4492875</guid>
+            <pubDate>Tue, 11 Nov 2025 18:41:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AMD：预计服务器CPU市场份额将超过 50%，预计个人电脑市场的CPU份额将超过 40%。]]></title>
+            <guid>4492874</guid>
+            <pubDate>Tue, 11 Nov 2025 18:40:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AMD：预计2027年数据中心收入将为“数百亿美元”。数据中心业务增长目标聚焦于数据中心领域的人工智能芯片。]]></title>
+            <guid>4492873</guid>
+            <pubDate>Tue, 11 Nov 2025 18:39:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AMD ：预计数据中心业务复合年增长率（CAGR）将超过 80%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-12/detail-infxanvq6808633.d.html</link>
+            <guid>4492872</guid>
+            <pubDate>Tue, 11 Nov 2025 18:38:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AMD一度下跌3.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-12/detail-infxanvm1541935.d.html</link>
+            <guid>4492871</guid>
+            <pubDate>Tue, 11 Nov 2025 18:35:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[通用汽车中国宣布管理层人事变动：任命Steve Hill为负责全球出口与零售创新高级副总裁（SVP）。任命John Roth为通用汽车中国总裁，接替Steve Hill。]]></title>
             <guid>4492870</guid>
             <pubDate>Tue, 11 Nov 2025 18:33:51 GMT</pubDate>
         </item>
@@ -185,120 +297,6 @@ LME期钴收平，报48570美元/吨。]]></title>
             <title><![CDATA[美国总统唐纳德·特朗普周二宣布，美国最近订购了多架升级版的B2轰炸机，称它们是艺术品。]]></title>
             <guid>4492840</guid>
             <pubDate>Tue, 11 Nov 2025 17:37:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委Escriva：西班牙经济将继续按类似的幅度增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-12/detail-infxahps6935268.d.html</link>
-            <guid>4492838</guid>
-            <pubDate>Tue, 11 Nov 2025 17:29:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普500指数转涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-12/detail-infxahps6934892.d.html</link>
-            <guid>4492837</guid>
-            <pubDate>Tue, 11 Nov 2025 17:23:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【土耳其坠毁军机残骸已找到 搜救持续进行】当地时间11日，土耳其内政部长表示，此前在格鲁吉亚境内坠毁的C-130军用运输机的残骸已被找到，搜救工作仍在持续进行。当天，土耳其国防部证实，这架军机在从阿塞拜疆起飞后不久坠毁，机上共载有包括机组成员在内的20人。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-12/detail-infxahpp1668248.d.html</link>
-            <guid>4492836</guid>
-            <pubDate>Tue, 11 Nov 2025 17:21:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总统马克龙：法国将与巴勒斯坦权力机构成立联合委员会，以推动巴勒斯坦国的巩固。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-12/detail-infxahpp1668117.d.html</link>
-            <guid>4492835</guid>
-            <pubDate>Tue, 11 Nov 2025 17:19:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德债收益率微幅下挫，投资者关注英国就业报告】周二（11月11日）欧市尾盘，德国10年期国债收益率跌1.0个基点，报2.658%，日内交投于2.674%-2.650%区间，北京时间21:16出现一波显著的下挫行情，23:00瞬间“冲高回落”。两年期德债收益率跌0.4个基点，报2.001%，日内交投于2.007%-1.995%区间；30年期德债收益率跌0.7个基点，报3.254%。2/10年期德债收益率利差跌0.609个基点，报+65.490个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-12/detail-infxahps6934458.d.html</link>
-            <guid>4492834</guid>
-            <pubDate>Tue, 11 Nov 2025 17:17:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总统埃马克龙和巴勒斯坦总统阿巴斯在爱丽舍宫会谈后举行联合新闻发布会。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-12/detail-infxahpp1667912.d.html</link>
-            <guid>4492833</guid>
-            <pubDate>Tue, 11 Nov 2025 17:16:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京在克里姆林宫会见哈萨克斯坦总统。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-12/detail-infxahpp1667773.d.html</link>
-            <guid>4492832</guid>
-            <pubDate>Tue, 11 Nov 2025 17:15:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据Politico：特朗普政府宣布消费者金融保护局拨款非法。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-12/detail-infxahpr4025901.d.html</link>
-            <guid>4492831</guid>
-            <pubDate>Tue, 11 Nov 2025 17:07:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[京东：双十一订单量与海外销售额大幅增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-12/detail-infxahpp1667182.d.html</link>
-            <guid>4492830</guid>
-            <pubDate>Tue, 11 Nov 2025 17:07:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄称在红军城对乌军展开攻势 乌称袭击俄炼油厂】当地时间11日，俄罗斯国防部发布战报称，过去24小时，俄军在苏梅、哈尔科夫、顿涅茨克、扎波罗热等方向发动攻势。在顿涅茨克地区红军城（乌称波克罗夫斯克），俄军在中央区西北部、东部街区及火车站区域持续对乌军展开攻势，并挫败包围圈内乌军部队的突围企图。在哈尔科夫州库皮扬斯克，俄军第6集团军突击部队持续打击被围乌军，库皮扬斯克东部区域已全面被俄军控制。 乌克兰武装部队总参谋部11日发布截至当天8时的战况信息称，过去一天，乌军在多个方向击退俄军进攻。在波克罗夫斯克方向，乌军击退俄军63次进攻。同一天，乌克兰国家安全与国防委员会方面表示，乌军使用无人机袭击了俄罗斯萨拉托夫炼油厂。 另据乌克兰空军11日通报，自10日18时起，俄军使用119架无人机对乌克兰发动袭击，主要目标是顿涅茨克、哈尔科夫、敖德萨等地前线地区。截至11日当天9时30分，乌军成功击落或压制53架无人机。 基辅市政府11日称，由于俄军对乌基础设施发动大规模袭击，基辅市将实施停电措施，电力交通运营可能出现临时调整。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-12/detail-infxahpp1667003.d.html</link>
-            <guid>4492829</guid>
-            <pubDate>Tue, 11 Nov 2025 17:04:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统特朗普：美国众议院议长约翰逊和参议院共和党领袖图恩在临时开支草案协议上“取得重大胜利”。]]></title>
-            <guid>4492828</guid>
-            <pubDate>Tue, 11 Nov 2025 17:03:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿拉斯加航空集团股价下跌1%，捷蓝航空股价下跌2.1%]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-12/detail-infxahpu5444623.d.html</link>
-            <guid>4492826</guid>
-            <pubDate>Tue, 11 Nov 2025 17:01:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国航空股价下跌2%，联合航空股价下跌2.4%，达美航空股价下跌1.7%，西南航空股价下跌2.4%。]]></title>
-            <guid>4492825</guid>
-            <pubDate>Tue, 11 Nov 2025 17:01:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【夜盘期货收盘】国际铜夜盘收涨0.09%，沪铜收涨0.08%，沪铝收涨0.23%，沪锌收跌0.29%，沪铅收涨0.29%，沪镍收跌0.25%，沪锡收涨1.14%。氧化铝夜盘收平，铝合金收涨0.31%。不锈钢夜盘收跌0.36%。]]></title>
-            <guid>4492824</guid>
-            <pubDate>Tue, 11 Nov 2025 17:00:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【数据显示美国劳动力市场放缓 美债期货应声上涨】美国国债期货跃升，美元走软。此前ADP Research发布的数据释放美国劳动力市场放缓的信号。美国国债现货市场因退伍军人节假期休市。ADP数据发布后，10年期美国国债期货上涨。该变幅对应10年期国债收益率下跌约4个基点。该期限国债收益率周一收于4.12%。货币市场也上调了对美联储降息的押注，与美联储会期挂钩的互换合约显示，市场预期下个月降息的可能性超过60%。对降息的预期升温导致彭博美元指数大幅下跌，触及本月最低点，而欧元和日元兑美元均升至盘中高点。周二公布的数据“与劳动力市场已趋稳定的观点相悖”，T. Rowe Price首席美国经济学家Blerina Uruci对Bloomberg Surveillance表示，“我们正在密切予以关注，但同时也意识到10月数据有很多干扰因素，而且会受到政府停摆的影响。”]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-12/detail-infxahpu5443892.d.html</link>
-            <guid>4492823</guid>
-            <pubDate>Tue, 11 Nov 2025 16:57:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[诺和诺德：诺和诺德印度公司将司美格鲁肽（Wegovy）2.4毫克注射笔（Wegovy FLXT 2.4MG）的价格降至每周4100印度卢比。]]></title>
-            <guid>4492822</guid>
-            <pubDate>Tue, 11 Nov 2025 16:56:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥能源部长Luz Elena Gonzalez：墨方并没有在商业活动上青睐本国公司Pemex和CFE，而轻视那些美国石油公司。]]></title>
-            <guid>4492821</guid>
-            <pubDate>Tue, 11 Nov 2025 16:55:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[道琼斯指数涨幅扩大，最新上涨0.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-12/detail-infxahps6932318.d.html</link>
-            <guid>4492820</guid>
-            <pubDate>Tue, 11 Nov 2025 16:54:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[诺和诺德：诺和诺德印度公司为惠及患者下调司美格鲁肽注射液（Wegovy）价格；降价 37% 后，现每周费用仅为 2712 印度卢比。]]></title>
-            <guid>4492819</guid>
-            <pubDate>Tue, 11 Nov 2025 16:52:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国最大中概股ETF的管理公司大幅增持拼多多和好未来等】彭博对Krane Funds Advisors LLC之13F文件进行的分析显示，该公司第三季大幅增持爱奇艺、好未来、拼多多、腾讯音乐等个股及自身管理的美国上市最大中概股基金KraneShares金瑞中证中国互联网ETF(KWEB)，减持标的则包括晶科能源和极氪。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-12/detail-infxahpr4023176.d.html</link>
-            <guid>4492818</guid>
-            <pubDate>Tue, 11 Nov 2025 16:49:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
