@@ -4,11 +4,28 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 15 Nov 2025 20:24:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Nov 2025 21:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：刚果民主共和国和M23民兵组织周六在卡塔尔签署了一项新的和平框架协议，旨在结束摧毁刚果（金）东部的战乱。]]></title>
+            <guid>4501133</guid>
+            <pubDate>Sat, 15 Nov 2025 21:10:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴基斯坦南部一烟花厂爆炸 致多人死伤】当地时间11月15日，巴基斯坦南部城市海得拉巴一家烟花厂发生爆炸，随后工厂发生火灾。当地官员表示，事故已造成至少6人死亡，另有多人受伤。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-16/detail-infxptpq8059209.d.html</link>
+            <guid>4501132</guid>
+            <pubDate>Sat, 15 Nov 2025 20:46:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国国土安全部宣布在夏洛特市展开移民执法行动】当地时间11月15日，美国官员证实，联邦政府已开始在北卡罗来纳州梅克伦堡县夏洛特市展开移民执法行动。当天，执法人员在多处地点实施逮捕非法移民行动。国土安全部助理部长特里西亚·麦克劳克林在一份声明中表示，他们正在向夏洛特市增派国土安全部执法人员，以“确保美国公民的安全，并消除公共安全威胁”。包括夏洛特市长薇·莱尔斯在内的当地官员批评了这一行动，并称这些行动“造成了不必要的恐慌和不确定性”。夏洛特是北卡州最大城市，位于梅克伦堡县内，市长薇·莱尔斯为民主党人。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-16/detail-infxptpp7007336.d.html</link>
+            <guid>4501131</guid>
+            <pubDate>Sat, 15 Nov 2025 20:40:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【南非自由州省两车相撞 已致10死多伤】当地时间11月15日，在南非自由州省布隆方丹至博察贝洛路段，一辆巴士与货车相撞，导致10人死亡、多人受伤。据当地救援部门消息，涉事巴士共载有41人。事故除造成10人死亡外，还有6人伤势严重、5人伤势中等，另有多人受轻伤。伤者已被送至医院接受进一步治疗。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2025-11-16/detail-infxppfk2790952.d.html</link>
@@ -275,24 +292,6 @@ Kugler于8月1日宣布她将于8月8日辞职，但未说明原因，此前她�
             <link>https://finance.sina.cn/7x24/2025-11-15/detail-infxparq3027372.d.html</link>
             <guid>4501082</guid>
             <pubDate>Sat, 15 Nov 2025 15:11:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西副总统阿尔克明：美国政府已朝着降低本国消费者成本的正确方向迈出了一步。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-15/detail-infxparq3026335.d.html</link>
-            <guid>4501081</guid>
-            <pubDate>Sat, 15 Nov 2025 15:04:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西副总统阿尔克明：我们对进一步取得进展持乐观态度。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-15/detail-infxparq3026193.d.html</link>
-            <guid>4501080</guid>
-            <pubDate>Sat, 15 Nov 2025 15:03:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西副总统阿尔克明：我们已取得进展，但仍有很长的路要走。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-15/detail-infxparv1645776.d.html</link>
-            <guid>4501079</guid>
-            <pubDate>Sat, 15 Nov 2025 15:03:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
