@@ -4,11 +4,28 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 15 Nov 2025 18:31:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Nov 2025 19:16:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国纽约联储就关键贷款工具与各银行举行会谈】纽约联邦储备银行发言人透露，该行行长约翰・威廉姆斯本周与华尔街各银行举行会谈，就一项关键短期贷款工具展开讨论。该发言人表示：“威廉姆斯行长召集了纽约联储的一级交易商，就‘常设回购工具’作为货币政策实施工具的目的继续开展沟通，并征求反馈意见，以确保该工具在利率调控方面持续有效。”会谈于周三在美联储年度国债市场会议的间隙举行。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-16/detail-infxppfn1443658.d.html</link>
+            <guid>4501120</guid>
+            <pubDate>Sat, 15 Nov 2025 19:09:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日本民众抗议高市早苗错误言行】11月15日晚，上百名日本民众自发在位于东京的首相官邸前集会，抗议日本首相高市早苗的错误言行。抗议者在现场高喊“撤回发言 赶快道歉”“高市下台”“不会外交的人不配当首相”等口号，要求高市早苗辞职下台。（CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-16/detail-infxppfs8185670.d.html</link>
+            <guid>4501119</guid>
+            <pubDate>Sat, 15 Nov 2025 18:46:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据克里姆林宫消息：俄罗斯总统普京与以色列总理内塔尼亚胡就中东局势、加沙地带问题、伊朗核计划以及叙利亚稳定议题展开了讨论。]]></title>
+            <guid>4501118</guid>
+            <pubDate>Sat, 15 Nov 2025 18:35:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【政府重新“开门”后  美国航班削减幅度降至3%】当地时间11月15日，美国联邦航空管理局和交通部表示，在政府“停摆”结束后，航班运营逐步恢复。从当天起，航班削减幅度将从6%降至3%。当地时间11月12日，美国总统特朗普在白宫签署了国会两院通过的一项联邦政府临时拨款法案，正式结束美政府“停摆”。有分析认为，在政府“停摆”结束后，虽然空中交通管制人员短缺的情况会逐渐得到一定的恢复，但航班延误和取消的情况仍将持续一段时间。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2025-11-16/detail-infxppfn1440308.d.html</link>
@@ -278,24 +295,6 @@ Kugler于8月1日宣布她将于8月8日辞职，但未说明原因，此前她�
             <link>https://finance.sina.cn/7x24/2025-11-15/detail-infxpars1668883.d.html</link>
             <guid>4501070</guid>
             <pubDate>Sat, 15 Nov 2025 14:09:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰总统泽连斯基指示对国有能源企业进行全面改革】乌克兰总统泽连斯基在社交平台发帖称：“我们正在对能源领域的重点国有企业进行全面改革。除了对它们的财务活动进行全面审计外，这些公司的管理也将进行更新。今天，我们与总理尤利娅·斯维里登科以及经济部长奥列克西·索博列夫一起确定了改革的方案。我还指示政府官员与执法部门和反腐败机构保持持续且富有实质性的沟通。在这些公司中发现的任何违规行为都必须得到迅速且公正的处理。能源领域的完全透明度和诚信始终是重中之重。”]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-15/detail-infxpars1668877.d.html</link>
-            <guid>4501069</guid>
-            <pubDate>Sat, 15 Nov 2025 14:09:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰总统泽连斯基：启动对关键国有能源企业的全面改革。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-15/detail-infxparq3018251.d.html</link>
-            <guid>4501068</guid>
-            <pubDate>Sat, 15 Nov 2025 14:05:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中拍协：2024年全国文物艺术品拍卖落槌总额183.54亿元 市场进入深度调整期】近日，中国拍卖行业协会发布了《2024年文物艺术品拍卖统计年报》主要数据，全面呈现了2024年中国文物艺术品的拍卖情况。年报显示，2024年，全国文物艺术品拍卖落槌金额为183.54亿元（不含买方佣金），同比下降了35.38%。全年拍卖成交量为30.71万件（套），较上年减少了10.35%。文物艺术品拍卖市场进入深度调整期。截至2025年5月，完成结算100.08亿元（另实收买卖双方佣金15亿元）。其中，网络拍卖占比提升，市场份额达到9.27%。2024年，纯网络拍卖上拍38.51万件，成交14.40万件。纯网络拍卖更趋于常态化。10万元以下成交拍品数量占比上升了0.5个百分点，为90.28%。拍品均价由上年的8.29万元下降至5.98万元。各门类结构性调整较为突出。年报显示，2024年，邮品钱币、油画及当代艺术落槌金额下降超50%；瓷玉杂项较为坚挺，成唯一增长板块，较上年增长1.10%。中国书画市场份额收缩，较上年下降9.02个百分点；瓷玉杂项占比较上年提升14.08个百分点。(上海证券报)]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-15/detail-infxparv1637060.d.html</link>
-            <guid>4501067</guid>
-            <pubDate>Sat, 15 Nov 2025 13:59:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
