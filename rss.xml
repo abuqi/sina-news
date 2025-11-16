@@ -4,11 +4,28 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 16 Nov 2025 20:25:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Nov 2025 21:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【比特币抹掉今年以来所有涨幅】比特币抹掉今年以来所有涨幅，加密货币熊市加剧。比特币目前跌1.8%，逼近93500美元，失守2024年收盘位93714.04美元。以太坊跌3.37%，暂报3073.19美元，Solana跌3.36%，暂报136.09美元；狗狗币跌4.51%，XRP跌2.44%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-17/detail-infxrwnp5924487.d.html</link>
+            <guid>4501824</guid>
+            <pubDate>Sun, 16 Nov 2025 21:08:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[智利总统与议会选举投票即将结束。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-17/detail-infxrwnp5924205.d.html</link>
+            <guid>4501823</guid>
+            <pubDate>Sun, 16 Nov 2025 21:03:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽元兑美元跌超0.1%，报0.5675。新西兰对美国取消12.5亿美元关税的做法表示欢迎。近期，美国对新西兰出口的牛肉、动物杂碎、猕猴桃等农产品取消额外关税。]]></title>
+            <guid>4501822</guid>
+            <pubDate>Sun, 16 Nov 2025 20:28:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新西兰财政部：增发指导利率较 2035 年 5 月到期债券高出 12-15 个基点。]]></title>
             <guid>4501821</guid>
@@ -287,24 +304,6 @@ Wind数据显示，四季度以来，外资机构调研A股上市公司次数达
             <title><![CDATA[叙利亚国防部：国防部长在大马士革与俄罗斯军事代表团会谈，议题涉及军事合作及加强双方协调。]]></title>
             <guid>4501774</guid>
             <pubDate>Sun, 16 Nov 2025 17:07:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰大部分地区17日将实施轮换停电】当地时间16日，乌克兰国家电力公司宣布，17日乌克兰大部分地区将从零时零分到23时59分分为1至4个班次轮换停电。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-17/detail-infxrsew4233820.d.html</link>
-            <guid>4501773</guid>
-            <pubDate>Sun, 16 Nov 2025 17:04:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以防长：加沙地带哈马斯武装预计将由美主导国际部队解除】当地时间16日，以色列国防部长卡茨在社交媒体上发文称，以军对于加沙地带巴勒斯坦伊斯兰抵抗运动（哈马斯）地道的摧毁行动顺利推进。以军目前正在其控制区内通过爆破或灌注液态混凝土的方式系统性摧毁地下地道网络，以彻底清除哈马斯利用地道进行渗透与袭击的能力。此外，卡茨宣称，“由美国主导的国际部队预计将负责解除哈马斯在加沙地带的武装。”（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-17/detail-infxrsew4233362.d.html</link>
-            <guid>4501772</guid>
-            <pubDate>Sun, 16 Nov 2025 17:02:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据美联社报道：航母抵达加勒比海，委内瑞拉附近军事部署大幅加强。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-17/detail-infxrseu5530186.d.html</link>
-            <guid>4501771</guid>
-            <pubDate>Sun, 16 Nov 2025 16:50:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
