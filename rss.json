@@ -6,342 +6,339 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 4511728,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyccek1578949.d.html",
+            "title": "花旗集团：马克·梅森将于2026年3月卸任首席财务官一职。",
+            "date_modified": "2025-11-20T21:21:17.000Z"
+        },
+        {
+            "id": 4511727,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyccek1578902.d.html",
+            "title": "乌克兰总统泽连斯基与美国官员会晤后，坚持要求达成 “有尊严的和平”。",
+            "date_modified": "2025-11-20T21:21:10.000Z"
+        },
+        {
+            "id": 4511726,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyccen0283272.d.html",
+            "title": "花旗集团：梅森在担任首席财务官一职后将成为执行副董事长。",
+            "date_modified": "2025-11-20T21:20:17.000Z"
+        },
+        {
+            "id": 4511725,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyccer0198505.d.html",
+            "title": "花旗集团将把零售银行业务和美国花旗贵宾理财业务整合至财富管理部门。",
+            "date_modified": "2025-11-20T21:20:03.000Z"
+        },
+        {
+            "id": 4511724,
+            "content_html": "",
+            "title": "花旗集团：美国消费信用卡业务将成为由帕姆·哈布纳（Pam Habner）领导的独立业务。",
+            "date_modified": "2025-11-20T21:19:39.000Z"
+        },
+        {
+            "id": 4511723,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyccer0198151.d.html",
+            "title": "花旗集团将在过渡期后任命贡萨洛·卢切蒂为新任首席财务官。",
+            "date_modified": "2025-11-20T21:19:27.000Z"
+        },
+        {
+            "id": 4511722,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyccek1577685.d.html",
+            "title": "声明显示：预计花旗集团首席财务官马克·梅森明年将卸任该职位。",
+            "date_modified": "2025-11-20T21:18:41.000Z"
+        },
+        {
+            "id": 4511721,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyccek1577524.d.html",
+            "title": "花旗集团宣布首席财务官过渡计划及美国个人银行业务调整方案。",
+            "date_modified": "2025-11-20T21:18:25.000Z"
+        },
+        {
+            "id": 4511720,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyccek1576887.d.html",
+            "title": "【俄罗斯再度痛批高市早苗涉台错误言论】俄罗斯外交部发言人扎哈罗娃20日再次谴责日本首相高市早苗近期有关台海局势的严重挑衅言论，指出日本至今不反省自身错误。（新华社）",
+            "date_modified": "2025-11-20T21:16:45.000Z"
+        },
+        {
+            "id": 4511719,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyccer0196807.d.html",
+            "title": "耐克宣布季度股息为0.41美元，较此前每股0.40美元的股息上调3%。",
+            "date_modified": "2025-11-20T21:16:19.000Z"
+        },
+        {
+            "id": 4511718,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyccep9194220.d.html",
+            "title": "富时A50期指连续夜盘收跌1.03%，报15117点。",
+            "date_modified": "2025-11-20T21:15:25.000Z"
+        },
+        {
+            "id": 4511717,
+            "content_html": "",
+            "title": "马克·扎克伯格及Meta董事们就股东提起的用户隐私诉讼案达成1.9亿美元和解协议。",
+            "date_modified": "2025-11-20T21:13:05.000Z"
+        },
+        {
+            "id": 4511716,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyccer0194238.d.html",
+            "title": "黑石集团计划以10亿英镑出售伯明翰国家展览中心（NEC）。",
+            "date_modified": "2025-11-20T21:09:58.000Z"
+        },
+        {
+            "id": 4511715,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyccen0280086.d.html",
+            "title": "【美客机与探空气球空中相撞】据美国国家运输安全委员会当地时间11月20日在一份航空事故初步调查报告中指出，今年10月16日，美国联合航空公司的1093号航班在犹他州上空飞行时，被一个疑似为探空气球的物体撞击。撞击导致两名驾驶员被玻璃碎片击中，机长右臂多处擦伤。",
+            "date_modified": "2025-11-20T21:07:41.000Z"
+        },
+        {
+            "id": 4511714,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyccer0192954.d.html",
+            "title": "GE医疗将收购Intelerad，以在不同护理场景中推进云端企业成像技术。",
+            "date_modified": "2025-11-20T21:06:47.000Z"
+        },
+        {
+            "id": 4511713,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyccer0192607.d.html",
+            "title": "美联储古尔斯比：9月就业报告未改变就业市场格局。",
+            "date_modified": "2025-11-20T21:05:54.000Z"
+        },
+        {
+            "id": 4511712,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyccer0192343.d.html",
+            "title": "美联储古尔斯比：对靠前降息感到不安，中期立场不鹰派。",
+            "date_modified": "2025-11-20T21:05:14.000Z"
+        },
+        {
+            "id": 4511711,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyccen0279032.d.html",
+            "title": "日本政府顾问称，日元汇率或在跌至160关口前触发日本央行干预。",
+            "date_modified": "2025-11-20T21:03:33.000Z"
+        },
+        {
+            "id": 4511710,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyccek1570909.d.html",
+            "title": "【热门中概股周四多数下跌】周四热门中概股多数下跌，纳斯达克中国金龙指数跌3.26%。阿里跌超3%，拼多多跌超4%，携程跌超3%，京东跌超1%，百度跌超4%，腾讯音乐跌超5%，小鹏跌超4%，理想跌超2%，蔚来跌超6%，满帮跌超7%，哔哩哔哩跌超4%。",
+            "date_modified": "2025-11-20T21:01:41.000Z"
+        },
+        {
+            "id": 4511709,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyccek1570756.d.html",
+            "title": "【美股三大股指收盘普跌】周四美股三大股指收盘普跌，道指跌0.84%，纳指跌2.15%，标普跌1.55%。英伟达跌超3%，微软跌超1%，谷歌跌超1%，亚马逊跌超2%，特斯拉跌超2%，沃尔玛涨超6%，甲骨文跌超6%。",
+            "date_modified": "2025-11-20T21:01:07.000Z"
+        },
+        {
+            "id": 4511708,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyccek1570714.d.html",
+            "title": "美联储古尔斯比：在确定通胀上升是否为暂时现象之前，对提前大幅降息感到担忧。",
+            "date_modified": "2025-11-20T21:00:52.000Z"
+        },
+        {
+            "id": 4511707,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyccen0278503.d.html",
+            "title": "美联储古尔斯比表示，他认为美联储主席鲍威尔试图建立共识的做法有价值。",
+            "date_modified": "2025-11-20T21:00:45.000Z"
+        },
+        {
+            "id": 4511706,
+            "content_html": "",
+            "title": "美联储古尔斯比表示，如果最终他的观点与美联储其他政策制定者存在强烈分歧，持反对意见也并无不妥。",
+            "date_modified": "2025-11-20T21:00:40.000Z"
+        },
+        {
+            "id": 4511705,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyccek1570679.d.html",
+            "title": "美联储古尔斯比表示，在美联储9月降息后，他认为2025年只需再降息一次。",
+            "date_modified": "2025-11-20T21:00:34.000Z"
+        },
+        {
+            "id": 4511704,
+            "content_html": "",
+            "title": "美联储古尔斯比表示，当他投票支持美联储10月份降息时，他假定就业市场正在逐步降温。",
+            "date_modified": "2025-11-20T21:00:29.000Z"
+        },
+        {
+            "id": 4511703,
+            "content_html": "",
+            "title": "美联储古尔斯比：9月就业数据显示就业市场稳定且略有降温；失业救济申请数据并未显示就业市场迅速恶化。",
+            "date_modified": "2025-11-20T21:00:24.000Z"
+        },
+        {
+            "id": 4511702,
+            "content_html": "",
+            "title": "美联储古尔斯比：官方政府数据一团糟；在通胀情况不明朗时面临的风险比劳动力市场更大，因为劳动力市场有更多替代数据。",
+            "date_modified": "2025-11-20T21:00:18.000Z"
+        },
+        {
+            "id": 4511701,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyccer0190712.d.html",
+            "title": "【COP30中国代表团：“中国角”区域未受火灾影响】正在巴西贝伦市举行的《联合国气候变化框架公约》第三十次缔约方大会（COP30）主会场20日发生火灾。中国代表团表示，截至人员撤离，“中国角”区域未受到火灾影响。当地时间20日14时许，COP30会场“蓝区”发生火灾。记者注意到，有媒体不实报道称这一火情始于会场“中国角”。对此，与会的中国代表团告诉记者，火灾并非源自“中国角”。“蓝区”设有各缔约方展台以及各代表团和媒体办公区域，“中国角”位于“蓝区”中央区域。火灾发生后，现场人员按照安保人员指示撤离。据有关方面消息，火势大约在半小时左右得到控制。（新华社）",
+            "date_modified": "2025-11-20T20:59:01.000Z"
+        },
+        {
+            "id": 4511700,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyccek1570547.d.html",
+            "title": "罗素微型股指数较10月峰值下跌10%。",
+            "date_modified": "2025-11-20T20:57:06.000Z"
+        },
+        {
+            "id": 4511699,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyccer0190613.d.html",
+            "title": "【瑞银CEO驳斥有关威胁离开瑞士的传闻，称纯属无稽之谈】瑞银集团首席执行官安思杰大力批驳有关该行拟离开瑞士的传言，表示管理层正在就有争议的资本监管规则寻求折中方案。瑞银作为一家瑞士银行“是最理想的结果，我和董事长Colm Kelleher正在为此努力 —— 其他说法纯属无稽之谈，”安思杰周四在摩根大通欧洲金融会议上表示，“我们从未、也绝不会威胁要离开这个国家。这太荒谬了。”",
+            "date_modified": "2025-11-20T20:55:10.000Z"
+        },
+        {
+            "id": 4511698,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwn1701296.d.html",
+            "title": "【中国代表：武力和对抗解决不了伊朗核问题】国际原子能机构理事会20日表决通过美国与英国、法国、德国共同推动的伊朗核问题决议。中国常驻国际原子能机构代表李松发言阐述中方立场，强调武力和对抗解决不了伊核问题。",
+            "date_modified": "2025-11-20T20:54:00.000Z"
+        },
+        {
+            "id": 4511697,
+            "content_html": "",
+            "title": "美国得克萨斯州总检察长起诉百时美施贵宝和赛诺菲，指控其未披露波立维（Plavix）对部分患者无效的情况。",
+            "date_modified": "2025-11-20T20:52:28.000Z"
+        },
+        {
+            "id": 4511696,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwn1701075.d.html",
+            "title": "马斯克：实时视频理解与生成是未来趋势。",
+            "date_modified": "2025-11-20T20:48:41.000Z"
+        },
+        {
+            "id": 4511695,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwr9320775.d.html",
+            "title": "甲骨文尾盘跌幅扩大至6%。",
+            "date_modified": "2025-11-20T20:47:53.000Z"
+        },
+        {
+            "id": 4511694,
+            "content_html": "",
+            "title": "纳指跌2.01%，现报22111.654点；道指跌0.62%，现报45851.238点；标普500指数跌1.29%，现报6556.220点。",
+            "date_modified": "2025-11-20T20:40:56.000Z"
+        },
+        {
+            "id": 4511693,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwr9320265.d.html",
+            "title": "美国股市跌幅扩大，纳斯达克指数下跌2.00%。",
+            "date_modified": "2025-11-20T20:39:39.000Z"
+        },
+        {
+            "id": 4511692,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwt0320830.d.html",
+            "title": "英伟达跌超3%。",
+            "date_modified": "2025-11-20T20:39:25.000Z"
+        },
+        {
+            "id": 4511691,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwr9320181.d.html",
+            "title": "内部人士透露：谷歌向英国员工提供自愿离职补偿方案。",
+            "date_modified": "2025-11-20T20:37:52.000Z"
+        },
+        {
+            "id": 4511690,
+            "content_html": "",
+            "title": "当地消防部门：COP30火灾原因正在调查中，但可能是电气设备问题，可能是一台微波炉引发的。",
+            "date_modified": "2025-11-20T20:37:32.000Z"
+        },
+        {
+            "id": 4511689,
+            "content_html": "",
+            "title": "纳斯达克中国金龙指数跌超3%，阿特斯跌17.66%，信也科技跌13.90%，海天网络跌12.37%，新氧跌9.81%，小牛电动跌9.75%。",
+            "date_modified": "2025-11-20T20:37:15.000Z"
+        },
+        {
+            "id": 4511688,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwn1700641.d.html",
+            "title": "标普将雅培实验室评级列入负面观察名单。",
+            "date_modified": "2025-11-20T20:37:13.000Z"
+        },
+        {
+            "id": 4511687,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwt0320645.d.html",
+            "title": "美国制裁与伊朗石油网络有关联的船只及企业。",
+            "date_modified": "2025-11-20T20:35:01.000Z"
+        },
+        {
+            "id": 4511686,
+            "content_html": "",
+            "title": "斯洛文尼亚敦促联合国安理会采取果断的下一步行动结束乌克兰冲突，称14个成员国支持停火，但缺乏切实成果。",
+            "date_modified": "2025-11-20T20:34:14.000Z"
+        },
+        {
+            "id": 4511685,
+            "content_html": "",
+            "title": "乔治·库尔茨（George Kurtz）通过收购托托·沃尔夫（Toto Wolff）持股实体的少数股权，成为梅赛德斯 - 阿斯顿马丁一级方程式车队的共同所有者，并被任命为技术顾问。",
+            "date_modified": "2025-11-20T20:31:37.000Z"
+        },
+        {
+            "id": 4511684,
+            "content_html": "",
+            "title": "网络安全公司CrowdStrike首席执行官乔治·库尔茨（George Kurtz）已收购了托托·沃尔夫（Toto Wolff）旗下梅赛德斯 - 阿斯顿·马丁一级方程式车队控股实体15%的股份。",
+            "date_modified": "2025-11-20T20:30:52.000Z"
+        },
+        {
+            "id": 4511683,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwt0320089.d.html",
+            "title": "第30届联合国气候变化大会（COP30）组织者：会场火灾在六分钟内得到控制。",
+            "date_modified": "2025-11-20T20:29:57.000Z"
+        },
+        {
+            "id": 4511682,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwt0320078.d.html",
+            "title": "ICI：美国货币市场基金资产规模下滑至7.52万亿美元。",
+            "date_modified": "2025-11-20T20:29:21.000Z"
+        },
+        {
+            "id": 4511681,
+            "content_html": "",
+            "title": "第30届联合国气候变化大会（COP30）主办方：活动场地发生火灾后，13人因吸入烟雾在现场接受治疗。",
+            "date_modified": "2025-11-20T20:29:08.000Z"
+        },
+        {
+            "id": 4511680,
+            "content_html": "",
+            "title": "联合国：我们为乌克兰人道主义行动收到的捐款仅达目标的46%，而在2024年这一比例为77%。",
+            "date_modified": "2025-11-20T20:29:03.000Z"
+        },
+        {
             "id": 4511679,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwt0320045.d.html",
             "title": "金融科技公司Kalshi以110亿美元估值融资10亿美元。",
             "date_modified": "2025-11-20T20:27:50.000Z"
-        },
-        {
-            "id": 4511678,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwn1699835.d.html",
-            "title": "文件显示，美国司法部正在审查对参议员亚当·希夫抵押贷款欺诈案的处理情况。",
-            "date_modified": "2025-11-20T20:24:21.000Z"
-        },
-        {
-            "id": 4511677,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwr9319295.d.html",
-            "title": "白宫经济顾问哈塞特：数据显示美联储下次会议应降息。",
-            "date_modified": "2025-11-20T20:21:23.000Z"
-        },
-        {
-            "id": 4511676,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwn1699691.d.html",
-            "title": "白宫经济顾问哈塞特：能入选美联储主席候选人名单，我深感荣幸。",
-            "date_modified": "2025-11-20T20:20:59.000Z"
-        },
-        {
-            "id": 4511675,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwt0319786.d.html",
-            "title": "白宫经济顾问哈塞特：政府停摆将对第四季度经济产生负面影响。",
-            "date_modified": "2025-11-20T20:20:32.000Z"
-        },
-        {
-            "id": 4511674,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwq0407021.d.html",
-            "title": "白宫经济顾问哈塞特：一直在与航空公司首席执行官会面。",
-            "date_modified": "2025-11-20T20:19:25.000Z"
-        },
-        {
-            "id": 4511673,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwr9319177.d.html",
-            "title": "白宫经济顾问哈塞特：第四季度经济增长率可能为2%。",
-            "date_modified": "2025-11-20T20:19:04.000Z"
-        },
-        {
-            "id": 4511672,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwr9319168.d.html",
-            "title": "白宫经济顾问哈塞特：要到12月才会开始看到停工后经济复苏的迹象。",
-            "date_modified": "2025-11-20T20:18:46.000Z"
-        },
-        {
-            "id": 4511671,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwn1699594.d.html",
-            "title": "白宫经济顾问哈塞特：政府停摆造成的负面影响比任何人预期的都要大得多。",
-            "date_modified": "2025-11-20T20:18:19.000Z"
-        },
-        {
-            "id": 4511670,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwn1699577.d.html",
-            "title": "白宫经济顾问哈塞特：无法得知10月份的失业率。",
-            "date_modified": "2025-11-20T20:17:45.000Z"
-        },
-        {
-            "id": 4511669,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwt0319651.d.html",
-            "title": "联合国：联合国安全理事会咨询委员会就乌克兰问题召开会议。",
-            "date_modified": "2025-11-20T20:17:04.000Z"
-        },
-        {
-            "id": 4511668,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwq0406854.d.html",
-            "title": "白宫经济顾问哈塞特：数据表明工资增长明显。",
-            "date_modified": "2025-11-20T20:16:28.000Z"
-        },
-        {
-            "id": 4511667,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwr9319005.d.html",
-            "title": "白宫经济顾问哈塞特：工厂产量飙升。",
-            "date_modified": "2025-11-20T20:16:11.000Z"
-        },
-        {
-            "id": 4511666,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwn1699417.d.html",
-            "title": "白宫经济顾问哈塞特表示，9月就业数据“非常出色” 。",
-            "date_modified": "2025-11-20T20:14:55.000Z"
-        },
-        {
-            "id": 4511665,
-            "content_html": "",
-            "title": "美国国家运输安全委员会（NTSB）：10月16日，美国联合航空公司一架飞机在36000英尺高空飞行时被物体击中，飞行员被玻璃碎片溅到。",
-            "date_modified": "2025-11-20T20:14:08.000Z"
-        },
-        {
-            "id": 4511664,
-            "content_html": "",
-            "title": "乌克兰军方称，俄罗斯有关其军队已控制乌克兰东部波克罗夫斯克70%地区的声明是虚假的。",
-            "date_modified": "2025-11-20T20:13:31.000Z"
-        },
-        {
-            "id": 4511663,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwn1699231.d.html",
-            "title": "乌克兰军方否认俄方有关其军队已控制乌克兰东北部库皮扬斯克的声明。",
-            "date_modified": "2025-11-20T20:13:28.000Z"
-        },
-        {
-            "id": 4511662,
-            "content_html": "",
-            "title": "花旗集团：维持对英伟达的买入评级，将英伟达的目标股价从每股220.00美元上调至270.00美元。",
-            "date_modified": "2025-11-20T20:13:09.000Z"
-        },
-        {
-            "id": 4511661,
-            "content_html": "",
-            "title": "调查显示：36位经济学家中有32位表示，新西兰储备银行将于11月26日再次下调现金利率25个基点至2.25%。",
-            "date_modified": "2025-11-20T20:07:27.000Z"
-        },
-        {
-            "id": 4511660,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwn1699007.d.html",
-            "title": "玻利维亚总统帕斯关闭了司法部，并谴责该部门被用于“迫害”。",
-            "date_modified": "2025-11-20T20:06:39.000Z"
-        },
-        {
-            "id": 4511659,
-            "content_html": "",
-            "title": "法国核安全管理局（ASNR）：周四，法国原子能委员会（CEA）位于巴黎地区的一处废弃实验室发生火灾，造成一人轻微受伤并受到污染，随后进行了去污处理。",
-            "date_modified": "2025-11-20T20:06:18.000Z"
-        },
-        {
-            "id": 4511658,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwq0406203.d.html",
-            "title": "美国财政部更新伊朗相关制裁名单。",
-            "date_modified": "2025-11-20T20:05:02.000Z"
-        },
-        {
-            "id": 4511657,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwn1698766.d.html",
-            "title": "【美政府重组能源部 优先发展化石燃料和核能】当地时间11月20日，美国能源部宣布重组，将石油和核能资源置于优先地位，取代此前致力于可再生能源和能效的部门。能源部发布了一份新的组织结构图，并附上一份简短声明，称此次调整符合美国总统特朗普的能源主导议程。新结构图新增了多个部门，包括碳氢化合物和地热能源办公室以及聚变办公室。拜登政府设立的清洁能源示范办公室被撤销。能源效率和可再生能源办公室也从新结构图中消失。负责为创新能源项目提供融资的贷款项目办公室更名为能源主导融资办公室。",
-            "date_modified": "2025-11-20T20:02:31.000Z"
-        },
-        {
-            "id": 4511656,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwt0318870.d.html",
-            "title": "墨西哥集团及主要农产品贸易商关注阿根廷米莱政府的铁路私有化计划。",
-            "date_modified": "2025-11-20T20:02:19.000Z"
-        },
-        {
-            "id": 4511655,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwt0318846.d.html",
-            "title": "【拉丁美洲多国政府及多边组织谴责美国军事干预加勒比地区】近日，拉丁美洲多国政府和多边组织先后通过公开讲话和官方声明，谴责美国在加勒比地区的军事部署，警告其意在为军事干预铺路，呼吁国际社会拒绝任何试图使威胁和胁迫政策常态化的行为。",
-            "date_modified": "2025-11-20T20:01:33.000Z"
-        },
-        {
-            "id": 4511654,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwr9318045.d.html",
-            "title": "西北生物疗法公司宣布，英国索斯顿工厂首个C级生产套件的建设工作已启动。",
-            "date_modified": "2025-11-20T19:59:11.000Z"
-        },
-        {
-            "id": 4511653,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwq0405761.d.html",
-            "title": "美国法官将华盛顿特区国民警卫队相关裁决暂停至12月11日，为上诉留出时间。",
-            "date_modified": "2025-11-20T19:57:08.000Z"
-        },
-        {
-            "id": 4511652,
-            "content_html": "",
-            "title": "中国地震台网正式测定：11月21日03时43分在台湾云林县（北纬23.66度，东经120.59度）发生3.8级地震，震源深度10千米。",
-            "date_modified": "2025-11-20T19:55:19.000Z"
-        },
-        {
-            "id": 4511651,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwt0318605.d.html",
-            "title": "美国法官暂时阻止特朗普向华盛顿特区部署国民警卫队。",
-            "date_modified": "2025-11-20T19:54:21.000Z"
-        },
-        {
-            "id": 4511650,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwn1698479.d.html",
-            "title": "美国法官裁定，美国国防部向华盛顿哥伦比亚特区部署国民警卫队的行为违法。",
-            "date_modified": "2025-11-20T19:54:10.000Z"
-        },
-        {
-            "id": 4511649,
-            "content_html": "",
-            "title": "谷歌：最新的Pixel手机能够使用苹果的AirDrop协议与iPhone交换图像和其他文件。",
-            "date_modified": "2025-11-20T19:47:54.000Z"
-        },
-        {
-            "id": 4511648,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwr9317261.d.html",
-            "title": "布伦特原油期货结算价报每桶63.38美元，下跌13美分，跌幅0.2%。",
-            "date_modified": "2025-11-20T19:46:00.000Z"
-        },
-        {
-            "id": 4511647,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwn1698141.d.html",
-            "title": "美国交通部长达菲威胁要削减宾夕法尼亚州的资金，此前该州对其驾照展开了调查。",
-            "date_modified": "2025-11-20T19:45:17.000Z"
-        },
-        {
-            "id": 4511646,
-            "content_html": "",
-            "title": "巴克莱：将英伟达的目标股价从每股240.00美元上调至275.00美元，维持英伟达股票“增持”评级。",
-            "date_modified": "2025-11-20T19:42:56.000Z"
-        },
-        {
-            "id": 4511645,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwt0318107.d.html",
-            "title": "阿布扎比国家石油公司正洽谈收购俄罗斯在塞尔维亚NIS公司持有的股份。",
-            "date_modified": "2025-11-20T19:42:33.000Z"
-        },
-        {
-            "id": 4511644,
-            "content_html": "",
-            "title": "【巴西贝伦COP30会场发生火灾】当地时间20日下午，巴西帕拉州贝伦市《联合国气候变化框架公约》第三十次缔约方大会（COP30）主会场发生火灾。据组委会最新消息，目前火情已被控制住，暂无人员伤亡情况。",
-            "date_modified": "2025-11-20T19:34:51.000Z"
-        },
-        {
-            "id": 4511643,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwt0317677.d.html",
-            "title": "美国原油期货结算价报每桶59.14美元，下跌30美分，跌幅0.50%。",
-            "date_modified": "2025-11-20T19:31:38.000Z"
-        },
-        {
-            "id": 4511642,
-            "content_html": "",
-            "title": "美国财政部：将发布有关根据1996年《个人责任和工作机会协调法案》（PRWORA）处理某些可退还个人所得税抵免的规定。",
-            "date_modified": "2025-11-20T19:31:12.000Z"
-        },
-        {
-            "id": 4511641,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwn1697515.d.html",
-            "title": "【李强抵达约翰内斯堡出席二十国集团领导人第二十次峰会】当地时间11月20日晚，应南非政府邀请，国务院总理李强乘包机抵达约翰内斯堡国际机场，出席二十国集团领导人第二十次峰会。南非卫生部长莫措阿莱迪和中国驻南非大使吴鹏到机场迎接。李强是在结束对赞比亚的正式访问后抵达约翰内斯堡的。离开卢萨卡时，赞比亚副总统纳卢曼戈和中国驻赞比亚大使韩镜到机场送行。（新华社）",
-            "date_modified": "2025-11-20T19:30:17.000Z"
-        },
-        {
-            "id": 4511640,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwt0317611.d.html",
-            "title": "【伊朗外长：与国际原子能机构签署的开罗协议正式终止】当地时间20日，针对英国、法国、德国与美国在国际原子能机构理事会上推动的伊朗核问题决议，伊朗外长阿拉格齐回应称，这些国家的举动无视伊朗的互动和善意，损害了国际原子能机构的信誉和独立性，并破坏了该机构与伊朗之间的互动与合作进程。阿拉格齐称，三个欧洲国家通知联合国安理会启动“快速恢复制裁”机制，使得开罗协议不再是伊朗与国际原子能机构在保障监督领域合作的基础。20日当天，伊朗已正式致函国际原子能机构总干事，宣布开罗协议不再有效，并被伊朗视为终止。",
-            "date_modified": "2025-11-20T19:30:01.000Z"
-        },
-        {
-            "id": 4511639,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwq0403497.d.html",
-            "title": "特朗普计划扩大美国西海岸与北极地区海上石油钻探规模。",
-            "date_modified": "2025-11-20T19:29:18.000Z"
-        },
-        {
-            "id": 4511638,
-            "content_html": "",
-            "title": "西班牙电信公司与欧足联签署了一份为期四个赛季的转播权协议，每个赛季转播费为14.6亿欧元。",
-            "date_modified": "2025-11-20T19:28:03.000Z"
-        },
-        {
-            "id": 4511637,
-            "content_html": "",
-            "title": "主办方称，在巴西贝伦举办的第30届联合国气候变化大会（COP30）会场因火灾关闭，当地时间晚上8点前不会重新开放。",
-            "date_modified": "2025-11-20T19:26:22.000Z"
-        },
-        {
-            "id": 4511636,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwq0403194.d.html",
-            "title": "英国央行货币政策委员会成员丁格拉：关税不会导致进口“爆炸式增长”。",
-            "date_modified": "2025-11-20T19:25:51.000Z"
-        },
-        {
-            "id": 4511635,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwt0317412.d.html",
-            "title": "美国海上钻探计划包括在墨西哥湾、阿拉斯加近海及太平洋沿岸进行多达34次租赁拍卖。",
-            "date_modified": "2025-11-20T19:24:55.000Z"
-        },
-        {
-            "id": 4511634,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwq0403135.d.html",
-            "title": "【美国内政部启动第十一轮大规模国家海上租赁计划】美国内政部今日宣布一项名为《释放美国海上能源潜力》的部长令，指示海洋能源管理局依据联邦法律采取必要措施，终止拜登政府2024-2029年《国家外大陆架油气租赁计划》中的限制性条款，并将在2026年10月前推出全新的、规模更宏大的第十一轮《国家外大陆架油气租赁计划》。作为该指令的一部分，内政部同时发布了第十一轮计划的“部长提议草案”。这些举措体现了特朗普政府对“恢复美国能源主导地位” 的持续承诺——本届政府将用一份能充分满足美国日益增长的能源需求的计划，取代此前政府推出的“史上规模最小的海上租赁计划”。美国内政部长道格・伯根表示：“海上油气生产并非一蹴而就之事。从规划到投资，再到最终将原油推向市场，需要数年时间的筹备与努力。而拜登政府此前叫停了海上油气租赁活动，严重破坏了美国海上油气生产的长期发展进程。如今，我们推进这份强有力、具前瞻性的租赁计划，正是为了确保美国海上能源产业保持活力、从业者稳定就业，并让美国在未来数十年内持续维持能源主导地位。”",
-            "date_modified": "2025-11-20T19:24:29.000Z"
-        },
-        {
-            "id": 4511633,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwq0403030.d.html",
-            "title": "【白宫称与乌克兰讨论和谈计划】据美国白宫新闻秘书莱维特当地时间11月20日下午在例行记者会上证实，美国政府高级官员近日与乌克兰方面举行会晤，讨论了一项“应能被俄乌双方接受的和平计划”。莱维特称，美国国务卿鲁比奥和美国中东问题特使威特科夫参与了这些会谈，“美国政府正就如何结束俄乌战争与冲突双方进行良好对话”。",
-            "date_modified": "2025-11-20T19:22:35.000Z"
-        },
-        {
-            "id": 4511632,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwn1697169.d.html",
-            "title": "美国内政部发布海上油气租赁计划草案。",
-            "date_modified": "2025-11-20T19:20:23.000Z"
-        },
-        {
-            "id": 4511631,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwt0317226.d.html",
-            "title": "白宫：马克龙和特朗普有着良好的工作关系。",
-            "date_modified": "2025-11-20T19:17:32.000Z"
-        },
-        {
-            "id": 4511630,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyawwt0317126.d.html",
-            "title": "英国央行货币政策委员会成员丁格拉：关税将导致英国物价小幅下跌。",
-            "date_modified": "2025-11-20T19:13:59.000Z"
         }
     ]
 }
