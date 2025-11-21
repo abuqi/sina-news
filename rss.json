@@ -6,6 +6,241 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 4513546,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-22/detail-infyevpw8062342.d.html",
+            "title": "汇丰控股的瑞士私人银行正提高部分员工薪酬，以防止人才流失。",
+            "date_modified": "2025-11-21T17:21:27.000Z"
+        },
+        {
+            "id": 4513545,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-22/detail-infyevpy6786606.d.html",
+            "title": "【泽连斯基与北约秘书长通话 讨论美方提出的和平计划】乌克兰总统泽连斯基21日在其官方社交平台发文称，当天他与北约秘书长吕特通话，泽连斯基表示，双方在通话中讨论了现有的外交可能性以及美国方面提出的和平计划。泽连斯基表示，乌方准备迅速且建设性地工作，正在协调下一步的共同行动。",
+            "date_modified": "2025-11-21T17:21:04.000Z"
+        },
+        {
+            "id": 4513544,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-22/detail-infyevpw8062125.d.html",
+            "title": "ICSG（国际铜业研究组织）：9月铜市场供应缺口5.1万吨。",
+            "date_modified": "2025-11-21T17:17:08.000Z"
+        },
+        {
+            "id": 4513543,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-22/detail-infyevpw8062002.d.html",
+            "title": "谷歌：推出BigQuery AI。",
+            "date_modified": "2025-11-21T17:14:03.000Z"
+        },
+        {
+            "id": 4513542,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-22/detail-infyevpy6785756.d.html",
+            "title": "泽连斯基和吕特讨论了美国的和平提议及后续步骤。",
+            "date_modified": "2025-11-21T17:09:48.000Z"
+        },
+        {
+            "id": 4513541,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-22/detail-infyevpy6785285.d.html",
+            "title": "泽连斯基表示，他们讨论了实现乌克兰和平的“可用外交选项”。",
+            "date_modified": "2025-11-21T17:05:57.000Z"
+        },
+        {
+            "id": 4513540,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-22/detail-infyevpt8588494.d.html",
+            "title": "泽连斯基称已与北约秘书长吕特通话。",
+            "date_modified": "2025-11-21T17:05:05.000Z"
+        },
+        {
+            "id": 4513539,
+            "content_html": "",
+            "title": "加拿大邮政：由于持续的劳工不确定性及其对收入的影响，预计将在12月31日前充分使用来自加拿大政府的10.34亿加元资金。",
+            "date_modified": "2025-11-21T17:03:10.000Z"
+        },
+        {
+            "id": 4513538,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-22/detail-infyevpt8588136.d.html",
+            "title": "加拿大邮政：正面临历史上最严峻、最具挑战性的财务状况。",
+            "date_modified": "2025-11-21T17:02:18.000Z"
+        },
+        {
+            "id": 4513537,
+            "content_html": "",
+            "title": "全球抗击艾滋病、结核病和疟疾基金为2027 - 2029年的工作筹集了113亿美元资金。",
+            "date_modified": "2025-11-21T17:00:33.000Z"
+        },
+        {
+            "id": 4513536,
+            "content_html": "",
+            "title": "美国银行将通过提供融资、保留利率、延长宽限期等方式帮助洛杉矶野火受灾客户重建家园。",
+            "date_modified": "2025-11-21T17:00:27.000Z"
+        },
+        {
+            "id": 4513535,
+            "content_html": "",
+            "title": "【夜盘期货收盘】国际铜夜盘收涨0.13%，沪铜收涨0.21%，沪铝收跌0.35%，沪锌收跌0.60%，沪铅收跌0.38%，沪镍收涨0.20%，沪锡收跌0.06%。氧化铝夜盘收跌0.07%，铝合金收跌0.27%。不锈钢夜盘收跌0.49%。",
+            "date_modified": "2025-11-21T17:00:01.000Z"
+        },
+        {
+            "id": 4513534,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-22/detail-infyevpy6784550.d.html",
+            "title": "现货黄金突破4100美元/盎司，日内涨0.56%。",
+            "date_modified": "2025-11-21T16:59:52.000Z"
+        },
+        {
+            "id": 4513533,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-22/detail-infyevpt8587841.d.html",
+            "title": "纽约期金日内涨1%，现报4100.60美元/盎司。",
+            "date_modified": "2025-11-21T16:59:49.000Z"
+        },
+        {
+            "id": 4513532,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-22/detail-infyevpy6784400.d.html",
+            "title": "英伟达转涨。",
+            "date_modified": "2025-11-21T16:58:12.000Z"
+        },
+        {
+            "id": 4513531,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-22/detail-infyevpt8587705.d.html",
+            "title": "【美股三大指数均涨超1%】道指涨1.32%，现报46358.449点；纳指涨1.00%，现报22298.927点；标普500指数涨1.14%，现报6613.530点。",
+            "date_modified": "2025-11-21T16:58:12.000Z"
+        },
+        {
+            "id": 4513530,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-22/detail-infyevpw8060368.d.html",
+            "title": "纽约期金突破4100美元/盎司，日内涨0.99%。",
+            "date_modified": "2025-11-21T16:56:36.000Z"
+        },
+        {
+            "id": 4513529,
+            "content_html": "",
+            "title": "标普500指数涨1.02%，现报6605.480点；道指涨1.22%，现报46312.660点；纳指涨0.78%，现报22250.683点。",
+            "date_modified": "2025-11-21T16:55:38.000Z"
+        },
+        {
+            "id": 4513528,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-22/detail-infyevpu9571136.d.html",
+            "title": "美国股市涨幅扩大，标准普尔500指数上涨1.00%。",
+            "date_modified": "2025-11-21T16:54:17.000Z"
+        },
+        {
+            "id": 4513527,
+            "content_html": "",
+            "title": "纳斯达克中国金龙指数涨超1%，新氧涨6.51%，乐信涨5.75%，网易有道涨5.19%，亚朵集团涨4.95%，老虎证券涨4.69%。",
+            "date_modified": "2025-11-21T16:54:06.000Z"
+        },
+        {
+            "id": 4513526,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-22/detail-infyevpu9570414.d.html",
+            "title": "现货黄金突破4090美元/盎司，日内涨0.32%。",
+            "date_modified": "2025-11-21T16:50:57.000Z"
+        },
+        {
+            "id": 4513525,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-22/detail-infyevpw8059153.d.html",
+            "title": "纽约期金突破4090美元/盎司，日内涨0.75%。",
+            "date_modified": "2025-11-21T16:50:52.000Z"
+        },
+        {
+            "id": 4513524,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-22/detail-infyevpw8058943.d.html",
+            "title": "【特朗普下“最后通牒”：27日是乌接受美和平提议最后期限】当地时间21日，美国总统特朗普表示，他认为27日是乌克兰接受美国支持的和平提议的最后期限。另有消息称，美国副总统万斯和乌克兰总统泽连斯基21日通了电话。与此同时，特朗普政府正敦促乌克兰在27日之前同意一项结束俄乌冲突的计划。",
+            "date_modified": "2025-11-21T16:49:00.000Z"
+        },
+        {
+            "id": 4513523,
+            "content_html": "",
+            "title": "道指涨1.02%，现报46218.250点；纳指涨0.60%，现报22210.132点；标普500指数涨0.74%，现报6587.210点。",
+            "date_modified": "2025-11-21T16:48:26.000Z"
+        },
+        {
+            "id": 4513522,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-22/detail-infyevpw8058590.d.html",
+            "title": "育碧：腾讯在万塔奇工作室持有26.32%的经济权益。",
+            "date_modified": "2025-11-21T16:46:33.000Z"
+        },
+        {
+            "id": 4513521,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-22/detail-infyevpw8058517.d.html",
+            "title": "育碧：腾讯对万塔奇工作室11.6亿欧元的投资完成。",
+            "date_modified": "2025-11-21T16:46:05.000Z"
+        },
+        {
+            "id": 4513520,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-22/detail-infyevpw8058179.d.html",
+            "title": "意大利财政部：将于11月26日拍卖75亿欧元的短期国债。",
+            "date_modified": "2025-11-21T16:43:51.000Z"
+        },
+        {
+            "id": 4513519,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-22/detail-infyevpt8585767.d.html",
+            "title": "美国股市涨幅扩大，道琼斯工业平均指数上涨1.00%。",
+            "date_modified": "2025-11-21T16:42:25.000Z"
+        },
+        {
+            "id": 4513518,
+            "content_html": "",
+            "title": "【乌兹别克斯坦总统米尔济约耶夫会见王毅】11月21日，乌兹别克斯坦总统米尔济约耶夫在塔什干会见中共中央政治局委员、外交部长王毅。（新华社）",
+            "date_modified": "2025-11-21T16:41:53.000Z"
+        },
+        {
+            "id": 4513517,
+            "content_html": "",
+            "title": "标普500指数上涨0.7%，触及盘中新高；纳斯达克100指数上涨0.4%。",
+            "date_modified": "2025-11-21T16:37:04.000Z"
+        },
+        {
+            "id": 4513516,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-22/detail-infyevpt8584854.d.html",
+            "title": "日本央行官员：加息决策已 “接近” 出台。",
+            "date_modified": "2025-11-21T16:35:25.000Z"
+        },
+        {
+            "id": 4513515,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-22/detail-infyevpw8056662.d.html",
+            "title": "【欧洲主要股指收盘普跌】欧洲斯托克600指数下跌0.36%，欧洲斯托克指数下跌0.74%，欧元区蓝筹股指数下跌0.99%。法国CAC 40指数下跌0.03%，西班牙IBEX指数下跌0.99%，英国富时100指数上涨0.05%，德国DAX指数下跌0.78%。",
+            "date_modified": "2025-11-21T16:34:20.000Z"
+        },
+        {
+            "id": 4513514,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-22/detail-infyevpw8056462.d.html",
+            "title": "泽连斯基称乌克兰尊重特朗普的和平缔造努力。",
+            "date_modified": "2025-11-21T16:33:07.000Z"
+        },
+        {
+            "id": 4513513,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-22/detail-infyevpy6781224.d.html",
+            "title": "泽连斯基表示，基辅将在顾问层面与美国和欧洲展开合作，以寻找可行的和平之路。",
+            "date_modified": "2025-11-21T16:32:08.000Z"
+        },
+        {
+            "id": 4513512,
+            "content_html": "",
+            "title": "乌克兰总统泽连斯基表示，他与万斯、德里斯科尔就美国提出的结束乌克兰战争的方案进行了交谈。",
+            "date_modified": "2025-11-21T16:31:17.000Z"
+        },
+        {
             "id": 4513511,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-11-22/detail-infyevpu9566974.d.html",
@@ -107,247 +342,6 @@
             "url": "https://finance.sina.cn/7x24/2025-11-22/detail-infyevpt8582037.d.html",
             "title": "美国劳工统计局表示取消发布10月实际收入报告。",
             "date_modified": "2025-11-21T16:14:20.000Z"
-        },
-        {
-            "id": 4513496,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-22/detail-infyevpw8052794.d.html",
-            "title": "【最终文本草案存分歧 COP30主席呼吁各方尽快达成共识】当地时间21日上午，《联合国气候变化框架公约》第三十次缔约方大会（COP30）谈判进入最后冲刺阶段。由于各国代表团对巴西起草的最新版大会最终文本草案存在分歧，谈判暂时陷入僵局。COP30主席安德烈·科雷亚·多拉戈表示，当前谈判面临巨大的挑战，一些优先事项可能无法按预期推进。多拉戈警告，如果各方无法达成协议，也无法落实《巴黎协定》的内容，那么“所有人都会蒙受损失”，因为气候问题“没有赢家”。为了尽快推动各方谈判达成共识，多拉戈呼吁成立一个由各国部长和代表团团长组成的工作组，进行内部磋商，并努力达成可能的共识。",
-            "date_modified": "2025-11-21T16:11:30.000Z"
-        },
-        {
-            "id": 4513495,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-22/detail-infyevpw8052539.d.html",
-            "title": "美国劳工统计局：11月消费者价格指数将于12月18日公布。",
-            "date_modified": "2025-11-21T16:10:24.000Z"
-        },
-        {
-            "id": 4513494,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-22/detail-infyevpt8581298.d.html",
-            "title": "美国劳工统计局表示 10 月消费者价格指数（CPI）报告将不会发布。",
-            "date_modified": "2025-11-21T16:10:10.000Z"
-        },
-        {
-            "id": 4513493,
-            "content_html": "",
-            "title": "故障监测平台 DownDetector：截至美国东部时间上午 11 点 06 分，已有 20355 名美国用户报告 X 平台出现故障。",
-            "date_modified": "2025-11-21T16:08:06.000Z"
-        },
-        {
-            "id": 4513492,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-22/detail-infyevpw8050146.d.html",
-            "title": "【openUBMC开源发展委员会成立，首批成员单位包括华为、百度等】11月21日，openUBMC开源发展委员会在北京成立。openUBMC开源发展委员会首批成员单位由华为、百度、百信信息、百敖软件、宝德计算、长江计算、得瑞领新、电子标准院、广电五舟、光润通、河南昆仑、华鲲振宇、恒扬数据、海思、浪潮计算机、乐研科技、力积存储、联瑞LR-LINK、凌思微电子、昆仑太科、沐创集成电路、全球计算联盟、软通华方、神州鲲泰、天翼云、同泰怡、网迅科技、兴汉网际、星云智联、远图未来、云海芯科、云芯智联、中科驭数、中移云能等，共计36家社区合作伙伴和用户组成。",
-            "date_modified": "2025-11-21T16:02:21.000Z"
-        },
-        {
-            "id": 4513491,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyevpt8578531.d.html",
-            "title": "据DownDetector，用户报告显示Cloudflare存在问题。",
-            "date_modified": "2025-11-21T15:58:18.000Z"
-        },
-        {
-            "id": 4513490,
-            "content_html": "",
-            "title": "据DownDetector消息，截至美国东部时间上午10点57分，有8307名美国用户报告X平台出现问题。",
-            "date_modified": "2025-11-21T15:58:02.000Z"
-        },
-        {
-            "id": 4513489,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyevpt8578437.d.html",
-            "title": "消息人士称，印尼镍生产商青美邦（QMB）在尾矿检查后将产量削减至少50%。",
-            "date_modified": "2025-11-21T15:57:53.000Z"
-        },
-        {
-            "id": 4513488,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyevpy6774514.d.html",
-            "title": "监测平台 DownDetector：用户报告显示 X 平台出现故障。",
-            "date_modified": "2025-11-21T15:53:18.000Z"
-        },
-        {
-            "id": 4513487,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyevpw8048537.d.html",
-            "title": "【日本通胀高企】日本总务省11月21日公布的报告显示，日本的通胀问题正在进一步加剧。10月日本核心消费价格指数（CPI）同比上升3.0%，物价涨幅继续扩大。其中，大米、鸡蛋等价格持续上涨。以大米为例，截至11月9日的一周，一袋5公斤装大米均价为4316日元（约合人民币198元），刷新今年5月创下的纪录。有日本民众感叹，大米已经变成了“奢侈品”。 日媒此前就表示日本今年将有超2万种食品涨价。通胀高企下，日本民众生活负担加重。",
-            "date_modified": "2025-11-21T15:52:22.000Z"
-        },
-        {
-            "id": 4513486,
-            "content_html": "",
-            "title": "美国食品药品监督管理局（FDA）：宣布将于2026年1月22日召开一场虚拟的烟草制品科学咨询委员会（TPSAC）会议。",
-            "date_modified": "2025-11-21T15:52:05.000Z"
-        },
-        {
-            "id": 4513485,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyevpu9559657.d.html",
-            "title": "欧洲央行官员佩雷拉：在发生冲击时，拥有应对冲击的缓冲机制非常重要。",
-            "date_modified": "2025-11-21T15:51:23.000Z"
-        },
-        {
-            "id": 4513484,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyevpw8048361.d.html",
-            "title": "日本央行官员增尾隆浩：加息 “即将到来”，正寻求与政府沟通。",
-            "date_modified": "2025-11-21T15:50:57.000Z"
-        },
-        {
-            "id": 4513483,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyevpw8048119.d.html",
-            "title": "甲骨文股价下跌7.4%，触及五个月低点。",
-            "date_modified": "2025-11-21T15:48:44.000Z"
-        },
-        {
-            "id": 4513482,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyevpw8047917.d.html",
-            "title": "【美国消费者信心跌至接近纪录低点 个人财务看法恶化】由于美国人对个人财务状况的看法恶化，美国消费者信心在11月跌至接近历史最低水平。根据密歇根大学公布的数据，11月消费者信心指数降至51，10月为53.6。最新数字仅略高于初值。当前状况指标下滑7.5点至51.1的纪录低点。对个人财务状况的看法为2009年以来最为暗淡。",
-            "date_modified": "2025-11-21T15:46:45.000Z"
-        },
-        {
-            "id": 4513481,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyevpw8047677.d.html",
-            "title": "标普500指数和纳斯达克指数跌至两个多月以来的最低点。",
-            "date_modified": "2025-11-21T15:43:52.000Z"
-        },
-        {
-            "id": 4513480,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyevpw8047622.d.html",
-            "title": "特朗普：伊朗如果想要达成协议，我们可能会达成协议。",
-            "date_modified": "2025-11-21T15:43:30.000Z"
-        },
-        {
-            "id": 4513479,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyevpu9558809.d.html",
-            "title": "特朗普：如果进展顺利，倾向于延长（和平计划的）最后期限。",
-            "date_modified": "2025-11-21T15:43:08.000Z"
-        },
-        {
-            "id": 4513478,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyevpw8047538.d.html",
-            "title": "欧洲央行官员佩雷拉：欧洲央行目前的货币政策是合适的。",
-            "date_modified": "2025-11-21T15:42:51.000Z"
-        },
-        {
-            "id": 4513477,
-            "content_html": "",
-            "title": "三位消息人士向路透社透露，乌克兰、法国、德国和英国正在针对美国的和平计划制定反提案。",
-            "date_modified": "2025-11-21T15:41:54.000Z"
-        },
-        {
-            "id": 4513476,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyevpu9558521.d.html",
-            "title": "【俄说乌应立即回到谈判桌】据塔斯社21日报道，俄罗斯总统新闻秘书佩斯科夫表示，乌克兰总统泽连斯基领导的基辅政权必须立即就和平解决冲突做出负责任的决定，立即进行谈判。",
-            "date_modified": "2025-11-21T15:40:44.000Z"
-        },
-        {
-            "id": 4513475,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyevpw8047213.d.html",
-            "title": "特朗普：（下）周四是制定乌克兰问题计划的最后期限。",
-            "date_modified": "2025-11-21T15:40:16.000Z"
-        },
-        {
-            "id": 4513474,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyevpw8047170.d.html",
-            "title": "英伟达股价触及两个月低点，最新跌4.2%。",
-            "date_modified": "2025-11-21T15:40:01.000Z"
-        },
-        {
-            "id": 4513473,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyevpu9558396.d.html",
-            "title": "特朗普：不会取消对俄罗斯石油的制裁。",
-            "date_modified": "2025-11-21T15:39:53.000Z"
-        },
-        {
-            "id": 4513472,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyevpt8575317.d.html",
-            "title": "欧洲央行官员科赫尔：目前地缘政治和经济方面的风险处于我们许久未见的水平。",
-            "date_modified": "2025-11-21T15:39:37.000Z"
-        },
-        {
-            "id": 4513471,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyevpy6771988.d.html",
-            "title": "欧洲央行官员佩雷拉：金融市场存在估值过高风险。",
-            "date_modified": "2025-11-21T15:39:30.000Z"
-        },
-        {
-            "id": 4513470,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyevpw8047055.d.html",
-            "title": "花旗警告称，由于人工智能（AI）乐观情绪动摇，应对做多标普500指数保持谨慎。",
-            "date_modified": "2025-11-21T15:39:07.000Z"
-        },
-        {
-            "id": 4513469,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyevpt8575181.d.html",
-            "title": "特朗普：普京并不寻求更多冲突。",
-            "date_modified": "2025-11-21T15:38:46.000Z"
-        },
-        {
-            "id": 4513468,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyevpu9558194.d.html",
-            "title": "特朗普：乌克兰正在失去土地。",
-            "date_modified": "2025-11-21T15:38:29.000Z"
-        },
-        {
-            "id": 4513467,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyevpt8575049.d.html",
-            "title": "诺基亚：在美国的投资将加速AI固定接入、IP、光纤、数据中心网络技术的创新 。",
-            "date_modified": "2025-11-21T15:38:13.000Z"
-        },
-        {
-            "id": 4513466,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyevpu9557600.d.html",
-            "title": "【日本补充预算创3年新高引发担忧】日本政府11月21日举行临时内阁会议，敲定了规模约为21.3万亿日元（约合人民币9656亿元）的综合经济对策，其中2025年度补充预算一般会计支出创下了自2022年以来的新高。虽然日本政府力图以此提振经济，但市场却普遍担忧日本财政将进一步恶化。",
-            "date_modified": "2025-11-21T15:34:58.000Z"
-        },
-        {
-            "id": 4513465,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyevpu9557540.d.html",
-            "title": "英伟达盘中跌幅扩大至3%。",
-            "date_modified": "2025-11-21T15:34:26.000Z"
-        },
-        {
-            "id": 4513464,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyevpy6770722.d.html",
-            "title": "联合国秘书长表示，任何关于乌克兰的和平计划都必须尊重其“领土完整”。",
-            "date_modified": "2025-11-21T15:33:51.000Z"
-        },
-        {
-            "id": 4513463,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyevpt8573430.d.html",
-            "title": "欧洲央行管委穆勒：必须保持警惕。",
-            "date_modified": "2025-11-21T15:32:02.000Z"
-        },
-        {
-            "id": 4513462,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-21/detail-infyevpw8045820.d.html",
-            "title": "欧洲央行管委穆勒：在可预见的未来，通胀似乎将足够接近2%。",
-            "date_modified": "2025-11-21T15:31:55.000Z"
         }
     ]
 }
