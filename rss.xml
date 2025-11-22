@@ -4,11 +4,29 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 22 Nov 2025 21:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Nov 2025 22:22:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【消息人士：美国拟启动对委内瑞拉行动新阶段】四名美国官员透露，美国计划在未来几天启动与委内瑞拉相关行动的新阶段。目前特朗普政府正对尼古拉斯・马杜罗总统领导的政府加大施压力度。路透社尚未确认新行动的具体时间、范围，也未核实美国总统特朗普是否已就采取行动作出最终决定。近几周，随着美国与委内瑞拉关系恶化、美军向加勒比地区部署兵力，有关美国即将采取行动的报道不断增多。其中两名美国官员表示，针对马杜罗的新行动中，秘密行动可能是首要组成部分。美国国防部将相关问题转交白宫回应，中央情报局（CIA）则拒绝置评。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-23/detail-infyirkm7204716.d.html</link>
+            <guid>4514728</guid>
+            <pubDate>Sat, 22 Nov 2025 22:10:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美联储12月降息25个基点的概率为71%】据CME“美联储观察”：美联储12月降息25个基点的概率为71%，维持利率不变的概率为29%。美联储到明年1月累计降息25个基点的概率为58%，维持利率不变的概率为20%，累计降息50个基点的概率为22%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-23/detail-infyirkn8136002.d.html</link>
+            <guid>4514727</guid>
+            <pubDate>Sat, 22 Nov 2025 22:08:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国拟启动与委内瑞拉相关行动的新阶段，美国或先对委内瑞拉开展秘密行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-23/detail-infyirkq6623375.d.html</link>
+            <guid>4514726</guid>
+            <pubDate>Sat, 22 Nov 2025 21:34:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【海南航空开通布鲁塞尔至重庆直飞航线】中国海南航空公司22日正式开通布鲁塞尔至重庆直飞航线。布鲁塞尔国际机场举行首航仪式，以车辆护送仪式欢送首个航班启程。新航线计划每周执行3个往返航班，班期为每周一、周四、周六。布鲁塞尔至重庆航线是继布鲁塞尔至北京、深圳、上海航线后，海南航空开通的又一条从比利时始发飞往中国的国际航线。（新华社）]]></title>
             <link>https://finance.sina.cn/7x24/2025-11-23/detail-infyirkm7201827.d.html</link>
@@ -274,24 +292,6 @@
             <link>https://finance.sina.cn/7x24/2025-11-22/detail-infyhyny5757951.d.html</link>
             <guid>4514679</guid>
             <pubDate>Sat, 22 Nov 2025 15:27:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据知情人士透露，特朗普政府在法院裁决前拟定关税备用方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-22/detail-infyhynw6988202.d.html</link>
-            <guid>4514678</guid>
-            <pubDate>Sat, 22 Nov 2025 15:22:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞银CEO：我希望遗产税提案不会获批。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-22/detail-infyhynu8499350.d.html</link>
-            <guid>4514677</guid>
-            <pubDate>Sat, 22 Nov 2025 15:21:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[外交消息人士称：意大利将派官员出席周日在日内瓦举行的乌克兰和平计划会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-22/detail-infyhynt7559591.d.html</link>
-            <guid>4514676</guid>
-            <pubDate>Sat, 22 Nov 2025 15:16:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
