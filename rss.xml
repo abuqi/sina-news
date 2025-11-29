@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 29 Nov 2025 19:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Nov 2025 20:26:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【消息人士：经协商，巴里克黄金公司员工从马里监狱获释】三名消息人士于周六透露，巴里克矿业公司的四名马里籍员工已获释。一年前，因该公司与马里政府存在纠纷，这四名员工在马里首都巴马科被拘留。随着金价飙升至历史高点，马里出台了新矿业法，规定马里可从金矿企业获得更高比例的收益。此前，巴里克矿业与马里政府就这部新矿业法的实施问题陷入对峙。这家加拿大矿业公司于周一表示，经过两年谈判，已与马里政府达成协议，解决双方在Loulo-Gounkoto gold mining complex相关的所有纠纷。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-30/detail-infzchxs5773324.d.html</link>
+            <guid>4527905</guid>
+            <pubDate>Sat, 29 Nov 2025 20:25:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国航空称受空客故障影响的飞机已修复。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-30/detail-infzchxn8175400.d.html</link>
+            <guid>4527904</guid>
+            <pubDate>Sat, 29 Nov 2025 19:36:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【泽连斯基：乌代表团将抵美进行新一轮谈判】乌克兰总统泽连斯基29日表示，乌克兰代表团将于美国当地时间29日晚抵达美国，并将基于日内瓦的谈判成果继续与美方展开磋商。泽连斯基表示，乌克兰代表团拥有必要的指令，并期待他们按照乌克兰优先事项开展工作。据悉，谈判将于30日进行。29日稍早时，泽连斯基曾在其官方社交平台上发文称，乌克兰国家安全与国防委员会秘书兼乌克兰代表团团长乌梅罗夫与乌谈判团队已在前往美国的路上。泽连斯基称，当天听取了乌梅罗夫的汇报，乌克兰代表团任务明确，即迅速且有实质内容地准备结束冲突的步骤条款。乌克兰继续与美国保持最大程度的合作，乌方希望日内瓦会议的成果能在美国得到完善。他表示，期待30日乌克兰代表团的工作总结报告。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2025-11-30/detail-infzchxq6662955.d.html</link>
@@ -280,18 +292,6 @@
             <link>https://finance.sina.cn/7x24/2025-11-29/detail-infzarzu8536409.d.html</link>
             <guid>4527653</guid>
             <pubDate>Sat, 29 Nov 2025 14:05:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【疯狂动物城2预测票房超40亿】据灯塔专业版AI票房预测，影片《疯狂动物城2》预测总票房连涨3日，已达40.5亿。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-29/detail-infzarzw7024710.d.html</link>
-            <guid>4527652</guid>
-            <pubDate>Sat, 29 Nov 2025 14:02:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国援老挝国家地震监测台网项目正式移交】中国援老挝国家地震监测台网项目移交仪式近日在老挝首都万象举行。据介绍，援老挝国家地震监测台网项目自2017年开始实施，项目建成了覆盖老挝全境的15个现代化综合地震台站和老挝首个国家地震信息中心，为老方培养了涵盖台网运维、数据处理、信息发布等全流程技术骨干，使老方具备了对其境内3级以上地震的自主速报能力，为老挝防灾减灾和应急响应提供了有力技术支撑。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-29/detail-infzarzw7024463.d.html</link>
-            <guid>4527651</guid>
-            <pubDate>Sat, 29 Nov 2025 14:00:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
