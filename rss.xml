@@ -4,11 +4,32 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 29 Nov 2025 20:26:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Nov 2025 21:21:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国交通部长达菲：所有受影响的美国航空公司均报告称取得了重大进展，且有望在本周日午夜的最后期限前完成相关工作。 旅客们无需担心会出现任何重大出行中断情况。]]></title>
+            <guid>4527909</guid>
+            <pubDate>Sat, 29 Nov 2025 20:57:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国交通部长达菲：已就空客A320软件更新召回一事与空客进行密切沟通，并与使用该机型的航空公司保持联系。]]></title>
+            <guid>4527908</guid>
+            <pubDate>Sat, 29 Nov 2025 20:56:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沙特阿拉伯国家航空公司沙特阿拉伯航空：其空客A320机队的更新工作已完成，对客户造成的影响极小。]]></title>
+            <guid>4527907</guid>
+            <pubDate>Sat, 29 Nov 2025 20:45:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普伏特加预售开启】美国总统唐纳德·特朗普之子埃里克·特朗普在社交媒体平台X上表示：“很高兴宣布特朗普伏特加正式开启预售通道。”据官网信息显示，这款容量为0.7升的伏特加预售单价为47.45美元（约合人民币335.7元）。 美国总统特朗普此前曾公开表示，他一直教育子女及孙辈要对香烟、酒精和毒品说“不”。特朗普指出，不良嗜好一旦沾染便难以戒除，唯有从源头杜绝才能避免成瘾。特朗普在多个场合强调，自己一生从未沾染过酒精饮品。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-30/detail-infzchxq6665847.d.html</link>
+            <guid>4527906</guid>
+            <pubDate>Sat, 29 Nov 2025 20:27:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【消息人士：经协商，巴里克黄金公司员工从马里监狱获释】三名消息人士于周六透露，巴里克矿业公司的四名马里籍员工已获释。一年前，因该公司与马里政府存在纠纷，这四名员工在马里首都巴马科被拘留。随着金价飙升至历史高点，马里出台了新矿业法，规定马里可从金矿企业获得更高比例的收益。此前，巴里克矿业与马里政府就这部新矿业法的实施问题陷入对峙。这家加拿大矿业公司于周一表示，经过两年谈判，已与马里政府达成协议，解决双方在Loulo-Gounkoto gold mining complex相关的所有纠纷。]]></title>
             <link>https://finance.sina.cn/7x24/2025-11-30/detail-infzchxs5773324.d.html</link>
@@ -269,29 +290,6 @@
             <title><![CDATA[Adobe预计，周六美国消费者的在线购物总额将达到 55 亿美元，周日将达到 59 亿美元，分别较去年同期增长 3.8%和 5.4%。]]></title>
             <guid>4527657</guid>
             <pubDate>Sat, 29 Nov 2025 14:15:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黑龙江省政府与中国东航签署战略合作框架协议】据黑龙江日报消息，28日，黑龙江省委书记许勤、省长梁惠玲在哈尔滨会见中国东方航空集团有限公司董事长王志清一行，共同见证黑龙江省政府与中国东航签署战略合作框架协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-29/detail-infzarzu8536874.d.html</link>
-            <guid>4527656</guid>
-            <pubDate>Sat, 29 Nov 2025 14:09:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国航空：预计与紧急适航指令相关的运营影响不会进一步扩大。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-29/detail-infzarzu8536688.d.html</link>
-            <guid>4527655</guid>
-            <pubDate>Sat, 29 Nov 2025 14:07:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国航空：团队在解决空客软件问题上取得了重大进展。截至美国中部时间上午7点，在受影响的209架飞机中，仍有4架有待更新软件。]]></title>
-            <guid>4527654</guid>
-            <pubDate>Sat, 29 Nov 2025 14:07:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海12月1日起全面启用省际包车客运电子标志牌】据上海交通介绍，为深化本市道路旅客运输行业“放管服”改革，进一步优化营商环境，推动包车客运服务高质量发展，上海将于2025年12月1日起全面启用省际包车客运电子标志牌，届时不再发放纸质标志牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-29/detail-infzarzu8536409.d.html</link>
-            <guid>4527653</guid>
-            <pubDate>Sat, 29 Nov 2025 14:05:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
