@@ -6,6 +6,239 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 4530660,
+            "content_html": "",
+            "title": "美国众议院少数党领袖舒默：位于纽约的参议院办公室遭遇 “多起” 炸弹威胁，邮件主题为 “MAGA”。",
+            "date_modified": "2025-12-01T20:16:57.000Z"
+        },
+        {
+            "id": 4530659,
+            "content_html": "",
+            "title": "美国北卡罗来纳州检察长Jeff Jackson：先买后付贷款可能导致意外费用和债务增加。",
+            "date_modified": "2025-12-01T20:13:15.000Z"
+        },
+        {
+            "id": 4530658,
+            "content_html": "",
+            "title": "美国七个州的检察长要求Klarna、Affirm、PayPal等公司提供关于“先买后付”贷款的信息。",
+            "date_modified": "2025-12-01T20:12:49.000Z"
+        },
+        {
+            "id": 4530657,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivcs2629905.d.html",
+            "title": "加拿大身份和文化部长吉尔博离职后，总理卡尼对内阁进行小幅改组。",
+            "date_modified": "2025-12-01T20:12:15.000Z"
+        },
+        {
+            "id": 4530656,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivcv1594556.d.html",
+            "title": "美国食品药品监督管理局（FDA）：人工智能（AI）将助力处理更复杂任务。",
+            "date_modified": "2025-12-01T20:10:26.000Z"
+        },
+        {
+            "id": 4530655,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivcv1594548.d.html",
+            "title": "加拿大总理卡尼任命前移民部长米勒担任文化部长。",
+            "date_modified": "2025-12-01T20:10:10.000Z"
+        },
+        {
+            "id": 4530654,
+            "content_html": "",
+            "title": "美国食品药品监督管理局（FDA）：向所有机构员工部署智能体人工智能（Agentic AI）功能。",
+            "date_modified": "2025-12-01T20:09:47.000Z"
+        },
+        {
+            "id": 4530653,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivct3105745.d.html",
+            "title": "【俄称控制红军城和沃尔昌斯克】当地时间12月1日晚，北京时间今天（12月2日）凌晨，俄罗斯国防部宣布，俄军控制顿涅茨克地区红军城（乌克兰称波克罗夫斯克）和（乌克兰哈尔科夫州）沃尔昌斯克市。对此，乌克兰方面暂未回应。",
+            "date_modified": "2025-12-01T20:09:21.000Z"
+        },
+        {
+            "id": 4530652,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivct3105636.d.html",
+            "title": "美国农业部（USDA）：美国 10 月红肉产量下降 2.6%。",
+            "date_modified": "2025-12-01T20:05:10.000Z"
+        },
+        {
+            "id": 4530651,
+            "content_html": "",
+            "title": "谷歌：即日起向 Google AI Pro 及 Ultra 订阅用户推出服务，将在更多国家以英语版本把 “Nano Banana Pro” 接入 AI 模式。",
+            "date_modified": "2025-12-01T20:04:48.000Z"
+        },
+        {
+            "id": 4530650,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivcv1594384.d.html",
+            "title": "新西兰储备银行（RBNZ）将于 12 月 4 日起启动每周公开市场操作。",
+            "date_modified": "2025-12-01T20:04:17.000Z"
+        },
+        {
+            "id": 4530649,
+            "content_html": "",
+            "title": "谷歌：将在近120个国家和地区的谷歌搜索中以英语引入Gemini 3至人工智能模式。",
+            "date_modified": "2025-12-01T20:03:52.000Z"
+        },
+        {
+            "id": 4530648,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivcx0825882.d.html",
+            "title": "【OpenAI拟入股Thrive控股公司】OpenAI拟入股Thrive控股公司，交换条件是将其团队嵌入Thrive的投资组合企业，以加速人工智能（AI）技术的应用落地。此举虽能加强OpenAI工具在企业端的整合力度，但也加剧了外界对 AI 领域投资者与合作伙伴间循环交易日益增多的担忧。",
+            "date_modified": "2025-12-01T19:59:49.000Z"
+        },
+        {
+            "id": 4530647,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivcs2628907.d.html",
+            "title": "洪都拉斯选举负责人：选票专项核查工作即将启动。",
+            "date_modified": "2025-12-01T19:54:39.000Z"
+        },
+        {
+            "id": 4530646,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivcv1594071.d.html",
+            "title": "洪都拉斯选举负责人：领先候选人之间仅相差515票。",
+            "date_modified": "2025-12-01T19:53:49.000Z"
+        },
+        {
+            "id": 4530645,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivcs2628698.d.html",
+            "title": "Coinbase：买入、卖出及法定货币提现/存款不受影响。",
+            "date_modified": "2025-12-01T19:51:36.000Z"
+        },
+        {
+            "id": 4530644,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivcx0825374.d.html",
+            "title": "Coinbase：知悉部分用户在进行卡瓦币（KAVA）收发时可能遇到延迟问题。",
+            "date_modified": "2025-12-01T19:51:27.000Z"
+        },
+        {
+            "id": 4530643,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivcv1593956.d.html",
+            "title": "欧洲央行官员科赫尔：我相信欧元区的通胀率将在明年趋于一致，这是好事。",
+            "date_modified": "2025-12-01T19:51:13.000Z"
+        },
+        {
+            "id": 4530642,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivcs2628616.d.html",
+            "title": "消息人士称，到2028年，Stellantis在法国的汽车产量将下降11%。",
+            "date_modified": "2025-12-01T19:50:18.000Z"
+        },
+        {
+            "id": 4530641,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivcx0825216.d.html",
+            "title": "欧洲央行官员科赫尔：我们应保留足够的政策空间，以便在必要时能够迅速做出反应。",
+            "date_modified": "2025-12-01T19:48:05.000Z"
+        },
+        {
+            "id": 4530640,
+            "content_html": "",
+            "title": "阿波罗全球管理公司（Apollo）与新加坡政府投资公司（GIC）以8.35亿美元融资方案为曼哈顿水街25号项目再融资，支持该项目从摩根大通原办公大楼改造为1300套公寓。美国当前办公需求疲软而住房需求旺盛，投资者正看好 “商改住”（办公楼转住宅）项目，此次融资正是在此背景下推进。",
+            "date_modified": "2025-12-01T19:47:54.000Z"
+        },
+        {
+            "id": 4530639,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivcv1593719.d.html",
+            "title": "布伦特原油期货结算价报每桶63.17美元，上涨79美分，涨幅1.27%。",
+            "date_modified": "2025-12-01T19:45:05.000Z"
+        },
+        {
+            "id": 4530638,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivcv1593564.d.html",
+            "title": "拼多多涨幅收窄，现涨近2%。",
+            "date_modified": "2025-12-01T19:42:49.000Z"
+        },
+        {
+            "id": 4530637,
+            "content_html": "",
+            "title": "欧洲央行官员科赫尔：目前，通胀率在2%目标上下出现轻微偏离不应引发任何调整利率的必要性。",
+            "date_modified": "2025-12-01T19:41:12.000Z"
+        },
+        {
+            "id": 4530636,
+            "content_html": "",
+            "title": "阿尔戈马钢铁公司：受到美国加征的史无前例关税的重大影响，将于2026年初关闭高炉和炼焦业务。",
+            "date_modified": "2025-12-01T19:41:02.000Z"
+        },
+        {
+            "id": 4530635,
+            "content_html": "",
+            "title": "阿尔戈马钢铁公司：今日将发出约1000份裁员通知，裁员将于16周后的2026年3月23日生效。",
+            "date_modified": "2025-12-01T19:39:46.000Z"
+        },
+        {
+            "id": 4530634,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivcx0823835.d.html",
+            "title": "Shopify：已发现并修复登录验证问题。",
+            "date_modified": "2025-12-01T19:35:11.000Z"
+        },
+        {
+            "id": 4530633,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivcs2627060.d.html",
+            "title": "【荷兰和乌克兰将联合生产无人机】12月1日，荷兰国防大臣布雷克尔曼斯与乌克兰国防部长什梅加尔签署了联合生产无人机的协议。什梅加尔表示，无人机的生产将由两国共同承担，生产完成后这些无人机将由荷兰方面出资采购，并交付给乌克兰国防军。此外，布雷克尔曼斯还表示，荷兰将提供2.5亿欧元，从美国直接购买武器装备并提供给乌克兰。",
+            "date_modified": "2025-12-01T19:34:17.000Z"
+        },
+        {
+            "id": 4530632,
+            "content_html": "",
+            "title": "锐杰尔制药公司（Rigel Pharmaceuticals）在成交量激增后股价下跌，最新跌幅为5.8%。",
+            "date_modified": "2025-12-01T19:32:11.000Z"
+        },
+        {
+            "id": 4530631,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivcs2626855.d.html",
+            "title": "美国原油期货结算价报每桶59.32美元，上涨77美分，涨幅1.32%。",
+            "date_modified": "2025-12-01T19:31:32.000Z"
+        },
+        {
+            "id": 4530630,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivcx0823245.d.html",
+            "title": "微软首席执行官周一表示，该公司正愈发将欧洲视为其人工智能战略的关键地区。",
+            "date_modified": "2025-12-01T19:28:43.000Z"
+        },
+        {
+            "id": 4530629,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivcx0823165.d.html",
+            "title": "星巴克：即使是微小的排班变更也可能导致违规。",
+            "date_modified": "2025-12-01T19:28:01.000Z"
+        },
+        {
+            "id": 4530628,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivcv1592242.d.html",
+            "title": "星巴克：公平工作周法案旨在提供可预测的排班和稳定性，目标虽好但规则很复杂。",
+            "date_modified": "2025-12-01T19:27:40.000Z"
+        },
+        {
+            "id": 4530627,
+            "content_html": "",
+            "title": "洪都拉斯选举机构主席呼吁在出现技术平局的情况下保持冷静，并要求民众在计票工作继续进行时保持耐心。",
+            "date_modified": "2025-12-01T19:27:30.000Z"
+        },
+        {
+            "id": 4530626,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivcs2626380.d.html",
+            "title": "星巴克：致力于负责任地经营，并遵守所有适用的当地法律法规。",
+            "date_modified": "2025-12-01T19:26:22.000Z"
+        },
+        {
             "id": 4530625,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivcx0822889.d.html",
@@ -102,245 +335,6 @@
             "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivcs2624639.d.html",
             "title": "白宫新闻秘书莱维特：美国中东问题特使威特科夫正前往俄罗斯。",
             "date_modified": "2025-12-01T19:02:58.000Z"
-        },
-        {
-            "id": 4530609,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivct3101756.d.html",
-            "title": "白宫：与在佛罗里达州的乌克兰代表团进行了非常良好的会谈。",
-            "date_modified": "2025-12-01T19:02:19.000Z"
-        },
-        {
-            "id": 4530608,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivct3101742.d.html",
-            "title": "白宫新闻秘书莱维特：政府对俄乌协议持乐观态度。",
-            "date_modified": "2025-12-01T19:02:10.000Z"
-        },
-        {
-            "id": 4530607,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivcs2624509.d.html",
-            "title": "白宫：9月2日袭击事件后对幸存者政策的调整并非决策结果。",
-            "date_modified": "2025-12-01T19:01:29.000Z"
-        },
-        {
-            "id": 4530606,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivcx0821114.d.html",
-            "title": "恒指期货夜盘收涨0.63%，报26220.43点，高水187.17点。",
-            "date_modified": "2025-12-01T19:00:02.000Z"
-        },
-        {
-            "id": 4530605,
-            "content_html": "",
-            "title": "白宫新闻秘书莱维特：国防部长赫格塞思于周末就委内瑞拉罢工事件与国会议员进行了沟通。",
-            "date_modified": "2025-12-01T18:58:00.000Z"
-        },
-        {
-            "id": 4530604,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivcx0820885.d.html",
-            "title": "美国宣布推出高校申报外国资金的新平台。",
-            "date_modified": "2025-12-01T18:56:39.000Z"
-        },
-        {
-            "id": 4530603,
-            "content_html": "",
-            "title": "惠誉：尽管秋季预算节省了部分开支，但系统平衡问题及网络成本上升将导致英国家庭账单在 2026 年难以下降；同时，在坎利夫审查（Cunliffe Review）及英国竞争与市场管理局相关成果的支持下，2026 年英国水务行业基本面将有所改善。",
-            "date_modified": "2025-12-01T18:55:59.000Z"
-        },
-        {
-            "id": 4530602,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivct3101171.d.html",
-            "title": "白宫新闻秘书莱维特：特朗普将与国家安全团队就委内瑞拉问题举行会议。",
-            "date_modified": "2025-12-01T18:52:39.000Z"
-        },
-        {
-            "id": 4530601,
-            "content_html": "",
-            "title": "白宫新闻秘书莱维特：（就特朗普核磁共振检查结果）此次影像学检查为预防性检查，心脏成像正常，无动脉狭窄迹象，显示健康状况极佳。",
-            "date_modified": "2025-12-01T18:51:46.000Z"
-        },
-        {
-            "id": 4530600,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivct3100996.d.html",
-            "title": "白宫新闻秘书莱维特：上将指挥行动以确保船只被摧毁。",
-            "date_modified": "2025-12-01T18:49:54.000Z"
-        },
-        {
-            "id": 4530599,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivcv1589718.d.html",
-            "title": "【BP取消英国氢能项目，因选址与数据中心冲突】英国石油公司 (BP) 正在放弃其在英格兰东北部蒂赛德（Teesside）建设氢能工厂的计划，原因是同一地点有数据中心的规划申请，以及需求恶化。该公司仍计划推进在蒂赛德的配备碳捕集的燃气发电站项目和区域碳储存计划。英国政府表示，尽管BP决定取消氢能计划，但它将继续为蒂赛德的氢能项目提供支持。",
-            "date_modified": "2025-12-01T18:49:05.000Z"
-        },
-        {
-            "id": 4530598,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivct3100933.d.html",
-            "title": "白宫新闻秘书莱维特：海军上将批准了第二次打击行动，且此举完全在其合法权利范围内。",
-            "date_modified": "2025-12-01T18:48:32.000Z"
-        },
-        {
-            "id": 4530596,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivcx0820022.d.html",
-            "title": "法国总统府：马克龙在与特朗普通话时强调了为乌克兰提供安全保障的核心重要性。",
-            "date_modified": "2025-12-01T18:46:53.000Z"
-        },
-        {
-            "id": 4530595,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivcv1589588.d.html",
-            "title": "白宫新闻秘书莱维特：国防部长赫格塞思于9月2日授权海军上将发动打击行动。",
-            "date_modified": "2025-12-01T18:46:42.000Z"
-        },
-        {
-            "id": 4530594,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivcs2623245.d.html",
-            "title": "白宫新闻秘书莱维特：也将暂停庇护审核，以开展额外审查。",
-            "date_modified": "2025-12-01T18:46:06.000Z"
-        },
-        {
-            "id": 4530593,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivcx0819903.d.html",
-            "title": "白宫新闻秘书莱维特：特朗普比以往任何时候都更加致力于全面恢复美国的主权。",
-            "date_modified": "2025-12-01T18:45:36.000Z"
-        },
-        {
-            "id": 4530592,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivcx0819503.d.html",
-            "title": "白宫新闻秘书莱维特：完成大规模驱逐行动比以往任何时候都更重要。",
-            "date_modified": "2025-12-01T18:41:33.000Z"
-        },
-        {
-            "id": 4530591,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivcs2622419.d.html",
-            "title": "白宫新闻秘书莱维特：任何威胁国家安全的个人都将被撤职。",
-            "date_modified": "2025-12-01T18:39:35.000Z"
-        },
-        {
-            "id": 4530590,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivcx0819075.d.html",
-            "title": "白宫新闻秘书莱维特：特朗普正在积极重新审视所有来自阿富汗的移民情况。",
-            "date_modified": "2025-12-01T18:39:16.000Z"
-        },
-        {
-            "id": 4530589,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivcx0818870.d.html",
-            "title": "【以美领导人通话 特朗普邀请内塔尼亚胡访美】当地时间12月1日，以色列总理办公室发表声明称，当天晚间，以总理内塔尼亚胡与美国总统特朗普通电话。声明称，两国领导人强调了解除巴勒斯坦伊斯兰抵抗运动（哈马斯）武装和实现加沙地带非军事化的重要性和相关义务，并讨论了扩大“和平协议”的有关内容。此外，特朗普在电话中邀请内塔尼亚胡在不久的将来到白宫会晤。（央视新闻）",
-            "date_modified": "2025-12-01T18:37:37.000Z"
-        },
-        {
-            "id": 4530588,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivcv1588570.d.html",
-            "title": "白宫新闻秘书莱维特：受伤的国民警卫队成员仍在医院。",
-            "date_modified": "2025-12-01T18:36:19.000Z"
-        },
-        {
-            "id": 4530587,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infzivcs2621956.d.html",
-            "title": "爱丽舍宫消息：法国总统马克龙刚刚与特朗普总统讨论了乌克兰局势。",
-            "date_modified": "2025-12-01T18:35:47.000Z"
-        },
-        {
-            "id": 4530586,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infziqvu2752759.d.html",
-            "title": "白宫新闻秘书莱维特：周五特朗普将参加FIFA世界杯抽签。",
-            "date_modified": "2025-12-01T18:35:36.000Z"
-        },
-        {
-            "id": 4530585,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infziqvx1719271.d.html",
-            "title": "白宫新闻秘书莱维特：特朗普将于周四接待卢旺达与刚果（金）总统，共同签署协议。",
-            "date_modified": "2025-12-01T18:35:20.000Z"
-        },
-        {
-            "id": 4530584,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infziqvv3230450.d.html",
-            "title": "白宫新闻秘书莱维特：将就特朗普相关账户事宜发布声明。",
-            "date_modified": "2025-12-01T18:34:59.000Z"
-        },
-        {
-            "id": 4530583,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infziqvz0949351.d.html",
-            "title": "白宫新闻秘书莱维特：美国总统特朗普将于周二召开内阁会议。",
-            "date_modified": "2025-12-01T18:34:30.000Z"
-        },
-        {
-            "id": 4530582,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infziqvx1719050.d.html",
-            "title": "【委内瑞拉强烈反对“美国封锁空域”】近期，美国以所谓“缉毒”为由，在委内瑞拉附近加勒比海域部署多艘军舰，持续对委施压。最新披露的画面显示，美国已经在特立尼达和多巴哥部署新的雷达系统。与此同时，针对美国宣称“全面关闭”委内瑞拉领空的威胁性言论。（央视新闻）",
-            "date_modified": "2025-12-01T18:34:00.000Z"
-        },
-        {
-            "id": 4530581,
-            "content_html": "",
-            "title": "秘鲁地方卫生部门：河岸山体滑坡致两艘船只沉没，至少 12 人死亡、20 人受伤、2 人失踪。",
-            "date_modified": "2025-12-01T18:32:25.000Z"
-        },
-        {
-            "id": 4530580,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infziqvu2752406.d.html",
-            "title": "若特朗普关税政策取消，Costco将与其他企业一同提起诉讼，要求退款。",
-            "date_modified": "2025-12-01T18:30:21.000Z"
-        },
-        {
-            "id": 4530579,
-            "content_html": "",
-            "title": "上期所原油期货2510合约夜盘收涨0.04%，报453.60元人民币/桶。沪金夜盘收涨0.66%，沪银收涨5.08%。",
-            "date_modified": "2025-12-01T18:30:03.000Z"
-        },
-        {
-            "id": 4530578,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infziqvv3230076.d.html",
-            "title": "用户报告称，OpenAI出现诸多故障。",
-            "date_modified": "2025-12-01T18:29:09.000Z"
-        },
-        {
-            "id": 4530577,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infziqvx1718519.d.html",
-            "title": "【Jane Street和城堡证券全年交易业务收入迈向历史新高】Jane Street Group和城堡证券第三季度交易收入增长，全年表现有望创下纪录新高，华尔街金融机构在该业务上的主导地位被进一步削弱。知情人士称，Jane Street的交易业务收入增长18%至68.3亿美元，排名仅次于摩根大通和高盛。另据其他消息人士透露，城堡证券该项业务收入增长9%至26.4亿美元。Jane Street和城堡证券的业绩增长主要得益于今年多次出现的交易活动激增及价格波动，这些波动多数由特朗普的关税与政策变化推动。白宫的朝令夕改促使投资者频繁调整投资组合。",
-            "date_modified": "2025-12-01T18:21:36.000Z"
-        },
-        {
-            "id": 4530576,
-            "content_html": "",
-            "title": "周一（12月1日），美联储隔夜逆回购协议（RRP）使用规模为32.40亿美元，上个交易日报75.61亿美元。",
-            "date_modified": "2025-12-01T18:16:07.000Z"
-        },
-        {
-            "id": 4530575,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infziqvv3229368.d.html",
-            "title": "【秘鲁山体滑坡致客船沉没 至少12人死亡】秘鲁中东部乌卡亚利省1日发生一起山体滑坡引发的客船沉没事故，造成至少12人死亡、30人失踪，另有6人受伤。乌卡亚利省警方表示，当天凌晨5时左右，乌卡亚利河伊帕里亚港附近发生山体滑坡，滑坡冲击港口登船区域，致使停靠在港口的两艘客船沉没。目前，受伤人员已被送至医院接受救治，搜救工作仍在进行中。（新华社）",
-            "date_modified": "2025-12-01T18:13:53.000Z"
-        },
-        {
-            "id": 4530574,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-02/detail-infziqvv3228977.d.html",
-            "title": "【美联储关注地区性银行商业地产敞口 示警相关潜在风险】美联储表示，出于对“利率高企、承保标准收紧及商业地产价值下降”的担忧正密切关注社区和地区性银行的相关投资组合。周一发布的监管报告显示，美联储称上述因素可能影响借款人再融资或还清贷款的能力。监管机构正密切关注商业地产贷款趋势并密切检视承保做法及信贷损失准备金水平。就华尔街而言，美联储的关注点在其资本规划和流动性风险管理上的薄弱环节。不过报告显示，绝大多数银行的资本水平截至第二季仍远高于适用的监管要求。报告指出，“压力测试结果表明，大型银行有能力在保持最低资本要求的同时应对严重的衰退并向居民和企业放贷”。",
-            "date_modified": "2025-12-01T18:04:47.000Z"
         }
     ]
 }
