@@ -6,8 +6,181 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 4537937,
+            "content_html": "",
+            "title": "奥地利财政部：2026年发行的约60亿欧元债务工具将为新的绿色债券发行（今年约为61亿欧元），其中短期债券占比最高可达20%。",
+            "date_modified": "2025-12-04T17:21:52.000Z"
+        },
+        {
+            "id": 4537936,
+            "content_html": "",
+            "title": "奥地利财政部2026年融资展望：计划明年发行430亿至470亿欧元政府债券（今年约为450亿欧元）。",
+            "date_modified": "2025-12-04T17:21:37.000Z"
+        },
+        {
+            "id": 4537935,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-05/detail-infzsnhr0311010.d.html",
+            "title": "马斯克：Cybertruck给人的感觉就像一艘宇宙飞船。",
+            "date_modified": "2025-12-04T17:14:40.000Z"
+        },
+        {
+            "id": 4537934,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-05/detail-infzsnhs8799621.d.html",
+            "title": "马斯克：Grok正在呈指数级发展。",
+            "date_modified": "2025-12-04T17:13:53.000Z"
+        },
+        {
+            "id": 4537933,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-05/detail-infzsnhq0014635.d.html",
+            "title": "马斯克：特斯拉自动驾驶技术太棒了。",
+            "date_modified": "2025-12-04T17:12:26.000Z"
+        },
+        {
+            "id": 4537932,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-05/detail-infzsnhu8211225.d.html",
+            "title": "特朗普将于周五在华盛顿哥伦比亚特区与墨西哥和加拿大就贸易问题举行会谈。",
+            "date_modified": "2025-12-04T17:11:46.000Z"
+        },
+        {
+            "id": 4537931,
+            "content_html": "",
+            "title": "市场资讯：比尔·盖茨女儿菲比·阿黛尔·盖茨正在为AI企业Phia筹集3000万美元新资金。",
+            "date_modified": "2025-12-04T17:11:11.000Z"
+        },
+        {
+            "id": 4537930,
+            "content_html": "",
+            "title": "星巴克员工联合工会：数百名新加入工会的星巴克咖啡师在纽约市集会前参加最长时间的不公平劳工行为罢工。",
+            "date_modified": "2025-12-04T17:10:13.000Z"
+        },
+        {
+            "id": 4537929,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-05/detail-infzsnhs8798640.d.html",
+            "title": "Coinbase：知悉部分用户在UniChain网络上可能遇到收发延迟问题。",
+            "date_modified": "2025-12-04T17:08:35.000Z"
+        },
+        {
+            "id": 4537928,
+            "content_html": "",
+            "title": "特朗普：这是美国。如果你拒绝融入美国文化，那我们就不欢迎你。留在你已经融入的国家吧。",
+            "date_modified": "2025-12-04T17:08:15.000Z"
+        },
+        {
+            "id": 4537927,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-05/detail-infzsfyw8341293.d.html",
+            "title": "黎巴嫩总统表示，与以色列的下一轮谈判将于 12 月 19 日启动。",
+            "date_modified": "2025-12-04T17:07:01.000Z"
+        },
+        {
+            "id": 4537926,
+            "content_html": "",
+            "title": "谷歌云：与Replit公司扩大战略合作伙伴关系，为企业开发者和团队带来Vibe编码功能。",
+            "date_modified": "2025-12-04T17:05:31.000Z"
+        },
+        {
+            "id": 4537925,
+            "content_html": "",
+            "title": "亚马逊：计划于2026年推出适用于计算密集型工作负载的C9G实例以及适用于内存密集型工作负载的R9G实例。",
+            "date_modified": "2025-12-04T17:04:29.000Z"
+        },
+        {
+            "id": 4537924,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-05/detail-infzsfyt0439308.d.html",
+            "title": "亚马逊：基于Graviton5的M9G实例专为通用工作负载设计，现已开启预览。",
+            "date_modified": "2025-12-04T17:02:01.000Z"
+        },
+        {
+            "id": 4537923,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-05/detail-infzsfyt0439057.d.html",
+            "title": "亚马逊：亚马逊云科技（AWS）推出Graviton5处理器。",
+            "date_modified": "2025-12-04T17:00:38.000Z"
+        },
+        {
+            "id": 4537922,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-05/detail-infzsfyu8927779.d.html",
+            "title": "美国 30 年期抵押贷款利率降至 6.19%。",
+            "date_modified": "2025-12-04T17:00:20.000Z"
+        },
+        {
+            "id": 4537921,
+            "content_html": "",
+            "title": "【夜盘期货收盘】国际铜夜盘收涨0.29%，沪铜收涨0.19%，沪铝收涨0.77%，沪锌收涨0.74%，沪铅收涨0.70%，沪镍收跌0.03%，沪锡收涨0.53%。氧化铝夜盘收跌1.15%，铝合金收涨0.64%。不锈钢夜盘收涨0.32%。",
+            "date_modified": "2025-12-04T17:00:01.000Z"
+        },
+        {
+            "id": 4537920,
+            "content_html": "",
+            "title": "市场资讯：大宗商品贸易商摩科瑞（Mercuria）计划从伦敦金属交易所（LME）亚洲的仓库中提取逾4万吨铜。",
+            "date_modified": "2025-12-04T16:59:16.000Z"
+        },
+        {
+            "id": 4537919,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-05/detail-infzsfyt0437519.d.html",
+            "title": "标普全球评级：将德意志银行的展望上调至 “正面”。",
+            "date_modified": "2025-12-04T16:53:34.000Z"
+        },
+        {
+            "id": 4537918,
+            "content_html": "",
+            "title": "美国地质调查局（USGS）系统发布了一则错误警报，称内华达州里诺市和卡森城附近发生了5.9级地震。",
+            "date_modified": "2025-12-04T16:52:37.000Z"
+        },
+        {
+            "id": 4537917,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-05/detail-infzsfys0141316.d.html",
+            "title": "巴西总统卢拉：抱怨财政赤字的是市场（方面），市场只关心赚更多的钱。",
+            "date_modified": "2025-12-04T16:47:36.000Z"
+        },
+        {
+            "id": 4537916,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-05/detail-infzsfys0141023.d.html",
+            "title": "意大利财政部：将于12月10日拍卖90亿欧元的短期国债。",
+            "date_modified": "2025-12-04T16:45:44.000Z"
+        },
+        {
+            "id": 4537915,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-05/detail-infzsfys0140798.d.html",
+            "title": "惠誉评级：2026年拉美主权信用展望维持 “中性”。",
+            "date_modified": "2025-12-04T16:44:01.000Z"
+        },
+        {
+            "id": 4537914,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-05/detail-infzsfyu8924160.d.html",
+            "title": "加拿大总理卡尼不打算在国际足联（FIFA）活动上与特朗普讨论贸易议题。",
+            "date_modified": "2025-12-04T16:43:09.000Z"
+        },
+        {
+            "id": 4537913,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-05/detail-infzsfyt0434560.d.html",
+            "title": "巴西总统卢拉：巴西实行六天工作制并无意义。",
+            "date_modified": "2025-12-04T16:38:38.000Z"
+        },
+        {
+            "id": 4537912,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-05/detail-infzsfyt0434340.d.html",
+            "title": "【普京：俄罗斯与印度的能源合作不受政治形势波动的影响】俄罗斯总统普京表示，与印度的能源合作不受政治形势波动的影响。普京表示，俄罗斯石油公司将持续扩大在印度炼油厂的运营规模，与合作伙伴携手合作，年复一年地成功运营。",
+            "date_modified": "2025-12-04T16:37:32.000Z"
+        },
+        {
             "id": 4537911,
             "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-05/detail-infzsfyu8922925.d.html",
             "title": "巴西总统卢拉表示：国会占用50%的预算是个严重错误。",
             "date_modified": "2025-12-04T16:36:33.000Z"
         },
@@ -166,181 +339,6 @@
             "url": "https://finance.sina.cn/7x24/2025-12-05/detail-infzsfyt0430516.d.html",
             "title": "俄罗斯屏蔽Snapchat。",
             "date_modified": "2025-12-04T16:16:25.000Z"
-        },
-        {
-            "id": 4537886,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-05/detail-infzsfys0135261.d.html",
-            "title": "美国劳工统计局：美国2025年第四季度雇佣成本指数将于2月10日公布。",
-            "date_modified": "2025-12-04T16:09:56.000Z"
-        },
-        {
-            "id": 4537885,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-05/detail-infzsfyw8331867.d.html",
-            "title": "政府消息人士称，印度政府正在评估靛蓝航空提出的免除部分飞行员执勤规定限制的请求。",
-            "date_modified": "2025-12-04T16:09:25.000Z"
-        },
-        {
-            "id": 4537884,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-05/detail-infzsfyt0429180.d.html",
-            "title": "美国劳工统计局：美国第三季度生产率报告定于1月8日发布。",
-            "date_modified": "2025-12-04T16:09:16.000Z"
-        },
-        {
-            "id": 4537883,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-05/detail-infzsfyu8917852.d.html",
-            "title": "哥伦比亚总佩特罗：哥伦比亚无法削减数万万亿比索的开支。",
-            "date_modified": "2025-12-04T16:08:52.000Z"
-        },
-        {
-            "id": 4537882,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-05/detail-infzsfyu8917760.d.html",
-            "title": "美国地质调查局：内华达州代顿地区发生5.9级地震。",
-            "date_modified": "2025-12-04T16:08:27.000Z"
-        },
-        {
-            "id": 4537881,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-05/detail-infzsfyu8917661.d.html",
-            "title": "美国劳工统计局2025年第四季度就业成本指数定于2月10日公布。",
-            "date_modified": "2025-12-04T16:08:08.000Z"
-        },
-        {
-            "id": 4537880,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-05/detail-infzsfyw8331259.d.html",
-            "title": "多伦多股指攀升至创纪录的盘中高位，超越了11月28日的峰值。",
-            "date_modified": "2025-12-04T16:06:57.000Z"
-        },
-        {
-            "id": 4537879,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-05/detail-infzsfyw8331113.d.html",
-            "title": "【2025全球智能机械与电子产品博览会在澳门、珠海举行】2025全球智能机械与电子产品博览会开幕式4日在澳门金光会展中心举行。澳门特区行政长官岑浩辉、广东省省长孟凡利、澳门中联办主任郑新聪等出席开幕式。",
-            "date_modified": "2025-12-04T16:06:34.000Z"
-        },
-        {
-            "id": 4537878,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-05/detail-infzsfyt0428276.d.html",
-            "title": "【美股核电概念股走强】Oklo、NuScale Power双双涨超10%，Centrus Energy涨超5%，Constellation Energy涨超3%。",
-            "date_modified": "2025-12-04T16:05:42.000Z"
-        },
-        {
-            "id": 4537877,
-            "content_html": "",
-            "title": "国际货币基金组织表示，其工作人员本周在埃及，将讨论该组织贷款计划的第五次和第六次评估事宜。",
-            "date_modified": "2025-12-04T16:04:21.000Z"
-        },
-        {
-            "id": 4537876,
-            "content_html": "",
-            "title": "美国财政部将于 12 月 8 日拍卖 770 亿美元的 6 个月期国库券，结算日为 12 月 11 日。",
-            "date_modified": "2025-12-04T16:02:56.000Z"
-        },
-        {
-            "id": 4537875,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-05/detail-infzsfyt0427111.d.html",
-            "title": "【欧盟就美国元宇宙平台公司限制性新政启动反垄断调查】欧盟委员会4日发布公报说，已就美国元宇宙平台公司对人工智能服务提供商接入WhatsApp通讯应用程序的新限制政策启动正式反垄断调查，以评估该政策是否违反欧盟竞争规定。",
-            "date_modified": "2025-12-04T16:02:35.000Z"
-        },
-        {
-            "id": 4537874,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-05/detail-infzsfyw8329495.d.html",
-            "title": "国际货币基金组织（IMF）总裁格奥尔基耶娃将于12月8日起访问中国。",
-            "date_modified": "2025-12-04T16:01:46.000Z"
-        },
-        {
-            "id": 4537873,
-            "content_html": "",
-            "title": "国际货币基金组织（IMF）：对塞内加尔的审查着眼于数据完整性框架、强化内部流程以发现异常情况的方法以及加强IMF工作人员培训的途径。",
-            "date_modified": "2025-12-04T16:00:52.000Z"
-        },
-        {
-            "id": 4537872,
-            "content_html": "",
-            "title": "国际货币基金组织（IMF）谈塞内加尔可能的债务重组：工作人员讨论内容包括如何应对公共债务高企问题。",
-            "date_modified": "2025-12-04T16:00:48.000Z"
-        },
-        {
-            "id": 4537871,
-            "content_html": "",
-            "title": "国际货币基金组织（IMF）：将于12月底评估阿根廷的下一组目标，尚未确定下一次IMF考察团访问的日期。",
-            "date_modified": "2025-12-04T16:00:43.000Z"
-        },
-        {
-            "id": 4537870,
-            "content_html": "",
-            "title": "国际货币基金组织（IMF）：阿根廷在宏观经济和结构改革方面持续付出的努力，将有助于维持并扩大已取得的成果。",
-            "date_modified": "2025-12-04T16:00:39.000Z"
-        },
-        {
-            "id": 4537869,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-05/detail-infzsfyt0426413.d.html",
-            "title": "国际货币基金组织表示，阿根廷齐心协力重建国际储备仍然至关重要。",
-            "date_modified": "2025-12-04T16:00:31.000Z"
-        },
-        {
-            "id": 4537868,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-05/detail-infzsfyu8915108.d.html",
-            "title": "国际货币基金组织表示，寻求债务重组仍是塞内加尔的主权决定。",
-            "date_modified": "2025-12-04T16:00:16.000Z"
-        },
-        {
-            "id": 4537867,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-05/detail-infzsfyt0426320.d.html",
-            "title": "国际货币基金组织发言人表示，该组织与塞内加尔在新贷款计划方面取得了重大进展。",
-            "date_modified": "2025-12-04T16:00:11.000Z"
-        },
-        {
-            "id": 4537866,
-            "content_html": "",
-            "title": "叙利亚央行行长：将于周四与维萨（Visa）举行会议，这是为推进新数字支付系统计划的一部分。",
-            "date_modified": "2025-12-04T16:00:00.000Z"
-        },
-        {
-            "id": 4537865,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-04/detail-infzsfys0132187.d.html",
-            "title": "叙利亚央行行长：货币将有八种面额。",
-            "date_modified": "2025-12-04T15:59:42.000Z"
-        },
-        {
-            "id": 4537864,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-04/detail-infzsfys0132134.d.html",
-            "title": "叙利亚央行行长：很高兴我们正在与 Visa 和万事达卡合作。",
-            "date_modified": "2025-12-04T15:59:19.000Z"
-        },
-        {
-            "id": 4537863,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-04/detail-infzsfyu8914895.d.html",
-            "title": "【“支付宝崩了”登上热搜】12月4日晚间，社交平台多位用户反馈阿里系APP出现支付宝付款异常，涉及淘宝、闲鱼、1688、饿了么等多平台，出现用户完成付款后订单显示未付款情况，“支付宝崩了”“淘宝崩了”登上热搜。目前故障已修复。",
-            "date_modified": "2025-12-04T15:59:09.000Z"
-        },
-        {
-            "id": 4537862,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-04/detail-infzsfyu8914690.d.html",
-            "title": "【美国参议员希望航空公司向长时间延误的乘客支付现金】15位美国民主党参议员提议立法，要求航空公司在航班严重延误时提供现金赔偿。以马克·凯利（Mark Kelly）、埃德·马基（Ed Markey）和理查德·布卢门撒尔（Richard Blumenthal）为首的参议员们提议按照欧盟和加拿大的要求强制规定赔偿，包括规定延误超过3小时至少赔偿300美元，延误6小时以上至少赔偿600美元。这项提案是在特朗普总统的政府于11月14日撤销了前总统拜登要求航空公司在美国航班中断时向乘客支付现金赔偿的计划之后提出的。",
-            "date_modified": "2025-12-04T15:57:47.000Z"
-        },
-        {
-            "id": 4537861,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-04/detail-infzsfyw8328296.d.html",
-            "title": "叙利亚央行行长：货币相关工作已进入深入阶段。",
-            "date_modified": "2025-12-04T15:56:11.000Z"
         }
     ]
 }
