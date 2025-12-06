@@ -4,11 +4,57 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 06 Dec 2025 16:29:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Dec 2025 17:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[苹果硬件技术副总裁、芯片业务负责人斯鲁吉已告知苹果CEO库克，他正考虑离职，可能会加入另一家公司。]]></title>
+            <guid>4541235</guid>
+            <pubDate>Sat, 06 Dec 2025 17:08:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[立陶宛维尔纽斯机场：因疑似气球造成空域干扰，再次暂停运营。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-07/detail-infzwynx4078801.d.html</link>
+            <guid>4541234</guid>
+            <pubDate>Sat, 06 Dec 2025 16:58:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿尔及利亚西南部发生交通事故 已致9死10伤】当地时间12月6日下午，阿尔及利亚西南部贝尼阿巴斯省发生一起交通事故。根据初步统计，事故已造成9人死亡，另有10人不同程度受伤。当地民防部门表示，事发时，一辆载人巴士在该省50号国道上行驶时突然偏离车道并发生侧翻。目前，所有死伤者已被送往当地医院，事故原因仍在调查中。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-07/detail-infzwuew5355059.d.html</link>
+            <guid>4541228</guid>
+            <pubDate>Sat, 06 Dec 2025 16:53:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【微软据传正与博通讨论定制芯片合作】据市场传闻援引“参与谈判的人士”透露，微软正与博通就未来定制芯片的设计进行谈判，这将涉及微软将其业务从另一家定制芯片制造商迈威尔转向博通。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-07/detail-infzwufc3550438.d.html</link>
+            <guid>4541224</guid>
+            <pubDate>Sat, 06 Dec 2025 16:45:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【飞行员不够排班 印度最大航司取消数千架次航班】因印度政府颁布新规导致飞行员排班困难等问题，印度靛蓝航空公司连续5天取消航班数千架次，导致大量乘客滞留机场。仅5日一天，靛蓝航空就取消航班逾1000架次。6日，靛蓝航空在班加罗尔、孟买、新德里和海德拉巴等地共取消385架次航班。此外，连日来，新德里、孟买等地机场还出现航班长时间延误状况。靛蓝航空3日发表声明说，多种因素“以一种无法预料的方式对我们的运营产生了负面叠加的影响”，包括恶劣天气、航班拥堵，以及印度政府新颁布的晚班机组排班规定。根据新规，自11月1日起，一周内飞行员夜间飞行次数的上限从6次减至两次。据悉，新规令靛蓝航空面临飞行员人手不足问题，执飞排班困难。（央视新闻）]]></title>
+            <guid>4541213</guid>
+            <pubDate>Sat, 06 Dec 2025 16:37:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基：已就与美国会谈的后续步骤及形式达成一致。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-07/detail-infzwuex5715855.d.html</link>
+            <guid>4541211</guid>
+            <pubDate>Sat, 06 Dec 2025 16:34:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基：乌克兰决心继续与美方秉持诚信开展合作，以推动实现真正的和平。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-07/detail-infzwuez4204280.d.html</link>
+            <guid>4541208</guid>
+            <pubDate>Sat, 06 Dec 2025 16:32:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基：已与美国特使维特科夫及贾里德・库什纳进行了交谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-07/detail-infzwufc3548318.d.html</link>
+            <guid>4541207</guid>
+            <pubDate>Sat, 06 Dec 2025 16:30:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[欧盟外交政策负责人卡拉斯：必须在加沙问题上依法追究责任，那些信奉国际法的人必须齐心协力，推动实现法律上的责任追究。]]></title>
             <guid>4541193</guid>
@@ -255,48 +301,6 @@
             <link>https://finance.sina.cn/7x24/2025-12-06/detail-infzwpxc4278012.d.html</link>
             <guid>4541077</guid>
             <pubDate>Sat, 06 Dec 2025 12:25:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其外交部长：我认为我们“很快”就会找到解除美国《以制裁反击美国敌人法案》（CAATSA）制裁的办法。]]></title>
-            <guid>4541076</guid>
-            <pubDate>Sat, 06 Dec 2025 12:15:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其外交部长：有迹象显示，库尔德叙利亚民主力量（SDF）无意履行融入叙利亚国家体制的协议，他们想规避该协议。]]></title>
-            <guid>4541075</guid>
-            <pubDate>Sat, 06 Dec 2025 12:14:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其外交部长：美国提出的结束俄乌冲突的28点计划只是一个起点，目前该计划正在不断演变。]]></title>
-            <guid>4541074</guid>
-            <pubDate>Sat, 06 Dec 2025 12:14:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其外交部长：在俄乌冲突调解方面，我们“走在正确的道路上”，希望双方不要离开谈判桌。]]></title>
-            <guid>4541073</guid>
-            <pubDate>Sat, 06 Dec 2025 12:13:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其外交部长：在加沙协议第一阶段让哈马斯解除武装可能不是一个“现实且可行”的目标，首先需要采取其他步骤。]]></title>
-            <guid>4541072</guid>
-            <pubDate>Sat, 06 Dec 2025 12:13:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其外交部长：哈马斯准备将加沙行政管理权移交给巴勒斯坦委员会，以推动停火协议达成。]]></title>
-            <guid>4541071</guid>
-            <pubDate>Sat, 06 Dec 2025 12:13:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其外交部长：应首先组建巴勒斯坦行政机构和加沙警察部队。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-06/detail-infzwirc5917231.d.html</link>
-            <guid>4541070</guid>
-            <pubDate>Sat, 06 Dec 2025 12:13:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其外交部长：美国向以色列施压，要求让土耳其参与加沙稳定部队。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-06/detail-infzwirf4405988.d.html</link>
-            <guid>4541069</guid>
-            <pubDate>Sat, 06 Dec 2025 12:13:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
