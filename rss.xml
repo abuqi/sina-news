@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 06 Dec 2025 18:33:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Dec 2025 19:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据Axios：泽连斯基与特朗普助手通话，商讨和平条款。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-07/detail-infzwynv5609510.d.html</link>
+            <guid>4541247</guid>
+            <pubDate>Sat, 06 Dec 2025 19:10:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苹果接连遭遇高管离职 自研芯片战略关键人物可能成为下一位离任者】长期以来，苹果公司一直是硅谷稳定性的典范，但如今却突然经历了数十年来最大的人事变动，高级管理人员和关键工程师纷纷离职。仅在过去一周内，苹果人工智能和界面设计部门的负责人相继离职。随后公司又宣布总法律顾问和政府事务主管也将离职。这四位高管均直接向首席执行官蒂姆·库克汇报工作，标志着苹果高管层出现异常规模的人事变动。更多变动或将接踵而至。据知情人士透露，硬件技术高级副总裁、苹果最受尊敬的高管之一Johny Srouji近期已向库克表示，正认真考虑近期离职。这位主导苹果自主芯片项目的核心人物已告知同事，若最终离职将转投其他公司。与此同时，人工智能领域的人才正大量流向科技竞争对手 —— Meta Platforms Inc.、OpenAI及多家初创企业纷纷挖角苹果工程师。这可能阻碍苹果在人工智能领域的追赶步伐，该领域正是苹果长期难以取得突破的领域。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-07/detail-infzwynx4095121.d.html</link>
+            <guid>4541246</guid>
+            <pubDate>Sat, 06 Dec 2025 18:47:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【特朗普政府预算主管对避免政府再次停摆持乐观态度】白宫预算办公室主任拉塞尔・沃特表示，他对国会将通过拨款法案、避免政府自 1 月 30 日起再次停摆持 “乐观态度”。沃特在里根国防论坛上表示：“本届政府正尽一切可能防止停摆发生，努力推动这些拨款法案落地，并对我们此前的立场作出灵活调整，以争取在截止日期前促成此事。”沃特称，他 “希望” 民主党人能与共和党人展开合作。]]></title>
             <link>https://finance.sina.cn/7x24/2025-12-07/detail-infzwynz3432939.d.html</link>
@@ -285,18 +297,6 @@
             <link>https://finance.sina.cn/7x24/2025-12-06/detail-infzwpwz5805773.d.html</link>
             <guid>4541089</guid>
             <pubDate>Sat, 06 Dec 2025 13:25:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2025大湾区科学论坛人才招聘会在广州南沙举办】12月6日，2025大湾区科学论坛人才招聘会在南沙国际会展中心成功举办。本次活动由广州市南沙区人力资源和社会保障局、广州南沙开发区人才发展局共同主办，组织超过70家区内重点企业设立招聘专区，吸引超1400名求职者参与交流，收到简历超660份，初步达成就业意向199人。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-06/detail-infzwpwz5803255.d.html</link>
-            <guid>4541088</guid>
-            <pubDate>Sat, 06 Dec 2025 13:16:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【福建省在深远海新能源装备领域实现关键技术突破】记者从东福研究院获悉，日前，该院自主研发的漂浮式风电耦合海水无淡化原位制氢综合平台成功获得中国船级社（CCS）颁发的原则性批准证书（AIP），成为全球首个通过该认证的漂浮式风电制氢平台。这标志着我国在深远海新能源装备领域实现关键技术突破。近年来，我国近海风电资源开发利用已趋饱和，海上风电向深远海发展已成必然趋势。由于深远海距岸太远，电力输送存在技术和成本方面的困难，就地消纳海上风电，融合开发，形成高值化产品，是效益最大化的关键。漂浮式风电耦合海水制氢的综合平台成为国内外海上风电和海工装备领域的研发热点。资料显示，东福研究院是由中国东方电气集团与福建省人民政府、福州市人民政府三方共建的国有企业。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-06/detail-infzwpxf3639030.d.html</link>
-            <guid>4541087</guid>
-            <pubDate>Sat, 06 Dec 2025 13:15:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
