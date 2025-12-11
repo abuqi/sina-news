@@ -6,8 +6,315 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 4550993,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcv7710503.d.html",
+            "title": "【白宫：特朗普政府将继续与俄乌双方对话】当地时间11日，美国白宫就乌克兰问题表示，特朗普政府将继续与俄乌双方对话。如果真的有机会签署“和平协议”，美国将派遣代表参加会谈，会谈必须富有成效。美总统特朗普已了解乌克兰的最新提议。乌克兰总统泽连斯基9日曾表示，经过多方商改，美国方面先前提出的俄乌“和平计划”已被拆分成三个文件，分别是一份20点框架协议、一份美欧对乌安全保障文件，以及一份关于乌克兰战后重建的文件。但他没有透露三份文件的具体细节。",
+            "date_modified": "2025-12-11T19:22:28.000Z"
+        },
+        {
+            "id": 4550990,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcu7502812.d.html",
+            "title": "美国商品期货交易委员会（CFTC）：撤销过时的数字资产指引。",
+            "date_modified": "2025-12-11T19:21:42.000Z"
+        },
+        {
+            "id": 4550989,
+            "content_html": "",
+            "title": "美国财政部计划增加特朗普政府为企业节省的税款额度，该计划将扩大企业研发方面的税收减免政策的适用范围。",
+            "date_modified": "2025-12-11T19:20:04.000Z"
+        },
+        {
+            "id": 4550988,
+            "content_html": "",
+            "title": "美国财长贝森特：金融稳定监督委员会将可持续的长期经济增长和经济安全列为优先事项，对监管进行现代化改革，培育一个支持金融韧性的金融体系。",
+            "date_modified": "2025-12-11T19:19:12.000Z"
+        },
+        {
+            "id": 4550987,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcx6199119.d.html",
+            "title": "美国财政部计划提高特朗普对企业的税收优惠。",
+            "date_modified": "2025-12-11T19:18:46.000Z"
+        },
+        {
+            "id": 4550985,
+            "content_html": "",
+            "title": "美国参议院投票通过了《推进就〈2026 财年国防授权法案〉（S.1071 号法案）的众议院修正案达成一致的动议》。",
+            "date_modified": "2025-12-11T19:15:40.000Z"
+        },
+        {
+            "id": 4550981,
+            "content_html": "",
+            "title": "深水资产管理公司（Deepwater Asset Management）预计受人工智能（AI）行业再迎强劲增长年的推动，纳斯达克指数2026年将上涨约10%。该公司认为，市场正处于为期五年的AI牛市周期第三年，并表示当前对“泡沫”的担忧有助于抑制过高预期。",
+            "date_modified": "2025-12-11T19:13:06.000Z"
+        },
+        {
+            "id": 4550980,
+            "content_html": "",
+            "title": "白宫新闻秘书莱维特：俄乌双方在停火协议谈判中迟迟没有进展，这让特朗普对俄乌两国愈发不满。",
+            "date_modified": "2025-12-11T19:12:12.000Z"
+        },
+        {
+            "id": 4550978,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcx6198856.d.html",
+            "title": "市场资讯：美国参议院否决了民主党和共和党分别提出的医改法案。",
+            "date_modified": "2025-12-11T19:10:20.000Z"
+        },
+        {
+            "id": 4550977,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcx6198793.d.html",
+            "title": "美国财政部制裁与委内瑞拉有关的6个实体。",
+            "date_modified": "2025-12-11T19:08:46.000Z"
+        },
+        {
+            "id": 4550976,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcu7502043.d.html",
+            "title": "美国财政部将6艘与委内瑞拉有关的原油油轮列入制裁名单。",
+            "date_modified": "2025-12-11T19:07:27.000Z"
+        },
+        {
+            "id": 4550974,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcv7709631.d.html",
+            "title": "美国制裁与委内瑞拉有关的个人和船只。",
+            "date_modified": "2025-12-11T19:05:29.000Z"
+        },
+        {
+            "id": 4550972,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcx6198348.d.html",
+            "title": "OpenAI首席执行官奥特曼：下周我们会给大家准备几份小小的惊喜。",
+            "date_modified": "2025-12-11T19:04:08.000Z"
+        },
+        {
+            "id": 4550971,
+            "content_html": "",
+            "title": "市场资讯：美国周四对委内瑞拉总统马杜罗的三名侄子、一名与马杜罗政权关系密切的商人以及六家运输委内瑞拉石油的公司实施了新的制裁。",
+            "date_modified": "2025-12-11T19:02:48.000Z"
+        },
+        {
+            "id": 4550970,
+            "content_html": "",
+            "title": "M1公司获得价值1.15亿美元的合同，为美国空军T - 38航空维护项目提供支持。",
+            "date_modified": "2025-12-11T19:02:03.000Z"
+        },
+        {
+            "id": 4550969,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcv7709442.d.html",
+            "title": "阿根廷国家统计局（INDEC）：11月阿根廷消费者物价较上月上涨2.5%。",
+            "date_modified": "2025-12-11T19:01:28.000Z"
+        },
+        {
+            "id": 4550967,
+            "content_html": "",
+            "title": "阿根廷国家统计与普查研究所（INDEC）：11月阿根廷滚动12个月通胀率为31.4%。",
+            "date_modified": "2025-12-11T19:01:22.000Z"
+        },
+        {
+            "id": 4550966,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcv7709369.d.html",
+            "title": "【地球上千公里深处可能存在重要原始水储库】记者从中国科学院广州地球化学研究所获悉，近日，该研究所科研团队通过构建国际领先的技术平台，首次通过高温高压实验，实现了对地下660公里的极端环境的模拟，发现地幔主要矿物布里奇曼石在高温下具有显著富水能力，暗示地球上千公里深处可能存在未被发现的重要原始水储库。这一发现更新了关于地球深部水储存与早期分布的认知，指示深部水可能是驱动地球转变为宜居星球的关键力量。相关成果12月12日在国际学术期刊《科学》发表。（央视新闻）",
+            "date_modified": "2025-12-11T19:00:39.000Z"
+        },
+        {
+            "id": 4550965,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcv7709322.d.html",
+            "title": "恒指期货夜盘收涨0.86%，报25790.24点，高水259.73点。",
+            "date_modified": "2025-12-11T19:00:02.000Z"
+        },
+        {
+            "id": 4550963,
+            "content_html": "",
+            "title": "OpenAI CEO：过去的十年非常精彩；在 OpenAI 工作比我想象的还要特别。",
+            "date_modified": "2025-12-11T18:58:51.000Z"
+        },
+        {
+            "id": 4550962,
+            "content_html": "",
+            "title": "OpenAI CEO：预计OpenAI明年1月退出“红色警报”状态，以非常强劲的姿态重回常态。",
+            "date_modified": "2025-12-11T18:56:07.000Z"
+        },
+        {
+            "id": 4550961,
+            "content_html": "",
+            "title": "Rivian股价下跌8.5%；该公司宣布推出首款定制人工智能芯片。",
+            "date_modified": "2025-12-11T18:53:44.000Z"
+        },
+        {
+            "id": 4550960,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcx6197585.d.html",
+            "title": "【铜价创历史新高 受到美联储降息以及上调经济增长预期提振】在美联储与市场广泛预期一样降息并上调美国经济增长预测后，铜价周四攀升至新的纪录高位，多数其他基本金属也随之上涨。在伦敦市场，铜价一度上涨3%，至每吨11,906美元，突破周一创下的高点。美联储周三连续第三次会议下调利率，但在声明措辞上做出细微调整，暗示出寻求在支持增长和控制通胀之间取得平衡之际，未来降息的不确定性有所增加。伦敦金属交易所铜价上涨2.7%，收于每吨11,872美元。除镍外，该交易所其他金属均上涨。锡价大涨4.4%，至每吨41,751美元，为2022年4月以来最高水平，锌价则跃升3.9%。",
+            "date_modified": "2025-12-11T18:53:17.000Z"
+        },
+        {
+            "id": 4550959,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcx6197540.d.html",
+            "title": "白宫新闻秘书结束新闻发布会。",
+            "date_modified": "2025-12-11T18:52:48.000Z"
+        },
+        {
+            "id": 4550958,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcu7500664.d.html",
+            "title": "白宫就委内瑞拉问题表态：特朗普视油轮扣押事件为落实美国制裁政策之举。",
+            "date_modified": "2025-12-11T18:52:38.000Z"
+        },
+        {
+            "id": 4550957,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcz5697300.d.html",
+            "title": "白宫：特朗普今天将签署法案和行政命令。",
+            "date_modified": "2025-12-11T18:52:29.000Z"
+        },
+        {
+            "id": 4550956,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcz5697019.d.html",
+            "title": "【消息人士：美国准备在委内瑞拉海岸扣押更多油轮】六名知情人士表示，继本周扣押一艘油轮后，美国正准备拦截更多运输委内瑞拉石油的船只，以加大对委内瑞拉总统马杜罗的压力。航运消息人士称，此次扣押事件让参与运输委内瑞拉原油的船东、运营商和海事机构保持警惕，许多人重新考虑未来几天是否按计划从委内瑞拉水域航行。知情人士透露，未来几周美国预计将进一步直接干预，目标是运输委内瑞拉石油的船只，这些船只可能也曾运输过其他受美国制裁国家（如伊朗）的原油。据一位知情人士透露，美国已拟定一份目标清单，列出了若干可能被扣押的受制裁油轮。",
+            "date_modified": "2025-12-11T18:50:11.000Z"
+        },
+        {
+            "id": 4550952,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcu7500202.d.html",
+            "title": "白宫就加沙地带问题表态：将在合适时机发布声明。",
+            "date_modified": "2025-12-11T18:48:46.000Z"
+        },
+        {
+            "id": 4550951,
+            "content_html": "",
+            "title": "Rivian CEO：我们绝对持开放态度，并且会探索如何在拼车领域应用自动驾驶技术。",
+            "date_modified": "2025-12-11T18:48:37.000Z"
+        },
+        {
+            "id": 4550950,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcv7708418.d.html",
+            "title": "白宫就加沙局势表态：和平计划下一阶段正在进行大量低调筹备工作。",
+            "date_modified": "2025-12-11T18:48:24.000Z"
+        },
+        {
+            "id": 4550949,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcv7708322.d.html",
+            "title": "白宫：美国不会允许非法石油为毒品走私提供支持。",
+            "date_modified": "2025-12-11T18:47:06.000Z"
+        },
+        {
+            "id": 4550948,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcx6197012.d.html",
+            "title": "白宫新闻秘书谈扣押油轮：不会让被制裁的船只航行。",
+            "date_modified": "2025-12-11T18:46:21.000Z"
+        },
+        {
+            "id": 4550947,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcx6196864.d.html",
+            "title": "墨西哥生产商称，针对亚洲的关税将使他们受益。",
+            "date_modified": "2025-12-11T18:44:45.000Z"
+        },
+        {
+            "id": 4550946,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcu7499682.d.html",
+            "title": "白宫：特朗普与高市早苗会面以来有过几次交谈。",
+            "date_modified": "2025-12-11T18:44:04.000Z"
+        },
+        {
+            "id": 4550945,
+            "content_html": "",
+            "title": "市场消息：美国众议院正就得克萨斯州民主党众议员艾尔・格林提出的特朗普弹劾条款，进行搁置或否决表决。",
+            "date_modified": "2025-12-11T18:43:40.000Z"
+        },
+        {
+            "id": 4550944,
+            "content_html": "",
+            "title": "英国首相斯塔默办公室发布声明称，“自愿联盟”领导人在周四的会议上讨论了在动用被冻结的俄罗斯主权资产方面取得的进展。",
+            "date_modified": "2025-12-11T18:43:14.000Z"
+        },
+        {
+            "id": 4550943,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcu7499442.d.html",
+            "title": "白宫 ：特朗普对参与竞标华纳兄弟的两家公司都表示尊重。",
+            "date_modified": "2025-12-11T18:42:28.000Z"
+        },
+        {
+            "id": 4550942,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcx6196550.d.html",
+            "title": "白宫：特朗普尊重NETFLIX和派拉蒙。",
+            "date_modified": "2025-12-11T18:42:04.000Z"
+        },
+        {
+            "id": 4550941,
+            "content_html": "",
+            "title": "美国总统特朗普：但现在，情况完全不同了，能源、石油和汽油的价格正在快速下跌，跌至五年来的最低点，而股票市场今天刚刚创下历史新高。关税带来了数千亿美元的收入，我们作为一个国家再次受到尊重。",
+            "date_modified": "2025-12-11T18:41:55.000Z"
+        },
+        {
+            "id": 4550940,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcz5695909.d.html",
+            "title": "四位消息人士称，塞内加尔贷款以大幅折扣出售。塞内加尔财政部称所有信息均不正确。",
+            "date_modified": "2025-12-11T18:40:32.000Z"
+        },
+        {
+            "id": 4550939,
+            "content_html": "",
+            "title": "美国总统特朗普：我从拜登政府那里继承了一个烂摊子——历史上最严重的通货膨胀和我国有史以来最高的物价。",
+            "date_modified": "2025-12-11T18:40:10.000Z"
+        },
+        {
+            "id": 4550938,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcv7707576.d.html",
+            "title": "Epic Games：继续与谷歌合作，寻求法院批准我们达成的和解协议。",
+            "date_modified": "2025-12-11T18:39:39.000Z"
+        },
+        {
+            "id": 4550937,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcv7707543.d.html",
+            "title": "白宫：美国制造的产品价格可能会“高出一到两美元”。",
+            "date_modified": "2025-12-11T18:39:19.000Z"
+        },
+        {
+            "id": 4550936,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcu7499047.d.html",
+            "title": "Epic Games：《堡垒之夜》重新上架美国谷歌应用商店。",
+            "date_modified": "2025-12-11T18:39:02.000Z"
+        },
+        {
+            "id": 4550935,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcv7707471.d.html",
+            "title": "【随着与谷歌的竞赛升级 OpenAI推出更先进的模型GPT-5.2】OpenAI在一份声明中表示，该公司周四推出了GPT-5.2人工智能模型，宣称在通用智能、编码和长上下文理解方面有所改进。几周前，谷歌发布了广受欢迎的Gemini 3，让这家初创公司处于守势。OpenAI表示，新模式有望为用户带来更多的经济价值，因为它在创建电子表格、构建演示文稿和处理复杂的多步骤项目方面表现更佳。据悉，GPT-5.2即时版、思考版和专业版将于周四在ChatGPT中陆续推出，付费套餐用户将率先体验。GPT‑5.2的定价为1.75美元/ 百万输入tokens和14美元/ 百万输出tokens，缓存输入有90%的折扣。OpenAI还表示，目前没有在API中弃用GPT‑5.1、GPT‑5或GPT‑4.1的计划。",
+            "date_modified": "2025-12-11T18:38:47.000Z"
+        },
+        {
+            "id": 4550934,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcz5695594.d.html",
+            "title": "白宫：特朗普政府计划对基尔马尔·阿夫雷戈·加西亚一案的判决提出上诉。",
+            "date_modified": "2025-12-11T18:38:12.000Z"
+        },
+        {
             "id": 4550933,
             "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcu7498897.d.html",
             "title": "美国西南航空公司首席执行官表示，公司将考虑增设头等舱座位。",
             "date_modified": "2025-12-11T18:37:59.000Z"
         },
@@ -31,313 +338,6 @@
             "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcv7707156.d.html",
             "title": "白宫：特朗普知晓乌克兰的最新提议。",
             "date_modified": "2025-12-11T18:34:49.000Z"
-        },
-        {
-            "id": 4550929,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcz5695231.d.html",
-            "title": "白宫就美联储相关表态：特朗普认为应采取更多行动。",
-            "date_modified": "2025-12-11T18:34:35.000Z"
-        },
-        {
-            "id": 4550928,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcz5695216.d.html",
-            "title": "消息人士称美国正准备扣押更多运输委内瑞拉石油的船只。",
-            "date_modified": "2025-12-11T18:34:26.000Z"
-        },
-        {
-            "id": 4550927,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcz5695204.d.html",
-            "title": "消息人士称，美国的扣押行动导致至少三批总计600万桶委内瑞拉马瑞原油的运输暂停。",
-            "date_modified": "2025-12-11T18:34:14.000Z"
-        },
-        {
-            "id": 4550926,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcu7498527.d.html",
-            "title": "消息人士称，美国行动将针对可能运输过伊朗等受制裁原油的油轮。",
-            "date_modified": "2025-12-11T18:34:08.000Z"
-        },
-        {
-            "id": 4550925,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcu7498498.d.html",
-            "title": "白宫：威特科夫及其团队继续与乌克兰和俄罗斯进行沟通。",
-            "date_modified": "2025-12-11T18:33:31.000Z"
-        },
-        {
-            "id": 4550924,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcu7498478.d.html",
-            "title": "白宫：特朗普对乌克兰和俄罗斯的情况感到极度失望。",
-            "date_modified": "2025-12-11T18:33:13.000Z"
-        },
-        {
-            "id": 4550922,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcu7498462.d.html",
-            "title": "白宫：如果美国认为谈判值得将派遣特使。",
-            "date_modified": "2025-12-11T18:33:02.000Z"
-        },
-        {
-            "id": 4550921,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcz5695113.d.html",
-            "title": "白宫就乌克兰问题表态：特朗普政府继续与双方进行对话。",
-            "date_modified": "2025-12-11T18:32:52.000Z"
-        },
-        {
-            "id": 4550920,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcu7498440.d.html",
-            "title": "【伦敦股市11日上涨】英国伦敦股市《金融时报》100种股票平均价格指数11日报收于9703.16点，较前一交易日上涨47.63点，涨幅为0.49%。欧洲三大股指当天全线上涨。当天伦敦股市成分股中位于涨幅前五位的个股分别为：梦龙冰淇淋公司股价上涨5.63%，梅特伦能源与金属公司股价上涨5.35%，国际设备租赁商阿什特德集团股价上涨4.70%，约翰-戴维运动时装公司股价上涨3.55%，奋进矿业公司股价上涨3.20%。当天伦敦股市成分股中位于跌幅前五位的个股分别为：信息服务企业英富曼公司股价下跌3.29%，医疗器械供应商施乐辉公司股价下跌2.76%，体育博彩企业恩坦公司股价下跌2.18%，英国联合食品集团股价下跌1.55%，英国天然气供应商森特理克集团股价下跌1.31%。",
-            "date_modified": "2025-12-11T18:32:45.000Z"
-        },
-        {
-            "id": 4550919,
-            "content_html": "",
-            "title": "上期所原油期货2510合约夜盘收跌1.27%，报435.60元人民币/桶。沪金夜盘收涨1.24%，沪银收涨4.56%。",
-            "date_modified": "2025-12-11T18:30:02.000Z"
-        },
-        {
-            "id": 4550918,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcz5694834.d.html",
-            "title": "白宫新闻秘书莱维特表示：将依照法律程序处理扣押的委内瑞拉石油。",
-            "date_modified": "2025-12-11T18:29:35.000Z"
-        },
-        {
-            "id": 4550917,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcz5694809.d.html",
-            "title": "现货白银日内涨4%，现报64.28美元/盎司。",
-            "date_modified": "2025-12-11T18:29:15.000Z"
-        },
-        {
-            "id": 4550916,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcu7498131.d.html",
-            "title": "白宫：船只将前往美国港口。",
-            "date_modified": "2025-12-11T18:29:09.000Z"
-        },
-        {
-            "id": 4550915,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcu7498112.d.html",
-            "title": "白宫：美国确实打算没收这批石油，但将遵循法律程序。",
-            "date_modified": "2025-12-11T18:28:57.000Z"
-        },
-        {
-            "id": 4550914,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcx6195363.d.html",
-            "title": "纽约期银日内涨6%，现报64.69美元/盎司。",
-            "date_modified": "2025-12-11T18:28:46.000Z"
-        },
-        {
-            "id": 4550913,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcv7706570.d.html",
-            "title": "白宫就委内瑞拉问题表态：美国司法部已批准扣押船只的授权令。",
-            "date_modified": "2025-12-11T18:28:12.000Z"
-        },
-        {
-            "id": 4550912,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcv7706565.d.html",
-            "title": "微软股价涨1.2%升至盘中高点。",
-            "date_modified": "2025-12-11T18:28:07.000Z"
-        },
-        {
-            "id": 4550911,
-            "content_html": "",
-            "title": "微软CEO：我们还将把 GPT-5.2 模型引入 Microsoft Foundry和 Copilot Studio，同时开始在面向消费者的 Copilot 体验中逐步推出该模型。",
-            "date_modified": "2025-12-11T18:27:16.000Z"
-        },
-        {
-            "id": 4550910,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcz5694610.d.html",
-            "title": "ALPHABET股价迅速跌至盘中低点，下跌3.5%。",
-            "date_modified": "2025-12-11T18:26:45.000Z"
-        },
-        {
-            "id": 4550909,
-            "content_html": "",
-            "title": "微软CEO：在 GitHub Copilot 中，GPT-5.2 是一款出色的多功能模型，尤其在编程或研究复杂代码库时，其长上下文处理能力与推理能力表现突出。该模型今日已正式上线。",
-            "date_modified": "2025-12-11T18:26:35.000Z"
-        },
-        {
-            "id": 4550908,
-            "content_html": "",
-            "title": "微软CEO：对合作伙伴 OpenAI 推出的 GPT-5.2，我们无比振奋。将其原生集成到人们日常使用的微软工具中，并结合你的工作数据，能让这款新模型的所有能力充分发挥。",
-            "date_modified": "2025-12-11T18:26:01.000Z"
-        },
-        {
-            "id": 4550907,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcx6195236.d.html",
-            "title": "【古巴调整外汇管理措施 部分放宽外汇留存额度及使用范围】2025年12月11日， 古巴官方公报正式发布一系列法令与决议，对外汇管理进行了多项重大调整。其核心为，在政府管控下，通过实施“部分美元化”，以应对当前经济挑战。此次改革的最大亮点是向非国有经济倾斜。中小微企业、合作社及个体经营者等，在出口、电子商务等创汇活动中，可将高达80%的外汇收入留存于古巴的个人外汇账户中，自主支配使用。此外，古巴政府通过建立“外汇获取能力分配”机制，允许国家重点计划内主体按官方汇率购买外汇。境内交易原则上仍使用古巴比索，但与马里埃尔特区及授权外汇商店的交易等特定场景可使用外汇。",
-            "date_modified": "2025-12-11T18:25:23.000Z"
-        },
-        {
-            "id": 4550905,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcu7497504.d.html",
-            "title": "AXIOS：美国还对与马杜罗有关系的商人实施制裁。",
-            "date_modified": "2025-12-11T18:21:51.000Z"
-        },
-        {
-            "id": 4550904,
-            "content_html": "",
-            "title": "OpenAI：在 GDPval 评估中，GPT-5.2 Thinking 成为我们首款达到人类专家水平的模型。该评估聚焦 44 种职业的明确知识型工作任务，涵盖演示文稿制作、电子表格处理及其他各类工作成果产出等任务。",
-            "date_modified": "2025-12-11T18:21:00.000Z"
-        },
-        {
-            "id": 4550903,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcu7497424.d.html",
-            "title": "OpenAI发布GPT - 5.2 思维能力测评结果。",
-            "date_modified": "2025-12-11T18:20:36.000Z"
-        },
-        {
-            "id": 4550902,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcv7706214.d.html",
-            "title": "RIVIAN迅速扩大跌幅至盘中低点，下跌8.6%。",
-            "date_modified": "2025-12-11T18:20:03.000Z"
-        },
-        {
-            "id": 4550901,
-            "content_html": "",
-            "title": "美国上诉法院部分撤销在Epic Games就App Store提起的诉讼中对苹果公司的制裁令。",
-            "date_modified": "2025-12-11T18:19:56.000Z"
-        },
-        {
-            "id": 4550899,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcz5693980.d.html",
-            "title": "【孟加拉国确定2026年大选日期】孟加拉国首席选举专员纳西尔·乌丁11日宣布，孟加拉国定于2026年2月12日举行大选，这是该国自前总理谢赫·哈西娜辞职后的首次大选。",
-            "date_modified": "2025-12-11T18:18:49.000Z"
-        },
-        {
-            "id": 4550898,
-            "content_html": "",
-            "title": "欧元集团成员国需在 1 月 9 日前提交欧洲央行副行长候选人提名，欧元集团将在 1 月 19 日的会议上确定欧洲央行副行长人选。",
-            "date_modified": "2025-12-11T18:18:27.000Z"
-        },
-        {
-            "id": 4550897,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcv7706164.d.html",
-            "title": "【美国国会参议院否决共和党医改提案】美国参议院当地时间12月11日当日未能推进一项由共和党支持的提案，该提案旨在为受益于《平价医疗法案》（ACA）补贴的美国人设立健康储蓄账户。据悉，这些补贴将于年底到期。这项需要60票才能通过的法案最终以51票对48票被否决。参议院现在将考虑对民主党提出的将《平价医疗法案》延长三年的提案进行规则投票。有分析指出，预计这项提案也将失败。 (央视新闻)",
-            "date_modified": "2025-12-11T18:18:19.000Z"
-        },
-        {
-            "id": 4550895,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcv7706120.d.html",
-            "title": "AXIOS：特朗普政府制裁6艘运载委内瑞拉石油的船只。",
-            "date_modified": "2025-12-11T18:17:26.000Z"
-        },
-        {
-            "id": 4550894,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcz5693854.d.html",
-            "title": "AXIOS：美国对委内瑞拉总统马杜罗的三个侄子实施制裁。",
-            "date_modified": "2025-12-11T18:17:08.000Z"
-        },
-        {
-            "id": 4550893,
-            "content_html": "",
-            "title": "周四（12月11日），美联储隔夜逆回购协议（RRP）使用规模为28.74亿美元，上个交易日报50.45亿美元。",
-            "date_modified": "2025-12-11T18:16:31.000Z"
-        },
-        {
-            "id": 4550892,
-            "content_html": "",
-            "title": "【德总理：已向美发出涉及乌领土让步问题的提案】德国总理默茨11日表示，他与欧洲多国领导人共同向美国总统特朗普发出一份提案，内容涉及乌克兰准备做出的领土让步。默茨当天与到访的北约秘书长吕特共同会见记者时说，这一提案是他与法国总统马克龙、英国首相斯塔默10日与特朗普通话后发出的。默茨说，他与其他欧洲国家领导人已向特朗普阐明，（在领土问题上让步）这一问题须由乌克兰总统和乌克兰人民来回答。",
-            "date_modified": "2025-12-11T18:16:27.000Z"
-        },
-        {
-            "id": 4550891,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcv7706041.d.html",
-            "title": "美国银行（BOFA）将 394 人晋升为董事总经理，晋升人数较此前增长近 2%。",
-            "date_modified": "2025-12-11T18:16:15.000Z"
-        },
-        {
-            "id": 4550889,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcu7496809.d.html",
-            "title": "泽连斯基表示，在乌克兰举行选举需要实现停火。",
-            "date_modified": "2025-12-11T18:13:30.000Z"
-        },
-        {
-            "id": 4550888,
-            "content_html": "",
-            "title": "巴西政府表示，这是一次简短的电话通话，旨在讨论和平进程以及加勒比地区和南美洲的局势。",
-            "date_modified": "2025-12-11T18:12:36.000Z"
-        },
-        {
-            "id": 4550887,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcu7496748.d.html",
-            "title": "【英伟达将举办关于数据中心供电短缺问题的活动】据几位受邀人士透露，英伟达计划于下周举办一场私人峰会，邀请专注于解决数据中心电力问题的初创企业参与 —— 这类电力问题可能会阻碍人工智能的发展。此次峰会将在英伟达位于加利福尼亚州圣克拉拉市的总部举行，这一举措表明，能源短缺正对那些配备了英伟达高能耗人工智能服务器芯片的设施建设企业产生影响。预计电力及电气工程领域初创企业的高管将出席峰会，其中包括英伟达已参股的部分公司。这些企业的产品涵盖从软件到实体电力设备技术等多个领域。英伟达发言人拒绝置评。",
-            "date_modified": "2025-12-11T18:12:15.000Z"
-        },
-        {
-            "id": 4550886,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcx6194476.d.html",
-            "title": "巴西政府确认卢拉与委内瑞拉总统马杜罗通话。",
-            "date_modified": "2025-12-11T18:11:35.000Z"
-        },
-        {
-            "id": 4550885,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcv7705707.d.html",
-            "title": "【欧盟理事会批准对乌支付第六笔约23亿欧元援助】当地时间12月11日，欧盟理事会通过了关于向乌克兰提供欧盟“乌克兰援助机制”第六笔定期援助款项的决定，乌克兰将很快收到约23亿欧元的资金。这笔资金的主要目的是增强乌克兰的宏观金融稳定性，并支持其公共行政部门的正常运作。",
-            "date_modified": "2025-12-11T18:11:25.000Z"
-        },
-        {
-            "id": 4550883,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-12-12/detail-inhankcx6194404.d.html",
-            "title": "英伟达将举办关于数据中心供电短缺问题的会议活动。",
-            "date_modified": "2025-12-11T18:10:00.000Z"
-        },
-        {
-            "id": 4550882,
-            "content_html": "",
-            "title": "摩根大通将新思科技（Synopsys）的目标股价从每股600美元上调至650美元。",
-            "date_modified": "2025-12-11T18:09:45.000Z"
-        },
-        {
-            "id": 4550880,
-            "content_html": "",
-            "title": "民主党少数党领袖舒默表示：在两项医改方案均告失败后，“共和党人现在要为美国的医改危机负责”。",
-            "date_modified": "2025-12-11T18:08:21.000Z"
-        },
-        {
-            "id": 4550879,
-            "content_html": "",
-            "title": "市场消息：美国参议院共和党人阻挠了民主党一项医保法案，该法案旨在将奥巴马医改补贴延长至 2028 年。",
-            "date_modified": "2025-12-11T18:04:36.000Z"
-        },
-        {
-            "id": 4550878,
-            "content_html": "",
-            "title": "30 年期美国国债拍卖后收益率延续下跌态势，最新报 4.776%，跌幅为 2 个基点。",
-            "date_modified": "2025-12-11T18:03:57.000Z"
-        },
-        {
-            "id": 4550877,
-            "content_html": "",
-            "title": "  Workato 与 Confluent 达成合作，携手布局 AI 智能体（AI Agents）领域。",
-            "date_modified": "2025-12-11T18:02:35.000Z"
         }
     ]
 }
