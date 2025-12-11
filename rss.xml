@@ -4,336 +4,305 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Wed, 10 Dec 2025 23:23:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Dec 2025 02:05:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[纳斯达克100指数期货下跌0.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakrur8364307.d.html</link>
-            <guid>4548399</guid>
-            <pubDate>Wed, 10 Dec 2025 23:21:49 GMT</pubDate>
+            <title><![CDATA[中国隔夜回购利率降至2023年8月以来最低水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakwan8063833.d.html</link>
+            <guid>4548630</guid>
+            <pubDate>Thu, 11 Dec 2025 02:04:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【甲骨文在盘后交易中大跌 云业务销售额不及预期、加大AI支出引发担忧】甲骨文在盘后交易中下跌超过10%，此前公布人工智能数据中心和其他设备支出大幅增长，而这些支出转化为云收入所需的时间比投资者预期要长。该公司第二财季云业务销售额增长34%至79.8亿美元，备受关注的基础设施业务收入增长68%至40.8亿美元。这两个数字均略低于分析师的预期。以数据库软件闻名的甲骨文最近在竞争激烈的云计算市场也取得了成功，该公司正在大规模建设数据中心，以支持OpenAI的人工智能工作，Meta Platforms Inc.等公司都是其主要的云业务客户。该公司周三公告表示，截至11月30日的季度，衡量订单量的指标——剩余履约义务增长超过四倍，达到5230亿美元。数据显示，分析师平均估计为5190亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakruq8137421.d.html</link>
-            <guid>4548398</guid>
-            <pubDate>Wed, 10 Dec 2025 23:21:08 GMT</pubDate>
+            <title><![CDATA[【贵金属板块震荡拉升，山金国际涨超7%】贵金属板块震荡拉升，山金国际涨超7%，赤峰黄金、中金黄金、晓程科技跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakwak9151230.d.html</link>
+            <guid>4548629</guid>
+            <pubDate>Thu, 11 Dec 2025 02:04:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[瑞穗银行首席执行官：预计美联储明年将降息两到三次。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakrun9225116.d.html</link>
-            <guid>4548397</guid>
-            <pubDate>Wed, 10 Dec 2025 23:20:18 GMT</pubDate>
+            <title><![CDATA[摩尔线程股价站上800元关口，日内涨超9％，总市值达3780亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakwak9150557.d.html</link>
+            <guid>4548628</guid>
+            <pubDate>Thu, 11 Dec 2025 02:03:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【墨总统称将在满足本国用水基础上与美达成水资源协议】当地时间10日，就向美国供水问题，墨西哥总统辛鲍姆表示，墨西哥在1944年所签订条约的框架下与美国进行谈判。辛鲍姆表示，墨西哥的基本前提是在履行条约的同时，不危及必不可少的人均供水量以及墨西哥农民所需的用水量。辛鲍姆强调，尽管墨西哥遵循尊重协议的原则运作，但保障人民用水是不可回避的优先事项。墨方已向美国提出一个反映各地区实际水资源可用性的公平方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakrur8364101.d.html</link>
-            <guid>4548396</guid>
-            <pubDate>Wed, 10 Dec 2025 23:19:58 GMT</pubDate>
+            <title><![CDATA[【港股风电股持续拉升，金风科技涨超7%】港股风电股持续拉升，金风科技涨超7%，东方电气、瑞风新能源跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakwan8062574.d.html</link>
+            <guid>4548627</guid>
+            <pubDate>Thu, 11 Dec 2025 02:02:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[消息人士称，委内瑞拉反对派领导人马查多乔装潜逃出国，前往挪威。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakrun9225057.d.html</link>
-            <guid>4548395</guid>
-            <pubDate>Wed, 10 Dec 2025 23:19:44 GMT</pubDate>
+            <title><![CDATA[【智谱正式上线并开源文本转语音模型GLM-TTS】12月11日，智谱正式发布工业级语音合成系统GLM-TTS，并在Hugging Face和ModelScope上开放模型权重。GLM-TTS目前已开源，并上线智谱开放平台（bigmodel）、智谱清言、Z.ai。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakwak9149214.d.html</link>
+            <guid>4548626</guid>
+            <pubDate>Thu, 11 Dec 2025 02:00:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【江苏“十五五”规划建议：推动量子科技、脑机接口、具身智能等形成现实生产力】中共江苏省委关于制定江苏省国民经济和社会发展第十五个五年规划的建议发布，其中提到，培育壮大未来产业。探索多元技术路线、典型应用场景、可行商业模式、市场监管规则，加快壮大第三代半导体、氢能、生物制造等成长型未来产业，推动量子科技、脑机接口、具身智能、深海深地、原子级制造、第六代移动通信等一批前沿性未来产业形成现实生产力。创新监管方式，发展创业投资，建立健全未来产业投入增长和风险分担机制。支持有条件的地方争创国家级未来产业先导区。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakrun9225028.d.html</link>
-            <guid>4548394</guid>
-            <pubDate>Wed, 10 Dec 2025 23:19:27 GMT</pubDate>
+            <title><![CDATA[【受贿数额特别巨大 中国海油原副总经理袁光宇被提起公诉】从最高人民检察院获悉，中国海洋石油集团有限公司原党组成员、副总经理袁光宇涉嫌受贿一案，由国家监察委员会调查终结，移送检察机关审查起诉。经最高人民检察院指定管辖，江苏省人民检察院依法以涉嫌受贿罪对袁光宇作出逮捕决定。近日，江苏省徐州市人民检察院已向徐州市中级人民法院提起公诉。检察机关在审查起诉阶段，依法告知了被告人袁光宇享有的诉讼权利，并讯问了被告人，听取了辩护人的意见。检察机关起诉指控：被告人袁光宇利用担任中海石油北方钻井公司总经理，中海油田服务有限公司总经理、总裁，中海石油（中国）有限公司天津分公司总经理，中国海洋石油渤海石油管理局局长，中国海洋石油有限公司执行副总裁、总裁等职务上的便利，为有关单位和个人谋取利益，非法收受他人财物，数额特别巨大，依法应当以受贿罪追究其刑事责任。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakwan8061254.d.html</link>
+            <guid>4548625</guid>
+            <pubDate>Thu, 11 Dec 2025 02:00:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德意志银行将优惠贷款利率降至6.75%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakmnn9874669.d.html</link>
-            <guid>4548393</guid>
-            <pubDate>Wed, 10 Dec 2025 23:18:48 GMT</pubDate>
+            <title><![CDATA[【吉兆储能完成数千万元天使+轮融资】12月11日，据光合创投消息，液态金属电池储能企业武汉吉兆储能科技有限公司已完成数千万元天使+轮融资，本轮融资由光合创投领投，资金将用于产品研发、团队扩充和平台建设，支撑MW级液态金属电池储能系统交付应用。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakwah9674143.d.html</link>
+            <guid>4548624</guid>
+            <pubDate>Thu, 11 Dec 2025 01:59:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【超长债大幅调整 机构称债市震荡无碍银行营收稳增预期】近日，以30年期国债为代表的超长债大幅调整，利率显著攀升。多家券商研究机构认为，超长债单独调整系总量缺口与结构性压力共同作用，从银行的角度看，债市震荡无碍营收稳增预期。Wind数据显示，12月8日，30年期“25超长特别国债06”收益率攀升至2.26%，该券收益率12月以来已经上行8个基点。受现券收益率上行拖累，国债期货市场承压。12月8日，30年期国债期货主力合约跌0.29%，报112.240元。（经济参考报）]]></title>
-            <guid>4548392</guid>
-            <pubDate>Wed, 10 Dec 2025 23:17:52 GMT</pubDate>
+            <title><![CDATA[【风电设备板块走强，金风科技涨超9%】风电设备板块走强，金风科技涨超9%，泰胜风能、振江股份、明阳智能跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakwap8294172.d.html</link>
+            <guid>4548623</guid>
+            <pubDate>Thu, 11 Dec 2025 01:59:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【近日多家A股公司披露外汇套期保值额度 总额度大幅提升】近期，人民币兑美元汇率持续走强，时隔一年多再次逼近7.0重要关口。Wind数据显示，12月10日，在岸人民币兑美元汇率，盘中最高触及7.0603，创下2024年10月以来新高。面对汇率风险的不确定性，上市公司选择套期保值成为一种常见的风险管理策略。近日，多家涉及海外业务的A股公司，披露了外汇套期保值额度，总额度大幅提升。其中，中国船舶12月9日公告称，2026年开展期货和衍生品交易业务，新开展交易额度预计不超240亿美元，任一交易日持有的最高合约价值不超过510亿美元。据不完全统计，12月以来已有超30家A股公司发布公告，拟开展外汇套期保值业务以规避外汇市场波动带来的风险。业内人士分析，在当前汇率波动的背景下，不少外贸企业担忧出口业务的外汇收款结汇金额会出现缩水，侵蚀企业的利润。从上市公司参与套期保值的目标来看，对冲汇率风险是首要诉求。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakmnt8494370.d.html</link>
-            <guid>4548391</guid>
-            <pubDate>Wed, 10 Dec 2025 23:16:58 GMT</pubDate>
+            <title><![CDATA[光伏、储能板块早盘活跃，京山轻机直线涨停，中利集团此前封板，迈为股份、南都电源涨超10%，捷佳伟创、德业股份等跟涨。]]></title>
+            <guid>4548622</guid>
+            <pubDate>Thu, 11 Dec 2025 01:58:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【12月以来超200家A股公司迎券商调研 存储芯片概念受关注】12月以来，A股市场机构调研继续活跃，券商分析师作为调研主力，积极对上市公司实地走访，挖掘布局方向。数据显示，12月以来已有超200家A股上市公司迎来券商调研，电子、机械设备等行业的调研热度依旧居高不下。与此同时，近期备受市场热捧的存储芯片概念相关企业，也是券商密集调研的对象。临近年末，国金证券、中泰证券等多家券商于本周陆续发布2026年度投资策略。券商机构普遍认为，科技板块仍将是2026年最值得看好的投资主线之一。（人民财讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakmnn9874046.d.html</link>
-            <guid>4548390</guid>
-            <pubDate>Wed, 10 Dec 2025 23:16:03 GMT</pubDate>
+            <title><![CDATA[【真实生物阿兹夫定获恶性血液瘤临床IIa期批件】12月11日，真实生物宣布，国家药品监督管理局药品审评中心（CDE）已批准河南真实生物科技有限公司GEN-725片（阿兹夫定）开展治疗恶性血液瘤的IIa期临床试验。本次获批的IIa期临床试验将基于前期研究基础，进一步评估阿兹夫定在恶性血液瘤患者中的安全性及初步疗效。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakwak9147931.d.html</link>
+            <guid>4548621</guid>
+            <pubDate>Thu, 11 Dec 2025 01:57:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【可口可乐任命内部人士亨里克-布劳恩接替詹姆斯-昆西出任新首席执行官】可口可乐周三任命内部人士亨里克-布劳恩（Henrique Braun）为新任首席执行官，接替詹姆斯-昆西（James Quincey）。Quincey 和 Braun 均于 1996 年加入可口可乐公司，并在全球各地担任过领导职务。现年 57 岁的布劳恩将从 3 月 31 日起接任这家饮料巨头的首席执行官。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakmnn9873956.d.html</link>
-            <guid>4548389</guid>
-            <pubDate>Wed, 10 Dec 2025 23:15:27 GMT</pubDate>
+            <title><![CDATA[【北京宠物犬中毒刑事公诉案一审宣判 被告人获刑4年】北京宠物犬中毒刑事公诉案今天在北京市朝阳区人民法院一审宣判。被告人张某华构成投放危险物质罪，被判处有期徒刑4年。张某华当庭提出上诉。据悉，被告人张某华在小区公共区域投毒，导致9条犬只被毒死，包括宠物犬。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakwan8059236.d.html</link>
+            <guid>4548620</guid>
+            <pubDate>Thu, 11 Dec 2025 01:55:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[富国银行新兴市场经济学家兼外汇策略师Brendan McKenna点评美联储决议：预计亚洲新兴市场外汇将追上纽约时段新兴市场货币的涨势。许多市场参与者期待已久的鹰派降息并未兑现再加上美国国债购买规模扩大，应该会给美元带来进一步的贬值压力。亚洲新兴市场货币走强的基础将是广泛的，像韩元和印尼盾这样的高贝塔货币可能会跑赢大盘。韩元表现有点落后，因此估值看起来更具吸引力并可能带来更多上涨空间。印尼盾也有类似情况。]]></title>
-            <guid>4548388</guid>
-            <pubDate>Wed, 10 Dec 2025 23:14:43 GMT</pubDate>
+            <title><![CDATA[【紫金矿业在海南成立运营管理公司，注册资本1亿】天眼查App显示，12月9日，紫金（海南）国际矿业运营管理有限公司成立，法定代表人为简锡明，注册资本1亿人民币，经营范围包括非煤矿山矿产资源开采、金属与非金属矿产资源地质勘探、矿产资源储量评估服务、矿物洗选加工等。股东信息显示，该公司由紫金矿业（601899）全资持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakwak9146412.d.html</link>
+            <guid>4548619</guid>
+            <pubDate>Thu, 11 Dec 2025 01:54:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【前10月俄外贸顺差同比下降7.75%】据俄罗斯海关数据，2025年1月至10月，俄罗斯外贸顺差同比下降7.75%，至1154亿美元。报告期内，俄出口额减少152亿美元，约为3398亿美元；进口额减少55亿美元，约为2244亿美元。1-10月，俄贸易总额与去年同期相比下降3.54%，为约5642亿美元。前十月，俄对欧洲国家出口额下降14.9%至约478亿美元；进口额下降4.4%至约581亿美元。同期与亚洲国家的贸易往来中，俄出口额下降1.6%，约为2639亿美元；进口额下降2.9%，为约1494亿美元。（新华财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakmnt8493799.d.html</link>
-            <guid>4548387</guid>
-            <pubDate>Wed, 10 Dec 2025 23:12:56 GMT</pubDate>
+            <title><![CDATA[【空客CEO承认波音可能赢得今年订单竞赛，或为六年来首度反超】空客首席执行官Guillaume Faury承认，在与波音的年度订单竞赛中，空客很可能会落败。他表示，由于美国关税争端达成和解，波音有望六年来首次赢得更高的市场份额，但空客在交付量和未完成订单方面仍然领先。受787客机强劲需求的提振，波音1月至11月总订单量达1000架，扣除取消订单后净订单量为908架，而空客的净订单量为700架。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakwan8058435.d.html</link>
+            <guid>4548618</guid>
+            <pubDate>Thu, 11 Dec 2025 01:53:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【银行理财子公司渐成网下“打新”新势力】当前，银行理财子公司正通过多种方式参与权益市场，尤其是今年3月份A股IPO网下“打新”对理财公司“开闸”后，银行理财子公司的“打新”动作频频。国产GPU公司沐曦股份12月8日公布的网下初步配售结果显示，宁银理财有限责任公司、兴银理财有限责任公司的合计10只理财产品成功入围有效报价并获得配售，获配股份数量合计4.23万股。此前颇受关注的“国产GPU第一股”摩尔线程的网下发行，上述两家理财子公司同样获得了配售。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakmnt8493754.d.html</link>
-            <guid>4548386</guid>
-            <pubDate>Wed, 10 Dec 2025 23:12:17 GMT</pubDate>
+            <title><![CDATA[【嘉和美康、星动纪元等成立科技公司 含AI及机器人业务】企查查APP显示，近日，嘉和智健（河南）科技有限公司成立，注册资本1亿元，经营范围包含：智能机器人的研发；人工智能基础软件开发；人工智能理论与算法软件开发；人工智能应用软件开发等。企查查股权穿透显示，该公司由嘉和美康、北京星动纪元科技有限公司等共同持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakwah9671136.d.html</link>
+            <guid>4548617</guid>
+            <pubDate>Thu, 11 Dec 2025 01:53:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【年底迎机构超百次调研 城农商行备受“青睐”】临近岁末，地方上市银行密集迎来大批金融机构调研。11月份以来至12月10日记者发稿时，已有12家上市银行接待了81家机构的195次调研，较10月份数据大幅上升。其中，受访银行大都为城商行、农商行。另外，在这场“摸底”行动中，净息差的未来走向、资产质量等成为机构投资者关切的议题。对此，业内专家表示，近日机构调研城农商行升温，主要与银行基本面关键指标企稳向好、投资价值凸显和市场表现有关。受访银行的反馈，也向市场释放了积极信号。（经济参考报）]]></title>
-            <guid>4548384</guid>
-            <pubDate>Wed, 10 Dec 2025 23:10:53 GMT</pubDate>
+            <title><![CDATA[零售、食品等消费股震荡走低，茂业商业、安记食品跌停，中百集团、中央商场、三江购物、广百股份、海欣食品等跌超7%。]]></title>
+            <guid>4548616</guid>
+            <pubDate>Thu, 11 Dec 2025 01:53:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【 华大北斗港股IPO招股书失效】深圳华大北斗科技股份有限公司(简称：华大北斗)6月11日所递交的港股招股书满6个月，于12月11日失效，递表时招银国际、平安证券(香港)为其联席保荐人。]]></title>
-            <guid>4548383</guid>
-            <pubDate>Wed, 10 Dec 2025 23:10:12 GMT</pubDate>
+            <title><![CDATA[中兴通讯A股跌近7%，港股大跌8.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakwan8057776.d.html</link>
+            <guid>4548615</guid>
+            <pubDate>Thu, 11 Dec 2025 01:52:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【“科技叙事”日益清晰 国际资本加码中国股市】种种迹象显示，越来越多的国际投资者正把目光投向中国资产，并从“看多中国”走向“做多中国”。业内人士认为，在低估值、企业盈利回升以及日益清晰的“科技叙事”逻辑推动下，2026年，国际资本回流中国股票市场的趋势将得到进一步强化。（经济参考报）]]></title>
-            <guid>4548382</guid>
-            <pubDate>Wed, 10 Dec 2025 23:09:53 GMT</pubDate>
+            <title><![CDATA[沪深两市成交额超5000亿元，较上日此时缩量239亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakwap8290546.d.html</link>
+            <guid>4548614</guid>
+            <pubDate>Thu, 11 Dec 2025 01:52:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【上市公司分红金额今年有望首破2.6万亿元】根据Wind数据统计，截至12月10日，以股权登记日计算，今年以来，3762家A股上市公司合计分红金额达2.46万亿元，超过去年全年，再创历史新高。另外，还有36家公司发布了分红派息实施公告，拟于12月11日至18日之间进行股权登记，拟分红金额合计1518.56亿元。若加上目前已确定要实施的分红，今年上市公司分红金额将达到2.61万亿元，全年分红总额将首次突破2.6万亿元。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakmnt8493331.d.html</link>
-            <guid>4548381</guid>
-            <pubDate>Wed, 10 Dec 2025 23:08:23 GMT</pubDate>
+            <title><![CDATA[【我国首次完成10兆帕高压氢气管道全尺寸放空试验】从国家管网集团获悉，12月10日，国内首次10兆帕高压力氢气管道全尺寸放空试验成功实施，这项试验如同氢气管道的“安全模拟考”，填补了我国在该领域的技术空白，标志着我国氢气管道安全技术迈上新台阶。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakwak9144997.d.html</link>
+            <guid>4548613</guid>
+            <pubDate>Thu, 11 Dec 2025 01:51:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[澳大利亚标普/澳交所200指数早盘上涨0.6%，报8631.30点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakmnn9873038.d.html</link>
-            <guid>4548380</guid>
-            <pubDate>Wed, 10 Dec 2025 23:06:35 GMT</pubDate>
+            <title><![CDATA[据《日经新闻》报道，日本计划出台税收优惠政策以刺激资本支出。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakwak9144123.d.html</link>
+            <guid>4548612</guid>
+            <pubDate>Thu, 11 Dec 2025 01:48:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[甲骨文盘后股价下跌，标普 500 指数小型期货合约下跌 0.07%，纳斯达克期货下跌 0.14%]]></title>
-            <guid>4548379</guid>
-            <pubDate>Wed, 10 Dec 2025 23:06:05 GMT</pubDate>
+            <title><![CDATA[【格芯任命内部人士担任新首席财务官】格芯(GlobalFoundries)任命Sam Franklin为首席财务官，接替今年早些时候卸任的David Reeder。Franklin自10月起担任临时首席财务官，此前曾担任财务、运营和投资者关系高级副总裁。格芯首席执行官Tim Breen表示，随着人工智能的兴起，半导体需求加速增长，Franklin的领导能力将帮助公司“抓住未来的重大机遇”。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakwah9668714.d.html</link>
+            <guid>4548611</guid>
+            <pubDate>Thu, 11 Dec 2025 01:48:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【2025年诺贝尔奖颁奖仪式在斯德哥尔摩举行】斯德哥尔摩消息：2025年诺贝尔物理学奖、化学奖、生理学或医学奖、文学奖及经济学奖颁奖仪式10日在瑞典首都斯德哥尔摩举行。在评选委员会代表分别介绍获奖者成就后，瑞典国王卡尔十六世·古斯塔夫向每位获奖者颁发诺贝尔奖证书、奖章和奖金。今年每项诺贝尔奖的奖金为1100万瑞典克朗（约合118万美元）。包括瑞典王室主要成员、政界领导人等在内的千余人出席了颁奖仪式。12月10日是瑞典化学家和发明家诺贝尔的逝世纪念日，每年的诺贝尔奖颁奖典礼都安排在这一天举行。（新华国际）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakmnq9352638.d.html</link>
-            <guid>4548378</guid>
-            <pubDate>Wed, 10 Dec 2025 23:04:18 GMT</pubDate>
+            <title><![CDATA[【超导概念早盘拉升，永鼎股份涨停】超导概念早盘拉升，永鼎股份涨停，西部超导、精达股份、东方钽业跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakwak9143428.d.html</link>
+            <guid>4548610</guid>
+            <pubDate>Thu, 11 Dec 2025 01:47:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【可口可乐COO亨里克·布劳恩将出任CEO】可口可乐公司当地时间12月10日宣布，董事会已选举执行副总裁兼首席运营官亨里克·布劳恩（Henrique Braun）为首席执行官，任命将于2026年3月31日生效。布劳恩将接替詹姆斯·昆西（James Quincey），后者在担任公司CEO九年后将转任执行董事长。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakmnt8492797.d.html</link>
-            <guid>4548377</guid>
-            <pubDate>Wed, 10 Dec 2025 23:03:35 GMT</pubDate>
+            <title><![CDATA[大盘主力净流出超100亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakwak9143216.d.html</link>
+            <guid>4548609</guid>
+            <pubDate>Thu, 11 Dec 2025 01:47:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【理财公司“跑县城”，中小银行货架添大牌】12月10日，苏银理财发布公告称，公司部分理财产品新增浙江开化农商行、浙江绍兴瑞丰农商行为销售机构。此前，苏银理财发布的关于旗下理财产品销售机构的公告显示，公司合作范围已延伸至江苏、浙江、广东等地的中小银行，其中农商行占据多数席位。记者梳理发现，除苏银理财外，近期，兴银理财、信银理财、中银理财等多家理财公司密集发布新增代销机构的公告，合作方不乏县域中小银行，布局下沉市场趋势明显。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakmnn9872698.d.html</link>
-            <guid>4548376</guid>
-            <pubDate>Wed, 10 Dec 2025 23:03:26 GMT</pubDate>
+            <title><![CDATA[【预制菜板块大幅调整，海欣食品触及跌停】预制菜板块大幅调整，海欣食品触及跌停，中百集团、惠发食品、天马科技、步步高、通程控股、大东方等跟跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakwap8287700.d.html</link>
+            <guid>4548608</guid>
+            <pubDate>Thu, 11 Dec 2025 01:47:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[除了头版内容，今天《人民日报》涉及财经的主要内容还包括：
-1、何立峰会见世界贸易组织总干事伊维拉时指出 中方坚定支持多边贸易体制 将与各方一道维护开放稳定可预期的国际贸易环境
-2、《中国对拉丁美洲和加勒比政策文件》发布
-3、紧扣消费者需求开展创新（专家点评）
-4、国产农机市场认可度显著提升 满足国内九成以上需求
-5、11月CPI同比上涨0.7% 涨幅为2024年3月份以来最高
-6、强化安全要求，多个关键技术指标变化 玩具产品质量标准更严格（政策速递）
-7、金融监管总局发文引导金融租赁公司规范开展融资租赁业务
-8、四川成都——紧盯企业需求优化营商环境。]]></title>
-            <guid>4548375</guid>
-            <pubDate>Wed, 10 Dec 2025 23:02:49 GMT</pubDate>
+            <title><![CDATA[【电网设备板块震荡拉升 汉缆股份、中超控股涨停】电网设备板块震荡拉升，汉缆股份、中超控股涨停，红相股份、双杰电气、森源电气、长缆科技等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakwah9667226.d.html</link>
+            <guid>4548607</guid>
+            <pubDate>Thu, 11 Dec 2025 01:46:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【连接“主动”能力与“被动”诉求，公募指增业务驶上发展快速路】在公募基金行业强化业绩比较基准的导向下，与之契合度较高的指数增强业务迎来爆发式发展。Wind数据显示，截至12月10日，公募行业今年以来新成立了168只指数增强基金，合计新发规模超920亿元，两项数据集体超越过去三年（2022年至2024年）指增产品的新发总和。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakmns8264585.d.html</link>
-            <guid>4548374</guid>
-            <pubDate>Wed, 10 Dec 2025 23:02:46 GMT</pubDate>
+            <title><![CDATA[【房地产板块走低，中国武夷跌超8%】房地产板块走低，中国武夷跌超8%，华夏幸福、沙河股份、世荣兆业跟跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakwan8054734.d.html</link>
+            <guid>4548606</guid>
+            <pubDate>Thu, 11 Dec 2025 01:46:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[今天《人民日报》头版的主要内容有：
-1、因地制宜发展新质生产力（总书记的关切·落地的回响）
-2、话 信 心——习近平经济思想指引中国经济行稳致远
-3、湖北武汉推动科技创新和产业创新深度融合——实验室成果加速“跑”进生产线（贯彻四中全会精神一线见闻）
-4、如何做好今年供暖季能源保供（政策问答·回应关切）
-5、中欧班列“东通道”今年通行量超5000列
-6、脱贫县农村居民人均可支配收入水平持续提升 前三季度增速快于全国农村0.5个百分点
-7、前11月全国铁路完成固定资产投资7538亿元 同比增长5.9%。]]></title>
-            <guid>4548373</guid>
-            <pubDate>Wed, 10 Dec 2025 23:02:35 GMT</pubDate>
+            <title><![CDATA[碳酸锂连续主力合约日内涨3%，现报97960.00元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakwap8286559.d.html</link>
+            <guid>4548605</guid>
+            <pubDate>Thu, 11 Dec 2025 01:45:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美联储降息后 美元创下自9月以来最差单日表现】周三，美联储主席鲍威尔在讲话中强调劳动力市场风险，同时淡化通胀担忧，美元录得近三个月来的最差表现。美元指数收盘下跌0.4%，创9月16日以来最大跌幅，此前美联储决定降息0.25个百分点。美国银行策略师亚历克斯·科恩表示：“与此前的预测相比，鲍威尔对劳动力市场的态度不那么乐观。”他补充说，美联储主席在劳动力和通胀方面的评论引发了美元下跌。宏观策略师爱德华·哈里森表示：“随着美联储与日益鹰派的各国央行步调不一致，疲软的美元应从债券和利率差方向获得指引。”]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakmnn9872586.d.html</link>
-            <guid>4548372</guid>
-            <pubDate>Wed, 10 Dec 2025 23:02:22 GMT</pubDate>
+            <title><![CDATA[【VisIC完成2600万美元B轮融资】12月11日，以色列电动汽车氮化镓（GaN）功率半导体企业VisIC Technologies Ltd.宣布其B轮融资第二次交割完成，共募集2600万美元。 本轮由一家全球半导体领导者领投，现代汽车公司和起亚（统称“HKMC”）作为战略投资者参投。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakwak9142033.d.html</link>
+            <guid>4548604</guid>
+            <pubDate>Thu, 11 Dec 2025 01:45:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美国众议院投票通过国防授权法案】当地时间12月10日，美国众议院以312票赞成、112票反对的投票结果通过9010亿美元的国防授权法案，该法案接下来将提交参议院审议。据悉，该法案包含一项条款，旨在加大对五角大楼的压力，要求其向国会提供在加勒比海地区打击疑似贩毒船只的视频。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakmns8264284.d.html</link>
-            <guid>4548371</guid>
-            <pubDate>Wed, 10 Dec 2025 23:01:48 GMT</pubDate>
+            <title><![CDATA[A股三大股指走高，创业板指涨1%，深证成指涨0.49%，沪指涨0.03%，贵金属、电网设备板块涨幅居前。]]></title>
+            <guid>4548603</guid>
+            <pubDate>Thu, 11 Dec 2025 01:44:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[路透调查：三分之二的日本企业欢迎日本首相提出的财政目标方案，该方案允许更灵活的支出。约40%的日本企业预计明年盈利将增长，远超持看跌观点的企业。]]></title>
-            <guid>4548370</guid>
-            <pubDate>Wed, 10 Dec 2025 23:01:28 GMT</pubDate>
+            <title><![CDATA[中兴通讯(00763.HK)跌8%，成交额超5亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakwak9141462.d.html</link>
+            <guid>4548602</guid>
+            <pubDate>Thu, 11 Dec 2025 01:43:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[纽约期银日内涨2%，现报62.25美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakmnt8492543.d.html</link>
-            <guid>4548369</guid>
-            <pubDate>Wed, 10 Dec 2025 23:00:35 GMT</pubDate>
+            <title><![CDATA[【国债期货拉升 10年期主力合约涨超0.1%】国债期货拉升，10年期主力合约盘中涨0.10%，现报108.120点。30年期涨0.36%，现报113.09点。5年期涨0.08%，现报105.89点。2年期涨0.02%，现报102.482点。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakwap8284929.d.html</link>
+            <guid>4548601</guid>
+            <pubDate>Thu, 11 Dec 2025 01:42:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[钯金期货日内涨1%，现报1508.50美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakmnt8492540.d.html</link>
-            <guid>4548368</guid>
-            <pubDate>Wed, 10 Dec 2025 23:00:35 GMT</pubDate>
+            <title><![CDATA[孩子王儿童用品股份有限公公司向港交所提交上市申请书，独家保荐人为华泰国际。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakwah9664805.d.html</link>
+            <guid>4548600</guid>
+            <pubDate>Thu, 11 Dec 2025 01:41:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[纽约期银日内涨1%，现报62.24美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakmnt8492515.d.html</link>
-            <guid>4548367</guid>
-            <pubDate>Wed, 10 Dec 2025 23:00:18 GMT</pubDate>
+            <title><![CDATA[圭亚那政府称，被美国扣押的油轮冒用圭亚那国旗。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakwan8051556.d.html</link>
+            <guid>4548599</guid>
+            <pubDate>Thu, 11 Dec 2025 01:40:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【擅闯中方演训区域还恶意炒作！被中方录音打脸，日方狡辩】日方连日来持续炒作中国军机“雷达照射”日本自卫队飞机，在9日中方公布现场录音后，日方不得不承认事先收到了中方的信息，同时又辩称“中方信息不充分”。中国外交部发言人10日质问，日方是不是在故意转移焦点，企图误导国际社会？日方现在应该做的，是正视当前中日关系困难的症结，认认真真反思纠错，老老实实撤回高市首相涉台错误言论。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakmns8263815.d.html</link>
-            <guid>4548366</guid>
-            <pubDate>Wed, 10 Dec 2025 22:58:03 GMT</pubDate>
+            <title><![CDATA[圭亚那海事管理局表示，将对未经授权使用圭亚那国旗的行为采取行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakwak9139313.d.html</link>
+            <guid>4548598</guid>
+            <pubDate>Thu, 11 Dec 2025 01:40:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【提出严正交涉！中方敦促英方撤销对中企制裁】英国12月9日宣布制裁两家中国科技公司，因为它们“曾对英国及其盟友发动网络攻击”。“英国与美国狼狈为奸，蓄意诬蔑中国并对中国实体进行非法单边制裁，性质十分恶劣。”中国驻英国大使馆9日对英方的举动表示坚决反对并提出严正交涉。中国外交部发言人10日表示，中方坚决反对出于政治目的散布虚假信息。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakmns8263767.d.html</link>
-            <guid>4548365</guid>
-            <pubDate>Wed, 10 Dec 2025 22:57:30 GMT</pubDate>
+            <title><![CDATA[【港股医药股走强 昭衍新药涨超5%】截至发稿，昭衍新药(06127.HK)涨5.54%、荣昌生物(09995.HK)涨3.95%、药明合联(02268.HK)涨3.05%、基石生物-B(02616.HK)涨2.86%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakwak9138615.d.html</link>
+            <guid>4548597</guid>
+            <pubDate>Thu, 11 Dec 2025 01:39:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【高盛模型加权平均值显示人民币被低估25%，称之为“最高确信度”交易之一】高盛表示，人民币被低估25%，其升值幅度将超过远期合约所显示的定价。这家华尔街机构将人民币称为其“最高确信度”交易之一，称根据预测汇率模型判断，人民币被低估。该模型旨在预测维持中国经济基本面所需的最优汇率水平，包括保持经常账户稳定、经济增长及价格平稳等条件。受美元走弱、资金流入内地股市、人民币国际化进程及更坚挺的中间价等因素推动，在岸和离岸人民币均有望实现2021年以来首次年度升值。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakmnt8491713.d.html</link>
-            <guid>4548364</guid>
-            <pubDate>Wed, 10 Dec 2025 22:49:51 GMT</pubDate>
+            <title><![CDATA[【德国研究机构：下半年欧洲对乌军事支持力度持续下降】德国基尔世界经济研究所10日发布的一份研究报告显示，今年下半年以来，欧洲国家对乌克兰的军事支持力度持续下降。数据显示，2025年9至10月，乌克兰从欧洲国家获得了价值约42亿欧元的军事支持，而去年同期，该国从欧洲和美国获得的军事支持总价值超过70亿欧元。此外，2022至2024年，乌克兰平均每年可获得约416亿欧元的各类军事支持，而截至今年10月底，乌克兰本年度仅获得了约325亿欧元的军事支持。报告同时显示，欧洲内部在对乌支持力度上的差异进一步扩大。2025年，德、法、英三国显著提高了对乌军事支持力度，而位于南欧的意大利和西班牙则几乎没有增加支持力度。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakwah9662828.d.html</link>
+            <guid>4548596</guid>
+            <pubDate>Thu, 11 Dec 2025 01:38:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[截至12月10日，全球最大黄金上市交易基金（ETF）——SPDR黄金信托公布持仓量下降0.11%，即1.15吨，至1046.82吨。]]></title>
-            <guid>4548363</guid>
-            <pubDate>Wed, 10 Dec 2025 22:47:24 GMT</pubDate>
+            <title><![CDATA[【恒大地产新增2条恢复执行信息，执行标的合计35.7亿余元】天眼查法律诉讼信息显示，12月10日，恒大地产集团有限公司新增2条恢复执行信息，执行标的合计35.7亿余元，两起案件被执行人还包括恒大地产集团（江西）有限公司、恒大地产集团（深圳）有限公司等，执行法院为南昌市东湖区人民法院、广东省深圳市中级人民法院。风险信息显示，恒大地产集团有限公司现存410余条被执行人信息，被执行总金额超715亿元，此外，该公司还存在多条限制消费令、失信被执行人及终本案件信息。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakwap8282203.d.html</link>
+            <guid>4548595</guid>
+            <pubDate>Thu, 11 Dec 2025 01:38:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[OpenAI状态页面显示：ChatGPT安卓设备用户遇到错误率上升问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakmns8262719.d.html</link>
-            <guid>4548362</guid>
-            <pubDate>Wed, 10 Dec 2025 22:47:09 GMT</pubDate>
+            <title><![CDATA[【军工装备板块短线拉升 隆达股份涨超10%】军工装备板块短线拉升，隆达股份涨超10%，中国卫星、航天电子、中国卫通、航天宏图、光启技术等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakwak9137990.d.html</link>
+            <guid>4548594</guid>
+            <pubDate>Thu, 11 Dec 2025 01:37:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【Gemini获得CFTC关键批准，公司着眼于预测市场】Gemini Space Station Inc.的衍生品交易所申请已获得美国商品期货交易委员会(CFTC)的批准。Gemini尚未公开表示计划在该交易所交易哪些产品，但在监管文件中提到了涵盖各种预测的预测市场。此次批准使得Gemini有可能加入预测市场领域，并扩大业内原生加密公司的数量。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakmnn9871166.d.html</link>
-            <guid>4548361</guid>
-            <pubDate>Wed, 10 Dec 2025 22:45:54 GMT</pubDate>
+            <title><![CDATA[【冰雪产业板块盘初走弱，舒华体育跌停】冰雪产业板块盘初走弱，舒华体育跌停，凯文教育、通达创智、欧亚集团、天府文旅、三夫户外、中体产业等跟跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakrun9267041.d.html</link>
+            <guid>4548592</guid>
+            <pubDate>Thu, 11 Dec 2025 01:35:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【12月11日隔夜要闻一览】
-1、美联储再降息25基点，3人反对。特朗普仍不满意，鲍威尔排除加息可能。
-2、特朗普本周将启动美联储主席候选人最终面试。摩根大通全球固收主管称，哈塞特的美联储主席提名并非百分之百确定。
-3、美国财政部表示，美国政府11月预算赤字降至1730亿美元。11月份的支出总额为5090亿美元，低于2024年11月的6690亿美元。
-4、Meta人工智能方向转向闭源模式，据悉训练模型的工具包括通义千问。
-5、甲骨文季度营收和利润不及预期，盘后股价大跌。
-6、美国允许卢克石油海外资产谈判延期至1月17日。
-7、奈飞720亿美元收购华纳兄弟的交易遭遇集体诉讼。
-8、若SpaceX以1.5万亿美元估值上市，马斯克有望成为全球首位万亿富豪。
-9、美国宣布军方和执法机构在委内瑞拉附近扣押一艘油轮。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakmnn9871052.d.html</link>
-            <guid>4548360</guid>
-            <pubDate>Wed, 10 Dec 2025 22:44:51 GMT</pubDate>
+            <title><![CDATA[【储能概念异动拉升 通润装备涨停】早盘储能概念异动拉升，通润装备涨停，南都电源、能辉科技、苏文电能、昇辉科技跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakrun9266860.d.html</link>
+            <guid>4548591</guid>
+            <pubDate>Thu, 11 Dec 2025 01:35:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【离岸债券受追捧，助力金融高水平对外开放】12月10日，财政部在香港特别行政区成功发行2025年第六期人民币国债，发行规模为70亿元，认购倍数达5.22。至此，2025年在香港分六期发行的680亿元人民币国债全部发行完毕，较2024年的550亿元大幅提升。专家表示，今年以来，我国离岸债券获得国际投资机构广泛认可，传递出全球对中国经济韧性的信心，助推我国金融高水平对外开放。展望2026年，我国离岸债券发行有望实现量质齐升，需进一步构建跨周期发行机制，通过灵活选择发行窗口与规模，维持供给的可预期性与价格的稳定性。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakmns8261559.d.html</link>
-            <guid>4548359</guid>
-            <pubDate>Wed, 10 Dec 2025 22:38:33 GMT</pubDate>
+            <title><![CDATA[福建板块盘初走低，欣贺股份、舒华体育跌停，德艺文创跌超10%，新华都、安记食品、中国武夷、海欣食品、厦门空港等跌超7%。]]></title>
+            <guid>4548590</guid>
+            <pubDate>Thu, 11 Dec 2025 01:34:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【一“芯”难求 + 全球抢单，中国锂电产业链开启新一轮“价值跃迁”】今年下半年以来，从上游的正极材料、电解液、铜箔，到终端的电芯与储能系统，一场以“锁量”为核心的订单潮席卷产业链，产能紧俏、价格跳涨已成为常态。与此同时，行业龙头正通过技术迭代和全球化布局，开拓增量市场，抢占技术制高点。业内预计，在储能需求爆发与全球能源转型的双重机遇下，中国锂电企业依托技术与产能优势，将进一步提高全球产业话语权，重塑全球产业竞争格局。 12月9日，国内锂电池厂商德加能源发布通知，宣布因上游原材料价格持续上涨，电池生产成本提升，公司决定自12月16日起对旗下电池系列产品售价上调15%。同日，孚能科技也向市场透露：公司正在和客户沟通涨价事宜，部分产品已经实现涨价。其还表示“当前部分原材料价格有所上涨，叠加市场需求持续扩大，锂电池价格上涨是行业趋势”。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakmns8261261.d.html</link>
-            <guid>4548358</guid>
-            <pubDate>Wed, 10 Dec 2025 22:36:33 GMT</pubDate>
+            <title><![CDATA[博纳影业触及涨停录得四连板，成交额7.84亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakruk9789477.d.html</link>
+            <guid>4548589</guid>
+            <pubDate>Thu, 11 Dec 2025 01:34:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【AIDC储能2030年出货量或达今年20倍】12月10日，在2025第四届高工储能年会上，高工产业研究院（GGII）发布《2025年中国AIDC储能行业发展蓝皮书》。GGII分析称，全球AIDC（人工智能数据中心）储能市场正迎来爆发式增长，预计到2030年AIDC储能锂电池出货量将突破300GWh，相当于2025年15GWh的20倍。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakmnn9869976.d.html</link>
-            <guid>4548357</guid>
-            <pubDate>Wed, 10 Dec 2025 22:36:16 GMT</pubDate>
+            <title><![CDATA[【英特尔对欧盟反垄断裁决败诉，罚款削减至2.37亿欧元】英特尔对两年前因阻碍竞争对手而被欧盟处以3.76亿欧元的反垄断罚款的诉讼败诉，但欧洲第二高法院将罚款削减三分之一。该笔罚款涉及英特尔在2002年11月至2006年12月期间向惠普、宏碁等支付款项，以阻止或延迟竞争对手的产品上市。法院维持欧盟委员会2023年对英特尔的决定，但将罚款减少约1.4亿欧元。法官表示，2.37亿欧元的罚款更能适当反映所涉违规行为的严重性和持续时间，受英特尔限制影响的计算机数量相对有限，且某些反竞争行为之间相隔12个月。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakrur8409245.d.html</link>
+            <guid>4548588</guid>
+            <pubDate>Thu, 11 Dec 2025 01:34:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国众议院以 312 票赞成、112 票反对的结果通过 9010 亿美元《国防授权法案》（NDAA），下一步将提交参议院审议。]]></title>
-            <guid>4548356</guid>
-            <pubDate>Wed, 10 Dec 2025 22:35:51 GMT</pubDate>
+            <title><![CDATA[碳酸锂连续主力合约日内涨2%，现报97080.00元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakruk9789066.d.html</link>
+            <guid>4548587</guid>
+            <pubDate>Thu, 11 Dec 2025 01:34:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美联储今年第三次降息25个基点 特朗普：幅度可以更大】当地时间10日，美国联邦储备委员会结束为期两天的货币政策会议，宣布将联邦基金利率目标区间下调25个基点到3.50%至3.75%之间。这是美联储继今年第三次降息，也是自2024年9月以来第六次降息。经济前景不确定性较高，就业下行风险增加。10日，美联储决策机构联邦公开市场委员会在会后发表声明称，现有指标表明美国经济活动一直以温和的速度扩张，今年就业增长放缓，失业率略有上升，通胀率自年初以来有所上升，目前仍处于较高水平。经济前景的不确定性依然较高，近几个月就业面临的下行风险有所增加。鉴于风险平衡变化，决定将联邦基金利率目标区间下调25个基点。此前，美联储官员就关税政策对通胀的影响以及是否在12月进一步降息存在分歧，但美国就业市场数据恶化推高了降息预期。对此，特朗普表示，经济增长并不意味着通货膨胀，即使出现通货膨胀也没关系，可以减缓通货膨胀。特朗普还说，降息幅度太小，本可以更大。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakmnn9869688.d.html</link>
-            <guid>4548355</guid>
-            <pubDate>Wed, 10 Dec 2025 22:34:09 GMT</pubDate>
+            <title><![CDATA[【嘉和美康等在河南成立科技公司，注册资本1亿】天眼查App显示，12月9日，嘉和智健（河南）科技有限公司成立，法定代表人为边卫斌，注册资本1亿人民币，经营范围包括智能机器人的研发、人工智能基础软件开发、人工智能理论与算法软件开发等，由北京星动纪元科技有限公司、郑州航空港科技资本集团有限公司、郑州亨健利智企业管理合伙企业（有限合伙）、嘉和美康（688246）共同持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakruk9787877.d.html</link>
+            <guid>4548586</guid>
+            <pubDate>Thu, 11 Dec 2025 01:33:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国银行将优惠贷款利率下调至 6.75%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakmns8260814.d.html</link>
-            <guid>4548354</guid>
-            <pubDate>Wed, 10 Dec 2025 22:32:34 GMT</pubDate>
+            <title><![CDATA[【商业航天概念反复走强 再升科技4连板】商业航天概念反复走强，再升科技4连板，华菱线缆、四川金顶涨停，中超控股、广联航空、鸿远电子、天力复合跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakrun9264841.d.html</link>
+            <guid>4548585</guid>
+            <pubDate>Thu, 11 Dec 2025 01:32:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【周四重要财经信息提醒（以下均为北京时间）】
-① 07:50 日本四季度BSI大型制造业信心指数；
-② 08:30 澳大利亚发布11月就业报告（含就业人口、失业率）；
-③ 时间待定 2025算力产业生态高质量发展大会；
-④ 15:00 中国商务部召开12月第2次例行新闻发布会；
-⑤ 16:30 瑞士央行公布利率决议；
-⑥ 17:00 瑞士央行行长Schlegel召开新闻发布会，国际能源署（IEA）发布月度原油市场报告；
-⑦ 17:50 英国央行行长贝利在英国金融时报预先录制的炉边闲聊中讲话，话题与全球金融稳定性有关；
-⑧ 18:00 英国央行行长贝利在“英国新冠问询”中展示证据；
-⑨ 时间待定 石油输出国组织（OPEC，欧佩克）公布月度原油市场报告；
-⑩ 20:00 乌克兰央行公布利率决议；
-⑪ 21:30 美国12月6日当周首次申请失业救济人数、9月贸易帐，加拿大9月贸易帐；
-⑫ 次日01:00 美联储公布2025年第三季资金流动报告中的美国家庭财务健康状况数据；
-⑬ 美股盘后 博通发布业绩报告。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakmns8260626.d.html</link>
-            <guid>4548353</guid>
-            <pubDate>Wed, 10 Dec 2025 22:31:13 GMT</pubDate>
+            <title><![CDATA[【百货零售板块短线走低】百货零售板块短线走低，中央商场跌超8%，中百集团、国光连锁、广百股份、三江购物等跟跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakruk9787228.d.html</link>
+            <guid>4548584</guid>
+            <pubDate>Thu, 11 Dec 2025 01:32:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[甲骨文：部分客户将自行提供芯片。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakmnn9869092.d.html</link>
-            <guid>4548352</guid>
-            <pubDate>Wed, 10 Dec 2025 22:30:22 GMT</pubDate>
+            <title><![CDATA[【英思特：机器人相关业务进展顺利 部分产品已实现小批量交付】英思特(301622)在机构调研中表示，在机器人领域，公司已开展前瞻性的技术储备与产品研发，并组建了专业的技术团队。目前，相关业务进展顺利，部分产品已实现小批量交付，同时也在与部分机器人电机厂商进行样品测试与开发，为未来该领域的市场拓展奠定基础。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakruk9787115.d.html</link>
+            <guid>4548583</guid>
+            <pubDate>Thu, 11 Dec 2025 01:32:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国众议院多数议员支持9010亿美元的国防政策法案，投票仍在继续。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakmnn9868874.d.html</link>
-            <guid>4548351</guid>
-            <pubDate>Wed, 10 Dec 2025 22:27:48 GMT</pubDate>
+            <title><![CDATA[【通信网络设备及器件板块短线走低】通信网络设备及器件板块短线走低，中兴通讯跌超5%，联特科技、天孚通信、长芯博创、太辰光等走低。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakruk9786721.d.html</link>
+            <guid>4548582</guid>
+            <pubDate>Thu, 11 Dec 2025 01:31:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【墨西哥总统重申国家主权 回应美国军事干预威胁】当地时间12月10日，墨西哥总统辛鲍姆发表讲话重申国家主权，拒绝此前美国总统特朗普提出的在墨西哥领土进行军事干预的可能性。辛鲍姆强调，墨西哥是一个主权国家，“绝不容忍外国干预”，且军事行动并无必要，绝对不会发生。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakmnn9868683.d.html</link>
-            <guid>4548350</guid>
-            <pubDate>Wed, 10 Dec 2025 22:24:57 GMT</pubDate>
+            <title><![CDATA[【海光信息：深算三号已投入市场并获客户认可，深算四号研发进展顺利】海光信息在投资者互动平台回答称，深算三号已经投入市场，受到客户认可。新一代产品深算四号研发进展顺利。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakrun9263893.d.html</link>
+            <guid>4548581</guid>
+            <pubDate>Thu, 11 Dec 2025 01:31:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【阿联酋央行宣布降息25个基点】当地时间12月10日，在美联储宣布降息25个基点后，阿联酋央行宣布将其基准利率降低25个基点到3.65%。从1997年起，阿联酋就将其货币迪拉姆紧盯美元。因此，美联储每次利率变动后阿联酋央行都会跟着调整其利率。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-11/detail-inhakmnn9868605.d.html</link>
-            <guid>4548349</guid>
-            <pubDate>Wed, 10 Dec 2025 22:24:02 GMT</pubDate>
+            <title><![CDATA[恒生指数涨超1%，现报25801.340点；恒生科技指数现涨0.818%。]]></title>
+            <guid>4548580</guid>
+            <pubDate>Thu, 11 Dec 2025 01:30:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
