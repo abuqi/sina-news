@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 13 Dec 2025 20:26:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Dec 2025 21:21:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【联合国维和部队在苏丹遇袭 6人死亡】当地时间13日，苏丹武装部队发表声明称，联合国阿卜耶伊临时安全部队在南科尔多凡州的设施当天遭快速支援部队无人机袭击，造成6人死亡、7人受伤，死伤者均为孟加拉国籍维和军人。快速支援部队对此予以否认。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-14/detail-inhatart3939775.d.html</link>
+            <guid>4554313</guid>
+            <pubDate>Sat, 13 Dec 2025 20:42:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国与墨西哥达成供水协议，此前特朗普威胁要加征5%的关税】美国与墨西哥围绕如何解决（与得州接壤的）Rio Grande水资源纠纷达成协议。自12月15日开始，墨西哥将向美方额外输送20.2万英亩英尺的水。协议寻求按照1944年水条约框架“加强Rio Grande盆地的水资源管理”。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-14/detail-inhatarv5660063.d.html</link>
+            <guid>4554312</guid>
+            <pubDate>Sat, 13 Dec 2025 20:35:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国交通部长达菲：美联航803航班出现故障的飞机引擎局部起火。该航班（返飞并）安全着陆，目前掌握的情况是机上无人受伤。]]></title>
             <guid>4554311</guid>
@@ -19,11 +31,6 @@
             <link>https://finance.sina.cn/7x24/2025-12-14/detail-inhatarr5450074.d.html</link>
             <guid>4554310</guid>
             <pubDate>Sat, 13 Dec 2025 20:13:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苏丹武装部队13日发表声明说，联合国阿卜耶伊临时安全部队在南科尔多凡州的设施当天遭准军事组织快速支援部队无人机袭击，造成6人死亡、7人受伤，死伤者均为孟加拉国籍维和军人。快速支援部队对此予以否认。（新华国际）]]></title>
-            <guid>4554309</guid>
-            <pubDate>Sat, 13 Dec 2025 20:10:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【美一客机起飞时引燃灌木丛】当地时间12月13日中午，美国联合航空公司从华盛顿杜勒斯国际机场飞往日本东京羽田机场的UA803号航班，在起飞时疑似遭遇发动机问题，引发跑道沿线灌木丛起火。这架波音777-200型客机随即飞往弗吉尼亚州弗雷德里克斯堡上空进行空中放油，之后返航。机上人员据称无伤亡。 跑道旁灌木丛起火据推测是由飞机起飞滑跑过程中发动机故障产生的碎片或火焰所引发。目前相关跑道已被关闭。事故原因还在进一步调查中。（CCTV国际时讯）]]></title>
@@ -288,11 +295,6 @@
             <title><![CDATA[以色列官员：以色列未向特朗普政府通报在加沙地区针对哈马斯领导人拉伊德·萨阿德（Raed Saad）的暗杀企图。（Axios新闻网）]]></title>
             <guid>4554262</guid>
             <pubDate>Sat, 13 Dec 2025 14:26:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴勒斯坦媒体：以色列对加沙城以西一辆汽车的空袭已造成 4 人死亡，另有超过 20 人受伤。]]></title>
-            <guid>4554261</guid>
-            <pubDate>Sat, 13 Dec 2025 14:25:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
