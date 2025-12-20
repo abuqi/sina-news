@@ -4,13 +4,89 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 20 Dec 2025 14:22:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Dec 2025 15:23:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[蓝色起源公司的火箭搭载着太空旅游团队升空。]]></title>
+            <title><![CDATA[巴西总统卢拉：对委内瑞拉进行军事干预将会造成灾难性后果。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-20/detail-inhcniqv5869706.d.html</link>
+            <guid>4567873</guid>
+            <pubDate>Sat, 20 Dec 2025 15:13:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其安全消息人士称，土耳其情报部门负责人与哈马斯代表团讨论了推进加沙和平计划第二阶段需采取的措施。]]></title>
+            <guid>4567871</guid>
+            <pubDate>Sat, 20 Dec 2025 15:11:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[埃及计划在 2030 至 2031 年期间将埃及航空公司的机队规模扩大至 97 架飞机。]]></title>
+            <guid>4567861</guid>
+            <pubDate>Sat, 20 Dec 2025 14:54:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【南非一酒庄发生火灾 百年历史建筑被烧毁】当地时间20日下午，位于南非西开普省帕尔的著名拉博里（Laborie）酒庄发生严重火灾，一座拥有约300年历史的开普荷兰式历史建筑被大火完全烧毁。据悉，拉博里酒庄始建于1691年，是南非历史最悠久的酒庄之一。目前暂无人员伤亡报告，起火原因仍在调查当中。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-20/detail-inhcniqx4355902.d.html</link>
+            <guid>4567860</guid>
+            <pubDate>Sat, 20 Dec 2025 14:54:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴西总统卢拉：武装干预委内瑞拉将带来人道主义灾难】巴西总统卢拉20日表示，武装干预委内瑞拉将带来人道主义灾难。南方共同市场（南共市）第67次首脑会议20日在巴西南部城市福斯-杜伊瓜苏举行。卢拉在会议上发表讲话时提到了美国对委内瑞拉的军事威胁和海上封锁，并指出当前国际法的底线正受到考验，“对委内瑞拉进行武装干预将是西半球的人道主义灾难，并将为世界开创危险的先例”。卢拉说：“在马岛战争结束40多年后，南美再次因一个域外强权的军事存在而蒙上阴影。”]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-20/detail-inhcniqx4355096.d.html</link>
+            <guid>4567859</guid>
+            <pubDate>Sat, 20 Dec 2025 14:48:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中信建投：继续看好AI算力板块】中信建投研报认为，AI大模型仍在持续迭代升级，竞争远未结束，算力需求旺盛，继续看好AI算力板块。北美链继续看好之外，国内链也建议重视，一方面国内链公司前期调整较多，而北美链光模块公司近期已纷纷新高，另一方面随着国产GPU能力及供给量的提升以及H200的放开，有望加速国内AI算力基础设施的部署节奏。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-20/detail-inhcniqv5865904.d.html</link>
+            <guid>4567858</guid>
+            <pubDate>Sat, 20 Dec 2025 14:45:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国一网球运动员因操纵比赛被禁赛12年】国际网球诚信机构（ITIA）20日确认，中国网球运动员逄仁龙因操纵或企图操纵比赛，被处以禁赛12年并罚款11万美元（其中7万美元暂缓执行）的处罚。中国网球协会20日晚间发布声明称：“中国网球协会作为全国性行业管理组织，坚决反对任何形式破坏行业风气、破坏公平竞争的行为，我们将依据运动员违法违规事实，按照国家法律法规和行业管理规定对其做出进一步处理。”（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-20/detail-inhcniqv5865233.d.html</link>
+            <guid>4567857</guid>
+            <pubDate>Sat, 20 Dec 2025 14:39:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今年前11个月，横琴口岸过关人数超2755万人】今年11月5日，横琴口岸旅检大厅和随车人员验放厅的64条合作智能快捷通道正式启用，琴澳跨境通关实现“刷脸”通行。据珠海边检总站横琴边检站统计，今年以来截至11月30日，经横琴口岸通关的出入境旅客超2755万人次，同比增长32.8%，高效的通关效率从容承接了客流的大幅攀升。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-20/detail-inhcnirc1019803.d.html</link>
+            <guid>4567856</guid>
+            <pubDate>Sat, 20 Dec 2025 14:33:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【芯和半导体完成IPO辅导】12月20日，中国证监会官网披露，芯和半导体科技（上海）股份有限公司及其辅导券商中信证券向上海证监局提交了辅导工作完成报告。中信证券在结论中写道：经辅导，中信证券认为，辅导对象具备成为上市公司应有的公司治理结构、会计基础工作、内部控制制度，充分了解多层次资本市场各板块的特点和属性；辅导对象及其董事、高级管理人员、持有百分之五以上股份的股东和实际控制人（或其法定代表人）已全面掌握发行上市、规范运作等方面的法律法规和规则、知悉信息披露和履行承诺等方面的责任和义务，树立了进入证券、市场的诚信意识、自律意识和法治意识。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-20/detail-inhcniqx4352920.d.html</link>
+            <guid>4567855</guid>
+            <pubDate>Sat, 20 Dec 2025 14:32:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【长安汽车获得首块L3级自动驾驶专用正式号牌】据长安汽车消息，12月20日，首块L3级自动驾驶专用正式号牌“渝AD0001Z”在重庆诞生，由重庆市公安局交通管理总队正式授予长安汽车，标志着长安汽车率先开启L3级自动驾驶时代。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-20/detail-inhcniqx4352633.d.html</link>
+            <guid>4567854</guid>
+            <pubDate>Sat, 20 Dec 2025 14:30:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【安徽建工集团与华为公司签订战略合作协议】近日，安徽建工集团党委书记、董事长杨善斌率队拜访华为技术有限公司，与华为公司副总裁刘超举行工作座谈，双方围绕产业务实合作深入交流并共同见证战略合作协议签订。刘超指出，期待与安徽建工集团携手并肩，发挥各自优势，在智能化、数字化转型等关键领域深化务实合作，共同探索产业协同发展的新路径、新模式。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-20/detail-inhcniqz6376549.d.html</link>
+            <guid>4567853</guid>
+            <pubDate>Sat, 20 Dec 2025 14:29:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[蓝色起源的火箭和太空舱在得克萨斯州着陆。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-20/detail-inhcnirc1018554.d.html</link>
+            <guid>4567852</guid>
+            <pubDate>Sat, 20 Dec 2025 14:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【老挝首条高速公路通车五周年 服务社会车辆超2725万辆次】20日是老挝首条高速公路——中老高速公路万象至万荣段通车五周年，其中方投资建设运营公司云南省建设投资控股集团有限公司当日对外通报，5年来这段高速公路累计服务社会车辆超2725万辆次。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-20/detail-inhcniqv5862908.d.html</link>
+            <guid>4567851</guid>
+            <pubDate>Sat, 20 Dec 2025 14:23:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【蓝色起源公司的火箭搭载着太空旅游团队升空】蓝色起源计划将六名乘客送往太空边缘，这将创造历史性里程碑，首次有轮椅使用者体验太空飞行。机组成员中包括米夏埃拉·本特豪斯，她是欧洲航天局的航空航天和机电一体化工程师，在2018年一次山地自行车事故导致脊髓损伤后开始使用轮椅。本特豪斯此前曾于2022年完成零重力研究飞行和一次模拟宇航员任务。此次飞行还包括汉斯·科尼希斯曼，他是一位资深航空航天工程师，曾在SpaceX担任首批团队成员之一长达二十年。其他乘客包括：物理学家和前对冲基金投资者乔伊·海德，担任杰克逊实验室董事会主席的商业高管尼尔·米尔奇，自然资源和能源板块的企业家阿多尼斯·普鲁利斯，以及来自德克萨斯州西部的计算机科学毕业生杰森·斯坦塞尔。]]></title>
             <link>https://finance.sina.cn/7x24/2025-12-20/detail-inhcniqv5862037.d.html</link>
             <guid>4567850</guid>
             <pubDate>Sat, 20 Dec 2025 14:17:22 GMT</pubDate>
@@ -226,81 +302,6 @@
             <link>https://finance.sina.cn/7x24/2025-12-20/detail-inhcnchx5980067.d.html</link>
             <guid>4567812</guid>
             <pubDate>Sat, 20 Dec 2025 12:50:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本根室半岛近海海域发生5.2级地震】据日本气象厅发布，当地时间20日21时33分左右，日本根室半岛东南近海海域发生5.2级地震，最大震感为3，震源深度极浅。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-20/detail-inhcnchz4468297.d.html</link>
-            <guid>4567811</guid>
-            <pubDate>Sat, 20 Dec 2025 12:47:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其外交部：土耳其、美国、卡塔尔和埃及的代表昨日在迈阿密市会面，讨论了确保让加沙地带居民自行管理该地区的相关安排事宜。会议讨论了完成《加沙协议》第一阶段内容的落实工作，讨论了向加沙协议第二阶段过渡的相关事宜，讨论了在加沙组建国际部队及和平委员会的事宜。]]></title>
-            <guid>4567810</guid>
-            <pubDate>Sat, 20 Dec 2025 12:43:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【民调显示多数德国人支持政府严控移民】德国20日发布的一项最新民意调查结果显示，多数德国人支持内政部长亚历山大·多布林特以严控移民为政策目标。该民调由德新社委托舆观调查公司完成，于本月12日至15日以超过2100名合格选民为调查对象。被问及是否支持多布林特的政策目标时，53%的调查对象表示“完全支持”，23%表示“相当支持”；选择“完全反对”和“相当反对”的调查对象占15%；无法给出明确答案或未予回答者占9%。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-20/detail-inhcnchx5977785.d.html</link>
-            <guid>4567809</guid>
-            <pubDate>Sat, 20 Dec 2025 12:37:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家药监局召开新一届法律顾问座谈会】12月20日，国家药监局举行法律顾问聘任仪式，为新一届法律顾问颁发聘书，并围绕推进药品监管法治建设进行座谈交流。国家药监局党组成员、副局长徐景和出席会议并讲话。会议指出，国家药监局高度重视法律顾问选聘工作，充分发挥法律顾问专业支持作用，近年来，药品监管法治建设能力水平持续提升。新时代新征程，药品监管法治工作任重道远，面对新形势新任务，希望法律顾问继续发挥“智囊团”作用，深度参与立法和制度建设、执法和疑难案件处置、前沿问题研究和普法宣传等工作，协力提升药品监管工作法治化水平，助力药品监管事业再上新台阶。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-20/detail-inhcncic6483371.d.html</link>
-            <guid>4567808</guid>
-            <pubDate>Sat, 20 Dec 2025 12:35:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【第二十二届中国·满洲里中俄蒙国际冰雪节开幕】12月20日晚，第二十二届中国·满洲里中俄蒙国际冰雪节(简称冰雪节)在内蒙古自治区满洲里市城中草原“冰雪芳华”主题乐园开幕。本届冰雪节期间，满洲里市还打造了魅力银冬文旅商品大集，40余家中俄蒙企业参展，一些企业通过直播开展线上促销，力争能多一分收获。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-20/detail-inhcncic6483247.d.html</link>
-            <guid>4567807</guid>
-            <pubDate>Sat, 20 Dec 2025 12:34:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【冰雪之约引客来 哈尔滨直飞越南两条包机航线正式通航】来自越南旅行商团的220名游客，搭乘首班航班从越南河内于20日凌晨抵达哈尔滨。为满足冰雪季东南亚旅客来哈赏冰乐雪需求，2025年12月19日-2026年1月30日，哈尔滨机场开通越南胡志明、河内两条国际直飞包机航线。两条航线均由越南越捷航空321机型承运，共执行19班，其中胡志明9班、河内10班。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-20/detail-inhcnchz4465920.d.html</link>
-            <guid>4567806</guid>
-            <pubDate>Sat, 20 Dec 2025 12:33:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【包钢集团与中国二十二冶集团签署战略合作协议】12月19日，包钢集团与中国二十二冶集团在唐山市签署战略合作协议。中国二十二冶集团党委书记、董事长袁斯浪说，希望双方以此次合作为契机，在节能环保、装备制造、“钢铁+”产业链延伸等方面精准对接，共同打造产业合作新格局，助力“中国制造”迈向更高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-20/detail-inhcnchz4465707.d.html</link>
-            <guid>4567805</guid>
-            <pubDate>Sat, 20 Dec 2025 12:32:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四川青峪口水库首台发电机组启动安装】12月20日，由中铁十一局承建的四川青峪口水库项目3号机组座环、蜗壳顺利吊装，标志着该工程首台水轮发电机组进入核心部件安装阶段。该项目将安装3台容量为6.67兆瓦水轮发电机组，总装机容量20兆瓦，兼具防洪、供水和发电功能。青峪口水库位于四川省巴中市通江县，是国家150项重大水利工程、国家“十四五”规划102项重大工程之一。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-20/detail-inhcnchx5976646.d.html</link>
-            <guid>4567804</guid>
-            <pubDate>Sat, 20 Dec 2025 12:30:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南水北调东线工程冰期输水21日启动】记者从中国南水北调集团获悉，12月21日，南水北调东线工程2025—2026年度冰期输水正式启动，预计于2026年2月结束。 作为缓解我国北方地区水资源严重短缺局面的战略性基础设施，“十四五”期间，东线工程已连续5年顺利完成冰期输水任务，累计冰期调水约9.61亿立方米，有力确保了极端寒潮天气下的供水稳定，保障了沿线地区生活、工业、农业及生态等用水需求，有效破解了冬春缺水难题。 （北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-20/detail-inhcnchx5976554.d.html</link>
-            <guid>4567803</guid>
-            <pubDate>Sat, 20 Dec 2025 12:30:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【陈文清在江苏调研时表示 学习好贯彻好习近平总书记重要指示精神 推动江苏政法工作在全国走在前当表率】中共中央政治局委员、中央政法委书记陈文清18日至19日在江苏调研时表示，江苏政法机关要学习好贯彻好习近平总书记在党的二十届四中全会、中央经济工作会议上的重要讲话精神，学习好贯彻好习近平总书记关于全面依法治国的重要指示和中央全面依法治国工作会议精神，学习好贯彻好习近平总书记关于江苏工作的重要指示精神，牢记嘱托、感恩奋进，推动江苏政法工作在全国走在前、当表率。（新华社）]]></title>
-            <guid>4567802</guid>
-            <pubDate>Sat, 20 Dec 2025 12:28:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2025年度泉金“小三通”客运航线出入境旅客破10万】12月20日，随着搭载203名旅客的“八方”轮驶离福建泉州泉金“小三通”客运码头前往金门，至此，泉金“小三通”客运航线2025年度出入境旅客量正式突破10万人次。据统计，2025年泉金航线出入境旅客总量较去年同期增长近150%，其中台胞占比超五成，商务、探亲、寻根等两岸交流往来日益密切。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-20/detail-inhcnchx5975277.d.html</link>
-            <guid>4567801</guid>
-            <pubDate>Sat, 20 Dec 2025 12:19:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国特使访柬推动柬泰停火】据路透社12月20日报道，柬埔寨外交与国际合作部20日表示，中国外交部亚洲事务特使邓锡军本周访问金边，推动缓和柬埔寨与泰国两国边境的交火。 报道称，邓锡军此次访问正值美国和中国重启斡旋努力，推动柬泰两国停火之际。东盟将就此事于22日召开特别会议。 柬埔寨外交与国际合作部在一份声明中说，中方重申“将继续发挥建设性作用，推动柬埔寨同泰国开展对话，以期促进争端和平解决”。（参考消息）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-20/detail-inhcncic6479336.d.html</link>
-            <guid>4567800</guid>
-            <pubDate>Sat, 20 Dec 2025 12:11:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士称，意大利最高法院在1998年特许权费案件中作出有利于意大利电信（TIM）的裁决。]]></title>
-            <guid>4567799</guid>
-            <pubDate>Sat, 20 Dec 2025 12:10:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
