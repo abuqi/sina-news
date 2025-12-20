@@ -4,11 +4,29 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 20 Dec 2025 20:26:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Dec 2025 21:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国众议院方案拟为稳定币及加密货币质押寻求税收“避风港”】美国众议院的一对两党组合正在制定一项加密货币税收框架。该框架将为部分稳定币交易提供“避风港”，并推迟对通过验证区块链交易获得的奖励（质押奖励）征税。该草案建议：涉及受监管、挂钩美元且价值低于200美元的稳定币交易将免征资本利得税；同时，纳税人可选择将奖励的纳税时间推迟五年。此项提案将把加密货币纳入管理证券（在某些情况下为大宗商品交易）的税收制度中，并允许加密货币交易者使用“按市值计价”（Mark-to-market）的会计处理方法。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-21/detail-inhcnynr3997498.d.html</link>
+            <guid>4567959</guid>
+            <pubDate>Sat, 20 Dec 2025 21:10:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国土安全部长：美国扣押了一艘最近在委内瑞拉停靠过的油轮。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-21/detail-inhcnynt6027847.d.html</link>
+            <guid>4567958</guid>
+            <pubDate>Sat, 20 Dec 2025 20:58:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【智利北部地区发生5.2级地震】智利大学地震中心报告，当地时间12月20日17时50分，智利北部地区发生5.2级地震，震源深度153公里。目前暂无人员伤亡及财产损失报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-21/detail-inhcnynt6027751.d.html</link>
+            <guid>4567957</guid>
+            <pubDate>Sat, 20 Dec 2025 20:55:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：斯塔默考虑对哈马斯领导人实施制裁。]]></title>
             <link>https://finance.sina.cn/7x24/2025-12-21/detail-inhcnynx9392105.d.html</link>
@@ -283,24 +301,6 @@
             <link>https://finance.sina.cn/7x24/2025-12-20/detail-inhcniqx4352920.d.html</link>
             <guid>4567855</guid>
             <pubDate>Sat, 20 Dec 2025 14:32:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【长安汽车获得首块L3级自动驾驶专用正式号牌】据长安汽车消息，12月20日，首块L3级自动驾驶专用正式号牌“渝AD0001Z”在重庆诞生，由重庆市公安局交通管理总队正式授予长安汽车，标志着长安汽车率先开启L3级自动驾驶时代。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-20/detail-inhcniqx4352633.d.html</link>
-            <guid>4567854</guid>
-            <pubDate>Sat, 20 Dec 2025 14:30:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【安徽建工集团与华为公司签订战略合作协议】近日，安徽建工集团党委书记、董事长杨善斌率队拜访华为技术有限公司，与华为公司副总裁刘超举行工作座谈，双方围绕产业务实合作深入交流并共同见证战略合作协议签订。刘超指出，期待与安徽建工集团携手并肩，发挥各自优势，在智能化、数字化转型等关键领域深化务实合作，共同探索产业协同发展的新路径、新模式。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-20/detail-inhcniqz6376549.d.html</link>
-            <guid>4567853</guid>
-            <pubDate>Sat, 20 Dec 2025 14:29:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[蓝色起源的火箭和太空舱在得克萨斯州着陆。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-20/detail-inhcnirc1018554.d.html</link>
-            <guid>4567852</guid>
-            <pubDate>Sat, 20 Dec 2025 14:27:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
