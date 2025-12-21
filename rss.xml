@@ -4,13 +4,25 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 21 Dec 2025 16:30:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Dec 2025 17:21:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[美国媒体21日以不愿公开姓名的知情人士为消息源报道，美方人员当天在委内瑞拉附近国际水域拦截第三艘油轮并登船检查。（新华社）]]></title>
+            <title><![CDATA[【乌克兰谈判代表：将与美方团队举行新一轮安全磋商】当地时间12月21日，正在美国访问的乌克兰国家安全与国防委员会秘书乌梅罗夫在社交媒体表示，当天将与乌克兰武装部队总参谋长格纳托夫一同与美国方面举行新一轮安全磋商，乌方正以建设性且务实的态度开展工作，并期待此次会谈能取得进一步进展和务实成果。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-22/detail-inhcqxec6883977.d.html</link>
+            <guid>4568892</guid>
+            <pubDate>Sun, 21 Dec 2025 16:44:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[芬兰总统斯图布：认同俄罗斯无意进攻北约的观点，乌克兰和平谈判仍剩 “最艰难的 5%” 待推进。]]></title>
+            <guid>4568890</guid>
+            <pubDate>Sun, 21 Dec 2025 16:44:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美在委内瑞拉附近拦截第三艘油轮】美国媒体21日以不愿公开姓名的知情人士为消息源报道，美方人员当天在委内瑞拉附近国际水域拦截第三艘油轮并登船检查。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-22/detail-inhcqxec6882271.d.html</link>
             <guid>4568875</guid>
             <pubDate>Sun, 21 Dec 2025 16:28:06 GMT</pubDate>
         </item>
@@ -296,18 +308,6 @@
             <link>https://finance.sina.cn/7x24/2025-12-21/detail-inhcqnqa9953276.d.html</link>
             <guid>4568822</guid>
             <pubDate>Sun, 21 Dec 2025 13:48:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[哈塞特：法院不太可能要求广泛退还关税。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-21/detail-inhcqnqa9953208.d.html</link>
-            <guid>4568821</guid>
-            <pubDate>Sun, 21 Dec 2025 13:48:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[哈塞特：我们预计最高法院会在关税案上支持我们。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-21/detail-inhcqnqi7120633.d.html</link>
-            <guid>4568820</guid>
-            <pubDate>Sun, 21 Dec 2025 13:46:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
