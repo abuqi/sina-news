@@ -4,11 +4,22 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 27 Dec 2025 18:35:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Dec 2025 19:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【将引入私人投资 加州撤回起诉美联邦政府取消高铁拨款】当地时间12月27日获悉，美国加利福尼亚州已正式撤回此前针对美联邦政府的诉讼，不再挑战联邦政府取消超过40亿美元加州高铁项目拨款的决定。加州高铁管理局表示，放弃诉讼的原因在于州政府评估认为，“联邦政府已不再是推进加州高铁项目时一个可靠、建设性和值得信任的合作伙伴”。该机构称，未来将继续推进项目，但不再依赖联邦资金支持。目前该高铁项目仅约18%的支出来自联邦资金。加州高铁管理局称，已启动引入私人投资者和开发商的程序，计划于2026年夏季前完成相关布局。同时，加州已在今年9月通过立法，确保该项目每年可获得10亿美元资金支持，持续至2045年。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-28/detail-inhehpya9375751.d.html</link>
+            <guid>4580117</guid>
+            <pubDate>Sat, 27 Dec 2025 19:01:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟重申，将依据索马里宪法、非洲联盟宪章及联合国宪章，尊重索马里的国家统一、主权与领土完整。欧盟呼吁索马里兰与索马里联邦政府开展实质性对话，以解决双方长期存在的分歧。]]></title>
+            <guid>4580087</guid>
+            <pubDate>Sat, 27 Dec 2025 18:38:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【莫斯科市长：击落多架飞往俄首都的乌无人机】俄罗斯莫斯科市长索比亚宁当地时间12月27日下午至晚间时分在社交媒体多次发文称，俄方当天击落多架飞往首都莫斯科的乌克兰无人机。据索比亚宁发布的数据，截至目前，已有21架飞往莫斯科的乌克兰无人机被击落。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2025-12-28/detail-inhehise9497528.d.html</link>
@@ -294,18 +305,6 @@
             <link>https://finance.sina.cn/7x24/2025-12-27/detail-inhefxak9703138.d.html</link>
             <guid>4580019</guid>
             <pubDate>Sat, 27 Dec 2025 13:13:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国研发人工智能地震实时监测系统 将助力全球地震监测】记者12月27日获悉，中国地震系统研发的新一代地震数据实时智能处理平台——人工智能地震实时监测系统(AIRES)，经过两年多的示范应用于近日通过专家论证，专家组认为该系统性能指标优异，核心技术与综合性能达到国际先进水平，具备良好的业务适用性与推广价值。人工智能地震实时监测系统的成功研发与应用，标志着中国地震监测业务从传统人工模式迈向智能化新时代。随着算法持续优化与应用场景拓展，该系统将为全球地震监测提供中国方案，为防震减灾和地震科学研究做出更大贡献。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-27/detail-inhefzef9820706.d.html</link>
-            <guid>4580018</guid>
-            <pubDate>Sat, 27 Dec 2025 13:07:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海南控股与民生银行在京签署战略合作协议】12月24日，海南省发展控股有限公司（简称海南控股）与中国民生银行股份有限公司（简称民生银行）在北京签署总行战略合作协议。根据合作协议，双方将重点围绕综合授信服务、发债融资服务、资金管理及国际结算等方面展开深化协作。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-27/detail-inhefzec1488589.d.html</link>
-            <guid>4580017</guid>
-            <pubDate>Sat, 27 Dec 2025 13:06:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
