@@ -4,11 +4,51 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 27 Dec 2025 15:24:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Dec 2025 16:30:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[台积电：地震后撤离人员已返回厂区。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-28/detail-inhehise9481902.d.html</link>
+            <guid>4580054</guid>
+            <pubDate>Sat, 27 Dec 2025 16:24:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【联合国：密切关注也门局势发展】12月27日，联合国秘书长也门问题特使办公室发表声明表示，正密切关注也门哈德拉毛省和马赫拉省局势发展。该特使重申联合国秘书长呼吁各方保持克制、推动局势降级并通过对话解决分歧，敦促有关各方避免采取任何可能使局势进一步复杂化的行动。声明同时强调，持续开展地区斡旋努力具有重要意义，并表示将继续同也门各方及地区相关方保持接触，支持缓和紧张局势，推动也门冲突朝着全面、包容的政治解决方向取得进展。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-28/detail-inhehmtz9600001.d.html</link>
+            <guid>4580053</guid>
+            <pubDate>Sat, 27 Dec 2025 16:21:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国台湾宜兰县海域地震目前暂无人员伤亡和财产损失报告。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-27/detail-inhehisi1896364.d.html</link>
+            <guid>4580052</guid>
+            <pubDate>Sat, 27 Dec 2025 15:57:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[台积电：新竹科学园区内少数台积电厂区达到疏散标准。正依据应急响应程序开展户外疏散及人员清点工作。所有工厂的安全生产系统均正常运行。]]></title>
+            <guid>4580051</guid>
+            <pubDate>Sat, 27 Dec 2025 15:55:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【台北有明显震感】据记者消息，台北有明显震感。台北捷运暂无异常，桃园捷运全线列车停车。宜兰县政府表示，部分地区出现明显摇晃，紧急提醒民众留意后续余震。（CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-27/detail-inhehckm2025977.d.html</link>
+            <guid>4580050</guid>
+            <pubDate>Sat, 27 Dec 2025 15:48:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日本米蛋价高不下 鸡蛋拌饭水涨船高】当地时间12月27日，最新数据显示，日本大米和鸡蛋价格均创有统计以来最高值。许多日本民众感叹，鸡蛋拌饭已成“奢侈品”，面对许多价格上涨的食材不得不寻找“平替”。日本农林水产省发布的统计数据显示，截至12月21日的一周，市场上一袋5公斤装大米均价为4337日元（约合194元人民币），连续16周处于4000日元（约合179元人民币）以上高位。受饲料涨价、禽流感蔓延等因素影响，日本鸡蛋价格同样出现上涨。日本大型销售公司“JA全农鸡蛋”发布的数据显示，今年东京地区中号鸡蛋平均批发价为每公斤324日元（约合14.5元人民币），刷新有统计以来最高值。（央视新闻）]]></title>
+            <guid>4580049</guid>
+            <pubDate>Sat, 27 Dec 2025 15:30:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：由于市场份额萎缩，日本电气公司终止 4G 及 5G 基站研发业务。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-12-27/detail-inhehckh9601178.d.html</link>
+            <guid>4580048</guid>
+            <pubDate>Sat, 27 Dec 2025 15:27:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[俄罗斯国防部：在格林尼治标准时间12点至15点之间击落了111架乌克兰无人机。]]></title>
             <link>https://finance.sina.cn/7x24/2025-12-27/detail-inhehckh9600367.d.html</link>
@@ -16,7 +56,7 @@
             <pubDate>Sat, 27 Dec 2025 15:23:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【台湾宜兰县海域发生6.6级地震 震源深度60千米】中国地震台网正式测定：12月27日23时05分在台湾宜兰县海域（北纬24.67度，东经122.06度）发生6.6级地震，震源深度60千米。（央视新闻）]]></title>
+            <title><![CDATA[【台湾宜兰县海域发生6.6级地震 震源深度60千米】中国地震台网正式测定：12月27日23时05分在台湾宜兰县海域（北纬24.67度，东经122.06度）发生6.6级地震，震源深度60千米。台北持续摇晃近一分钟。福建福州、泉州等地震感强烈。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2025-12-27/detail-inhehckh9599510.d.html</link>
             <guid>4580046</guid>
             <pubDate>Sat, 27 Dec 2025 15:19:00 GMT</pubDate>
@@ -38,12 +78,6 @@
             <link>https://finance.sina.cn/7x24/2025-12-27/detail-inhehfnc9717028.d.html</link>
             <guid>4580043</guid>
             <pubDate>Sat, 27 Dec 2025 15:12:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[目击者称，中国台湾地区台北市有震感。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-27/detail-inhehckh9597875.d.html</link>
-            <guid>4580042</guid>
-            <pubDate>Sat, 27 Dec 2025 15:10:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【俄称对乌实施大规模打击】俄罗斯国防部当地时间12月27日通报称，26日夜间至27日凌晨，为回应乌方对俄民用目标的袭击，俄罗斯使用“匕首”高超音速导弹、无人机等武器对乌克兰实施大规模打击，目标是乌军以及乌军工企业使用的能源基础设施。此外在26日夜间至27日凌晨，俄防空系统击落了7架乌克兰无人机。（央视新闻）]]></title>
@@ -273,40 +307,6 @@
             <link>https://finance.sina.cn/7x24/2025-12-27/detail-inhefxak9692024.d.html</link>
             <guid>4580004</guid>
             <pubDate>Sat, 27 Dec 2025 12:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【希音湾区西部智慧产业园竣工，超百亿供应链建设提速】全球独角兽企业希音在大湾区的供应链建设又有新进展。近日，位于广东肇庆市肇庆新区的SHEIN（希音）湾区西部智慧产业园正式竣工交付。该产业园集智能分拣中心、订单分拨中心及智能制造工厂等于一体，是SHEIN持续加码智慧供应链基建、强化敏捷柔性供应链能力、引领时尚产业数智化升级的又一重要落子，将进一步夯实希音广东超百亿供应链基地的作用，并形成覆盖广州、佛山、肇庆、江门等城市在内的供应链体系，协同促进时尚产业、物流运输、服务贸易等一系列相关产业更加高质量发展。项目投产后，将带动肇庆当地服装、仓储、服务贸易等多产业协同发展，促进就业创收。（南方财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-27/detail-inhefxak9690743.d.html</link>
-            <guid>4580003</guid>
-            <pubDate>Sat, 27 Dec 2025 12:21:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【武契奇：塞尔维亚首家大型无人机工厂将于明年春季启用】12月27日，塞尔维亚总统武契奇在贝尔格莱德班吉察军营参加国防部及新总参谋部建设奠基仪式时宣布，塞尔维亚将在2026年3月底或最迟4月初正式开设该国首家大型无人机生产工厂。他表示，该工厂将主要生产高端、技术先进的无人机装备，进一步提升塞尔维亚本土无人机制造能力。武契奇指出，塞尔维亚军队目前已经拥有一定数量的各类无人机，在服役中表现良好；他同时强调新工厂将生产更为先进、技术含量更高的无人机平台。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-27/detail-inhefzec1476278.d.html</link>
-            <guid>4580002</guid>
-            <pubDate>Sat, 27 Dec 2025 12:09:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰基辅再次拉响防空警报】当地时间12月27日，乌克兰基辅再次拉响防空警报。27日凌晨起，乌克兰基辅多次拉响防空警报。乌克兰空军通报称，自26日18时起，俄军用无人机和导弹对乌克兰关键基础设施发起联合打击。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-27/detail-inhefzec1475912.d.html</link>
-            <guid>4580001</guid>
-            <pubDate>Sat, 27 Dec 2025 12:07:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[塞尔维亚总统武契奇：鉴于全球紧张局势加剧以及加强国家安全的需要，塞尔维亚将在3月底前开设一家大型无人机生产厂。]]></title>
-            <guid>4580000</guid>
-            <pubDate>Sat, 27 Dec 2025 12:05:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[本周大盘主力资金累计净流入-785.65亿元，电池、光伏设备板块净流入居前，个股阳光电源、天际股份净流入最多。]]></title>
-            <guid>4579999</guid>
-            <pubDate>Sat, 27 Dec 2025 12:00:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【12月27日《新闻联播》主要内容】今天《新闻联播》主要内容有：1.习近平签署国家主席令； 2.【新思想引领新征程】提升农业综合生产能力 加快建设农业强国； 3.十四届全国人大常委会第十九次会议在京闭幕 决定十四届全国人大四次会议2026年3月5日在北京召开； 4.全国政协主席会议建议明年3月4日召开全国政协十四届四次会议； 5.全国规模以上工业企业利润累计增速连续四个月保持正增长； 6.元旦春节临近 节日市场供需两旺； 7.三部门联合发布“最美退役军人”； 8.中央纪委国家监委公开通报七起违反中央八项规定精神典型问题； 9.国内联播快讯： （1）两部门下达44.4亿元中央冬春临时生活困难救助资金； （2）国务院安委会部署做好岁末年初安全生产工作； （3）2025年数字产业业务收入同比增长9%左右； （4）北京3条（段）地铁新线试运营 轨道交通总里程突破900公里； （5）沪渝蓉沿江高铁武汉至宜昌段开通运营； （6）我国在建海拔最高双曲拱坝电站首批机组投产； （7）全球单星综合探测能力最强静止轨道气象卫星成功发射； （8）2025“百万英才汇南粤”招聘会在深圳举行； （9）黑龙江启动“冷水鱼·冬捕季”系列活动； 10.日本国会议员和民间团体举行集会 反对高市早苗错误言行； 11.俄称在多方向持续推进 乌称拦截数百架俄无人机 俄称无意在乌克兰问题立场上让步 乌总统称计划与美方讨论乌安全保障问题； 12.国际联播快讯： （1）以军袭击约旦河西岸多地； （2）泰柬发表声明承诺实施停火； （3）日本群马县车辆连环相撞 致2死26伤； （4）冬季风暴持续肆虐 美两州进入紧急状态； （5）美芝加哥发生多起枪击 7人中枪1人死亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-12-27/detail-inhefzec1473378.d.html</link>
-            <guid>4579998</guid>
-            <pubDate>Sat, 27 Dec 2025 11:57:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
