@@ -4,293 +4,300 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Tue, 06 Jan 2026 13:41:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jan 2026 14:28:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[美联储理事米兰：核心通胀率接近美联储的目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskh5783895.d.html</link>
-            <guid>4596702</guid>
-            <pubDate>Tue, 06 Jan 2026 13:40:30 GMT</pubDate>
+            <title><![CDATA[【多重利好共振 金价无惧高位窄幅震荡】金价小幅走高，受避险需求及美联储降息预期的推动，维持在一周高点附近。德国商业银行的Carsten Fritsch表示：“美国上周末对委内瑞拉的军事干预提供了助力，导致避险需求走强。此外，美国12月ISM制造业指数表现令人失望，跌至14个月低点。”]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskp8263473.d.html</link>
+            <guid>4596802</guid>
+            <pubDate>Tue, 06 Jan 2026 14:28:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储米兰：美联储今年应该降息超过100个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkski6986530.d.html</link>
-            <guid>4596701</guid>
-            <pubDate>Tue, 06 Jan 2026 13:40:22 GMT</pubDate>
+            <title><![CDATA[氧化铝连续主力合约日内涨5%，现报2939.00元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkski6998092.d.html</link>
+            <guid>4596801</guid>
+            <pubDate>Tue, 06 Jan 2026 14:27:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[印度储备银行：印度储备银行将进行为期两天、规模为1万亿卢比的可变利率回购（VRR）拍卖。]]></title>
-            <guid>4596700</guid>
-            <pubDate>Tue, 06 Jan 2026 13:40:09 GMT</pubDate>
+            <title><![CDATA[【科大讯飞：讯飞星火对标A100的训练效率优化后达到85%-95%以上】科大讯飞在互动平台表示，科大讯飞过去几年在受限的有限算力资源条件下，关于星火大模型训练和推理成本效率的持续优化做了大量投入，和直接使用英伟达卡上开展的各种工程优化不同，科大讯飞选择了更难的全国产算力路线。从2023年5月起，科大讯飞就联合华为先后攻克了万卡高速互联组网、计算通信隐藏、训练推理强交互、高吞吐推理优化以及国产算子优化等一系列难题，将通用大模型、类o1的深度推理模型等的训练效率对标A100均从最初的30%-50%优化达到了85%-95%以上；2025年以来，科大讯飞再次攻克国产算力训练的两座大山，一是攻克长思维链强化学习训练效率，深度推理训练效率从对标A800的30%提升至84%以上，二是攻克MoE模型全链路训练效率，MoE模型的训练效率从今年3月对标A800的30%提高到93%，实现国产算力平台上在该领域从0到1的重大突破。随着国产算力在底层能力上进一步提升，讯飞星火的训练成本还有较大的下降空间。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskp8263077.d.html</link>
+            <guid>4596800</guid>
+            <pubDate>Tue, 06 Jan 2026 14:26:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储理事米兰：住房通胀中的怪象正导致通胀过度超出目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskp8250099.d.html</link>
-            <guid>4596699</guid>
-            <pubDate>Tue, 06 Jan 2026 13:39:30 GMT</pubDate>
+            <title><![CDATA[美联储巴尔金：未来10年的挑战在于，美国很可能出现岗位数量多于可用劳动力数量的情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkski6997719.d.html</link>
+            <guid>4596799</guid>
+            <pubDate>Tue, 06 Jan 2026 14:25:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【政权更迭难救近火 委内瑞拉增产“画饼”难撼油市】由于市场并不相信在领导人马杜罗下台后委内瑞拉的产量会迅速增加，原油期货价格走高。Pepperstone的Michael Brown在报告中表示，该国的能源基础设施处于极度糟糕的状态，需要数百亿美元的投资才能恢复运转。他指出：“无论如何，委内瑞拉原油超重质酸性的特性意味着，在布伦特原油价格处于每桶60美元的情况下，开采的经济效益并不划算。”他认为，任何潜在的增产“都是很久以后的事”，并且“到目前为止，我们所看到的任何情况都没有实质性改变原油的前景”。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskm5474949.d.html</link>
-            <guid>4596698</guid>
-            <pubDate>Tue, 06 Jan 2026 13:39:13 GMT</pubDate>
+            <title><![CDATA[俄罗斯表示，必须保障委内瑞拉在不受外部干涉的情况下决定自身命运的权利。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkski6997700.d.html</link>
+            <guid>4596798</guid>
+            <pubDate>Tue, 06 Jan 2026 14:25:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[格陵兰总理尼尔森称：在国际准则正遭受挑战的当下，欧洲各国领导人的支持至关重要。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskh5783270.d.html</link>
-            <guid>4596697</guid>
-            <pubDate>Tue, 06 Jan 2026 13:38:54 GMT</pubDate>
+            <title><![CDATA[市场消息：由于需求旺盛，Meta暂停RAY-BAN眼镜扩张。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkski6997578.d.html</link>
+            <guid>4596797</guid>
+            <pubDate>Tue, 06 Jan 2026 14:25:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储官员米兰：预计数据将支持进一步降息。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkski6985832.d.html</link>
-            <guid>4596696</guid>
-            <pubDate>Tue, 06 Jan 2026 13:38:11 GMT</pubDate>
+            <title><![CDATA[市场消息：Meta将继续履行美国订单重新评估国际订单方法。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskh5795974.d.html</link>
+            <guid>4596795</guid>
+            <pubDate>Tue, 06 Jan 2026 14:24:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【2025年代建排行榜：绿城管理、旭辉建管和润地管理排名前三】1月6日，中指研究院发布《2025年中国房地产代建企业排行榜》。2025年，绿城管理以3535万平方米新签约规模位列第一。旭辉建管和润地管理代建新签约面积分别为1629万平方米和1595万平方米，位列二、三位。同时，2025年，绿城管理以985亿元合约销售金额位列代建销售榜首位。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskm5474488.d.html</link>
-            <guid>4596695</guid>
-            <pubDate>Tue, 06 Jan 2026 13:37:47 GMT</pubDate>
+            <title><![CDATA[【摩根大通：2026 年美国大银行将重点关注人工智能效益和商业贷款增长】进入 2026 年，摩根大通预计重点将放在商业和工业贷款增长、人工智能带来的益处以及大型银行股潜在的监管变化上。 摩根大通预计，大型银行第四季度净利息收入和贷款增长“温和”，投行业务和交易业务收入同比涨跌不一。摩根大通表示：“2026 年，市场相关收入有望在短期内保持强劲，尽管存在通胀压力和一些私人信贷疲软，但信贷质量仍将保持良好。”]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkski6997257.d.html</link>
+            <guid>4596794</guid>
+            <pubDate>Tue, 06 Jan 2026 14:24:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[哥伦比亚外交部长就与美国的关系举行新闻发布会。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskm5474331.d.html</link>
-            <guid>4596694</guid>
-            <pubDate>Tue, 06 Jan 2026 13:37:12 GMT</pubDate>
+            <title><![CDATA[PVC连续主力合约日内涨2%，现报4972.00元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkski6997193.d.html</link>
+            <guid>4596793</guid>
+            <pubDate>Tue, 06 Jan 2026 14:24:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【泼向市场的“冷水”：瑞穗警示雪佛龙委内瑞拉项目或不及预期】瑞穗在报告中指出，雪佛龙在委内瑞拉的潜在扩张可能比投资者预想的需要更长时间。分析师Nitin Kumar表示，该公司目前被视为委内瑞拉石油工业潜在重建的关键受益者，但管理层在月底的分析师电话会议上可能会对此采取谨慎态度。过去三年，雪佛龙一直在增加产量，但进一步的扩张可能代价高昂。Kumar指出：“产量的额外增长可能需要资本投入，虽然这处于全球供应曲线的低端（主要涉及基础设施支出），但仍需要一个更好的财务框架，以确保公司获得具有竞争力的回报。”]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkski6985472.d.html</link>
-            <guid>4596693</guid>
-            <pubDate>Tue, 06 Jan 2026 13:37:01 GMT</pubDate>
+            <title><![CDATA[以太坊升破3300美元，日内涨2.34%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskp8262410.d.html</link>
+            <guid>4596792</guid>
+            <pubDate>Tue, 06 Jan 2026 14:23:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[越南石油和天然气集团液化天然气公司（PV GAS LNG）表示，根据该方案，中标供应商为壳牌东方贸易私人有限公司。]]></title>
-            <guid>4596692</guid>
-            <pubDate>Tue, 06 Jan 2026 13:36:53 GMT</pubDate>
+            <title><![CDATA[据报道，美国驻土耳其大使将在巴黎斡旋叙利亚和以色列谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkski6997074.d.html</link>
+            <guid>4596790</guid>
+            <pubDate>Tue, 06 Jan 2026 14:23:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[索马里敦促联合国、非洲联盟、阿拉伯国家联盟、伊斯兰合作组织以及所有国际伙伴重申并大力支持索马里的主权。]]></title>
-            <guid>4596691</guid>
-            <pubDate>Tue, 06 Jan 2026 13:36:31 GMT</pubDate>
+            <title><![CDATA[【我国情绪消费市场规模超2万亿元】2025年，情绪消费强势崛起，超万亿元的市场正在形成，成为消费市场的重要增长极。从全球市场来看，情绪价值经济已形成潮玩、购物、文旅、宠物、科技、餐饮等众多赛道。伴随赛道的多元拓展，年轻群体成为情绪消费主力。数据显示，超九成青年认可“情绪价值”，近六成青年愿意为情绪价值买单。我国情绪消费市场规模快速攀升，从2022年1.63万亿元，升至2024年2.31万亿元，2025年将达2.72万亿元，2029年将突破4.5万亿元。很多专家认为，在情绪消费领域，中国产品和服务有独特的优势。（央视财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskm5485487.d.html</link>
+            <guid>4596788</guid>
+            <pubDate>Tue, 06 Jan 2026 14:22:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[KRANESHARES（ KraneShares公司）：XAI头寸目前的估计公允价值在约六个月内增长了两倍多 。]]></title>
-            <guid>4596690</guid>
-            <pubDate>Tue, 06 Jan 2026 13:36:17 GMT</pubDate>
+            <title><![CDATA[据塔斯社报道，俄罗斯表示欢迎委内瑞拉当局为维护国家主权和国家利益所做的努力。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskh5795165.d.html</link>
+            <guid>4596787</guid>
+            <pubDate>Tue, 06 Jan 2026 14:21:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[越南石油天然气集团液化天然气公司（PV GAS LNG）表示，该合同的供应期为5年，从2027年至2031年。]]></title>
-            <guid>4596689</guid>
-            <pubDate>Tue, 06 Jan 2026 13:35:38 GMT</pubDate>
+            <title><![CDATA[【科大讯飞：讯飞机器人超脑平台实现多项技术突破 与宇树、智元等形成广泛合作】科大讯飞在互动平台表示，讯飞机器人超脑平台以讯飞超脑2030为技术底座，面向机器人厂商提供以多模态感知交互能力和大模型大脑为核心的AI服务，通过软硬件一体的形式助力厂商快速集成，让机器人快速具备能听会说、能理解、会行动的能力。基于已有的产业基础与技术沉淀，2025年10月28日，讯飞机器人超脑平台全新升级，聚焦真实场景交互痛点与行业发展需求，实现多人多模态降噪技术、高情商智能对话体验、连续指令精准响应、具身智能全栈解决方案、软硬件一体低门槛接入等多项核心技术突破。目前合作已覆盖人形机器人、四足机器人、公共服务机器人等500余家智能机器人厂商，与宇树、智元、银河通用、松延动力等头部机器人企业形成广泛合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkski6996298.d.html</link>
+            <guid>4596785</guid>
+            <pubDate>Tue, 06 Jan 2026 14:20:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[受券商开始报道影响，WEALTHFRONT股价盘前上涨1.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkski6984832.d.html</link>
-            <guid>4596688</guid>
-            <pubDate>Tue, 06 Jan 2026 13:34:55 GMT</pubDate>
+            <title><![CDATA[亚马逊旗下的Ring门铃部门将开始销售专为监控停车场及户外空间设计的监控拖车，这是该家居安防部门在商用产品领域的最新尝试。]]></title>
+            <guid>4596784</guid>
+            <pubDate>Tue, 06 Jan 2026 14:18:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[索马里：索马里联邦共和国外交部和国际合作部强烈谴责以色列外交部长针对哈尔格萨市提出的毫无根据且站不住脚的借口。]]></title>
-            <guid>4596687</guid>
-            <pubDate>Tue, 06 Jan 2026 13:34:30 GMT</pubDate>
+            <title><![CDATA[声明称，巴西埃内瓦公司表示已开始从阿根廷进口天然气，以增加巴西的天然气供应。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkski6995960.d.html</link>
+            <guid>4596783</guid>
+            <pubDate>Tue, 06 Jan 2026 14:18:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[KraneShares：人类智能（Anthropic）持仓的估计公允价值在11个月内近乎增长至原来的四倍。]]></title>
-            <guid>4596686</guid>
-            <pubDate>Tue, 06 Jan 2026 13:34:15 GMT</pubDate>
+            <title><![CDATA[【Circle的稳定币USDC增速连续第二年超过Tether的USDT】据CoinDesk，随着美国政府对数字资产态度转暖，市场对受监管的基于区块链的美元需求上升，Circle的美元稳定币USDC增速连续第二年超越Tether的USDT。数据显示，2025年USDC的市值增长73%，达到751.2亿美元，而USDT的市值增长36%，达到1866亿美元。USDC和USDT共同占据了3120亿美元稳定币总市值的80%以上。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkski6995746.d.html</link>
+            <guid>4596781</guid>
+            <pubDate>Tue, 06 Jan 2026 14:16:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[KRANESHARES旗下基金AGIX增持XAI股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkski6984599.d.html</link>
-            <guid>4596685</guid>
-            <pubDate>Tue, 06 Jan 2026 13:34:08 GMT</pubDate>
+            <title><![CDATA[马克龙在爱丽舍宫欢迎丹麦首相。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkski6995712.d.html</link>
+            <guid>4596780</guid>
+            <pubDate>Tue, 06 Jan 2026 14:16:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【德国通胀超预期降温 国债收益率应声下挫】在德国初步数据显示12月通胀低于预期后，德国国债收益率进一步扩大跌幅。12月调和消费者物价指数同比增速从11月的2.6%降至2.0%。Tradeweb的数据显示，数据公布后，十年期德国国债收益率从此前的约2.854%下跌近3个基点至2.840%。该收益率当日早盘走高，但在疲软的法国通胀初步数据公布后转而走低。欧元区整体的12月通胀初步数据将于周三公布。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskp8248015.d.html</link>
-            <guid>4596684</guid>
-            <pubDate>Tue, 06 Jan 2026 13:33:54 GMT</pubDate>
+            <title><![CDATA[福特汽车：2025年美国汽车总销量为2,204,124辆，第四季度美国汽车总销量为545,216辆。]]></title>
+            <guid>4596779</guid>
+            <pubDate>Tue, 06 Jan 2026 14:16:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特朗普媒体科技集团和核聚变初创公司TAE未来电站的装机容量预计将达到350至500兆瓦。]]></title>
-            <guid>4596683</guid>
-            <pubDate>Tue, 06 Jan 2026 13:33:47 GMT</pubDate>
+            <title><![CDATA[【跨年流动性大考过关：回购利率重归温和 美债收益率微升企稳】美国国债收益率微幅上涨，因为市场面临的一项威胁正趋于消退：即回购协议市场年终融资压力带来的溢出效应。纽约联储的数据显示，在元旦前后的周三和周五，基准回购利率一度显得有些吃紧。上周五约有四分之一的三方回购交易利率落在3.71%至3.88%之间。然而，本周一三方回购利率录得较为温和的3.66%，且超过3.75%的回购交易并不多。目前，10年期美债收益率约为4.171%，而周一为4.164%；2年期美债收益率为3.465%，周一则为3.454%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkski6995558.d.html</link>
+            <guid>4596778</guid>
+            <pubDate>Tue, 06 Jan 2026 14:15:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[格陵兰总理声明：昨天，我已明确表示，在格陵兰，我们已加强外交和政治努力，以捍卫格陵兰是我们的国家和领土。我们的国家不是任何人可以随意吞并或占领的。我很高兴地看到，过去一年来我们建立的关系，以及近期我们不断加强的外交努力，都具有重大意义。]]></title>
-            <guid>4596682</guid>
-            <pubDate>Tue, 06 Jan 2026 13:33:12 GMT</pubDate>
+            <title><![CDATA[市场消息：峰会草案美国将在俄罗斯未来的袭击中支持乌克兰。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkski6995523.d.html</link>
+            <guid>4596777</guid>
+            <pubDate>Tue, 06 Jan 2026 14:15:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特朗普媒体与技术集团：计划于2026年开始选址和建设。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkski6983811.d.html</link>
-            <guid>4596681</guid>
-            <pubDate>Tue, 06 Jan 2026 13:30:38 GMT</pubDate>
+            <title><![CDATA[马克龙在爱丽舍宫接待欧盟的冯德莱恩。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskp8260191.d.html</link>
+            <guid>4596776</guid>
+            <pubDate>Tue, 06 Jan 2026 14:13:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特朗普传媒与技术集团（Trump Media & Technology Group）和TAE科技公司（TAE Technologies）启动开创性核聚变发电厂的选址规划流程。]]></title>
-            <guid>4596680</guid>
-            <pubDate>Tue, 06 Jan 2026 13:30:35 GMT</pubDate>
+            <title><![CDATA[市场消息：当地时间周三上午10点，鲁比奥和邦迪将向参议员们通报情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkski6995030.d.html</link>
+            <guid>4596775</guid>
+            <pubDate>Tue, 06 Jan 2026 14:12:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【据港交所文件：湖南鸣鸣很忙商业连锁股份有限公司通过港交所上市聆讯】据港交所文件：湖南鸣鸣很忙商业连锁股份有限公司通过港交所上市聆讯。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskp8246982.d.html</link>
-            <guid>4596679</guid>
-            <pubDate>Tue, 06 Jan 2026 13:30:26 GMT</pubDate>
+            <title><![CDATA[加拿大皇家银行（RBC）首席执行官戴夫·麦凯：我看到了在美国进行投资并获得丰厚回报的巨大机遇。]]></title>
+            <guid>4596774</guid>
+            <pubDate>Tue, 06 Jan 2026 14:11:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【半数经销商去年未完成销售任务】尽管机构预测今年1月将呈现开门红局面，但汽车经销商的经营状况或仍面临挑战。中国汽车流通协会数据显示，2025年12月中国汽车经销商库存预警指数为57.7%，同比上升7.5个百分点，环比上升2.1个百分点。库存预警指数位于荣枯线之上，汽车流通行业景气度有所下降。中国汽车流通协会调查显示，经销商客户流量减少、市场观望升温致需求收缩，新车销售利润收窄，叠加部分厂家年底冲量追加任务，加剧库存积压与资金紧张，近半数经销商2025年全年任务完成率90%及以上（15.3%超额完成）。“2025年12月没有形成传统的翘尾行情，整体走势还是偏淡。”中国汽车流通协会产业协调发展工作委员会副秘书长樊宇在月度分析会上表示。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskm5472423.d.html</link>
-            <guid>4596678</guid>
-            <pubDate>Tue, 06 Jan 2026 13:30:04 GMT</pubDate>
+            <title><![CDATA[马克龙在爱丽舍宫欢迎斯塔默。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskh5793062.d.html</link>
+            <guid>4596773</guid>
+            <pubDate>Tue, 06 Jan 2026 14:11:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国工商银行山东淄博分行原党委书记、行长王世明被查】据中国工商银行山东省分行纪委、山东省枣庄市监委消息：中国工商银行山东淄博分行原党委书记、行长王世明涉嫌严重违纪违法，目前正接受中国工商银行山东省分行纪委纪律审查和枣庄市监委监察调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkski6983192.d.html</link>
-            <guid>4596677</guid>
-            <pubDate>Tue, 06 Jan 2026 13:27:26 GMT</pubDate>
+            <title><![CDATA[美联储巴尔金：密切关注裁员情况，以寻找当前低招聘、低解雇就业市场发生变化的迹象。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskh5792839.d.html</link>
+            <guid>4596772</guid>
+            <pubDate>Tue, 06 Jan 2026 14:11:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【上交所对亚辉龙下发问询函】上交所对亚辉龙下发问询函，其中指出，亚辉龙提交《关于自愿披露签署战略合作框架协议的公告》称，公司与深圳脑机星链科技有限公司（简称脑机星链）签订《战略合作框架协议》，双方将在产品研发、市场推广以及股权投资等方面进行合作。目前，公司间接持有脑机星链 4%的股权。上交所要求公司核实并补充披露以下事项：1、脑机星链主要技术路线、主要产品类型、应用领域、产品所处研发或商业化状态，其自身是否具备推进后续研发或商业化的各类资源；2、结合公司主营业务，说明双方产品在应用领域、客户、渠道等方面的协同性，分析合作开展市场推广的可行性；3、结合脑机星链产品研发进展，说明双方未来签署后续推广协议的预计时间安排，双方预计开展市场推广和公司预计取得相关分成收益的最早时间。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskh5779585.d.html</link>
-            <guid>4596676</guid>
-            <pubDate>Tue, 06 Jan 2026 13:27:16 GMT</pubDate>
+            <title><![CDATA[【重金布局血癌新疗法：安进完成对Dark Blue收购 补强肿瘤研发管线】安进已收购癌症药物开发商Dark Blue，交易总额高达8.4亿美元，旨在进一步扩充其肿瘤治疗产品线。总部位于英国的DarkBlue是一家私营公司，专注于研发一种被称为“蛋白质降解剂”的药物，该领域已成为诺华和吉利德科学等制药巨头争相布局的热门目标。DarkBlue进展最快的化合物尚未进入临床试验，但有望为急性髓系白血病提供一种新型疗法。安进负责研发的执行副总裁Jay Bradner在声明中表示：“此次收购补强并扩展了我们在靶向蛋白质降解和白血病治疗领域的研究，推进了我们对新兴靶点及早投资的战略。”]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskh5792758.d.html</link>
+            <guid>4596770</guid>
+            <pubDate>Tue, 06 Jan 2026 14:10:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[一位消息人士称，七国集团（G7）财长将讨论稀土等关键矿产的价格下限问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkski6983054.d.html</link>
-            <guid>4596675</guid>
-            <pubDate>Tue, 06 Jan 2026 13:26:34 GMT</pubDate>
+            <title><![CDATA[【数据中心冷却股盘前下跌 受英伟达CEO言论影响】英伟达首席执行官黄仁勋在CES展会上发表关于数据中心散热的言论后，相关股票在盘前交易中走低。黄仁勋表示，搭载新型Rubin芯片的服务器机架将可采用无需水冷机的温度进行冷却，其所需气流与搭载Blackwell芯片的机架基本相当。相关个股表现：江森自控跌3.8%，Modine跌3.2%，特灵科技跌3.3%，开利跌2.3%，维谛技术跌1.8%。巴克莱分析师Julian Mitchell指出，“鉴于英伟达在整个AI生态系统中的主导地位，其言论虽乍看夸张，实则不容小觑”。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskm5483170.d.html</link>
+            <guid>4596769</guid>
+            <pubDate>Tue, 06 Jan 2026 14:10:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[周二盘前，美国国际集团股价下跌4.6%，此前这家全球保险公司宣布，首席执行官彼得·扎菲诺（Peter Zaffino）将于2026年年中卸任，并转任董事会执行主席。埃里克·安德森（Eric Andersen）曾于2020年至2025年担任怡安集团（Aon）总裁，他将接替扎菲诺出任总裁兼候任首席执行官，该任命自2月16日起生效。]]></title>
-            <guid>4596674</guid>
-            <pubDate>Tue, 06 Jan 2026 13:26:28 GMT</pubDate>
+            <title><![CDATA[iShares MSCI沙特ETF美股盘前涨近3%，沙特将于下个月向所有类别外国投资者开放金融市场。]]></title>
+            <guid>4596768</guid>
+            <pubDate>Tue, 06 Jan 2026 14:10:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  特朗普：在州长加文・纽森治下，加利福尼亚州的腐败程度居然比明尼苏达州还严重 —— 真有这种可能吗？？？]]></title>
-            <guid>4596673</guid>
-            <pubDate>Tue, 06 Jan 2026 13:25:40 GMT</pubDate>
+            <title><![CDATA[贝宝（PayPal）在2026年国际消费电子展（CES）上推出新的广告解决方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskm5482857.d.html</link>
+            <guid>4596765</guid>
+            <pubDate>Tue, 06 Jan 2026 14:08:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【台空军F-16惊传失联 飞行员跳伞搜救中】一架隶属台湾花莲空军基地、编号6700的F-16AM单座战机，在执行夜间飞行训练任务时，突然从雷达光幕上消失，随后证实失事。据台媒报道，机上飞行员在千钧一发之际启动弹射座椅跳伞逃生，目前台军方已启动紧急搜救机制，全力展开海空搜寻。台“空军司令部”6日表示，失事飞机于晚间6点17分进行例行性训练任务，7点29分位花莲县丰滨乡东面10海里疑似跳伞。（参考消息）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskm5471571.d.html</link>
-            <guid>4596672</guid>
-            <pubDate>Tue, 06 Jan 2026 13:24:57 GMT</pubDate>
+            <title><![CDATA[【泰凌微：端侧AI芯片2025年下半年继续保持放量出货趋势 但营收占比不会很高】泰凌微(688591)近日接受机构调研时表示，端侧AI芯片2025年下半年继续保持着放量出货的趋势，但2025年这块业务占整体营收比例不会很高，2026年的出货规模会达到一定量级。目前端侧AI芯片主要在音频领域，但智能家居、工业、健康、室内定位等领域都有项目在推进中。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskm5482625.d.html</link>
+            <guid>4596764</guid>
+            <pubDate>Tue, 06 Jan 2026 14:07:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[三位消息人士称，七国集团（G7）财长将于1月12日在华盛顿举行会议，讨论稀土供应问题。]]></title>
-            <guid>4596671</guid>
-            <pubDate>Tue, 06 Jan 2026 13:23:56 GMT</pubDate>
+            <title><![CDATA[迈威尔科技将以5.4亿美元收购XCONN技术公司，支付方式为60%现金、40%股票。]]></title>
+            <guid>4596763</guid>
+            <pubDate>Tue, 06 Jan 2026 14:07:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[印度财政部制定三年期公私合作伙伴关系项目储备计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkski6982609.d.html</link>
-            <guid>4596670</guid>
-            <pubDate>Tue, 06 Jan 2026 13:23:48 GMT</pubDate>
+            <title><![CDATA[【困局求变：美国航空祭出免费Wi-Fi招牌 力图扭转营收亏损颓势】美国航空集团(AAL.O)将从本月开始向其常旅客计划会员提供免费高速Wi-Fi。此举旨在缩小与美国同行之间的差距，因为竞争对手在高端服务领域已处于领先地位。这家总部位于德克萨斯州沃斯堡的航空公司计划在其所有单通道客机（如波音737和空客A320）以及双舱布局的支线客机上完成该功能的部署。通过与AT&T的合作，到早春时节，几乎所有航班都将提供免费Wi-Fi。该服务将通过Viasat公司提供的卫星连接实现，部分客机则由卢森堡SESSA旗下的Intelsat提供技术支持。在营收表现落后于美联航和达美航空之后，美国航空正致力于彻底调整业务并提高竞争力。随着市场需求转向高消费群体，这两家竞争对手更早地投资了机上连接、会员福利及高端客舱。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskm5482297.d.html</link>
+            <guid>4596762</guid>
+            <pubDate>Tue, 06 Jan 2026 14:06:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[殷拓旗下房地产公司（EQT REAL ESTATE）收购美国一处总面积达160万平方英尺、横跨关键填补型市场的物流资产组合。]]></title>
-            <guid>4596669</guid>
-            <pubDate>Tue, 06 Jan 2026 13:23:31 GMT</pubDate>
+            <title><![CDATA[【德赛西威：目前已与多家知名机器人企业达成战略合作】德赛西威在互动平台表示，公司正式发布机器人智能基座AI Cube，AI Cube沿用了德赛西威在辅助驾驶领域成熟的技术架构：控制器采用“即插即用”的核心板模块化设计，可灵活提供摄像头、毫米波雷达、激光雷达等传感器套件，提供包括成熟的底层驱动、中间件、ISP调试等定制化服务，从而帮助客户大幅缩短开发周期，提升研发效率，降低研发成本。目前，德赛西威已与多家知名机器人企业达成战略合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskm5482143.d.html</link>
+            <guid>4596761</guid>
+            <pubDate>Tue, 06 Jan 2026 14:05:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【汇丰银行：预计英国央行将在4月、7月和11月进一步降息】汇丰银行经济学家Elizabeth Martins在报告中称，预计英国通胀率将在未来几个月内下降，这增加了英国央行进一步降息的可能性。Martins表示，家庭能源账单的降低以及工资增长的放缓，预计将使英国4月份的年通胀率降至2.1%，并在此后保持在2%左右。她指出：“我们预计英国央行将在4月、7月和11月进一步降息，到2026年第四季度将利率降至3.00%，不过这一预测仍面临上行风险。”伦敦证券交易所集团的数据显示，英国货币市场目前已完全消化了2026年一次25个基点的降息预期，且下半年可能还会进行第二次降息。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkski6982548.d.html</link>
-            <guid>4596668</guid>
-            <pubDate>Tue, 06 Jan 2026 13:23:21 GMT</pubDate>
+            <title><![CDATA[亚马逊：2026年，Alexa+将扩展至三星电视、宝马汽车等更多设备。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskp8257528.d.html</link>
+            <guid>4596759</guid>
+            <pubDate>Tue, 06 Jan 2026 14:04:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特朗普：加州欺诈调查已经开始。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskh5778251.d.html</link>
-            <guid>4596667</guid>
-            <pubDate>Tue, 06 Jan 2026 13:22:34 GMT</pubDate>
+            <title><![CDATA[Snowflake通过将谷歌的Gemini 3引入Cortex AI，助力企业级人工智能应用。]]></title>
+            <guid>4596757</guid>
+            <pubDate>Tue, 06 Jan 2026 14:04:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【北大长聘副教授董豪出任上纬新材首席科学家】北京大学90后长聘副教授董豪正式加入上纬启元，出任首席科学家，将聚焦具身智能模型领域的技术研发与战略布局。公开资料显示，董豪是国家级高层次青年人才计划入选者，同时担任科技创新2030国家重大项目首席科学家。研究方向覆盖具身智能、大模型、强化学习、计算机视觉及开源AI系统领域，核心目标是构建兼具成本效益与通用性的机器人系统。                                （界面）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskh5777840.d.html</link>
-            <guid>4596666</guid>
-            <pubDate>Tue, 06 Jan 2026 13:21:21 GMT</pubDate>
+            <title><![CDATA[纯碱连续主力合约日内涨4%，现报1230.00元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskm5481633.d.html</link>
+            <guid>4596756</guid>
+            <pubDate>Tue, 06 Jan 2026 14:04:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【广州直飞越南海防市新航线开通】1月6日，广州白云国际机场举办广州直飞越南海防市新航线的开航仪式，该航线是广州白云国际机场2026年首条新开国际航线。据了解，该航线由深圳航空执飞，每周执行三班。广州至海防，航班号ZH129，15:55起飞，当地时间17:20抵达；海防至广州航班号ZH130，18:20起飞，21:15到达（以上时刻均为当地时间）。这条连接粤港澳大湾区核心城市与越南北部经济中心的空中通道，将大幅降低中越往来出行成本，便利两地旅客与企业互联互通，进一步助力中越双边经贸文化交流和往来。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskh5777726.d.html</link>
-            <guid>4596665</guid>
-            <pubDate>Tue, 06 Jan 2026 13:20:59 GMT</pubDate>
+            <title><![CDATA[贝宝（PayPal）：推出贝宝交易图谱洞察与衡量计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskp8257276.d.html</link>
+            <guid>4596754</guid>
+            <pubDate>Tue, 06 Jan 2026 14:03:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美联储巴尔金：力求在控制通胀的同时推动就业增长】巴尔金称，尽管从历史标准来看失业率仍处于低位，但政策制定者正密切关注双重使命的两个方面，力求在控制通胀的同时推动就业增长。“眼下招聘活动热度低迷，没有人愿意看到劳动力市场进一步恶化；而通胀水平持续高于目标值已近五年，也没有人希望高通胀预期就此固化。这是一种微妙的平衡。”这位里士满联储行长预计，减税与放宽监管举措将在今年拉动经济增长；同时，随着政府停摆结束后官方数据恢复发布，政策制定者将在未来数月内对经济状况形成更清晰的认知。他表示：“我期待在未来数周，随着可靠明晰的经济数据陆续出炉，我们能深入研判、掌握更多信息。”]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskh5777681.d.html</link>
-            <guid>4596664</guid>
-            <pubDate>Tue, 06 Jan 2026 13:20:49 GMT</pubDate>
+            <title><![CDATA[【拓邦股份：公司与优必选在相关业务领域有较深的合作】拓邦股份在互动平台表示，公司与优必选在相关业务领域有较深的合作。在人形机器人领域，公司以空心杯电机为基础，加深与机器人/灵巧手行业头部企业合作共研新一代灵巧手驱动部件，并成功推出集成空心杯电机、减速箱、丝杠、编码器等核心零部件于一体的灵驱微擎系统，进一步提升产品能量密度，大大节省了安装空间，使灵巧手可以做到“小尺寸”与“高输出”两者兼得，可以同时在手掌内安装15台甚至更多。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskh5790643.d.html</link>
+            <guid>4596753</guid>
+            <pubDate>Tue, 06 Jan 2026 14:03:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[沙特向特定类别外国投资者开放资本市场。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkski6981922.d.html</link>
-            <guid>4596663</guid>
-            <pubDate>Tue, 06 Jan 2026 13:20:10 GMT</pubDate>
+            <title><![CDATA[【浙江世宝：目前无并购同行业企业计划】有投资者问，请问公司有意通过并购同行业汽车零部件企业进行产品扩充、提升盈利能力、提升市值吗？浙江世宝在互动平台表示，公司专注于汽车转向系统总成及关键部件的一级配套业务，以内生性发展为主，目前没有需要公布的并购事项。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkski6992532.d.html</link>
+            <guid>4596752</guid>
+            <pubDate>Tue, 06 Jan 2026 14:02:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【巴尔金：当前货币政策前景仍处于微妙的平衡之中】里士满联邦储备银行行长汤姆・巴尔金表示，受失业率上升与通胀高企的双重矛盾压力影响，当前货币政策前景仍处于微妙的平衡之中。 巴尔金指出，去年累计 75 个基点的政策宽松，已使当前利率水平落入所谓中性利率的预估区间，他将此举比作 “买入一份保障”。 “但展望未来，货币政策的制定需要经过精密研判，以平衡我们政策使命两大目标的推进进度。” 巴尔金在为罗利商会周二举办的活动准备的演讲稿中如此表示。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkski6981802.d.html</link>
-            <guid>4596662</guid>
-            <pubDate>Tue, 06 Jan 2026 13:19:25 GMT</pubDate>
+            <title><![CDATA[信件显示：欧盟委员会主席冯德莱恩提议在2028年下一份欧盟预算中让部分农业资金提前到位，以帮助农民。]]></title>
+            <guid>4596751</guid>
+            <pubDate>Tue, 06 Jan 2026 14:01:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储巴尔金： 当前美联储政策利率已处于中性利率的预估区间 。期待未来数周出炉 “可靠明晰” 的经济数据。]]></title>
-            <guid>4596661</guid>
-            <pubDate>Tue, 06 Jan 2026 13:18:06 GMT</pubDate>
+            <title><![CDATA[加拿大皇家银行CEO：加拿大和美国富人与穷人之间的收入差距不断扩大，这一现象正成为推动政治议程的重要因素。]]></title>
+            <guid>4596750</guid>
+            <pubDate>Tue, 06 Jan 2026 14:01:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储巴尔金：减税、松绑监管与降息举措将共同提振经济。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskp8243341.d.html</link>
-            <guid>4596660</guid>
-            <pubDate>Tue, 06 Jan 2026 13:17:41 GMT</pubDate>
+            <title><![CDATA[英国政府：埃隆·马斯克必须紧急处理Grok人工智能生成色情图像的能力问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskm5481047.d.html</link>
+            <guid>4596749</guid>
+            <pubDate>Tue, 06 Jan 2026 14:01:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储官员巴尔金：必须平衡通胀治理进展与就业稳定两大目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskp8243282.d.html</link>
-            <guid>4596659</guid>
-            <pubDate>Tue, 06 Jan 2026 13:17:31 GMT</pubDate>
+            <title><![CDATA[报道称，公众对特朗普抓捕马杜罗行动的支持率大幅上升，全国范围内上升了25个百分点。]]></title>
+            <guid>4596747</guid>
+            <pubDate>Tue, 06 Jan 2026 14:00:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[焦煤连续主力合约日内涨4%，现报1121.50元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskp8243275.d.html</link>
-            <guid>4596658</guid>
-            <pubDate>Tue, 06 Jan 2026 13:17:30 GMT</pubDate>
+            <title><![CDATA[焦炭连续主力合约日内涨4%，现报1708.50元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskp8255856.d.html</link>
+            <guid>4596746</guid>
+            <pubDate>Tue, 06 Jan 2026 14:00:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[航运数据显示，过去五天内，委内瑞拉主要石油码头除向美国雪佛龙公司输送原油外，未向任何其他目的地输送用于出口的原油。]]></title>
-            <guid>4596657</guid>
-            <pubDate>Tue, 06 Jan 2026 13:17:14 GMT</pubDate>
+            <title><![CDATA[钯金期货日内涨3%，现报1819.00美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkski6991891.d.html</link>
+            <guid>4596745</guid>
+            <pubDate>Tue, 06 Jan 2026 14:00:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【泡泡玛特回应“三星掌门人买100个Labubu”：品牌未入驻京东MALL双井店】有媒体报道称三星电子会长李在镕在参加中韩商务论坛后，在京东MALL双井店进行考察，并购买了总计100只Labubu，相关话题词冲上热搜。随后，三星方面表示李在镕此行仅为市场视察，未购买任何商品，相关话题引发热议。当日晚间，泡泡玛特相关工作人员告诉记者，“还未了解购买100个Labubu的具体情况，但品牌并未入驻京东MALL双井店。”（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskp8243074.d.html</link>
-            <guid>4596656</guid>
-            <pubDate>Tue, 06 Jan 2026 13:16:56 GMT</pubDate>
+            <title><![CDATA[【挑战“中性利率”共识：米兰坚称美联储政策仍过紧 需激进减息】美联储理事米兰表示，美联储在2026年需要降息超过一个百分点，并认为当前的货币政策正在限制经济增长。米兰周二在福克斯商业频道露面时表示：“我认为很难辩称政策已接近中性。我认为政策显然具有限制性，正在阻碍经济发展。我认为今年降息100多个基点是合理的。”美联储官员上个月连续第三次下调利率，但暗示短期内不保证会进一步降息。政策制定者在通胀和劳动力市场前景上存在分歧；根据其最新预测的中值估计，他们预计2026年仅降息一次。米兰发表上述言论之前，其他官员本周表示，利率目前可能已接近既不促进也不限制经济增长的“中性水平”。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkski6991843.d.html</link>
+            <guid>4596744</guid>
+            <pubDate>Tue, 06 Jan 2026 13:59:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[玻璃连续主力合约日内涨4%，现报1126.00元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkskm5470156.d.html</link>
-            <guid>4596655</guid>
-            <pubDate>Tue, 06 Jan 2026 13:16:28 GMT</pubDate>
+            <title><![CDATA[美联储数据显示，1月5日，美国联邦基金有效利率为3.64%，交易量为880亿美元；1月2日该利率为3.64%，交易量为920亿美元。]]></title>
+            <guid>4596743</guid>
+            <pubDate>Tue, 06 Jan 2026 13:59:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[泽连斯基：每一批防空导弹援助，都能拯救生命，也能为外交努力增添筹码。正因如此，每一场会谈都应取得实实在在的成果 —— 出台新的防空决策、敲定新的援助方案、获得新的护空能力。 在与埃马纽埃尔・马克龙总统的会晤中，我们围绕的正是这些议题 —— 乌克兰抵御俄罗斯攻势的实际能力、本国的防务现状，以及能够巩固我方外交立场的各类支援。我们还就外交策略与后续行动方案展开了深入探讨。]]></title>
-            <guid>4596654</guid>
-            <pubDate>Tue, 06 Jan 2026 13:16:25 GMT</pubDate>
+            <title><![CDATA[现货钯金涨3%，至1761.18美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkski6991563.d.html</link>
+            <guid>4596742</guid>
+            <pubDate>Tue, 06 Jan 2026 13:58:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[纯碱连续主力合约日内涨3%，现报1218.00元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkski6981164.d.html</link>
-            <guid>4596653</guid>
-            <pubDate>Tue, 06 Jan 2026 13:15:28 GMT</pubDate>
+            <title><![CDATA[【长虹空调发布AI人感科技新产品】1月6日下午，四川长虹举行长虹空调2026年AI人感新品发布会。会上，由长虹空调研发的全新AI雷达智慧眼技术以及系列矩阵新品悉数亮相，进一步强化了空调产品从“被动控制”到“主动智能”的技术跃升。据悉，作为中国雷达产业的奠基者之一，长虹自1958年起就承载着国家感知与探测技术的研发使命。为强化技术领先优势，长虹空调强强联合北京航空航天大学，深度研发AI雷达智慧眼科技，该技术融合AI人工智能、用户大数据，并进行了“远、大、快、准”四大维度升级，可实现6m超远距探测、120°超广域感知、1秒快速响应及97%以上精准度。这也意味着，空调不再需要等待用户的遥控器指令，而是能像雷达一样主动捕捉人的位置、数量甚至动作，真正实现了从“被动模糊控制”向“主动精准感知”的跨越式转变。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkski6991347.d.html</link>
+            <guid>4596741</guid>
+            <pubDate>Tue, 06 Jan 2026 13:57:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
