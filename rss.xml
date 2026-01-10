@@ -4,11 +4,16 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 10 Jan 2026 12:51:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jan 2026 13:32:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[马斯克转发帖子：Grokipedia词条数量刚刚突破600万条，仅过去10天就新增近500万条。]]></title>
+            <guid>4605816</guid>
+            <pubDate>Sat, 10 Jan 2026 13:01:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美农业部暂停明尼苏达州联邦拨款】美国农业部1月9日宣布，立即暂停对明尼苏达州的所有联邦拨款，因为联邦政府正在对该州进行大规模欺诈调查。近来，明尼苏达州的系列社会福利诈骗案不断曝光，涉案金额迅速扩大，并引发政治风波。日前，美国卫生与公共服务部已经宣布冻结了明尼苏达州等5个民主党主政州的儿童与家庭管理局监管的儿童保育与发展基金、贫困家庭临时援助和社会服务拨款等3个项目，金额约106亿美元。（CCTV国际时讯）]]></title>
             <link>https://finance.sina.cn/7x24/2026-01-10/detail-inhfvsui4661021.d.html</link>
@@ -295,12 +300,6 @@
             <title><![CDATA[伊拉克石油部长：伊拉克当前的石油出口量约为350 万桶/日，伊拉克当前石油产量为 428.6 万桶/日。]]></title>
             <guid>4605767</guid>
             <pubDate>Sat, 10 Jan 2026 09:48:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗伊斯兰革命卫队警告称，捍卫革命成果和国家主权是“红线”。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-10/detail-inhfvnnq0329294.d.html</link>
-            <guid>4605766</guid>
-            <pubDate>Sat, 10 Jan 2026 09:47:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
