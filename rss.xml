@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 11 Jan 2026 20:29:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jan 2026 21:23:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【伊朗已有111名安全人员在近期骚乱中丧生】据伊朗塔斯尼姆通讯社11日援引伊朗官方信息报道，伊朗全国范围已有111名安全部门人员在近期骚乱期间维持秩序过程中丧生。另据伊朗官方媒体报道，伊朗政府11日宣布为骚乱期间死难的“烈士”举行为期三天的全国哀悼，并号召民众于12日举行游行以表达对“恐怖犯罪分子”暴力行为的谴责。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfyswy7816128.d.html</link>
+            <guid>4606526</guid>
+            <pubDate>Sun, 11 Jan 2026 21:18:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗政府多举措应对局势，强化安全与供应】据央视报道，1月11日，伊朗总统佩泽希齐扬表示，伊朗政府正在聚焦民众诉求，确保各类供应稳定。11日下午，总台记者在伊朗首都德黑兰观察到，伊朗政府已采取多举措应对局势，强化安全与供应。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfyswz8670446.d.html</link>
+            <guid>4606525</guid>
+            <pubDate>Sun, 11 Jan 2026 20:32:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【古巴外长要求美国停止非法拘留马杜罗】古巴外交部长罗德里格斯11日要求美国停止非法拘留委内瑞拉总统马杜罗。罗德里格斯在社交媒体上表示，委内瑞拉合法总统马杜罗及其妻子已被美方非法扣押8天。古巴敦促美国政府立即停止这种非法拘留，尊重马杜罗的豁免权，并终止这场“司法和媒体的闹剧”，切实保障二人的生命安全与健康权益。他呼吁国际社会共同支持这一正当诉求，以维护国际法权威，并保障马杜罗夫妇的生命权等各项基本权利。（新华社）]]></title>
             <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfysxh0277984.d.html</link>
@@ -283,17 +295,6 @@
             <link>https://finance.sina.cn/7x24/2026-01-11/detail-inhfyhii7390829.d.html</link>
             <guid>4606432</guid>
             <pubDate>Sun, 11 Jan 2026 15:44:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广东汕头突发山火 正全力扑救】记者1月11日从广东省汕头市相关部门了解到，11日下午，汕头市濠江区礐石街道突发山火。火情发生后，当地调动森林防火力量全力参与扑救，暂无人员伤亡。（央视新闻）]]></title>
-            <guid>4606428</guid>
-            <pubDate>Sun, 11 Jan 2026 15:36:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[古巴总统：古巴不能被那些把一切都变成生意的人指手画脚。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-11/detail-inhfyhif8900393.d.html</link>
-            <guid>4606426</guid>
-            <pubDate>Sun, 11 Jan 2026 15:31:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
