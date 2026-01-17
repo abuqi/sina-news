@@ -4,11 +4,17 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 17 Jan 2026 21:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jan 2026 22:25:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【特朗普发出最新关税威胁后 欧盟准备暂停欧美贸易协议】欧盟议员准备暂停批准欧盟与美国的贸易协议，原因是美国总统唐纳德·特朗普誓言对支持格陵兰的国家加征关税。欧洲议会最大的政治团体 —— 欧洲人民党(EPP) —— 主席Manfred Weber周六表示，与美国的协议已经没有可能。“EPP支持欧盟-美国贸易协议，但鉴于特朗普就格陵兰发出的威胁，现阶段批准已不可能，”Weber在社交媒体发帖表示，并称欧盟在协议中同意下调“美国产品”关税的安排“必须暂停”。欧盟-美国贸易协议由欧盟委员会主席冯德莱恩去年夏天与特朗普达成。协议部分内容已在实施，但仍需获得欧洲议会正式核可。若EPP议员与左倾政治团体联手，可能有足够票数来推迟或否决其批准。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-18/detail-inhhsmvf9122090.d.html</link>
+            <guid>4619020</guid>
+            <pubDate>Sat, 17 Jan 2026 21:35:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【马克龙：美关税威胁“不可接受”】美国总统特朗普17日宣布对支持格陵兰岛的欧洲国家加征关税后，法国总统马克龙在社交媒体发文说，关税威胁“不可接受”，欧洲将团结应对。马克龙表示，法国致力于维护世界各国的主权和独立，并以此为遵循支持丹麦维护主权，因而决定参加丹麦在格陵兰岛组织的演习。格陵兰岛事关北极安全和欧洲边疆安全。“任何恐吓或威胁都无法动摇我们，”马克龙写道，“关税威胁不可接受，也不合时宜。欧洲将团结一致、协调应对，共同捍卫欧洲主权。”（新华社）]]></title>
             <link>https://finance.sina.cn/7x24/2026-01-18/detail-inhhsfpf4040348.d.html</link>
@@ -291,11 +297,6 @@
             <link>https://finance.sina.cn/7x24/2026-01-18/detail-inhhruxm4237466.d.html</link>
             <guid>4618931</guid>
             <pubDate>Sat, 17 Jan 2026 16:25:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统特朗普：自2026 年 2 月 1 日起，丹麦、挪威、瑞典、法国、德国、英国、荷兰、芬兰输往美国的所有商品，均将被征收10% 的关税。到2026 年 6 月 1 日，该关税税率将上调至25%。这一关税将持续征收，直至美国与相关方达成全面收购格陵兰岛的协议为止。]]></title>
-            <guid>4618929</guid>
-            <pubDate>Sat, 17 Jan 2026 16:24:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
