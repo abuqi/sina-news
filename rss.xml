@@ -4,11 +4,35 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 25 Jan 2026 19:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jan 2026 20:30:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[以太坊跌破2800美元，日内跌5.20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-26/detail-inhiqhip9469296.d.html</link>
+            <guid>4636248</guid>
+            <pubDate>Sun, 25 Jan 2026 20:15:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄军事专家预测美欲在格陵兰岛建核潜艇后勤基地】据央视新闻报道，俄罗斯国民经济和国家行政学院的军事专家亚历山大·斯捷潘诺夫分析认为，美国想要在格陵兰岛部署“金穹”导弹防御系统，是为了监控北极局势，并获取拦截俄罗斯高超音速武器的能力。斯捷潘诺夫预测，美军可能将在格陵兰岛增建地面跟踪站和雷达系统；建立为核潜艇提供支持的后勤基地；同时部署专用侦察船和破冰船等，以实现对北极航道的综合监控与巡逻。美国总统特朗普此前表示，美国需要得到格陵兰岛，称这对美国正在建设的“金穹”导弹防御系统至关重要。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-26/detail-inhiqhip9469179.d.html</link>
+            <guid>4636247</guid>
+            <pubDate>Sun, 25 Jan 2026 20:13:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  瑞士法郎延续涨势，兑美元汇率上涨 0.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-26/detail-inhiqhin0979021.d.html</link>
+            <guid>4636246</guid>
+            <pubDate>Sun, 25 Jan 2026 20:03:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：默克公司已终止收购Revolution Medicines的相关谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-26/detail-inhiqhip9462979.d.html</link>
+            <guid>4636245</guid>
+            <pubDate>Sun, 25 Jan 2026 19:33:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[比特币跌破87000美元，日内跌2.81%。]]></title>
             <link>https://finance.sina.cn/7x24/2026-01-26/detail-inhiqhip9461216.d.html</link>
@@ -273,30 +297,6 @@
             <link>https://finance.sina.cn/7x24/2026-01-25/detail-inhipvts1188903.d.html</link>
             <guid>4636090</guid>
             <pubDate>Sun, 25 Jan 2026 14:51:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[贝森特：帮助控制北极交通具有重要的战略意义。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-25/detail-inhipvtt9677586.d.html</link>
-            <guid>4636086</guid>
-            <pubDate>Sun, 25 Jan 2026 14:50:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[贝森特：我们最终将结束俄乌冲突。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-25/detail-inhipvtt9677481.d.html</link>
-            <guid>4636085</guid>
-            <pubDate>Sun, 25 Jan 2026 14:49:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大总理卡尼：美国关税影响美国人的购买力。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-25/detail-inhipvts1188251.d.html</link>
-            <guid>4636083</guid>
-            <pubDate>Sun, 25 Jan 2026 14:45:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2026年我国潮玩产业总价值或突破1000亿元】兴趣消费是消费者基于个人兴趣爱好或情感需求产生的消费行为，核心是为“热爱”买单。随着90后、00后成为消费主力军，露营装备、手办潮玩等新型兴趣消费正在快速崛起。记者了解到，除了一些各式各样的玩偶手办，一些更为细分的赛道——娃衣、挂件，也正在年轻人当中悄然圈粉。《中国潮玩与动漫产业发展报告》数据显示，2026年，中国潮玩产业总价值预计将达到1101亿元，年均增速超过20%。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-25/detail-inhipvtm9815020.d.html</link>
-            <guid>4636080</guid>
-            <pubDate>Sun, 25 Jan 2026 14:43:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
