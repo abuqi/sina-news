@@ -4,11 +4,75 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 25 Jan 2026 17:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jan 2026 18:37:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【以色列空袭黎巴嫩南部致死两人】据黎巴嫩国家通讯社25日报道，以色列当天空袭黎南部地区，致两人死亡、5人受伤。黎巴嫩安全部门消息人士告诉记者，在此次空袭中死亡的两人是黎巴嫩真主党成员。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-26/detail-inhiqhip9453246.d.html</link>
+            <guid>4636232</guid>
+            <pubDate>Sun, 25 Jan 2026 18:36:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国副防长将访日 或要求日本提高防卫费】日本方面25日消息称，美国国防部24日宣布，国防部副防长埃尔布里奇·科尔比将于近日访问日本和韩国。据悉，美国国防部23日发布了新版《国家防务战略》，要求盟友将防务开支占国内生产总值（GDP）的比重提高至5%。科尔比主管国防政策，被视为推动盟友提高国防开支的核心人物，此行或将直接要求日本增加防卫费。日本政府应对美方施压提高防卫费的举动保持高度警惕。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-26/detail-inhiqhii8554586.d.html</link>
+            <guid>4636231</guid>
+            <pubDate>Sun, 25 Jan 2026 18:29:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美元兑日元汇率走低，下跌 0.47%，报 155.00 日元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-26/detail-inhipzzm8683644.d.html</link>
+            <guid>4636224</guid>
+            <pubDate>Sun, 25 Jan 2026 18:17:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据《日经新闻》：野村控股、SBI控股等金融集团拟推出日本首批加密货币交易所交易基金（ETF）， 最快或于 2028 年批准。]]></title>
+            <guid>4636211</guid>
+            <pubDate>Sun, 25 Jan 2026 18:06:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【哈马斯称已移交以方被扣押人员及遗体 敦促以方履约】当地时间25日，巴勒斯坦伊斯兰抵抗运动（哈马斯）下属卡桑旅发言人阿布·乌拜达发表声明称，哈马斯已根据停火协议要求承担起责任，以“完全透明”的方式处理以色列被扣押人员及遗体问题，并在最短时间内没有任何拖延地移交了所有在其掌握内的幸存者及相关人员遗体。阿布·乌拜达表示，尽管以色列方面未履行承诺，并数十次违反协议、实施袭击，但卡桑旅仍在极其复杂的条件下完成了遗体搜寻和移交工作。他强调，卡桑旅希望尽快彻底结束这一议题，并呼吁相关斡旋方承担责任，督促以色列执行协议内容。对于最后一名以方人员遗体，阿布·乌拜达称，卡桑旅已向斡旋方提供所有相关细节和位置信息。他表示，以色列方面目前正在根据卡桑旅提供的信息在相关地点进行搜寻。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-26/detail-inhipzzi9717417.d.html</link>
+            <guid>4636189</guid>
+            <pubDate>Sun, 25 Jan 2026 17:43:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【尼泊尔改选联邦院 尼泊尔大会党成第一大党】尼泊尔选举委员会25日宣布，在当天举行的联邦院（议会上院）选举中，尼泊尔大会党赢得9个席位，成为联邦院第一大党。选举委员会在一份声明中说，尼泊尔共产党（联合马列）赢得8个席位，尼泊尔社会民主党赢得一个席位，而由尼泊尔共产党（毛主义中心）等合并而成的尼泊尔共产党未获得席位。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-26/detail-inhipzzr9574148.d.html</link>
+            <guid>4636188</guid>
+            <pubDate>Sun, 25 Jan 2026 17:41:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【外资公募坚定看多A股 布局科技赛道】随着2025年公募基金四季报披露收官，贝莱德基金、富达基金、路博迈基金、安联基金、施罗德基金、联博基金等外商独资公募机构的布局与市场观点逐渐浮出水面。Wind资讯数据显示，外资公募旗下多只产品2025年净值涨幅超50%，亮眼业绩背后是对中国科技赛道的深度布局——中际旭创、寒武纪、新易盛等科技龙头相继成为重仓股。展望2026年，外资公募机构普遍维持高仓位策略，坚定看好A股配置价值，认为优质科技资产将引领新质生产力驱动下的价值重估。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-26/detail-inhipzzr9572633.d.html</link>
+            <guid>4636182</guid>
+            <pubDate>Sun, 25 Jan 2026 17:33:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【黎真主党呼吁政府采取行动 敦促以方释放被扣押人员】当地时间25日，黎巴嫩真主党领导人纳伊姆·卡西姆向被以色列扣押的黎巴嫩人员及家属发表讲话，他呼吁进行最广泛的官方和民众动员，并施加国际压力，以确保被关押在以色列监狱中的黎巴嫩被扣押人员获释。卡西姆对黎巴嫩政府未能采取“适当行动”以及未能“向友好国家施加足够压力”推进此事表示遗憾，并补充说这个问题并未被列入国家优先事项。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-26/detail-inhipzzr9572531.d.html</link>
+            <guid>4636181</guid>
+            <pubDate>Sun, 25 Jan 2026 17:32:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：我正斥资 3 亿多美元打造一座堪称全球顶尖、最为华美绝伦的宴会厅。一分一毫都未动用纳税人的钱！目前，项目所需的各类材料与设备，均已下单（部分已准备就绪）。这是献给美利坚合众国的一份宏伟、壮丽的厚礼！]]></title>
+            <guid>4636180</guid>
+            <pubDate>Sun, 25 Jan 2026 17:31:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【泽连斯基：乌美双边安全保障文件已准备就绪】当地时间1月25日，乌克兰总统泽连斯基在访问立陶宛期间表示，乌美双边安全保障文件已准备就绪，正在等待美国方面关于签署日期和地点的通知。此外针对谈判问题，他表示乌美俄三方都必须准备好达成妥协，美国方面也不例外。他表示有很多难题，但乌方对领土问题的立场不会改变，乌克兰不会让出自己的领土。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-26/detail-inhipzzm8673460.d.html</link>
+            <guid>4636179</guid>
+            <pubDate>Sun, 25 Jan 2026 17:28:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[世界银行：与卡塔尔基金签署谅解备忘录，多哈办事处正式揭牌。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-26/detail-inhipzzr9570905.d.html</link>
+            <guid>4636178</guid>
+            <pubDate>Sun, 25 Jan 2026 17:24:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【芬兰总理抵京后发文：此次行程充满意义】1月25日凌晨，芬兰总理奥尔波抵达北京，开启为期4天的访华行程。抵达后，奥尔波在社交媒体发文，“来自中国北京的问候。此次我率芬兰企业代表团进行正式访问，旨在为芬兰企业开拓机遇，进一步推动芬兰对亚洲市场的出口。此次行程充满意义！”（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2026-01-26/detail-inhipzzr9564602.d.html</link>
@@ -232,70 +296,6 @@
             <link>https://finance.sina.cn/7x24/2026-01-25/detail-inhipvtt9668848.d.html</link>
             <guid>4636051</guid>
             <pubDate>Sun, 25 Jan 2026 13:57:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京GDP突破5万亿 2026年投资规模将首次达到万亿】根据北京市统计局不久前发布的数据，2025年北京实现地区生产总值52073.4亿元，北京成为我国第二个经济规模突破5万亿元的城市。北京市市长殷勇1月25日在政府工作报告中提到，北京2026年GDP预计增长5%左右。北京市发展改革委副主任韩伟表示，完成今年的经济增长目标，投资需要进一步发挥关键支撑作用，“北京2026年的投资规模首次要达到万亿元以上，压力很大，但我们将全力以赴，千方百计努力完成目标任务”。 （中国青年报）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-25/detail-inhipvts1179809.d.html</link>
-            <guid>4636050</guid>
-            <pubDate>Sun, 25 Jan 2026 13:56:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以军中央司令部举行预定演习 称旨在提升应对极端情景能力】当地时间1月25日获悉，以色列国防军中央司令部当天上午启动一项预先计划的军事演习，重点提升部队应对“极端情景”的战备能力。据悉，以军中央司令部主要负责约旦河西岸地区及与约旦接壤的大部分边界地区。以军表示，此次演习涉及多个师级部队以及以色列国防部下设的政府领土活动协调处（COGAT）隶属下的“民政管理局”。以军称，演习除提升战备外，还将检验“从司令部层级到总参谋部层级的作战流程执行情况”。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-25/detail-inhiprmr8893335.d.html</link>
-            <guid>4636046</guid>
-            <pubDate>Sun, 25 Jan 2026 13:48:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【星河动力总工李君：液体回收火箭智神星二号预计今年首飞】在2026北京国际商业航天论坛上，星河动力总工程师李君透露，星河动力液体回收火箭智神星二号预计在2026年首飞，智神星二号运载火箭为直径4.5m的大型模块化可重复使用液体运载火箭，包括基本型和CBC两种构型：基本型起飞质量约757t，起飞推力约910t，LEO运载能力20t；CBC构型起飞质量约1950t，起飞推力约2730t，LEO运载能力58t。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-25/detail-inhiprmr8893030.d.html</link>
-            <guid>4636045</guid>
-            <pubDate>Sun, 25 Jan 2026 13:46:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗官员称伊武装力量已进入全面戒备状态】当地时间1月25日，伊朗议会国家安全与外交政策委员会成员穆赫辛尼·萨尼在接受采访时表示，针对敌方当前的军事部署，伊朗武装力量已进入全面戒备状态。萨尼强调，伊朗正持续监测地区内所有敌对动向，军队已“手扣扳机”随时待命。一旦遭到任何形式的侵犯，伊朗将发起猛烈反击，其打击范围涵盖从霍尔木兹海峡到美国在地区内的所有利益网，回击手段将超出敌方的预判。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-25/detail-inhiprmv9796176.d.html</link>
-            <guid>4636044</guid>
-            <pubDate>Sun, 25 Jan 2026 13:37:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特阿拉伯11月石油出口额同比增长5.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-25/detail-inhiprmp9930658.d.html</link>
-            <guid>4636043</guid>
-            <pubDate>Sun, 25 Jan 2026 13:36:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会主席冯德莱恩：“我今天非常高兴来到印度。印度和欧洲已经做出了明确的选择：建立战略伙伴关系，开展对话，保持开放的态度，发挥彼此的互补优势，并建立共同的韧性。我们正在向这个分裂的世界展示，还有另一种可能性。”]]></title>
-            <guid>4636042</guid>
-            <pubDate>Sun, 25 Jan 2026 13:30:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗通信部门：尚未接到恢复国际互联网连接的指令】当地时间1月25日，伊朗信息和通信技术部发表声明，针对法尔斯通讯社此前关于“国家最高安全委员会已下令恢复国际互联网”的报道予以否认。声明表示，有关“收到解封指令”的消息并不属实。目前，伊朗境内的国际互联网访问限制尚未解除。此前有消息称，伊朗国际互联网服务将于未来24小时内全面恢复。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-25/detail-inhiprmv9793336.d.html</link>
-            <guid>4636041</guid>
-            <pubDate>Sun, 25 Jan 2026 13:24:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[明尼苏达州参议员AMY KLOBUCHAR：我不会投票支持给ICE提供更多资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-25/detail-inhiprmv9791939.d.html</link>
-            <guid>4636040</guid>
-            <pubDate>Sun, 25 Jan 2026 13:16:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[截至美国东部时间上午8点09分，美国停电信息网站PowerOutage.us显示，路易斯安那州报告的停电次数为102,918次。]]></title>
-            <guid>4636039</guid>
-            <pubDate>Sun, 25 Jan 2026 13:10:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗称在多地抓获数百名与近期骚乱有关人员】伊朗情报部门在亚兹德省采取大规模行动，成功识别并逮捕了150多名涉嫌在近期骚乱中起领导作用的核心成员。通报指出，这些被捕者并非普通抗议者，而是与多个境外势力及非法组织有着深度关联的“动乱首领”。情报部门强调，此次被捕人员长期从事破坏活动，旨在响应外部势力制定的“美式骚乱”计划。目前，所有嫌疑人已被移送相关部门接受进一步审查。另据伊朗戈勒斯坦省情报局消息，伊朗情报部门通过严密的侦查行动及民众举报，在该省成功抓获40名参与破坏公共财产、扰乱社会秩序的核心成员。此外，伊朗塞姆南省警方宣布已成功抓获19名涉嫌在近期骚乱中破坏公共财产的犯罪嫌疑人。塞姆南省警察总指挥官在通报中指出，这些被捕者不仅直接参与了破坏和焚烧公共及私人财产的违法行为，还涉嫌煽动、教唆其他示威者参与骚乱。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-25/detail-inhiprmr8882780.d.html</link>
-            <guid>4636038</guid>
-            <pubDate>Sun, 25 Jan 2026 13:06:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【百度文心助手入局春节AI大战 将发放5亿现金】百度发布文心助手关于春节现金红包活动的通知。自1月26日至3月12日，用户在百度APP使用文心助手，有机会瓜分5亿现金红包，最高可获得1万元奖励。此外，百度APP还将作为首席AI合作伙伴合作《2026北京广播电视台春节联欢晚会》。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-25/detail-inhiprmr8882270.d.html</link>
-            <guid>4636037</guid>
-            <pubDate>Sun, 25 Jan 2026 13:04:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
