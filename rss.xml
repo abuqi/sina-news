@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 07 Feb 2026 20:35:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Feb 2026 21:32:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[南非央行行长：南非渴望获得欧洲央行新的回购贷款安排。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-08/detail-inhkzxap6561178.d.html</link>
+            <guid>4669514</guid>
+            <pubDate>Sat, 07 Feb 2026 21:10:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【闪崩！韩国币圈超级乌龙指！】本周五，韩国加密货币交易所Bithumb误向用户发放了价值超过400亿美元的比特币。据韩联社援引未具名人士报道，Bithumb原计划向一项活动的获奖者发放62万韩元（约424美元），但一名员工在录入时把“韩元”错输成了“比特币”。该错误导致交易所在周五当地时间晚上7点向695名用户发放了62万枚比特币，获奖者实际收到的却是每人至少2000 枚比特币。而收到比特币的用户，在看到后第一件事就是砸盘、变现、赶紧提走跑路。交易所称，这一问题在20分钟内就被发现。Bithumb在声明中表示：“部分用户账户被错误发放了异常数量的比特币。由于其中一些账户开始卖出入账的比特币，比特币价格出现了短暂但剧烈的波动。”（中国基金报）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-08/detail-inhkzxap6558733.d.html</link>
+            <guid>4669513</guid>
+            <pubDate>Sat, 07 Feb 2026 20:53:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【苏翊鸣获得米兰冬奥会中国代表团首枚奖牌】在米兰-科尔蒂纳冬奥会单板滑雪男子大跳台决赛中，中国选手苏翊鸣获得铜牌，这是中国体育代表团在本届冬奥会获得的首枚奖牌。]]></title>
             <link>https://finance.sina.cn/7x24/2026-02-08/detail-inhkzsur6678142.d.html</link>
@@ -282,18 +294,6 @@
             <link>https://finance.sina.cn/7x24/2026-02-07/detail-inhkzhev6872060.d.html</link>
             <guid>4669374</guid>
             <pubDate>Sat, 07 Feb 2026 14:13:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泽连斯基：俄军袭击导致乌克兰多地大规模停电】当地时间2月7日，乌克兰总统泽连斯基在其官方社交平台发文称，当天，俄罗斯对乌克兰的大规模袭击导致乌能源设施严重受损，这对乌全国的电力供应产生了重大影响，许多地区出现大规模停电。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-07/detail-inhkzhev6867613.d.html</link>
-            <guid>4669373</guid>
-            <pubDate>Sat, 07 Feb 2026 13:58:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【洋山港1月干线集装箱船舶流量首破800艘次 创历史新高】据浦东发布消息，从洋山港海事局获悉，2026年1月，洋山港国际干线集装箱船舶月度进出港艘次创历史新高，达到834艘次，同比增长约4.38%，环比增长5.04%，集装箱月吞吐量达261.5万标准箱，迎来“开门红”。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-07/detail-inhkzheu0090228.d.html</link>
-            <guid>4669372</guid>
-            <pubDate>Sat, 07 Feb 2026 13:58:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
