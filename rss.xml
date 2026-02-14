@@ -4,11 +4,29 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 14 Feb 2026 20:33:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Feb 2026 21:30:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【法国检方将分析爱泼斯坦案文件】当地时间14日获悉，巴黎检察院当天宣布，已指定专责法官，分析美国近期公布新一批爱泼斯坦案相关文件中可能涉及法国公民的内容。巴黎检察院表示正与国家金融检察院协调，并同司法警察部门合作，研究这批文件，以便展开调查。巴黎检察院表示将对已故知名模特经纪人让-吕克·布吕内尔的案件进行全面重新审查。布吕内尔被视为美国富商爱泼斯坦的长期合作伙伴，因涉嫌强奸和贩卖未成年少女而受到起诉，2020年12月起羁押候审，2022年2月被发现在狱中自缢身亡，所涉案件因而结案。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-15/detail-inhmvuxs7530496.d.html</link>
+            <guid>4682813</guid>
+            <pubDate>Sat, 14 Feb 2026 21:27:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国北部一购物中心发生火灾 数人失踪】德国方面14日援引消防部门消息称，德国北部城市基尔市中心一家购物中心当天发生火灾，已有数人失踪。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-15/detail-inhmvuxw1530689.d.html</link>
+            <guid>4682803</guid>
+            <pubDate>Sat, 14 Feb 2026 21:23:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【谷爱凌闯入米兰冬奥会自由式滑雪女子大跳台决赛】北京时间2月15日，在米兰-科尔蒂纳冬奥会自由式滑雪女子大跳台预赛中，中国选手谷爱凌成功闯入决赛。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-15/detail-inhmvuxs7525018.d.html</link>
+            <guid>4682794</guid>
+            <pubDate>Sat, 14 Feb 2026 20:52:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【尼日利亚中北部发生武装袭击事件】当地时间2月14日，尼日利亚中北部尼日尔州3个社区遭武装袭击，造成至少30人死亡，另有数量不明的人员被绑架。此外，武装人员还纵火烧毁房屋和警察局，迫使部分当地居民逃离家园。尼日尔州警方表示联合安全小组已赶赴现场进行评估，救援被绑架者的工作正在进行中。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2026-02-15/detail-inhmvqru7652459.d.html</link>
@@ -279,18 +297,6 @@
             <link>https://finance.sina.cn/7x24/2026-02-14/detail-inhmvczy7846086.d.html</link>
             <guid>4682721</guid>
             <pubDate>Sat, 14 Feb 2026 14:38:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：叙利亚外长在慕尼黑安全会议间隙会见了库尔德自治区主席内奇尔万·巴尔扎尼。]]></title>
-            <guid>4682720</guid>
-            <pubDate>Sat, 14 Feb 2026 14:37:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【王毅会见捷克副总理兼外长马青卡】中共中央政治局委员、外交部长王毅14日在出席慕尼黑安全会议期间应约会见捷克副总理兼外长马青卡。王毅表示，中捷两国有着友好传统，捷克是最早同新中国建交的国家之一。但前些年，中捷关系经历了曲折，这并不符合双方利益。今年是中捷战略伙伴关系建立10周年。中方赞赏捷克新政府积极致力于改善对华关系，愿同捷方相向而行，共同努力，推动中捷关系尽早重返健康发展轨道。希望捷方树立正确对华认知，切实恪守一个中国原则，尊重中国的核心利益。双方要鼓励各领域各层级交往，增进彼此了解互信，在此基础上开展务实合作，把失去时间补回来。
-马青卡表示，中国是世界性强国。捷方珍视捷中传统友好，期待以捷中建立战略伙伴关系10周年为契机，翻开两国关系的新篇章。捷方坚决奉行一个中国政策，承认中华人民共和国是代表全中国的唯一合法政府，尊重并支持中国维护主权和领土完整。捷方期待同中方改善关系，恢复高层交往，推进经贸、旅游、人文等各领域合作。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-14/detail-inhmveae1856356.d.html</link>
-            <guid>4682719</guid>
-            <pubDate>Sat, 14 Feb 2026 14:34:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
