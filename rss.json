@@ -6,6 +6,32 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 4683257,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-16/detail-inhmxtqu6628375.d.html",
+            "title": "  特朗普和平委员会在华盛顿召开首次会议。",
+            "date_modified": "2026-02-15T18:25:19.000Z"
+        },
+        {
+            "id": 4683248,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-16/detail-inhmxtqu6621074.d.html",
+            "title": "【缅甸要求东帝汶驻缅临时代办限时离境】缅甸外交部15日发表声明，要求东帝汶驻缅甸大使馆临时代办埃利西奥·多罗萨里奥·德索萨于20日前离境，缘由是缅方认为，东帝汶政府近期一些涉及缅甸的行为违反《东盟宪章》所强调的尊重主权、互不干涉内政等原则。",
+            "date_modified": "2026-02-15T18:02:24.000Z"
+        },
+        {
+            "id": 4683243,
+            "content_html": "",
+            "title": "市场消息：特朗普政府高级制裁官员JOHN HURLEY因与财政部长贝森特产生摩擦，即将离职。",
+            "date_modified": "2026-02-15T18:00:04.000Z"
+        },
+        {
+            "id": 4683217,
+            "content_html": "",
+            "title": "据CBS援引两位知情人士消息：美国总统特朗普告知以色列总理内塔尼亚胡，他将支持以色列对伊朗弹道导弹计划发动袭击。",
+            "date_modified": "2026-02-15T17:30:36.000Z"
+        },
+        {
             "id": 4683206,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2026-02-16/detail-inhmxpic7884508.d.html",
@@ -314,33 +340,6 @@
             "url": "https://finance.sina.cn/7x24/2026-02-15/detail-inhmxhza3586781.d.html",
             "title": "美国政府边境事务主管汤姆·霍曼：周一和周二将有数百名特工离开明尼苏达。",
             "date_modified": "2026-02-15T13:10:29.000Z"
-        },
-        {
-            "id": 4683090,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-15/detail-inhmxhza3586739.d.html",
-            "title": "美国政府边境事务主管汤姆·霍曼：明尼苏达州已经有超过1,000名特工被开除。",
-            "date_modified": "2026-02-15T13:10:14.000Z"
-        },
-        {
-            "id": 4683089,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-15/detail-inhmxhzf7968929.d.html",
-            "title": "莫迪谈到上调国防预算：印度必须保持强大并做好准备。",
-            "date_modified": "2026-02-15T13:09:47.000Z"
-        },
-        {
-            "id": 4683088,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-15/detail-inhmxhzf7968877.d.html",
-            "title": "鲁比奥：特朗普更倾向于通过外交途径与伊朗接触。",
-            "date_modified": "2026-02-15T13:09:32.000Z"
-        },
-        {
-            "id": 4683087,
-            "content_html": "",
-            "title": "美国国务卿鲁比奥表示，他认为特朗普的助手维特科夫和库什纳“此刻”正在出行，以便就伊朗问题举行重要会议。",
-            "date_modified": "2026-02-15T13:09:15.000Z"
         }
     ]
 }
