@@ -4,11 +4,38 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Mon, 16 Feb 2026 18:53:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Feb 2026 19:35:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[古德曼地产信托（GMT）宣布重新估值和结构更新，并将启动高达1.25亿新西兰元的在售单元回购计划。]]></title>
+            <guid>4684079</guid>
+            <pubDate>Mon, 16 Feb 2026 19:33:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  哥伦比亚劳工部长：哥伦比亚政府将捍卫最低工资上调政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-17/detail-inhnaavu2416373.d.html</link>
+            <guid>4684078</guid>
+            <pubDate>Mon, 16 Feb 2026 19:32:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国前总统奥巴马澄清说，他在播客中关于外星人的言论只是基于统计学的推测，并非证据；包括比尔・克林顿、马尔科・鲁比奥在内的多名官员也表示，目前仍没有外星生命接触的确凿证据。]]></title>
+            <guid>4684077</guid>
+            <pubDate>Mon, 16 Feb 2026 19:22:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰国家安全与国防委员会秘书乌梅罗夫：乌克兰代表团已经抵达日内瓦。明天，我们将开始新一轮三方谈判。议程已经确定，谈判团队也已准备就绪。我们期待就安全和人道主义问题开展建设性工作和实质性会谈，以期朝着有尊严和可持续的和平迈进。]]></title>
+            <guid>4684076</guid>
+            <pubDate>Mon, 16 Feb 2026 19:16:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒指期货夜盘收涨1.04%，报26778.91点，高水72.97点。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-17/detail-inhnaavv9590062.d.html</link>
+            <guid>4684075</guid>
+            <pubDate>Mon, 16 Feb 2026 19:00:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[泽连斯基表示，俄罗斯发动更多攻击将使达成结束冲突的协议变得更加困难。]]></title>
             <link>https://finance.sina.cn/7x24/2026-02-17/detail-inhnaavx6690422.d.html</link>
@@ -266,33 +293,6 @@
             <link>https://finance.sina.cn/7x24/2026-02-17/detail-inhmzwpu5714770.d.html</link>
             <guid>4684028</guid>
             <pubDate>Mon, 16 Feb 2026 16:45:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士苏黎世机场就机场收费谈判达成协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-17/detail-inhmzwpx9690425.d.html</link>
-            <guid>4684027</guid>
-            <pubDate>Mon, 16 Feb 2026 16:43:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[匈牙利油气工业股份公司（MOL）：正与斯洛伐克政府保持密切联系，以确保该国能够迅速应对当前局势。]]></title>
-            <guid>4684026</guid>
-            <pubDate>Mon, 16 Feb 2026 16:41:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[匈牙利油气工业股份公司（MOL）：如果未来几天来自东方的原油运输不能恢复，匈牙利可能需要在首轮释放约25万吨战略原油。]]></title>
-            <guid>4684025</guid>
-            <pubDate>Mon, 16 Feb 2026 16:40:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[匈牙利油气工业股份公司（MOL）：首批原油预计将于3月初抵达克罗地亚的奥米沙利港。]]></title>
-            <guid>4684024</guid>
-            <pubDate>Mon, 16 Feb 2026 16:39:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[匈牙利油气工业股份公司（MOL）：已开始向其炼油厂供应海运原油，以弥补供应短缺。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-17/detail-inhmzwpz6791278.d.html</link>
-            <guid>4684023</guid>
-            <pubDate>Mon, 16 Feb 2026 16:39:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
