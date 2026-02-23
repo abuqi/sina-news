@@ -4,298 +4,291 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Mon, 23 Feb 2026 02:44:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Feb 2026 05:03:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[菲律宾股指上涨 1%，报 6,530.59 点。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnuhin3024783.d.html</link>
-            <guid>4692642</guid>
-            <pubDate>Mon, 23 Feb 2026 02:43:20 GMT</pubDate>
+            <title><![CDATA[韩国央行：受芯片因素影响，GDP上行风险较11月预测略有增加。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnunrn0008829.d.html</link>
+            <guid>4692874</guid>
+            <pubDate>Mon, 23 Feb 2026 05:02:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[现货白银日内涨4%，现报87.65美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnuhiq0103325.d.html</link>
-            <guid>4692639</guid>
-            <pubDate>Mon, 23 Feb 2026 02:41:52 GMT</pubDate>
+            <title><![CDATA[据英国金融时报报道，劳斯莱斯敦促英国政府承诺为一项价值30亿英镑的发动机项目提供补贴。]]></title>
+            <guid>4692873</guid>
+            <pubDate>Mon, 23 Feb 2026 05:02:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[恒生科技指数涨超4%，现报5420.410点；恒生指数现涨2.796%。]]></title>
-            <guid>4692636</guid>
-            <pubDate>Mon, 23 Feb 2026 02:41:48 GMT</pubDate>
+            <title><![CDATA[据英国金融时报报道，尽管欧洲央行员工有薪酬禁令，克里斯蒂娜·拉加德仍从国际清算银行获得14万欧元报酬。]]></title>
+            <guid>4692872</guid>
+            <pubDate>Mon, 23 Feb 2026 05:02:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中信证券：维持阿里巴巴“买入”评级 预计围绕“消费+AI”战略持续投入】中信证券发布研报称，春节期间阿里巴巴在AI领域动作密集，模型升级与应用放量同步推进，进一步强化全栈AI布局。2月16日除夕夜，公司开源发布Qwen3.5-Plus，采用混合MoE稀疏架构，总参数3970亿、激活170亿，在显存占用下降约60%的情况下推理吞吐量最高提升19倍，API价格低至0.8元/百万Token，兼顾性能与成本效率，为后续Agent应用奠定底层能力基础。应用侧，千问推出30亿元“春节请客计划”，9小时订单突破1000万单，累计完成1.2亿笔AI购物订单，日活达7352万，全面接入核心生态，实现从对话工具向可履约助手升级。整体来看，本轮动作体现公司在模型、算力、云与应用生态层面的协同推进。整体来看，该行判断公司将围绕“消费+AI”战略持续投入，驱动公司核心业务持续上行，该行依旧看好公司作为优质中国全栈AI资产的独特卡位和长期投资价值，维持公司港股及美股“买入”评级。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnuhin3024360.d.html</link>
-            <guid>4692635</guid>
-            <pubDate>Mon, 23 Feb 2026 02:41:42 GMT</pubDate>
+            <title><![CDATA[摩根大通CEO戴蒙试图让摩根大通投资者接受每周20亿美元的成本账单。（英国金融时报）]]></title>
+            <guid>4692871</guid>
+            <pubDate>Mon, 23 Feb 2026 05:02:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【全国高速公路车流量预计超6600万辆次】今天全国高速公路出行依然以返程车流为主，车流量虽有回落，但仍维持高位运行，预计全国高速公路车流量超6600万辆次。出行时间集中在9时至12时、14时至19时。根据预测，福银高速、长深高速、京昆高速、二广高速部分路段车流量短时相对集中。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnuhik6246947.d.html</link>
-            <guid>4692630</guid>
-            <pubDate>Mon, 23 Feb 2026 02:40:54 GMT</pubDate>
+            <title><![CDATA[新加坡1月份核心CPI同比增长1.0%；预估1.5%。新加坡1月份CPI同比增长1.4%；预估1.4%。]]></title>
+            <guid>4692870</guid>
+            <pubDate>Mon, 23 Feb 2026 05:00:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【民航出行集中 海南三大机场迎客流峰值日】今天，海南三大机场将迎来整个春运期间客流峰值日，预计运送旅客将突破23.2万人次。此外，今天热门的航线还包括上海虹桥至北京首都、深圳宝安、广州白云、北京首都至深圳宝安、哈尔滨太平至上海浦东、杭州萧山至广州白云等。]]></title>
-            <guid>4692627</guid>
-            <pubDate>Mon, 23 Feb 2026 02:40:34 GMT</pubDate>
+            <title><![CDATA[【男子冰球美国队摘金 白宫发帖嘲讽加拿大】米兰冬奥会男子冰球决赛22日进行，美国队通过加时以2:1险胜加拿大队，时隔46年再夺该项目奥运冠军。 美国冰球队战胜加拿大后，白宫在发布了一则带有政治意味的帖文，引发争议。 白宫23日在其X平台官方账号上传了一张白头鹰攻击加拿大雁的图片，这两种动物被认为分别象征美国与加拿大。帖文转发了加拿大前总理特鲁多2025年发表的言论，当时加拿大在“四国冰球赛”中击败美国夺冠，特鲁多赛后表示：“你们无法夺走我们的国家，也无法夺走我们的运动。”当时美国总统特朗普曾屡次发表加拿大应成为美国第51州的言论。 白宫的帖子引起了加拿大各界人士的批评。加拿大英属哥伦比亚大学政治学教授斯图尔特·普雷斯顿回帖时写道：“保持风度吧，美国。”]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnunrh6149937.d.html</link>
+            <guid>4692869</guid>
+            <pubDate>Mon, 23 Feb 2026 05:00:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【今天全国铁路预计发送旅客1850万人次】春节假期进入尾声，全国铁路将迎返程最高峰。今天，全国铁路预计发送旅客1850万人次，计划加开旅客列车2297列。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnuhik6246802.d.html</link>
-            <guid>4692626</guid>
-            <pubDate>Mon, 23 Feb 2026 02:40:14 GMT</pubDate>
+            <title><![CDATA[【杰富瑞因担忧人工智能带来的冲击而下调六家印度信息技术公司评级】杰富瑞下调六家印度 IT 公司评级，理由是人工智能工具带来的冲击预计将导致业务出现结构性变化。杰富瑞将印度最大 IT 出口商塔塔咨询服务公司（TCS）评级从 “持有” 下调至 “跑输大盘”；将印孚瑟斯（Infosys）、HCLTech 评级从 “买入” 下调至 “持有”；将 LTIMindtree、Hexaware Technologies 评级下调至 “跑输大盘”，将 Mphasis 评级下调至 “持有”。印度 Nifty IT 指数下跌 1.1%，为主要行业中表现最差板块。杰富瑞表示，人工智能可能会使 IT 业务结构向咨询与实施转型，同时压缩托管服务规模。这不仅会增加行业周期性波动，还需要企业调整人才结构与运营模式，从而加剧风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnunrh6149603.d.html</link>
+            <guid>4692868</guid>
+            <pubDate>Mon, 23 Feb 2026 04:58:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[恒生中国企业指数上涨约2.9%，迈向5月以来最大涨幅，此前美国最高法院推翻特朗普去年开征的对等关税。]]></title>
-            <guid>4692617</guid>
-            <pubDate>Mon, 23 Feb 2026 02:38:54 GMT</pubDate>
+            <title><![CDATA[惠誉：孟加拉国近期政治和政策不确定性降低，可能有助于改善宏观经济稳定性。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnunrp7108780.d.html</link>
+            <guid>4692867</guid>
+            <pubDate>Mon, 23 Feb 2026 04:54:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[前日本央行官员称，若日元再度贬值，日本央行可能在3月加息。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnuhiq0101000.d.html</link>
-            <guid>4692598</guid>
-            <pubDate>Mon, 23 Feb 2026 02:34:50 GMT</pubDate>
+            <title><![CDATA[惠誉：孟加拉国投票支持宏观稳定；改革落实是关键。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnunrk2925788.d.html</link>
+            <guid>4692866</guid>
+            <pubDate>Mon, 23 Feb 2026 04:53:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[韩国3年期公司债收益率上升0.3个基点至3.721%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnuhir7201219.d.html</link>
-            <guid>4692562</guid>
-            <pubDate>Mon, 23 Feb 2026 02:29:01 GMT</pubDate>
+            <title><![CDATA[【年轻人更愿意买老款旗舰版手机 厂商称手机维持利润需提价或减配】2026年初，一场由内存涨价引发的连锁反应，正从上游供应链蔓延至湖南多个县城的手机卖场。有业内人士甚至跟记者透露这是“十五年来未见的涨价潮”，部分DDR5内存价格涨幅甚至超过455%。 记者从多家手机品牌处了解到，为了维持利润，厂商只能在提价与减配之间做选择。2026年春节档发布的多款中端机型，起售价普遍上调了200到400元。 正是在这种涨价与减配的双重挤压下，与其花2000元买一台因成本受限而“缩水”的新款千元机，不如用同样的钱，去选购一款两年前发布的老款旗舰机。某手机专卖店老板告诉记者：“现在不少年轻人进来就问，有没有前两年的旗舰款。他们算得很清楚，同样的价格，新款中端机给的是塑料中框和扫码级摄像头，老旗舰反而是金属机身加真光学变焦。”（蓝鲸）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnunrh6148421.d.html</link>
+            <guid>4692865</guid>
+            <pubDate>Mon, 23 Feb 2026 04:53:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【韩国地方选举进入百日倒计时 李在明迎“大考”】韩国新一届地方选举22日进入100天倒计时，各政党正加紧备战以争取选民支持。这场选举被视为韩国总统李在明执政以来的首场“大考”，其所属的执政党共同民主党能否在选举中获胜成为外界关注焦点。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnuhin3019422.d.html</link>
-            <guid>4692534</guid>
-            <pubDate>Mon, 23 Feb 2026 02:21:21 GMT</pubDate>
+            <title><![CDATA[惠誉：孟加拉国于2月12日举行的大选降低了近期的政治和政策不确定性。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnunrp7108255.d.html</link>
+            <guid>4692864</guid>
+            <pubDate>Mon, 23 Feb 2026 04:52:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【蚂蚁集团AI业务春节加速：支付宝“AI付”、蚂蚁阿福APP用户数双破亿】马年大年初七，蚂蚁集团披露春节假期实战数据，核心AI业务实现全面爆发：支付宝“AI付”用户数突破1亿，成为全球首个支付笔数与用户人数双双破亿的AI原生支付产品，标志着该产品正式进入大规模商用阶段；蚂蚁阿福APP的总用户数也突破1亿大关，成为全球第一大健康AI App，春节新增用户中52%来自三线及以下城市。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnuhiq0096646.d.html</link>
-            <guid>4692523</guid>
-            <pubDate>Mon, 23 Feb 2026 02:18:16 GMT</pubDate>
+            <title><![CDATA[【英媒：“安德鲁被捕后获释坐在车上”照片被挂在卢浮宫，随后被撤下】深陷美国富商爱泼斯坦案的英国国王查尔斯三世的弟弟安德鲁·蒙巴顿-温莎日前被捕，持续引发关注。据《每日电讯报》、天空新闻网等英媒22日报道，在这一背景下，一张显示安德鲁在被捕后获释坐在车上的照片，不仅登上了欧美各大媒体的头条，也短暂“登上”了法国卢浮宫。 这是怎么回事？上述媒体介绍说，原来是有一群活动人士22日将这张照片挂在了卢浮宫展示墙上。现场画面显示，这张照片被装裱了起来，下方还有一句说明文字：“他现在正在流汗”。天空新闻网解释说，这句话似乎是在影射安德鲁此前在爱泼斯坦案相关指控中曾说自己“流不出汗”。 《每日电讯报》称，有视频显示，在这张照片被“短暂展出”后，路过的游客们开始拍照留念。约15分钟后，卢浮宫工作人员将该照片撤下。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnunrh6147991.d.html</link>
+            <guid>4692863</guid>
+            <pubDate>Mon, 23 Feb 2026 04:52:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【欧盟23日将召开会议重新评估与美贸易协议】欧盟方面将于23日召开紧急会议，重新评估欧盟与美国2025年达成的贸易协议。欧洲议会国际贸易委员会原定于24日举行会议，对推进批准该贸易协议的相关立法提案进行表决。当地时间22日，欧洲议会国际贸易委员会主席朗格通过社交媒体表示，由于美国最高法院裁定美国政府大规模关税政策违法引发的“混乱”，他将提议欧洲议会暂停批准欧盟与美国间的贸易协议。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnuhiq0096094.d.html</link>
-            <guid>4692514</guid>
-            <pubDate>Mon, 23 Feb 2026 02:16:10 GMT</pubDate>
+            <title><![CDATA[【美国被曝已决定对伊朗发动军事打击  预计23日或24日】就在美伊释放谈判信号的同时，美国对伊朗展开军事打击的风险依然存在。俄罗斯卫星通讯社22日报道，美媒援引美国中央情报局前情报人员的话称，美国可能在2月23日或2月24日对伊朗发动军事打击。（央视网）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnunrk2924450.d.html</link>
+            <guid>4692862</guid>
+            <pubDate>Mon, 23 Feb 2026 04:50:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[纳指期货跌幅扩大至1%、标普500指数期货现跌0.75%、道指期货跌0.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnuhiq0095499.d.html</link>
-            <guid>4692513</guid>
-            <pubDate>Mon, 23 Feb 2026 02:13:49 GMT</pubDate>
+            <title><![CDATA[印度阿达尼港口公司因签署铁矿石合作备忘录，股价上涨 2.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnunrn0004852.d.html</link>
+            <guid>4692861</guid>
+            <pubDate>Mon, 23 Feb 2026 04:47:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【商务部新闻发言人就美国最高法院公布关税诉讼案裁决结果答记者问】问：美东时间2月20日，美国最高法院公布关税诉讼案裁决结果，判定美国政府依据《国际紧急经济权力法》对相关贸易伙伴加征的对等关税、芬太尼关税等相关关税违法。请问商务部对此有何评价？
-
-答：我们注意到美国最高法院公布关税诉讼案裁决结果，正在对相关内容和影响进行全面评估。中方一贯反对各种形式的单边加征关税措施，反复强调贸易战没有赢家，保护主义没有出路。美方对等关税、芬太尼关税等单边措施既违反国际经贸规则，也违反美国内法，不符合各方利益。事实反复证明，中美双方合则两利，斗则俱伤。中方敦促美方取消对贸易伙伴加征的有关单边关税措施。我们也注意到，美方正在准备采取贸易调查等替代措施，以期维持对贸易伙伴加征的关税，中方将对此保持密切关注并坚定维护中方利益。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnuhik6240171.d.html</link>
-            <guid>4692512</guid>
-            <pubDate>Mon, 23 Feb 2026 02:12:39 GMT</pubDate>
+            <title><![CDATA[【虎鲸文娱发布春节文娱消费报告：线下演出同比增长27%】2月23日，虎鲸文娱集团发布《春节文娱消费报告》，旗下大麦娱乐和优酷的数据显示，2月10日（农历小年）至2月21日（正月初五）期间，线下演出项目数量同比增长27%，线上经典剧集和纪录片《藏海传》《重返狼群 10周年特别纪念版》成合家欢首选。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnunrk2923232.d.html</link>
+            <guid>4692860</guid>
+            <pubDate>Mon, 23 Feb 2026 04:46:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[华盛顿市长鲍泽： 华盛顿特区公立学校及特区政府将于周一正常开放。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnuhiq0094466.d.html</link>
-            <guid>4692511</guid>
-            <pubDate>Mon, 23 Feb 2026 02:10:02 GMT</pubDate>
+            <title><![CDATA[印度NIFTY信息技术指数跌幅扩大，最新下跌1.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnunrh6146014.d.html</link>
+            <guid>4692859</guid>
+            <pubDate>Mon, 23 Feb 2026 04:46:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【联合国人权理事会第61届会议今天开幕】联合国人权理事会第61届会议今天开幕。联合国人权理事会第61届会议定于2月23日在瑞士日内瓦开幕，会议将持续至3月31日。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnuhik6239473.d.html</link>
-            <guid>4692510</guid>
-            <pubDate>Mon, 23 Feb 2026 02:09:18 GMT</pubDate>
+            <title><![CDATA[据灯塔专业版实时数据，截至2月23日12时41分，影片《夜王》票房突破6000万。]]></title>
+            <guid>4692858</guid>
+            <pubDate>Mon, 23 Feb 2026 04:43:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[印尼基准股指高开0.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnuhik6238089.d.html</link>
-            <guid>4692509</guid>
-            <pubDate>Mon, 23 Feb 2026 02:04:02 GMT</pubDate>
+            <title><![CDATA[【美拟将载人绕月飞行任务火箭和飞船撤回装配大楼】美国航空航天局22日表示，由于综合演练后发现新技术问题，计划最早于本月24日启动回运程序，将执行美国“阿耳忒弥斯2号”载人绕月飞行任务的火箭和飞船从发射台运回装配大楼，以进行问题排查和维修。“阿耳忒弥斯2号”计划使用美国新一代登月火箭“太空发射系统”和“猎户座”飞船，将4名宇航员送往月球轨道绕月飞行。该任务19日完成第二次发射前综合演练，但在演练后的操作和重新配置过程中，流向火箭“过渡型低温推进级”的氦气发生中断。美航空航天局说，将火箭和飞船运回佛罗里达州肯尼迪航天中心的装配大楼是查明问题原因并实施修复的必要步骤。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnunrk2922314.d.html</link>
+            <guid>4692857</guid>
+            <pubDate>Mon, 23 Feb 2026 04:43:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美驻墨西哥使馆要求美公民就地避难】绰号“埃尔门乔”的墨西哥大毒枭当地时间2月22日在墨西哥哈利斯科州被击毙。据称美国方面在墨西哥军方这次行动中“发挥作用”。“埃尔门乔”之死引发贩毒集团报复，墨西哥多地爆发暴力骚乱。哈利斯科州的太平洋沿岸旅游城市巴亚尔塔港发生武装冲突，多地浓烟四起。据称当地有数千名美国游客被困。美国驻墨西哥大使馆建议本国公民就地避难。美国和加拿大航空公司已取消了数十架次飞往墨西哥的航班。 (CCTV国际时讯)]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnuhin3015010.d.html</link>
-            <guid>4692508</guid>
-            <pubDate>Mon, 23 Feb 2026 02:02:17 GMT</pubDate>
+            <title><![CDATA[【斯总理称将停止向乌克兰供电】斯洛伐克总理菲佐2月22日称他将要求国家电力传输系统公司停止对乌克兰紧急供电，以回应乌克兰中断俄罗斯石油过境运输。菲佐说，乌克兰要求斯洛伐克放弃俄能源是不切实际且损害斯方利益的，因此当乌克兰阻挠石油过境时，他要用切断供电来反制。菲佐批评欧盟优先乌利益、不计代价军援乌克兰。因乌克兰日前停止“友谊”管道输送石油，斯洛伐克已动用25万吨国家储备原油维持运营，目前全国已进入石油紧急状态。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnunrk2922190.d.html</link>
+            <guid>4692856</guid>
+            <pubDate>Mon, 23 Feb 2026 04:43:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[高盛：伊朗和俄罗斯所面临的潜在制裁缓解措施将加速到岸库存的积累，并在长期内释放更高的供应量，这将使2026年第四季度的油价面临每桶5 - 8美元的下行压力。]]></title>
-            <guid>4692506</guid>
-            <pubDate>Mon, 23 Feb 2026 02:01:36 GMT</pubDate>
+            <title><![CDATA[【花旗：特朗普新关税料会促使亚洲出现提前发货】花旗分析师在一份报告中表示，特朗普政府新的15%全球关税可能再次在亚洲引发提前发货活动。这些分析师预计，在最高法院推翻根据《国际紧急经济权力法》征收的关税之后，美国的平均有效关税税率即便有所下降，降幅也只会很小。花旗表示，虽然2025年的对等关税之后往往出现了刺激提前发货的暂时贸易休战，但这项根据替代性法律授权实施、并将于7月下旬到期的新15%关税，可能会促使进口商推迟或提前进口。花旗维持对长荣海运、阳明海运和中远海控的买入评级，理由是预计这会对集装箱需求以及可能对即期费率产生净正面影响，不过影响程度将不及去年。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnunrk2922111.d.html</link>
+            <guid>4692855</guid>
+            <pubDate>Mon, 23 Feb 2026 04:43:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【丹麦军方将一名美国潜艇艇员运至格陵兰岛就医】丹麦军方日前在社交媒体上说，格陵兰岛海域一艘美国潜艇上一名艇员急需紧急治疗，丹麦军队当天将这名艇员运送至格陵兰岛首府努克的一家医院。格陵兰岛是丹麦自治领地，有高度自治权，国防和外交事务由丹麦政府掌管。丹麦北极联合司令部21日在“脸书”发文说，一艘美国潜艇上出现医疗紧急情况后，一名艇员被空运至努克的一家医院。帖文没有透露医疗问题的性质，也没有透露潜艇任务的细节。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnuhik6237477.d.html</link>
-            <guid>4692500</guid>
-            <pubDate>Mon, 23 Feb 2026 02:00:16 GMT</pubDate>
+            <title><![CDATA[【特朗普的新贸易议程与中期选举迎头相撞】美国总统特朗普的新关税计划使其贸易议程与中期选举季迎头相撞。上周五，就在其主要关税依据被美国最高法院裁定为无效几个小时后，特朗普宣布将根据两项独立的法律授权实施新关税-一项是短期的，另一项是更持久的。特朗普想要征收的一些新关税需要国会批准才能延长超过五个月。另一些新关税则需要数月的调查才能实施。这两种情况都将关键的关税决定推到了夏季，届时距离11月的中期选举只有几个月，许多共和党人可能对有关通胀和生活成本的抱怨尤其敏感。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnunrn0003311.d.html</link>
+            <guid>4692854</guid>
+            <pubDate>Mon, 23 Feb 2026 04:42:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[高盛：预计2027年布伦特/ WTI原油均价分别为65美元/61美元，受需求稳健、供应增速放缓支撑，2027年12月将回升至70美元/66美元。]]></title>
-            <guid>4692499</guid>
-            <pubDate>Mon, 23 Feb 2026 01:59:31 GMT</pubDate>
+            <title><![CDATA[【关税政策遇挫，美国贸易代表：不会退出已达成的协议】尽管美国最高法院裁决美国《国际紧急经济权力法》（IEEPA）没有授权总统征收大规模关税，但美国贸易代表杰米森·格里尔22日仍维护其强硬的贸易政策。格里尔在接受电视节目采访时称，特朗普政府将继续推行其关税政策，美国不会退出和英国、欧盟、日本、瑞士等已经达成的贸易协议。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnunrk2921595.d.html</link>
+            <guid>4692853</guid>
+            <pubDate>Mon, 23 Feb 2026 04:41:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【三星SDI在锂金属电池领域取得突破，未来或推出商业化解决方案】韩国电池制造商三星SDI表示，公司在延长锂金属电池寿命和提高其安全性方面取得了突破，可能为其下一代产品的商业化铺平道路。三星SDI称，公司与哥伦比亚大学共同开发了一种氟基凝胶聚合物电解质，可有效抑制了长期损害锂金属电池性能的关键因素——枝晶的形成。锂金属电池在现有电池技术中能量密度最高，比传统的NCA锂离子电池高出1.6倍以上。然而，受限于其充放电寿命短（通常仅为几十次循环），其商业化进程一直受阻。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnuhin3014505.d.html</link>
-            <guid>4692497</guid>
-            <pubDate>Mon, 23 Feb 2026 01:58:56 GMT</pubDate>
+            <title><![CDATA[中国地震台网正式测定：02月23日12时34分在新疆巴音郭楞州尉犁县（北纬40.97度，东经84.31度）发生3.3级地震，震源深度18千米。]]></title>
+            <guid>4692852</guid>
+            <pubDate>Mon, 23 Feb 2026 04:40:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[白宫新闻秘书莱维特： 美国曾向墨西哥提供关于 “矮子门乔” 的情报协助。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnuhin3014112.d.html</link>
-            <guid>4692482</guid>
-            <pubDate>Mon, 23 Feb 2026 01:56:04 GMT</pubDate>
+            <title><![CDATA[【全年客流突破6600万人次 深圳机场展现城市发展强劲脉动】机场流量是城市活力的直观表达。2025年，深圳机场以一份闪亮数据，为深圳城市能级跃升标注了新高度。全年旅客吞吐量首次突破6600万人次，在“十四五”实现“多级跳”；货邮吞吐量首次跨越200万吨大关，创下历史新高。深圳机场的持续跃升，背后是城市综合实力、产业竞争力的多重加持。2025年，深圳机场实现旅客吞吐量6648万人次，排名居全国第四位。其中，国内旅客量达6014万人次，稳居全国第二；国际及地区旅客量达634万人次，同比增长22.4%，均超越了历史峰值水平。（深圳特区报）]]></title>
+            <guid>4692851</guid>
+            <pubDate>Mon, 23 Feb 2026 04:39:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【冬季风暴逼近美国东海岸 多州发布紧急状态令】当地时间2月22日，随着一场强烈冬季风暴逼近，雨雪已经开始落在美国东海岸部分地区。纽约州、新泽西州、宾夕法尼亚州、康涅狄格州和马萨诸塞州已发布州紧急状态令，禁止非必要出行。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnuhin3013823.d.html</link>
-            <guid>4692475</guid>
-            <pubDate>Mon, 23 Feb 2026 01:54:25 GMT</pubDate>
+            <title><![CDATA[KKR据称同意以13亿美元收购学校教育机构XCL，KKR将从TPG手中收购XCL教育的多数股权。]]></title>
+            <guid>4692850</guid>
+            <pubDate>Mon, 23 Feb 2026 04:37:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【半导体概念港股走强 中芯国际和华虹半导体涨4%】截至发稿，ASMPT(02166.HK)涨6%，中芯国际(00981.HK)和华虹半导体(01347.HK)涨4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnuhik6236544.d.html</link>
-            <guid>4692473</guid>
-            <pubDate>Mon, 23 Feb 2026 01:54:04 GMT</pubDate>
+            <title><![CDATA[【英国建议不要前往墨西哥部分地区】英国外交、联邦及发展事务部在一份声明中表示，建议除必要出行外，不要前往墨西哥部分地区。该旅行警示涵盖以下州：下加利福尼亚州、奇瓦瓦州、锡那罗亚州、塔毛利帕斯州、萨卡特卡斯州、瓜纳华托州、米却肯州、哈利斯科州、科利马州、格雷罗州及恰帕斯州。英国提到，哈利斯科州全境（包括瓜达拉哈拉市和巴亚尔塔港）均发生过安全事件。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnunrh6143076.d.html</link>
+            <guid>4692849</guid>
+            <pubDate>Mon, 23 Feb 2026 04:36:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[港股汽车零件股多数走强，浙江世宝(01057.HK)涨14.9%、首控集团(01269.HK)涨13.1%。]]></title>
-            <guid>4692472</guid>
-            <pubDate>Mon, 23 Feb 2026 01:53:53 GMT</pubDate>
+            <title><![CDATA[印尼财政部副部长称，印尼1月份免费餐食计划支出达19.5万亿印尼盾，而2025年1月为451亿印尼盾。]]></title>
+            <guid>4692848</guid>
+            <pubDate>Mon, 23 Feb 2026 04:35:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德视佳(01846.HK)：本公司股份自2026年2月23日（星期一）上午九时正起于香港联合交易所有限公司主板短暂停牌，以待刊发一份载有有关本公司非常重大收购事项的内幕消息的公告。]]></title>
-            <guid>4692471</guid>
-            <pubDate>Mon, 23 Feb 2026 01:51:33 GMT</pubDate>
+            <title><![CDATA[韩国总统李在明：韩巴已制定为期四年的双边合作计划，涉及政治、经济、民间交流等领域。]]></title>
+            <guid>4692847</guid>
+            <pubDate>Mon, 23 Feb 2026 04:34:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[沙特外交部：伊拉克必须遵守相关承诺与协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnuhin3012595.d.html</link>
-            <guid>4692454</guid>
-            <pubDate>Mon, 23 Feb 2026 01:49:46 GMT</pubDate>
+            <title><![CDATA[【华泰证券港股策略：科技和周期耗材仍是清晰主线】华泰证券研报称，春节期间港股市场内部分化加大，AI新势力与互联网巨头走势背离，消费数据亮点尽显但未明显提振板块表现，涨幅依然集中在科技和周期行业。展望来看，短期提示投资者防范指数和港股通调整日前后相应抢跑个股的波动风险。中期配置上，科技和周期耗材仍是清晰主线。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnunrk2919146.d.html</link>
+            <guid>4692846</guid>
+            <pubDate>Mon, 23 Feb 2026 04:33:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：沙特外交部呼吁伊拉克维护科威特的主权权利。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnuhin3012467.d.html</link>
-            <guid>4692451</guid>
-            <pubDate>Mon, 23 Feb 2026 01:49:17 GMT</pubDate>
+            <title><![CDATA[高盛报告称，该行认为香港的房地产周期已经触底，而基于有利的签证/移民政策以及较低按揭利率所支撑的积压需求释放，将今年住宅楼价的涨幅预测从5%上调至12%。]]></title>
+            <guid>4692845</guid>
+            <pubDate>Mon, 23 Feb 2026 04:33:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【光通讯概念港股走强 长飞光纤光缆涨超17%】截至发稿，长飞光纤光缆(06869.HK)涨17%，汇聚科技(01729.HK)涨6%，剑桥科技(06166.HK)涨4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnuhin3011991.d.html</link>
-            <guid>4692440</guid>
-            <pubDate>Mon, 23 Feb 2026 01:47:42 GMT</pubDate>
+            <title><![CDATA[青瓦台消息：韩国与巴西签署10份谅解备忘录，涵盖关键矿物合作及其他贸易议题。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnunrh6141669.d.html</link>
+            <guid>4692844</guid>
+            <pubDate>Mon, 23 Feb 2026 04:32:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【韩汽车数据研究所：韩国二三十岁人群新车购买率去年跌至十年最低】韩国汽车数据研究机构Carisyou发布的数据显示，2025年韩国20和30多岁人群的新车购买率跌至十年来的最低水平。数据显示，2025年韩国20多岁人群的新车注册量为61962辆，占当年全部新车注册量的5.6%；30多岁人群的新车注册量总计209749辆，占总量的19%。业内观察人士分析，年轻消费者新车购买率下降的主要原因包括经济负担加重，以及手机应用程序租车服务的普及。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnuhin3011927.d.html</link>
-            <guid>4692439</guid>
-            <pubDate>Mon, 23 Feb 2026 01:47:30 GMT</pubDate>
+            <title><![CDATA[印度塔塔通信：公司与印度铁路电信公司就印度数字基础设施展开合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnunrp7101770.d.html</link>
+            <guid>4692843</guid>
+            <pubDate>Mon, 23 Feb 2026 04:32:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[台湾加权股价指数上涨1.8%，升至34,202.05点的历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnuhik6234437.d.html</link>
-            <guid>4692432</guid>
-            <pubDate>Mon, 23 Feb 2026 01:46:39 GMT</pubDate>
+            <title><![CDATA[【毛里塔尼亚谴责美驻以大使不当言论】据毛里塔尼亚通讯社22日报道，毛外交、非洲合作与海外侨民部当天发表声明，强烈谴责美国驻以色列大使迈克·赫卡比所谓“以色列可拿下整个中东”的言论，指出其表态违反国际法原则和《联合国宪章》。 声明重申，毛里塔尼亚政府坚定支持以1967年6月4日边界为基础、以东耶路撒冷为首都的巴勒斯坦国，并呼吁在公正、全面解决问题的框架内实现地区持久和平。 赫卡比日前接受美国福克斯新闻频道前主持人塔克·卡尔森采访时说，“若他们（以色列）拿下整个中东，那也没问题”，但他随后又“找补”说，以色列“没要求拿走全部……这只是某种夸张说法”。（新华社）]]></title>
+            <guid>4692842</guid>
+            <pubDate>Mon, 23 Feb 2026 04:31:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[比特币跌破65000美元，日内跌3.91%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnuhik6234363.d.html</link>
-            <guid>4692431</guid>
-            <pubDate>Mon, 23 Feb 2026 01:46:24 GMT</pubDate>
+            <title><![CDATA[【市场分析：澳大利亚央行3月不太可能加息 季度CPI数据至关重要】若要澳大利亚央行3月份加息尚存可能，那么周三公布的澳大利亚1月份月度通胀数据就需要出现意外上行。鉴于就业市场持续收紧，且失业率远低于现有对充分就业的估计，有理由认为澳大利亚央行在2月份加息后，应紧接着在3月中旬再次加息。但更有可能的是，澳大利亚央行将淡化月度CPI数据的作用，而选择等待4月下旬更全面的季度CPI数据。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnunrk2918067.d.html</link>
+            <guid>4692841</guid>
+            <pubDate>Mon, 23 Feb 2026 04:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[MSCI亚太指数日内涨幅扩大至1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnuhik6234015.d.html</link>
-            <guid>4692430</guid>
-            <pubDate>Mon, 23 Feb 2026 01:45:01 GMT</pubDate>
+            <title><![CDATA[据报道，SK 海力士母公司 SK 集团会长崔泰源 2 月 20 日在华盛顿一场会议上承诺，将扩大人工智能存储芯片的生产，以满足全球数据中心建设带来的需求激增。]]></title>
+            <guid>4692840</guid>
+            <pubDate>Mon, 23 Feb 2026 04:27:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[阿里巴巴港股涨超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnuhiq0087729.d.html</link>
-            <guid>4692429</guid>
-            <pubDate>Mon, 23 Feb 2026 01:44:55 GMT</pubDate>
+            <title><![CDATA[中国地震台网正式测定：02月23日12时12分在新疆巴音郭楞州尉犁县（北纬40.88度，东经84.17度）发生5.1级地震，震源深度15千米。]]></title>
+            <guid>4692839</guid>
+            <pubDate>Mon, 23 Feb 2026 04:27:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【有色金属概念港股走强 五矿资源和灵宝黄金涨7%】有色金属概念港股走强，截至发稿，五矿资源和灵宝黄金涨7%，中国黄金国际涨超5%，山东黄金、紫金黄金国际和紫金矿业涨超4%，老铺黄金涨3%。]]></title>
-            <guid>4692428</guid>
-            <pubDate>Mon, 23 Feb 2026 01:44:45 GMT</pubDate>
+            <title><![CDATA[【加密货币集体大跌，超13万人爆仓】2月23日，比特币直线下跌，跌破65000美元关口，最低报64232.8美元/枚。 加密货币市场整体呈现下跌态势，多只产品跌超5%。Coinglass数据显示，最近24小时内，加密货币市场超13万人被爆仓，爆仓总金额为4.63亿美元。其中，多单爆仓金额为4.3亿美元，空单爆仓金额为3047.9万美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnunrh6140201.d.html</link>
+            <guid>4692838</guid>
+            <pubDate>Mon, 23 Feb 2026 04:26:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[韩国央行表示，以2.505%的收益率出售了91天期货币稳定债券。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnuhik6233340.d.html</link>
-            <guid>4692412</guid>
-            <pubDate>Mon, 23 Feb 2026 01:42:25 GMT</pubDate>
+            <title><![CDATA[【驻马来西亚使馆提醒在马中国公民密切关注地震预警信息】中国驻马来西亚大使馆发布提醒：据马来西亚气象局通报，马沙巴州亚庇附近海域2月23日凌晨0时57分发生发生6.8级地震，震中位于北纬7.0度、东经116.4度（沙巴州古达以西49公里处），震源深度为678公里，沙巴、沙捞越和西马半岛的一些地区均有震感。马当局初步评估此次地震不会构成海啸威胁。驻马来西亚使馆提醒在马中国公民密切关注当地政府发布的地震预警信息，提高警惕，加强自身安全防范。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnunrh6139513.d.html</link>
+            <guid>4692837</guid>
+            <pubDate>Mon, 23 Feb 2026 04:23:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[恒生科技指数涨超3%，现报5368.750点；恒生指数现涨2.049%。]]></title>
-            <guid>4692405</guid>
-            <pubDate>Mon, 23 Feb 2026 01:42:02 GMT</pubDate>
+            <title><![CDATA[印尼第一季度将花费809万亿印尼盾用于免费餐食和刺激计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnunrk2916468.d.html</link>
+            <guid>4692836</guid>
+            <pubDate>Mon, 23 Feb 2026 04:22:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[大模型概念港股跌幅收窄，智谱(02513.HK)跌13%，早盘一度跌21%；MINIMAX-WP(00100.HK)跌8%。]]></title>
-            <guid>4692391</guid>
-            <pubDate>Mon, 23 Feb 2026 01:38:58 GMT</pubDate>
+            <title><![CDATA[印尼财长：1月预算赤字占国内生产总值（GDP）的0.21%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnunrh6139046.d.html</link>
+            <guid>4692835</guid>
+            <pubDate>Mon, 23 Feb 2026 04:21:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[香港恒生汽车指数上涨2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnuhin3009559.d.html</link>
-            <guid>4692390</guid>
-            <pubDate>Mon, 23 Feb 2026 01:38:30 GMT</pubDate>
+            <title><![CDATA[摩根大通将空中客车目标价从240欧元下调至225欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnunrm9996933.d.html</link>
+            <guid>4692834</guid>
+            <pubDate>Mon, 23 Feb 2026 04:21:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[纽约期银突破88美元/盎司，日内涨6.09%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnuhin3008993.d.html</link>
-            <guid>4692380</guid>
-            <pubDate>Mon, 23 Feb 2026 01:36:35 GMT</pubDate>
+            <title><![CDATA[【外媒：美陆军短暂公布“暗鹰”高超音速导弹最新照片，随即将其删除】据美国“防务博客”网站、比利时“军队识别”网站22日报道，美国陆军当地时间21日短暂发布了其“暗鹰”高超音速导弹的最新照片，随即在未作任何解释的情况下将其删除，上述照片随后在网络上迅速传播开来。 “军队识别”网站称，美国陆军发布的照片罕见地展示了“暗鹰”高超音速导弹的最新进展情况，美陆军发布该照片也正值其推进该系统投入作战部署之际。被短暂发布的照片显示，发射装置似乎已配置好，准备投入作战部署，还有与完整的导弹系统结构相符的配套车辆。 报道称，美国陆军尚未解释删除照片的原因，也并未澄清此次删除是出于作战安全考虑还是行政失误。 “防务博客”网站解释称，此事之所以引发关注，是因为“暗鹰”高超音速导弹代表了美国陆军最先进的远程打击能力之一，其研发目的是为了在极远距离下打击防御严密的目标。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnunrh6138828.d.html</link>
+            <guid>4692810</guid>
+            <pubDate>Mon, 23 Feb 2026 04:20:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【为应对本轮降雪，黑龙江省内增开10列动车组临客列车】2月23日，黑龙江省文化和旅游厅、中国铁路哈尔滨局集团有限公司联合发布关于增开动车组临客列车的公告。为积极应对本轮降雪天气影响，全力保障广大旅客安全有序出行，中国铁路哈尔滨局集团有限公司于2026年2月23日组织增开省内哈尔滨至牡丹江方向8列、哈尔滨至绥芬河方向2列动车组临客列车。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnuhik6231693.d.html</link>
-            <guid>4692379</guid>
-            <pubDate>Mon, 23 Feb 2026 01:36:11 GMT</pubDate>
+            <title><![CDATA[【摩根士丹利：关税与贸易紧张局势的不确定性峰值已过去】美最高法院叫停特朗普关税，对于亚洲，摩根士丹利经济学家表示，加权平均关税税率将从20%降至17%。但这种缓解可能只是暂时的，因为特朗普政府正试图通过按行业以及针对特定经济体加征关税来重建其关税体系。尽管如此，摩根士丹利经济学家Chetan Ahya等人在报告中写道：“关税与贸易紧张局势的不确定性峰值已过去。”]]></title>
+            <guid>4692808</guid>
+            <pubDate>Mon, 23 Feb 2026 04:17:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[纽约期银日内涨6%，现报87.97美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnuhik6231633.d.html</link>
-            <guid>4692378</guid>
-            <pubDate>Mon, 23 Feb 2026 01:35:56 GMT</pubDate>
+            <title><![CDATA[菲律宾比索（PHP）兑美元汇率上涨多达0.6%，至1美元兑57.695比索，创下自2025年9月底以来的最高水平。]]></title>
+            <guid>4692807</guid>
+            <pubDate>Mon, 23 Feb 2026 04:16:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[港股新消费概念股走强，蔚来-SW(09866.HK)涨近3%、小鹏汽车(XPEV.N)和小米集团(01810.HK)涨超2%、泡泡玛特(09992.HK)涨1.8%。]]></title>
-            <guid>4692377</guid>
-            <pubDate>Mon, 23 Feb 2026 01:35:38 GMT</pubDate>
+            <title><![CDATA[中国地震台网自动测定：02月23日12时12分在新疆巴音郭楞州尉犁县附近（北纬40.89度，东经84.14度）发生5.3级左右地震，最终结果以正式速报为准。]]></title>
+            <guid>4692806</guid>
+            <pubDate>Mon, 23 Feb 2026 04:15:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[加拿大航空：加拿大航空往返巴亚尔塔港的航班明日将取消。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnuhik6231303.d.html</link>
-            <guid>4692376</guid>
-            <pubDate>Mon, 23 Feb 2026 01:34:36 GMT</pubDate>
+            <title><![CDATA[【高盛：美最高法院裁决将令自2025年初以来有效关税税率上升幅度从略高于10个百分点降至9个百分点】包括David Mericle在内的高盛经济学家估计，美国最高法院裁决与新宣布的《1974年贸易法》第122条关税叠加，将令自2025年初以来有效关税税率上升幅度从略高于10个百分点降至9个百分点。]]></title>
+            <guid>4692805</guid>
+            <pubDate>Mon, 23 Feb 2026 04:15:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[港股黄金概念股走强，灵宝黄金(03330.HK)和中国黄金国际(02099.HK)涨超5%、紫金矿业(02899.HK)涨超4%。]]></title>
-            <guid>4692365</guid>
-            <pubDate>Mon, 23 Feb 2026 01:33:27 GMT</pubDate>
+            <title><![CDATA[【交通运输部：上周国家铁路运输货物6568.7万吨 环比下降10.72%】据交通运输部消息，2月16日—2月22日，全国物流保通保畅运行数据：国家铁路运输货物6568.7万吨，环比下降10.72%；全国高速公路货车通行992.4万辆，环比下降70.59%；监测港口完成货物吞吐量18760.6万吨，环比下降21.75%，完成集装箱吞吐量559.3万标箱，环比下降13.61%；民航保障航班13.1万班（其中货运航班2169班，包括国际货运航班2015班，国内货运航班154班），环比下降5.77%；邮政快递揽收量约8.06亿件，环比下降64.7%；投递量约6.3亿件，环比下降81.07%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnunrk2914897.d.html</link>
+            <guid>4692804</guid>
+            <pubDate>Mon, 23 Feb 2026 04:13:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：达美航空（Delta）正在经历系统问题，导致值机自助服务亭出现故障并造成航班延误，但截至目前尚无航班取消情况。]]></title>
-            <guid>4692363</guid>
-            <pubDate>Mon, 23 Feb 2026 01:33:07 GMT</pubDate>
+            <title><![CDATA[【景顺：关税裁决未动摇景顺的投资展望 仍对2026年的前景持乐观态度】景顺首席全球市场策略师Brian Levitt称，美国最高法院关于特朗普关税的裁决对景顺的投资观点影响甚微。该裁决在预料之中，而诸如非美国股票上涨和美元走软等初步市场反应，似乎是对新闻标题的膝跳式反应，而非全球经济格局发生根本性变化的迹象。Levitt称，整体关税水平不太可能大幅下降，因为其他法规授予了特朗普征收关税的广泛权力。幸运的是，全球经济和市场已证明能够承受高关税。景顺仍对2026年的前景持乐观态度，理由是存在财政和货币刺激以及人工智能驱动的投资等有利因素。可能会出现更多波动，但环境继续有利于风险资产，尤其是像非美国股票这样定价有吸引力的资产。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnunrm9995467.d.html</link>
+            <guid>4692803</guid>
+            <pubDate>Mon, 23 Feb 2026 04:13:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【智平方：已实现单月百台级真实交付】据悉，智平方依托自建产线，在2025年12月已实现单月百台级AlphaBot 2的真实交付。该自有产线在2025年9月启用，目前已具备年产千台级的制造能力，同时，公司将在2026年将产能规划至万台规模。公司聚焦生产力型通用智能机器人（非表演）这一智能终端品类，旗下爱宝机器人已进入工业柔性制造、公共服务、新零售多个领域。未来三年，公司计划落地1000个模块化具身智能服务空间“智魔方”，覆盖景区、商业街区、公园等文商旅场景。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnuhir7185773.d.html</link>
-            <guid>4692362</guid>
-            <pubDate>Mon, 23 Feb 2026 01:32:53 GMT</pubDate>
+            <title><![CDATA[印尼财政部长：3月到期的存在国有银行的流动性存款将展期6个月。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-23/detail-inhnunrk2914518.d.html</link>
+            <guid>4692802</guid>
+            <pubDate>Mon, 23 Feb 2026 04:11:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[港股科网股盘初普涨，网易-S(09999.HK)涨4.18%、京东健康(06618.HK)涨3.2%、快手(01024.HK)涨3.01%、美团(03690.HK)涨3%。]]></title>
-            <guid>4692351</guid>
-            <pubDate>Mon, 23 Feb 2026 01:31:18 GMT</pubDate>
+            <title><![CDATA[花旗：我们仍然看到春节假期期间休闲出行需求保持韧性。截至目前，国内旅游趋势总体正常。]]></title>
+            <guid>4692801</guid>
+            <pubDate>Mon, 23 Feb 2026 04:10:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
