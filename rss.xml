@@ -4,291 +4,293 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Fri, 27 Feb 2026 14:44:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 15:41:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[美国股市跌幅扩大，标准普尔500指数下跌1.01%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqny6508286.d.html</link>
-            <guid>4703655</guid>
-            <pubDate>Fri, 27 Feb 2026 14:43:37 GMT</pubDate>
+            <title><![CDATA[墨西哥国家石油公司（PEMEX）第四季度净亏损 1.552 亿墨西哥比索。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqpe0629547.d.html</link>
+            <guid>4703713</guid>
+            <pubDate>Fri, 27 Feb 2026 15:41:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国联合航空公司股价下跌6.7%，达美航空公司股价下跌5.8%，美国航空公司股价下跌6.3%。]]></title>
-            <guid>4703654</guid>
-            <pubDate>Fri, 27 Feb 2026 14:43:24 GMT</pubDate>
+            <title><![CDATA[美国地质调查局（USGS）：日本平良市西北偏北61公里处发生5.0级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqpa3525845.d.html</link>
+            <guid>4703712</guid>
+            <pubDate>Fri, 27 Feb 2026 15:36:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美股三大指数均跌超1%】道指跌1.44%，现报48786.770点；纳指跌1.38%，现报22562.941点；标普500指数跌1.02%，现报6838.150点。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqny6508030.d.html</link>
-            <guid>4703653</guid>
-            <pubDate>Fri, 27 Feb 2026 14:43:11 GMT</pubDate>
+            <title><![CDATA[美国国务院：国务卿鲁比奥将于3月2日至3日前往以色列，将讨论伊朗、黎巴嫩和加沙问题。]]></title>
+            <guid>4703711</guid>
+            <pubDate>Fri, 27 Feb 2026 15:35:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【Block飙涨20%，创2024年2月份以来最大盘中涨幅】Block飙涨20%，创2024年2月份以来最大盘中涨幅，该公司宣布裁员将近一半。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqnw9730515.d.html</link>
-            <guid>4703651</guid>
-            <pubDate>Fri, 27 Feb 2026 14:42:30 GMT</pubDate>
+            <title><![CDATA[市场消息：塔利班在巴基斯坦边境哨所发动了新的袭击行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqnw9747810.d.html</link>
+            <guid>4703710</guid>
+            <pubDate>Fri, 27 Feb 2026 15:31:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：英国财政大臣里夫斯将批准从意大利莱昂纳多公司购买23架直升机的交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqpe0606644.d.html</link>
-            <guid>4703650</guid>
-            <pubDate>Fri, 27 Feb 2026 14:42:01 GMT</pubDate>
+            <title><![CDATA[路透调查：哥伦比亚2月月度通胀率预计为1.27%，12个月通胀率预计为5.49%。]]></title>
+            <guid>4703709</guid>
+            <pubDate>Fri, 27 Feb 2026 15:30:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[哥伦比亚比索从周四的大幅下跌中反弹，上涨1.8%，领跑新兴市场。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqpa3504357.d.html</link>
-            <guid>4703649</guid>
-            <pubDate>Fri, 27 Feb 2026 14:41:02 GMT</pubDate>
+            <title><![CDATA[路透调查：预计哥伦比亚2027年底通胀率为4.94%，高于上一次调查的4.82%。]]></title>
+            <guid>4703708</guid>
+            <pubDate>Fri, 27 Feb 2026 15:30:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国司法部：美国寻求没收一艘油轮及180万桶原油，这些物资曾被用于支持伊朗和委内瑞拉。]]></title>
-            <guid>4703648</guid>
-            <pubDate>Fri, 27 Feb 2026 14:40:34 GMT</pubDate>
+            <title><![CDATA[【俄联邦通信监督局称其官网及国防部网站遭网络攻击】当地时间2月27日，俄罗斯联邦通信、信息技术和大众传媒监督局报告称，其官网以及俄罗斯国防部的网络资源正在遭受分布式拒绝服务攻击。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqnw9746850.d.html</link>
+            <guid>4703707</guid>
+            <pubDate>Fri, 27 Feb 2026 15:29:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国银行：将戴尔(DELL.N)目标价从135美元上调至155美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqnw9729453.d.html</link>
-            <guid>4703647</guid>
-            <pubDate>Fri, 27 Feb 2026 14:39:50 GMT</pubDate>
+            <title><![CDATA[贝克莱（BECLE）首席财务官：我们预计2026年按固定汇率计算的净销售额将出现个位数小幅下降。]]></title>
+            <guid>4703706</guid>
+            <pubDate>Fri, 27 Feb 2026 15:28:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[国际货币基金组织乌克兰代表团副团长：正密切关注乌克兰债券持有人相关情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqpa3503027.d.html</link>
-            <guid>4703645</guid>
-            <pubDate>Fri, 27 Feb 2026 14:38:11 GMT</pubDate>
+            <title><![CDATA[初步计划显示，4月尼日利亚四种主要原油品级的出口量预计平均为78.3万桶/日（3月为79.3万桶/日）。]]></title>
+            <guid>4703705</guid>
+            <pubDate>Fri, 27 Feb 2026 15:28:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据港交所文件：Radvance Cayman Limited向港交所提交上市申请书。]]></title>
-            <guid>4703644</guid>
-            <pubDate>Fri, 27 Feb 2026 14:37:54 GMT</pubDate>
+            <title><![CDATA[国际空间站：一艘SpaceX龙飞船于太平洋标准时间周四晚上 11:44 在加利福尼亚海岸溅落，带回了数千磅重的科学实验设备和空间站硬件。]]></title>
+            <guid>4703704</guid>
+            <pubDate>Fri, 27 Feb 2026 15:27:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[马士基将部分船只改道绕行非洲南部。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqny6505493.d.html</link>
-            <guid>4703643</guid>
-            <pubDate>Fri, 27 Feb 2026 14:37:06 GMT</pubDate>
+            <title><![CDATA[【MFS债权人警告：因“重复抵押”导致超9亿英镑资金缺口】Market Financial Solutions Ltd. (MFS) 的部分债权人警告称，由于涉嫌“重复抵押（Double Pledging）”，支持其贷款的抵押品可能存在9.3 亿英镑的缺口。Zircon Bridging和Amber Bridging指控MFS将同一资产作为多笔贷款的抵押品，这可能导致12亿英镑债务中存在超过80%的“不明亏空”。MFS的倒闭使资产支持融资（Asset-based financing）成为焦点，此前（美国）First Brands Group和Tricolor Holdings的倒闭中也曾出现过重复抵押的指控。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqpa3522423.d.html</link>
+            <guid>4703703</guid>
+            <pubDate>Fri, 27 Feb 2026 15:26:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【广合科技通过港交所上市聆讯】广州广合科技股份有限公司更新聆讯后资料集，意味着该公司港交所IPO通过聆讯。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqpa3501905.d.html</link>
-            <guid>4703642</guid>
-            <pubDate>Fri, 27 Feb 2026 14:35:30 GMT</pubDate>
+            <title><![CDATA[【印度GDP数据修订意味着超越日本需耗时更长】印度GDP数据的重大修订表明，该国超越日本成为世界第四大经济体的时间将晚于预期。印度政府发布了采用新基准年的GDP数据，估计名义经济规模为345.47万亿卢比，低于此前预估的357.14万亿卢比。按该时期的平均汇率计算，本财年的GDP估计约为4万亿美元，而日本的GDP在2025年已达到4.4万亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqnw9745418.d.html</link>
+            <guid>4703702</guid>
+            <pubDate>Fri, 27 Feb 2026 15:24:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[纳斯达克中国金龙指数跌超1%，能链智电跌8.94%，世纪互联跌7.02%，晶科能源跌5.37%，阿特斯跌4.60%，爱奇艺跌3.80%。]]></title>
-            <guid>4703641</guid>
-            <pubDate>Fri, 27 Feb 2026 14:35:07 GMT</pubDate>
+            <title><![CDATA[亚马逊股价在与OPENAI达成协议后上涨，最新上涨0.22%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqnw9744235.d.html</link>
+            <guid>4703701</guid>
+            <pubDate>Fri, 27 Feb 2026 15:21:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国表示，英国外交人员已暂时撤离其驻伊朗德黑兰大使馆。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqpe0603625.d.html</link>
-            <guid>4703640</guid>
-            <pubDate>Fri, 27 Feb 2026 14:35:02 GMT</pubDate>
+            <title><![CDATA[【指红海出现“未预见的限制” 马士基让部分船舶改道绕行好望角】马士基通过电子邮件发表声明说，由于红海地区更广泛的运营环境出现了一些“未预见的限制”，该公司正指示部分船只改道经行非洲南端。“在与我们的安全合作伙伴沟通后，明确了这些限制使得避免通过该地区时出现延误具有挑战性”。马士基没有透露它所说的限制指什么。“因此，我们决定将部分即将开航的ME11和MECL航线服务从跨苏伊士运河改道至好望角”。马士基表示这只是“暂时调整”。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqny6520842.d.html</link>
+            <guid>4703700</guid>
+            <pubDate>Fri, 27 Feb 2026 15:19:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[奈飞股价大涨12%，创2025年1月以来最大涨幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqnw9727363.d.html</link>
-            <guid>4703639</guid>
-            <pubDate>Fri, 27 Feb 2026 14:34:46 GMT</pubDate>
+            <title><![CDATA[【巴基斯坦军方称打死274名阿富汗人员】巴基斯坦三军新闻局局长乔杜里27日在新闻发布会上说，自26日晚间以来，巴安全部队已打死274名阿富汗人员。 (新华社)]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqny6520190.d.html</link>
+            <guid>4703699</guid>
+            <pubDate>Fri, 27 Feb 2026 15:18:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【港股IPO：沪鸽公司递表港交所】沪鸽向港交所提交上市申请书，联席保荐人为中金公司、星展银行（DBS）。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqny6504231.d.html</link>
-            <guid>4703638</guid>
-            <pubDate>Fri, 27 Feb 2026 14:33:55 GMT</pubDate>
+            <title><![CDATA[【特朗普媒体科技集团考虑将“Truth Social”分拆出来】特朗普媒体科技集团正在商讨将旗下包括社交媒体平台“Truth Social”在内的资产分拆出来，成立一家新上市公司。此前，该公司已完成了与核能公司 TAE 科技公司价值 60 亿美元的合并计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqpa3518389.d.html</link>
+            <guid>4703698</guid>
+            <pubDate>Fri, 27 Feb 2026 15:18:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【安徽希磁科技股份有限公司递表港交所】安徽希磁科技股份有限公司(申請版本及整體協調人公告)向港交所提交上市申请书，独家保荐人为中信建投国际。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqpa3501170.d.html</link>
-            <guid>4703637</guid>
-            <pubDate>Fri, 27 Feb 2026 14:33:39 GMT</pubDate>
+            <title><![CDATA[【伊朗被观察到在遭轰炸的铀浓缩设施开展常规活动】国际原子能机构核查人员报告称观察到伊朗在遭轰炸的铀浓缩设施开展常规活动，这可能使与华盛顿就伊朗核计划进行的谈判陷入复杂化。国际原子能机构总干事拉斐尔·马里亚诺·格罗西周五报告称，尽管卫星图像显示去年六月遭美以空袭的核设施仍在进行常规活动，但伊朗却继续拒绝核查人员进入现场。上周，他在日内瓦会晤伊朗外长阿巴斯·阿拉格齐，试图化解伊朗与核查人员在核设施准入问题上的僵局。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqny6519539.d.html</link>
+            <guid>4703697</guid>
+            <pubDate>Fri, 27 Feb 2026 15:17:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[云计算公司CoreWeave跌17%，创8月份以来最差盘中表现，该公司今年300亿-350亿美元的资本支出计划引发市场担忧。]]></title>
-            <guid>4703636</guid>
-            <pubDate>Fri, 27 Feb 2026 14:33:35 GMT</pubDate>
+            <title><![CDATA[【科达制造：碳酸锂价格上涨预计将为公司业绩带来积极贡献】科达制造近日在投资者关系活动中表示，公司持有蓝科锂业43.58%股份，控制其48.58%表决权，按持股比例将蓝科锂业的净利润计入归母净利润。蓝科锂业碳酸锂产品的销售采用随行就市的定价原则，销售价格随市场行情动态调整。市场上碳酸锂价格上涨，预计将为公司业绩带来积极贡献。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqpa3517762.d.html</link>
+            <guid>4703696</guid>
+            <pubDate>Fri, 27 Feb 2026 15:16:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AES股价大涨5.4%，至2024年以来最高盘中水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqny6503732.d.html</link>
-            <guid>4703635</guid>
-            <pubDate>Fri, 27 Feb 2026 14:32:57 GMT</pubDate>
+            <title><![CDATA[科特迪瓦：缺乏资金收购全部可可产量。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqny6518879.d.html</link>
+            <guid>4703695</guid>
+            <pubDate>Fri, 27 Feb 2026 15:15:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[多邻国股价下跌22%，创下2023年2月以来最低水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqnw9726394.d.html</link>
-            <guid>4703634</guid>
-            <pubDate>Fri, 27 Feb 2026 14:32:40 GMT</pubDate>
+            <title><![CDATA[美国航空航天局（NASA）：2028年登月总体目标不变。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqnw9740088.d.html</link>
+            <guid>4703694</guid>
+            <pubDate>Fri, 27 Feb 2026 15:10:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[华纳兄弟股价下跌1.4%；奈飞股价上涨8.5%。]]></title>
-            <guid>4703633</guid>
-            <pubDate>Fri, 27 Feb 2026 14:32:26 GMT</pubDate>
+            <title><![CDATA[英国财政部消息人士证实，财政大臣里夫斯将批准从意大利莱昂纳多公司购买23架直升机的交易。]]></title>
+            <guid>4703693</guid>
+            <pubDate>Fri, 27 Feb 2026 15:10:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国政府：英国工作人员已暂时撤离伊朗。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqnw9726102.d.html</link>
-            <guid>4703632</guid>
-            <pubDate>Fri, 27 Feb 2026 14:31:59 GMT</pubDate>
+            <title><![CDATA[  马克龙：欧盟 — 南方共同市场协定：我绝不会为一份对我们进口产品宽松、却对我们本土生产严苛的协定辩护。在维护我们已争取到的保障措施、保护我们的农民和法国民众方面，我们将毫不妥协。]]></title>
+            <guid>4703692</guid>
+            <pubDate>Fri, 27 Feb 2026 15:08:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[戴尔科技股价上涨14%，创4月9日以来最大盘中涨幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqpa3500298.d.html</link>
-            <guid>4703631</guid>
-            <pubDate>Fri, 27 Feb 2026 14:31:48 GMT</pubDate>
+            <title><![CDATA[【标普500指数测试关键技术位】随着科技股下跌和通胀数据高企给市场带来压力，标普500指数重新跌破其备受关注的50日移动均线这一技术指标。该基准指数也跌破斐波那契回撤位6850.62点。收盘若低于这些水平，可能会进一步给市场带来压力。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqny6516679.d.html</link>
+            <guid>4703691</guid>
+            <pubDate>Fri, 27 Feb 2026 15:08:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【道指开盘跌0.8%，标普500跌0.8%，纳指跌1.2%】奈飞涨9.2%，放弃竞标华纳兄弟。Block大涨15.6%，裁减近一半员工、押注更小团队与智能工具的组合。戴尔涨11.0%，业绩及指引双双超预期。CoreWeave跌11.8%，上季亏损扩大，今年资本支出猛增至300亿美元。多邻国跌22.3%，日活增速持续放缓。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqny6502791.d.html</link>
-            <guid>4703630</guid>
-            <pubDate>Fri, 27 Feb 2026 14:30:49 GMT</pubDate>
+            <title><![CDATA[市场消息：美国将若干个人从俄罗斯和黎巴嫩制裁名单中移除。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqny6516577.d.html</link>
+            <guid>4703690</guid>
+            <pubDate>Fri, 27 Feb 2026 15:07:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[纳斯达克中国金龙指数跌超0.5%，能链智电跌8.94%，世纪互联跌4.94%，晶科能源跌4.38%，再鼎医药跌3.76%，蔚来跌2.75%。]]></title>
-            <guid>4703629</guid>
-            <pubDate>Fri, 27 Feb 2026 14:30:29 GMT</pubDate>
+            <title><![CDATA[美国国家航空航天局（NASA）对“阿尔忒弥斯”登月计划作出多项调整，在宇航员登月前增加了一项新的航天器对接测试任务。]]></title>
+            <guid>4703689</guid>
+            <pubDate>Fri, 27 Feb 2026 15:07:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[多伦多股指开盘下跌87.62点，跌幅0.25%，报34,414.34点。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqpe0601559.d.html</link>
-            <guid>4703628</guid>
-            <pubDate>Fri, 27 Feb 2026 14:30:20 GMT</pubDate>
+            <title><![CDATA[美国国家航空航天局（NASA）取消升级太空发射系统（SLS）火箭的计划，转而专注提高发射频率，这将对波音公司价值20亿美元的探索上面级（EUS）合同产生影响。]]></title>
+            <guid>4703688</guid>
+            <pubDate>Fri, 27 Feb 2026 15:07:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【卧龙电气驱动集团股份有限公司向港交所提交上市申请书】据港交所文件：卧龙电气驱动集团股份有限公司向港交所提交上市申请书。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqpa3499393.d.html</link>
-            <guid>4703627</guid>
-            <pubDate>Fri, 27 Feb 2026 14:29:29 GMT</pubDate>
+            <title><![CDATA[瑞银策略师将美国股票评级下调至中性/标配。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqnw9738743.d.html</link>
+            <guid>4703687</guid>
+            <pubDate>Fri, 27 Feb 2026 15:06:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[油价因美伊冲突风险上升而大幅上涨，TP ICAP分析师斯科特·谢尔顿表示，市场向我们表明，美国发动攻击的风险仍然非常高。]]></title>
-            <guid>4703626</guid>
-            <pubDate>Fri, 27 Feb 2026 14:28:43 GMT</pubDate>
+            <title><![CDATA[市场消息：美国政府机构对使用埃隆·马斯克的Grok聊天机器人发出警报。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqny6515423.d.html</link>
+            <guid>4703686</guid>
+            <pubDate>Fri, 27 Feb 2026 15:05:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国国务院副发言人就美国国务院授权非必要外交人员及其家属撤离伊拉克和科威特的报道称，这并非事实。]]></title>
-            <guid>4703625</guid>
-            <pubDate>Fri, 27 Feb 2026 14:28:23 GMT</pubDate>
+            <title><![CDATA[【国际原子能机构：无法确认伊朗铀浓缩活动现状】当地时间27日，国际原子能机构发布报告称，因核查受限，无法掌握伊朗浓缩铀库存规模及去向，也无法确认其是否已停止全部铀浓缩活动。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqpa3511658.d.html</link>
+            <guid>4703685</guid>
+            <pubDate>Fri, 27 Feb 2026 15:02:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【奈飞美股盘前涨超10%】奈飞美股盘前涨超10%，现报93.198美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqny6501174.d.html</link>
-            <guid>4703623</guid>
-            <pubDate>Fri, 27 Feb 2026 14:26:31 GMT</pubDate>
+            <title><![CDATA[俄外交部：俄罗斯召见芬兰大使。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqpe0613501.d.html</link>
+            <guid>4703684</guid>
+            <pubDate>Fri, 27 Feb 2026 15:02:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【化工巨头集体提价：MDI三个月内两度涨价 TDI月涨千元】时隔三个月，聚氨酯原料MDI再次掀起集中涨价潮。2月25日，巴斯夫宣布即日起上调东盟地区MDI产品价格，涨幅为200美元/吨。公司称价格调整主要由于原材料成本持续上涨。此前一周，亨斯迈已对美国市场MDI产品涨价260美元/吨，科思创也宣布自3月1日起上调北美地区MDI系列产品价格220美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqpe0600259.d.html</link>
-            <guid>4703622</guid>
-            <pubDate>Fri, 27 Feb 2026 14:25:53 GMT</pubDate>
+            <title><![CDATA[美国12月营建支出环比 0.3%，预期 0.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqpe0612765.d.html</link>
+            <guid>4703683</guid>
+            <pubDate>Fri, 27 Feb 2026 15:00:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[国际货币基金组织（IMF）表示，已达成一致的增值税调整措施越早生效越好。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqnw9723579.d.html</link>
-            <guid>4703621</guid>
-            <pubDate>Fri, 27 Feb 2026 14:25:34 GMT</pubDate>
+            <title><![CDATA[【夜盘期货收盘】燃料油连续涨4.69%，低硫燃料油连续涨3.97%，玉米连续涨1.49%，淀粉连续涨1.47%，沥青连续涨1.43%。]]></title>
+            <guid>4703682</guid>
+            <pubDate>Fri, 27 Feb 2026 15:00:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：三星将关闭位于斯洛伐克的电视机生产工厂。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqpe0599975.d.html</link>
-            <guid>4703620</guid>
-            <pubDate>Fri, 27 Feb 2026 14:24:50 GMT</pubDate>
+            <title><![CDATA[【中文在线集团股份有限公司向港交所提交上市申请书】据港交所文件：中文在线集团股份有限公司向港交所提交上市申请书。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqny6513851.d.html</link>
+            <guid>4703681</guid>
+            <pubDate>Fri, 27 Feb 2026 14:59:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【德国通胀率降至2% 年初经济复苏步伐缓慢】德国通胀率意外回落至欧洲央行目标水平，2026年初经济复苏步伐缓慢。德国统计局周五公布，2月消费者价格同比上升2%，升幅低于1月的2.1%。经济学家此前预计该数据将持稳。 尽管德国经济在多年低迷后显现复苏迹象，但德国央行仅认为其“动能疲弱”。财政刺激政策预计将于春季开始更明显显效，推动今年经济增速至少达到1%，并助力通胀率稳定在2%。欧洲央行决策者表示，他们对欧元区物价涨幅及借贷成本水平感到满意。经济学家预计至少到明年年底前利率都不会有任何调整，尽管当前通胀率仍低于目标值。欧元区下周二将公布通胀数据，分析师预期为1.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqny6499975.d.html</link>
-            <guid>4703619</guid>
-            <pubDate>Fri, 27 Feb 2026 14:23:15 GMT</pubDate>
+            <title><![CDATA[据港交所文件：北京五和博澳药业股份有限公司-B向港交所提交上市申请书。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqny6513748.d.html</link>
+            <guid>4703680</guid>
+            <pubDate>Fri, 27 Feb 2026 14:59:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：宝马将在德国工厂投产人形机器人。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqpa3497560.d.html</link>
-            <guid>4703618</guid>
-            <pubDate>Fri, 27 Feb 2026 14:22:56 GMT</pubDate>
+            <title><![CDATA[据报道，俄罗斯联邦通信、信息技术和大众传媒监管局（Roskomnadzor）和国防部的信息资源遭受了DDoS攻击。]]></title>
+            <guid>4703679</guid>
+            <pubDate>Fri, 27 Feb 2026 14:58:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[国际货币基金组织敦促乌克兰提高汇率灵活性。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqnw9722198.d.html</link>
-            <guid>4703617</guid>
-            <pubDate>Fri, 27 Feb 2026 14:21:45 GMT</pubDate>
+            <title><![CDATA[据港交所文件：立讯精密工业股份有限公司向港交所提交上市申请书。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqnw9736171.d.html</link>
+            <guid>4703678</guid>
+            <pubDate>Fri, 27 Feb 2026 14:58:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[国际货币基金组织（IMF）要求乌克兰在3月底前取消税收豁免。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqnw9721543.d.html</link>
-            <guid>4703616</guid>
-            <pubDate>Fri, 27 Feb 2026 14:20:05 GMT</pubDate>
+            <title><![CDATA[巴克莱银行股价跌至日内低点，最新跌幅达4.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqnw9735890.d.html</link>
+            <guid>4703677</guid>
+            <pubDate>Fri, 27 Feb 2026 14:57:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【我国推动到2030年实现高校科普工作全覆盖】中国科协、教育部日前印发《关于进一步加强高等学校科普工作的意见》，提出到2030年实现高校科普工作全覆盖。根据意见，到2030年，高校科普工作体系将更加完善，高校科普地位作用更加凸显，科学素质和能力培养导向更加鲜明，高校社会化科普服务效能更加彰显，服务国家创新驱动发展的贡献度进一步提升。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqpa3496434.d.html</link>
-            <guid>4703615</guid>
-            <pubDate>Fri, 27 Feb 2026 14:19:17 GMT</pubDate>
+            <title><![CDATA[惠誉：南非债务预测呈现正面敏感性。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqny6512655.d.html</link>
+            <guid>4703676</guid>
+            <pubDate>Fri, 27 Feb 2026 14:56:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：OpenAI的阿尔特曼告诉员工，将去看看能否与道琼斯公司达成一项协议，使我们的模型能够在机密环境中部署。]]></title>
-            <guid>4703614</guid>
-            <pubDate>Fri, 27 Feb 2026 14:18:28 GMT</pubDate>
+            <title><![CDATA[英国政府表示，驻德黑兰大使馆目前使馆正在远程运作。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqpe0611278.d.html</link>
+            <guid>4703675</guid>
+            <pubDate>Fri, 27 Feb 2026 14:55:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：OpenAI首席执行官奥特曼告诉员工，公司正在推进一项可能有助于解决 Anthropic公司与美国国防部僵局的交易。]]></title>
-            <guid>4703612</guid>
-            <pubDate>Fri, 27 Feb 2026 14:18:05 GMT</pubDate>
+            <title><![CDATA[Arlo Technologies在公司预测第一季度营收高于预期后股价上涨25%。]]></title>
+            <guid>4703674</guid>
+            <pubDate>Fri, 27 Feb 2026 14:55:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据港交所文件：Pinnacle Marine Holdings Ltd向港交所提交上市申请书。]]></title>
-            <guid>4703611</guid>
-            <pubDate>Fri, 27 Feb 2026 14:17:22 GMT</pubDate>
+            <title><![CDATA[汇丰银行将泸州老窖评级下调至持有；目标价123元人民币。]]></title>
+            <guid>4703673</guid>
+            <pubDate>Fri, 27 Feb 2026 14:55:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【特朗普政府周五面临首个重大关税退税法定期限】美国总统特朗普的司法部（DOJ）必须在2月27日（周五）之前，就原告通过国际贸易法院（CIT）要求加急支付“非法关税”加急退款的动议作出回应。贸易律师称，目前已有超过2,000起企业起诉要求退还关税的案件提交至国际贸易法院。原告担心政府可能会试图拖延退款流程。最高法院在上周五裁定特朗普依据《国际紧急经济权力法》（IEEPA）征收的关税非法后，为联邦法院系统提供了大约一个月的期限来决定后续步骤。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqpe0597574.d.html</link>
-            <guid>4703610</guid>
-            <pubDate>Fri, 27 Feb 2026 14:16:40 GMT</pubDate>
+            <title><![CDATA[汇丰银行将五粮液评级上调至买进；目标价127元人民币。]]></title>
+            <guid>4703672</guid>
+            <pubDate>Fri, 27 Feb 2026 14:55:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[厄瓜多尔方面表示，将出席美国总统特朗普聚焦安全的会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqny6496705.d.html</link>
-            <guid>4703609</guid>
-            <pubDate>Fri, 27 Feb 2026 14:14:35 GMT</pubDate>
+            <title><![CDATA[马士基股价在午后交易中上涨3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqpe0610044.d.html</link>
+            <guid>4703671</guid>
+            <pubDate>Fri, 27 Feb 2026 14:51:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【精智达：股东源创力清源及其一致行动人拟合计减持不超1.55%股份】精智达(688627.SH)公告称，持股5%以上股东源创力清源及其一致行动人因自身资金需求，拟通过集中竞价交易方式合计减持股份数量不超过145.45万股，占公司总股本比例不超过1.55%；减持期间为公告披露之日起十五个交易日后的三个月内，即2026年3月23日至2026年6月22日；减持股份来源为IPO前取得。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqny6496592.d.html</link>
-            <guid>4703607</guid>
-            <pubDate>Fri, 27 Feb 2026 14:14:15 GMT</pubDate>
+            <title><![CDATA[尼日利亚第四季度国内生产总值同比增长4.07%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqnw9733695.d.html</link>
+            <guid>4703670</guid>
+            <pubDate>Fri, 27 Feb 2026 14:51:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[厄瓜多尔方面表示，支持美国从犯罪源头打击犯罪的政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqnw9718880.d.html</link>
-            <guid>4703606</guid>
-            <pubDate>Fri, 27 Feb 2026 14:12:53 GMT</pubDate>
+            <title><![CDATA[碧桂园：净新增38.61亿元人民币违约债务。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqnw9733645.d.html</link>
+            <guid>4703669</guid>
+            <pubDate>Fri, 27 Feb 2026 14:51:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【裕信银行将把主要高管平均奖金上调约15% 此前利润创纪录】据报道，意大利裕信银行在去年实现创纪录利润并提高股东回报后，准备将主要高管的平均奖金上调约15%。知情人士称，此次调整适用于所谓实质性风险承担者的奖金池。该群体约850人，通常包括交易员、投行交易撮合人员以及高级管理层等。知情人士还表示，裕信银行也计划将非高管及网点人员的平均奖金上调17%，但不同国家、岗位以及个人绩效水平之间会存在差异。知情人士因讨论未公开信息而要求匿名。知情人士表示，实质性风险承担者的奖金池总规模约为1.52亿欧元（1.79亿美元），按可比口径计算较2024年的奖金池增加约1,800万欧元。首席执行官以及集团执行委员会成员的奖金将100%以股票形式发放。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqny6495467.d.html</link>
-            <guid>4703604</guid>
-            <pubDate>Fri, 27 Feb 2026 14:11:25 GMT</pubDate>
+            <title><![CDATA[【新安洁：董事长被立案调查和留置】新安洁公告，公司实际控制人、董事长魏延田被重庆市綦江区监察委员会立案调查和实施留置措施。]]></title>
+            <guid>4703668</guid>
+            <pubDate>Fri, 27 Feb 2026 14:49:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[国际原子能机构（IAEA）：伊朗未曾向国际原子能机构提交有关其遭攻击的核设施及其所涉核材料状况的任何报告，也未允许其进入这些设施进行检查。]]></title>
-            <guid>4703603</guid>
-            <pubDate>Fri, 27 Feb 2026 14:11:09 GMT</pubDate>
+            <title><![CDATA[拉斯维加斯大道1月份博彩收入同比下降11%，至7.477亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqpa3507434.d.html</link>
+            <guid>4703667</guid>
+            <pubDate>Fri, 27 Feb 2026 14:49:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[白宫新闻秘书莱维特：特朗普将在得州宣传经济和能源政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqnw9717621.d.html</link>
-            <guid>4703602</guid>
-            <pubDate>Fri, 27 Feb 2026 14:10:11 GMT</pubDate>
+            <title><![CDATA[尼日利亚统计局：第四季度石油产量为每日158万桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqny6510344.d.html</link>
+            <guid>4703666</guid>
+            <pubDate>Fri, 27 Feb 2026 14:49:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【科学家打造新型神经网络 辅助AI感知世界】近日，中国科学院自动化研究所脑图谱与类脑智能实验室余山团队与北京大学心理与认知科学学院毕彦超团队的合作研究取得重要突破，研究提出一种新型神经网络框架CATSNet，实现了类人的概念形成、理解和交流。相关成果已在国际学术期刊《自然·计算科学》在线发表。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqnw9717488.d.html</link>
-            <guid>4703601</guid>
-            <pubDate>Fri, 27 Feb 2026 14:09:59 GMT</pubDate>
+            <title><![CDATA[芝加哥期权交易所波动率指数（VIX），即华尔街熟知的“恐惧指标”，周五早盘回升至20关口上方。该指数最新交易价格为21.12。]]></title>
+            <guid>4703665</guid>
+            <pubDate>Fri, 27 Feb 2026 14:49:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[碧桂园：截至1月31日，新增未决诉讼14宗。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-02-27/detail-inhphqnw9732981.d.html</link>
+            <guid>4703664</guid>
+            <pubDate>Fri, 27 Feb 2026 14:49:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
