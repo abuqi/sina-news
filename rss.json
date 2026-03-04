@@ -6,6 +6,219 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 4717393,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwkuf3522070.d.html",
+            "title": "【伊朗军方在冲突中首次使用“哈迪德110”高速无人机】当地时间4日，伊朗伊斯兰革命卫队在本轮冲突中首次使用了“哈迪德110”高速无人机。据伊朗军方此前消息，“哈迪德110”是一款新型高速自杀攻击型无人机，采用火箭助推发射，最高时速达500公里，是目前伊朗速度最快的自杀攻击型无人机。（央视新闻）",
+            "date_modified": "2026-03-04T19:38:42.000Z"
+        },
+        {
+            "id": 4717390,
+            "content_html": "",
+            "title": "据 Axios 报道，以色列总理内塔尼亚胡本周早些时候得知特朗普政府官员可能与伊朗政权进行沟通后，要求白宫做出澄清。",
+            "date_modified": "2026-03-04T19:37:03.000Z"
+        },
+        {
+            "id": 4717389,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwkuf3521657.d.html",
+            "title": "乌克兰总统泽连斯基：包括美国在内的基辅盟友已寻求基辅帮助其防御伊朗无人机。",
+            "date_modified": "2026-03-04T19:35:40.000Z"
+        },
+        {
+            "id": 4717388,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwkua0072047.d.html",
+            "title": "据英国每日电讯报：美国隐形轰炸机将在几天内降落在英国基地。",
+            "date_modified": "2026-03-04T19:34:30.000Z"
+        },
+        {
+            "id": 4717384,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwkua0071555.d.html",
+            "title": "西班牙官员：西班牙尚未同意美国使用其基地来打击伊朗。",
+            "date_modified": "2026-03-04T19:32:42.000Z"
+        },
+        {
+            "id": 4717380,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwkua0070089.d.html",
+            "title": "亚马逊在机器人部门裁员。（Business Insider）",
+            "date_modified": "2026-03-04T19:27:23.000Z"
+        },
+        {
+            "id": 4717379,
+            "content_html": "",
+            "title": "  真主党领导人：该组织要求停止 “以色列与美国的侵略行径”，并要求以色列从黎巴嫩撤军。",
+            "date_modified": "2026-03-04T19:26:37.000Z"
+        },
+        {
+            "id": 4717372,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwkuc6846705.d.html",
+            "title": "西班牙外交大臣阿尔瓦雷斯：西班牙政府对中东战争及本国基地使用问题的立场没有改变。",
+            "date_modified": "2026-03-04T19:25:15.000Z"
+        },
+        {
+            "id": 4717371,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwkua0069105.d.html",
+            "title": "美国内政部长伯古姆与委内瑞拉代理总统德尔茜·罗德里格斯会面。",
+            "date_modified": "2026-03-04T19:23:46.000Z"
+        },
+        {
+            "id": 4717370,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwkty3512763.d.html",
+            "title": "比特币升破74000美元，日内涨8.32%。",
+            "date_modified": "2026-03-04T19:21:15.000Z"
+        },
+        {
+            "id": 4717369,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwkua0068208.d.html",
+            "title": "真主党领袖表示，无论付出多大牺牲，该组织都不会投降。",
+            "date_modified": "2026-03-04T19:20:39.000Z"
+        },
+        {
+            "id": 4717368,
+            "content_html": "",
+            "title": "欧盟已经对来自法国、瑞典、英国的公司清单进行精简，用于管理其既定的Scaleup Europe Fund计划。欧盟委员会将是该项目的创始投资者之一，私人投资者、养老基金也将参与其中。该项目的融资目标为250亿欧元，将侧重于战略性科技与公司。",
+            "date_modified": "2026-03-04T19:18:08.000Z"
+        },
+        {
+            "id": 4717367,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwkuc6844649.d.html",
+            "title": "美国股市涨幅扩大，标普500指数上涨1.00%",
+            "date_modified": "2026-03-04T19:18:00.000Z"
+        },
+        {
+            "id": 4717366,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwkua0067183.d.html",
+            "title": "市场消息：如果被命令支付进口商关税退款，美国将支付利息。",
+            "date_modified": "2026-03-04T19:16:59.000Z"
+        },
+        {
+            "id": 4717365,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwkty3511947.d.html",
+            "title": "真主党领袖称以色列近期对黎巴嫩的袭击是“有预谋的侵略”。",
+            "date_modified": "2026-03-04T19:15:28.000Z"
+        },
+        {
+            "id": 4717364,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwkty3511911.d.html",
+            "title": "【西班牙媒体称该国外交大臣否认与美国军事合作】西班牙《国家报》援引外交大臣阿尔瓦雷斯的消息报道，西班牙否认与美国进行军事合作。此前美国白宫新闻秘书莱维特称西班牙已同意与美国军方合作。",
+            "date_modified": "2026-03-04T19:15:13.000Z"
+        },
+        {
+            "id": 4717363,
+            "content_html": "",
+            "title": "据Crane Data：美国货币基金资产管理规模达到8.27万亿美元，创历史新高。",
+            "date_modified": "2026-03-04T19:14:16.000Z"
+        },
+        {
+            "id": 4717361,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwkty3511105.d.html",
+            "title": "  刚果民主共和国矿业部：鲁巴亚矿山发生山体滑坡，已造成200 多人死亡。",
+            "date_modified": "2026-03-04T19:10:02.000Z"
+        },
+        {
+            "id": 4717360,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwkuc6841738.d.html",
+            "title": "法国总统马克龙：呼吁内塔尼亚胡避免对黎巴嫩发动地面进攻。",
+            "date_modified": "2026-03-04T19:07:41.000Z"
+        },
+        {
+            "id": 4717359,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwkuf3517555.d.html",
+            "title": "法国总统马克龙：真主党的升级战略是一个重大错误，使整个地区陷入危险之中。",
+            "date_modified": "2026-03-04T19:07:03.000Z"
+        },
+        {
+            "id": 4717358,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwkuc6841310.d.html",
+            "title": "真主党领袖称以色列对该组织构成生存威胁。",
+            "date_modified": "2026-03-04T19:06:17.000Z"
+        },
+        {
+            "id": 4717357,
+            "content_html": "",
+            "title": "市场消息：法国总统马克龙周三就黎巴嫩局势与以色列总理内塔尼亚胡以及黎巴嫩领导人进行了交谈。",
+            "date_modified": "2026-03-04T19:05:30.000Z"
+        },
+        {
+            "id": 4717356,
+            "content_html": "",
+            "title": "伊朗革命卫队（IRGC）顾问：战争中时间对伊朗有利；伊朗已准备好进行持久战。",
+            "date_modified": "2026-03-04T19:04:56.000Z"
+        },
+        {
+            "id": 4717355,
+            "content_html": "",
+            "title": "美联储褐皮书：在12个联邦储备区中，有7个地区的整体经济活动以轻微至温和的速度增长，而报告经济活动持平或下降的地区数量从之前的4个增加至当前的5个。",
+            "date_modified": "2026-03-04T19:03:46.000Z"
+        },
+        {
+            "id": 4717354,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwkuc6840071.d.html",
+            "title": "白宫新闻秘书莱维特：美军不会针对平民。",
+            "date_modified": "2026-03-04T19:02:49.000Z"
+        },
+        {
+            "id": 4717353,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwkua0062665.d.html",
+            "title": "据EL PAIS：西班牙否认与美国的军事合作。",
+            "date_modified": "2026-03-04T19:02:06.000Z"
+        },
+        {
+            "id": 4717352,
+            "content_html": "",
+            "title": "美国白宫：阿根廷、玻利维亚、智利、哥斯达黎加、多米尼加共和国、厄瓜多尔、萨尔瓦多、洪都拉斯、巴拿马、巴拉圭、特立尼达和多巴哥的领导人将出席。",
+            "date_modified": "2026-03-04T19:01:27.000Z"
+        },
+        {
+            "id": 4717351,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwkty3509244.d.html",
+            "title": "美国白宫：本周末，特朗普将在迈阿密迎接来自12个拉丁美洲国家的元首。",
+            "date_modified": "2026-03-04T19:00:58.000Z"
+        },
+        {
+            "id": 4717350,
+            "content_html": "",
+            "title": "美联储褐皮书：由于企业相互竞争，多数辖区的工资以温和或适度的速度上涨。本报告由克利夫兰联邦储备银行根据2026年2月23日或之前收集的信息编写。",
+            "date_modified": "2026-03-04T19:00:40.000Z"
+        },
+        {
+            "id": 4717349,
+            "content_html": "",
+            "title": "美联储褐皮书：总体而言，经济预期较为乐观，多数辖区预计未来几个月经济将实现轻微至适度增长。",
+            "date_modified": "2026-03-04T19:00:36.000Z"
+        },
+        {
+            "id": 4717348,
+            "content_html": "",
+            "title": "美联储褐皮书：近几周物价温和上涨，有八个地区报告物价温和增长，四个地区出现轻微或适度上涨。",
+            "date_modified": "2026-03-04T19:00:33.000Z"
+        },
+        {
+            "id": 4717347,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwkuf3516042.d.html",
+            "title": "恒指期货夜盘收涨1.60%，报25534.08点，高水284.60点。",
+            "date_modified": "2026-03-04T19:00:01.000Z"
+        },
+        {
             "id": 4717346,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwkua0061300.d.html",
@@ -128,220 +341,6 @@
             "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpweni3644211.d.html",
             "title": "英伟达CEO黄仁勋：英伟达的股票势不可挡。",
             "date_modified": "2026-03-04T18:44:41.000Z"
-        },
-        {
-            "id": 4717327,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwenf6965249.d.html",
-            "title": "英伟达CEO黄仁勋认为，AI热潮的资金来源已非常清晰。",
-            "date_modified": "2026-03-04T18:44:12.000Z"
-        },
-        {
-            "id": 4717326,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwene0187935.d.html",
-            "title": "白宫新闻秘书莱维特：特朗普正积极讨论冲突后伊朗的未来。",
-            "date_modified": "2026-03-04T18:43:49.000Z"
-        },
-        {
-            "id": 4717325,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpweni3643894.d.html",
-            "title": "白宫：特朗普正与顾问们讨论美国在伊朗冲突后的角色问题。",
-            "date_modified": "2026-03-04T18:42:46.000Z"
-        },
-        {
-            "id": 4717324,
-            "content_html": "",
-            "title": "美国司法部正在调查的化肥公司包括Nutrien有限公司、美盛公司（Mosaic Co）、CF工业控股公司（CF Industries Holdings Inc）、科氏工业集团（Koch Inc）以及挪威的雅苒国际（Yara International）。",
-            "date_modified": "2026-03-04T18:42:40.000Z"
-        },
-        {
-            "id": 4717323,
-            "content_html": "",
-            "title": "美国大型科技游说团体（其成员包括英伟达、亚马逊和苹果）致信美国国防部首席官员赫格塞思，对其将人工智能初创公司Anthropic认定为供应链风险一事表达关切。",
-            "date_modified": "2026-03-04T18:42:04.000Z"
-        },
-        {
-            "id": 4717322,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwene0187332.d.html",
-            "title": "白宫新闻秘书莱维特：特朗普期待所有欧洲盟友都配合美国。",
-            "date_modified": "2026-03-04T18:41:51.000Z"
-        },
-        {
-            "id": 4717321,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwena3636744.d.html",
-            "title": "白宫新闻秘书莱维特：伊朗的报复性打击已大大减少。",
-            "date_modified": "2026-03-04T18:41:34.000Z"
-        },
-        {
-            "id": 4717320,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwenf6964234.d.html",
-            "title": "伊朗西北部大不里士市遭遇猛烈空袭。",
-            "date_modified": "2026-03-04T18:40:55.000Z"
-        },
-        {
-            "id": 4717319,
-            "content_html": "",
-            "title": "路透社调查显示，周四美国能源信息署（EIA）报告预计将显示，美国上周天然气库存减少1210亿立方英尺。",
-            "date_modified": "2026-03-04T18:40:36.000Z"
-        },
-        {
-            "id": 4717318,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwene0186890.d.html",
-            "title": "白宫新闻秘书莱维特：未来几天将宣布更多措施。",
-            "date_modified": "2026-03-04T18:40:24.000Z"
-        },
-        {
-            "id": 4717317,
-            "content_html": "",
-            "title": "白宫新闻秘书莱维特：在特朗普威胁实施贸易禁运后，西班牙已同意与美军合作。我认为他们昨天已经非常清楚、非常明确地听到了总统特朗普的讯息。",
-            "date_modified": "2026-03-04T18:40:09.000Z"
-        },
-        {
-            "id": 4717316,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwenf6963792.d.html",
-            "title": "美国内政部表示，阿拉斯加库克湾油气租赁拍卖未收到任何投标。",
-            "date_modified": "2026-03-04T18:39:25.000Z"
-        },
-        {
-            "id": 4717315,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwenf6963677.d.html",
-            "title": "白宫新闻秘书莱维特：美国正努力安排包机接回在中东的美国公民。",
-            "date_modified": "2026-03-04T18:39:06.000Z"
-        },
-        {
-            "id": 4717313,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwene0185911.d.html",
-            "title": "白宫新闻秘书莱维特：能源行业将从特朗普的行动中受益。",
-            "date_modified": "2026-03-04T18:37:19.000Z"
-        },
-        {
-            "id": 4717312,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwenf6963015.d.html",
-            "title": "白宫新闻秘书莱维特：特朗普希望所有欧洲盟友都合作。",
-            "date_modified": "2026-03-04T18:37:04.000Z"
-        },
-        {
-            "id": 4717311,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpweni3642760.d.html",
-            "title": "白宫新闻秘书莱维特：西班牙已同意与美军进行协调合作。",
-            "date_modified": "2026-03-04T18:36:49.000Z"
-        },
-        {
-            "id": 4717310,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwena3635629.d.html",
-            "title": "白宫就伊朗问题表态：未来几天将宣布更多措施，以协助美国人从中东返回。",
-            "date_modified": "2026-03-04T18:35:49.000Z"
-        },
-        {
-            "id": 4717309,
-            "content_html": "",
-            "title": "英伟达首席执行官黄仁勋称，我们对人工智能初创公司Anthropic的100亿美元投资可能是最后一笔。",
-            "date_modified": "2026-03-04T18:35:39.000Z"
-        },
-        {
-            "id": 4717308,
-            "content_html": "",
-            "title": "英伟达首席执行官黄仁勋表示，向OpenAI投资1000亿美元的机会可能不太可能出现，因为他们即将上市。",
-            "date_modified": "2026-03-04T18:34:58.000Z"
-        },
-        {
-            "id": 4717307,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwena3635485.d.html",
-            "title": "  英伟达CEO黄仁勋表示，目前暂无1000亿美元投资计划。",
-            "date_modified": "2026-03-04T18:34:51.000Z"
-        },
-        {
-            "id": 4717306,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwena3635415.d.html",
-            "title": "佳得乐：推出低糖佳得乐，自2026年3月起在全国范围内上市。",
-            "date_modified": "2026-03-04T18:34:25.000Z"
-        },
-        {
-            "id": 4717305,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpweni3642127.d.html",
-            "title": "【拉特群岛发生6.2级地震 震源深度10千米】中国地震台网正式测定：3月5日1时54分在拉特群岛（北纬52.35度，东经176.40度）发生6.2级地震，震源深度10千米。",
-            "date_modified": "2026-03-04T18:32:53.000Z"
-        },
-        {
-            "id": 4717304,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwenf6961607.d.html",
-            "title": "白宫：特朗普认为美国民众支持对伊朗采取的行动。",
-            "date_modified": "2026-03-04T18:32:17.000Z"
-        },
-        {
-            "id": 4717303,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwenf6961272.d.html",
-            "title": "白宫：与以色列总理内塔尼亚胡的电话沟通对于确定伊朗袭击的时间线十分重要。",
-            "date_modified": "2026-03-04T18:31:07.000Z"
-        },
-        {
-            "id": 4717302,
-            "content_html": "",
-            "title": "地中海航运公司（MSC）：西北欧地区/加那利群岛航线双向运输，普通集装箱每20英尺标准箱（TEU）紧急燃油附加费为25欧元，冷藏集装箱每20英尺标准箱（TEU）紧急燃油附加费为35欧元。",
-            "date_modified": "2026-03-04T18:30:59.000Z"
-        },
-        {
-            "id": 4717301,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwenf6961129.d.html",
-            "title": "【德防长：德国军队不会参与针对伊朗的战争】当地时间4日，德国国防部长皮斯托里乌斯在联邦议院发表讲话时称，德国不是交战方，不会参加美国和以色列针对伊朗的战争。此外，德国将尽一切努力缓和局势，遏制暴力进一步蔓延。（央视新闻）",
-            "date_modified": "2026-03-04T18:30:37.000Z"
-        },
-        {
-            "id": 4717300,
-            "content_html": "",
-            "title": "上期所原油期货夜盘收涨8.99%，报680.10元人民币/桶。沪金夜盘收跌0.22%，沪银收涨1.28%。",
-            "date_modified": "2026-03-04T18:30:02.000Z"
-        },
-        {
-            "id": 4717299,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpwenf6960888.d.html",
-            "title": "伊朗德黑兰以北、中部城市亚兹德以及西北部大不里士均听到爆炸声。",
-            "date_modified": "2026-03-04T18:29:51.000Z"
-        },
-        {
-            "id": 4717298,
-            "content_html": "",
-            "title": "白宫：情报机构正在对此进行调查；我们只能拭目以待。",
-            "date_modified": "2026-03-04T18:29:36.000Z"
-        },
-        {
-            "id": 4717297,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpweni3641515.d.html",
-            "title": "白宫就伊朗问题表态：已看到有关哈梅内伊之子穆杰塔巴正在角逐领导层之位的报道。",
-            "date_modified": "2026-03-04T18:29:18.000Z"
-        },
-        {
-            "id": 4717296,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-05/detail-inhpweni3641501.d.html",
-            "title": "上海原油连续主力合约日内涨9%，现报680.60元。",
-            "date_modified": "2026-03-04T18:29:11.000Z"
-        },
-        {
-            "id": 4717295,
-            "content_html": "",
-            "title": "地中海航运公司（MSC）：宣布自2026年3月16日起，西北欧（NWC）与加那利群岛之间往返航线的燃油附加费政策。",
-            "date_modified": "2026-03-04T18:28:10.000Z"
         }
     ]
 }
