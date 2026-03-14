@@ -4,11 +4,27 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 14 Mar 2026 20:35:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 21:31:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  阿联酋总统外交顾问加尔加什：阿联酋有权在面对 “恐怖主义侵略” 时自卫，但仍将优先保持理性与逻辑。  伊朗对阿联酋的指控是一项混乱且缺乏智慧的政策的一部分。]]></title>
+            <guid>4743815</guid>
+            <pubDate>Sat, 14 Mar 2026 20:58:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据美国财经媒体Semafor：美国官员透露，以色列本周告知美国，随着与伊朗的冲突持续激烈，其拦截导弹库存“严重不足”。]]></title>
+            <guid>4743814</guid>
+            <pubDate>Sat, 14 Mar 2026 20:44:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗启动“真实承诺4”第51轮军事行动】当地时间14日，伊朗伊斯兰革命卫队发布声明称，在“真实承诺4”第51轮行动中，伊朗向沙特阿拉伯苏尔坦亲王空军基地发射多枚导弹。声明表示，该基地为美军F-35和F-16战机的后勤和支援中心，并部署有空中预警机及加油机等设施。伊朗方面称，此次行动是对美军相关军事设施的打击。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-15/detail-inhqzeaf9935948.d.html</link>
+            <guid>4743813</guid>
+            <pubDate>Sat, 14 Mar 2026 20:42:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[乌克兰驻以色列大使：预计下周初将举行会晤。内塔尼亚胡已请求与泽连斯基举行会谈，讨论在拦截伊朗无人机方面开展合作。]]></title>
             <guid>4743812</guid>
@@ -275,23 +291,6 @@
             <link>https://finance.sina.cn/7x24/2026-03-15/detail-inhqytnh7162591.d.html</link>
             <guid>4743708</guid>
             <pubDate>Sat, 14 Mar 2026 16:19:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海合会秘书长：外交途径是应对当前紧张局势的最佳选择】海湾阿拉伯国家合作委员会（海合会）秘书长布达维14日在接受沙特阿拉伯的阿拉比亚电视台采访时说，海合会国家正在与国际社会一道努力遏制地区局势升级，外交途径仍是应对当前紧张局势的最佳选择。他说，海合会国家支持通过政治和外交途径结束当前紧张局势，中东地区的未来在于对话和推进政治进程。保护海上航道安全是国际社会共同的责任。布达维说，海合会国家已多次明确表态，其领土不会被用作针对伊朗的攻击平台。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-15/detail-inhqytnf0126489.d.html</link>
-            <guid>4743707</guid>
-            <pubDate>Sat, 14 Mar 2026 16:17:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗外长：若伊朗能源设施遭袭将打击地区内美企】当地时间14日，伊朗外长阿拉格齐表示，若伊朗能源设施遭到袭击，伊朗将予以回应。阿拉格齐称，如伊朗相关设施成为攻击目标，伊朗方面可能将打击美国在地区内的企业设施，或美国持有股份的相关公司。他还表示，伊朗将对相关袭击作出回应，同时会尽量避免将人口密集地区作为目标。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-15/detail-inhqytnn0131441.d.html</link>
-            <guid>4743706</guid>
-            <pubDate>Sat, 14 Mar 2026 16:10:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网自动测定：03月15日00时06分在新疆喀什地区塔什库尔干县附近（北纬38.05度，东经74.87度）发生4.3级左右地震，最终结果以正式速报为准。]]></title>
-            <guid>4743705</guid>
-            <pubDate>Sat, 14 Mar 2026 16:09:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
