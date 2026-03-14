@@ -4,11 +4,26 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 14 Mar 2026 19:32:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 20:35:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[乌克兰驻以色列大使：预计下周初将举行会晤。内塔尼亚胡已请求与泽连斯基举行会谈，讨论在拦截伊朗无人机方面开展合作。]]></title>
+            <guid>4743812</guid>
+            <pubDate>Sat, 14 Mar 2026 19:51:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  世界卫生组织总干事谭德塞：世卫组织已确认，昨晚深夜布尔卡劳维耶初级医疗中心遭袭事件中，有12 名医生、护理人员和护士遇难。]]></title>
+            <guid>4743811</guid>
+            <pubDate>Sat, 14 Mar 2026 19:47:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：照片显示，在今日美国驻巴格达大使馆遇袭事件中，一套长颈鹿 1X（Giraffe 1X）雷达很可能被摧毁。 照片显示雷达罩已碎裂，露出与萨博（Saab）该系统相符的平板天线。 该雷达专为反无人机、反火箭弹 / 火炮 / 迫击炮（C‑RAM）及近程防空设计，可提供 360° 监视，并能探测约 4 公里范围内的小型无人机。 这套系统是美国陆军近期向萨博公司订购的，原计划2026 年初交付，这表明由于无人机威胁不断加剧，它可能已被快速部署至巴格达。]]></title>
+            <guid>4743810</guid>
+            <pubDate>Sat, 14 Mar 2026 19:40:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【伊朗称美以袭击民用工业设施 造成多名工人死亡】当地时间14日，伊朗伊斯兰革命卫队发声明称，过去48小时内，美以对伊朗多家民用工业设施发动袭击，造成多名工人死亡。声明称，在与伊朗的对抗中受挫后，美以转而袭击非军事工业设施。伊朗方面警告称，美国在地区内的企业应撤离相关设施，并呼吁附近居民远离有美国资本参与的工业区域，以避免受到可能发生的袭击影响。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2026-03-15/detail-inhqyxue7103709.d.html</link>
@@ -277,23 +292,6 @@
             <title><![CDATA[中国地震台网自动测定：03月15日00时06分在新疆喀什地区塔什库尔干县附近（北纬38.05度，东经74.87度）发生4.3级左右地震，最终结果以正式速报为准。]]></title>
             <guid>4743705</guid>
             <pubDate>Sat, 14 Mar 2026 16:09:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黎巴嫩与以色列或将在近日举行直接会谈】当地时间14日，总台记者自以色列方面获悉，以色列和黎巴嫩预计将在未来几天举行直接会谈。消息人士称，美国总统特朗普的女婿库什纳将参与此次会谈，会谈可能在巴黎或塞浦路斯举行。以色列总理内塔尼亚胡的亲信、前战略事务部长罗恩·德默尔将率领以色列代表团。另据一名黎巴嫩官方消息人士当天透露，黎巴嫩总统、总理和议长正在磋商组建一个谈判代表团，以备与以色列举行潜在会谈。该代表团很可能由大使级人员组成，为任何可能的谈判做准备。塞浦路斯正在被考虑作为潜在的会谈地点，但黎巴嫩对在任何欧洲国家的首都举行会谈持开放态度。黎总统府力求确保所有黎巴嫩政治派别都能进入谈判代表团，议长纳比·贝里尚未同意真主党和阿迈勒运动的代表加入。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-14/detail-inhqytnk3930585.d.html</link>
-            <guid>4743704</guid>
-            <pubDate>Sat, 14 Mar 2026 15:56:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟理事会：理事会还决定不再延长两名个人的列名期限，并将五名已故人员从名单中移除。]]></title>
-            <guid>4743703</guid>
-            <pubDate>Sat, 14 Mar 2026 15:54:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟理事会：约2600名个人和实体将继续适用单独列名制裁措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-14/detail-inhqytnh7152717.d.html</link>
-            <guid>4743702</guid>
-            <pubDate>Sat, 14 Mar 2026 15:53:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
