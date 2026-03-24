@@ -4,302 +4,300 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Tue, 24 Mar 2026 15:04:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 16:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[伊朗革命卫队在霍尔木兹海峡拦截并驱离集装箱船SELEN号。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnn1512187.d.html</link>
-            <guid>4769834</guid>
-            <pubDate>Tue, 24 Mar 2026 15:03:13 GMT</pubDate>
+            <title><![CDATA[土耳其总统埃尔多安表示，土耳其将继续全力以赴推动伊朗实现和平。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-25/detail-inhschnq7317470.d.html</link>
+            <guid>4769936</guid>
+            <pubDate>Tue, 24 Mar 2026 16:13:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[苹果推出苹果企业服务（Apple Business），整合了设备管理、邮件与日历功能。]]></title>
-            <guid>4769833</guid>
-            <pubDate>Tue, 24 Mar 2026 15:02:39 GMT</pubDate>
+            <title><![CDATA[科威特石油公司首席执行官：霍尔木兹海峡无可替代。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-25/detail-inhschnq7317460.d.html</link>
+            <guid>4769935</guid>
+            <pubDate>Tue, 24 Mar 2026 16:13:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：海湾国家权衡军事选项以应对伊朗的局势升级。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnu0310103.d.html</link>
-            <guid>4769832</guid>
-            <pubDate>Tue, 24 Mar 2026 15:01:22 GMT</pubDate>
+            <title><![CDATA[科威特石油公司首席执行官称（对能源设施的）袭击毫无正当理由，并认为伊朗清楚自身袭击目标。]]></title>
+            <guid>4769934</guid>
+            <pubDate>Tue, 24 Mar 2026 16:13:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【Anthropic：Claude现已可操控用户电脑完成任务，加速布局AI智能体】 Anthropic旗下的Claude如今已能够操控用户电脑完成各类任务，该公司正致力于打造可与爆红的OpenClaw相抗衡的 AI智能体。3月24日，Anthropic宣布，用户现在可以通过手机向Claude发送任务指令，随后该AI智能体将在电脑上完成这项任务。Anthropic表示，收到指令后，Claude可以在电脑上打开应用程序、操作浏览器，还能填写电子表格。在3月23日发布的一段演示视频中，展示了这样一个场景：用户开会快要迟到，于是让Claude将一份演示文稿导出为PDF格式，并添加到会议邀请中。视频显示Claude顺利完成了该任务。Anthropic此次最新升级，凸显出各大人工智能公司正竞相打造所谓 “智能体”—— 能够全天候自主代用户执行任务的AI系统。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7295456.d.html</link>
-            <guid>4769831</guid>
-            <pubDate>Tue, 24 Mar 2026 15:00:04 GMT</pubDate>
+            <title><![CDATA[Shopify：从本周起，数百万商家可通过智能代理店铺面向ChatGPT用户开展销售。]]></title>
+            <guid>4769933</guid>
+            <pubDate>Tue, 24 Mar 2026 16:13:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【夜盘期货收盘】液化石油气连续跌6.36%，乙二醇连续跌5.53%，聚丙烯连续跌4.73%，低硫燃料油连续跌4.66%，甲醇连续跌4.05%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnn1511074.d.html</link>
-            <guid>4769830</guid>
-            <pubDate>Tue, 24 Mar 2026 15:00:03 GMT</pubDate>
+            <title><![CDATA[土耳其总统埃尔多安表示，正考虑采取多种措施，保护土耳其经济免受战争影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-25/detail-inhschnn1531228.d.html</link>
+            <guid>4769932</guid>
+            <pubDate>Tue, 24 Mar 2026 16:13:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[海湾国家正考虑采取军事选项，以反制伊朗方面的升级行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7295402.d.html</link>
-            <guid>4769829</guid>
-            <pubDate>Tue, 24 Mar 2026 14:59:49 GMT</pubDate>
+            <title><![CDATA[谷歌：谷歌电视将新增三项Gemini功能，即升级视觉辅助、深度解读及体育快讯功能。]]></title>
+            <guid>4769931</guid>
+            <pubDate>Tue, 24 Mar 2026 16:12:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【特朗普转发巴基斯坦总理贴文 后者称愿意充当斡旋方】美国总统特朗普在社交媒体转发了巴基斯坦总理的帖子，后者帖文的内容为：“巴基斯坦欢迎并全力支持为结束中东战争而进行的对话努力，这符合该地区及其他地区的和平与稳定利益。在征得美国和伊朗同意的前提下，巴基斯坦随时准备并荣幸地担任东道主，为旨在全面解决当前冲突的具有实质性和结论性的谈判提供便利。”]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7295153.d.html</link>
-            <guid>4769828</guid>
-            <pubDate>Tue, 24 Mar 2026 14:58:58 GMT</pubDate>
+            <title><![CDATA[科威特石油公司首席执行官表示，由于海峡封锁，不得不降低原油产量。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-25/detail-inhschns4094146.d.html</link>
+            <guid>4769930</guid>
+            <pubDate>Tue, 24 Mar 2026 16:12:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[消息人士：近日美国和德黑兰之间已建立“接触”，伊朗愿意听取结束战争的“可持续”方案。]]></title>
-            <guid>4769827</guid>
-            <pubDate>Tue, 24 Mar 2026 14:58:21 GMT</pubDate>
+            <title><![CDATA[美国：尼米兹号航空母舰和格里德利号驱逐舰将部署至南方司令部地区。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-25/detail-inhschns4093822.d.html</link>
+            <guid>4769929</guid>
+            <pubDate>Tue, 24 Mar 2026 16:11:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国冻结了伦敦一处价值超过8100万英镑的房产资产组合。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnn1510215.d.html</link>
-            <guid>4769826</guid>
-            <pubDate>Tue, 24 Mar 2026 14:56:38 GMT</pubDate>
+            <title><![CDATA[真主党发表声明谴责黎巴嫩宣布伊朗外交使节为不受欢迎人物的决定，他们认为这一决定无益于“民族团结”，反而会为“内部分裂”打开大门。]]></title>
+            <guid>4769928</guid>
+            <pubDate>Tue, 24 Mar 2026 16:11:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[联合航空股价抹去跌幅，上涨0.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7294367.d.html</link>
-            <guid>4769825</guid>
-            <pubDate>Tue, 24 Mar 2026 14:56:14 GMT</pubDate>
+            <title><![CDATA[土耳其总统埃尔多安谈伊朗：我们不希望这场战争演变成该地区各国之间的消耗战。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-25/detail-inhschnn1530479.d.html</link>
+            <guid>4769927</guid>
+            <pubDate>Tue, 24 Mar 2026 16:10:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[以色列本土前线司令部：在侦测到来自黎巴嫩的无人机渗透与火箭弹袭击后，西加利利地区响起防空警报。]]></title>
-            <guid>4769824</guid>
-            <pubDate>Tue, 24 Mar 2026 14:55:09 GMT</pubDate>
+            <title><![CDATA[科威特国家石油公司首席执行官：对伊朗袭击事件感到愤怒。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-25/detail-inhschnu0329011.d.html</link>
+            <guid>4769926</guid>
+            <pubDate>Tue, 24 Mar 2026 16:10:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【标普全球公司：中东战事抑制英国经济增长】受中东战事推高成本、抑制需求影响，英国经济活动明显放缓。标普全球公司24日发布的数据显示，衡量英国经济扩张速度的重要指标3月降至六个月以来的最低水平。 数据显示，英国3月综合采购经理人指数（PMI）初值为51，低于2月的53.7，为六个月以来最低值。 从行业看，服务业明显降温，服务业PMI由上月的53.9降至51.2；制造业PMI为51.4，降至三个月以来最低水平。与此同时，制造业产出增速明显放缓，已接近停滞。 标普全球公司调查显示，英国私营部门3月新订单总量四个月来首次下降。企业普遍反映，中东战事延宕导致不确定性上升、成本压力增加和融资环境趋紧，企业和消费者支出意愿受到抑制。 标普全球市场财智公司首席商业经济学家克里斯·威廉姆森说，中东战事已对英国经济产生明显冲击，“在推高通胀的同时，还抑制经济增长”。(新华社)]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnn1509564.d.html</link>
-            <guid>4769823</guid>
-            <pubDate>Tue, 24 Mar 2026 14:54:28 GMT</pubDate>
+            <title><![CDATA[OpenAI：杰夫·阿诺德将加入，担任OpenAI基金会运营总监。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-25/detail-inhschns4093272.d.html</link>
+            <guid>4769925</guid>
+            <pubDate>Tue, 24 Mar 2026 16:09:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【联合国官员：当今世界“正处于二战以来最暴力时期”】联合国项目事务厅执行主任若热·莫雷拉·达席尔瓦23日表示，中东局势持续升级，对平民和生计造成毁灭性打击，并产生全球连锁反应，当今世界“正处于二战以来最暴力时期”。达席尔瓦在联合国项目事务厅发表的一份声明中说，战争持续近一个月，其毁灭性影响已跨越了受冲突影响国家的边界，导致石油、燃料和天然气价格呈指数级上涨，世界经济受到冲击。达席尔瓦说，“我们的世界正处于二战以来最暴力时期”，流离失所、被迫逃离家园的人数每小时都在增加。他呼吁各方执行联合国安理会的所有决议，并通过外交和平手段结束这场混乱和人民苦难。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4070748.d.html</link>
-            <guid>4769822</guid>
-            <pubDate>Tue, 24 Mar 2026 14:54:10 GMT</pubDate>
+            <title><![CDATA[OpenAI：沃伊切赫·扎伦巴将加入OpenAI基金会，担任人工智能安全韧性负责人。]]></title>
+            <guid>4769924</guid>
+            <pubDate>Tue, 24 Mar 2026 16:09:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[科威特军方：火箭弹碎片导致电力线路中断。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7293211.d.html</link>
-            <guid>4769821</guid>
-            <pubDate>Tue, 24 Mar 2026 14:53:16 GMT</pubDate>
+            <title><![CDATA[谷歌：谷歌电视将新增三项Gemini功能。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-25/detail-inhschnq7315817.d.html</link>
+            <guid>4769923</guid>
+            <pubDate>Tue, 24 Mar 2026 16:08:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[科威特国防部发言人：过去 24 小时内，我们在领空发现了 17 枚敌方弹道导弹，并摧毁了其中 13 枚。]]></title>
-            <guid>4769820</guid>
-            <pubDate>Tue, 24 Mar 2026 14:52:50 GMT</pubDate>
+            <title><![CDATA[【中国向马达加斯加捐赠新一批医疗物资】中国援马达加斯加医疗物资捐赠仪式24日在马达加斯加首都塔那那利佛举行。据介绍，在中非对口医院合作机制下，此次援助医疗物资是由兰州大学第一医院向马达加斯加阿努西亚拉医院捐赠的首批物资，包括数字化X射线摄影系统、多参数监护仪、超声雾化器、血气分析仪等，供医院呼吸内科临床诊疗使用。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-25/detail-inhschnu0328495.d.html</link>
+            <guid>4769922</guid>
+            <pubDate>Tue, 24 Mar 2026 16:08:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[瓶片连续主力合约日内跌4%，现报7968.00元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnu0307696.d.html</link>
-            <guid>4769819</guid>
-            <pubDate>Tue, 24 Mar 2026 14:52:34 GMT</pubDate>
+            <title><![CDATA[OpenAI：罗伯特·凯登将加入OpenAI基金会并担任首席财务官。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-25/detail-inhschnq7315048.d.html</link>
+            <guid>4769921</guid>
+            <pubDate>Tue, 24 Mar 2026 16:07:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[对二甲苯连续主力合约日内跌5%，现报9370.00元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7292947.d.html</link>
-            <guid>4769818</guid>
-            <pubDate>Tue, 24 Mar 2026 14:52:34 GMT</pubDate>
+            <title><![CDATA[OpenAI：（利用智能代理），用户可以通过可视化方式浏览商品并进行选项对比。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-25/detail-inhschnn1529176.d.html</link>
+            <guid>4769920</guid>
+            <pubDate>Tue, 24 Mar 2026 16:06:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[甲醇连续主力合约日内跌5%，现报3026.00元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7292945.d.html</link>
-            <guid>4769817</guid>
-            <pubDate>Tue, 24 Mar 2026 14:52:34 GMT</pubDate>
+            <title><![CDATA[OpenAI：正在扩展智能代理商务协议， 赋能ChatGPT内的商品搜索与发现功能 。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-25/detail-inhschnu0327172.d.html</link>
+            <guid>4769918</guid>
+            <pubDate>Tue, 24 Mar 2026 16:04:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[低硫燃料油连续主力合约日内跌4%，现报5153.00元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7292943.d.html</link>
-            <guid>4769816</guid>
-            <pubDate>Tue, 24 Mar 2026 14:52:34 GMT</pubDate>
+            <title><![CDATA[摩根大通CEO戴蒙：摩根大通看好区块链，投机行为吸引力较低。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-25/detail-inhschns4090497.d.html</link>
+            <guid>4769917</guid>
+            <pubDate>Tue, 24 Mar 2026 16:03:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[消息人士称，以色列空军正在调查今天早上未能拦截袭击特拉维夫的伊朗弹道导弹的原因。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7292932.d.html</link>
-            <guid>4769815</guid>
-            <pubDate>Tue, 24 Mar 2026 14:52:34 GMT</pubDate>
+            <title><![CDATA[美军第82空降师的布兰登・泰格特迈尔少将及其指挥参谋人员已奉命前往中东，五角大楼正考虑派遣该师执行可能的地面作战任务。]]></title>
+            <guid>4769916</guid>
+            <pubDate>Tue, 24 Mar 2026 16:02:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[科威特军方：4枚伊朗导弹落入威胁区域外。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4070034.d.html</link>
-            <guid>4769814</guid>
-            <pubDate>Tue, 24 Mar 2026 14:52:24 GMT</pubDate>
+            <title><![CDATA[法国国家统计局预计，调和消费者物价指数（HICP）通胀率将从2月份的1.1%升至6月份的2.2%。同时，将第一季度和第二季度的经济增长预期从之前的0.3%下调至0.2%。]]></title>
+            <guid>4769915</guid>
+            <pubDate>Tue, 24 Mar 2026 16:01:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[白银连续主力合约日内涨3%，现报17442.00元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnn1508930.d.html</link>
-            <guid>4769813</guid>
-            <pubDate>Tue, 24 Mar 2026 14:52:19 GMT</pubDate>
+            <title><![CDATA[据猫眼专业版数据，电影《镖人：风起大漠》上映37天， 总票房破14亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-25/detail-inhschnq7312373.d.html</link>
+            <guid>4769914</guid>
+            <pubDate>Tue, 24 Mar 2026 16:00:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[燃料油连续主力合约日内跌4%，现报4462.00元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnu0307597.d.html</link>
-            <guid>4769812</guid>
-            <pubDate>Tue, 24 Mar 2026 14:52:19 GMT</pubDate>
+            <title><![CDATA[乌克兰能源部长表示，已就美国国际开发金融公司（DFC）提供14亿美元贷款以恢复天然气生产设施事宜进行了讨论。]]></title>
+            <guid>4769913</guid>
+            <pubDate>Tue, 24 Mar 2026 16:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中公高科：2025年营收2.74亿元 拟派现1368.27万元】中公高科公告称，2025年母公司营收2.6亿元，同比增长1.67%，净利润5241.49万元，同比增长10.80%；合并报表营收2.74亿元，同比增长5.56%，归属于上市公司股东的净利润4559.88万元，同比增长2.19%。公司拟向全体股东按每股派发现金红利0.2052元（含税），合计拟派发现金红利1368.27万元（含税），现金分红金额占归属于上市公司股东的净利润比例为30%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnn1508836.d.html</link>
-            <guid>4769811</guid>
-            <pubDate>Tue, 24 Mar 2026 14:51:59 GMT</pubDate>
+            <title><![CDATA[亚马逊：正将受影响的巴林地区客户迁移至其他AWS区域。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4089444.d.html</link>
+            <guid>4769912</guid>
+            <pubDate>Tue, 24 Mar 2026 15:59:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ 微软股价下跌幅度高达2.8%，创下2025年4月以来新低。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnu0307385.d.html</link>
-            <guid>4769810</guid>
-            <pubDate>Tue, 24 Mar 2026 14:51:39 GMT</pubDate>
+            <title><![CDATA[亚马逊：受持续中东冲突影响，AWS巴林大区服务中断。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnn1526447.d.html</link>
+            <guid>4769911</guid>
+            <pubDate>Tue, 24 Mar 2026 15:58:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[巴基斯坦伊斯兰共和国总理：巴基斯坦欢迎并全力支持为结束中东战争而正在进行的对话努力，以维护该地区乃至更广泛地区的和平与稳定。在得到美国和伊朗的同意后，巴基斯坦随时准备并荣幸地成为东道国，为全面解决当前冲突提供有意义且最终的会谈。]]></title>
-            <guid>4769809</guid>
-            <pubDate>Tue, 24 Mar 2026 14:50:55 GMT</pubDate>
+            <title><![CDATA[乌克兰能源部长表示，他在访问美国期间会见了美国能源部长。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnn1526359.d.html</link>
+            <guid>4769910</guid>
+            <pubDate>Tue, 24 Mar 2026 15:57:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[伊朗革命卫队海军：任何通过霍尔木兹海峡的船只都需要与伊朗海上主权进行全面协调。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnu0306912.d.html</link>
-            <guid>4769808</guid>
-            <pubDate>Tue, 24 Mar 2026 14:50:02 GMT</pubDate>
+            <title><![CDATA[【油价高企拖累航空业 美联航警告机票价格或不得不上涨20%】美国联合航空控股股份有限公司首席执行官Scott Kirby表示，如果航空燃油价格长期居高不下，机票价格可能不得不上涨20%。Kirby周二表示，如果机票价格继续上涨，该航司预计会出现一定程度的消费者抵制，出行人数也会减少。Kirby还表示，美联航已经削减了不盈利、无法覆盖燃油成本上涨的航线5%的运力。Kirby表示，不过目前需求依然非常强劲。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnu0324830.d.html</link>
+            <guid>4769909</guid>
+            <pubDate>Tue, 24 Mar 2026 15:56:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【3月24日增减持汇总】据统计，3月24日，盘后比音勒芬披露增持情况。泰嘉股份、科泰电源、大千生态、华菱线缆、京能热力、井松智能在内的6家A股上市公司披露拟减持情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4069192.d.html</link>
-            <guid>4769807</guid>
-            <pubDate>Tue, 24 Mar 2026 14:49:49 GMT</pubDate>
+            <title><![CDATA[印度政府：加强天然气基础设施的命令立即生效。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnn1526116.d.html</link>
+            <guid>4769908</guid>
+            <pubDate>Tue, 24 Mar 2026 15:56:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德国经济部长：截至2030年，将完成最高12吉瓦陆上风电装机容量的招标出让。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4069187.d.html</link>
-            <guid>4769806</guid>
-            <pubDate>Tue, 24 Mar 2026 14:49:48 GMT</pubDate>
+            <title><![CDATA[市场资讯：美军第82空降师师长奉命部署至中东。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4088778.d.html</link>
+            <guid>4769907</guid>
+            <pubDate>Tue, 24 Mar 2026 15:56:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国投科创基金揭牌 规模100亿元】上海市与全国社会保障基金理事会战略合作框架协议签约暨国投科创基金揭牌仪式在沪举行。据悉，国投科创基金由社保基金会、国家开发投资集团、建设银行、交通银行、上海国投公司、浦东创投共同组建，规模为100亿元。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7291976.d.html</link>
-            <guid>4769805</guid>
-            <pubDate>Tue, 24 Mar 2026 14:49:42 GMT</pubDate>
+            <title><![CDATA[印度政府：该政令为在印度全国铺设和扩建输油管道提供了精简且有明确时限的框架。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7311449.d.html</link>
+            <guid>4769906</guid>
+            <pubDate>Tue, 24 Mar 2026 15:55:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[PTA连续主力合约日内跌4%，现报6528.00元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7291525.d.html</link>
-            <guid>4769804</guid>
-            <pubDate>Tue, 24 Mar 2026 14:48:30 GMT</pubDate>
+            <title><![CDATA[印度政府：授权实体可在各地区无缝铺设及扩建管道。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4088543.d.html</link>
+            <guid>4769905</guid>
+            <pubDate>Tue, 24 Mar 2026 15:54:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[伊朗革命卫队海军：我们迫使集装箱船“塞琳”号返航，因为它没有通过霍尔木兹海峡的许可。]]></title>
-            <guid>4769803</guid>
-            <pubDate>Tue, 24 Mar 2026 14:48:14 GMT</pubDate>
+            <title><![CDATA[摩根大通首席执行官戴蒙声称：伊朗是一个恐怖主义威胁，多年来一直如此。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4088477.d.html</link>
+            <guid>4769904</guid>
+            <pubDate>Tue, 24 Mar 2026 15:54:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【丰业银行：加拿大失业率预计不会阻碍央行政策决定】丰业银行的Derek Holt表示，加拿大人口和劳动力的萎缩料将拉低该国失业率，这与一些偏宽松的观点相悖，这些观点认为，不断上升的失业率可能会阻碍加拿大央行应对正在形成的一场重大通胀冲击的政策反应。这位经济学家表示，加拿大统计局劳动力调查中人口数据的滞后性将导致未来数据出现向下修正，因此失业率可能会降至6%甚至更低。Holt说，一些持偏宽松立场的人士在谈论失业率将升至7%，但他认为，鉴于失业率已达6.7%，加拿大央行“行长Macklem会对该预测不予理会“，即使失业率不是更有可能下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4068449.d.html</link>
-            <guid>4769802</guid>
-            <pubDate>Tue, 24 Mar 2026 14:47:45 GMT</pubDate>
+            <title><![CDATA[印度政府：发布标志性政令，旨在强化天然气基础设施建设，并优化营商环境。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7311174.d.html</link>
+            <guid>4769903</guid>
+            <pubDate>Tue, 24 Mar 2026 15:54:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[法国金融检察院：正对“爱泼斯坦文件”曝光内容启动相关调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7290671.d.html</link>
-            <guid>4769801</guid>
-            <pubDate>Tue, 24 Mar 2026 14:46:23 GMT</pubDate>
+            <title><![CDATA[美国国务院官员迪南诺：尚未就恢复大气层核试验举行任何讨论。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnu0324346.d.html</link>
+            <guid>4769902</guid>
+            <pubDate>Tue, 24 Mar 2026 15:54:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[焦煤连续主力合约日内跌2%，现报1238.00元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7290607.d.html</link>
-            <guid>4769800</guid>
-            <pubDate>Tue, 24 Mar 2026 14:46:15 GMT</pubDate>
+            <title><![CDATA[美国国务院官员迪南诺：特朗普政府仍在评估恢复美国核武器试验的方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7311042.d.html</link>
+            <guid>4769901</guid>
+            <pubDate>Tue, 24 Mar 2026 15:53:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[乙二醇连续主力合约日内跌6%，现报4980.00元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnn1506910.d.html</link>
-            <guid>4769799</guid>
-            <pubDate>Tue, 24 Mar 2026 14:46:00 GMT</pubDate>
+            <title><![CDATA[雪佛龙计划从萨布尔（Sable）公司购买原油，用于洛杉矶炼油厂。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7310986.d.html</link>
+            <guid>4769900</guid>
+            <pubDate>Tue, 24 Mar 2026 15:53:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【报告：英国在中东战事之际易受衰退风险影响】Nuveen的Laura Cooper在一份报告中称，受中东战事影响，英国面临“不可忽视的温和衰退风险“。Cooper说，该国经济增长疲软，失业率处于5.2%的多年高点，但高昂的能源成本带来的通胀风险限制了英国央行通过降息来支持经济的能力。英国公共财政正在恶化，这使得政府在能源成本不断上涨的情况下难以向家庭提供支持。她说，如果高昂的能源成本导致英国央行加息，那么英国陷入温和衰退的风险就会增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4067353.d.html</link>
-            <guid>4769798</guid>
-            <pubDate>Tue, 24 Mar 2026 14:45:06 GMT</pubDate>
+            <title><![CDATA[阿斯麦员工参与罢工，工会敦促管理层重新考虑裁员计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnn1525485.d.html</link>
+            <guid>4769899</guid>
+            <pubDate>Tue, 24 Mar 2026 15:53:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[PVC连续主力合约日内跌4%，现报5737.00元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4067235.d.html</link>
-            <guid>4769797</guid>
-            <pubDate>Tue, 24 Mar 2026 14:44:48 GMT</pubDate>
+            <title><![CDATA[摩根大通首席执行官戴蒙：美国需要反思自身在对华关系上的不足。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4087711.d.html</link>
+            <guid>4769898</guid>
+            <pubDate>Tue, 24 Mar 2026 15:51:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[塑料连续主力合约日内跌5%，现报8643.00元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnu0305191.d.html</link>
-            <guid>4769796</guid>
-            <pubDate>Tue, 24 Mar 2026 14:44:45 GMT</pubDate>
+            <title><![CDATA[美国国家航空航天局局长贾里德・艾萨克曼：月球门户空间站资金将用于建造月球基地。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7310438.d.html</link>
+            <guid>4769897</guid>
+            <pubDate>Tue, 24 Mar 2026 15:51:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[微软首席执行官：人工智能推广的最大障碍在于说服人们改变工作方式。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4067114.d.html</link>
-            <guid>4769795</guid>
-            <pubDate>Tue, 24 Mar 2026 14:44:29 GMT</pubDate>
+            <title><![CDATA[【欧洲央行管委：央行做好准备在必要时应对通胀】欧洲央行管委Francois Villeroy de Galhau表示，如果能源价格上涨开始波及经济其他领域，央行已做好准备应对通胀。Villeroy周二在巴黎介绍法国央行的年度报告时表示：“我们上周四一致决定维持利率不变，但我们处于良好境地，能够在必要时以必要的方式采取行动。”欧洲央行部分政策制定者暗示，随着能源价格上涨向商品和服务传导，央行可能最早于下月考虑提高借贷成本。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnn1524870.d.html</link>
+            <guid>4769896</guid>
+            <pubDate>Tue, 24 Mar 2026 15:50:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[甲醇连续主力合约日内跌4%，现报3056.00元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4067101.d.html</link>
-            <guid>4769794</guid>
-            <pubDate>Tue, 24 Mar 2026 14:44:28 GMT</pubDate>
+            <title><![CDATA[【国际原子能机构称扎波罗热核电站失去与主输电线路连接】国际原子能机构24日称，扎波罗热核电站当天失去了与750千伏主输电线路的连接，目前依赖唯一的备用供电线路维持外部电力供应。国际原子能机构总干事格罗西表示，该机构正在与乌俄双方讨论建立局部停火，以便对受损的输电线路进行维修，目前专家继续监测该核电站的局势。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4087082.d.html</link>
+            <guid>4769895</guid>
+            <pubDate>Tue, 24 Mar 2026 15:48:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：沙特国防部长与法国武装部队部长讨论防务关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7289667.d.html</link>
-            <guid>4769793</guid>
-            <pubDate>Tue, 24 Mar 2026 14:43:44 GMT</pubDate>
+            <title><![CDATA[两名黎巴嫩安全人士称，一枚伊朗导弹首次在黎巴嫩领空被拦截，拦截行动是由一艘外国军舰实施的。]]></title>
+            <guid>4769894</guid>
+            <pubDate>Tue, 24 Mar 2026 15:47:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国白宫科技事务顾问Michael Kratsios：推行国家监督管理AI的方式。]]></title>
-            <guid>4769792</guid>
-            <pubDate>Tue, 24 Mar 2026 14:43:29 GMT</pubDate>
+            <title><![CDATA[美国国土安全部表示，自政府停摆开始以来，已有超过450名美国运输安全管理局（TSA）官员辞职。]]></title>
+            <guid>4769893</guid>
+            <pubDate>Tue, 24 Mar 2026 15:47:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[洲际交易所（ICE）阿拉比卡咖啡价格上涨近4%，报每磅3.1950美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnu0304669.d.html</link>
-            <guid>4769791</guid>
-            <pubDate>Tue, 24 Mar 2026 14:43:07 GMT</pubDate>
+            <title><![CDATA[【俄外长：中东局势升级源于少数西方国家试图维持其霸权地位】俄罗斯外长拉夫罗夫24日表示，中东局势升级直接源于少数西方国家企图通过武力维持其残存的霸权地位。 拉夫罗夫当天在莫斯科举行的一场基金会理事会议上说，美国和以色列对伊朗的军事行动将破坏世界贸易，威胁全球能源安全以及国际运输和商业往来。 拉夫罗夫还说，俄罗斯正向伊朗和海湾合作委员会国家传达其对当前局势的评估。俄方相信，谈判以及在实现利益平衡的前提下达成协议符合中东地区国家利益。(新华社)]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnn1524285.d.html</link>
+            <guid>4769892</guid>
+            <pubDate>Tue, 24 Mar 2026 15:47:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【俄克拉荷马州任命新议员填补共和党在参议院空缺】当地时间3月24日，美国俄克拉荷马州州长任命能源高管艾伦·阿姆斯特朗进入美国参议院任职至今年年底，以接替新任国土安全部部长、共和党人马克韦恩·马林尚未完成的任期。共和党籍州长凯文·斯蒂特此前曾承诺将挑选一位“保守派人士”来填补马林的席位。根据俄克拉荷马州法律规定，阿姆斯特朗必须承诺不参加今年秋季举行的正式任期竞选。与此同时，共和党籍美国联邦众议员凯文·哈特迅速宣布参选该参议院席位，并已获得了美国总统唐纳德·特朗普的背书支持。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7289297.d.html</link>
-            <guid>4769790</guid>
-            <pubDate>Tue, 24 Mar 2026 14:43:00 GMT</pubDate>
+            <title><![CDATA[伊朗对每艘通过霍尔木兹海峡的船只征收200万美元的费用。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4086210.d.html</link>
+            <guid>4769891</guid>
+            <pubDate>Tue, 24 Mar 2026 15:44:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据港交所文件：浙江可胜技术股份有限公司向港交所提交上市申请书。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnn1505430.d.html</link>
-            <guid>4769789</guid>
-            <pubDate>Tue, 24 Mar 2026 14:41:29 GMT</pubDate>
+            <title><![CDATA[【海湾阿拉伯国家对伊朗逐渐失去耐心 或考虑加入美以对伊军事行动】据多名知情人士透露，伊朗在海湾地区最大的阿拉伯邻国正考虑加入美国和以色列对伊朗的战争，如果德黑兰攻击这些国家的关键基础设施，它们可能会被迫参战。知情人士说，海湾地区实力最强的国家，尤其是沙特阿拉伯和阿联酋，对伊朗发动的打击正日益失去耐心。相关袭击已波及港口、能源设施和机场。但知情人士补充说，只有在伊朗兑现威胁、攻击海湾国家至关重要的电力和供水基础设施时，它们才会加入战争，而这将是一个很高的门槛。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnu0322212.d.html</link>
+            <guid>4769890</guid>
+            <pubDate>Tue, 24 Mar 2026 15:44:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【2025年地区“财富榜”：北京人均存款35.6万，上海29万】在人均住户存款方面，如果按照全国总人口140489万人估算，去年末，相当于人均存款11.89万元。而具体到各个区域则差异较大，其中，北京、上海的人均住户存款规模形成“断崖式”领先，分别达到35.62万元和29.02万元，是全国的“绝对富裕圈层”。浙江、辽宁、江苏、江西等4个省份的人均存款均超过15万元，形成“高储蓄第二梯队”，分别为17.77万元、16.05万元、15.6万元、15.17万元。其中，辽宁作为东北省份，人均存款位居全国第四，显示出较高的储蓄意愿，在居民资产结构中，存款占比高。（第一财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7288654.d.html</link>
-            <guid>4769788</guid>
-            <pubDate>Tue, 24 Mar 2026 14:41:24 GMT</pubDate>
+            <title><![CDATA[以色列：西加利利多个城镇因担心无人机渗透而拉响空袭警报。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnu0321960.d.html</link>
+            <guid>4769889</guid>
+            <pubDate>Tue, 24 Mar 2026 15:43:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[白银连续主力合约日内涨2%，现报17267.00元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7288617.d.html</link>
-            <guid>4769787</guid>
-            <pubDate>Tue, 24 Mar 2026 14:41:20 GMT</pubDate>
+            <title><![CDATA[【OpenAI非营利机构任命负责人，计划2026年投入10亿美元】OpenAI计划今年通过其非营利机构OpenAI基金会，向各类人工智能相关事业投入10亿美元。OpenAI基金会2026年的资金将重点用于两大方向：助力防范人工智能潜在风险，以及资助利用人工智能推动生命科学发展的相关项目。 该基金会将通过外部赠款和项目进行投资，并已任命多位核心负责人领导这家非营利机构，其中包括沃伊切赫・扎伦巴与雅各布・特雷费森。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4085657.d.html</link>
+            <guid>4769888</guid>
+            <pubDate>Tue, 24 Mar 2026 15:42:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【伊马外长通话磋商 再次阐明霍尔木兹海峡通行限制】伊朗外交部表示，伊朗外长阿拉格齐与马来西亚外长哈桑就地区局势，特别是美国和以色列对伊朗的侵略战争带来的后果和经济影响进行了电话交流。我方外长重申了伊朗坚决捍卫国家主权和领土完整的决心。阿拉格齐强调：伊朗已根据国际法在这一水道采取了一系列措施。霍尔木兹海对属于或与美国和以色列相关的船只，以及任何以某种方式参与或协助其对伊朗的军事侵略的方都已关闭，但其他船只可以在与伊朗相关主管部门协调的情况下，确保安全通行。马来西亚外长强调了马来西亚在谴责美国和以色列对伊朗侵略行为方面的原则立场，重申了降低紧张局势、恢复地区稳定和安全的必要性。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnu0303867.d.html</link>
-            <guid>4769786</guid>
-            <pubDate>Tue, 24 Mar 2026 14:40:50 GMT</pubDate>
+            <title><![CDATA[纳斯达克100指数跌幅收窄至0.2%，标普500指数上涨0.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschnn1522997.d.html</link>
+            <guid>4769887</guid>
+            <pubDate>Tue, 24 Mar 2026 15:42:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国白宫AI事务主管David Sacks在华盛顿特区科技论坛上讲话，捍卫总统特朗普“允许向海湾地区多个国家出口销售芯片”的计划。]]></title>
-            <guid>4769785</guid>
-            <pubDate>Tue, 24 Mar 2026 14:40:03 GMT</pubDate>
+            <title><![CDATA[OpenAI非营利机构任命领导层，计划今年支出10亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4085237.d.html</link>
+            <guid>4769886</guid>
+            <pubDate>Tue, 24 Mar 2026 15:41:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
