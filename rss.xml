@@ -4,11 +4,116 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Fri, 03 Apr 2026 18:56:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 19:41:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据NBC新闻：美国总统特朗普表示，击落美国战机不会影响与伊朗的谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-04/detail-inhthham6697672.d.html</link>
+            <guid>4796005</guid>
+            <pubDate>Fri, 03 Apr 2026 19:40:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  冈比亚政府公布 4 月燃油零售价：汽油每升 98 达拉西，柴油每升 95 达拉西。]]></title>
+            <guid>4796004</guid>
+            <pubDate>Fri, 03 Apr 2026 19:34:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至 3 月 31 日当周，纽约商品交易所（COMEX）黄金投机者将净多头头寸增加 1,098 手，至 93,872 手。
+白银投机者将净多头头寸减少 99 手，至 10,816 手。
+铜期货投机者将净多头头寸增加 3,491 手，至 39,292 手。]]></title>
+            <guid>4796003</guid>
+            <pubDate>Fri, 03 Apr 2026 19:33:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至 3 月 31 日当周，投机者将芝加哥期货交易所（CBOT）美国 5 年期国债期货净空头头寸增加 138,404 手，至 1,586,840 手。
+美国 5 年期国债期货净空头头寸增加 138,404 手，至 1,586,840 手。
+美国 2 年期国债期货净空头头寸减少 855 手，至 1,637,324 手。]]></title>
+            <guid>4796002</guid>
+            <pubDate>Fri, 03 Apr 2026 19:32:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至 3 月 31 日当周，股票基金经理将芝加哥商业交易所标普 500 股指期货净多头头寸增加 39,730 手，至 912,682 手。将芝加哥商业交易所标普 500 股指期货净空头头寸减少 113,496 手，至 215,932 手。]]></title>
+            <guid>4796001</guid>
+            <pubDate>Fri, 03 Apr 2026 19:31:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至 3 月 31 日当周，原油投机者将 WTI 净多头头寸减少 23,898 手，至 103,707 手。]]></title>
+            <guid>4796000</guid>
+            <pubDate>Fri, 03 Apr 2026 19:30:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至 3 月 31 日当周，纽约商业交易所（NYMEX）和洲际交易所（ICE）四大主要天然气市场的投机者将净多头头寸减少 11,945 手，至 82,872 手。]]></title>
+            <guid>4795999</guid>
+            <pubDate>Fri, 03 Apr 2026 19:30:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  冈比亚政府：推出燃油补贴，以缓解全球油价上涨带来的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-04/detail-inhthham6694891.d.html</link>
+            <guid>4795998</guid>
+            <pubDate>Fri, 03 Apr 2026 19:29:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[也门胡塞武装领导人声称对4月2日发生在以色列中部的导弹袭击事件负责。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-04/detail-inhthhap3410228.d.html</link>
+            <guid>4795997</guid>
+            <pubDate>Fri, 03 Apr 2026 19:27:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列国防军：真主党发射的一枚火箭弹落入联合国驻黎巴嫩临时部队（联黎部队）位于黎巴嫩南部的一个哨所，造成三名联合国人员受伤。]]></title>
+            <guid>4795996</guid>
+            <pubDate>Fri, 03 Apr 2026 19:27:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿布扎比一大型天然气设施遭袭后暂停运营】阿布扎比政府部门表示，在一次袭击引发火灾后，阿联酋最大的天然气加工设施Habshan已暂停运营。阿布扎比媒体办公室称，在疏散该现场的过程中，一名埃及公民身亡，另有四人受轻伤。该办公室补充说，这些设施已出现重大损坏，评估工作正在进行中。Habshan天然气加工综合设施的运营商是阿布扎比国家石油公司。该设施是全球规模最大的同类设施之一，处理能力为每日61亿标准立方英尺。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-04/detail-inhthhai9917190.d.html</link>
+            <guid>4795995</guid>
+            <pubDate>Fri, 03 Apr 2026 19:26:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：谁想保留石油？]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-04/detail-inhthhap3409532.d.html</link>
+            <guid>4795994</guid>
+            <pubDate>Fri, 03 Apr 2026 19:21:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI 首席运营官因健康原因卸任，AGI 首席执行官因病休假。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-04/detail-inhthham6691998.d.html</link>
+            <guid>4795993</guid>
+            <pubDate>Fri, 03 Apr 2026 19:15:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据伊朗国家媒体：伊朗在霍尔木兹海峡附近南部海域瞄准并打击了一架 A-10 战机。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-04/detail-inhthhai9914633.d.html</link>
+            <guid>4795992</guid>
+            <pubDate>Fri, 03 Apr 2026 19:14:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【又一架美军战斗机在波斯湾坠毁 飞行员已获救】当地时间4月3日，两名美国官员证实，一架美空军战机当日在波斯湾地区坠毁，机上唯一的飞行员获救。美官员透露，这架A-10战斗机在霍尔木兹海峡附近坠毁，几乎与此同时，另一架美军F-15E战机在伊朗境内被击落。F-15E战机上的一名飞行员已获救，对另一名飞行员的搜救仍在进行中。对于A-10战机坠毁的具体原因和确切地点，美官员并未透露更多细节。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-04/detail-inhthham6691671.d.html</link>
+            <guid>4795991</guid>
+            <pubDate>Fri, 03 Apr 2026 19:13:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据纽约时报：在海湾地区被击落的美军 A-10 攻击机唯一飞行员已获救。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-04/detail-inhthhar8495136.d.html</link>
+            <guid>4795990</guid>
+            <pubDate>Fri, 03 Apr 2026 19:10:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美媒：美军又一架战机坠毁】3日以两名美国官员为消息源报道，美军一架A-10型攻击机当天在霍尔木兹海峡附近坠毁，飞行员只有一人，已获救。报道说，上述美国官员没有提供更多细节，包括事件发生的具体地点。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-04/detail-inhthham6689813.d.html</link>
+            <guid>4795989</guid>
+            <pubDate>Fri, 03 Apr 2026 19:04:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[知情人士：Meta超智能实验室正在组建硬件团队。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-04/detail-inhthhai9911375.d.html</link>
+            <guid>4795988</guid>
+            <pubDate>Fri, 03 Apr 2026 18:59:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美方曾提议停火48小时 伊朗以战场行动作出“回应”】总台记者当地时间3日获悉，一名知情人士表示，美方于本月1日通过一个友好国家向伊朗提出了一项为期48小时的临时停火建议。伊朗方面评估认为，由于美方此前对伊朗军事实力存在误判，导致局势升级后美军在地区面临严重困难，美方遂提出该建议。该知情人士指出，伊朗方面并未以书面形式回应美方的停火提议，而是通过在战场上持续实施重火力打击的方式作出了“现场回应”。知情人士透露，在美军位于科威特布比延岛的装备仓库遭到伊方打击后，美方为寻求停火所开展的外交努力显著加强。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2026-04-04/detail-inhthham6687467.d.html</link>
@@ -157,12 +262,6 @@
             <pubDate>Fri, 03 Apr 2026 17:52:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【商务部：从未组织、参与或运营任何冠名“投资中国”字样的App应用】近日，有群众在商务部网站留言，反映一款名为“投资中国”的App，冒称“商务部主办”，在相关平台诱导用户认购基金，存在较大风险。商务部公开答复如下：经核，截至目前，商务部及其下属机构从未组织、参与或运营任何冠名“投资中国”字样的App应用，也未以“投资中国”名义组织任何认购活动，请广大群众提高警惕，避免上当受骗、遭受财产损失。同时，针对上述情况，商务部已向有关部门通报处理。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-04/detail-inhtfzut8611397.d.html</link>
-            <guid>4795962</guid>
-            <pubDate>Fri, 03 Apr 2026 17:51:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[【美伊停火斡旋陷入僵局 伊朗拒绝在伊斯兰堡与美方会面】当地时间4月3日，总台记者自美国方面获悉，由巴基斯坦等地区国家主导，旨在促成美国与伊朗停火的最新一轮斡旋努力已陷入僵局。伊朗方面已正式告知调解人，不愿在未来几天于伊斯兰堡同美方官员会面，并表示美方提出的要求不可接受。目前，土耳其和埃及仍在努力推动谈判进程，考虑将卡塔尔首都多哈或土耳其最大城市伊斯坦布尔作为新的谈判地点，并试图提出新方案以打破僵局。此前以色列官员称，多个国家正试图协调伊朗伊斯兰议会议长卡利巴夫同美总统特使威特科夫、特朗普女婿库什纳、美国副总统万斯在巴基斯坦首都伊斯兰堡会谈。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2026-04-04/detail-inhtfzun0027388.d.html</link>
             <guid>4795961</guid>
@@ -203,100 +302,6 @@
             <link>https://finance.sina.cn/7x24/2026-04-04/detail-inhtfzun0023652.d.html</link>
             <guid>4795955</guid>
             <pubDate>Fri, 03 Apr 2026 17:34:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿布扎比媒体办公室：袭击发生后，该天然气设施发生两起火灾，火势已得到控制。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-04/detail-inhtfzun0023554.d.html</link>
-            <guid>4795954</guid>
-            <pubDate>Fri, 03 Apr 2026 17:34:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿布扎比媒体办公室：该事件造成四人受轻伤，其中包括两名巴基斯坦人和两名埃及人。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-04/detail-inhtfzun0023432.d.html</link>
-            <guid>4795953</guid>
-            <pubDate>Fri, 03 Apr 2026 17:34:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿布扎比媒体办公室：一名埃及公民在阿布扎比哈卜善天然气设施遇袭事件中身亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-04/detail-inhtfzun0023160.d.html</link>
-            <guid>4795952</guid>
-            <pubDate>Fri, 03 Apr 2026 17:33:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【分析师：微软的前沿AI模型目标反映其竞争定位】TD Cowen分析师在一份报告中写道，微软AI首席执行官Mustafa Suleyman在X上的一次采访中概述了微软的目标，即在2027年前发布一款新的前沿人工智能模型，这代表着一项重大的战略转变。这些分析师写道，大多数投资者似乎没有预料到该公司会全力投入前沿研究，但在科技公司投资模型研究、AI实验室希望进军企业软件领域之际，此举在更广泛的“竞合“背景下是合理的。这些分析师写道：“通过拥有自己的前沿模型，微软将减轻对这些大语言模型合作伙伴的依赖，并完全控制AI智能层，从而使其处于更有利的竞争地位，以对抗AI实验室和拥有Gemini垂直整合技术栈的谷歌。”]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-04/detail-inhtfzun0022442.d.html</link>
-            <guid>4795951</guid>
-            <pubDate>Fri, 03 Apr 2026 17:29:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广西兴业县一山体爆破致附近村民受伤房屋受损 官方通报】4月2日，广西兴业县葵阳镇村民反映当天附近山体进行爆破作业，导致人员受伤，房屋受损。目前，广西兴业县自然资源局就该事件发布通报如下：2026年4月2日，广西兴业县葵阳镇上泉村山体高陡边坡隐患治理中，施工单位在实施爆破作业时发生碎石飞溅，造成1名群众手臂受伤，14户群众门窗和房顶石棉瓦受损。事发后，伤者已第一时间送医救治，目前伤情稳定。事件发生后，广西兴业县自然资源局立即责成施工单位停止该区域的爆破作业，并协同相关单位同步开展全域安全隐患排查整治，坚决杜绝类似事件再次发生。目前，善后处置工作正有序开展中。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-04/detail-inhtfzup6798807.d.html</link>
-            <guid>4795950</guid>
-            <pubDate>Fri, 03 Apr 2026 17:25:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：部分银行已同意斥资数千万美元采购Grok。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-04/detail-inhtfzup6798331.d.html</link>
-            <guid>4795949</guid>
-            <pubDate>Fri, 03 Apr 2026 17:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：马斯克要求参与SpaceX IPO相关工作的公司必须采购Grok。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-04/detail-inhtfzur3518576.d.html</link>
-            <guid>4795948</guid>
-            <pubDate>Fri, 03 Apr 2026 17:22:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其将居民家用天然气价格平均上调25%，工业用户天然气价格则上调18.61%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-04/detail-inhtfzur3518445.d.html</link>
-            <guid>4795947</guid>
-            <pubDate>Fri, 03 Apr 2026 17:22:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：土耳其将居民用电价格上调至最高25%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-04/detail-inhtfzun0020811.d.html</link>
-            <guid>4795946</guid>
-            <pubDate>Fri, 03 Apr 2026 17:21:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫预算主管Russell Vought将于4月16日出席参议院预算委员会听证会。]]></title>
-            <guid>4795945</guid>
-            <pubDate>Fri, 03 Apr 2026 17:17:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美媒公布E-3预警机在沙特被摧毁卫星图】美国有线电视新闻网4月2日报道，在伊朗3月27日对驻有美军的沙特苏丹王子空军基地发动打击后，最新卫星图像显示，美军一架E-3“哨兵”预警机的中央机身大部分已被摧毁，其标志性的旋转雷达罩散落在地面上。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-04/detail-inhtfzur3517265.d.html</link>
-            <guid>4795944</guid>
-            <pubDate>Fri, 03 Apr 2026 17:16:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：伊朗已正式通知调解方，伊朗不愿在未来数日内在伊斯兰堡与美国官员会面，且美方提出的要求不可接受。]]></title>
-            <guid>4795943</guid>
-            <pubDate>Fri, 03 Apr 2026 17:14:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：由巴基斯坦牵头的地区国家为促成美伊停火所作的本轮努力已陷入僵局。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-04/detail-inhtfzup6796067.d.html</link>
-            <guid>4795942</guid>
-            <pubDate>Fri, 03 Apr 2026 17:13:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗称在波斯湾海域击落一架美军无人机】伊朗伊斯兰革命卫队公共关系部门3日表示，在国家综合防空网络指挥下，伊斯兰革命卫队通过其研发的新型先进防空系统击落一架美军“卢卡斯”无人机。据悉，该无人机目前正漂浮在波斯湾海域。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-04/detail-inhtfzut8602772.d.html</link>
-            <guid>4795941</guid>
-            <pubDate>Fri, 03 Apr 2026 17:10:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[真主党：我们用火箭弹炮击了纳哈里亚定居点。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-04/detail-inhtfzup6792513.d.html</link>
-            <guid>4795938</guid>
-            <pubDate>Fri, 03 Apr 2026 17:01:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【道富：本周美债收益率下滑】本周交易因假期缩短，美国国债收益率收盘时低于周初水平。本周早些时候，债券价格上涨，推动收益率走低，这得益于美联储主席杰罗姆·鲍威尔(Jerome Powell)发表了被交易员解读为偏宽松的言论，同时市场也寄望伊朗冲突对美国经济的通胀影响可能小于先前担忧。然而，在周五，收益率在远好于预期的3月份就业报告公布后攀升，回吐了部分跌幅。“总的来说，在利率波动相对较小的情况下，过去一年半的债券市场表明，美国经济真的很有韧性，“道富的Jennifer Bender告诉《华尔街日报》。基准10年期美国国债收益率收于4.344%，低于上周五的4.439%。2年期美国国债收益率本周从一周前的3.915%降至3.85%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-04/detail-inhtfzut8598567.d.html</link>
-            <guid>4795937</guid>
-            <pubDate>Fri, 03 Apr 2026 16:55:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
