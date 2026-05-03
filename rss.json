@@ -6,6 +6,82 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 4858646,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-05-04/detail-inhwspyp4069490.d.html",
+            "title": "美元兑日元跌超0.2%，刷新日低至156.70日元下方。",
+            "date_modified": "2026-05-03T21:43:42.000Z"
+        },
+        {
+            "id": 4858645,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-05-04/detail-inhwsisr4197658.d.html",
+            "title": "英国和欧盟将于周一就乌克兰贷款计划展开正式谈判。",
+            "date_modified": "2026-05-03T21:31:14.000Z"
+        },
+        {
+            "id": 4858644,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-05-04/detail-inhwsist0974729.d.html",
+            "title": "英国将启动谈判，以加入欧盟总额达1059亿美元的对乌贷款计划。",
+            "date_modified": "2026-05-03T21:30:30.000Z"
+        },
+        {
+            "id": 4858643,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-05-04/detail-inhwsisr4197493.d.html",
+            "title": "英国政府：计划本周宣布针对俄罗斯企业的新制裁，以扰乱俄方军事供应链。",
+            "date_modified": "2026-05-03T21:30:21.000Z"
+        },
+        {
+            "id": 4858642,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-05-04/detail-inhwsisq8337340.d.html",
+            "title": "斯洛伐克总理菲佐保证，该国将不再参与后续欧洲对乌克兰的贷款。",
+            "date_modified": "2026-05-03T21:25:13.000Z"
+        },
+        {
+            "id": 4858641,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-05-04/detail-inhwsist0973294.d.html",
+            "title": "【以军空袭黎南部致8死11伤】据黎巴嫩国家通讯社和卫生部消息，以色列3日对黎南部多地发动空袭，造成至少8人死亡、11人受伤。",
+            "date_modified": "2026-05-03T21:22:18.000Z"
+        },
+        {
+            "id": 4858640,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-05-04/detail-inhwsist0973076.d.html",
+            "title": "美国这份草案是对伊朗最新提议的回应。",
+            "date_modified": "2026-05-03T21:21:07.000Z"
+        },
+        {
+            "id": 4858639,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-05-04/detail-inhwsisq8336138.d.html",
+            "title": "美国政府周日向伊朗递交了一份战事和解协议的修订草案。",
+            "date_modified": "2026-05-03T21:19:01.000Z"
+        },
+        {
+            "id": 4858638,
+            "content_html": "",
+            "title": "美国民主党资深参议员杰克·里德表示，美国在伊朗问题上正处于处境糟糕得多的局面，并指责特朗普缺乏清晰战略规划。\n他表示：“这只是一次战术层面的实力秀肌肉，却并未达成总统此前宣称的战略目标。”",
+            "date_modified": "2026-05-03T21:16:59.000Z"
+        },
+        {
+            "id": 4858637,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-05-04/detail-inhwsisr4194676.d.html",
+            "title": "【默茨称美削减驻德军队与其涉伊朗战事言论无关】德国总理默茨3日表示，美国近期决定削减驻德军队，与其本人就伊朗战事发表的批评言论“没有关联”。默茨当天参加德国电视一台一档节目时表示，他对美国政府削减驻军的决定并不意外，“我们这几天听到的情况并不全是新鲜事。形势可能确实有些升级，但这并非新动向”。默茨表示，他不会放弃与美国总统特朗普的合作，“对我们而言，美国仍是北约中最重要的伙伴”。美国在核共享方面的安排丝毫没有缩水，美国对北约地区提供核威慑的承诺也不存在限制。默茨还表示，美国2024年承诺提供的“战斧”巡航导弹暂时不会部署在德国，因为“美国人目前自己都不够用”。（新华社）",
+            "date_modified": "2026-05-03T21:13:45.000Z"
+        },
+        {
+            "id": 4858636,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-05-04/detail-inhwsist0971487.d.html",
+            "title": " 英欧关系 “重启” 后，英国被要求每年向欧盟支付10亿英镑。",
+            "date_modified": "2026-05-03T21:11:01.000Z"
+        },
+        {
             "id": 4858635,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2026-05-04/detail-inhwsisq8331603.d.html",
@@ -267,79 +343,6 @@
             "url": "https://finance.sina.cn/7x24/2026-05-04/detail-inhwsckv1081683.d.html",
             "title": "哈马斯：以色列正将控制权扩张至停火划定范围之外，已占领加沙62%区域。",
             "date_modified": "2026-05-03T19:19:26.000Z"
-        },
-        {
-            "id": 4858595,
-            "content_html": "",
-            "title": "墨西哥执政党国家复兴运动党（MORENA）任命阿里阿德娜·蒙铁尔·雷耶斯为新任党主席。",
-            "date_modified": "2026-05-03T19:18:55.000Z"
-        },
-        {
-            "id": 4858594,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-05-04/detail-inhwsckx0466702.d.html",
-            "title": "【4家续展失败！支付行业持续洗牌】近日，央行非银行支付机构《支付业务许可证》续展（换证）公示信息更新。公示显示，本次共有17家机构通过审核成功续展，牌照有效期显示为“长期有效”；同时，深圳市快付通支付有限公司、东方电子支付有限公司、杉德支付网络服务发展有限公司、开联通支付服务有限公司的续展申请遭拒。",
-            "date_modified": "2026-05-03T19:15:56.000Z"
-        },
-        {
-            "id": 4858593,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-05-04/detail-inhwsckt4303279.d.html",
-            "title": "伊朗与西班牙两国外长通电话，就地区最新局势发展交换了意见。",
-            "date_modified": "2026-05-03T19:13:07.000Z"
-        },
-        {
-            "id": 4858592,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-05-04/detail-inhwsckv1078613.d.html",
-            "title": "【美梵关系趋紧 鲁比奥将赴意大利与教皇利奥会晤】梵蒂冈消息人士周日证实，美国国务卿鲁比奥将于本周前往意大利，与教皇利奥举行备受瞩目的会晤。这是近一年来，教皇与美国内阁官员首次公开面对面会谈，正值特朗普公开批评这位天主教领袖之际。会晤预计于周四举行。此前，教皇利奥已公开批评美国与以色列主导的对伊朗战争，更早之前还谴责了特朗普政府严苛的反移民政策。作为回应，特朗普总统于4月多次在社交媒体上猛烈抨击利奥，甚至在利奥出访非洲四国期间，称这位教皇 “糟糕透顶”。",
-            "date_modified": "2026-05-03T19:04:24.000Z"
-        },
-        {
-            "id": 4858591,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-05-04/detail-inhwsckt4300114.d.html",
-            "title": "据瑞典电视台报道，瑞典已将首颗军用侦察卫星送入太空，据称该卫星将用于监视俄罗斯。",
-            "date_modified": "2026-05-03T18:57:32.000Z"
-        },
-        {
-            "id": 4858589,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-05-04/detail-inhwscks8440110.d.html",
-            "title": "马克龙将在欧洲政治共同体峰会结束后，同阿塞拜疆总统阿利耶夫举行会谈。",
-            "date_modified": "2026-05-03T18:53:07.000Z"
-        },
-        {
-            "id": 4858588,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-05-04/detail-inhwsckv1073901.d.html",
-            "title": "基米·安东内利为梅赛德斯夺得迈阿密一级方程式大奖赛冠军。",
-            "date_modified": "2026-05-03T18:39:00.000Z"
-        },
-        {
-            "id": 4858587,
-            "content_html": "",
-            "title": "高盛：今年是大型科技企业的其他收益大年，原因是它们投资的私营科技公司正以不断走高的估值进行融资。",
-            "date_modified": "2026-05-03T18:38:30.000Z"
-        },
-        {
-            "id": 4858586,
-            "content_html": "",
-            "title": "伊朗科研人员推出全球首款商用冰层表面剪切应力检测实验设备。 该设备由一家纳米工程科创企业研发，可为航空航天、能源、交通领域的防结冰研究提供技术支撑。",
-            "date_modified": "2026-05-03T18:37:04.000Z"
-        },
-        {
-            "id": 4858585,
-            "content_html": "",
-            "title": "伊朗提议要求终止美国海上封锁。相关协议一旦达成，将再开启为期一个月的谈判，以敲定核问题全面协议。",
-            "date_modified": "2026-05-03T18:36:03.000Z"
-        },
-        {
-            "id": 4858584,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-05-04/detail-inhwscks8436765.d.html",
-            "title": "伊朗提议设一个月期限，达成协议以重启霍尔木兹海峡通航。",
-            "date_modified": "2026-05-03T18:35:52.000Z"
         }
     ]
 }
