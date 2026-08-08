@@ -6,6 +6,111 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 5032096,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-09/detail-inimrvnz2295723.d.html",
+            "title": "【黑海遇袭商船停靠土耳其港口】当地时间3日，与土耳其相关的商船“娜代日达”号从俄罗斯黑海港口新罗西斯克港起航后遭到无人机袭击，多名船员受伤。土耳其方面对商船在黑海海域遇袭已表示严重关切，警告说俄乌冲突影响外溢正威胁民用航运和地区稳定。8月8日，在黑海遭到无人机袭击、船体受损的商船“娜代日达”号停靠在土耳其萨姆松港。",
+            "date_modified": "2026-08-08T18:40:34.000Z"
+        },
+        {
+            "id": 5032095,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-09/detail-inimrvnz2291569.d.html",
+            "title": "伊朗央行行长：遭美国制裁的加密货币交易所与伊朗并无关联，德黑兰转移的资金仍处于本国掌控之下。",
+            "date_modified": "2026-08-08T18:30:07.000Z"
+        },
+        {
+            "id": 5032094,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-09/detail-inimrvnz2291481.d.html",
+            "title": "泽连斯基：冲突结束后，乌克兰将获得来自美国的 “力度极强” 的安全保障。",
+            "date_modified": "2026-08-08T18:29:41.000Z"
+        },
+        {
+            "id": 5032093,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-09/detail-inimrvpc3892858.d.html",
+            "title": "美国官员：尽管参谋长联席会议主席就弹药问题发出警告，特朗普仍决意发动战争，并预期战事会迅速结束。",
+            "date_modified": "2026-08-08T18:23:18.000Z"
+        },
+        {
+            "id": 5032092,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-09/detail-inimrvnz2289061.d.html",
+            "title": "美国五角大楼发言人：有关武器短缺的报道并不属实，我们拥有开展任何打击行动所需的全部物资。",
+            "date_modified": "2026-08-08T18:23:02.000Z"
+        },
+        {
+            "id": 5032091,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-09/detail-inimrvpc3890313.d.html",
+            "title": "【日本岩手县近海发生5.6级地震】据日本气象厅消息，日本岩手县近海9日凌晨发生5.6级地震。日本气象厅说，地震发生于当地时间9日2时58分（北京时间9日1时58分）左右，震中位于北纬40.1度、东经142.4度，震源深度约40公里。日本气象厅说，目前无需担心发生海啸灾害。（新华社）",
+            "date_modified": "2026-08-08T18:15:50.000Z"
+        },
+        {
+            "id": 5032090,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-09/detail-inimrvpc9329719.d.html",
+            "title": "美国副总统万斯称，伊朗告知美国，并无在霍尔木兹海峡征收通行费的计划。",
+            "date_modified": "2026-08-08T18:05:42.000Z"
+        },
+        {
+            "id": 5032089,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-09/detail-inimrvpf6101184.d.html",
+            "title": "市场资讯：亚马逊云科技（AWS）要求工程师减少CPU资源浪费，算力需求激增造成EC2算力资源紧张。部分工程师申请服务器，过去数小时即可到位，如今需要等待数日。",
+            "date_modified": "2026-08-08T18:02:56.000Z"
+        },
+        {
+            "id": 5032088,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-09/detail-inimrvnz2280378.d.html",
+            "title": "  美国官员：受伊朗战争影响弹药库存急剧消耗，美国正调回原本划拨给亚洲与欧洲的弹药。",
+            "date_modified": "2026-08-08T17:59:04.000Z"
+        },
+        {
+            "id": 5032087,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-09/detail-inimrvnz2280340.d.html",
+            "title": "土耳其外长：土耳其已向俄罗斯和乌克兰转达立场，要求双方宣布暂停在黑海的军事行动。",
+            "date_modified": "2026-08-08T17:58:44.000Z"
+        },
+        {
+            "id": 5032086,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-09/detail-inimrvpc3880802.d.html",
+            "title": "【中国代表队首次参加国际核科学奥赛 获一金三银】2026年国际核科学奥林匹克竞赛8日晚在沙特阿拉伯西部城市吉达闭幕，中国代表队首次参赛，4名选手获得一金三银，总成绩居参赛国家前列。（新华社）",
+            "date_modified": "2026-08-08T17:48:50.000Z"
+        },
+        {
+            "id": 5032085,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-09/detail-inimrvnz2276745.d.html",
+            "title": "【秘鲁库斯科一客车与一卡车相撞 致9死6伤】当地时间8月8日凌晨，秘鲁库斯科大区埃斯皮纳尔省帕尔帕塔区发生一起严重交通事故。一辆载客小型客车与一辆半挂式卡车发生猛烈碰撞，造成至少9人死亡、6人受伤。（央视新闻）",
+            "date_modified": "2026-08-08T17:47:53.000Z"
+        },
+        {
+            "id": 5032084,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-09/detail-inimrvpc3878704.d.html",
+            "title": "土耳其外交部长：埃及或可在特定技术问题得到解决后加入该防务协议。",
+            "date_modified": "2026-08-08T17:42:51.000Z"
+        },
+        {
+            "id": 5032083,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-09/detail-inimrvpc3877562.d.html",
+            "title": "【武契奇会晤泽连斯基 双方同意深化经贸合作】当地时间8日，乌克兰总统泽连斯基结束对塞尔维亚为期两天的正式访问。这是乌克兰国家元首时隔8年再次访问塞尔维亚。期间，两国元首举行会晤，双方同意深化经贸合作，并扩大基础设施和人道主义援助领域合作。（新华社）",
+            "date_modified": "2026-08-08T17:39:22.000Z"
+        },
+        {
+            "id": 5032082,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-09/detail-inimrvnz2272430.d.html",
+            "title": "土耳其外交部长：红海航运安全关乎我国利益，因此土耳其必须参与沙特阿拉伯牵头的国际联盟。",
+            "date_modified": "2026-08-08T17:35:31.000Z"
+        },
+        {
             "id": 5032081,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2026-08-09/detail-inimrvpc3871371.d.html",
@@ -242,111 +347,6 @@
             "url": "https://finance.sina.cn/7x24/2026-08-08/detail-inimrrff3948552.d.html",
             "title": "【万斯谈到伊朗局势时称“我们还在博弈过程中”】美国副总统万斯在周六播出的新闻采访中谈及伊朗局势时表示：“我们还在博弈过程中。”他说：“我们正在综合运用外交、经济和军事等各种手段，以确保为美国人民争取到最好的结果。”万斯表示：“我相当有信心，我们最终会实现这一目标。”他说，过去几天伊朗谈判取得了一些进展。万斯表示，美国预计海湾地区的石油和天然气供应将恢复到冲突前的水平，“伊朗方面告诉我们，他们会这么做”。他说：“我们不会轻信，而是会核实”。",
             "date_modified": "2026-08-08T15:07:33.000Z"
-        },
-        {
-            "id": 5032046,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-08/detail-inimrrfc2343295.d.html",
-            "title": "伊朗总统：停止或继续在伊朗的战争的决定权掌握在革命卫队和军事领导人手中，而不是政府。",
-            "date_modified": "2026-08-08T15:04:13.000Z"
-        },
-        {
-            "id": 5032045,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-08/detail-inimrrfi6170940.d.html",
-            "title": "伊朗总统：我们每日都在探讨如何推进外交途径，以摆脱这种既非战争也非和平的状态。",
-            "date_modified": "2026-08-08T15:02:55.000Z"
-        },
-        {
-            "id": 5032044,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-08/detail-inimrrff9398189.d.html",
-            "title": "美国五角大楼：霍尔木兹海峡的核心问题源于伊朗在战争初期布设水雷，我方正推进建立一套安全航行体系。",
-            "date_modified": "2026-08-08T15:02:16.000Z"
-        },
-        {
-            "id": 5032043,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-08/detail-inimrrff3945894.d.html",
-            "title": "伊朗总统：决意以谅解备忘录为谈判基础，但前提是美国摒弃其制造的不信任氛围。",
-            "date_modified": "2026-08-08T15:01:58.000Z"
-        },
-        {
-            "id": 5032042,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-08/detail-inimrrff9397923.d.html",
-            "title": "伊朗总统：美国不值得信任，但我们仍谋求与其取得一定进展，解决当前面临的问题。",
-            "date_modified": "2026-08-08T15:01:34.000Z"
-        },
-        {
-            "id": 5032041,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-08/detail-inimrrfc2341928.d.html",
-            "title": "伊朗总统：战争不可能永无休止，终究总要在某个时刻画上句号。",
-            "date_modified": "2026-08-08T15:01:20.000Z"
-        },
-        {
-            "id": 5032040,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-08/detail-inimrrff9396154.d.html",
-            "title": "【阿曼：霍尔木兹海峡通航安排谈判在积极氛围中推进】当地时间8日，阿曼外交部发表声明称，目前有关霍尔木兹海峡通航安排的谈判正在积极、建设性的氛围中推进，并已取得兼顾各方利益的进展。声明强调，应避免采取任何可能影响相关谈判以及已经取得进展的行动。声明同时对近期船只在通过霍尔木兹海峡期间多次遭到袭击表示谴责。阿方表示，相关行为违反国际法，侵犯沿岸国领海主权，并对海上航行安全以及地区安全与稳定构成威胁。（央视新闻）",
-            "date_modified": "2026-08-08T14:56:24.000Z"
-        },
-        {
-            "id": 5032039,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-08/detail-inimrrff3943312.d.html",
-            "title": "美国副总统万斯：伊朗已通知美国将允许最大流量的石油通过海峡，但我们不信任他们。",
-            "date_modified": "2026-08-08T14:54:49.000Z"
-        },
-        {
-            "id": 5032038,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-08/detail-inimrrff9394111.d.html",
-            "title": "市场消息：美国副总统万斯表示，伊朗已通知美国，尽管政权内部人士发表了将对霍尔木兹海峡征收过境费的声明，但伊朗不会征收此类费用。",
-            "date_modified": "2026-08-08T14:51:11.000Z"
-        },
-        {
-            "id": 5032037,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-08/detail-inimrrff3940082.d.html",
-            "title": "【钟睒睒：感性消费被线上购物平台扼杀，必须限制平台能力】8月8日消息，今日，农夫山泉创始人、董事长钟睒睒做客央视财经《对话》直播节目。直播中，谈及目前在生活中普及的电商平台，钟睒睒表示，平台是一种特殊的中间商，“这个中间商无处不在，把城市的很多零售商都‘杀’光了。”他说。他认为，城市中的许多店铺是根据感性来消费的，但目前这种消费已经被扼杀。“把年轻人都吸引到手机屏幕里，创造性和感性在哪里？”因此，他表示必须限制平台的能力。",
-            "date_modified": "2026-08-08T14:47:30.000Z"
-        },
-        {
-            "id": 5032036,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-08/detail-inimrrfc2335188.d.html",
-            "title": "也门武装部队发言人表示，已对胡塞武装及其附属“民兵组织”展开军事行动。",
-            "date_modified": "2026-08-08T14:45:20.000Z"
-        },
-        {
-            "id": 5032035,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-08/detail-inimrrff9390576.d.html",
-            "title": "加拿大强调不会接受零敲碎打的协议。",
-            "date_modified": "2026-08-08T14:43:00.000Z"
-        },
-        {
-            "id": 5032034,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-08/detail-inimrrff3937716.d.html",
-            "title": "市场消息：加拿大希望在两周内阻止美国计划实施的50%关税。",
-            "date_modified": "2026-08-08T14:42:50.000Z"
-        },
-        {
-            "id": 5032033,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-08/detail-inimrrff3937133.d.html",
-            "title": "伊朗媒体报道，伊朗总统称，当前是达成协议的最佳时机，因为伊朗“强大团结，且在战争中被视为胜利方”。",
-            "date_modified": "2026-08-08T14:41:49.000Z"
-        },
-        {
-            "id": 5032032,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-08/detail-inimrrff3937048.d.html",
-            "title": "市场消息：加拿大要求与美国达成一项全面协议。",
-            "date_modified": "2026-08-08T14:41:39.000Z"
         }
     ]
 }
