@@ -4,11 +4,35 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 09 Aug 2026 17:35:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 18:49:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【医药基金大幅“回血” 公募持仓降至冰点后迎市场反弹】当科技赛道进入高位震荡阶段，前期持续深度调整的医药板块迎来一波力度可观的估值修复行情。自6月9日探底之后，医药主题ETF、多只主动权益医药基金净值大幅回弹，部分产品反弹幅度突破30%。本轮行情既是行业基本面持续向好驱动的价值回归，也受益于公募基金极度低配带来的抛压释放。但面对板块快速上行，公募机构内部出现明显分歧，这究竟是阶段性修复行情，还是新一轮趋势性机会，成为当前市场热议的焦点。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-10/detail-inimuetx1490510.d.html</link>
+            <guid>5032652</guid>
+            <pubDate>Sun, 09 Aug 2026 18:31:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：我们的边境空前稳固。尽管假新闻百般说辞，驱逐出境的执行规模正创下历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-10/detail-inimtymz1608395.d.html</link>
+            <guid>5032651</guid>
+            <pubDate>Sun, 09 Aug 2026 17:54:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗最高领袖穆杰塔巴任命穆赫辛·雷扎伊为其在国家安全委员会的代表。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-10/detail-inimtync3208944.d.html</link>
+            <guid>5032650</guid>
+            <pubDate>Sun, 09 Aug 2026 17:44:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄国防部称，防空力量当天在俄罗斯各地区击落了285架乌克兰无人机。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-10/detail-inimtync8567272.d.html</link>
+            <guid>5032649</guid>
+            <pubDate>Sun, 09 Aug 2026 17:35:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国官员：当伊朗不再卷入战争时，将不得不直面黯淡的现实，却无切实可行的解决方案。]]></title>
             <link>https://finance.sina.cn/7x24/2026-08-10/detail-inimtync3203923.d.html</link>
@@ -282,30 +306,6 @@
             <link>https://finance.sina.cn/7x24/2026-08-09/detail-inimtuef3259144.d.html</link>
             <guid>5032601</guid>
             <pubDate>Sun, 09 Aug 2026 14:31:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宇树科技中签率远低于长鑫科技】8月9日，A股“人形机器人第一股”宇树科技8月10日将在科创板正式开启申购。考虑到宇树科技本次发行流通盘规模较小，又叠加“第一股”的题材光环，多家券商综合测算显示，其预计中签率在万分之二至万分之三之间，远低于长鑫科技0.47%的中签率水平。数据显示，2026年以来A股新股上市首日平均涨幅高达276.04%，若以此测算，中一签宇树科技账面盈利有望突破20万元；若对标年内科创板新股首日466.61%的平均涨幅，单签盈利可达35.18万元。 (21财经)]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-09/detail-inimtuec1654308.d.html</link>
-            <guid>5032600</guid>
-            <pubDate>Sun, 09 Aug 2026 14:29:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：埃及外交部发表声明，就土耳其外长的通话作出表态。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-09/detail-inimtuec1654241.d.html</link>
-            <guid>5032599</guid>
-            <pubDate>Sun, 09 Aug 2026 14:28:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：埃及、土耳其外交部长就地区安全安排展开磋商。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-09/detail-inimtuef3257869.d.html</link>
-            <guid>5032598</guid>
-            <pubDate>Sun, 09 Aug 2026 14:28:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI总裁布罗克曼：GPT-4在四年前的今天完成了训练。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-09/detail-inimtuef8626957.d.html</link>
-            <guid>5032597</guid>
-            <pubDate>Sun, 09 Aug 2026 14:27:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
