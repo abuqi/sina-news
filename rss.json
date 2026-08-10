@@ -6,6 +6,103 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 5034612,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-11/detail-inimwuhy5979865.d.html",
+            "title": "黑石集团即将达成一笔20亿美元交易，收购加拿大航空Aeroplan忠诚度项目的少数股权。",
+            "date_modified": "2026-08-10T21:37:27.000Z"
+        },
+        {
+            "id": 5034611,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-11/detail-inimwuht0820283.d.html",
+            "title": "中国地震台网自动测定：08月11日05时31分在四川宜宾市高县附近（北纬28.55度，东经104.67度）发生4.2级左右地震，最终结果以正式速报为准。",
+            "date_modified": "2026-08-10T21:34:22.000Z"
+        },
+        {
+            "id": 5034610,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-11/detail-inimwuhy5978387.d.html",
+            "title": "【特朗普称美军实际控制霍尔木兹】美国总统特朗普当地时间6月10日下午在白宫对媒体称，在伊朗要求美国就军事冲突进行赔偿后，他也要向伊朗提出索赔——这一说法与他几个小时前在社交媒体发帖内容一致。 特朗普还称，美国实际控制着霍尔木兹海峡，并已在该战略石油水道清除了伊朗布设的水雷。",
+            "date_modified": "2026-08-10T21:32:34.000Z"
+        },
+        {
+            "id": 5034609,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-11/detail-inimwuhx4462142.d.html",
+            "title": "基辅响起防空警报。",
+            "date_modified": "2026-08-10T21:28:57.000Z"
+        },
+        {
+            "id": 5034607,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-11/detail-inimwuht0816361.d.html",
+            "title": "特朗普：伊朗已经“囊中羞涩”，在约300%的通胀背景下无力给士兵发放军饷。",
+            "date_modified": "2026-08-10T21:22:11.000Z"
+        },
+        {
+            "id": 5034606,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-11/detail-inimwuhv7686957.d.html",
+            "title": "富时A50期指连续夜盘收跌0.23%，报15010点。",
+            "date_modified": "2026-08-10T21:18:56.000Z"
+        },
+        {
+            "id": 5034605,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-11/detail-inimwpyv0944551.d.html",
+            "title": "【美航客机遭鸟击后返航】当地时间8月10日上午，一架原定从美国南卡罗来纳州默特尔比奇飞往北卡罗来纳州夏洛特的美国航空航班，起飞后遭遇鸟击并出现发动机问题，被迫返回默特尔比奇国际机场。美国航空公司方面称，飞机安全降落，机上172名乘客无人受伤。空管录音显示，飞行员曾报告“发动机出现问题”并宣布“紧急状态”。机场跑道上发现大量鸟类残骸和羽毛。另有附近飞行员称，看到这架客机撞上一群鸟后左侧发动机冒烟。不过飞机落地检查后据称未发现起火或泄漏。美国联邦航空局将对事件展开调查。（CCTV国际时讯）",
+            "date_modified": "2026-08-10T21:12:34.000Z"
+        },
+        {
+            "id": 5034604,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-11/detail-inimwpyx7815299.d.html",
+            "title": "新西兰储备银行发布新审慎征费的咨询文件。该项征费将适用于银行、非银行存款机构、保险公司以及金融市场基础设施。",
+            "date_modified": "2026-08-10T21:08:59.000Z"
+        },
+        {
+            "id": 5034603,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-11/detail-inimwpza6102055.d.html",
+            "title": "【委内瑞拉地震遇难人数升至6301人】委内瑞拉全国代表大会主席豪尔赫·罗德里格斯10日说，6月24日地震造成的遇难人数已升至6301人。（新华社）",
+            "date_modified": "2026-08-10T21:07:46.000Z"
+        },
+        {
+            "id": 5034602,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-11/detail-inimwpza6100822.d.html",
+            "title": "【国际金价周一涨1.1%，现货白银涨3.2%】周一纽约尾盘，现货黄金涨1.10%，报4389.38美元/盎司。COMEX黄金期货涨1.10%，报4448.20美元/盎司，逼近6月17日顶部4465.90美元和6月4日顶部4607.40美元。现货白银涨3.20%，报65.7089美元/盎司。COMEX白银期货涨3.80%，报65.910美元/盎司。COMEX铜期货涨0.68%，报6.6360美元/磅。现货铂金涨0.32%，现货钯金涨0.33%。",
+            "date_modified": "2026-08-10T21:03:23.000Z"
+        },
+        {
+            "id": 5034601,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-11/detail-inimwpza6100584.d.html",
+            "title": "伊朗外交部长表示，国际社会应当就霍尔木兹海峡封锁所带来的安全与经济后果追究美国的责任，并指责美国与以色列造成这条战略水道局势动荡。",
+            "date_modified": "2026-08-10T21:02:52.000Z"
+        },
+        {
+            "id": 5034600,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-11/detail-inimwpyv0940552.d.html",
+            "title": "【伊朗“圣城旅”指挥官到访巴格达 同伊拉克多方会晤】当地时间10日晚，伊拉克安全部门消息人士称，伊朗伊斯兰革命卫队“圣城旅”指挥官卡尼当晚抵达巴格达，与伊拉克国民议会最大党团“协调框架联盟”、“人民动员组织”及伊拉克各民兵组织领导人举行会晤，会晤涉及伊拉克国家武器管控等议题。",
+            "date_modified": "2026-08-10T20:59:19.000Z"
+        },
+        {
+            "id": 5034599,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-11/detail-inimwpyz4583924.d.html",
+            "title": "【胡塞武装再袭政府军 联合国特使警告也门冲突升级】也门政府军一名军官10日说，也门胡塞武装当天对该国东南部舍卜沃省一处政府军阵地发动无人机袭击，造成3名士兵死亡，另有9名士兵受伤。联合国也门问题特使汉斯·格伦德贝里当天在社交媒体发表声明，对近期胡塞武装频频袭击也门政府控制地区深表关切，并警告说，最新事态可能将也门重新推入全面冲突。（新华社）",
+            "date_modified": "2026-08-10T20:56:01.000Z"
+        },
+        {
+            "id": 5034598,
+            "content_html": "",
+            "title": "英伟达CEO黄仁勋：人工智能实验室及AI初创企业存在算力需求。",
+            "date_modified": "2026-08-10T20:51:46.000Z"
+        },
+        {
             "id": 5034597,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2026-08-11/detail-inimwpza6096238.d.html",
@@ -253,103 +350,6 @@
             "url": "https://finance.sina.cn/7x24/2026-08-11/detail-inimwpyv0911445.d.html",
             "title": "特朗普谈及伊朗问题：美国已完成整个（霍尔木兹）海峡的排雷工作。",
             "date_modified": "2026-08-10T19:34:15.000Z"
-        },
-        {
-            "id": 5034561,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-11/detail-inimwpyz4559722.d.html",
-            "title": "特朗普：只有美国（能）掌控霍尔木兹海峡。",
-            "date_modified": "2026-08-10T19:34:04.000Z"
-        },
-        {
-            "id": 5034560,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-11/detail-inimwpyx7787274.d.html",
-            "title": "特朗普谈及霍尔木兹海峡：目前航道处于开放状态。",
-            "date_modified": "2026-08-10T19:33:45.000Z"
-        },
-        {
-            "id": 5034559,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-11/detail-inimwpza6069594.d.html",
-            "title": "【因伊朗提出战争赔偿 特朗普称也要向伊朗索赔】美国总统特朗普10日在社交媒体发文称，在伊朗要求美国就军事冲突进行赔偿后，他也要向伊朗提出索赔，并已指示美方谈判代表将这一要求明确纳入今后所有谈判议程中。",
-            "date_modified": "2026-08-10T19:32:47.000Z"
-        },
-        {
-            "id": 5034558,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-11/detail-inimwpyv0910746.d.html",
-            "title": "【哥伦比亚总统：强震已致111死87伤】哥伦比亚总统德拉埃斯普列亚10日在首都波哥大通报说，该国西部当天发生的强震已造成全国111人死亡、87人受伤。",
-            "date_modified": "2026-08-10T19:32:24.000Z"
-        },
-        {
-            "id": 5034557,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-11/detail-inimwpyv0910290.d.html",
-            "title": "【美元指数10日上涨】美元指数10日上涨。衡量美元对六种主要货币的美元指数当天上涨0.27%，在汇市尾市收于99.809。截至纽约汇市尾市，1欧元兑换1.1542美元，低于前一交易日的1.1564美元；1英镑兑换1.3509美元，高于前一交易日的1.3499美元。1美元兑换159.24日元，高于前一交易日的157.55日元；1美元兑换0.8101瑞士法郎，高于前一交易日的0.8076瑞士法郎；1美元兑换1.3942加元，高于前一交易日的1.3937加元；1美元兑换9.5016瑞典克朗，高于前一交易日的9.4701瑞典克朗。",
-            "date_modified": "2026-08-10T19:31:04.000Z"
-        },
-        {
-            "id": 5034556,
-            "content_html": "",
-            "title": "纽约期金突破4450美元/盎司，日内涨1.14%。",
-            "date_modified": "2026-08-10T19:29:33.000Z"
-        },
-        {
-            "id": 5034555,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-11/detail-inimwpza6068323.d.html",
-            "title": "现货黄金突破4390美元/盎司，日内涨1.14%。",
-            "date_modified": "2026-08-10T19:28:37.000Z"
-        },
-        {
-            "id": 5034554,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-11/detail-inimwpyv0909546.d.html",
-            "title": "国际原子能机构（IAEA）即将转移存放在叙利亚一处秘密设施内的核材料。",
-            "date_modified": "2026-08-10T19:28:20.000Z"
-        },
-        {
-            "id": 5034553,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-11/detail-inimwpyv0909475.d.html",
-            "title": "美国就叙利亚秘密核设施促成一项协议。",
-            "date_modified": "2026-08-10T19:28:06.000Z"
-        },
-        {
-            "id": 5034552,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-11/detail-inimwpza6067973.d.html",
-            "title": "特朗普表示，他的目标是降低自闭症发病率，同时承认“尚不完全清楚自闭症的确切致病原因”。",
-            "date_modified": "2026-08-10T19:27:25.000Z"
-        },
-        {
-            "id": 5034551,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-11/detail-inimwpyv0909168.d.html",
-            "title": "特朗普：武器化基金的未来将由司法部长布兰奇决定。",
-            "date_modified": "2026-08-10T19:26:43.000Z"
-        },
-        {
-            "id": 5034550,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-11/detail-inimwpyv0909026.d.html",
-            "title": "美国法官驳回司法部对印度亿万富翁高塔姆·阿达尼的刑事诉讼。",
-            "date_modified": "2026-08-10T19:26:25.000Z"
-        },
-        {
-            "id": 5034549,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-11/detail-inimwpza6067588.d.html",
-            "title": "日本宇宙航空研究开发机构（JAXA）在鹿儿岛县种子岛宇宙中心的吉信发射场发射一颗地理定位卫星。",
-            "date_modified": "2026-08-10T19:26:15.000Z"
-        },
-        {
-            "id": 5034548,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-11/detail-inimwpyv0908495.d.html",
-            "title": "现货白银突破66美元/盎司，日内涨3.92%。",
-            "date_modified": "2026-08-10T19:24:45.000Z"
         }
     ]
 }
