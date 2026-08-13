@@ -4,11 +4,276 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Thu, 13 Aug 2026 16:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 17:05:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：CEREBRAS因与OPENAI合作而减少损失。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywa4534059.d.html</link>
+            <guid>5039914</guid>
+            <pubDate>Thu, 13 Aug 2026 17:03:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国30年期国债拍卖收益率创2001年以来新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywf3261293.d.html</link>
+            <guid>5039913</guid>
+            <pubDate>Thu, 13 Aug 2026 17:03:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国30年期国债收益率下降5.216%，低于预售时的5.212%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywf3261183.d.html</link>
+            <guid>5039912</guid>
+            <pubDate>Thu, 13 Aug 2026 17:02:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：Anthropic首席财务官的相关会议并未涉及估值谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywh3058660.d.html</link>
+            <guid>5039911</guid>
+            <pubDate>Thu, 13 Aug 2026 17:02:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI：GPT-5.6 Sol超高速模式（UltraFast Mode）已向部分客户群体开放有限预览。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywa4533371.d.html</link>
+            <guid>5039910</guid>
+            <pubDate>Thu, 13 Aug 2026 17:01:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[谷歌：3.7 Flash模型将以每百万输入token0.75美元、每百万输出token3.75美元的推介价格提供，直至年底。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywh3058132.d.html</link>
+            <guid>5039909</guid>
+            <pubDate>Thu, 13 Aug 2026 17:01:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[谷歌：推出GEMINI 3.7 FLASH。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywf3260437.d.html</link>
+            <guid>5039908</guid>
+            <pubDate>Thu, 13 Aug 2026 17:00:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦储备理事会(FED)数据显示，8月12日当周，经非季节性调整的美国商业票据未偿还金额减少11亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywf3260358.d.html</link>
+            <guid>5039907</guid>
+            <pubDate>Thu, 13 Aug 2026 17:00:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦储备理事会(美联储/FED)数据显示，8月12日当周，经非季节性调整的美国外国金融商业票据未偿还余额增加109亿美元。。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywf3260303.d.html</link>
+            <guid>5039906</guid>
+            <pubDate>Thu, 13 Aug 2026 17:00:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦储备理事会(FED)数据显示，8月12日当周经季节调整的美国商业票据未偿还余额增加16亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywa4532831.d.html</link>
+            <guid>5039905</guid>
+            <pubDate>Thu, 13 Aug 2026 17:00:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国机器人吸尘器品牌MATIC新增全语音控制选项。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywa4532790.d.html</link>
+            <guid>5039904</guid>
+            <pubDate>Thu, 13 Aug 2026 17:00:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【夜盘期货收盘】国际铜夜盘收涨0.10%，沪铜收跌0.03%，沪铝收跌0.62%，沪锌收跌0.04%，沪铅收跌0.81%，沪镍收跌0.88%，沪锡收涨0.07%。氧化铝夜盘收涨0.26%，铝合金收跌0.90%。不锈钢夜盘收跌0.83%。]]></title>
+            <guid>5039903</guid>
+            <pubDate>Thu, 13 Aug 2026 17:00:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利内政部长：只有在西班牙北非飞地休达面临的大规模移民涌入风险彻底化解后，意大利才会取消对西班牙的申根边境临时管控。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywi9829220.d.html</link>
+            <guid>5039902</guid>
+            <pubDate>Thu, 13 Aug 2026 16:56:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌军称袭击俄西南部一大型炼油厂】当地时间13日，乌克兰武装部队总参谋部在社交媒体上发文称，乌军当天凌晨袭击了位于俄罗斯西南部巴什科尔托斯坦共和国的一大型炼油厂，袭击引起大火。乌武装部队总参谋部称，袭击目标距离乌俄边境1300公里。乌军将继续打击俄方关键设施，系统性削弱其作战能力。（央视新闻）]]></title>
+            <guid>5039901</guid>
+            <pubDate>Thu, 13 Aug 2026 16:53:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伦敦金属交易所（LME）3个月期镍期货收盘下跌172美元，报每吨16,776美元。伦敦金属交易所（LME）3个月期锡期货收盘上涨36美元，报每吨55,854美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywf3257694.d.html</link>
+            <guid>5039900</guid>
+            <pubDate>Thu, 13 Aug 2026 16:53:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伦敦金属交易所（LME）3个月期铝期货收盘下跌52美元，报每吨3258美元。伦敦金属交易所（LME）3个月期铝期货收盘下跌52美元，报每吨3258美元。]]></title>
+            <guid>5039899</guid>
+            <pubDate>Thu, 13 Aug 2026 16:52:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【哥伦比亚强震已致273人遇难】当地时间13日，哥伦比亚国家灾害风险管理局公布最新数据显示，该国日前发生的强震已造成273人遇难、3824人受伤，另有377人失踪。据中国地震台网正式测定，北京时间10日晚上，哥伦比亚当地时间10日上午，哥伦比亚西北部发生里氏7.5级强震，震源深度80公里。哥伦比亚全国有32个城市严重受灾。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywa4529145.d.html</link>
+            <guid>5039898</guid>
+            <pubDate>Thu, 13 Aug 2026 16:50:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【OpenAI营收部门二度换帅 加速营收增长为上市铺路】OpenAI不到一年内任命第二位首席营收官，显示该公司正努力加强销售增长，为备受期待的华尔街上市做准备。OpenAI已聘请达利·拉季奇担任新的首席营收官，拉季奇此前担任Alphabet旗下网络安全公司Wiz总裁兼首席运营官，将接替去年12月加入OpenAI的丹尼斯·德雷瑟。德雷瑟将在完成过渡期后离开公司。这一任命也发生在OpenAI高管团队持续调整之际，近期已有布拉德·莱特卡普、菲吉·西莫和凯文·韦尔等高管离开公司。OpenAI总裁格雷格·布洛克曼表示，公司下一阶段需要持续证明客户每投入一美元人工智能成本，都能带来“可衡量的商业价值”。他透露，OpenAI年度营收运行率7月环比增长超过20%，企业客户业务增长达到32%。上月，OpenAI表示其每周活跃用户已突破10亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywa4528862.d.html</link>
+            <guid>5039897</guid>
+            <pubDate>Thu, 13 Aug 2026 16:50:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伦敦股市13日下跌】英国伦敦股市《金融时报》100种股票平均价格指数13日报收于10772.67点，较前一交易日下跌60.48点，跌幅为0.56%。欧洲三大股指当天全线下跌。当天伦敦股市成分股中位于涨幅前五位的个股分别为：狮子金融集团有限公司股价上涨5.19%，英美烟草股价上涨2.75%，邦瑞地产股价上涨2.37%，信息技术服务公司康普塔森特股价上涨2.28%，房地产商珀西蒙公司股价上涨2.22%。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywf3256127.d.html</link>
+            <guid>5039896</guid>
+            <pubDate>Thu, 13 Aug 2026 16:49:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国：该部队将使用美国及伙伴国的攻击型无人机。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywh3054336.d.html</link>
+            <guid>5039895</guid>
+            <pubDate>Thu, 13 Aug 2026 16:49:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国：成立新无人机特遣队。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywf3254638.d.html</link>
+            <guid>5039894</guid>
+            <pubDate>Thu, 13 Aug 2026 16:46:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国非竞争性投标以9540万美元的价格竞购30年期债券。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywa4527179.d.html</link>
+            <guid>5039893</guid>
+            <pubDate>Thu, 13 Aug 2026 16:46:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【曼哈顿租金创新高，有人豪掷4000美元只为抢看“隐藏房源”】曼哈顿租金7月飙升至纪录最高水平，可出租房源出现历史性萎缩，同时又恰逢夏季租房旺季，供需矛盾进一步加剧。根据房地产评估机构Miller Samuel Inc.和The Real Deal的最新数据，7月新签租约的租金中位数达到5,000美元，同比上涨6.4%。这一涨幅是全美住房成本涨幅的两倍。美国劳工统计局数据显示，全美住房价格指标同比上涨3.2%。租金大涨的同时，房源供应急剧减少。上个月，曼哈顿挂牌出租房源同比骤降逾39%，降幅之大在过去十年中也属罕见。这一趋势也蔓延至东河另一侧。布鲁克林7月租金中位数同样创下历史新高，达到4,500美元，而挂牌房源数量较去年同期减少27%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywa4526074.d.html</link>
+            <guid>5039892</guid>
+            <pubDate>Thu, 13 Aug 2026 16:43:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：特朗普将于明日访问拿骚县警察学院。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywa4524027.d.html</link>
+            <guid>5039891</guid>
+            <pubDate>Thu, 13 Aug 2026 16:39:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：伊根-琼斯评级公司回应美国证交会决定并阐述其注册路径。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywa4522237.d.html</link>
+            <guid>5039890</guid>
+            <pubDate>Thu, 13 Aug 2026 16:34:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国地质调查局：克马德克群岛地区发生5.4级地震。]]></title>
+            <guid>5039889</guid>
+            <pubDate>Thu, 13 Aug 2026 16:33:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国房贷利率六周来首次小幅下降】房地美表示，美国30年期固定抵押贷款平均利率从一周前的6.69%降至6.67%，结束连续五周上涨，但仍处于一年多来的最高水平。最新数据显示，美国就业市场正在降温，伊朗战争对通胀的影响可能弱于此前预期。7月美国价格涨幅连续第二个月放缓，能源、汽油和食品价格均较上月下降，基础通胀指标降至五年来低位。结合就业报告，市场认为美国经济数据正在减轻美联储未来几个月加息压力，投资者预计9月加息25个基点概率从48%降至38%。不过，霍尔木兹海峡谈判停滞引发油价维持高位担忧，高利率和经济不确定性继续抑制房地产需求。数据显示，美国7月房屋销售量较6月下降4.1%，降至近两年来最低水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywi9819661.d.html</link>
+            <guid>5039888</guid>
+            <pubDate>Thu, 13 Aug 2026 16:28:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[萨斯喀彻温省省长表示，在8月19日关税截止日期前的最后几周，加拿大与美国的谈判已进入白热化阶段。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywa4519423.d.html</link>
+            <guid>5039887</guid>
+            <pubDate>Thu, 13 Aug 2026 16:27:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[萨斯喀彻温省省长斯科特·莫伊表示，谈判中存在若干敏感议题，乳制品便是其中之一，并称磋商进展令人鼓舞。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywa4519257.d.html</link>
+            <guid>5039886</guid>
+            <pubDate>Thu, 13 Aug 2026 16:27:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[哥伦比亚灾害管理部门称，地震死亡人数升至273人，仍有377人失踪。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywa4519056.d.html</link>
+            <guid>5039885</guid>
+            <pubDate>Thu, 13 Aug 2026 16:27:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大主要产粮省份萨斯喀彻温省省长斯科特·莫伊就加美贸易谈判表示，我们需要保持更广泛的目标，即审查并更新《美墨加协定》。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywh3046907.d.html</link>
+            <guid>5039884</guid>
+            <pubDate>Thu, 13 Aug 2026 16:26:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国一客运列车脱轨】当地时间8月13日下午，英国东萨塞克斯郡的刘易斯火车站附近发生客运列车脱轨事故。警方、急救人员及消防队已赶赴现场处置。目前尚未确认人员伤亡情况及事故具体原因。 位于刘易斯镇‌的这处火车站是英国南部铁路网络中的重要站点，主要服务于‌英国南方铁路公司‌运营的线路。英国铁路网公司及南方铁路公司表示已知悉脱轨事故，将在获取更多信息后及时公布。（CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywf3245948.d.html</link>
+            <guid>5039883</guid>
+            <pubDate>Thu, 13 Aug 2026 16:25:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以军空袭打死加沙市警察局长】当地时间13日，巴勒斯坦加沙地带内政部门发表声明说，以色列军方在加沙城西南沿海的拉希德公路空袭了加沙市警察局长阿布·卡米勒的车辆，致其身亡。当地消息人士和目击者称，以战机向该车辆发射3枚导弹，阿布·卡米勒当场身亡，另有3人受伤，车辆被完全摧毁。（央视新闻）]]></title>
+            <guid>5039882</guid>
+            <pubDate>Thu, 13 Aug 2026 16:20:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[钯金期货日内跌4%，现报1318.54美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywa4515301.d.html</link>
+            <guid>5039881</guid>
+            <pubDate>Thu, 13 Aug 2026 16:18:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽约期金失守4410美元/盎司，日内跌1.33%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywa4515169.d.html</link>
+            <guid>5039880</guid>
+            <pubDate>Thu, 13 Aug 2026 16:17:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息，意大利部长乌尔索预计西西里岛将迎来数据中心投资。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywh3043263.d.html</link>
+            <guid>5039879</guid>
+            <pubDate>Thu, 13 Aug 2026 16:16:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士称，底特律汽车制造商将向白宫表示，修订后的北美贸易协定可能令它们损失数十亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywa4514420.d.html</link>
+            <guid>5039878</guid>
+            <pubDate>Thu, 13 Aug 2026 16:16:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：沙特阿拉伯国防部长会见伊拉克武装部队总司令办公室主任，讨论军事和防务领域的关系。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywf3241330.d.html</link>
+            <guid>5039877</guid>
+            <pubDate>Thu, 13 Aug 2026 16:15:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：穆迪拟将秘鲁2026年GDP增长预估从3.0%上调至3.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywf3241212.d.html</link>
+            <guid>5039876</guid>
+            <pubDate>Thu, 13 Aug 2026 16:14:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Citadel甚至对部分分析师也施加了为期两年的竞业禁止协议】Ken Griffin 的 Citadel 公司要求投资人员（包括一些分析师）签署长达两年的竞业禁止协议。员工的竞业禁止期与员工的总薪酬挂钩，投资组合经理或分析师的收入越高，竞业禁止期就越长。该公司的竞业禁止协议可能会对员工的职业生涯产生影响，一位招聘人员表示，被禁赛两年“实际上会毁掉他们的职业生涯”。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywh3042035.d.html</link>
+            <guid>5039875</guid>
+            <pubDate>Thu, 13 Aug 2026 16:13:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【为月球正反面差异提供科学证据 嫦娥六号月壤研究取得新进展】记者近日从自然资源部中国地质调查局了解到，中国地质科学院地质研究所研究团队对嫦娥六号月壤样品的研究取得新进展，为破解月球正反面存在巨大差异的谜题提供了新证据。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywa4512318.d.html</link>
+            <guid>5039874</guid>
+            <pubDate>Thu, 13 Aug 2026 16:11:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥主要股指下跌1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywf3238160.d.html</link>
+            <guid>5039873</guid>
+            <pubDate>Thu, 13 Aug 2026 16:07:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【也门胡塞武装称使用无人机袭击沙特炼油厂】也门胡塞武装13日称，该组织当天使用无人机袭击了位于沙特阿拉伯西南部吉赞地区的一座沙特阿美公司炼油厂。据胡塞武装控制的萨巴通讯社消息，胡塞武装使用两架无人机袭击这座炼油厂，袭击非常“精准”。本月9日，也门胡塞武装表示，该组织使用无人机对位于吉赞的沙特阿美公司炼油厂发动了“精准打击”。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywa4510307.d.html</link>
+            <guid>5039872</guid>
+            <pubDate>Thu, 13 Aug 2026 16:05:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OPENAI：Denise Dresser将在过渡期结束后离开OPENAI，寻求其他发展机会。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywa4509915.d.html</link>
+            <guid>5039871</guid>
+            <pubDate>Thu, 13 Aug 2026 16:04:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OPENAI：还与CHAD PEETS和RPT PARTNERS建立了战略合作伙伴关系。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywi9811428.d.html</link>
+            <guid>5039870</guid>
+            <pubDate>Thu, 13 Aug 2026 16:03:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[OPENAI任命DALI RAJIC为首席营收官。]]></title>
             <link>https://finance.sina.cn/7x24/2026-08-14/detail-inineywf3236384.d.html</link>
@@ -38,272 +303,6 @@
             <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineywa4506917.d.html</link>
             <guid>5039865</guid>
             <pubDate>Thu, 13 Aug 2026 15:58:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[利比亚国家石油公司负责人：苏尔特石油公司已将哈蒂巴油田的一口新气井投产，日增天然气产能500万立方英尺。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineywa4506360.d.html</link>
-            <guid>5039864</guid>
-            <pubDate>Thu, 13 Aug 2026 15:56:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：OpenAI不到一年便聘任新任首席营收官。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineywa4506097.d.html</link>
-            <guid>5039863</guid>
-            <pubDate>Thu, 13 Aug 2026 15:55:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【也门政府军基地遭胡塞武装袭击 致3死15伤】也门政府军一名消息人士13日对记者说，胡塞武装当天使用无人机袭击了也门东南部哈德拉毛省一处政府军基地，造成至少3名政府军士兵死亡、15人受伤。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineywh3035906.d.html</link>
-            <guid>5039862</guid>
-            <pubDate>Thu, 13 Aug 2026 15:54:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CEREBRAS首席执行官表示，市场对AMD联合产品的需求巨大。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineywa4505577.d.html</link>
-            <guid>5039861</guid>
-            <pubDate>Thu, 13 Aug 2026 15:53:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CEREBRAS首席执行官：公司业务将以惊人的速度增长。数据中心对所有人来说都是一个挑战。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineywa4504642.d.html</link>
-            <guid>5039860</guid>
-            <pubDate>Thu, 13 Aug 2026 15:50:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【荷兰警方确认鹿特丹港爆炸系工作事故】荷兰鹿特丹警方13日初步确认，当天发生在鹿特丹港一家能源公司厂区的爆炸属于工作事故。警方在声明中说，目前来看爆炸是一起工作事故。荷兰社会事务与就业部将对事故进行继续调查，并负责处理后续事宜。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineywf3231444.d.html</link>
-            <guid>5039859</guid>
-            <pubDate>Thu, 13 Aug 2026 15:49:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西国家统计局表示，部分客户没有可用的数据中心。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineywh3033829.d.html</link>
-            <guid>5039858</guid>
-            <pubDate>Thu, 13 Aug 2026 15:47:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国在伊朗战争中损失了约25%的“死神”无人机。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineywh3033412.d.html</link>
-            <guid>5039857</guid>
-            <pubDate>Thu, 13 Aug 2026 15:46:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[智利中央银行以平均每份913.00智利比索的价格卖出7300万美元外汇远期合约。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineywf3230101.d.html</link>
-            <guid>5039856</guid>
-            <pubDate>Thu, 13 Aug 2026 15:45:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗最高领袖顾问：若条件得不到满足 或升级冲突】伊朗最高领袖顾问穆赫贝尔13日在社交媒体上发文说，如果伊朗提出的条件得不到满足，最高领袖已明确作出战略决策，将采取升级冲突的方式予以回应。穆赫贝尔说，当前局势已证明美国缺乏保护其波斯湾盟友的能力。他还表示，建立地区新秩序最为持久的路径，在于推动实施“霍尔木兹经济安全机制”，以摆脱对美国军事保障的依赖。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineywf3229721.d.html</link>
-            <guid>5039855</guid>
-            <pubDate>Thu, 13 Aug 2026 15:44:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亿万富豪阿克曼旗下Pershing将推出首支风险投资基金 押注IPO前企业】对冲基金亿万富豪比尔·阿克曼旗下投资公司正在筹备一项新的投资工具，让投资者能够投资首次公开募股（IPO）前的公司，成为又一家推出新基金、为投资者提供高增长初创企业投资敞口的公司。阿克曼和公司首席投资官Ryan Israel周三在致股东信中表示，Pershing Square Inc.已启动Pershing Square Ventures Ltd.基金的筹备工作。这是一种常青型永久资本投资工具，在所投企业上市后仍可继续持有其股份。]]></title>
-            <guid>5039854</guid>
-            <pubDate>Thu, 13 Aug 2026 15:43:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美媒：美国将向中东部署“华盛顿”号航母】美国《华尔街日报》13日援引美官员的话报道，美国正准备将“乔治·华盛顿”号航母部署到中东，以替换“亚伯拉罕·林肯”号航母。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineywa4501579.d.html</link>
-            <guid>5039853</guid>
-            <pubDate>Thu, 13 Aug 2026 15:42:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【尼泊尔西部发生山体滑坡 已致10人死亡】近日，尼泊尔西部罗尔帕地区连降暴雨并引发山体滑坡。当地警方表示，截至当地时间13日，灾害已造成至少10人死亡。当地警方通报称，此次山体滑坡掩埋了多栋建筑。救援人员和医疗卫生工作组已赶赴灾区现场。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineywa4501306.d.html</link>
-            <guid>5039852</guid>
-            <pubDate>Thu, 13 Aug 2026 15:42:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[洲际交易所英国9月天然气期货结算价为148.48便士/撒姆。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineywa4500902.d.html</link>
-            <guid>5039851</guid>
-            <pubDate>Thu, 13 Aug 2026 15:41:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[闪迪高管称公司预计明年向客户交付首批用于推理设备的HBF样品。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineywa4500358.d.html</link>
-            <guid>5039850</guid>
-            <pubDate>Thu, 13 Aug 2026 15:40:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[闪迪高管称公司已完成首款高带宽闪存芯片的流片。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineywf3227199.d.html</link>
-            <guid>5039849</guid>
-            <pubDate>Thu, 13 Aug 2026 15:38:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【工业旅游市场有望突破3000亿元】七部门出台政策扶持工业旅游，开放产线观摩、手工体验等多元业态。2025年国内工业旅游总收入1200亿元，同比增长10%。研究机构预测，中国工业旅游年均增速达18%，2029年市场有望突破3000亿元，产业增长空间广阔。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineywa4499192.d.html</link>
-            <guid>5039848</guid>
-            <pubDate>Thu, 13 Aug 2026 15:37:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西CSN公司首席财务官称，该公司仍在为旗下钢铁业务分析战略可能性，这些可能性"将提升该业务的现金创造能力"。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineywa4498919.d.html</link>
-            <guid>5039847</guid>
-            <pubDate>Thu, 13 Aug 2026 15:36:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【报道称AMD拟通过债券发行融资高达50亿美元】据报道，AMD拟通过债券发行融资高达50亿美元，或为该公司史上最大规模投资级债券发行，加入AI热潮驱动的企业发债浪潮。据知情人士透露，此次发行的最终规模尚未确定，可能根据需求进行调整。另一位知情人士表示，AMD将分四批发行票据，期限从3年到10年不等。最长期限品种的初始价格指引为较美国国债收益率溢价1.15个百分点。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineywf3226056.d.html</link>
-            <guid>5039846</guid>
-            <pubDate>Thu, 13 Aug 2026 15:36:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【高争民爆：上半年净利润同比下降53.11%】高争民爆公告显示，2026年上半年营业收入7.32亿元，同比下降5.16%；净利润3245.04万元，同比下降53.11%。其中，第二季度净利润环比第一季度增长142%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineywf3226041.d.html</link>
-            <guid>5039845</guid>
-            <pubDate>Thu, 13 Aug 2026 15:35:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：马克·沃尔特质押古根海姆股份，用以快速获取贷款。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineywf3226019.d.html</link>
-            <guid>5039844</guid>
-            <pubDate>Thu, 13 Aug 2026 15:35:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【高盛副董事长称美联储7月未加息绝对正确 或可“拖一拖”观察更多信号】高盛集团副董事长、前达拉斯联储银行行长Robert Kaplan表示，美联储7月没有加息“绝对”是正确的决定，并呼吁决策者在9月前保持开放态度。Kaplan认为，当前推升和压低通胀的力量相互交织，过于僵化的前瞻指引反而可能适得其反。“如果我看到有切实的改善，我可能愿意拖一拖，什么都不做，”Kaplan表示。“但在作出判断前，我希望充分利用从现在到9月的每一点时间，避免过于僵化或提前确定立场。”]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineywf3225636.d.html</link>
-            <guid>5039843</guid>
-            <pubDate>Thu, 13 Aug 2026 15:34:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国大使馆称已在墨西哥米却肯州恢复相关活动。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineywa4497932.d.html</link>
-            <guid>5039842</guid>
-            <pubDate>Thu, 13 Aug 2026 15:34:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华盛顿号赴中东换防 林肯号舰员身心俱疲遭议员问责】据报道，知情美国官员称，美国正准备按此前计划好的轮换方案，派遣“华盛顿”号航空母舰前往中东接替“林肯”号。“林肯”号已执行了漫长的部署任务，停靠港口次数极少，引发国会议员对舰上生活条件的担忧。“林肯”号于去年11月开始按计划部署，并于今年1月在对伊开战前被调往中东。该航母及其搭载的飞机在美国“史诗之怒”轰炸行动中发挥了关键作用，此后还参与了美国对伊朗港口的封锁。据国会议员称，高强度的作战节奏和长时间部署带来的压力已令舰员不堪重负。他们正向五角大楼施压，要求提供更多关于舰上生活条件和心理健康问题的信息。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineywa4497642.d.html</link>
-            <guid>5039841</guid>
-            <pubDate>Thu, 13 Aug 2026 15:33:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国八周期国库券的投标/承销比率为2.85，高于上一次拍卖的2.74。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineywf3224839.d.html</link>
-            <guid>5039840</guid>
-            <pubDate>Thu, 13 Aug 2026 15:32:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：新的航空母舰将取代林肯号航母。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineywi9800708.d.html</link>
-            <guid>5039839</guid>
-            <pubDate>Thu, 13 Aug 2026 15:31:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲STOXX指数上涨0.18%；欧元区蓝筹股上涨0.16%。]]></title>
-            <guid>5039838</guid>
-            <pubDate>Thu, 13 Aug 2026 15:31:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国CAC 40指数下跌0.29%；西班牙IBEX指数下跌0.1%。]]></title>
-            <guid>5039837</guid>
-            <pubDate>Thu, 13 Aug 2026 15:31:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国富时100指数下跌0.69%；德国DAX指数下跌0.15%。]]></title>
-            <guid>5039836</guid>
-            <pubDate>Thu, 13 Aug 2026 15:31:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国法官驳回特朗普政府指控哈佛大学未能保护犹太学生的诉讼。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineywf3224299.d.html</link>
-            <guid>5039835</guid>
-            <pubDate>Thu, 13 Aug 2026 15:30:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[闪迪高管称，Meta将加入联盟，共同制定高带宽闪存开放标准。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineywf3224260.d.html</link>
-            <guid>5039834</guid>
-            <pubDate>Thu, 13 Aug 2026 15:30:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[京东在美国上市的股票跌幅扩大，最新下跌7.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineywf3224196.d.html</link>
-            <guid>5039833</guid>
-            <pubDate>Thu, 13 Aug 2026 15:30:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳斯达克中国金龙指数跌超2%，京东跌7.87%，盛丰物流跌6.28%，中比能源跌4.81%，Tims中国跌4.71%，满帮跌4.64%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineywf3224009.d.html</link>
-            <guid>5039832</guid>
-            <pubDate>Thu, 13 Aug 2026 15:29:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行货币政策委员会委员就英国GDP数据发表看法：这朝着让我确信我们并未陷入急剧衰退的方向发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineywa4496420.d.html</link>
-            <guid>5039831</guid>
-            <pubDate>Thu, 13 Aug 2026 15:29:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国将向中东派遣新型航空母舰。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineywf3223644.d.html</link>
-            <guid>5039830</guid>
-            <pubDate>Thu, 13 Aug 2026 15:28:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[柴油裂解价差<HOc1-CLc1>升至每桶98美元上方，创历史新高，此前有报道称也门胡塞武装袭击了沙特阿拉伯的阿美炼油厂。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineywi9799308.d.html</link>
-            <guid>5039829</guid>
-            <pubDate>Thu, 13 Aug 2026 15:26:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[闪迪(SNDK.O)持续走高，涨幅扩大至15%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineywa4494893.d.html</link>
-            <guid>5039828</guid>
-            <pubDate>Thu, 13 Aug 2026 15:24:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：AMD拟通过发债募资至多50亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineywa4494626.d.html</link>
-            <guid>5039827</guid>
-            <pubDate>Thu, 13 Aug 2026 15:24:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国防部长赫格塞思称，关于“亚伯拉罕·林肯”号航母上状况的报道存在失实陈述。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineywa4493314.d.html</link>
-            <guid>5039826</guid>
-            <pubDate>Thu, 13 Aug 2026 15:21:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国原油期货<CLc1>和布兰特原油期货<LCOc1>缩减跌幅，下跌1美元，此前有报导称，胡塞武装用两架无人机袭击了沙特阿美在吉赞的炼油厂。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineywa4493006.d.html</link>
-            <guid>5039825</guid>
-            <pubDate>Thu, 13 Aug 2026 15:20:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国防部长赫格塞思就伊朗问题表态：美国可根据需要长时间实施封锁。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineywi9796899.d.html</link>
-            <guid>5039824</guid>
-            <pubDate>Thu, 13 Aug 2026 15:19:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[哥伦比亚Cerrejon煤矿称，周四早些时候其位于拉瓜希拉省的铁路基础设施遭袭，未接获人员伤亡报告。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineywa4492516.d.html</link>
-            <guid>5039823</guid>
-            <pubDate>Thu, 13 Aug 2026 15:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲斯托克600指数<.STOXX>转跌，最新报跌0.03%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineuqe4622836.d.html</link>
-            <guid>5039822</guid>
-            <pubDate>Thu, 13 Aug 2026 15:17:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[闪迪股价涨幅超过10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineuqi3349106.d.html</link>
-            <guid>5039821</guid>
-            <pubDate>Thu, 13 Aug 2026 15:13:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：飞利浦发现并遏制了一次网络安全入侵企图。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-13/detail-inineuqi3349059.d.html</link>
-            <guid>5039820</guid>
-            <pubDate>Thu, 13 Aug 2026 15:13:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
