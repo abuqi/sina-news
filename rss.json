@@ -6,6 +6,144 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 5041901,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkw3827116.d.html",
+            "title": "市场消息：DOT AI宣布收到退市通知，并表示将提起上诉。",
+            "date_modified": "2026-08-14T19:00:30.000Z"
+        },
+        {
+            "id": 5041900,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkw3826968.d.html",
+            "title": "恒指期货夜盘收涨0.62%，报25250.28点，高水133.43点。",
+            "date_modified": "2026-08-14T19:00:02.000Z"
+        },
+        {
+            "id": 5041899,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2553773.d.html",
+            "title": "市场消息：COINBASE、A16Z、KALSHI等公司将参加在白宫举行的会议。",
+            "date_modified": "2026-08-14T18:57:45.000Z"
+        },
+        {
+            "id": 5041898,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2553383.d.html",
+            "title": "市场消息：特朗普预计将参加预测市场相关会议。",
+            "date_modified": "2026-08-14T18:56:33.000Z"
+        },
+        {
+            "id": 5041897,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkw3824525.d.html",
+            "title": "【老虎环球Q2建仓SpaceX和AMD 减持谷歌、台积电、英伟达等】老虎环球基金二季度大规模调仓。减持方面：博通削减51.1%至180万股，谷歌A削减45.4%至580万股A类股，台积电削减12.3%至490万份ADS，微软削减9.3%至230万股，Meta Platforms削减8.5%至280万股A类股，英伟达削减6.8%至1120万股，京东削减41.5%至20.15万份ADS。增持方面，英特尔增持至430万股。新建仓AMD67.4万股以及SpaceX37.5万股。清仓奈飞。",
+            "date_modified": "2026-08-14T18:53:00.000Z"
+        },
+        {
+            "id": 5041896,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqma2248611.d.html",
+            "title": "市场消息：摩根大通终止与POLYMARKET的银行业务关系。",
+            "date_modified": "2026-08-14T18:39:43.000Z"
+        },
+        {
+            "id": 5041895,
+            "content_html": "",
+            "title": "香港天文台发布黄色暴雨警告。",
+            "date_modified": "2026-08-14T18:36:52.000Z"
+        },
+        {
+            "id": 5041894,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikcf9149453.d.html",
+            "title": "Alphabet旗下自动驾驶公司Waymo： 加州公用事业委员会批准其在旧金山、洛杉矶扩大自动驾驶网约车服务。",
+            "date_modified": "2026-08-14T18:31:54.000Z"
+        },
+        {
+            "id": 5041893,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikce2376557.d.html",
+            "title": "上期所原油期货夜盘收涨1.38%，报558.10元人民币/桶。沪金夜盘收涨0.60%，沪银收涨0.57%。",
+            "date_modified": "2026-08-14T18:30:02.000Z"
+        },
+        {
+            "id": 5041892,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikay3946345.d.html",
+            "title": "  迪士尼执行副总裁：约 40% 的 Disney + 用户使用过竖版视频功能。",
+            "date_modified": "2026-08-14T18:27:36.000Z"
+        },
+        {
+            "id": 5041891,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikcc2672107.d.html",
+            "title": "  据以色列第 13 频道消息：据悉以色列原本计划在叙利亚发动新一轮打击，但遭到特朗普介入阻止。",
+            "date_modified": "2026-08-14T18:22:33.000Z"
+        },
+        {
+            "id": 5041890,
+            "content_html": "",
+            "title": "Tiger Global披露二季度13F持仓：减持Alphabet、博通、Spotify、Meta等；同时新建AMD、希捷、Visa、丹纳赫等仓位。增持Intuit、Corpay、Reddit、MercadoLibre等；退出AppLovin、Netflix、Zscaler、Procore等。",
+            "date_modified": "2026-08-14T18:19:48.000Z"
+        },
+        {
+            "id": 5041889,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikay3941059.d.html",
+            "title": "白宫新闻秘书莱维特：美国可以继续制裁伊朗，重创其经济。",
+            "date_modified": "2026-08-14T18:12:33.000Z"
+        },
+        {
+            "id": 5041888,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikay3940839.d.html",
+            "title": "白宫新闻秘书莱维特：（谈及对伊朗施压）我们手上还有更多可用手段。",
+            "date_modified": "2026-08-14T18:12:05.000Z"
+        },
+        {
+            "id": 5041887,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikay3940619.d.html",
+            "title": "  加拿大汽车工人工会表示，已收到斯特兰蒂斯集团通知，该集团正认真考虑关闭并出售安大略省布兰普顿工厂。",
+            "date_modified": "2026-08-14T18:11:24.000Z"
+        },
+        {
+            "id": 5041885,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikcc2667215.d.html",
+            "title": "英国政府发布关于野火风险的严重警报，称发生野火的风险极高。",
+            "date_modified": "2026-08-14T18:08:42.000Z"
+        },
+        {
+            "id": 5041884,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikcc2666633.d.html",
+            "title": "  老虎环球管理有限责任公司披露持有 SpaceX 375000 股 A 类股份。",
+            "date_modified": "2026-08-14T18:07:00.000Z"
+        },
+        {
+            "id": 5041883,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikay3938474.d.html",
+            "title": "【德国农民协会：高温干旱或致部分地区农作物减产甚至绝收】当地时间14日，德国农民协会表示，受持续高温干旱影响，今年德国农业可能出现明显减产。德国农民协会主席约阿希姆·鲁克维德表示，今年小麦和油菜籽的产量预计将低于平均水平，玉米、大豆等秋季作物也可能出现较大幅度减产。鲁克维德说，德国南部受干旱影响尤为严重，农作物面临绝收的风险。他还指出，持续高温和干旱还导致饲料作物减产，畜牧业也受到影响。（央视新闻）",
+            "date_modified": "2026-08-14T18:04:44.000Z"
+        },
+        {
+            "id": 5041882,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikcc2663494.d.html",
+            "title": "博通股价跌幅扩大至6.7%，创6月5日以来最大单日跌幅。",
+            "date_modified": "2026-08-14T18:00:18.000Z"
+        },
+        {
+            "id": 5041881,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikay3935443.d.html",
+            "title": "市场消息：智利国家铜业公司（Codelco）将关停丘基卡马塔铜矿与阿莱斯部长铜矿。",
+            "date_modified": "2026-08-14T17:58:00.000Z"
+        },
+        {
             "id": 5041880,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikcc2661304.d.html",
@@ -212,146 +350,6 @@
             "content_html": "",
             "title": "LME期铜收涨12美元，报14160美元/吨。LME期铝收跌6美元，报3252美元/吨。LME期锌收涨5美元，报3756美元/吨。LME期铅收涨8美元，报1895美元/吨。LME期镍收涨39美元，报16815美元/吨。LME期锡收涨340美元，报56194美元/吨。LME期钴收平，报56290美元/吨。",
             "date_modified": "2026-08-14T16:58:24.000Z"
-        },
-        {
-            "id": 5041850,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikcf9120805.d.html",
-            "title": "美国参议员沃伦： OPFI 存在 “掠夺性放贷前科”，引发担忧。",
-            "date_modified": "2026-08-14T16:56:05.000Z"
-        },
-        {
-            "id": 5041849,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikcc2640691.d.html",
-            "title": "美国参议员沃伦在致联邦存款保险公司的信函中对 OPFI 收购 BNC 一事提出质疑。",
-            "date_modified": "2026-08-14T16:54:02.000Z"
-        },
-        {
-            "id": 5041848,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikcc2639415.d.html",
-            "title": "马斯克：受地面电力供给与审批许可问题制约，到 2029 年前后，轨道计算或将成为人工智能实现规模扩张的唯一途径。",
-            "date_modified": "2026-08-14T16:50:14.000Z"
-        },
-        {
-            "id": 5041847,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikce2346386.d.html",
-            "title": "市场消息：加美会谈探讨关键矿产与防务议题。",
-            "date_modified": "2026-08-14T16:48:43.000Z"
-        },
-        {
-            "id": 5041846,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikcf9118716.d.html",
-            "title": "美国据称更倾向于对古巴施加经济压力，而不是动用军事手段。",
-            "date_modified": "2026-08-14T16:48:29.000Z"
-        },
-        {
-            "id": 5041845,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikcc2638279.d.html",
-            "title": "加拿大外长阿南德：加拿大对五名伊朗人实施额外制裁，实施制裁系因霍尔木兹海峡航运遭阻挠。",
-            "date_modified": "2026-08-14T16:46:49.000Z"
-        },
-        {
-            "id": 5041844,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikcc2637048.d.html",
-            "title": "【美联储暂停准备金管理国库券购买出人意料 华尔街料至少暂停至10月】美联储表示下一操作期内不会出于准备金管理目的买入美国国库券后，华尔街策略师正在调整对其未来月度国库券购买规模的预期。美联储这一决定意味着，自准备金管理购买(RMP)计划于2025年12月启动以来，首次暂停此类购买，暂停期为截至9月14日的月度操作期。美联储表示，期间仍计划进行约170亿美元的再投资购买。这一举措令策略师感到意外。此前市场普遍预计，美联储政策制定者会将准备金管理购买规模维持在100亿美元，美国银行甚至认为存在增至150亿美元的可能。如今，从美国银行到富国银行和道明证券的策略师都预计，准备金管理购买的暂停至少会持续到10月，之后才可能恢复。",
-            "date_modified": "2026-08-14T16:43:41.000Z"
-        },
-        {
-            "id": 5041842,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikcf9115793.d.html",
-            "title": "【Rokos效仿多策略基金 将客户完全赎回期限延长至三年】Chris Rokos正将部分投资者从其宏观对冲基金中赎回全部资金所需的时间延长至原来的三倍，效仿规模更大的多策略基金，将客户资金锁定更长时间。据知情人士透露，总部位于伦敦的Rokos Capital Management正在引入一项每季度8.33%的投资者层面赎回限制，这意味着投资者完全赎回资金最长需要三年。相比之下，目前的安排是最长一年，每季度可赎回25%。知情人士表示，此举旨在逐步将基金的资本结构转向期限更长的资金。",
-            "date_modified": "2026-08-14T16:40:06.000Z"
-        },
-        {
-            "id": 5041841,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikay3907147.d.html",
-            "title": "【古尔斯比寻求更多通胀降温的证据】芝加哥联邦储备银行行长古尔斯比表示，美国通胀近期的改善令他受到鼓舞，但还需要连续数月出现同类数据，才能确信通胀正持续向美联储 2% 的目标回落。他称通胀是自己首要关切，同时表示美国经济在增长与劳动力市场方面 “基本保持稳定”。古尔斯比在 7 月议息会议上支持维持利率不变，鉴于通胀长期高于目标水平，他依旧持谨慎态度。\n近期通胀数据走弱、7 月零售销售疲软以及就业增长相对平淡，已经使得投资者下调美联储加息预期。目前市场预计 9 月加息概率约 30%，而一个月前市场对此的预期要高得多。古尔斯比同时警告，人工智能等技术带来的生产率提升，并不天然支持下调利率，因为大规模投资支出最终可能造成经济过热。",
-            "date_modified": "2026-08-14T16:37:34.000Z"
-        },
-        {
-            "id": 5041840,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikcc2633547.d.html",
-            "title": "美联储古尔斯比：生产率若持续下滑，将改变人工智能相关预期。",
-            "date_modified": "2026-08-14T16:35:08.000Z"
-        },
-        {
-            "id": 5041839,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikay3906087.d.html",
-            "title": "美联储古尔斯比： 零售销售疲软仅为单月数据。",
-            "date_modified": "2026-08-14T16:34:55.000Z"
-        },
-        {
-            "id": 5041838,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikce2341644.d.html",
-            "title": "美联储古尔斯比：消费持续走弱将令人担忧。",
-            "date_modified": "2026-08-14T16:34:39.000Z"
-        },
-        {
-            "id": 5041837,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikcf9113918.d.html",
-            "title": "美联储古尔斯比： 对 CPI 报告感到鼓舞，但仍需更多数据。",
-            "date_modified": "2026-08-14T16:34:21.000Z"
-        },
-        {
-            "id": 5041836,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikcf9113828.d.html",
-            "title": "美联储古尔斯比：此前两次生产率数据表现十分糟糕。",
-            "date_modified": "2026-08-14T16:34:04.000Z"
-        },
-        {
-            "id": 5041835,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikcc2633082.d.html",
-            "title": "美联储古尔斯比：支持 7 月维持利率不变的决议。",
-            "date_modified": "2026-08-14T16:33:51.000Z"
-        },
-        {
-            "id": 5041834,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikcc2632974.d.html",
-            "title": "美联储古尔斯比：美国国内生产总值与劳动力市场 “基本保持稳定” 。",
-            "date_modified": "2026-08-14T16:33:30.000Z"
-        },
-        {
-            "id": 5041833,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikay3905232.d.html",
-            "title": "  软银集团：持股变动数据截至 2026 年 6 月 30 日，对比基准为 2026 年 3 月 31 日结束的上一季度。",
-            "date_modified": "2026-08-14T16:32:29.000Z"
-        },
-        {
-            "id": 5041832,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikcc2630817.d.html",
-            "title": "  罗马尼亚国防部表示，该国靠近乌克兰边境的领土境内发现第二架无人机。",
-            "date_modified": "2026-08-14T16:27:14.000Z"
-        },
-        {
-            "id": 5041831,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikcc2630711.d.html",
-            "title": "文件显示软银将其在台积电的持股削减71.5%至565000ADS。",
-            "date_modified": "2026-08-14T16:26:44.000Z"
-        },
-        {
-            "id": 5041830,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikay3903047.d.html",
-            "title": "  CAPRICORN INVESTMENT 持有 SpaceX 1.208 亿股股份， 价值 206.4 亿美元。",
-            "date_modified": "2026-08-14T16:26:08.000Z"
         }
     ]
 }
