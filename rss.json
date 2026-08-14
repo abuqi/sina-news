@@ -6,352 +6,354 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 5041980,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqma2281058.d.html",
+            "title": "美国国家飓风中心预测，拉拉飓风将于周六给夏威夷大岛带来飓风天气。",
+            "date_modified": "2026-08-14T20:34:39.000Z"
+        },
+        {
+            "id": 5041979,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqmc9053344.d.html",
+            "title": "哈佛大学披露持有SpaceX价值22亿美元的股权。",
+            "date_modified": "2026-08-14T20:34:22.000Z"
+        },
+        {
+            "id": 5041978,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2584103.d.html",
+            "title": "美国国家飓风中心表示，飓风赫尔南几乎停滞不前，并减弱为热带低气压。",
+            "date_modified": "2026-08-14T20:34:15.000Z"
+        },
+        {
+            "id": 5041977,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2584036.d.html",
+            "title": "【美媒：美对古战略侧重经济制裁而非军事选项】据美国彭博社14日报道，特朗普政府对古巴的战略正日益侧重于加大经济制裁和施压，而非部署军事力量。报道援引不愿透露姓名的知情人士的话说，美方目前关注重点在于切断古巴政权的所有收入来源，而不是采取类似今年1月针对委内瑞拉总统马杜罗的那种军事行动，并称该战略“旨在制造内部分裂，为谈判创造空间”。（新华社）",
+            "date_modified": "2026-08-14T20:33:58.000Z"
+        },
+        {
+            "id": 5041976,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkw3855741.d.html",
+            "title": "特朗普在纽约的活动上结束讲话。",
+            "date_modified": "2026-08-14T20:31:33.000Z"
+        },
+        {
+            "id": 5041975,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqmc9052069.d.html",
+            "title": "市场消息：英伟达在SpaceX的持股价值约210亿美元。",
+            "date_modified": "2026-08-14T20:29:12.000Z"
+        },
+        {
+            "id": 5041974,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2582196.d.html",
+            "title": "市场消息：阿波罗债务解决方案公司将最高收购股东提交的2900万股要约股份。",
+            "date_modified": "2026-08-14T20:27:50.000Z"
+        },
+        {
+            "id": 5041973,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2581382.d.html",
+            "title": "特朗普：伊朗货币毫无价值。",
+            "date_modified": "2026-08-14T20:24:58.000Z"
+        },
+        {
+            "id": 5041972,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqma2278580.d.html",
+            "title": "特朗普：伊朗仍然拥有导弹和无人机，但不多。",
+            "date_modified": "2026-08-14T20:24:43.000Z"
+        },
+        {
+            "id": 5041971,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2581340.d.html",
+            "title": "特朗普重申伊朗已无防御力量。",
+            "date_modified": "2026-08-14T20:24:37.000Z"
+        },
+        {
+            "id": 5041970,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkw3853669.d.html",
+            "title": "特朗普：我们在伊朗问题上取得了重大胜利。",
+            "date_modified": "2026-08-14T20:23:57.000Z"
+        },
+        {
+            "id": 5041969,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkw3853630.d.html",
+            "title": "特朗普：每周从委内瑞拉获取数百万桶石油。",
+            "date_modified": "2026-08-14T20:23:35.000Z"
+        },
+        {
+            "id": 5041968,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkw3852814.d.html",
+            "title": "特朗普发言吹捧美国股市。",
+            "date_modified": "2026-08-14T20:20:56.000Z"
+        },
+        {
+            "id": 5041967,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkw3852511.d.html",
+            "title": "索罗斯基金管理有限责任公司将亚马逊持股削减39.2%，至120万股。",
+            "date_modified": "2026-08-14T20:19:57.000Z"
+        },
+        {
+            "id": 5041966,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2579492.d.html",
+            "title": "索罗斯基金管理有限责任公司增持苹果公司股份5.8%，至529,538股。",
+            "date_modified": "2026-08-14T20:18:24.000Z"
+        },
+        {
+            "id": 5041965,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqma2276836.d.html",
+            "title": "【伯克希尔·哈撒韦第二季度增持谷歌】伯克希尔·哈撒韦在第二季度清仓了星座品牌（STZ）；减持了克罗格（KR）、第一资本金融（COF）、纽柯钢铁（NUE）、Ally金融（ALLY）、达维塔（DVA）。增持了谷歌A（GOOGL）、谷歌（GOOG）、达美航空（DAL）、莱纳房屋（LEN）、梅西百货（M）。",
+            "date_modified": "2026-08-14T20:18:04.000Z"
+        },
+        {
+            "id": 5041964,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkw3851907.d.html",
+            "title": "受伯克希尔哈撒韦公司13F文件显示增持股份影响，梅西百货股价上涨1.2%。",
+            "date_modified": "2026-08-14T20:18:01.000Z"
+        },
+        {
+            "id": 5041963,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkw3851883.d.html",
+            "title": "特朗普：美国有能力摧毁伊朗，但我们不想那样做。",
+            "date_modified": "2026-08-14T20:17:51.000Z"
+        },
+        {
+            "id": 5041962,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqma2276596.d.html",
+            "title": "市场消息：有报道称美伊停火协议目前暂无延期计划。",
+            "date_modified": "2026-08-14T20:17:11.000Z"
+        },
+        {
+            "id": 5041961,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2578892.d.html",
+            "title": "市场消息：白宫官员称美伊局势“稳定”。",
+            "date_modified": "2026-08-14T20:16:33.000Z"
+        },
+        {
+            "id": 5041960,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2578685.d.html",
+            "title": "美国银行存款从前一周的19.368万亿美元增至19.496万亿美元。",
+            "date_modified": "2026-08-14T20:16:08.000Z"
+        },
+        {
+            "id": 5041959,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkw3850286.d.html",
+            "title": "D.R. HORTON股价盘后上涨3.3%。",
+            "date_modified": "2026-08-14T20:13:20.000Z"
+        },
+        {
+            "id": 5041958,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkw3850104.d.html",
+            "title": "APPALOOSA第二季度减持阿里巴巴、惠而浦、高通、AMD和美光。清仓闪迪、康宁、拼多多、L3HARRIS和RTX。",
+            "date_modified": "2026-08-14T20:12:38.000Z"
+        },
+        {
+            "id": 5041957,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqma2275320.d.html",
+            "title": "美国国家铁路客运公司（Amtrak）：新建中西部维修设施预计将在约18个月的开发建设阶段创造约3000个就业岗位。",
+            "date_modified": "2026-08-14T20:12:07.000Z"
+        },
+        {
+            "id": 5041956,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqma2275072.d.html",
+            "title": "美国铁路公司(Amtrak)：获得最高5.72亿美元及最高8700万美元的拨款，将用于解决芝加哥长期存在的铁路基础设施需求。",
+            "date_modified": "2026-08-14T20:11:11.000Z"
+        },
+        {
+            "id": 5041955,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqmc9047438.d.html",
+            "title": "伯克希尔哈撒韦公司增持达美航空股份44.0%，至5,730万股。",
+            "date_modified": "2026-08-14T20:11:03.000Z"
+        },
+        {
+            "id": 5041954,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2576955.d.html",
+            "title": "COATUE MANAGEMENT LLC将微软持股增加18.4%至290万股。",
+            "date_modified": "2026-08-14T20:10:45.000Z"
+        },
+        {
+            "id": 5041953,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2576445.d.html",
+            "title": "维京全球投资公司清仓谷歌母公司Alphabet Inc A类普通股股份。增持META PLATFORMS INC A类股股份75.8%，至190万股。",
+            "date_modified": "2026-08-14T20:08:55.000Z"
+        },
+        {
+            "id": 5041952,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2576359.d.html",
+            "title": "市场消息：维京全球投资公司减持微软公司股份36.8%，至150万股。",
+            "date_modified": "2026-08-14T20:08:33.000Z"
+        },
+        {
+            "id": 5041951,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2576112.d.html",
+            "title": "市场消息：维京全球投资公司清仓苹果公司股份。",
+            "date_modified": "2026-08-14T20:07:56.000Z"
+        },
+        {
+            "id": 5041950,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2574926.d.html",
+            "title": "【特朗普声称将宣布霍尔木兹海峡为“美国领土”】美国总统特朗普14日在白宫发表讲话谈及伊朗问题时，宣称“很快就会宣布霍尔木兹海峡成为美国的领土”。（新华社）",
+            "date_modified": "2026-08-14T20:04:07.000Z"
+        },
+        {
+            "id": 5041949,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2574849.d.html",
+            "title": "本周，标普500指数上涨0.4%，道指下跌0.6%，纳斯达克指数上涨0.1%。",
+            "date_modified": "2026-08-14T20:03:48.000Z"
+        },
+        {
+            "id": 5041948,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkw3846664.d.html",
+            "title": "市场消息：美国银行监管机构向与特朗普有关联的世界自由信托公司有条件批准其银行牌照。",
+            "date_modified": "2026-08-14T20:01:53.000Z"
+        },
+        {
+            "id": 5041947,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkw3846463.d.html",
+            "title": "维京集团股价收盘下跌7.7%，创下自2025年4月以来最大跌幅。",
+            "date_modified": "2026-08-14T20:00:58.000Z"
+        },
+        {
+            "id": 5041946,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2573862.d.html",
+            "title": "【美股收盘：三大股指集体收跌】道指跌0.20%，标普500指数跌0.17%，纳指跌0.28%。博通跌5.94%，GoDaddy跌5.59%，应用材料跌5.12%，Strategy跌4.18%，罗宾汉跌3.83%。“七姐妹”方面：特斯拉涨0.68%，苹果涨0.22%，英伟达跌0.06%，谷歌跌0.12%，微软跌0.30%，Meta Platforms跌0.86%，亚马逊跌0.94%。",
+            "date_modified": "2026-08-14T20:00:48.000Z"
+        },
+        {
+            "id": 5041944,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2573593.d.html",
+            "title": "【纳斯达克中国金龙指数收涨0.54%】嘉楠科技涨6.03%，斗鱼涨4.22%，中进医疗涨3.99%，搜狐涨3.87%，华住酒店集团涨3.38%。",
+            "date_modified": "2026-08-14T20:00:02.000Z"
+        },
+        {
+            "id": 5041943,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqmc9043567.d.html",
+            "title": "PAYPAL股价放量上涨，此前有报道其正与Stripe和Advent International进行交易谈判。",
+            "date_modified": "2026-08-14T19:57:20.000Z"
+        },
+        {
+            "id": 5041942,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqmc9043411.d.html",
+            "title": "特朗普：封锁势不可挡。",
+            "date_modified": "2026-08-14T19:56:36.000Z"
+        },
+        {
+            "id": 5041941,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2572524.d.html",
+            "title": "特朗普谈伊朗：美国只需为汽油付出一点点代价。",
+            "date_modified": "2026-08-14T19:56:21.000Z"
+        },
+        {
+            "id": 5041940,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2572474.d.html",
+            "title": "【也门摩卡港遭导弹袭击 胡塞武装称打击沙特目标】当地时间14日，也门胡塞武装发言人叶海亚称，胡塞武装在摩卡地区发射多枚弹道导弹，打击沙特方面的军事集结点、武器装备及其控制的军舰。叶海亚称，袭击命中目标，摧毁军舰装备，造成数十名武装人员死伤，并表示将持续打击沙特军事集结目标。（央视新闻）",
+            "date_modified": "2026-08-14T19:56:15.000Z"
+        },
+        {
+            "id": 5041939,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkw3845006.d.html",
+            "title": "【特朗普称将在经济上对伊朗实施严厉打击】当地时间8月14日，美国总统特朗普在接受媒体采访时表示，美国将在经济上对伊朗实施严厉打击。（央视新闻）",
+            "date_modified": "2026-08-14T19:56:08.000Z"
+        },
+        {
+            "id": 5041938,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2572254.d.html",
+            "title": "特朗普谈伊朗：我们已经做好充分准备。",
+            "date_modified": "2026-08-14T19:55:29.000Z"
+        },
+        {
+            "id": 5041937,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkw3844653.d.html",
+            "title": "特朗普：我们不能让伊朗继续下去。",
+            "date_modified": "2026-08-14T19:55:11.000Z"
+        },
+        {
+            "id": 5041936,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2571924.d.html",
+            "title": "特朗普重申，美国不能让伊朗拥有核武器。",
+            "date_modified": "2026-08-14T19:54:30.000Z"
+        },
+        {
+            "id": 5041935,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2571641.d.html",
+            "title": "特朗普谈伊朗：我很快将宣布霍尔木兹海峡为美国领土。",
+            "date_modified": "2026-08-14T19:53:40.000Z"
+        },
+        {
+            "id": 5041934,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkw3844106.d.html",
+            "title": "特朗普谈及伊朗：伊朗正遭到惨重挫败。",
+            "date_modified": "2026-08-14T19:53:27.000Z"
+        },
+        {
+            "id": 5041933,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2570537.d.html",
+            "title": "犀牛比特币公司公布最新计划：拟完成美国证交会申报文件并强化独立治理，以提升透明度并为潜在交易所升级上市做准备。",
+            "date_modified": "2026-08-14T19:50:42.000Z"
+        },
+        {
+            "id": 5041932,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkw3842892.d.html",
+            "title": "特朗普：我们靠关税赚了大钱。",
+            "date_modified": "2026-08-14T19:50:15.000Z"
+        },
+        {
+            "id": 5041931,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2570278.d.html",
+            "title": "【Stripe、Advent洽谈收购PayPal】据知情人士透露，PayPal Holdings正在与包括Stripe和私募股权公司Advent International在内的财团洽谈出售事宜。Stripe与Advent于今年7月提出以每股60.50美元收购PayPal，但PayPal认为该报价过低。双方目前正就可能更高的价格进行谈判。",
+            "date_modified": "2026-08-14T19:50:10.000Z"
+        },
+        {
             "id": 5041930,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2570192.d.html",
             "title": "市场消息：PayPal认为每股60.50美元的报价不够理想。",
             "date_modified": "2026-08-14T19:49:47.000Z"
-        },
-        {
-            "id": 5041929,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2569804.d.html",
-            "title": "市场消息：PayPal谈判或敲定更高收购报价。",
-            "date_modified": "2026-08-14T19:48:36.000Z"
-        },
-        {
-            "id": 5041928,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkw3842112.d.html",
-            "title": "市场消息：Stripe与Advent的交易可能于未来数周内敲定。",
-            "date_modified": "2026-08-14T19:48:04.000Z"
-        },
-        {
-            "id": 5041927,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqmc9040485.d.html",
-            "title": "派拉蒙：敦促12个州总检察长秉持诚意开展沟通。",
-            "date_modified": "2026-08-14T19:47:12.000Z"
-        },
-        {
-            "id": 5041926,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2568883.d.html",
-            "title": "PAYPAL股价上涨2.8%，创下盘中新高。",
-            "date_modified": "2026-08-14T19:46:00.000Z"
-        },
-        {
-            "id": 5041925,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2568862.d.html",
-            "title": "市场消息：Stripe与Advent正洽谈收购PayPal。",
-            "date_modified": "2026-08-14T19:45:51.000Z"
-        },
-        {
-            "id": 5041923,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqma2267529.d.html",
-            "title": "市场消息：杠杆基金将看涨墨西哥比索的押注升至2024年以来的最高水平。",
-            "date_modified": "2026-08-14T19:45:13.000Z"
-        },
-        {
-            "id": 5041922,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2568552.d.html",
-            "title": "市场消息：派拉蒙‑华纳兄弟探索已满足合并协议项下全部监管条件。",
-            "date_modified": "2026-08-14T19:44:55.000Z"
-        },
-        {
-            "id": 5041921,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2568487.d.html",
-            "title": "特朗普：纽约州州长在打击犯罪方面做得不好。",
-            "date_modified": "2026-08-14T19:44:36.000Z"
-        },
-        {
-            "id": 5041920,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkw3839937.d.html",
-            "title": "美国代理海军部长 ：美国“亚伯拉罕·林肯”号航空母舰将按计划很快返航。",
-            "date_modified": "2026-08-14T19:41:12.000Z"
-        },
-        {
-            "id": 5041919,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqmc9038101.d.html",
-            "title": "甲骨文股价放量扩大跌幅，最新下跌3.8%至150.21美元。",
-            "date_modified": "2026-08-14T19:38:26.000Z"
-        },
-        {
-            "id": 5041918,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2565638.d.html",
-            "title": "甲骨文公司：木星项目仍按计划推进，我们继续与合作伙伴紧密协作以推动项目进展。",
-            "date_modified": "2026-08-14T19:35:48.000Z"
-        },
-        {
-            "id": 5041917,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkw3837380.d.html",
-            "title": "【巴勒斯坦谴责以方定居点“民事执法权”移交计划】巴勒斯坦副总统侯赛因·谢赫14日谴责以色列拟将约旦河西岸犹太人定居点的“民事执法权”从以军移交至以警方，指责这一计划意在巩固以方对巴方被占领土的非法吞并。谢赫发表声明说，任何形式的定居点活动均属非法。对被占巴方领土的任何部分，以色列均不拥有主权。谢赫指出，以色列的做法公然违反国际法和联合国相关决议，意在将以色列法律和主权强加于包括东耶路撒冷在内的约旦河西岸地区，进一步巩固对巴勒斯坦领土的非法吞并。（新华社）",
-            "date_modified": "2026-08-14T19:33:30.000Z"
-        },
-        {
-            "id": 5041916,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2564519.d.html",
-            "title": "CFTC：原油投机客在截至8月11日当周将WTI净多头仓位增加4,034口，至105,860口。",
-            "date_modified": "2026-08-14T19:32:42.000Z"
-        },
-        {
-            "id": 5041915,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2563966.d.html",
-            "title": "特朗普称赞帕特尔。",
-            "date_modified": "2026-08-14T19:31:26.000Z"
-        },
-        {
-            "id": 5041914,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkw3836403.d.html",
-            "title": "特朗普：布兰奇将成为传奇。",
-            "date_modified": "2026-08-14T19:30:44.000Z"
-        },
-        {
-            "id": 5041913,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2562307.d.html",
-            "title": "【美元指数14日下跌】衡量美元对六种主要货币的美元指数当天下跌0.3%，在汇市尾市收于99.667。截至纽约汇市尾市，1欧元兑换1.1566美元，高于前一交易日的1.1529美元；1英镑兑换1.3533美元，高于前一交易日的1.3485美元。1美元兑换159.38日元，低于前一交易日的159.51日元；1美元兑换0.8131瑞士法郎，低于前一交易日的0.8139瑞士法郎；1美元兑换1.3877加元，低于前一交易日的1.3936加元；1美元兑换9.5246瑞典克朗，低于前一交易日的9.5684瑞典克朗。",
-            "date_modified": "2026-08-14T19:25:11.000Z"
-        },
-        {
-            "id": 5041912,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2562283.d.html",
-            "title": "特朗普表示：不在乎是否在中期选举前打击伊朗经济。",
-            "date_modified": "2026-08-14T19:25:05.000Z"
-        },
-        {
-            "id": 5041911,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2562255.d.html",
-            "title": "特朗普：纽约正朝着糟糕的方向发展，我要改变它。",
-            "date_modified": "2026-08-14T19:24:53.000Z"
-        },
-        {
-            "id": 5041910,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkw3834504.d.html",
-            "title": "【美国医保高管被枪杀案嫌疑人对跟踪指控表示认罪】美国联合健康保险公司首席执行官布赖恩·汤普森被枪杀一案的嫌疑人路易吉·曼焦内14日就联邦跟踪指控表示认罪。曼焦内当天在纽约一家联邦法院供述时承认自己枪杀了汤普森。联邦法官将其量刑日期定于12月18日。曼焦内目前面临联邦指控和州指控，媒体认为其此番认罪意在寻求撤销纽约州一级的谋杀指控，并推迟审判进程。（新华社）",
-            "date_modified": "2026-08-14T19:23:50.000Z"
-        },
-        {
-            "id": 5041909,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkw3833146.d.html",
-            "title": "【国际油价14日上涨】截至当天收盘，纽约商品交易所9月交货的轻质原油期货价格上涨1.15美元，收于每桶82.40美元，涨幅为1.42%；10月交货的伦敦布伦特原油期货价格上涨1.45美元，收于每桶88.52美元，涨幅为1.67%。（新华社）",
-            "date_modified": "2026-08-14T19:19:26.000Z"
-        },
-        {
-            "id": 5041908,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkw3832930.d.html",
-            "title": "特朗普表示，美国将对伊朗实施严厉经济打击。",
-            "date_modified": "2026-08-14T19:18:38.000Z"
-        },
-        {
-            "id": 5041907,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2557362.d.html",
-            "title": "恒生指数主连夜盘收涨0.61%。恒生科技指数主连夜盘收涨0.81%。",
-            "date_modified": "2026-08-14T19:08:38.000Z"
-        },
-        {
-            "id": 5041906,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkw3829440.d.html",
-            "title": "【也门政府军称胡塞武装发射6枚弹道导弹袭击摩卡港】当地时间14日，也门政府军表示，也门胡塞武装向也门西南部摩卡港发射6枚弹道导弹，并以当地民用和国家设施为袭击目标，企图对民众实施封锁、加剧民众困境。当天，也门卫生部发表声明，强烈谴责也门胡塞武装袭击摩卡港，并警告此举将产生严重的卫生和人道主义后果。声明指出，西部沿海本就面临严峻的营养不良和流离失所问题，港口受损、物资受阻将直接危及食品、药品及卫生服务供应，增加儿童、妇女、流离失所者等脆弱群体的风险。（央视新闻）",
-            "date_modified": "2026-08-14T19:07:13.000Z"
-        },
-        {
-            "id": 5041905,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqmc9028907.d.html",
-            "title": "夏威夷航空：因热带风暴拉拉，取消明日卡胡卢伊与檀香山之间的一趟航班。",
-            "date_modified": "2026-08-14T19:05:07.000Z"
-        },
-        {
-            "id": 5041904,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkw3828684.d.html",
-            "title": "Waymo：我们已获得加州公用事业委员会批准，将在旧金山湾区、洛杉矶扩大服务，并于萨克拉门托、圣地亚哥推出服务。",
-            "date_modified": "2026-08-14T19:04:54.000Z"
-        },
-        {
-            "id": 5041903,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2555946.d.html",
-            "title": "夏威夷航空：因热带风暴拉拉，周六暂停希洛机场运营。",
-            "date_modified": "2026-08-14T19:04:30.000Z"
-        },
-        {
-            "id": 5041902,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqma2256104.d.html",
-            "title": "洲际交易所10月布伦特原油期货结算价报每桶88.52美元。",
-            "date_modified": "2026-08-14T19:03:51.000Z"
-        },
-        {
-            "id": 5041901,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkw3827116.d.html",
-            "title": "市场消息：DOT AI宣布收到退市通知，并表示将提起上诉。",
-            "date_modified": "2026-08-14T19:00:30.000Z"
-        },
-        {
-            "id": 5041900,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkw3826968.d.html",
-            "title": "恒指期货夜盘收涨0.62%，报25250.28点，高水133.43点。",
-            "date_modified": "2026-08-14T19:00:02.000Z"
-        },
-        {
-            "id": 5041899,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2553773.d.html",
-            "title": "市场消息：COINBASE、A16Z、KALSHI等公司将参加在白宫举行的会议。",
-            "date_modified": "2026-08-14T18:57:45.000Z"
-        },
-        {
-            "id": 5041898,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkz2553383.d.html",
-            "title": "市场消息：特朗普预计将参加预测市场相关会议。",
-            "date_modified": "2026-08-14T18:56:33.000Z"
-        },
-        {
-            "id": 5041897,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqkw3824525.d.html",
-            "title": "【老虎环球Q2建仓SpaceX和AMD 减持谷歌、台积电、英伟达等】老虎环球基金二季度大规模调仓。减持方面：博通削减51.1%至180万股，谷歌A削减45.4%至580万股A类股，台积电削减12.3%至490万份ADS，微软削减9.3%至230万股，Meta Platforms削减8.5%至280万股A类股，英伟达削减6.8%至1120万股，京东削减41.5%至20.15万份ADS。增持方面，英特尔增持至430万股。新建仓AMD67.4万股以及SpaceX37.5万股。清仓奈飞。",
-            "date_modified": "2026-08-14T18:53:00.000Z"
-        },
-        {
-            "id": 5041896,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininiqma2248611.d.html",
-            "title": "市场消息：摩根大通终止与POLYMARKET的银行业务关系。",
-            "date_modified": "2026-08-14T18:39:43.000Z"
-        },
-        {
-            "id": 5041895,
-            "content_html": "",
-            "title": "香港天文台发布黄色暴雨警告。",
-            "date_modified": "2026-08-14T18:36:52.000Z"
-        },
-        {
-            "id": 5041894,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikcf9149453.d.html",
-            "title": "Alphabet旗下自动驾驶公司Waymo： 加州公用事业委员会批准其在旧金山、洛杉矶扩大自动驾驶网约车服务。",
-            "date_modified": "2026-08-14T18:31:54.000Z"
-        },
-        {
-            "id": 5041893,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikce2376557.d.html",
-            "title": "上期所原油期货夜盘收涨1.38%，报558.10元人民币/桶。沪金夜盘收涨0.60%，沪银收涨0.57%。",
-            "date_modified": "2026-08-14T18:30:02.000Z"
-        },
-        {
-            "id": 5041892,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikay3946345.d.html",
-            "title": "  迪士尼执行副总裁：约 40% 的 Disney + 用户使用过竖版视频功能。",
-            "date_modified": "2026-08-14T18:27:36.000Z"
-        },
-        {
-            "id": 5041891,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikcc2672107.d.html",
-            "title": "  据以色列第 13 频道消息：据悉以色列原本计划在叙利亚发动新一轮打击，但遭到特朗普介入阻止。",
-            "date_modified": "2026-08-14T18:22:33.000Z"
-        },
-        {
-            "id": 5041890,
-            "content_html": "",
-            "title": "Tiger Global披露二季度13F持仓：减持Alphabet、博通、Spotify、Meta等；同时新建AMD、希捷、Visa、丹纳赫等仓位。增持Intuit、Corpay、Reddit、MercadoLibre等；退出AppLovin、Netflix、Zscaler、Procore等。",
-            "date_modified": "2026-08-14T18:19:48.000Z"
-        },
-        {
-            "id": 5041889,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikay3941059.d.html",
-            "title": "白宫新闻秘书莱维特：美国可以继续制裁伊朗，重创其经济。",
-            "date_modified": "2026-08-14T18:12:33.000Z"
-        },
-        {
-            "id": 5041888,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikay3940839.d.html",
-            "title": "白宫新闻秘书莱维特：（谈及对伊朗施压）我们手上还有更多可用手段。",
-            "date_modified": "2026-08-14T18:12:05.000Z"
-        },
-        {
-            "id": 5041887,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikay3940619.d.html",
-            "title": "  加拿大汽车工人工会表示，已收到斯特兰蒂斯集团通知，该集团正认真考虑关闭并出售安大略省布兰普顿工厂。",
-            "date_modified": "2026-08-14T18:11:24.000Z"
-        },
-        {
-            "id": 5041885,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikcc2667215.d.html",
-            "title": "英国政府发布关于野火风险的严重警报，称发生野火的风险极高。",
-            "date_modified": "2026-08-14T18:08:42.000Z"
-        },
-        {
-            "id": 5041884,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikcc2666633.d.html",
-            "title": "  老虎环球管理有限责任公司披露持有 SpaceX 375000 股 A 类股份。",
-            "date_modified": "2026-08-14T18:07:00.000Z"
-        },
-        {
-            "id": 5041883,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikay3938474.d.html",
-            "title": "【德国农民协会：高温干旱或致部分地区农作物减产甚至绝收】当地时间14日，德国农民协会表示，受持续高温干旱影响，今年德国农业可能出现明显减产。德国农民协会主席约阿希姆·鲁克维德表示，今年小麦和油菜籽的产量预计将低于平均水平，玉米、大豆等秋季作物也可能出现较大幅度减产。鲁克维德说，德国南部受干旱影响尤为严重，农作物面临绝收的风险。他还指出，持续高温和干旱还导致饲料作物减产，畜牧业也受到影响。（央视新闻）",
-            "date_modified": "2026-08-14T18:04:44.000Z"
-        },
-        {
-            "id": 5041882,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikcc2663494.d.html",
-            "title": "博通股价跌幅扩大至6.7%，创6月5日以来最大单日跌幅。",
-            "date_modified": "2026-08-14T18:00:18.000Z"
-        },
-        {
-            "id": 5041881,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikay3935443.d.html",
-            "title": "市场消息：智利国家铜业公司（Codelco）将关停丘基卡马塔铜矿与阿莱斯部长铜矿。",
-            "date_modified": "2026-08-14T17:58:00.000Z"
-        },
-        {
-            "id": 5041880,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikcc2661304.d.html",
-            "title": "  印度自 8 月 15 日起，将柴油出口暴利税由每升 25.5 卢比下调至每升 24 卢比。",
-            "date_modified": "2026-08-14T17:52:47.000Z"
-        },
-        {
-            "id": 5041879,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-15/detail-ininikce2365046.d.html",
-            "title": "  印度自 8 月 15 日起，将航空涡轮燃料出口暴利税由每升 22 卢比下调至每升 19.5 卢比。",
-            "date_modified": "2026-08-14T17:52:28.000Z"
         }
     ]
 }
