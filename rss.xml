@@ -4,11 +4,59 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 15 Aug 2026 18:36:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 19:25:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【英伟达洽谈向SB Energy投资30亿美元，系OpenAI数据中心交易组成部分】据知情人士透露，英伟达正洽谈向SB Energy最高投资30亿美元。SB Energy由软银集团支持，负责为OpenAI开发俄亥俄州大型数据中心项目。这笔投资谈判，是英伟达与OpenAI、SB Energy谈判的一部分；英伟达拟为规划中的俄亥俄数据中心园区提供约1000亿美元信贷支持。这类交易越来越多，英伟达凭借自身雄厚财力扶持AI相关企业与项目，以此推动各家企业采购、使用英伟达硬件。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-16/detail-ininmtkf0249840.d.html</link>
+            <guid>5042426</guid>
+            <pubDate>Sat, 15 Aug 2026 19:16:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英伟达正洽谈向SB Energy投资30亿美元，作为OpenAI数据中心交易的一部分。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-16/detail-ininmtkf0249394.d.html</link>
+            <guid>5042425</guid>
+            <pubDate>Sat, 15 Aug 2026 19:15:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[卡塔尔外交部发言人：外交斡旋仍在推进之际，有关伊朗飞行员的误导性言论令我方感到意外。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-16/detail-ininmtkf0247667.d.html</link>
+            <guid>5042424</guid>
+            <pubDate>Sat, 15 Aug 2026 19:07:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗央行：由于美国与以色列的敌对军事及网络行动，某境外服务商撤销了部分网站的安全证书，导致用户端出现 SSL 安全警告。自身基础设施未遭到网络攻击。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-16/detail-ininmtkc8269194.d.html</link>
+            <guid>5042423</guid>
+            <pubDate>Sat, 15 Aug 2026 18:46:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议员班克斯：特朗普将向印第安纳州拨付灾害援助，应对恶劣天气灾情。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-16/detail-ininmtkf0240879.d.html</link>
+            <guid>5042422</guid>
+            <pubDate>Sat, 15 Aug 2026 18:43:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[卡塔尔外交部：搜救队伍已找到一名伊朗飞行员的遗体，目前已与伊朗方面协调移交事宜。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-16/detail-ininmtkc8268264.d.html</link>
+            <guid>5042421</guid>
+            <pubDate>Sat, 15 Aug 2026 18:42:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[卡塔尔外交部表示，在伊朗飞行员侵犯卡塔尔领空后，卡塔尔已采取必要措施捍卫本国领土。伊朗飞行员当时侵犯了卡塔尔领空，且未回应卡塔尔方面的联络尝试。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-16/detail-ininmtiz1859334.d.html</link>
+            <guid>5042420</guid>
+            <pubDate>Sat, 15 Aug 2026 18:42:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[卡塔尔否认扣押伊朗飞行员。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-16/detail-ininmtkf0240222.d.html</link>
+            <guid>5042419</guid>
+            <pubDate>Sat, 15 Aug 2026 18:41:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[黎巴嫩媒体：以色列对塔卢萨镇发动猛烈空袭。]]></title>
             <link>https://finance.sina.cn/7x24/2026-08-16/detail-ininmtkf0238271.d.html</link>
@@ -260,54 +308,6 @@
             <link>https://finance.sina.cn/7x24/2026-08-15/detail-ininmhui8450617.d.html</link>
             <guid>5042375</guid>
             <pubDate>Sat, 15 Aug 2026 14:38:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其总统埃尔多安：卡塔尔为调停结束中东地区冲突发挥了重要作用。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-15/detail-ininmhuh1678130.d.html</link>
-            <guid>5042374</guid>
-            <pubDate>Sat, 15 Aug 2026 14:37:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其总统埃尔多安：美国在制止以色列对黎巴嫩发动战事一事上起到关键作用。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-15/detail-ininmhuf2028875.d.html</link>
-            <guid>5042373</guid>
-            <pubDate>Sat, 15 Aug 2026 14:37:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其总统：以色列持续袭击黎巴嫩是我们重大关切所在。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-15/detail-ininmhuf2027551.d.html</link>
-            <guid>5042372</guid>
-            <pubDate>Sat, 15 Aug 2026 14:34:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美军中央司令部：战斗机从阿拉伯海的乔治·H·W·布什号航空母舰起飞，以维护中东地区的安全与稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-15/detail-ininmhuh1676637.d.html</link>
-            <guid>5042371</guid>
-            <pubDate>Sat, 15 Aug 2026 14:34:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其总统埃尔多安：我们已收到特朗普关于F‑35战斗机的承诺，我们正等待他兑现该承诺。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-15/detail-ininmhuh1676445.d.html</link>
-            <guid>5042370</guid>
-            <pubDate>Sat, 15 Aug 2026 14:33:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心表示，预计飓风赫南今日将减弱为残留低气压。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-15/detail-ininmhuh1676251.d.html</link>
-            <guid>5042369</guid>
-            <pubDate>Sat, 15 Aug 2026 14:33:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其总统埃尔多安：我将于近期访问叙利亚。叙利亚不会被抛下，我们将尽一切力量维护该国稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-15/detail-ininmhum0407861.d.html</link>
-            <guid>5042368</guid>
-            <pubDate>Sat, 15 Aug 2026 14:32:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【牛来预测票房598万】据灯塔专业版，影片《牛来》预测总票房598万。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-15/detail-ininmhuf2017797.d.html</link>
-            <guid>5042367</guid>
-            <pubDate>Sat, 15 Aug 2026 14:11:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
