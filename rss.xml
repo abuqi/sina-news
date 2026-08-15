@@ -4,11 +4,41 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 15 Aug 2026 20:27:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 21:25:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场资讯：特斯拉在美国最本土化生产的车辆中占据前两名，超越了福特和通用汽车。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-16/detail-ininmxsc0149556.d.html</link>
+            <guid>5042433</guid>
+            <pubDate>Sat, 15 Aug 2026 21:15:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国印第安纳州遭遇恶劣天气 至少5人死亡】美国印第安纳州当局表示，本周席卷全州的强风暴和洪水已导致至少5人死亡。过去一周，该州连降暴雨，导致多条河流的水位创下历史新高，迫使居民纷纷向高处转移。目前已有十多个县宣布进入地方灾害状态，最新的灾情主要集中在从汉密尔顿县延伸至印第安纳波利斯北部郊区的河道沿线。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-16/detail-ininmxrz8171053.d.html</link>
+            <guid>5042432</guid>
+            <pubDate>Sat, 15 Aug 2026 20:59:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  伊朗能源优化组织负责人：伊朗正在审议三套汽油供应管理方案，其中一项提案计划向每位公民每月分配 30 升汽油配额，配额允许流转、交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-16/detail-ininmxsc0145246.d.html</link>
+            <guid>5042431</guid>
+            <pubDate>Sat, 15 Aug 2026 20:56:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普释放可能参与2028年大选的信号】美国总统特朗普在真相社交平台发布一张疑似AI生成的图片，图中他头戴印有“特朗普2028”字样的帽子。图片配文写道：“我们必将取胜。”该帖再次公开释放信号，特朗普有意角逐2028年总统的又一届任期。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-16/detail-ininmxrx1763357.d.html</link>
+            <guid>5042430</guid>
+            <pubDate>Sat, 15 Aug 2026 20:54:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗谴责以色列持续袭击黎巴嫩。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-16/detail-ininmxrx1759586.d.html</link>
+            <guid>5042429</guid>
+            <pubDate>Sat, 15 Aug 2026 20:38:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[利比亚发电站附近发生爆炸，多台发电机组停止运行。]]></title>
             <link>https://finance.sina.cn/7x24/2026-08-16/detail-ininmxsc0135448.d.html</link>
@@ -278,36 +308,6 @@
             <link>https://finance.sina.cn/7x24/2026-08-15/detail-ininmhuf2032809.d.html</link>
             <guid>5042382</guid>
             <pubDate>Sat, 15 Aug 2026 14:45:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黎巴嫩谴责以色列袭击黎南违反框架协议】黎巴嫩总统奥恩15日谴责以色列当天对黎南地区发动的空袭，称以方袭击违反黎以美三方框架协议和国际法，导致奈拜提耶地区安萨尔村一家人全部遇难。黎巴嫩卫生部发表声明说，以军当天对安萨尔村发动空袭，造成7人死亡、多人受伤，死者中包括3名儿童和2名妇女。以军当天还对奈拜提耶地区迪尔扎赫拉尼镇发动空袭，造成4人死亡、17人受伤。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-15/detail-ininmhum0413789.d.html</link>
-            <guid>5042381</guid>
-            <pubDate>Sat, 15 Aug 2026 14:45:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以色列正试图操控人工智能关于加沙议题的输出内容】以色列已发起一场公关宣传活动，目的是引导ChatGPT等人工智能系统在回答有关以色列、加沙以及以色列国防军相关问题时的表述倾向。多家受以色列委托的公关公司成立了汉诺威公共政策研究所，该机构发布大量设问式报告，例如《以色列国防军是全球最讲道义的军队吗？》《加沙是否存在刻意制造饥荒的政策？》。这些文稿是以色列出资、总投入10万美元宣传项目的组成部分。相关测试显示，当用户提出中立问题时，ChatGPT与Perplexity人工智能模型会引用这家研究所发布的资料。以色列还资助了另一项总额4650万美元的舆论干预项目，该项目专门搭建各类网站、产出定制内容，以此干预“GPT模型的内容输出导向”。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-15/detail-ininmhum0412804.d.html</link>
-            <guid>5042380</guid>
-            <pubDate>Sat, 15 Aug 2026 14:42:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列总理办公室：真主党在黎巴嫩“安全区”发动袭击，造成三名士兵受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-15/detail-ininmhuf2030023.d.html</link>
-            <guid>5042379</guid>
-            <pubDate>Sat, 15 Aug 2026 14:40:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其总统埃尔多安：《麦加协议》向世界传递了重要信号。《麦加协议》规定，若任一签署国遭受外部袭击，所有签约国都将采取统一行动。该协议未来允许其他国家加入，埃及也有望参与其中。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-15/detail-ininmhum0411344.d.html</link>
-            <guid>5042378</guid>
-            <pubDate>Sat, 15 Aug 2026 14:39:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其总统埃尔多安：我们将优先推动霍尔木兹海峡恢复通航，持续封锁这条海峡不符合任何一方的利益。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-15/detail-ininmhum0411165.d.html</link>
-            <guid>5042377</guid>
-            <pubDate>Sat, 15 Aug 2026 14:39:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
