@@ -4,11 +4,23 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sat, 15 Aug 2026 19:25:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 20:27:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[利比亚发电站附近发生爆炸，多台发电机组停止运行。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-16/detail-ininmxsc0135448.d.html</link>
+            <guid>5042428</guid>
+            <pubDate>Sat, 15 Aug 2026 20:17:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[罗宾汉进一步深耕私募市场，设立规模2.255亿美元的基金，允许个人投资者押注Y Combinator孵化的早期初创企业。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-16/detail-ininmxsc0127225.d.html</link>
+            <guid>5042427</guid>
+            <pubDate>Sat, 15 Aug 2026 19:47:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【英伟达洽谈向SB Energy投资30亿美元，系OpenAI数据中心交易组成部分】据知情人士透露，英伟达正洽谈向SB Energy最高投资30亿美元。SB Energy由软银集团支持，负责为OpenAI开发俄亥俄州大型数据中心项目。这笔投资谈判，是英伟达与OpenAI、SB Energy谈判的一部分；英伟达拟为规划中的俄亥俄数据中心园区提供约1000亿美元信贷支持。这类交易越来越多，英伟达凭借自身雄厚财力扶持AI相关企业与项目，以此推动各家企业采购、使用英伟达硬件。]]></title>
             <link>https://finance.sina.cn/7x24/2026-08-16/detail-ininmtkf0249840.d.html</link>
@@ -296,18 +308,6 @@
             <link>https://finance.sina.cn/7x24/2026-08-15/detail-ininmhum0411165.d.html</link>
             <guid>5042377</guid>
             <pubDate>Sat, 15 Aug 2026 14:39:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其总统埃尔多安：欧洲似乎无意接纳土耳其加入欧盟。加入欧盟已不再是我们的优先事项，土耳其无法入盟，最终受损的只会是欧洲。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-15/detail-ininmhum0411034.d.html</link>
-            <guid>5042376</guid>
-            <pubDate>Sat, 15 Aug 2026 14:39:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其总统埃尔多安：特朗普近期访土期间，我与他探讨了必须停止黎巴嫩战事的相关事宜。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-15/detail-ininmhui8450617.d.html</link>
-            <guid>5042375</guid>
-            <pubDate>Sat, 15 Aug 2026 14:38:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
