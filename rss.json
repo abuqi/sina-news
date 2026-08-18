@@ -6,6 +6,167 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 5046507,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuvce2879619.d.html",
+            "title": "声明显示：伊拉克批准从9月1日起通过本地和国际公司出口原油的三个月机制。",
+            "date_modified": "2026-08-18T21:25:54.000Z"
+        },
+        {
+            "id": 5046506,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuvce2879465.d.html",
+            "title": "加拿大总理马克·卡尼与美国总统特朗普今日下午就正在进行的谈判再次通话。",
+            "date_modified": "2026-08-18T21:25:11.000Z"
+        },
+        {
+            "id": 5046505,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuvaz7123348.d.html",
+            "title": "富时A50期指连续夜盘收跌0.32%，报15045点。",
+            "date_modified": "2026-08-18T21:15:28.000Z"
+        },
+        {
+            "id": 5046504,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuvaz7122544.d.html",
+            "title": "特朗普将于8月27日在休斯顿主持共和党全国委员会筹款晚宴。",
+            "date_modified": "2026-08-18T21:13:32.000Z"
+        },
+        {
+            "id": 5046503,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuvaz7122455.d.html",
+            "title": "特朗普将出席共和党全国委员会为肯·帕克斯顿举办的筹款活动。",
+            "date_modified": "2026-08-18T21:13:23.000Z"
+        },
+        {
+            "id": 5046502,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuvaz7117705.d.html",
+            "title": "【阿官员称阿联酋已暂停与伊朗贸易往来】当地时间19日，阿联酋外交部战略沟通司司长阿芙拉·哈梅利称，由于地区局势升级，已暂停与伊朗的一切贸易、商业和金融交易，直至另行通知。哈梅利重申，阿联酋仍然致力于“对话、合作和区域一体化，将其视为加强地区和平、稳定与繁荣的重要途径”。（央视新闻）",
+            "date_modified": "2026-08-18T21:03:14.000Z"
+        },
+        {
+            "id": 5046501,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuvaz7116620.d.html",
+            "title": "【德国启用新无人机安全技术中心】德国政府18日在位于萨克森-安哈尔特州的德国航空航天中心科赫施泰特基地启用新的无人机安全技术中心，重点开展无人机安全运行、探测和防御技术研发与测试，并推动相关技术更快投入实际应用。",
+            "date_modified": "2026-08-18T21:01:23.000Z"
+        },
+        {
+            "id": 5046500,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuvce2873122.d.html",
+            "title": "【法国宣布两名伊朗驻法使馆人员为“不受欢迎的人”】当地时间8月18日，法国外长巴罗宣布两名伊朗驻法国大使馆工作人员为“不受欢迎的人”。法国外交部表示，此举是对7月19日两名法国驻伊朗使馆工作人员遭伊朗安全部门“严重侵害”事件的回应。（央视新闻）",
+            "date_modified": "2026-08-18T20:57:56.000Z"
+        },
+        {
+            "id": 5046499,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuvce2870589.d.html",
+            "title": "纽约期金日内跌2%，现报4384.16美元/盎司。",
+            "date_modified": "2026-08-18T20:47:55.000Z"
+        },
+        {
+            "id": 5046498,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuvaz7109808.d.html",
+            "title": "以色列战斗机飞越伊德利卜及叙利亚沙漠上空。",
+            "date_modified": "2026-08-18T20:47:42.000Z"
+        },
+        {
+            "id": 5046497,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuvaw8381375.d.html",
+            "title": "美国副总统万斯将于周五访问俄亥俄州并发表经济演讲。",
+            "date_modified": "2026-08-18T20:46:44.000Z"
+        },
+        {
+            "id": 5046496,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuvaw8380120.d.html",
+            "title": "伊朗外交部发言人警告称存在\"假旗行动\"，并指责（阿联酋）相关指控\"毫无根据\"。",
+            "date_modified": "2026-08-18T20:44:17.000Z"
+        },
+        {
+            "id": 5046495,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuvce2869532.d.html",
+            "title": "美国石油协会（API）数据显示，上周，美国API原油库存 -32.8万桶，之前一周 +907.2万桶。",
+            "date_modified": "2026-08-18T20:43:41.000Z"
+        },
+        {
+            "id": 5046494,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuvaz7107560.d.html",
+            "title": "惠誉评级：美国医疗保健网络风险日益增加。",
+            "date_modified": "2026-08-18T20:43:14.000Z"
+        },
+        {
+            "id": 5046493,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuvaw8379469.d.html",
+            "title": "【伊朗宣布两名法国外交人员为“不受欢迎的人”】当地时间18日，伊朗外交部发表声明说，鉴于两名法国驻伊朗使馆外交人员存在违反《维也纳外交关系公约》的行为，伊方决定将其列为“不受欢迎的人”，禁止其进入伊朗。（央视新闻）",
+            "date_modified": "2026-08-18T20:42:50.000Z"
+        },
+        {
+            "id": 5046492,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuvaz7107264.d.html",
+            "title": "伊朗外交部发言人驳斥阿联酋关于从伊朗向该海湾国家发射导弹的声明。",
+            "date_modified": "2026-08-18T20:42:30.000Z"
+        },
+        {
+            "id": 5046491,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuvaz7106834.d.html",
+            "title": "诺福克南方铁路盘后上涨2.4%。",
+            "date_modified": "2026-08-18T20:41:37.000Z"
+        },
+        {
+            "id": 5046490,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuvcf9640855.d.html",
+            "title": "【叙过渡政府谴责以色列空袭叙空军基地】叙利亚过渡政府外交部18日发表声明，强烈谴责以军空袭阿布祖胡尔空军基地，称这是“毫无正当理由的侵略行径”。声明说，此次袭击是对叙利亚及其领土完整的公然侵犯，也是威胁地区安全与稳定的危险升级。叙利亚将持续捍卫自身合法权利、国家利益以及国际法与国际公约赋予的各项权益。（新华社）",
+            "date_modified": "2026-08-18T20:38:45.000Z"
+        },
+        {
+            "id": 5046489,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuvce2867533.d.html",
+            "title": "以色列：同意与叙利亚在安全方面维持现状。",
+            "date_modified": "2026-08-18T20:35:43.000Z"
+        },
+        {
+            "id": 5046488,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuvaz7102760.d.html",
+            "title": "【Anthropic筹备超级投票权，为IPO铺路】据两名知情人士透露，Anthropic计划授予首席执行官达里奥·阿莫迪及其他联合创始人一类具备超额投票权的股份，帮助他们抵御外部股东施加的压力。这将是Anthropic管理层首次获得超级投票权；该机制在科技企业创始人中已十分普遍。另有消息人士表示，对Anthropic而言此举意义特殊：相比其他科技企业创始人，该公司创始人所持股权占比相对较低。公司还计划依托特殊类别的股票，保留现有的非股东受托人团体，由其选举董事会多数席位，以此构建一道非传统屏障，抵御外部股东干预。",
+            "date_modified": "2026-08-18T20:33:34.000Z"
+        },
+        {
+            "id": 5046487,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuvaz7101872.d.html",
+            "title": "乌拉圭央行维持关键利率在5.75%不变。",
+            "date_modified": "2026-08-18T20:32:01.000Z"
+        },
+        {
+            "id": 5046486,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuvaw8373824.d.html",
+            "title": "【阿联酋宣布暂停与伊朗的贸易金融往来】阿联酋外交部19日发表声明表示，阿联酋暂停与伊朗的所有贸易、商业往来和金融交易。（新华社）",
+            "date_modified": "2026-08-18T20:31:46.000Z"
+        },
+        {
+            "id": 5046485,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuvaw8373690.d.html",
+            "title": "【AI事故风险加剧：2025年前十月事件数已超2024全年】人工智能造成危害的潜在风险正愈发凸显。人工智能事故数据库（AI Incident Database）的数据显示，2022‑2024年间，有记录的AI相关事故同比上升50%；而截至2025年10月的前10个月，事故数量就已经超过2024年全年水平。",
+            "date_modified": "2026-08-18T20:31:31.000Z"
+        },
+        {
             "id": 5046484,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuqvc7229843.d.html",
@@ -193,160 +354,6 @@
             "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuqvc7205041.d.html",
             "title": "【国际油价18日微涨】截至当天收盘，纽约商品交易所9月交货的轻质原油期货价格上涨44美分，收于每桶84.94美元，涨幅为0.52%；10月交货的伦敦布伦特原油期货价格上涨15美分，收于每桶91.02美元，涨幅为0.17%。",
             "date_modified": "2026-08-18T19:37:21.000Z"
-        },
-        {
-            "id": 5046456,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuquy8475384.d.html",
-            "title": "委内瑞拉国家石油公司（PDVSA）表示，委内瑞拉原油产量到月底将达到124.5万桶/日。",
-            "date_modified": "2026-08-18T19:33:51.000Z"
-        },
-        {
-            "id": 5046455,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuqvh2982322.d.html",
-            "title": "阿联酋国防部表示，从伊朗发射的两枚弹道导弹以海上航运为攻击目标。",
-            "date_modified": "2026-08-18T19:33:34.000Z"
-        },
-        {
-            "id": 5046454,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuqvh2981780.d.html",
-            "title": "美国叙利亚问题特使汤姆·巴拉克：以色列发动空袭前并未向土耳其发出预警，土耳其本可据此作出合理应对准备。这凸显需要建立一套包含以色列、叙利亚与土耳其在内的冲突规避机制，我方正积极推进相关工作。",
-            "date_modified": "2026-08-18T19:31:46.000Z"
-        },
-        {
-            "id": 5046453,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuquy8474334.d.html",
-            "title": "美国叙利亚问题特使汤姆·巴拉克：以色列对叙利亚空军基地实施空袭，反映出以方判断土耳其可能会在短期内扩大其在当地的军事存在。",
-            "date_modified": "2026-08-18T19:31:45.000Z"
-        },
-        {
-            "id": 5046452,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuqvc7201802.d.html",
-            "title": "伊朗最高国家安全委员会秘书雷扎伊：美国在霍尔木兹海峡的失利，标志波斯湾进入“后美国时代秩序”。",
-            "date_modified": "2026-08-18T19:30:43.000Z"
-        },
-        {
-            "id": 5046451,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuquy8472465.d.html",
-            "title": "阿拉伯及伊斯兰国家谴责以色列对叙利亚发起新一轮军事侵袭。",
-            "date_modified": "2026-08-18T19:27:33.000Z"
-        },
-        {
-            "id": 5046450,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuqvh2980730.d.html",
-            "title": "【叙利亚发现数吨核材料 将接受国际原子能机构监督】国际原子能机构总干事格罗西18日在与叙利亚过渡政府外交部长希巴尼举行的联合新闻发布会上表示，在叙方近期向该机构报告的一处地点发现数吨核材料。希巴尼表示，这些核材料将由叙方保管并接受国际原子能机构监督。（新华社）",
-            "date_modified": "2026-08-18T19:27:01.000Z"
-        },
-        {
-            "id": 5046449,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuquy8472161.d.html",
-            "title": "市场资讯：伊朗外长阿拉格齐准备面向（伊朗）公众复盘两年外交施政成果。",
-            "date_modified": "2026-08-18T19:26:51.000Z"
-        },
-        {
-            "id": 5046448,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuqvc7199640.d.html",
-            "title": "【美国多州收紧数据中心建设 AI扩张面临监管压力】美国宾夕法尼亚州州长乔什·沙皮罗发布行政命令，对数据中心建设实施严格限制，要求项目先获得地方政府批准，才能申请州级许可，并需遵守节水标准、承担新增用电成本及解决自身电力供应问题。沙皮罗表示，大量数据中心项目涌入宾州，其中部分开发商忽视当地社区利益。随着AI投资快速增长，美国多州开始限制数据中心扩张，以应对电力、环保和社区压力。纽约州已推动大型数据中心环境许可最长暂停一年；长期支持数据中心发展的得州州长格雷格·阿博特也暂停部分新项目审批并展开审查。",
-            "date_modified": "2026-08-18T19:25:46.000Z"
-        },
-        {
-            "id": 5046447,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuquy8470839.d.html",
-            "title": "委内瑞拉央行：二季度石油相关活动环比增长9.10%，非石油部门增长5.79%。",
-            "date_modified": "2026-08-18T19:24:05.000Z"
-        },
-        {
-            "id": 5046446,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuqvc7197234.d.html",
-            "title": "遭解职的乌克兰国防部长费多罗夫呼吁乌克兰举行战时选举，称乌克兰正面临系统性治理危机，并抨击战时腐败问题。",
-            "date_modified": "2026-08-18T19:20:50.000Z"
-        },
-        {
-            "id": 5046445,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuqvh2979038.d.html",
-            "title": "委内瑞拉央行：2026年第二季度委内瑞拉经济同比增长7.14%。",
-            "date_modified": "2026-08-18T19:20:03.000Z"
-        },
-        {
-            "id": 5046444,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuquy8468754.d.html",
-            "title": "伊朗外交部：将禁止法国大使馆工作人员进入伊朗领土，因为他们违反了外交关系公约。",
-            "date_modified": "2026-08-18T19:19:40.000Z"
-        },
-        {
-            "id": 5046443,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuquy8467946.d.html",
-            "title": "【阿联酋称伊朗向该国发射两枚导弹 为5月以来首次袭击】阿联酋表示，两枚弹道导弹从伊朗射向该国。随着中东更广泛的战争持续，这是自5月以来伊朗对该海湾国家发起的首次已知袭击。阿联酋国防部周二表示，两枚导弹均落入海中，其中一枚落入阿联酋领海，另一枚落在领海外。",
-            "date_modified": "2026-08-18T19:18:02.000Z"
-        },
-        {
-            "id": 5046442,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuqvi9750618.d.html",
-            "title": "现货铂金价格下跌3%，至每盎司1717.90美元。",
-            "date_modified": "2026-08-18T19:16:15.000Z"
-        },
-        {
-            "id": 5046441,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuquy8466935.d.html",
-            "title": "市场资讯：OpenAI因AI代理入侵Hugging Face事件放缓模型开发。",
-            "date_modified": "2026-08-18T19:16:01.000Z"
-        },
-        {
-            "id": 5046440,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuquy8466661.d.html",
-            "title": "【特朗普正考量是否给予加拿大关税暂缓豁免】知情人士透露，美加之间一份旨在避免对加拿大商品加征新关税的协议，现已交由美国总统特朗普定夺。目前，是否于午夜按计划正式开征50%关税，决定权掌握在特朗普手中。美、加官员连日展开不间断谈判。美方政府施压，要求加拿大取消去年针对特朗普关税出台的报复性举措，包括加拿大各省对美国酒类实施的禁令、针对美国汽车征收的关税；渥太华方面则希望美方下调针对汽车及其他商品的关税。其中两名知情人士称，这份逐步成型的潜在协议，还包含加拿大在乳制品关税配额方面作出让步，该议题频繁出现在特朗普批评加拿大贸易政策的公开表态中。",
-            "date_modified": "2026-08-18T19:15:27.000Z"
-        },
-        {
-            "id": 5046439,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuqvi9750104.d.html",
-            "title": "伊朗驻科威特大使会见了三个月前被扣留在科威特的四名伊朗公民。",
-            "date_modified": "2026-08-18T19:13:53.000Z"
-        },
-        {
-            "id": 5046438,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuquy8465483.d.html",
-            "title": "荷兰外交大臣：荷兰不认可美国近期针对国际刑事法院官员及工作人员实施的制裁。",
-            "date_modified": "2026-08-18T19:13:07.000Z"
-        },
-        {
-            "id": 5046437,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuqvc7193402.d.html",
-            "title": "英国海上贸易行动办公室：也门穆哈港东南40海里海域一艘货船遭多枚炮弹击中，事发时该货船船上无船员，船只受损严重。有关部门正在开展调查。",
-            "date_modified": "2026-08-18T19:13:00.000Z"
-        },
-        {
-            "id": 5046436,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuquy8464752.d.html",
-            "title": "市场资讯：特朗普正在考虑暂缓对加拿大征收关税。",
-            "date_modified": "2026-08-18T19:11:33.000Z"
-        },
-        {
-            "id": 5046435,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-19/detail-ininuqvh2976911.d.html",
-            "title": "特朗普本周正在面试美国食品药品监督管理局（FDA）最高职位的候选人。",
-            "date_modified": "2026-08-18T19:11:14.000Z"
         }
     ]
 }
