@@ -6,6 +6,118 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 5053391,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-23/detail-inipfrff0916087.d.html",
+            "title": "以色列持续打击黎巴嫩南部，空袭马吉勒祖恩、科宁以及曼苏里村庄。",
+            "date_modified": "2026-08-22T18:30:52.000Z"
+        },
+        {
+            "id": 5053390,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-23/detail-inipfrfh2862282.d.html",
+            "title": "美国特使称，以色列对叙利亚发动空袭或为蓄意挑起与土耳其的冲突",
+            "date_modified": "2026-08-22T18:22:34.000Z"
+        },
+        {
+            "id": 5053379,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-23/detail-inipfrfa0269892.d.html",
+            "title": "伊朗总统府：总统佩泽希其扬同议会议长、司法部门负责人就国际局势以及国家经济治理举措展开磋商。",
+            "date_modified": "2026-08-22T18:15:32.000Z"
+        },
+        {
+            "id": 5053378,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-23/detail-inipfrfa0269797.d.html",
+            "title": "伊朗总统府：伊朗三大权力机构负责人确认需加强协调，以应对民生压力。",
+            "date_modified": "2026-08-22T18:15:18.000Z"
+        },
+        {
+            "id": 5053370,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-23/detail-inipfrfh2857241.d.html",
+            "title": "日本将向拉美开发性贷款机构提供贷款保险。",
+            "date_modified": "2026-08-22T18:07:41.000Z"
+        },
+        {
+            "id": 5053366,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-23/detail-inipfrfa0267827.d.html",
+            "title": "【以色列称无意与土耳其升级冲突 绝不接受土在叙驻军】当地时间22日，以色列外交部长萨尔在接受采访时表示，尽管因叙利亚问题导致以土两国关系高度紧张，但以色列“无意与土耳其升级冲突”。萨尔称，以色列“始终优先考虑”外交解决方案，并重申以色列并不打算激化与土耳其的对抗。他表示：“我们致力于维持现状。”萨尔同时明确表示，以色列绝不接受土耳其在叙利亚建立基地。（央视新闻）",
+            "date_modified": "2026-08-22T18:04:47.000Z"
+        },
+        {
+            "id": 5053363,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-23/detail-inipfrff0905179.d.html",
+            "title": "【与特朗普立场一致的邮寄选票新规等待最高法院裁决】美国邮政署敲定一项新规，为邮寄投票增设更多门槛，该版本与特朗普最初方案存在小幅出入。新规则要求各州向邮政署提交合格选民名单，使用带特殊条形码的信封；选票必须印有官方选举邮件标识，并配备专属智能邮件条形码。受法院禁令约束，该政策目前暂停执行。若最高法院不作出有利判决，新规将无法在11月中期选举落地，政府已经没有充足时间推行邮寄选票限制措施。",
+            "date_modified": "2026-08-22T18:04:25.000Z"
+        },
+        {
+            "id": 5053360,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-23/detail-inipfrfa0266508.d.html",
+            "title": "派拉蒙与加州将于8月24日就华纳兄弟交易举行初步会谈。",
+            "date_modified": "2026-08-22T17:58:52.000Z"
+        },
+        {
+            "id": 5053359,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-23/detail-inipfrfa0266186.d.html",
+            "title": "特朗普整个6月持续买卖Coinbase股票。",
+            "date_modified": "2026-08-22T17:56:56.000Z"
+        },
+        {
+            "id": 5053353,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-23/detail-inipfrff0901434.d.html",
+            "title": "伊朗、埃及两国外长通电话，商讨缓和地区紧张局势。",
+            "date_modified": "2026-08-22T17:53:28.000Z"
+        },
+        {
+            "id": 5053352,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-23/detail-inipfrfc7037679.d.html",
+            "title": "【英国一起交通事故造成7人死亡 包括2名执勤警员】据英国警方22日通报，当天凌晨在克利夫兰郡发生一起交通事故，造成7人死亡。 通报说，一辆逆向行驶的汽车与一辆正常行驶的警车相撞，车上所有人员当场死亡，包括逆行汽车上的5人和警车上的两名警员。（新华社）",
+            "date_modified": "2026-08-22T17:52:53.000Z"
+        },
+        {
+            "id": 5053351,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-23/detail-inipfrff0900551.d.html",
+            "title": "【特朗普6月调整投资组合，抛售Meta等股票、买入伯克希尔】美国总统特朗普披露了6月共计1051笔金融交易，显现出其投资组合的大规模重新配置。整个6月，特朗普频繁调仓股票、债券以及ETF。根据8月22日美国政府道德办公室公开文件，这批交易总规模介于7810万—2.631亿美元之间，申报只标注交易金额区间，不披露精确数值。证券买入总额超4900万美元，卖出金额至少2850万美元。在1051笔交易当中，规模最大一笔为6月22日卖出VIG（先锋红利增值指数ETF），交易区间500万‑2500万美元。同日，他买入FIS（富达国民信息服务）、HD（家得宝），两笔均为100万‑500万美元。这是6月多笔对上述个股的最大买入操作，同期他也卖出过部分FIS。6月18日，特朗普卖出Meta、摩托罗拉解决方案（MSI），两笔金额均在100万‑500万美元；同一天，他买入同等金额区间的伯克希尔‑哈撒韦B类股（BRK.B）、Cintas（信达斯）、Visa（维萨）、万事达卡（MA）。上述交易发生在美联储主席凯文·沃什首次议息会议结束次日，6月17日市场因货币政策前景担忧出现抛售，6月18日股市迎来反弹。",
+            "date_modified": "2026-08-22T17:51:23.000Z"
+        },
+        {
+            "id": 5053348,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-23/detail-inipfrff0899517.d.html",
+            "title": "特朗普于6月18日抛售Meta与摩托罗拉股票。",
+            "date_modified": "2026-08-22T17:48:19.000Z"
+        },
+        {
+            "id": 5053347,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-23/detail-inipfrff0899373.d.html",
+            "title": "申报文件显示：特朗普6月调整投资组合。",
+            "date_modified": "2026-08-22T17:47:47.000Z"
+        },
+        {
+            "id": 5053342,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-23/detail-inipfkxi1027763.d.html",
+            "title": "伊朗代理国防部长：伊朗在近期冲突中部署了新式进攻及防御系统。",
+            "date_modified": "2026-08-22T17:42:33.000Z"
+        },
+        {
+            "id": 5053332,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-23/detail-inipfkxk2974524.d.html",
+            "title": "加拿大Unifor工会与通用汽车达成初步协议。",
+            "date_modified": "2026-08-22T17:35:23.000Z"
+        },
+        {
             "id": 5053328,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2026-08-23/detail-inipfkxk2967023.d.html",
@@ -241,118 +353,6 @@
             "url": "https://finance.sina.cn/7x24/2026-08-22/detail-inipfkxi0977269.d.html",
             "title": "加拿大总理卡尼：（将）防止美方势力入境并购本土企业。",
             "date_modified": "2026-08-22T15:51:27.000Z"
-        },
-        {
-            "id": 5053268,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-22/detail-inipfkxf7135861.d.html",
-            "title": "加拿大总理卡尼：美方新增多项条款，致使协议变得“不具备经济可行性”。",
-            "date_modified": "2026-08-22T15:51:11.000Z"
-        },
-        {
-            "id": 5053267,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-22/detail-inipfkxk2927689.d.html",
-            "title": "加拿大总理卡尼：一旦达成协议，（美国）就必须恪守该协议。",
-            "date_modified": "2026-08-22T15:50:33.000Z"
-        },
-        {
-            "id": 5053266,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-22/detail-inipfkxk2927577.d.html",
-            "title": "加拿大总理卡尼：（国家）财政实力至关重要，我国财政状况井然有序。",
-            "date_modified": "2026-08-22T15:50:21.000Z"
-        },
-        {
-            "id": 5053265,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-22/detail-inipfkxk2927415.d.html",
-            "title": "加拿大总理卡尼：美国想对所有东西都征收关税。",
-            "date_modified": "2026-08-22T15:49:55.000Z"
-        },
-        {
-            "id": 5053264,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-22/detail-inipfkxi0976604.d.html",
-            "title": "加拿大总理卡尼：今年春天我就警告过，美国企图打垮我们，进而掌控我们，而我承诺过，这种情况绝对不会发生。我们正在践行这一承诺。加拿大正变得更加强大，对美国的依赖程度不断降低。我们所获得的发展，已经远超美方能够夺走的东西。 而这仅仅只是开端。",
-            "date_modified": "2026-08-22T15:49:38.000Z"
-        },
-        {
-            "id": 5053263,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-22/detail-inipfkxk2927090.d.html",
-            "title": "加拿大总理马克：我国经济创造就业的速度是美国的四倍。我国对美以外国家的出口大幅增长，有望在未来十年实现翻番。",
-            "date_modified": "2026-08-22T15:49:16.000Z"
-        },
-        {
-            "id": 5053262,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-22/detail-inipfkxf7134954.d.html",
-            "title": "加拿大总理卡尼在被问及美国是否要求加拿大对其他国加征关税时表示：某些领域存在相关因素。",
-            "date_modified": "2026-08-22T15:47:48.000Z"
-        },
-        {
-            "id": 5053261,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-22/detail-inipfkxk2926495.d.html",
-            "title": "加拿大总理卡尼：市场对我们的关键矿产需求量很大。",
-            "date_modified": "2026-08-22T15:47:36.000Z"
-        },
-        {
-            "id": 5053260,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-22/detail-inipfkxi0975646.d.html",
-            "title": "加拿大总理卡尼：政府将为受新50%关税影响的行业准备财政支持。",
-            "date_modified": "2026-08-22T15:47:22.000Z"
-        },
-        {
-            "id": 5053259,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-22/detail-inipfkxi0975131.d.html",
-            "title": "【普京称俄军加大对乌企业打击】当地时间22日，俄罗斯总统普京表示，乌克兰武装部队在过去40天里持续使用导弹和无人机对俄罗斯发动攻击，企图借此击败俄罗斯，但这“不过是一场冒险”。他称，乌军的打击并未造成任何实质性转折。普京还称，作为对乌军打击俄罗斯境内民用设施的回应，俄军加大了对乌克兰企业的打击，且俄方的报复性打击 “更具破坏性”。（央视新闻）",
-            "date_modified": "2026-08-22T15:46:02.000Z"
-        },
-        {
-            "id": 5053258,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-22/detail-inipfkxk2924184.d.html",
-            "title": "【泽连斯基称法国同意向乌克兰提供导弹生产许可】乌克兰总统泽连斯基22日在社交媒体发文说，他当天与法国总统马克龙通电话，法国已同意加快向乌克兰供应法制武器装备与导弹，并将向乌方提供相关导弹的生产许可。（新华社）",
-            "date_modified": "2026-08-22T15:42:22.000Z"
-        },
-        {
-            "id": 5053257,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-22/detail-inipfkxi0970708.d.html",
-            "title": "加拿大总理卡尼：美方最后一刻提出的修改内容也涉及汽车行业，对美墨加协定的未来而言“不是好消息”。",
-            "date_modified": "2026-08-22T15:36:59.000Z"
-        },
-        {
-            "id": 5053256,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-22/detail-inipfkxf7131462.d.html",
-            "title": "加拿大总理卡尼：加拿大将在相关行业提供关税保护。",
-            "date_modified": "2026-08-22T15:36:34.000Z"
-        },
-        {
-            "id": 5053255,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-22/detail-inipfkxe0356628.d.html",
-            "title": "加拿大总理卡尼：美方拒绝下调中重型卡车关税。",
-            "date_modified": "2026-08-22T15:31:23.000Z"
-        },
-        {
-            "id": 5053254,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-22/detail-inipfkxf7129037.d.html",
-            "title": "加拿大总理卡尼谈美国提议的最后修改：美国试图限制加拿大签署其他贸易协定的权限。",
-            "date_modified": "2026-08-22T15:31:03.000Z"
-        },
-        {
-            "id": 5053253,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-22/detail-inipfkxi0967218.d.html",
-            "title": "加拿大总理卡尼：昨晚，我已指示我方谈判人员返回渥太华。 我们无法接受美方给出的条件，也不会满足他们提出的要求。",
-            "date_modified": "2026-08-22T15:30:42.000Z"
         }
     ]
 }
