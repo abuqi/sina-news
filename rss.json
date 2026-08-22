@@ -6,6 +6,34 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 5053496,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-23/detail-inipfvpc0860530.d.html",
+            "title": "【上周有近200艘船只通行霍尔木兹海峡】英国海上贸易行动办公室的数据显示：上周有近200艘船只通行霍尔木兹海峡，高于前一周的150艘，而两周前通行量仅约40艘。海事情报机构Kpler的数据显示，过去两周，该海峡超过80%的液货运输船舶，要么选择美国支持、获得联合国国际海事组织许可的阿曼绕行航线，要么关闭船舶自动识别系统隐匿航行。",
+            "date_modified": "2026-08-22T22:13:12.000Z"
+        },
+        {
+            "id": 5053495,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-23/detail-inipfvpe2807011.d.html",
+            "title": "印度官员称，一艘散货船在印度东海岸沉没，印度海岸警卫队已救出14名船员，目前正在搜寻另外四名失踪船员。",
+            "date_modified": "2026-08-22T21:59:10.000Z"
+        },
+        {
+            "id": 5053494,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-23/detail-inipfvpc0853183.d.html",
+            "title": "特朗普：美国新领土。",
+            "date_modified": "2026-08-22T21:47:49.000Z"
+        },
+        {
+            "id": 5053493,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-23/detail-inipfvpk4061109.d.html",
+            "title": "【日本本州岛5.8级地震已致多人受伤】日本本州岛5.8级地震后，当地已出现多名伤者。截至当地时间4时，埼玉县有9人受伤，截至当地时间5时，神奈川县有3人受伤；此外，东京有人被玻璃划伤。据东京消防厅消息，截至当地时间23日3时，已接到约30起与地震有关的报警。",
+            "date_modified": "2026-08-22T21:41:53.000Z"
+        },
+        {
             "id": 5053489,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2026-08-23/detail-inipfvpe2795213.d.html",
@@ -326,34 +354,6 @@
             "url": "https://finance.sina.cn/7x24/2026-08-23/detail-inipfkxk2974524.d.html",
             "title": "加拿大Unifor工会与通用汽车达成初步协议。",
             "date_modified": "2026-08-22T17:35:23.000Z"
-        },
-        {
-            "id": 5053328,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-23/detail-inipfkxk2967023.d.html",
-            "title": "中国地震台网正式测定：08月23日01时00分在日本本州岛（北纬35.90度，东经140.25度）发生5.8级地震，震源深度70千米。",
-            "date_modified": "2026-08-22T17:20:13.000Z"
-        },
-        {
-            "id": 5053327,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-23/detail-inipfkxi1016212.d.html",
-            "title": "印度海岸警卫队：已救起2名幸存者。",
-            "date_modified": "2026-08-22T17:19:59.000Z"
-        },
-        {
-            "id": 5053324,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-23/detail-inipfkxk2965183.d.html",
-            "title": "【加拿大宣布9月8日起对美国商品征收报复性关税】当地时间8月22日，加拿大总理卡尼表示，从9月8日起，加拿大将对来自美国的多个行业的进口商品征收关税，以报复美国新关税。卡尼表示，这些报复性关税将涉及钢铁、乳制品、家电、农业设备、纸浆和造纸以及电子产品等行业，还将包括目前受到232条款和338条款关税影响的产品。卡尼称，“我们不能接受他们提出的条件，也不会满足他们的要求”，为了保护加拿大工人、农民、家庭和企业，加拿大将对美国的新关税采取对等措施。（央视新闻）",
-            "date_modified": "2026-08-22T17:14:39.000Z"
-        },
-        {
-            "id": 5053323,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-23/detail-inipfkxi1014145.d.html",
-            "title": "美国将参加亚太经合组织（APEC）高官会，会议持续至8月28日。",
-            "date_modified": "2026-08-22T17:14:01.000Z"
         }
     ]
 }
