@@ -6,6 +6,76 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 5053402,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-23/detail-inipfrff0933506.d.html",
+            "title": "伊朗最高安全官员雷扎伊：伊朗将打击那些协助美国对伊朗发动经济战国家的利益。",
+            "date_modified": "2026-08-22T19:20:57.000Z"
+        },
+        {
+            "id": 5053401,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-23/detail-inipfrfc7054095.d.html",
+            "title": "伊朗安全部门负责人：特朗普的鲁莽行事正促使各国谋求核武器。",
+            "date_modified": "2026-08-22T19:11:57.000Z"
+        },
+        {
+            "id": 5053400,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-23/detail-inipfrff0929808.d.html",
+            "title": "【美国友人“赛考斯”受邀来华参观交流】应中国教育国际交流协会邀请，支持中国治沙事业的美国友人“赛考斯”（本名罗纳德·萨科尔斯基）23日凌晨抵达北京，将于8月23日至9月1日访问北京、内蒙古、河南三地，再续一段跨越山海的中美民间友谊。（新华社）",
+            "date_modified": "2026-08-22T19:05:22.000Z"
+        },
+        {
+            "id": 5053399,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-23/detail-inipfrff0927854.d.html",
+            "title": "伊朗最高国家安全委员会秘书雷扎伊：美国民众反对对伊朗开战，并不支持美国军方与政府。而在伊朗，民众与政府团结一致，支持本国武装力量。",
+            "date_modified": "2026-08-22T18:58:38.000Z"
+        },
+        {
+            "id": 5053397,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-23/detail-inipfrff0926224.d.html",
+            "title": "【广西水文中心发布洪水红色预警 预计明江水位将全线超警】8月23日0时，广西全区共有明江及支流思州河、派连河、公安河，左江上游平而河等5条河流8个站超警0.29～4.78米，明江全线超警。（央视新闻）",
+            "date_modified": "2026-08-22T18:53:43.000Z"
+        },
+        {
+            "id": 5053396,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-23/detail-inipfrff0925938.d.html",
+            "title": "【一艘土耳其商船在黑海遇袭 致1死8伤】据土耳其伊赫拉斯通讯社22日报道，一艘由土耳其航运公司运营的商船当天凌晨在俄罗斯黑海港口新罗西斯克附近海域遭袭，造成1名船员死亡、8人受伤。（新华社）",
+            "date_modified": "2026-08-22T18:52:58.000Z"
+        },
+        {
+            "id": 5053395,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-23/detail-inipfrfh2874111.d.html",
+            "title": "【英伟达通知客户AI相关产品涨价超15%】英伟达部分大客户收到通知，多数情况下搭载其人工智能芯片的服务器价格涨幅将超过15%。知情人士称，此次涨价将针对明年初交付的服务器产品，涉及搭载Vera Rubin和Grace Blackwell旗舰芯片的机型，具体涨幅视芯片代次与内存配置而定。相关沟通尚未对外公开。知情人士表示，为微软、谷歌、甲骨文等大型数据中心运营商代工服务器的企业，近期已向客户通报涨价事宜。",
+            "date_modified": "2026-08-22T18:45:02.000Z"
+        },
+        {
+            "id": 5053394,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-23/detail-inipfrff0922336.d.html",
+            "title": "英伟达已通知客户，AI相关产品涨价幅度超过15%。",
+            "date_modified": "2026-08-22T18:42:29.000Z"
+        },
+        {
+            "id": 5053393,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-23/detail-inipfrff0921692.d.html",
+            "title": "伊朗总统：我曾面见最高领袖，最高领袖在讲话中也公开表示，我们必须摆脱这种“既非战争、也非和平”的局面。我们不会在敌人面前屈辱退让、低头屈服。我们可以带着实力，同时秉持理性坐下来谈判，解决我们面临的问题。这是可以实现的，我们也正为此付出努力。",
+            "date_modified": "2026-08-22T18:41:07.000Z"
+        },
+        {
+            "id": 5053392,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-23/detail-inipfrff0920525.d.html",
+            "title": "法国总统府：沙特2030愿景与法国投资计划开展对接，麦加协议结合地区局势重塑联盟格局。",
+            "date_modified": "2026-08-22T18:38:35.000Z"
+        },
+        {
             "id": 5053391,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2026-08-23/detail-inipfrff0916087.d.html",
@@ -283,76 +353,6 @@
             "url": "https://finance.sina.cn/7x24/2026-08-22/detail-inipfkxi0979025.d.html",
             "title": "加拿大总理卡尼谈及贸易争端：遭遇攻击，就必须予以反击。",
             "date_modified": "2026-08-22T15:56:22.000Z"
-        },
-        {
-            "id": 5053278,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-22/detail-inipfkxi0978480.d.html",
-            "title": "加拿大总理卡尼：我国关键矿产产业已取得长足发展。",
-            "date_modified": "2026-08-22T15:54:46.000Z"
-        },
-        {
-            "id": 5053277,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-22/detail-inipfkxe0364279.d.html",
-            "title": "加拿大总理卡尼：关键矿产可作为对美谈判筹码。",
-            "date_modified": "2026-08-22T15:54:38.000Z"
-        },
-        {
-            "id": 5053276,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-22/detail-inipfkxk2928768.d.html",
-            "title": "加拿大总理卡尼：（美加在）关键矿产领域错失合作机遇，责任在于美方。",
-            "date_modified": "2026-08-22T15:53:32.000Z"
-        },
-        {
-            "id": 5053275,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-22/detail-inipfkxk2928544.d.html",
-            "title": "加拿大总理卡尼：不再敦促各省将美国酒类重新摆回商店货架。",
-            "date_modified": "2026-08-22T15:53:01.000Z"
-        },
-        {
-            "id": 5053274,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-22/detail-inipfkxe0363778.d.html",
-            "title": "加拿大总理卡尼：将于下周公布扶持企业的具体方案。",
-            "date_modified": "2026-08-22T15:52:53.000Z"
-        },
-        {
-            "id": 5053273,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-22/detail-inipfkxk2928422.d.html",
-            "title": "加拿大总理卡尼：我们如今对美方的诉求有了全新认知。",
-            "date_modified": "2026-08-22T15:52:31.000Z"
-        },
-        {
-            "id": 5053272,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-22/detail-inipfkxk2928354.d.html",
-            "title": "加拿大总理卡尼：我们并不情愿实施反制关税，但已别无选择。",
-            "date_modified": "2026-08-22T15:52:23.000Z"
-        },
-        {
-            "id": 5053271,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-22/detail-inipfkxi0977446.d.html",
-            "title": "加拿大总理卡尼：美加双方在媒体监管规则、法语相关议题上存在分歧。",
-            "date_modified": "2026-08-22T15:52:01.000Z"
-        },
-        {
-            "id": 5053270,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-22/detail-inipfkxk2928123.d.html",
-            "title": "加拿大总理卡尼：我们仍希望在诸多领域同美国开展合作。",
-            "date_modified": "2026-08-22T15:51:49.000Z"
-        },
-        {
-            "id": 5053269,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-22/detail-inipfkxi0977269.d.html",
-            "title": "加拿大总理卡尼：（将）防止美方势力入境并购本土企业。",
-            "date_modified": "2026-08-22T15:51:27.000Z"
         }
     ]
 }
