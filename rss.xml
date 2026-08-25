@@ -4,11 +4,127 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Tue, 25 Aug 2026 20:34:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 21:33:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据Axios：美国国务卿鲁比奥近日向多位外国外交官员表示，“目前” 美国预计不会对伊朗发起新的打击。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-26/detail-inipqsya5414310.d.html</link>
+            <guid>5058529</guid>
+            <pubDate>Tue, 25 Aug 2026 21:31:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国司法部表示，德勤同意支付 2150 万美元，了结被指控的就业歧视违法行为。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-26/detail-inipqsya5412769.d.html</link>
+            <guid>5058528</guid>
+            <pubDate>Tue, 25 Aug 2026 21:28:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【韩国DRAM 8月出口价格同比暴涨401%】据韩国《朝鲜日报》报道，韩国DRAM出口价格持续飙升，AI驱动的HBM生产正在挤压普通内存供应。数据显示，本月1日至20日，韩国DRAM出口单价达到每公斤9.2183万美元，同比上涨401%，较2023年1月低点上涨约12.5倍。高盛预计，DRAM供应缺口将从今年的5.0%扩大至明年的5.9%，并认为“AI服务器所需的HBM以及大容量服务器DRAM正在吸收有限的生产产能，导致普通DRAM供应进一步收紧”。TrendForce预计，到明年底，三星、SK海力士和美光用于HBM生产的晶圆投入量将占DRAM总晶圆投入的30%，但HBM占实际DRAM比特供应量仅约13%。内存厂商警告，AI需求推动的DRAM和NAND供应紧张可能持续至2027年以后。SK海力士表示，从供应端来看，2027年可能成为“内存行业历史上最严重的短缺年份”。高盛预计，供应短缺可能持续至2028年。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-26/detail-inipqsye2182717.d.html</link>
+            <guid>5058527</guid>
+            <pubDate>Tue, 25 Aug 2026 21:24:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：摩根大通放宽针对 SpaceX 股票的质押借款限制。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-26/detail-inipqsya5407536.d.html</link>
+            <guid>5058526</guid>
+            <pubDate>Tue, 25 Aug 2026 21:21:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  报道援引一名美国官员消息：亚伯拉罕・林肯号航空母舰已离开中央司令部责任区。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-26/detail-inipqsye2178253.d.html</link>
+            <guid>5058525</guid>
+            <pubDate>Tue, 25 Aug 2026 21:17:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富时A50期指连续夜盘收涨0.21%，报14648点。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-26/detail-inipqsye2177247.d.html</link>
+            <guid>5058524</guid>
+            <pubDate>Tue, 25 Aug 2026 21:15:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周二（8月25日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.7173元，较周一纽约尾盘涨45点，日内整体交投于6.7263-6.7161元区间，逼近2023年2月2日顶部6.7057元、当年1月16日顶部6.6975元、以及2022年2月24日顶部6.3060元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-26/detail-inipqsye2173987.d.html</link>
+            <guid>5058523</guid>
+            <pubDate>Tue, 25 Aug 2026 21:08:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比特币跌破78000美元，日内跌1.42%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-26/detail-inipqsya5401442.d.html</link>
+            <guid>5058522</guid>
+            <pubDate>Tue, 25 Aug 2026 21:08:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  韩国央行：韩国 8 月综合企业景气指数为 99.6，7 月为 98.5。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-26/detail-inipqsyf6374712.d.html</link>
+            <guid>5058521</guid>
+            <pubDate>Tue, 25 Aug 2026 21:00:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储巴尔金：如果债务持续攀升，到某个节点投资者将停止买入。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-26/detail-inipqsye2168719.d.html</link>
+            <guid>5058520</guid>
+            <pubDate>Tue, 25 Aug 2026 20:59:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储巴尔金：美国债务终将迎来清算时刻。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-26/detail-inipqsya5395360.d.html</link>
+            <guid>5058519</guid>
+            <pubDate>Tue, 25 Aug 2026 20:58:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  基辅响起防空警报。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-26/detail-inipqsya5394473.d.html</link>
+            <guid>5058518</guid>
+            <pubDate>Tue, 25 Aug 2026 20:56:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【行业周报：美国上周API原油库存增超400万桶】美国石油协会（API）数据显示，上周，美国API原油库存 +420万桶，之前一周 -32.8万桶。
+上周API库欣原油库存 +100万桶，前值 -143.8万桶。
+上周API成品油汽油库存 -320万桶（前值 +107.6万桶）、馏分油库存 -50万桶（前值 -279.7万桶）。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-26/detail-inipqsye2164888.d.html</link>
+            <guid>5058517</guid>
+            <pubDate>Tue, 25 Aug 2026 20:52:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周二（8月25日）纽约尾盘，现货黄金涨0.21%，报4662.05美元/盎司，整体呈现出宽底U形走势，亚太早盘冲高回落、一度涨至4696.83美元。现货白银跌0.17%，报68.82美元/盎司。COMEX铜期货涨1.53%，报6.8095美元/磅，逼近8月6日顶部6.96美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-26/detail-inipqnsh2294061.d.html</link>
+            <guid>5058516</guid>
+            <pubDate>Tue, 25 Aug 2026 20:49:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【机构：美国财政部或从TGA账户调拨1000亿美元用于债券回购】SMBC日兴证券美国公司美国利率策略主管阿巴特（Joseph Abate）在一份报告中表示，财政部或可将其在美联储账户中的1000亿美元资金转向定期债务的购买，以替代任何潜在的三方回购投资。SMBC估计，财政部一般账户（TGA）中的平均超额现金约为1650亿美元，不过每日总额波动较大，盈余日的标准差约为960亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-26/detail-inipqnsh2290949.d.html</link>
+            <guid>5058515</guid>
+            <pubDate>Tue, 25 Aug 2026 20:43:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  房地美：7 月抵押贷款相关投资组合的未偿还本金总额增加约 12 亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-26/detail-inipqnsh2285214.d.html</link>
+            <guid>5058514</guid>
+            <pubDate>Tue, 25 Aug 2026 20:36:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：日本自民党提议进一步提高持有房产 5 年及以下的业主出售公寓时适用的资本利得税税率。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-26/detail-inipqnsh2284993.d.html</link>
+            <guid>5058513</guid>
+            <pubDate>Tue, 25 Aug 2026 20:36:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  房地美：多户住宅抵押贷款逾期率从 6 月的 0.51% 上升至 7 月的 0.60%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-26/detail-inipqnse5512053.d.html</link>
+            <guid>5058512</guid>
+            <pubDate>Tue, 25 Aug 2026 20:35:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  房地美：单户住宅抵押贷款逾期率由 6 月的 0.60% 降至 7 月的 0.59%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-26/detail-inipqnse5511588.d.html</link>
+            <guid>5058511</guid>
+            <pubDate>Tue, 25 Aug 2026 20:34:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  房地美：7 月份抵押贷款组合年化增速为 1.8%。]]></title>
             <link>https://finance.sina.cn/7x24/2026-08-26/detail-inipqnse5510949.d.html</link>
@@ -194,119 +310,6 @@
             <link>https://finance.sina.cn/7x24/2026-08-26/detail-inipqnse5463089.d.html</link>
             <guid>5058480</guid>
             <pubDate>Tue, 25 Aug 2026 19:19:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  消息人士：欧洲央行政策制定者准备 9 月加息，以遏制伊朗冲突带来的连锁负面影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-26/detail-inipqnse5462887.d.html</link>
-            <guid>5058479</guid>
-            <pubDate>Tue, 25 Aug 2026 19:19:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：OpenAI数据中心主管Chris Malone已经离职。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-26/detail-inipqnsh2233876.d.html</link>
-            <guid>5058478</guid>
-            <pubDate>Tue, 25 Aug 2026 19:16:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【芝加哥玉米期货涨1.7%，大豆涨约1.2%】周二（8月25日）纽约尾盘，彭博谷物分类指数涨1.06%，报33.5249点，整体呈现出V形反转。CBOT玉米期货涨1.70%，报5.2425美元/蒲式耳。CBOT小麦期货涨0.71%，报7.0450美元/蒲式耳。CBOT大豆期货涨1.18%，报12.3825美元/蒲式耳，豆粕期货涨0.30%，豆油期货涨0.64%。CBOT瘦肉猪期货跌0.86%，活牛期货跌1.30%，饲牛期货跌1.45%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-26/detail-inipqnsh2230690.d.html</link>
-            <guid>5058477</guid>
-            <pubDate>Tue, 25 Aug 2026 19:10:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  伊朗外交部长：拟议的新通道框架、联合排雷行动以及霍尔木兹海峡未来管理模式，就是典型例证。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-26/detail-inipqnse5457721.d.html</link>
-            <guid>5058476</guid>
-            <pubDate>Tue, 25 Aug 2026 19:09:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  伊朗外交部长：在同巴基斯坦与阿曼来宾的会谈中，各方着重强调采取地区层面的解决方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-26/detail-inipqnsh2230078.d.html</link>
-            <guid>5058475</guid>
-            <pubDate>Tue, 25 Aug 2026 19:09:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  伊朗外交部长：伊朗致力于维护地区和平与稳定，并以与邻国开展坚定外交行动与之相呼应。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-26/detail-inipqnsh2229840.d.html</link>
-            <guid>5058474</guid>
-            <pubDate>Tue, 25 Aug 2026 19:09:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“叙利亚民主力量”宣布解散 全面整合进国家机构】叙利亚库尔德武装主导的“叙利亚民主力量”领导人马兹卢姆·阿卜迪在叙总统府举行的新闻发布会上宣布，解散“叙利亚民主力量”及叙库尔德武装所成立的自治政府，并将其全面整合进叙利亚国家机构。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-26/detail-inipqnse5457098.d.html</link>
-            <guid>5058473</guid>
-            <pubDate>Tue, 25 Aug 2026 19:08:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[派拉蒙天空之舞公司承认，正在考虑多种方案，以解决针对其 1100 亿美元收购华纳兄弟探索公司交易提起的诉讼，其中包括对这笔交易进行结构性调整。该公司周一晚间发表声明称：“我们仍抱有希望，随时准备继续开展诚意磋商，解决各州总检察长提起的诉讼，包括采取结构性补救措施，推动本次交易继续推进。”]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-26/detail-inipqnsh2228771.d.html</link>
-            <guid>5058472</guid>
-            <pubDate>Tue, 25 Aug 2026 19:07:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【古巴谴责美国延长对古实施经济封锁】古巴外交部长罗德里格斯25日谴责美国政府再次延长从1962年开始对古巴实施的《对敌贸易法》期限。罗德里格斯通过社交媒体表示：“古巴以最强烈的措辞谴责美国政府将经济、商业和金融封锁再延长一年，这一针对我国人民的种族灭绝政策已持续超过六十年。”他还表示，“古巴不是威胁，封锁才是”。（央视新闻）]]></title>
-            <guid>5058471</guid>
-            <pubDate>Tue, 25 Aug 2026 19:03:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【富兰克林邓普顿：英伟达股东不只看漂亮业绩 资本部署细节更受关注】富兰克林邓普顿的投资组合经理Sara Araghi表示，英伟达不能只是在财报数字上超出市场预期，还需要向投资者提供更具体的信息，让他们了解该公司准备如何部署资本，以及如何维持支出计划。Araghi指出，英伟达未来12个月预期市盈率与该公司的营收和盈利存在明显反差。根据数据，英伟达动态市盈率约为21倍。她认为，这个市盈率倍数反映出市场预期英伟达增长速度将放缓，尽管绝对增速仍然相当可观。Araghi认为：“增长幅度依然非常惊人，但减速期即将到来，不幸的是市场已经在看明年的情况。”Araghi表示，英伟达能否继续实现盈利增长非常重要，因为这将让华尔街相信，该公司能够产生足够的自由现金流来支撑所需投资。她还补充称，公司“也必须用这些现金回购股票”。在毛利率方面，Araghi表示，对于一家硬件公司而言，毛利率以“7”开头，也就是英伟达目前约75%的水平，实属非常罕见，因此市场会密切关注，尤其是在投入成本上升的背景下。她指出，英伟达已经通过提价来抵消内存成本上升的影响。据报道，基于Vera Rubin和Grace Blackwell架构的2027年初服务器系统面向主要客户的售价将上涨超过15%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-26/detail-inipqnsh2225560.d.html</link>
-            <guid>5058470</guid>
-            <pubDate>Tue, 25 Aug 2026 19:01:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联邦通信委员会表示，联合筹款委员会与政党委员会可按此前仅候选人可享有的折扣价购买电视广告播出时段。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-26/detail-inipqnse5452361.d.html</link>
-            <guid>5058469</guid>
-            <pubDate>Tue, 25 Aug 2026 19:00:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳斯达克中国金龙指数涨超1%，世纪互联涨7.96%，BOSS直聘涨5.63%，优信涨5.26%，网易涨4.58%，小鹏汽车涨3.99%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-26/detail-inipqnse5452279.d.html</link>
-            <guid>5058468</guid>
-            <pubDate>Tue, 25 Aug 2026 19:00:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恒指期货夜盘收涨0.42%，报25592.75点，高水81.65点。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-26/detail-inipqnse5452036.d.html</link>
-            <guid>5058467</guid>
-            <pubDate>Tue, 25 Aug 2026 19:00:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗能源部长：我国拥有数量众多的发电厂，即便敌方倾尽全部武器弹药，也无法将我们所有发电厂以及电力设施全部摧毁。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-26/detail-inipqnse5451817.d.html</link>
-            <guid>5058466</guid>
-            <pubDate>Tue, 25 Aug 2026 18:59:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【IMF总裁呼吁各国应对财政风险 央行继续专注抗通胀】国际货币基金组织(IMF)总裁克里斯塔利娜·格奥尔基耶娃表示，在全球经济面临日益增大的压力之际，各国政府应着手应对不断加剧的财政挑战，央行则应继续致力于降低通胀。“所有国家都需要解决自身财政问题，制定并公布可信的计划，确保债务和赤字处于可持续轨道，”格奥尔基耶娃周二在IMF华盛顿总部发表事先准备好的讲话时表示。“各国央行必须高度专注于实现价格稳定的使命。”]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-26/detail-inipqnse5451003.d.html</link>
-            <guid>5058465</guid>
-            <pubDate>Tue, 25 Aug 2026 18:58:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“叙利亚民主力量”宣布解散】叙利亚库尔德武装主导的“叙利亚民主力量”领导人马兹卢姆·阿卜迪25日在叙总统府举行的新闻发布会上宣布，解散“叙利亚民主力量”及叙库尔德武装所成立的自治政府，并将其全面整合进叙利亚国家机构。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-26/detail-inipqnsh2222328.d.html</link>
-            <guid>5058464</guid>
-            <pubDate>Tue, 25 Aug 2026 18:55:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[QIAGEN迅速扩大涨幅，现涨5.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-26/detail-inipqnse5449315.d.html</link>
-            <guid>5058463</guid>
-            <pubDate>Tue, 25 Aug 2026 18:54:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美政府称若肯尼迪中心无法获准翻修 或考虑拆除】当地时间8月24日，特朗普政府在一份法院文件中首次提出，如果肯尼迪中心无法获准关闭两年进行翻修，未来可能考虑拆除该建筑。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-26/detail-inipqnsh2221082.d.html</link>
-            <guid>5058462</guid>
-            <pubDate>Tue, 25 Aug 2026 18:53:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[布伦特原油期货收于每桶88.58美元，下跌3.59美元，跌幅3.89%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-26/detail-inipqnse5447112.d.html</link>
-            <guid>5058461</guid>
-            <pubDate>Tue, 25 Aug 2026 18:51:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
