@@ -6,6 +6,334 @@
     "description": "sina news zhibo",
     "items": [
         {
+            "id": 5058460,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqnse5442868.d.html",
+            "title": "埃克森美孚表示，圭亚那丽萨统一号浮式生产储油卸油轮（FPSO）的运营已恢复正常，此前一度中断的卸油作业现已完成。",
+            "date_modified": "2026-08-25T18:44:43.000Z"
+        },
+        {
+            "id": 5058459,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqnse5442714.d.html",
+            "title": "根据路透社/益普索（IPSOS）的民调，美国选民更偏好民主党应对生活成本问题的政策方向，支持率为36%，共和党为28%。",
+            "date_modified": "2026-08-25T18:44:30.000Z"
+        },
+        {
+            "id": 5058458,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqnse5437439.d.html",
+            "title": "财捷集团股价成交量激增后下挫，最新股价下跌3.1%。",
+            "date_modified": "2026-08-25T18:37:34.000Z"
+        },
+        {
+            "id": 5058457,
+            "content_html": "",
+            "title": "英国财政大臣就伊朗问题表态：支持美国寻求外交解决方案的工作；对包括“经济孤立行动”在内的施压升级举措表示欢迎。",
+            "date_modified": "2026-08-25T18:37:23.000Z"
+        },
+        {
+            "id": 5058456,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqnsh2209203.d.html",
+            "title": "英国财政大臣谈伊朗制裁：呼吁伊朗停止其在包括霍尔木兹海峡在内的整个地区的破坏稳定活动。",
+            "date_modified": "2026-08-25T18:36:35.000Z"
+        },
+        {
+            "id": 5058455,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqnsh2208691.d.html",
+            "title": "特朗普：乡村音乐歌手多莉·帕顿刚刚离世。自今晚6点起，全美范围内降半旗，为期一周。",
+            "date_modified": "2026-08-25T18:36:02.000Z"
+        },
+        {
+            "id": 5058454,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqnsh2207858.d.html",
+            "title": "【古巴谴责美国延长对古实施经济封锁】古巴外交部长罗德里格斯25日谴责美国政府再次延长从1962年开始对古巴实施的《对敌贸易法》期限。罗德里格斯通过社交媒体表示：“古巴以最强烈的措辞谴责美国政府将经济、商业和金融封锁再延长一年，这一针对我国人民的种族灭绝政策已持续超过六十年。”他还表示，“古巴不是威胁，封锁才是”。（新华社）",
+            "date_modified": "2026-08-25T18:35:03.000Z"
+        },
+        {
+            "id": 5058453,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqnse5435190.d.html",
+            "title": "伊朗外长阿拉格齐与巴基斯坦陆军参谋长穆尼尔元帅于周二通电话，就最新地区局势以及双方共同关切的议题展开磋商。",
+            "date_modified": "2026-08-25T18:34:50.000Z"
+        },
+        {
+            "id": 5058452,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5564756.d.html",
+            "title": "【阿曼外交大臣称有望很快宣布霍尔木兹海峡临时航道安排】当地时间25日，阿曼外交大臣巴德尔在访问伊朗时表示，阿曼和伊朗有望很快宣布关于霍尔木兹海峡临时航道以及恢复海峡安全通航的具体安排。",
+            "date_modified": "2026-08-25T18:33:29.000Z"
+        },
+        {
+            "id": 5058451,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5561714.d.html",
+            "title": "美国原油期货结算价报每桶82.36美元，下跌2.65美元，跌幅3.12%。",
+            "date_modified": "2026-08-25T18:30:55.000Z"
+        },
+        {
+            "id": 5058450,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5561575.d.html",
+            "title": "【美国FDA批准雅培可同时监测血糖与酮体的连续监测设备】美国食品药品监督管理局（FDA）向雅培旗下雅培糖尿病护理公司授予Libre Duo 10天双参数葡萄糖‑酮体连续监测系统上市许可。这是美国首款可同时持续追踪酮体与血糖水平的可穿戴设备。Libre Duo 10天版获批用于2岁及以上糖尿病患者。该设备每分钟检测酮体与血糖数值，并向智能手机发送无线告警。共有6项临床试验、超600名受试者，为本次获批提供数据支撑。FDA此前授予该设备“突破性器械”认定，以加快审评流程。本次获批通过De Novo上市前置通道完成，该通道适用于全新类型的中低风险医疗器械。",
+            "date_modified": "2026-08-25T18:30:44.000Z"
+        },
+        {
+            "id": 5058449,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkk2333593.d.html",
+            "title": "上期所原油期货夜盘收跌3.80%，报569.30元人民币/桶。沪金夜盘收跌0.26%，沪银收跌0.14%。",
+            "date_modified": "2026-08-25T18:30:02.000Z"
+        },
+        {
+            "id": 5058448,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkk2333526.d.html",
+            "title": "美国食品药品监督管理局批准首款可同时持续监测酮体水平和血糖的可穿戴设备。",
+            "date_modified": "2026-08-25T18:29:57.000Z"
+        },
+        {
+            "id": 5058447,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5559385.d.html",
+            "title": "西门子能源公司：计划对工业业务进行去合并处理，同时保留具有重要意义的少数股权，以支持该业务的持续发展。",
+            "date_modified": "2026-08-25T18:27:55.000Z"
+        },
+        {
+            "id": 5058446,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkk2331644.d.html",
+            "title": "西门子能源正着手筹备工业业务板块转型，计划将其打造为一家独立公司。",
+            "date_modified": "2026-08-25T18:27:32.000Z"
+        },
+        {
+            "id": 5058445,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5557993.d.html",
+            "title": "美国民主党人敦促沃什维持联邦公开市场委员会每年8次会议的日程安排。",
+            "date_modified": "2026-08-25T18:26:11.000Z"
+        },
+        {
+            "id": 5058444,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkk2327295.d.html",
+            "title": "【美国对伊朗发起经济攻势 专家：作用有限且或“反噬”美国】当地时间24日，美国财政部长贝森特宣布，美国当天发起对伊朗“经济孤立”的新一轮制裁措施。美国从当天起把对伊朗经济制裁范围扩大到航空、数字资产、黄金、航运和技术行业5个领域。对此，伊朗经济和财政部长马达尼扎德当天回应称，伊朗政府已为应对新一轮制裁做好充分准备。马达尼扎德同时警告，美国若采取任何行动，就应该做好遭到伊朗反击的准备。分析认为，美国宣布对伊朗实施新一轮的制裁措施可能作用有限，美国难以借此实现其所谓目的，迫使伊朗接受美国的条件，而新的制裁措施还可能在政治、经济等多个方面“反噬”美国自身。",
+            "date_modified": "2026-08-25T18:22:30.000Z"
+        },
+        {
+            "id": 5058443,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5553065.d.html",
+            "title": "美国邮政署：调价将覆盖优先快递邮件（PME）、优先邮件（PM）、USPS陆运优势服务和甄选包裹业务。",
+            "date_modified": "2026-08-25T18:20:45.000Z"
+        },
+        {
+            "id": 5058442,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkk2322799.d.html",
+            "title": "迪尔公司股价随成交量激增下挫，最新报跌3.0%。",
+            "date_modified": "2026-08-25T18:17:23.000Z"
+        },
+        {
+            "id": 5058441,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5550156.d.html",
+            "title": "美国邮政署：节假日临时费率将于2026年10月4日至2027年1月17日生效，尚待美国邮政监管委员会审核批准。",
+            "date_modified": "2026-08-25T18:17:15.000Z"
+        },
+        {
+            "id": 5058440,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5549257.d.html",
+            "title": "美国邮政署申请2026年假日货运季临时提价。",
+            "date_modified": "2026-08-25T18:16:07.000Z"
+        },
+        {
+            "id": 5058439,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5548014.d.html",
+            "title": "阿拉斯加航空集团股价成交量激增，股价上涨，最新涨幅为3.2%。",
+            "date_modified": "2026-08-25T18:14:20.000Z"
+        },
+        {
+            "id": 5058438,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkk2319015.d.html",
+            "title": "【会议纪要显示，四家美联储分行董事会希望加息】周二公布的美联储贴现利率会议纪要显示，在美联储7月议息会议召开前，12家联邦储备银行中有四家银行的董事投票提议提高商业银行紧急贷款的利率。美联储政策制定者在7月28‑29日的会议上以9票赞成、3票反对的结果决定维持政策利率不变，上述加息提议遭到否决。这一情况也让外界得以进一步窥见该决议背后存在较大意见分歧。",
+            "date_modified": "2026-08-25T18:12:04.000Z"
+        },
+        {
+            "id": 5058437,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkk2316483.d.html",
+            "title": "市场资讯：日本计划依托长期技术支持，为稀土开采项目提供资金。",
+            "date_modified": "2026-08-25T18:08:36.000Z"
+        },
+        {
+            "id": 5058436,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5542032.d.html",
+            "title": "【古特雷斯呼吁安理会采取措施保护世界粮食安全】当地时间8月25日，联合国秘书长古特雷斯在安理会关于“冲突与粮食安全”的公开会上指出，冲突与暴力是当前全球粮食不安全和饥饿的重要驱动因素，解决粮食不安全问题的根本途径是维护和平、结束冲突。古特雷斯呼吁安理会采取三项具体措施来保护世界粮食安全：全面、持续落实第2417号决议，全面保护粮食系统，加强对人道主义工作人员的保护。",
+            "date_modified": "2026-08-25T18:06:02.000Z"
+        },
+        {
+            "id": 5058435,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5541975.d.html",
+            "title": "美国国家飓风中心表示，位于百慕大东北方向数百英里的风暴，未来48小时内发展为气旋的概率为40%。",
+            "date_modified": "2026-08-25T18:05:56.000Z"
+        },
+        {
+            "id": 5058434,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5539882.d.html",
+            "title": "国际货币基金组织总裁格奥尔基耶娃：所有国家都必须解决财政问题，并拿出可信方案，确保债务与赤字处于可持续发展轨道。",
+            "date_modified": "2026-08-25T18:03:40.000Z"
+        },
+        {
+            "id": 5058433,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5539568.d.html",
+            "title": "国际货币基金组织总裁格奥尔基耶娃：人工智能的发展前景会给金融稳定带来风险，低收入国家存在掉队的可能性。",
+            "date_modified": "2026-08-25T18:03:19.000Z"
+        },
+        {
+            "id": 5058432,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5539300.d.html",
+            "title": "国际货币基金组织总裁格奥尔基耶娃：得益于油气储备释放以及非海湾地区能源供应增加，全球经济经受住伊朗战争带来的能源冲击，表现好于市场担忧。",
+            "date_modified": "2026-08-25T18:03:00.000Z"
+        },
+        {
+            "id": 5058431,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkk2311743.d.html",
+            "title": "国际货币基金组织总裁格奥尔基耶娃：油价再度上涨可能加剧通胀，迫使各国央行维持限制性政策立场。",
+            "date_modified": "2026-08-25T18:02:54.000Z"
+        },
+        {
+            "id": 5058430,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5538532.d.html",
+            "title": "巴拉圭央行维持关键利率在5.5%不变。",
+            "date_modified": "2026-08-25T18:02:09.000Z"
+        },
+        {
+            "id": 5058429,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5537706.d.html",
+            "title": "国际货币基金组织总裁格奥尔基耶娃：能源需求下降、可再生能源占比提升，加之部分地区重新转向煤炭，也缓解了海湾地区的供应紧张局势。",
+            "date_modified": "2026-08-25T18:00:41.000Z"
+        },
+        {
+            "id": 5058428,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkk2310201.d.html",
+            "title": "国际货币基金组织总裁格奥尔基耶娃：需解决全球过度失衡问题以强化全球经济，国际货币基金组织正优化其外部平衡评估模型。",
+            "date_modified": "2026-08-25T18:00:35.000Z"
+        },
+        {
+            "id": 5058427,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5537524.d.html",
+            "title": "国际货币基金组织总裁格奥尔基耶娃表示，全球经济正在经受住能源冲击，但她对财政状况表示担忧。",
+            "date_modified": "2026-08-25T18:00:22.000Z"
+        },
+        {
+            "id": 5058426,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5537123.d.html",
+            "title": "巴拿马运河管理局：部分已通过运河的船舶在拍卖中支付了超过100万美元，以满足特定市场需求。",
+            "date_modified": "2026-08-25T17:59:38.000Z"
+        },
+        {
+            "id": 5058425,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkk2309555.d.html",
+            "title": "巴拿马运河管理局：受全球贸易供需格局变动影响，通行船位拍卖的市场成本已出现上涨。",
+            "date_modified": "2026-08-25T17:59:30.000Z"
+        },
+        {
+            "id": 5058424,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhke1414392.d.html",
+            "title": "【美移民执法局7月逮捕近5万名移民 创特朗普第二任期单月新高】最新数据显示，美国移民与海关执法局（ICE）7月逮捕近5万名移民，创下特朗普第二任期以来单月逮捕人数最高纪录。数据显示，移民与海关执法局7月共逮捕49571人，较6月的43021人增加约15%，较2月的29241人增加约70%。",
+            "date_modified": "2026-08-25T17:57:58.000Z"
+        },
+        {
+            "id": 5058423,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkk2308412.d.html",
+            "title": "美国医疗保险和医疗补助服务中心(CMS)：特朗普政府宣布拨款1.6亿美元，为阿拉斯加引进尖端技术、无人机处方配送、手术机器人等先进医疗手段。",
+            "date_modified": "2026-08-25T17:57:32.000Z"
+        },
+        {
+            "id": 5058422,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkk2304999.d.html",
+            "title": "美国防长赫格塞思：美国国防部将与小企业管理局合作推进精简版战争工厂委员会相关工作。",
+            "date_modified": "2026-08-25T17:52:47.000Z"
+        },
+        {
+            "id": 5058421,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkk2304587.d.html",
+            "title": "美国防长赫格塞思：美国将重启规模精简的战争工厂委员会。",
+            "date_modified": "2026-08-25T17:52:17.000Z"
+        },
+        {
+            "id": 5058420,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5530889.d.html",
+            "title": "消息人士：斯伦贝谢（SLB.N）与委内瑞拉国有石油公司PDVSA签署服务合同，得以获取委内瑞拉油田数据。",
+            "date_modified": "2026-08-25T17:50:42.000Z"
+        },
+        {
+            "id": 5058419,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkk2300502.d.html",
+            "title": "OpenAI：自发布首款定制推理芯片Jalapeño以来，我们一直在对该芯片及其配套系统开展测试。测试结果取得重大进展：单位功耗可输出更高智能能力，响应速度更快。该单一架构在不牺牲能效的前提下，同时实现更高吞吐量与更低延迟。Jalapeño将带来更快的ChatGPT响应速度、反应更灵敏的Codex会话与智能体，并且在需求持续增长的情况下保障服务稳定可用。",
+            "date_modified": "2026-08-25T17:46:58.000Z"
+        },
+        {
+            "id": 5058418,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkk2299397.d.html",
+            "title": "美国官员：中央司令部已清除霍尔木兹海峡进出航道的水雷，打通另一条通道，海上通行量随之增加。",
+            "date_modified": "2026-08-25T17:45:32.000Z"
+        },
+        {
+            "id": 5058417,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkk2298052.d.html",
+            "title": "美国加利福尼亚州总检察长表示，目前尚未安排与派拉蒙天空舞传媒进行和解谈判。",
+            "date_modified": "2026-08-25T17:43:51.000Z"
+        },
+        {
+            "id": 5058416,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkk2296281.d.html",
+            "title": "美国司法部起诉俄亥俄州法院，指控该法院禁止在其周边开展移民逮捕行动。",
+            "date_modified": "2026-08-25T17:41:26.000Z"
+        },
+        {
+            "id": 5058415,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5519844.d.html",
+            "title": "芝商所（CME Group）宣布美国锌期货完成首笔成交。",
+            "date_modified": "2026-08-25T17:36:14.000Z"
+        },
+        {
+            "id": 5058414,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5519243.d.html",
+            "title": "Figure AI：有44000名周活跃用户参与提供训练数据。",
+            "date_modified": "2026-08-25T17:35:28.000Z"
+        },
+        {
             "id": 5058413,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5517702.d.html",
@@ -25,334 +353,6 @@
             "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5514028.d.html",
             "title": "美国环境保护署（EPA）拟在密歇根州发放多项地下注入作业许可。",
             "date_modified": "2026-08-25T17:28:36.000Z"
-        },
-        {
-            "id": 5058410,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5512933.d.html",
-            "title": "美国官员：美军已与多家私营企业签订合同，负责（霍尔木兹海峡）排雷或爆破作业。",
-            "date_modified": "2026-08-25T17:27:08.000Z"
-        },
-        {
-            "id": 5058409,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5511193.d.html",
-            "title": "巴西与美国将于8月31日就关税问题举行磋商。",
-            "date_modified": "2026-08-25T17:24:50.000Z"
-        },
-        {
-            "id": 5058408,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkk2282887.d.html",
-            "title": "【德国调查人员发现莱比锡机场事件第三架涉事无人机】据多家德国媒体25日报道，政府部门在调查本月初发生的莱比锡机场无人机爆炸物事件时，发现了第三架无人机及军用级炸药。 据西德意志广播电台等媒体报道，此前未被披露的第三架无人机在莱比锡机场西部的一处田地里被发现。调查人员认为，袭击策划者在此次事件中动用了多架无人机。（新华社）",
-            "date_modified": "2026-08-25T17:23:46.000Z"
-        },
-        {
-            "id": 5058407,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkk2279718.d.html",
-            "title": "【美国得州野火蔓延超200平方公里 农村地区居民被疏散】当地时间8月25日，美国得克萨斯州农村地区野火规模不断扩大，所在地政府应急管理部门当日下令疏散居民。据悉，大火始于24日下午早些时候，已席卷得克萨斯州中北部超200平方公里的区域。最近几天，由于极端干燥的天气持续存在，美国南部和西部地区不断发生野火。美国国家跨部门消防中心表示，仅23日就报告了十几起新的大火。该中心称，今年以来，美国全国范围内已发生超过5万起山火，是过去10年来同期发生次数最多的一次。",
-            "date_modified": "2026-08-25T17:19:36.000Z"
-        },
-        {
-            "id": 5058406,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5505028.d.html",
-            "title": "6家交易对手在美联储逆回购操作中获得 4.05 亿美元。",
-            "date_modified": "2026-08-25T17:16:18.000Z"
-        },
-        {
-            "id": 5058405,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkk2274518.d.html",
-            "title": "美国官员：美国海军已从霍尔木兹海峡的主要航道中清除了水雷。",
-            "date_modified": "2026-08-25T17:11:13.000Z"
-        },
-        {
-            "id": 5058404,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5501635.d.html",
-            "title": "美国官员：过去30天内，超过500艘船只通过了阿曼附近的一个南部航道，其中约2%遭到伊朗无人机或导弹击中。",
-            "date_modified": "2026-08-25T17:10:39.000Z"
-        },
-        {
-            "id": 5058403,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkk2274098.d.html",
-            "title": "美国官员：海军已清理了伊朗与阿曼之间中央航道。美国水下无人机花了数月时间扫描该区域，并发现了超过100个疑似水雷的物体。",
-            "date_modified": "2026-08-25T17:10:30.000Z"
-        },
-        {
-            "id": 5058402,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5499695.d.html",
-            "title": "日本将试点运用区块链技术实现股票与债券实时结算。",
-            "date_modified": "2026-08-25T17:07:34.000Z"
-        },
-        {
-            "id": 5058401,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5497873.d.html",
-            "title": "美国两年期国债收益率在拍卖后持稳，最新下跌3.43个基点，报4.202%。",
-            "date_modified": "2026-08-25T17:05:11.000Z"
-        },
-        {
-            "id": 5058400,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkk2269011.d.html",
-            "title": "日本金融厅、财务省、日本央行与金融机构将成立一个研究小组。",
-            "date_modified": "2026-08-25T17:03:37.000Z"
-        },
-        {
-            "id": 5058399,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5496223.d.html",
-            "title": "美国卫生部计划为FDA增设科技领域副专员与药品领域副专员岗位。",
-            "date_modified": "2026-08-25T17:03:20.000Z"
-        },
-        {
-            "id": 5058398,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5495519.d.html",
-            "title": "美国财政部拍卖690亿美元两年期国债，得标利率4.204%（7月27日为4.315%，创2024年12月以来最高），投标倍数2.60（前次为2.66）。",
-            "date_modified": "2026-08-25T17:02:33.000Z"
-        },
-        {
-            "id": 5058397,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5494645.d.html",
-            "title": "巴西联邦税务局数据显示，7月联邦税收总额为2893.46亿雷亚尔（合564亿美元）。",
-            "date_modified": "2026-08-25T17:01:37.000Z"
-        },
-        {
-            "id": 5058396,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5494172.d.html",
-            "title": "在690亿美元拍卖前，2年期美国国债收益率约为4.208%。",
-            "date_modified": "2026-08-25T17:00:54.000Z"
-        },
-        {
-            "id": 5058395,
-            "content_html": "",
-            "title": "【夜盘期货收盘】国际铜夜盘收涨0.65%，沪铜收涨0.50%，沪铝收涨0.74%，沪锌收涨1.23%，沪铅收涨0.06%，沪镍收跌0.02%，沪锡收涨0.04%。氧化铝夜盘收跌1.00%，铝合金收涨0.52%。不锈钢夜盘收涨1.59%。",
-            "date_modified": "2026-08-25T17:00:02.000Z"
-        },
-        {
-            "id": 5058394,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkk2264776.d.html",
-            "title": "日本大金在墨西哥扩大产能，新建数据中心冷却设备工厂。",
-            "date_modified": "2026-08-25T16:58:31.000Z"
-        },
-        {
-            "id": 5058393,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5489349.d.html",
-            "title": "美国财政部长贝森特：伊朗领导层如今承认了全世界都看得到的事实，压力正在奏效。",
-            "date_modified": "2026-08-25T16:54:39.000Z"
-        },
-        {
-            "id": 5058392,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5486464.d.html",
-            "title": "市场资讯：两名直接参与霍尔木兹海峡扫雷事务的美国官员证实了特朗普的声明，并表示美国海军已清理了位于海峡中部、阿曼与伊朗之间的船舶交通分离区。",
-            "date_modified": "2026-08-25T16:50:56.000Z"
-        },
-        {
-            "id": 5058391,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5483580.d.html",
-            "title": "美国财政部长：我们将继续切断一切支撑伊朗的经济命脉，直至德黑兰陷入孤立。",
-            "date_modified": "2026-08-25T16:46:56.000Z"
-        },
-        {
-            "id": 5058390,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5473813.d.html",
-            "title": "伊朗议会议长卡利巴夫：美国在军事和政治战争中已经失败，在经济举措上也将继续失败。",
-            "date_modified": "2026-08-25T16:34:52.000Z"
-        },
-        {
-            "id": 5058389,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkk2244511.d.html",
-            "title": "联合国秘书长古特雷斯：绝对主导的时代已经落幕。世界主要大国误判了自身影响力，全球力量格局正在转变，重塑着大国权力关系。",
-            "date_modified": "2026-08-25T16:32:47.000Z"
-        },
-        {
-            "id": 5058388,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5467632.d.html",
-            "title": "美国财长贝森特：伊朗总统承认该国正面临经济危机，并表示战争迟早会结束。",
-            "date_modified": "2026-08-25T16:27:46.000Z"
-        },
-        {
-            "id": 5058387,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkk2237512.d.html",
-            "title": "阿曼外交部长：依照《伊斯兰堡备忘录》第五条，霍尔木兹海峡的未来管理方案及永久解决办法将在适当时机推进落实。",
-            "date_modified": "2026-08-25T16:24:55.000Z"
-        },
-        {
-            "id": 5058386,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkk2237268.d.html",
-            "title": "阿曼外交部长：将与地区伙伴进行讨论，以支持和平与合作、稳定及航行自由。",
-            "date_modified": "2026-08-25T16:24:39.000Z"
-        },
-        {
-            "id": 5058385,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5464488.d.html",
-            "title": "  阿曼外交部长：很快将宣布霍尔木兹海峡临时通行通道以及恢复航行安全的实操安排。",
-            "date_modified": "2026-08-25T16:24:28.000Z"
-        },
-        {
-            "id": 5058384,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkk2236564.d.html",
-            "title": "【加拿大报复清单：覆盖逾700种美国商品 关税从15%到50%】加拿大将自9月8日起对700多种美国商品征收15%、25%和50%的反制关税。\n将被征收50%关税的美国商品包括钢材、铝、家具、高尔夫球杆、服装和服饰。\n反制措施适用于价值276亿加元（折合199亿美元）的美国进口产品，重点针对乳制品、家电、农用设备、纸浆和纸张以及电子产品。\n美元金额基于2024年的进口数据。\n主要商品类别包括：\n钢铝制品（50%）\n鱼类和水产品（25%）\n牛奶、奶油和乳清（50%）\n奶酪和凝乳（25%）\n蜂蜜、糖蜜和麦芽提取物（50%）\n香水和美容产品（50%）\n胶合板（50%）\n卫生纸、面巾纸、其它纸张和纸板（25%或50%）\n地毯（25%）\n服装（50%）\n家用电器，例如炉灶、冰箱、洗碗机和洗衣/烘干机（25%）\n散热器/暖气片（25%）、空调（15%）和热水器（25%）\n机械和工具（25%或50%）\n餐具（25%）\n农用设备（15% 或 25%）\n智能手机、显示器和视频游戏机（50%）\n铁路机车（25%）\n摩托车（50%）和拖车（25%）\n家具和灯具（25% 或 50%）\n高尔夫球杆、健身器材和钓鱼竿（50%）。",
-            "date_modified": "2026-08-25T16:24:03.000Z"
-        },
-        {
-            "id": 5058383,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkk2234376.d.html",
-            "title": "特朗普：美国即将在中东及海湾地区大赚一笔。",
-            "date_modified": "2026-08-25T16:22:20.000Z"
-        },
-        {
-            "id": 5058382,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5461030.d.html",
-            "title": "【柬埔寨湄公河流域遭遇洪灾】柬埔寨国家灾害管理委员会发言人8月25日表示，受台风“沙德尔”影响，该国北部桔井省、特本克蒙省、上丁省和磅湛省的湄公河流域自上周末以来遭受严重洪灾。（新华社）",
-            "date_modified": "2026-08-25T16:21:33.000Z"
-        },
-        {
-            "id": 5058381,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqhkh5458726.d.html",
-            "title": "【日本推动AI军事应用 美相关企业加速进入日防务市场】近来，日本“新型军国主义”妄动不断。日本政府主动推动军工体系扩张，从传统军工巨头向民间科技企业渗透，包括美国的人工智能企业也正在寻求进入日本市场。近日，在位于美国纽约郊区的一处严格保密设施内，日媒记者亲身体验了一场人工智能还原的无人机攻击训练。该公司正推动将这套训练系统引入日本，并已与一家和日本政府存在业务往来的军事咨询公司展开洽谈。随着人工智能与无人机技术不断发展，相关企业正加速进入日本防务市场。（央视新闻）",
-            "date_modified": "2026-08-25T16:19:22.000Z"
-        },
-        {
-            "id": 5058380,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqaak5586463.d.html",
-            "title": "南非基础设施储备项目规模自2020年以来扩大至原先五倍，未来12‑18个月预计将有165亿美元项目进入招标采购阶段。",
-            "date_modified": "2026-08-25T16:16:25.000Z"
-        },
-        {
-            "id": 5058379,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqaak5585836.d.html",
-            "title": "SpaceX在路易斯安那州的一场活动上表示，该公司将在路易斯安那州南部建造一座新的星舰发射场。",
-            "date_modified": "2026-08-25T16:15:54.000Z"
-        },
-        {
-            "id": 5058378,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqaak5580120.d.html",
-            "title": "【短视频文案引争议，德芙致歉】德芙发表致歉声明：“针对近日德芙官方旗舰店某短视频文案引发的批评与讨论，我们深感抱歉。经核查，该短视频由第三方店铺运营团队创作并发布，未严格执行品牌方的内容审核流程。涉事文案在表达方式和价值导向上存在明显不当，与德芙一直努力传递的真诚、温暖和尊重的品牌理念不符。事件发生后，店铺客服团队对消费者质疑作出了不恰当的回应。目前，已采取以下整改措施：第一时间下架涉事短视频；进一步加强对相关责任人员的必要培训，和对合作运营团队的管理；严格落实内容发布的审核机制，提升消费者的品牌体验。 ”",
-            "date_modified": "2026-08-25T16:09:54.000Z"
-        },
-        {
-            "id": 5058377,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqaak5579164.d.html",
-            "title": "Instagram负责人亚当·莫塞里已抵达法院，出席美国各州指控Meta的庭审。",
-            "date_modified": "2026-08-25T16:08:56.000Z"
-        },
-        {
-            "id": 5058376,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqaan2351479.d.html",
-            "title": "巴西政府将把汽油补贴延长至9月9日。",
-            "date_modified": "2026-08-25T16:08:41.000Z"
-        },
-        {
-            "id": 5058375,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqaak5576614.d.html",
-            "title": "国际货币基金组织（IMF）将于8月26日‑9月2日审议乌克兰贷款项目。",
-            "date_modified": "2026-08-25T16:06:19.000Z"
-        },
-        {
-            "id": 5058374,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqaak5575665.d.html",
-            "title": "明晟公司（MSCI）表示，将继续对存在可投资性问题的土耳其证券进行逐案审查。",
-            "date_modified": "2026-08-25T16:05:18.000Z"
-        },
-        {
-            "id": 5058373,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqaan2347910.d.html",
-            "title": "明晟公司（MSCI）表示，在听取投资者反馈、开展可投资性分析后，决定暂不将三只证券按提议纳入明晟土耳其小盘股指数。",
-            "date_modified": "2026-08-25T16:04:58.000Z"
-        },
-        {
-            "id": 5058372,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqaan2347687.d.html",
-            "title": "Anthropic推出500万美元人工智能用户福利资助项目。",
-            "date_modified": "2026-08-25T16:04:45.000Z"
-        },
-        {
-            "id": 5058371,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqaan2345376.d.html",
-            "title": "【近东救济工程处：以色列强闯联合国设施“不可接受”】当地时间25日，联合国近东巴勒斯坦难民救济和工程处（近东救济工程处）发表声明，称以色列方面强闯位于耶路撒冷北部、属于该机构的一处培训中心“未经授权且令人严重关切”，并予以明确谴责。",
-            "date_modified": "2026-08-25T16:02:49.000Z"
-        },
-        {
-            "id": 5058370,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqaan2343364.d.html",
-            "title": "全美汽车工人联合会（UAW）称，反对在贸易问题上对加拿大采取任何升级对抗的举措。",
-            "date_modified": "2026-08-25T16:01:03.000Z"
-        },
-        {
-            "id": 5058369,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-26/detail-inipqaak5569771.d.html",
-            "title": "消息人士：Anthropic预计向投资者披露，其整体潜在市场规模(TAM)超30万亿美元。",
-            "date_modified": "2026-08-25T16:00:09.000Z"
-        },
-        {
-            "id": 5058368,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-25/detail-inipqaan2342090.d.html",
-            "title": "  加拿大工业部长乔利表示，在特朗普发出汽车行业相关威胁后，已与福特、本田、丰田等企业进行了沟通。",
-            "date_modified": "2026-08-25T15:59:53.000Z"
-        },
-        {
-            "id": 5058367,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-25/detail-inipqaak5565241.d.html",
-            "title": "【中美1.5轨对话代表期待双方加强务实合作】8月25日，由中共中央对外联络部和美国亚洲协会共同主办的第三届中美1.5轨对话在北京举行，主题为“建设性战略稳定——新时代中美务实合作”。中方有关部门、地方政府、智库、高校以及美国战略界、工商界约40名中外代表参加。（新华社）",
-            "date_modified": "2026-08-25T15:54:13.000Z"
-        },
-        {
-            "id": 5058366,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-25/detail-inipqaan2336329.d.html",
-            "title": "加拿大工业部长乔利：关税针对（美国）特定州，意在施加政治压力。",
-            "date_modified": "2026-08-25T15:52:24.000Z"
-        },
-        {
-            "id": 5058365,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-25/detail-inipqaan2334858.d.html",
-            "title": "加拿大财政部长：加拿大的报复性关税具备策略性，且分寸得当。",
-            "date_modified": "2026-08-25T15:50:35.000Z"
-        },
-        {
-            "id": 5058364,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-25/detail-inipqaan2332748.d.html",
-            "title": "美国加州总检察长办公室表示，Instagram负责人亚当·莫塞里预计将在今日各州针对Meta的庭审中出庭作证。",
-            "date_modified": "2026-08-25T15:47:45.000Z"
         }
     ]
 }
