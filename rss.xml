@@ -4,11 +4,185 @@
         <title>sina news</title>
         <link>https://abuqi.github.io/sina-news</link>
         <description>sina news zhibo</description>
-        <lastBuildDate>Sun, 04 Oct 2026 17:23:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Oct 2026 21:07:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://abuqi.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：OpenAI 首席执行官山姆·奥特曼在人工智能风险问题上与 Anthropic 立场出现分歧。奥特曼表示，他并不认同存在 “极高毁灭性风险”。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-05/detail-iniuciqr9863641.d.html</link>
+            <guid>5125427</guid>
+            <pubDate>Sun, 04 Oct 2026 21:07:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【警告AI失控的前Anthropic研究员将出席纽约听证会】曾在Anthropic任职的前研究员雅各布·考克森将于周一出席纽约市议会的一场听证会，与全球一些大型AI公司的代表同场作证，雅各布·考克森曾警告称，人工智能可能变得过于强大，以至于人类无法控制。据知情人士透露，应纽约市议会议长朱莉·梅宁的要求，考克森将出席此次听证会。目前，纽约市议员正在考虑一系列法案，旨在围绕这项技术建立安全保障机制。考克森上月离开Anthropic，并对开发越来越强大AI的竞赛发出严厉警告，指责前雇主Anthropic和OpenAI是在“拿我们的生命下注”。他已确认计划于周一出席听证会作证。此次听证会将让一些业内最直言不讳的批评者与Anthropic、OpenAI、Alphabet旗下谷歌以及Meta Platforms的代表同场出席。据其中一名知情人士透露，前谷歌DeepMind研究员亚历克斯·特纳以及AI Futures Project执行董事、前OpenAI研究员丹尼尔·科科塔伊洛也预计将出席作证。该人士称，上述四家大型AI公司将派出负责政策和安全事务的官员参加听证会。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-05/detail-iniucchv6765366.d.html</link>
+            <guid>5125426</guid>
+            <pubDate>Sun, 04 Oct 2026 21:01:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美海岸警卫队继续搜寻失事飞机机上人员】美国海岸警卫队东北区司令马特·莱克4日在新闻发布会上说，对3日失事飞机机上6人和黑匣子的搜寻工作仍在继续，鉴于飞机残骸涉及范围非常广，工作难度大。莱克说，首要任务是找到6名机上人员，下一步是寻找飞机黑匣子。发现飞机残骸的地方距马萨诸塞州楠塔基特岛海岸约32公里，该区域水深24至28米。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-05/detail-iniuccht9992825.d.html</link>
+            <guid>5125425</guid>
+            <pubDate>Sun, 04 Oct 2026 21:01:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【波黑公布主席团成员选举初步结果】当地时间10月4日晚，波黑中央选举委员会公布波黑主席团选举初步结果，戴尼斯·贝契罗维奇（Denis Bećirović）、达里亚娜·菲利波维奇（Darijana Filipović）、热莉卡·茨维亚诺维奇（Željka Cvijanović）分别在波什尼亚克族、克罗地亚族、塞尔维亚族候选人中领先。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-05/detail-iniuccht9991925.d.html</link>
+            <guid>5125424</guid>
+            <pubDate>Sun, 04 Oct 2026 20:58:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西总统选举初步计票结果：已统计 5% 选票，博索纳罗得票率 50.3%，卢拉 41.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-05/detail-iniucchv6761195.d.html</link>
+            <guid>5125421</guid>
+            <pubDate>Sun, 04 Oct 2026 20:42:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国撤回部署在英国的B-1轰炸机】当地时间10月4日，据美国方面消息，美国已将部署在英国皇家空军费尔福德基地的全部B-1轰炸机撤回美国。美方作出这一决定，是出于对针对该基地疑似恐怖袭击阴谋的安全担忧。消息称，美国此前将位于伦敦西北部的费尔福德基地作为对伊朗发动轰炸行动的枢纽。在近期撤离前，共有12架B-1轰炸机部署在该基地。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-05/detail-iniucchv6760889.d.html</link>
+            <guid>5125420</guid>
+            <pubDate>Sun, 04 Oct 2026 20:42:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI首席产品官Tibo：未来 28 天内，我们每天要么推出一项对大多数 Codex / 工作用户来说显著且相关的改进，要么进行一次完整重置。改进之旅正式开启。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-05/detail-iniucchv6759634.d.html</link>
+            <guid>5125414</guid>
+            <pubDate>Sun, 04 Oct 2026 20:36:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美铜暗盘突破6.6美元，日内涨幅0.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-05/detail-iniuccht9984973.d.html</link>
+            <guid>5125408</guid>
+            <pubDate>Sun, 04 Oct 2026 20:30:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一油轮在也门西南部海域航行时附近发生多次爆炸】当地时间10月4日，英国海上贸易行动办公室（UKMTO）发布通报称，一艘油轮在也门西南部塔伊兹省的红海港口城市穆哈以南约60海里海域航行时，发现船只附近发生多次爆炸。UKMTO称，目前船员安全，尚未报告环境影响。有关部门正在对事件展开调查。UKMTO同时提醒过往船只谨慎航行，并报告任何可疑活动。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-05/detail-iniucchv6755811.d.html</link>
+            <guid>5125404</guid>
+            <pubDate>Sun, 04 Oct 2026 20:25:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  巴西总统选举初步计票结果：已统计 1.23% 选票，博索纳罗得票率 48.85%，卢拉得票率 42.50%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-05/detail-iniucchv6755723.d.html</link>
+            <guid>5125403</guid>
+            <pubDate>Sun, 04 Oct 2026 20:24:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：白宫正在监测俄罗斯境内疑似鼠疫爆发事件。白宫表示已知晓相关情况，并正在评估应对方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-05/detail-iniucchv6754651.d.html</link>
+            <guid>5125400</guid>
+            <pubDate>Sun, 04 Oct 2026 20:21:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列交通部收紧对赴以航班外国机组人员限制】当地时间4日获悉，以色列方面消息称，鉴于近期发生的阿曼籍副驾驶袭击迪拜航空客机机长事件，以色列交通部日前向外国航空运营商发出通知，严禁拥有伊朗、伊拉克、黎巴嫩、阿曼、巴基斯坦、卡塔尔和沙特等27国单一或双重国籍的机组人员执飞或搭乘赴以航班。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-05/detail-iniucchv6754042.d.html</link>
+            <guid>5125398</guid>
+            <pubDate>Sun, 04 Oct 2026 20:19:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴西投票站关闭 计票工作即将开始】巴西各投票站已于当地时间下午5点关闭，大选计票工作应很快开始。巴西选民周日投票选举新一任总统，此外还将选举26个州和一个联邦区的州长、参议院81名议员中的54名、众议院全部513名议员，以及约1,000名州和地区议员。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-05/detail-iniucchv6751317.d.html</link>
+            <guid>5125393</guid>
+            <pubDate>Sun, 04 Oct 2026 20:12:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国已从英国空军基地撤回所有B-1轰炸机。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-05/detail-iniucchv6747565.d.html</link>
+            <guid>5125378</guid>
+            <pubDate>Sun, 04 Oct 2026 19:57:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  日本 Rapidus 公司将协助 17 家企业为其客户开展芯片设计工作，合作方包括东芝旗下子公司东芝信息系统（日本）、大日本印刷、凸版印刷及其他企业。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-05/detail-iniucchv6746814.d.html</link>
+            <guid>5125377</guid>
+            <pubDate>Sun, 04 Oct 2026 19:52:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：施耐德电气接近达成一项交易，拟以 200 亿美元收购工业软件企业 PTC。交易最早可能于周一公布。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-05/detail-iniucchv6742926.d.html</link>
+            <guid>5125376</guid>
+            <pubDate>Sun, 04 Oct 2026 19:36:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  奥地利副总理：财政部长将于明年初接替他出任副总理。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-05/detail-iniuccht9968452.d.html</link>
+            <guid>5125373</guid>
+            <pubDate>Sun, 04 Oct 2026 19:30:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以媒：迪拜航空副驾驶称原计划驾机撞向以机场航站楼】据多家以色列媒体4日报道，迪拜航空公司客机驾驶舱冲突事件中的阿曼籍副驾驶哈马姆·哈马米接受审讯时称，他原本计划驾机撞向以色列特拉维夫本-古里安机场航站楼。据以色列第12频道报道，哈马米选择在客机飞至约旦上空时袭击机长，原计划让飞机正常飞行至快要抵达本-古里安机场、以军机来不及实施拦截时，驾机撞向机场航站楼。受伤机长不惜一切代价打开驾驶舱门，挫败了哈马米的企图。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-05/detail-iniuccht9966590.d.html</link>
+            <guid>5125364</guid>
+            <pubDate>Sun, 04 Oct 2026 19:23:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄乌相互升级威胁 俄警告驻基辅外交人员面临致命风险】在乌克兰总统泽连斯基誓言将进一步加强对俄罗斯炼油厂的打击之后，俄罗斯表示，将加大对乌克兰基础设施的打击力度。之前一天，俄罗斯外交部还警告称，身在基辅的外交人员和外国官员处于“致命危险”之中。俄罗斯国防部周日表示：“俄罗斯武装力量将加大对基辅及乌克兰其他地区军事和军工设施以及相关基础设施的打击力度。”俄罗斯国防部援引了泽连斯基接受采访时的言论。这篇采访于周日刊发，泽连斯基在采访中表示，乌克兰必须通过打击俄罗斯炼油厂来回应针对能源基础设施的袭击，因为这些炼油厂“为他们进行这场战争提供资金”。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-05/detail-iniuccht9965004.d.html</link>
+            <guid>5125357</guid>
+            <pubDate>Sun, 04 Oct 2026 19:18:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国海上贸易行动办公室（UKMTO）：据报告船员安全，暂未发现造成环境影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-05/detail-iniuccht9958469.d.html</link>
+            <guid>5125344</guid>
+            <pubDate>Sun, 04 Oct 2026 18:56:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国海上贸易行动办公室（UKMTO）：一艘油轮目击船体附近发生多起爆炸。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-05/detail-iniucchv6730948.d.html</link>
+            <guid>5125343</guid>
+            <pubDate>Sun, 04 Oct 2026 18:55:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国海上贸易行动办公室（UKMTO）：收到一则发生在也门穆哈以南 60 海里海域的事件报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-05/detail-iniuccht9958391.d.html</link>
+            <guid>5125342</guid>
+            <pubDate>Sun, 04 Oct 2026 18:55:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲债市重燃传染风险，大摩：若持续巨额波动，恐引起央行关注】在一轮抛售潮勾起人们对十五年前欧元区债务危机的记忆后，交易员正对欧洲政府债券市场的传染迹象保持高度警惕。当某一主权债券市场的金融压力蔓延至其他市场——即使这种蔓延看似缺乏充分理由——就会引发令央行担忧的混乱价格波动，并迫使它们在极端情况下出手干预。这正是2011-12年欧元区债务危机的典型特征。摩根士丹利投资管理公司固定收益联席主管Jeff Mueller表示：“我们开始看到传染的初步迹象。如果10月1日观察到的剧烈价格波动持续一段时间，这可能会引起政策制定者的关注。”]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-05/detail-iniuawyw0086435.d.html</link>
+            <guid>5125339</guid>
+            <pubDate>Sun, 04 Oct 2026 18:43:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周一悉尼盘初，美元兑G10货币报价持稳。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-05/detail-iniuawyw0081654.d.html</link>
+            <guid>5125335</guid>
+            <pubDate>Sun, 04 Oct 2026 18:28:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据伊通社（IRNA）：不久前，伊朗格什姆岛听到来自海上方向的爆炸声。岛上未见任何遭到撞击的痕迹。截至目前，当地消息源尚未向媒体通报事件详情。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-05/detail-iniuawyw0078806.d.html</link>
+            <guid>5125334</guid>
+            <pubDate>Sun, 04 Oct 2026 18:19:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗石油部长辞职 伊朗国家石油公司CEO任代理部长】当地时间4日，伊朗总统办公室官员表示，在接受石油部长帕克内贾德的辞呈后，伊朗总统佩泽希齐扬已任命伊朗国家石油公司首席执行官哈米德·博尔德为伊朗石油部代理部长。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-05/detail-iniuawyx6840958.d.html</link>
+            <guid>5125333</guid>
+            <pubDate>Sun, 04 Oct 2026 17:52:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院少数党领袖舒默要求安防科技公司Flock Safety 在 10 月 16 日前答复有关数据使用的问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-05/detail-iniuawyw0067040.d.html</link>
+            <guid>5125332</guid>
+            <pubDate>Sun, 04 Oct 2026 17:47:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以总理下令对外国民航客机赴以安保工作进行彻底审查】当地时间10月4日晚间，以色列总理办公室通过社交账号发布声明称，以总理内塔尼亚胡已指示该国国家安全委员会主席什穆埃尔·本·埃兹拉，要求其任命一名专门审查员，针对外国民用航空赴以飞行的所有安保环节展开全面、彻底的深入审查。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-05/detail-iniuawyx6835261.d.html</link>
+            <guid>5125331</guid>
+            <pubDate>Sun, 04 Oct 2026 17:33:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【尼加拉瓜宣布退出中美洲议会】尼加拉瓜外交部3日签署公告，宣布立即退出中美洲议会。尼加拉瓜外交部表示，“在充分行使主权的情况下”做出这一决定，该决定“立即生效”。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-10-05/detail-iniuawyw0060076.d.html</link>
+            <guid>5125330</guid>
+            <pubDate>Sun, 04 Oct 2026 17:25:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[中国地震台网自动测定：10月05日01时19分在四川宜宾市高县附近（北纬28.56度，东经104.66度）发生3.7级左右地震，最终结果以正式速报为准。]]></title>
             <link>https://finance.sina.cn/7x24/2026-10-05/detail-iniuawyw0059028.d.html</link>
@@ -134,179 +308,6 @@
             <link>https://finance.sina.cn/7x24/2026-10-04/detail-iniuassz6904647.d.html</link>
             <guid>5125307</guid>
             <pubDate>Sun, 04 Oct 2026 14:39:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源部长：欧洲释放柴油将推动柴油价格在整个冬季下行。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-04/detail-iniuassz6904166.d.html</link>
-            <guid>5125306</guid>
-            <pubDate>Sun, 04 Oct 2026 14:37:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源部长赖特：不能保证冲突中的（柴油供应），但美国正试图增加柴油供应。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-04/detail-iniuassy0130684.d.html</link>
-            <guid>5125305</guid>
-            <pubDate>Sun, 04 Oct 2026 14:36:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心（NHC）表示，飓风“雷切尔”强度进一步小幅增强。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-04/detail-iniuassz6902917.d.html</link>
-            <guid>5125304</guid>
-            <pubDate>Sun, 04 Oct 2026 14:35:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源部长赖特：柴油受到俄乌冲突影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-04/detail-iniuassy0129754.d.html</link>
-            <guid>5125303</guid>
-            <pubDate>Sun, 04 Oct 2026 14:33:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源部长赖特：霍尔木兹海峡的石油供应持续增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-04/detail-iniuassy0129465.d.html</link>
-            <guid>5125302</guid>
-            <pubDate>Sun, 04 Oct 2026 14:33:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质调查局消息，巴拿马布里卡以南295公里处发生5.0级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-04/detail-iniuassy0127968.d.html</link>
-            <guid>5125301</guid>
-            <pubDate>Sun, 04 Oct 2026 14:29:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫国家经济委员会主任哈塞特：虽然不同意加息，但尊重沃什出于正确原因所做的决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-04/detail-iniuassz6897031.d.html</link>
-            <guid>5125300</guid>
-            <pubDate>Sun, 04 Oct 2026 14:19:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫国家经济委员会主任哈塞特：鲍威尔该离开了。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-04/detail-iniuanma0253998.d.html</link>
-            <guid>5125299</guid>
-            <pubDate>Sun, 04 Oct 2026 14:17:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫国家经济委员会主任哈塞特：我们尊重沃什与民众一起投票支持提高利率的决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-04/detail-iniuanma0253768.d.html</link>
-            <guid>5125298</guid>
-            <pubDate>Sun, 04 Oct 2026 14:16:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美团：国庆假期“学艺式旅行”持续走热】10月4日，美团发布数据显示，国庆假期前三天，多类兴趣课程搜索热度上升，“学艺式旅行”成为城市度假新选择，平台上“咖啡制作体验”搜索热度同比上涨65%，“泥塑陶艺课程”上涨84%，“烘焙课程”上涨125%，“化妆私教课”搜索热度上涨377%。多地“网球培训”搜索热度同比增长超100%，“普拉提培训”搜索量同比上涨133%，“攀岩体验课”搜索量同比上涨177%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-04/detail-iniuanmc7025775.d.html</link>
-            <guid>5125297</guid>
-            <pubDate>Sun, 04 Oct 2026 14:15:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【联合国人道主义车队在苏丹南部遇袭 1名司机遇难】当地时间10月4日，联合国世界粮食计划署发布声明称，两辆隶属于该机构的卡车3日在苏丹南部南科尔多凡州遭到袭击，造成1名卡车司机遇难。声明表示，车辆遇袭时正从南科尔多凡州第二大城市迪灵驶往该州首府卡杜格利，车上满载粮食等人道主义援助物资，且车身有明确的人道主义车辆标识。声明没有提及袭击事件的肇事者，世界粮食计划署呼吁对事件展开迅速、公正的调查，并追究相关人员的责任。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-04/detail-iniuanma0250818.d.html</link>
-            <guid>5125296</guid>
-            <pubDate>Sun, 04 Oct 2026 14:11:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯国防部：我们在黑海敖德萨港附近海域袭击了两艘载有乌克兰军事装备的货船。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-04/detail-iniuanmc7022836.d.html</link>
-            <guid>5125295</guid>
-            <pubDate>Sun, 04 Oct 2026 14:10:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泽连斯基披露“Bars”拦截无人机进展，将获德方资助交付2000架】乌克兰总统泽连斯基披露，德乌联合生产的“Bars”远程拦截无人机在实战中拦截成功率约30%，乌方将接收2000架该型装备。该机型被定位为接近导弹性能的远程拦截无人机，目前拦截率仍在持续改进中。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-04/detail-iniuanmc7018358.d.html</link>
-            <guid>5125294</guid>
-            <pubDate>Sun, 04 Oct 2026 14:01:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗军方称将提升导弹射程】据伊朗法尔斯通讯社4日报道，伊朗军方发言人阿克拉米尼亚说，伊朗军方已决定着手提升其导弹射程。 阿克拉米尼亚在接受该媒体采访时表示，作出这一决策的原因是伊朗从与美国和以色列的战事中汲取了“教训”。“在这场战事中，我们得出的结论是必须增加导弹射程，目前我们已经走上了这条路。” 阿克拉米尼亚还表示，“敌人”已将兵力和军舰部署在“距离伊朗海岸更远的地方”，最远可达1000公里，因此伊朗“将继续升级导弹”。他还强调，伊朗在提升导弹速度和精度方面已取得显著进展。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-04/detail-iniuanma0245287.d.html</link>
-            <guid>5125293</guid>
-            <pubDate>Sun, 04 Oct 2026 13:59:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列将把汽油消费税每升下调半个谢克尔。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-04/detail-iniuanma0243810.d.html</link>
-            <guid>5125292</guid>
-            <pubDate>Sun, 04 Oct 2026 13:54:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[基辅表示，乌克兰与德国已就通过德国基础设施供应液化天然气，以及吸引欧盟企业参与乌克兰天然气存储设施运营展开讨论。]]></title>
-            <guid>5125291</guid>
-            <pubDate>Sun, 04 Oct 2026 13:46:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【刘小涛率团在阿联酋考察访问】9月29日至10月2日，江苏省长刘小涛率江苏省代表团在阿联酋考察访问，深入贯彻习近平外交思想，认真落实中阿两国领导人达成的重要共识，持续深化交流往来与务实合作，携手实现互利共赢、共同发展。刘小涛分别会见了阿布扎比国家石油公司董事总经理兼首席执行官、阿联酋工业和先进技术部部长苏尔坦，阿联酋对外贸易部部长宰尤迪，阿布扎比经济发展局主席扎阿比。刘小涛说，在中阿全面战略伙伴关系引领下，江苏与阿联酋各领域合作成果丰硕。期待双方进一步拓展先进制造业、绿色能源、新兴产业、人工智能等领域合作，协同推进中阿（联酋）产能合作示范园建设，持续深化经贸往来，为构建中阿命运共同体贡献力量。阿方表示，与江苏合作基础扎实、前景广阔，将积极拓展交流对接，打造更多标志性合作项目。阿联酋拥有全球规模领先的主权投资机构。刘小涛分别会见穆巴达拉投资公司董事总经理兼首席执行官哈勒敦、阿布扎比投资局管理委员会主席马吉德，热忱欢迎阿联酋投资机构赴江苏展业兴业，加大资源布局力度，深化金融和资本市场合作，共享江苏高质量发展机遇。阿方表示，江苏是创新投资的理想目的地，愿持续投资中国、深耕江苏，不断提升双方合作层次与水平。（微讯江苏）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-04/detail-iniuanmc7011365.d.html</link>
-            <guid>5125290</guid>
-            <pubDate>Sun, 04 Oct 2026 13:41:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊拉克西部“伊斯兰国”遗留炸弹爆炸致2人死亡】伊拉克国防部4日发表声明说，伊安全部队在伊拉克西部沙漠地区开展搜查行动期间，极端组织“伊斯兰国”遗留的简易爆炸装置发生爆炸，造成2名士兵死亡、2名士兵受伤。声明说，伤者已被送往附近医院救治，军方继续在该区域开展行动，搜捕极端组织的残余成员。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-04/detail-iniuanmc7009128.d.html</link>
-            <guid>5125289</guid>
-            <pubDate>Sun, 04 Oct 2026 13:37:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗教授：革命领袖身体状况良好】伊朗语言与文学学院院长在出席外交部长赛义德·阿巴斯·阿拉格齐姐姐葬礼期间，就记者关于革命领袖健康状况的提问表示：他很好。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-04/detail-iniuanma0234967.d.html</link>
-            <guid>5125288</guid>
-            <pubDate>Sun, 04 Oct 2026 13:33:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特市场监管机构表示，可能出台更多IPO监管规定。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-04/detail-iniuanma0233263.d.html</link>
-            <guid>5125287</guid>
-            <pubDate>Sun, 04 Oct 2026 13:29:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特资本市场管理局仍在研究放宽外资持股限制的相关调整。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-04/detail-iniuanma0233211.d.html</link>
-            <guid>5125286</guid>
-            <pubDate>Sun, 04 Oct 2026 13:29:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳市解除所有雷雨大风和暴雨预警信号】影响我市的雷雨云团已移出，深圳市气象台2026年10月04日21时20分解除所有雷雨大风和暴雨预警信号，市民仍需注意远离河道和危险边坡等。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-04/detail-iniuanmc7002662.d.html</link>
-            <guid>5125285</guid>
-            <pubDate>Sun, 04 Oct 2026 13:22:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【胡塞武装称对沙特阿美设施发动袭击】也门胡塞武装军事发言人叶海亚·萨雷亚4日发表声明说，该组织向沙特阿美公司位于利雅得和胡赖斯地区的两处设施发动了导弹和无人机袭击。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-04/detail-iniuanma0229932.d.html</link>
-            <guid>5125284</guid>
-            <pubDate>Sun, 04 Oct 2026 13:21:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普提名约翰·科尔为美总统人质事务特使】当地时间10月4日，美国总统特朗普在社交媒体平台“真实社交”发文宣布，提名约翰·科尔（John Coale）担任美国总统人质事务特使。特朗普同时表示，现任美国总统人质事务特使亚当·伯勒尔此前已促成196名人质获释，今后将继续担任高级顾问，协助处理其他事务。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-04/detail-iniuanmc7002041.d.html</link>
-            <guid>5125283</guid>
-            <pubDate>Sun, 04 Oct 2026 13:20:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗表示愿推动也门胡塞武装与沙特对话 】伊朗外交部发言人巴加埃4日说，伊朗愿推动也门胡塞武装与沙特阿拉伯通过对话解决冲突。据伊朗学生通讯社报道，巴加埃在当天举行的新闻发布会上作上述表态。巴加埃表示，解决也门问题的办法不是加剧经济封锁，也不是轰炸。伊朗方面认为，胡塞武装和沙特应以先前达成的和平路线图为基础开展对话，伊朗“愿提供一切帮助，推动这一进程”。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-04/detail-iniuanmc6999434.d.html</link>
-            <guid>5125282</guid>
-            <pubDate>Sun, 04 Oct 2026 13:15:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫国家经济委员会主任哈塞特：抵押贷款利率必须下降，“绝对属实”。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-04/detail-iniuanma0224522.d.html</link>
-            <guid>5125281</guid>
-            <pubDate>Sun, 04 Oct 2026 13:10:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳航空：目前航班延误有加剧趋势，将密切关注天气变化】深圳市气象台2026年10月04日19时45分将分区雷雨大风黄色预警信号扩展至全市，受雷雨云团影响，预计深圳市中东部地区未来2小时阵风将达8级或以上，并伴有强雷电。随后，深圳航空发布乘机提示：“目前强对流天气已覆盖深圳机场及航路，航班运行受到直接影响，航班延误有加剧趋势，我们将密切关注天气变化，全力保障旅客出行。”]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-04/detail-iniuanmc6995714.d.html</link>
-            <guid>5125280</guid>
-            <pubDate>Sun, 04 Oct 2026 13:08:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[也门胡塞武装表示，他们已使用弹道导弹和无人机袭击了位于利雅得和库赖斯的沙特阿美设施，造成大面积火灾。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-04/detail-iniuanma0220612.d.html</link>
-            <guid>5125279</guid>
-            <pubDate>Sun, 04 Oct 2026 13:03:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊拉克纳杰夫与伊朗间航班复航】伊拉克纳杰夫国际机场3日宣布，4日起恢复与伊朗之间的航班往来。此前，受美国制裁影响，伊拉克多个机场暂停所有往返伊朗的航班。纳杰夫机场官网公布的航班时刻表显示，4日共有4组往返伊朗的航班，分别为伊朗首都德黑兰和伊朗东北部城市马什哈德。机场管理部门在声明中说，预计未来数日内，往返伊朗的航班数量将逐步增加。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-10-04/detail-iniuanmc6992908.d.html</link>
-            <guid>5125278</guid>
-            <pubDate>Sun, 04 Oct 2026 13:02:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
